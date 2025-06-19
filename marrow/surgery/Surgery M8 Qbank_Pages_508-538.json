@@ -1,0 +1,440 @@
+{
+  "chapter": "Large Intestine",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is the earliest sign in Crohn's disease?",
+      "options": {
+        "A": "Cobblestone appearance",
+        "B": "Deep fissured ulcers",
+        "C": "Rose-thorn appearance",
+        "D": "Aphthous ulcers"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements is true about Crohn's disease?",
+      "options": {
+        "A": "For effective treatment of a Crohn's mass, only antibiotics are prescribed.",
+        "B": "Symptomatic relapse after surgery is not related to the presence of disease during resection.",
+        "C": "The proximal ileum is most commonly involved in Crohn's disease.",
+        "D": "On endoscopic examination, continuous lesions are visualised, which are diagnostic of Crohn'sdisease."
+      },
+      "correct_answer": "",
+      "explanation": "Symptomatic relapse of Crohn's disease after surgery is not related to the presence of the diseaseduring resection.The course of the disease after surgery is unpredictable since surgery does not cure Crohn'sdisease. Instead, the probability of relapse increases with the time since resection.Other options:Option A: Antibiotics alone cannot treat a Crohn's mass effectively. Abscesses can be treated withmetronidazole and ciprofloxacin and should also undergo drainage (and resection if needed).Option C: The terminal ileum is most commonly involved in Crohn's disease.Option D: On endoscopic examination, discontinuous \"skip\" lesions are visualized. These areirregular areas of inflamed mucosa that are ulcerated with mucopurulent exudate separated byintervening, normal-appearing intestinal mucosa.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 3,
+      "question": "A 40-year-old female patient presents with a 9-month history of weight loss, abdominalcramps, and intermittent diarrhea. On examination, a palpable mass in the right lowerquadrant of the abdomen is found. Stool cultures are normal. Colonoscopy shows thepresence of skip lesions. Biopsy showed the presence of non-caseating granulomas. What isthe most likely diagnosis?",
+      "options": {
+        "A": "Crohn's disease",
+        "B": "Ulcerative colitis",
+        "C": "Ileocecal tuberculosis",
+        "D": "Diverticulitis"
+      },
+      "correct_answer": "D",
+      "explanation": "520The clinical scenario and the biopsy showing the presence of non-caseating granulomas arediagnostic of Crohn's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 4,
+      "question": "508A 28-year-old patient was brought to the casualty ward with high fever and pain abdomen. Hehad a history of bloody diarrhea for several months. His past history was negative forlong-term medications and previous surgeries. The abdominal X-ray image obtained is shownbelow. What is the most probable diagnosis?",
+      "options": {
+        "A": "Toxic megacolon",
+        "B": "Volvulus",
+        "C": "Ogilvie syndrome",
+        "D": "Pneumatosis intestinalisL"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical scenario and the radiograph are suggestive of toxic megacolon.Toxic megacolon may present with fever, abdominal pain, and abdominal distension. Abdominalradiography shows transverse or right colonic dilation of &gt;6 cm and loss of haustrations. It isusually associated with ulcerative colitis as indicated by history of chronic bloody diarrhoea.It can be triggered by electrolyte imbalance and narcotics which interfere with gut motility.Features of secondary bacterial infecton and sepsis may be present. It can be complicated byintestinal perforation.It usually resolves with supportive treatment (correcting electrolyte imbalance, fluids, and bowelrest) and medical therapy which includes glucocorticoids, anti-inflammatory drugs, andantibiotics. However, an urgent colectomy is indicated in patients who do not show signs ofimprovement.●Indications for urgent surgery include:•• Frank intraperitoneal peritonitis, secondary to perforation• Life-threatening hemorrhage or increasing transfusion requirements⚫ Worsening systemic toxicity• Worsening colonic dilatationOther options:Option B: Volvulus occurs when the air-filled segment of the colon twists around the mesentery.The sigmoid colon is the most commonly involved part of the large intestine (90%). The patientcan present with abdominal distension, nausea and vomiting. X-ray abdomen shows a bent innertube or coffee bean appearance.D521Option C: Ogilvie syndrome, also known as colonic pseudo-obstruction is a functional disorderwith colonic dilatation without mechanical obstruction. It occurs commonly in hospitalizedpatients and is associated with narcotics, bed rest and comorbid disease. X-ray shows dilatation ofthe colon (predominantly transverse colon) with absent mechanical obstruction.SUPINEOption D: Pneumatosis intestinalis is the presence of gas within the bowel wall seen in any part ofthe GI tract but most commonly in the jejunum. It is a pathognomic feature of necrotizingenterocolitis. X-ray of the abdomen will show intramural gas in the bowel.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q4_img1_fe524a9e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp4_img1_ee0effe1.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 5,
+      "question": "You are doing an emergency laparotomy for a case of intestinal obstruction. Which organ willyou first visualize to know if this is a case of small bowel or large bowel obstruction?",
+      "options": {
+        "A": "Ileum",
+        "B": "Caecum",
+        "C": "Jejunum",
+        "D": "Sigmoid colon"
+      },
+      "correct_answer": "B",
+      "explanation": "The cecum is the first organ to be visualized to differentiate between the small and large bowel incases of intestinal obstruction.522Distension of the cecum will confirm large bowel involvement. The identification of a collapseddistal segment of the large bowel and its sequential proximal assessment will lead to theidentification of the cause.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 6,
+      "question": "A 55-year-old man presented to the OPD with complaints of intermittent constipation and asense of heaviness in his lower abdomen. His barium enema film is given below. Which of thefollowing statements is false about the pathology responsible for his condition?509",
+      "options": {
+        "A": "Commonly occurs along the mesenteric side of the colon",
+        "B": "Sigmoid colon is the most common site",
+        "C": "It is characterized by true diverticula",
+        "D": "Causes formation of pulsion diverticula"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario and X-ray film showing saw-toothed appearance of the colon aresuggestive of colonic diverticulosis. They are false diverticula.Diverticulosis refers to the herniation of the mucosa and muscularis mucosa through the colonicwall, usually at the point where the nutrient artery enters the colon (mesenteric side). Thecondition is usually asymptomatic until complications arise. They may be detected incidentally.On a barium X-ray, the colon with diverticular disease will have a saw-toothed appearance.Colonic diverticula are more often acquired than congenital. They are common in developedcountries that have a low fiber diet. A low fiber diet results in low stool volume. As the colongenerates higher intraluminal pressure to propel smaller volumes of stools, low stool volumescause an increase in colonic wall tension and segmentation of the colon.Prolonged colonic contractions and high pressures (directed radially along the colonic wall)results in the formation of pulsion diverticula. The sigmoid colon is the most common site.Note: True diverticulum involves the herniation of all the layers of the intestine whereas falsediverticulum involves the herniation of only the mucosa and submucosa.Vascular structureMesenteric TaeniaEpiploic AppendageOMARROWAnti-mesenteric TaeniaDiverticulumAnti-mesenteric Area",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q6_img1_cb9187cc.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp6_img1_aaa959b6.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is true regarding left-sided diverticulitis?",
+      "options": {
+        "A": "It is often an incidental finding during surgery",
+        "B": "Appendicitis is an important differential diagnosis",
+        "C": "Left sided diverticulitis is more common than right",
+        "D": "The anatomical location is given by the Hinchey classification"
+      },
+      "correct_answer": "C",
+      "explanation": "In the general population, left-sided diverticulitis is more common. The sigmoid colon (left colon)involvement is more common than the right colon involvement.523Diverticulitis is the inflammation and infection of the diverticulum. It most commonly presentswith•⚫ left lower abdominal pain (often termed as left-sided appendicitis)⚫ fever⚫ a change in bowel habits•anorexia, nausea•urinary urgency if there is an associated inflammation of the bladder etc.Right-sided diverticulitis occurs more often in younger patients of Asian descent than in otherpopulations and presents with pain in the right lower quadrant. Patients presenting with thesesymptoms are often thought to have acute appendicitis, and often the diagnosis of right-sideddiverticulitis is subsequently made in the operating room.The Hinchey classification is used to describe the severity of the diverticular disease, complicatedby perforation.Hinchey classification:Stage 1Stage 2Mesenteric or pericolic absceSSPelvic abscessStage 3Purulent peritonitisStage 4Fecal peritonitis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 8,
+      "question": "A 38-year-old man is brought to the casualty with severe right lower quadrant abdominalpain for the last two days. You suspect right-sided diverticulitis due to the relatively longhistory and lack of migration of pain. However, your co-resident is convinced it isappendicitis. Which is the best investigation to rule in your diagnosis?",
+      "options": {
+        "A": "USG",
+        "B": "Barium enema",
+        "C": "CT scan510",
+        "D": "Colonoscopy"
+      },
+      "correct_answer": "C",
+      "explanation": "Computed tomography (CT) scan of the abdomen and pelvis is now considered by most to be thestandard modality for the evaluation of acute diverticulitis.Contrast enema studies are the most accurate way to find out the colonic diverticula. However,because of the risks of extravasation of barium from the perforation and aggravation ofinflammation, it is avoided.In contrast to barium enema, a CT scan demonstrates both the intraluminal and extracolonicmanifestations of acute right-sided diverticulitis.CT findings include pericolic soft tissue stranding, colonic wall thickening and pericolic fatinfiltration (streaky fat).524Acute diverticulitisThickened and inflameddescending colonBarium enema in diverticulosis shows a saw-tooth appearance.OnCallRadiology.com",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp8_img1_7291887d.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 9,
+      "question": "While performing surgery on a patient who presented with clinical features suggestive ofperitonitis, a diverticular perforation is seen along with fecal peritonitis. What is theHinchey's stage?",
+      "options": {
+        "A": "Stage 1",
+        "B": "Stage 2",
+        "C": "Stage 3",
+        "D": "Stage 4"
+      },
+      "correct_answer": "",
+      "explanation": "Fecal peritonitis belongs to grade 4 in the Hinchey classification.Diverticulitis refers to the inflammation and infection associated with the diverticula. Hincheyclassification is the most commonly used classification for the severity and complication of acutediverticulitis. It is used additionally to guide the overall management of acute diverticulitis.Hinchey classification:Stage 1Mesenteric or pericolic absceSS525Hinchey classification:Stage 2Pelvic abscessStage 3Purulent peritonitisStage 4Fecal peritonitis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 10,
+      "question": "A 70-year-old man with past history of diabetes mellitus, hypertension, and chronicconstipation presented with right lower abdominal pain associated with fever. CT abdomenfindings are suggestive of acute diverticulitis with 6 cm fluid accumulation in the paracolicregion. What is the most appropriate management for this patient?",
+      "options": {
+        "A": "Oral antibiotics, bowel rest and continued monitoring",
+        "B": "iv antibiotics, bowel rest, and continued monitoring",
+        "C": "Laparotomy for abscess drainage and surgical resection",
+        "D": "CT guided percutaneous drainage with iv antibiotics"
+      },
+      "correct_answer": "D",
+      "explanation": "The elderly patient with multiple comorbidities and complicated acute diverticulitis (fluidcollection &gt;5 cm) should ideally be managed with CT-guided percutaneous drainage with ivantibiotics.Acute diverticulitis management:Outpatient care• Initiated for young patients with no comorbidities• It includes:•Liquid diet• Analgesia••Regular follow-upInpatient care• Should be initiated if CT shows complicated diverticulitis characterized by:• Perforation• Abscess formation• Obstruction or•Fistulization.• Can also be initiated if CT shows uncomplicated diverticulitis but the patient is of high risk suchas•Sepsis at presentation••Elderly patientImmunosuppression• Presence of comorbidities•• Failure of outpatient care• Inpatient care includes the following:• Bowel rest• IV fluids•Broad-spectrum IV antibiotics526• Antibiotic therapy can be continued with careful monitoring if fluid collection is &lt;5 cm•⚫ CT guided percutaneous drainage if antibiotic therapy fails or fluid collection is &gt; 5 cm.•Surgical exploration and resection if there is perforation, obstruction, or fistulizationRegular follow-up with imagingNote: Oral antibiotics have no proven benefit in the outpatient management of acuteuncomplicated diverticulitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 11,
+      "question": "A 55-year-old man is brought to the casualty with a history of fever and abdominal pain. Thepain was initially in the left lower quadrant for 2 days but is diffuse and severe for the past 4hours. The erect X-ray of the chest showed the presence of pneumoperitoneum. Emergencylaparotomy was performed. It showed the presence of perforated left-sided diverticulitis withfecal peritonitis. How will you manage the patient?",
+      "options": {
+        "A": "1 and 2",
+        "B": "1 and 5",
+        "C": "2 and 4",
+        "D": "2 and 3511"
+      },
+      "correct_answer": "C",
+      "explanation": "The clinical scenario is suggestive of fecal peritonitis due to perforation of left-sided diverticulitis.This is managed by Hartmann's procedure. It involves segmental resection, a proximal-endcolostomy, and closure of the rectal stump.If the perforation of the diverticulitis leads to a localized pericolic abscess formation, then it istreated with antibiotics alone or along with percutaneous drainage.Distal rectalHartmann procedurestump -Hartmann's pouchOMARROWProximal endcolostomy",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp11_img1_0bb83f32.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 12,
+      "question": "An elderly male patient presents to the hospital with complaints of abdominal pain, increasedfrequency of micturition, and passing of air bubbles in urine. He was diagnosed withdiverticulitis 2 years before and was treated with antibiotics. What is the most likelydiagnosis?",
+      "options": {
+        "A": "Coloenteric fistula",
+        "B": "Colocutaneous fistula",
+        "C": "Colovesical fistula",
+        "D": "Emphysematous cystitis"
+      },
+      "correct_answer": "C",
+      "explanation": "The history of diverticulitis and pneumaturia point towards a diagnosis of colovesical fistula. Thepatients present with the symptoms of urinary tract infection caused by colonic flora,pneumaturia (air bubbles in urine), and fecaluria (foul-smelling and brownish material in theurine).Complications of diverticular disease:Bleeding• Perforation leading to a pericolic abscess or generalized peritonitis527• Intestinal obstruction due to fibrosis• Fistula formation (colovesical, coloenteric, colovaginal)Emphysematous cystitis can also present with pneumaturia. It is caused by urinary tract infection(UTI) with a gas-forming organism, especially in people with diabetes or patients with urinarytract outflow obstruction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 13,
+      "question": "emergency withA CECT confirmed severe acute diverticulitis in a 34-year-old brought to thelower abdominal pain. A Foley's catheter was promptly placed to prevent a certaincomplication. Which of the following statements is false regarding the complication?",
+      "options": {
+        "A": "It may progress to pyelonephritis",
+        "B": "Contrast enema is used to identify the course the pathology",
+        "C": "Previous hysterectomy may increase the risk",
+        "D": "It more commonly occurs in females"
+      },
+      "correct_answer": "D",
+      "explanation": "The colovesical fistula is more common in men than in women because the uterus prevents thesigmoid from adhering to the bladder.Hence, females who have undergone hysterectomy are at increased risk.Clinical features of a colovesical fistula are:• Pneumaturia (flatus in urine)• Fecaluria (feces in urine)•Suprapubic pain⚫ Dysuria••Urgency•FrequencyGross hematuria (rare)Pneumaturia is usually appreciated toward the end of urination because the collection of gasusually sits at the top of the bladder. The finding pneumaturia or fecaluria is virtuallypathognomonic for urinary tract fistulas, and patients presenting with this condition should bepresumed to have a colovesical fistula and investigated accordingly.Over time, cystitis associated with a colovesical fistula may evolve to pyelonephritis.An abdominopelvic CT with oral or rectal contrast is the investigation of choice. A contrast enemamay be used to identify the course of the fistula.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient presented with fever, diarrhea, and abdominal pain. She has a history of recentintensive care unit admission for sepsis which required prolonged antibiotic therapy.Sigmoidoscopy findings are given below. Choose the false statement regarding the givencondition.512201052",
+      "options": {
+        "A": "Subtotal colectomy with end ileostomy is done in fulminant disease",
+        "B": "IV vancomycin is used for treatment of recurrent disease",
+        "C": "Fecal microbiota transplantation (FMT) is an emerging treatment option",
+        "D": "Stool sample is used for PCR detection of toxins"
+      },
+      "correct_answer": "B",
+      "explanation": "A history of diarrhea associated with prolonged antibiotic treatment and characteristic adherentpseudomembranes in the colon is highly suggestive of pseudomembranous colitis. OralFidaxomicin is commonly used in recurrent pseudomembranous colitis.The causative antibiotic agent must be discontinued and infection control measures must be takenfor all patients.•Initial episode - non severe: WBC ≤15,000/mm3, Creatinine &lt; 1.5 mg/dL• Oral Fidaxomicin (drug of choice) or Vancomycin• Oral Metronidazole can be given if Vancomycin/Fidaxomycin is not available528• Initial episode severe: &gt;15,000/mm3, Creatinine &gt;1.5 mg/dL• Oral Fidaxomicin or Vancomycin•Consider fecal microbiota transplantation• Initial episode - fulminant•⚫ Hypotension, ileus or megacolon• Oral vancomycin and IV metronidazole•Rectal Vancomycin can be used if ileus present•⚫ Overwhelming sepsis, colonic perforation, or peritonitis• Subtotal colectomy with end ileostomy•First recurrence• Repeat course of antibiotics for another 10-20 days• Oral Fidaxomicin(drug of choice) or Vancomycin can be used.• Repeated recurrence• Consider fecal microbiota transplantationOption A: Subtotal colectomy with end ileostomy is the procedure of choice for patients requiringsurgery for severe colitis or toxic megacolon. It allows for disease control, stabilization, andpreservation of reconstruction options for the future. Segmental colectomy, ileostomy, orcolostomy alone does not address the pancolonic nature of the disease.Option C: Fecal microbiota transplantation (FMT) is emerging as a promising treatment option forrecurrent and recalcitrant C. difficile infection. Using FMT, donor stool is administered to thepatient through one of a variety of described routes (nasogastric tube, colonoscopic lavage, orupper endoscopy) to restore colonic flora.Option D: Pseudomembranous colitis is caused by Clostridium difficile which is a gram-positive,spore-forming anaerobic microorganism. The pathogenesis is mediated by the enterotoxins - toxinA and toxin B. They can be detected in the stool using PCR",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q14_img1_c6446e8f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 15,
+      "question": "An elderly male patient is brought to the casualty with complaints of vomiting and severeabdominal pain. The abdomen appears grossly distended, is tender to touch, and percussionreveals hyper-resonance. His X-ray abdomen is shown in the image below. What is the nextbest step in the management of this patient?513",
+      "options": {
+        "A": "Urgent colonoscopy",
+        "B": "Laparotomy followed by sigmoid resection alone",
+        "C": "Laparotomy followed by Hartmann's procedure",
+        "D": "Insertion of a rectal tube through a flexible sigmoidoscope"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario and the X-ray radiograph showing characteristic coffee beanappearance are highly suggestive of sigmoid volvulus. Non-operative decompression followed byinsertion of a rectal tube through a rigid proctoscope or a flexible sigmoidoscope is the next beststep in the management of this patient.Sigmoid volvulus is a cause of large bowel obstruction and occurs when the sigmoid colon twistson the sigmoid mesocolon. Symptoms include constipation, abdominal bloating, nausea, and/orvomiting. Onset may be acute or chronic. It occurs more commonly in patients with a history ofmental illness and chronic constipation.X-ray abdomen shows a large, dilated loop of the colon, often with a few air-fluid levels. Specificsigns include the coffee bean sign and the absence of rectal gas. CT may reveal large gas-filledloop without haustral markings, forming a closed-loop obstruction.529Non-operative decompression is successful in treating 90% of the patients. The rectal tube shouldbe left in place for 1-2 days to allow complete decompression and to prevent immediate recurrenceof the volvulus. This should be followed by bowel cleansing with cathartics and a completecolonoscopic examination. In patients with signs of colonic necrosis or in whom endoscopicdetorsion has failed, sigmoid colectomy with the closure of the rectum and end colostomy(Hartmann procedure) maybe required. Even if detorsion of the sigmoid is successful, electivesigmoid resection is indicated to prevent recurrence.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q15_img1_35b7caf5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 16,
+      "question": "A lady is brought to the casualty department with a 2-day history of diffuse abdominal pain.She has had several episodes of bloody diarrhea for the past 8 hours and appears dehydrated.On examination, her pulse is feeble and BP is 80/55 mmHg. An abdominal x-ray shows the\"thumbprinting sign.\" What could be the likely diagnosis?",
+      "options": {
+        "A": "Diverticulitis",
+        "B": "Ischemic colitis",
+        "C": "Pseudomembranous colitis",
+        "D": "Both b &amp; c"
+      },
+      "correct_answer": "D",
+      "explanation": "The thumbprinting sign is seen in both ischemic colitis and pseudomembranous colitis.Bowel wall \"thumbprinting\" (the appearance of thumbprint-shaped projections) is a radiologicalsign of submucosal thickening of the colonic wall. It can result from any process that leads toedema of the bowel wall, including pseudomembranous colitis, ischemic colitis, non-infectiveinflammatory bowel disease, other infective bowel diseases, as well as submucosal/intramuralhemorrhage.The plain abdomen x-ray given below shows submucosal thickening with crescentic margins of thecolon described as \"thumbprinting\" sign.THUMB PRINTING",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp16_img1_51438452.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 17,
+      "question": "A 44-year-old female patient presents to the casualty with complaints of sudden onset of painin the abdomen. On examination, there is a palpable tympanic swelling in the left side of theabdomen. X-ray abdomen of the patient is given below. Which of the following is the mostlikely diagnosis?",
+      "options": {
+        "A": "Caecal volvulusSUPINE514100 mm",
+        "B": "Sigmoid volvulus",
+        "C": "Toxic megacolon",
+        "D": "Fecal retention"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical vignette and the X-ray findings are suggestive of caecal volvulus. It isdifferentiated from sigmoid volvulus as there is only a single air-fluid level and the apex of thevolvulus pointing towards the left upper quadrant.It is commonly seen in females in the 4th and 5th decade who can present with partial orcomplete intestinal obstruction. The clinical features include:• Marked abdominal distention530• Abdominal pain• Obstipation•• Nausea and vomiting etc.On examination, a palpable tympanic swelling in the midline or the left side may be seen. If thereis strangulation or perforation of the obstructed bowel segment, peritoneal signs (rigidity,rebound tenderness etc.) can be present.Radiological findings include caecal dilatation, single air-fluid level, and absence of gas in thedistal colon. On X-ray abdomen, the apex of the cecal volvulus points towards the left upperquadrant (vs apex pointing towards the right upper quadrant in sigmoid volvulus)CECT abdomen is the investigation of choice that shows a whirl sign (also seen in the midgutvolvulus).Management of cecal volvulus includes supportive therapy with nasogastric tube, iv fluids,antibiotics etc. and early surgical intervention.• Perforated or strangulated cecal volvulus should be treated with right hemicolectomy• If there is no sign of perforation or strangulation, either cecopexy or right hemicolectomy can beperformed.Option B: Sigmoid volvulus (image shown below) is a cause of large bowel obstruction and occurswhen the sigmoid colon twists on the sigmoid mesocolon. X-ray abdomen shows a large, dilatedloop of the colon, often with a few air-fluid levels. Specific signs include the coffee bean signand the absence of rectal gas. On X-ray abdomen, the apex of the sigmoid volvulus points towardsthe right upper quadrant.Option C: Toxic megacolon (image shown below) is defined as the dilatation of the transversecolon to a diameter of more than 6 cm. It is usually associated with severe ulcerative colitis. It canbe triggered by electrolyte imbalance and narcotics as they interfere with gut motility.531LOption D: Fecal retention is an accumulation of a large amount of stool within any bowel segment,most commonly within the colon usually due to chronic constipation. A colonic distention withfecal material is often called fecal loading on the radiograph. It can be complicated by fecalimpaction and subsequent bowel obstruction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q17_img1_91c377b3.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp17_img1_bd670aa1.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 18,
+      "question": "A middle-aged woman underwent an open repair of an abdominal aortic aneurysm. Theprocedure was uneventful. However, on the 2nd postoperative day, the patient developedsymptoms of acute abdomen and bloody diarrhea with significant guarding. The patient wastaken up for an exploratory laparotomy. Which of the following areas is most likely to beinvolved?",
+      "options": {
+        "A": "Caecum and ascending colon",
+        "B": "Hepatic flexure",
+        "C": "Splenic flexure",
+        "D": "Sigmoid colon"
+      },
+      "correct_answer": "C",
+      "explanation": "The given scenario is suggestive of ischemic colitis and it occurs most commonly at the splenicflexure.Ischemic colitis occurs due to interruption or decrease in colonic blood flow. It may occur withmany different conditions, including embolism from cardiac disease, low-flow states such ascongestive heart failure, sepsis, and vasopressor use. Major vascular surgery (both open andendovascular repair), especially involving the abdominal aorta, is a well-known risk factor fordeveloping ischemic colitis.Although any area of the colon may be affected, the watershed areas of the splenic flexure(Griffith's point) and the rectosigmoid (Sudeck's point) are the most prone to ischemia because ofthe often incomplete anastomoses of the marginal artery in these locations. The next mostcommon area afflicted is the cecum, secondary to low blood flow in the terminal branches of theileocolic artery.Splenic flexure (also known as Griffith's point) is a watershed area between the superior andinferior mesenteric arteries.Sudeck point is a watershed area between the sigmoid arterial branch from the inferior mesentericartery and the superior rectal artery (branch of Inferior mesentric artery).532Arterial blood supply to the large bowelshowing the potential sites of ischemiaOMARROWSuperior and Inferiormesenteric arterywatershedSuperior mesentericarteryInferior mesentericarteryInferior mesentericand hypogastricartery watershedThe marginal artery of Drummond runs parallel to the colon, connecting the SMA and IMAcirculation - the majority of blood flow to the left and sigmoid colon in case of occlusion of theIMA.Arc of Riolan is a variable collateral vessel that connects the SMA (middle colic vessel) to the IMA(left colic).Middle colicarteryRight colicarteryIleocolicarteryBlood supply of large intestineOMARROWMarginal arteryof DrummondArc of-RiolanSuperior-mesentericartery-InferiormesentericarteryLeft colicarterySigmoidal arteriesSuperior rectal artery",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp18_img1_39c5aecf.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 19,
+      "question": "A patient had a painless episode of profuse per rectal bleeding. After initial stabilization, acolonoscopy was performed. The findings are given below. What is the most common site ofthis condition?",
+      "options": {
+        "A": "Cecum",
+        "B": "Transverse colon515",
+        "C": "Sigmoid colon",
+        "D": "None of the above"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical scenario and colonoscopy findings are suggestive of angiodysplasia. The cecum is themost common site of angiodysplasia followed by the colon.In the colon the angiodysplasia can occur anywhere, however it is commonly found in the rightcolon than the transverse and the left colon.533",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q19_img1_c90e5f62.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 20,
+      "question": "A patient being evaluated for recurrent lower GI bleeding secondary to colonic angiodysplasiais suspected to have Heyde syndrome. What are the other common features associated withthe condition?",
+      "options": {
+        "A": "Mitral stenosis and biliary cirrhosis",
+        "B": "Mitral stenosis and hiatus hernia",
+        "C": "Aortic stenosis and von Willebrand disease",
+        "D": "PAH, cirrhosis, and tricuspid regurgitation"
+      },
+      "correct_answer": "C",
+      "explanation": "Heyde's syndrome is a multisystem disorder characterized by the clinical triad of:• Aortic stenosis• Gastrointestinal bleeding from angiodysplasia•Acquired type 2 vWD (secondary to valvular stenosis, returns to normal once the valve isreplaced)Dilated mucosal and submucosal veins are usually seen on colonoscopy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 21,
+      "question": "A 4-month-old infant presented with constipation since birth. On a per rectal exam, a suddenrelease of feces was seen. A contrast enema showed a dilated descending colon leading to aconstricted segment. Which of the following is involved in the pathogenesis of the disease?",
+      "options": {
+        "A": "GDNF",
+        "B": "INF Alpha",
+        "C": "TNF Alpha",
+        "D": "TNF Beta"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario, with a positive blast sign (sudden release of feces on PR examination)and characteristic barium enema findings, are suggestive of Hirschsprung disease. Patients withHirschsprung's disease have an increased frequency of mutations in certain genes such as glial cellline-derived neurotrophic factor (GCDNF).GDNF promotes the survival, proliferation, and migration of neural crest cells in culture. GDNF isexpressed in the gut in advance of migrating neural crest cells and is chemoattractive for neuralcrest cells in culture. Mutations are also seen its receptor Rearranged during Transfection(RET), or its coreceptor Gfra-1 (GDNF family receptor alpha-1).Gene mutations in chromosomes 10 and 13, family history, and Down's syndrome are also factorsassociated with Hirschsprung's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 22,
+      "question": "A neonate was brought to the pediatrician on day 5 of life with bilious vomiting and failure topass meconium. On examination, the abdomen was distended. and X-Ray showed distendedbowel loops. Due to suggestive family history, the resident suspected Hirschsprung's disease.What is the gold standard investigation for this condition?",
+      "options": {
+        "A": "USG",
+        "B": "Barium enema",
+        "C": "Rectal biopsy",
+        "D": "Anorectal manometry516"
+      },
+      "correct_answer": "",
+      "explanation": "A rectal biopsy is the gold standard for the diagnosis of Hirschsprung disease.It shows the following:• Absent ganglia• Hypertrophied nerve trunks• Positive immunostaining for acetylcholinesteraseCalretinin immunostaining (superior to acetylcholinesterase staining)Anorectal manometry is an important screening tool. It shows the absence of rectoanal inhibitoryreflex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 23,
+      "question": "From which of the following sites should a rectal biopsy be taken in order to confirm thediagnosis of Hirschsprung disease?",
+      "options": {
+        "A": "1 cm above the dentate line",
+        "B": "2 cm above the dentate line",
+        "C": "At the dentate line",
+        "D": "1 cm below the dentate line"
+      },
+      "correct_answer": "B",
+      "explanation": "534The ideal site to obtain a rectal biopsy in a patient with Hirschsprung's disease is from a point thatis at least 2 cm above the dentate line. The internal sphincter extends up to 2 cm above thedentate line. This region is normally devoid of ganglionic cells. Hence, biopsy in this region maylead to errors in the results.Rectal biopsy is the gold standard investigation in patients with Hirschsprung's disease. It showsthe presence of hypertrophied nerve trunks and the absence of ganglion cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 24,
+      "question": "All of the following are surgeries you may plan in a child with aganglionic megacolon, except?",
+      "options": {
+        "A": "Swenson",
+        "B": "Duhamel",
+        "C": "Heineke mikulicz",
+        "D": "Soave"
+      },
+      "correct_answer": "",
+      "explanation": "Heineke-Mikulicz's operation is a type of pyloroplasty and is not done for aganglionic megacolon(Hirschsprung disease).Surgery is the treatment of choice for Hirschsprung disease. A multi-stage approach may beadopted. A colostomy is done in the newborn period, followed by a definitive pull-throughoperation after the child is over 10 kgs.Definitive surgeries for Hirschsprung disease are as follows:●Swenson• Duhamel• Soave",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 25,
+      "question": "What is the most common problem that arises postoperatively following surgery forHirschsprung's disease?",
+      "options": {
+        "A": "Constipation",
+        "B": "Soiling",
+        "C": "Enterocolitis",
+        "D": "Incontinence"
+      },
+      "correct_answer": "A",
+      "explanation": "Constipation is the most common postoperative problem after surgery for Hirschsprung disease.Other problems are soiling, incontinence, and postoperative enterocolitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 26,
+      "question": "Up to what length from the anal verge will you be able to visualize through a flexiblesigmoidoscope?",
+      "options": {
+        "A": "60 cm",
+        "B": "70 cm",
+        "C": "80 cm",
+        "D": "90 cm517"
+      },
+      "correct_answer": "A",
+      "explanation": "Flexible sigmoidoscope is 60 cm in length and can be used to visualize the rectum and sigmoidcolon.Flexible sigmoidoscopy is a procedure involving the following steps:A sigmoidoscope is inserted through the anus and the distal colonic mucosa (up to 60 cm from theanal verge) is visualized. Diagnostic or therapeutic maneuvers are performed, as needed.535ScopeAnoscopeProctoscopeLength8 cm15 cmRectoscope25 cmFlexible sigmoidoscope60 cmColonoscope100-160 cm",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp26_img1_f7c0d923.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 27,
+      "question": "Which structure would you trace to identify enlarged paracolic lymph nodes?",
+      "options": {
+        "A": "Bowel wall",
+        "B": "Marginal artery",
+        "C": "Main branches of the superior mesenteric artery",
+        "D": "Named branches of inferior mesenteric artery"
+      },
+      "correct_answer": "",
+      "explanation": "Paracolic lymph nodes are located along the marginal artery.536Lymphatic drainage of colonPrimary (principal nodes)Intermediate nodesOMARROWParacolic nodesEpicolic nodesMarginal artery",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp27_img1_7bfc39f9.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 28,
+      "question": "A 50-year-old man presents with 2 episodes of bleeding per rectum over the past 2 hours. Hisvitals are stable. Per rectal examination was normal except for trace evidence of fresh blood.Which of the following is the most appropriate intervention for this patient?",
+      "options": {
+        "A": "Colonoscopy",
+        "B": "Esophagogastroduodenoscopy",
+        "C": "Tagged RBC scan",
+        "D": "Angiography with embolization"
+      },
+      "correct_answer": "B",
+      "explanation": "In case of suspected lower GI bleeding or hematochezia, if the hemodynamic status of the patientis stable, colonoscopy with appropriate bowel preparation should be done at the earliest. A patientwith hematochezia or fresh blood per rectum should be managed in the following way:Hemodynamically unstable on initial assessment (or suspected massive UGI bleed):• At first, resuscitation with iv fluids, blood transfusion, and volume replacement•• Perform EGD (Esophagogastroduodenoscopy)Consider getting gastro surgery/interventional radiology consultIf a source is not found on EGD,• Perform angiography ± embolization if still hemodynamically unstable• Perform colonoscopy if the patient is hemodynamically stable or, if a source was not identifiedon initial angiography• If colonoscopy did not identify a bleeding source, consider further evaluation with•Capsule endoscopy••Tagged red blood cell scan• Repeat EGD, etc.Hemodynamically stable on initial assessment:• Bowel preparation and perform colonoscopy• If a source was not found on colonoscopy, EGD should be performed••If a source was not found even on EGD, consider further evaluation withCapsule endoscopy537••Tagged red blood cell scanRepeat colonoscopy, etc.Management of HematocheziaStableMAFresh blood per rectum(Hematochezia)Volume resuscitation= iv fluids- consider blood transfusionUnstable- EGD (Esophagogastroduodenoscopy)Interventional radiology consultBleeding sourcestill not identifiectPerformcolonoscopyHemodynamicallystableBleeding sourceidentifiedBleeding sourceidentifiedSpecific treatmentStill hemodynamicallyunstableAngiography +embolizationBleeding sourcestill not identifiedSpecific treatmentConsider EGD if not already doneConsider further evaluation with– capsule endoscopytagged RBG soan-▪ repeat colonoscopyOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp28_img1_b402ecb6.jpeg",
+      "chapter_heading": "Large Intestine"
+    },
+    {
+      "q_no": 29,
+      "question": "A 56-year-old man with weight loss and pallor comes to the physician. A CBC and Fe studiesindicate iron deficiency anemia. The patient denies any history of bleeding disorders orchanges in diet. A guaiac test is advised. What parameter does it test?",
+      "options": {
+        "A": "Microscopic hematuria",
+        "B": "Iron excretion in urineOccult blood in stoold) Iron malabsorptionQuestion 30:99mTc-labeled red blood cell scan can be used to detect gastrointestinal bleeding as low asa) 0.1 mL/min518b) 0.5 mL/min",
+        "C": "1 mL/min",
+        "D": "2 mL/min"
+      },
+      "correct_answer": "",
+      "explanation": "Guaiac test is used for testing occult blood in the stool. New-onset iron deficiency anemia inmiddle-aged men should be thoroughly evaluated for colorectal carcinoma, even in the absence ofother symptoms.Principle: Guaiac is a colorless organic compound that turns blue upon oxidation by oxidants,peroxidases, or pseudoperoxidase of hemoglobin.The test is more sensitive for lower GI bleed.Fecal hemoglobin must exceed 10 mg/g of stool (blood loss of 10 ml daily), for the test to bepositive in 50% of the cases, although the test can be positive in some cases even if hemoglobin is&lt;1mg/g of stool.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Large Intestine"
+    }
+  ]
+}

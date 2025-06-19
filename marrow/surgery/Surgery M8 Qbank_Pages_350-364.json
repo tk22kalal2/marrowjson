@@ -1,0 +1,245 @@
+{
+  "chapter": "The Adrenals",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following conditions is correctly matched with its layer of origin?234",
+      "options": {
+        "A": "1- Pheochromocytoma",
+        "B": "2- ACTH-independent Cushing's syndrome",
+        "C": "3- Neuroblastoma",
+        "D": "4- Conn's syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q1_img1_899958ec.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 2,
+      "question": "An adrenal incidentaloma was detected in a patient who underwent evaluation for renalcalculi. Which of the following statements are true regarding this condition?",
+      "options": {
+        "A": "The majority of these adrenal masses are functional tumours",
+        "B": "The likelihood of the adrenal mass being an adrenocortical carcinoma is independent of thesize of the mass",
+        "C": "Non-functional tumours &gt;2cm are resected",
+        "D": "The only indication for biopsy of this adrenal mass is to confirm adrenal gland metastasis"
+      },
+      "correct_answer": "D",
+      "explanation": "The only indication for an adrenal gland biopsy is to confirm adrenal gland metastasis.An adrenal incidentaloma is defined as a clinically unapparent adrenal lesion that is incidentallydetected on imaging performed for indications other than evaluation for adrenal disease. Themajority of these lesions are non-functional tumours i.e. benign. The likelihood of an adrenalmass being an adrenocortical carcinoma increases with the size of the mass (25% chance if size&gt;4 cm).Incidentalomas are evaluated to classify them as functional and non-functional. Non-functionalincidentalomas &lt;4cm are managed conservatively with MRI surveillance every 3-6 months. If&gt;4cm, laparoscopic adrenalectomy is done.Note: An adrenal mass should never be biopsied until a pheochromocytoma has beenbiochemically excluded.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 3,
+      "question": "350A patient being evaluated for primary aldosteronism underwent selective adrenal venoussampling. A comparison of the samples obtained from both the adrenal veins showed asignificant difference in the aldosterone-cortisol ratio. What is the preferred line of treatmentfor this patient?",
+      "options": {
+        "A": "Conservative management with MRI surveillance",
+        "B": "Unilateral laparoscopic adrenalectomy",
+        "C": "Medical treatment with spironolactone and supplemental antihypertensives",
+        "D": "Subtotal adrenal resection"
+      },
+      "correct_answer": "",
+      "explanation": "During selective adrenal vein sampling, a significant difference in the aldosterone-cortisol ratio onone side indicates unilateral hyperaldosteronism. In this case, unilateral laparoscopicadrenalectomy is the treatment of choice.Primary hyperaldosteronism (PHA) is characterized by hypersecretion of aldosterone withsuppressed plasma renin levels (due to the negative feedback). The most frequent cause of PHA isunilateral adenoma.CT or MRI is used to detect the tumour. In a patient with bilateral micronodular hyperplasia,there could be a unilateral non-functioning tumour. Selective adrenal vein sampling can be doneto differentiate between unilateral and bilateral disease.Conservative management with 3-6 months of MRI surveillance is done in non-functional adrenaltumours of &lt; 4cm.Medical management is done in patients with bilateral disease, the commonly implementedtherapeutic approach is treatment with spironolactone and antihypertensive medication.Surgical management is done in unilateral and asymmetrical bilateral disease by unilaterallaparoscopic adrenalectomy. A subtotal resection can be considered in the case of a typical singleConn's adenoma. However, it is not superior to unilateral adrenalectomy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 4,
+      "question": "You are asked to perform sequential adrenal vein sampling in a patient with bilateral adrenalhyperplasia. Which of the following is the correct sequence of veins that you will go throughto test the left adrenal gland?",
+      "options": {
+        "A": "Femoral vein→IVC→right renal vein→right adrenal vein",
+        "B": "Femoral vein→IVC→left renal vein→left adrenal vein",
+        "C": "Femoral vein→IVC→left adrenal vein",
+        "D": "Femoral vein→IVC→left gonadal vein→left adrenal vein"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct sequence encountered during sequential venous sampling is femoral vein→IVC→leftrenal vein→left adrenal vein.On the right side, the order is femoral vein→IVC→right adrenal vein.357Selective venous samplingRight adrenal glandRightadrenalveinLeft adrenal glandLeftadrenalveinRight renal veinLeft renal veinInferiorvena cavaRight femoralveinCatheterCOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp4_img1_6757ffcf.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient was found to have an elevated 24-hour urinary cortisol level and elevated ACTH. Onadministration of high-dose dexamethasone, ACTH levels were suppressed. MRI of thepituitary gland shows no enlargement. What is the next best step?",
+      "options": {
+        "A": "CT scan of the chest and abdomen",
+        "B": "CT scan/ MRI to assess the adrenals",
+        "C": "Venous sampling from the inferior petrosal sinus",
+        "D": "Plasma corticotropin-releasing hormone levels measurement"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario of elevated ACTH levels that respond to high-dose dexamethasone suppressiontest is indicative of a pituitary source of hypercortisolism. Since the MRI pituitary is inconclusive,the next best step is to perform a venous sampling from the inferior petrosal sinus.The stepwise approach to hypercortisolism is as follows:• Confirmation: This includes 2 steps:• Tests to detect hypercortisolism (° 2 abnormal test results):••Midnight salivary or serum cortisol24-hour urinary free cortisol excretion•Overnight dexamethasone suppression test (DST)•Low dose DST• Test to rule out pseudo Cushing's syndrome:• Low-dose DST + CRH stimulation test• Identifying the source• Localizing the lesion358Diagnostic algorithm to determinethe cause of Cushing's syndromeDiagnosis of Cushing's syndrome confirmedDetermine cause: ACTH levels=5 pg/mLACTH-independent15 pg/mLACTH-dependentCT abdomenAdrenocortical adenomaAdrenocortical carcinomaBilateral adrenal hyperplasia- MRI brain- High dose dexamethasonesuppression test (DST)- GRH stimulation test- MRI brain-pituitary mass seen- High dose DST test –- CRH50% cortisol suppressionstimulation test --5096 cortisol increasePituitary adenoma->2 at baseline■=3 within 5-10 min ofCRH administrationPituitary adenomaHif tests are inconclusive(1.e. failure of any criteriamentioned in box A).Inferior petrosalsinus samplingCalculate ACTH gradient{Petrosal sinus ACTH levels +Peripheral blood ACTH levels)› MARROW2 at baselineImaging (CT, MRI, PETsoans of the chest.abdomen, neck)Paraneoplastic cauSOS",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp5_img1_595f9596.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient with Cushing's syndrome presents with deep vein thrombosis. Which of thefollowing mechanisms do not contribute to this?",
+      "options": {
+        "A": "Increased factor VIII",
+        "B": "Increased vWF351",
+        "C": "Decreased fibrinolysis",
+        "D": "Increased factor V"
+      },
+      "correct_answer": "",
+      "explanation": "Increased factor V does not contribute to the risk of thromboembolic complications like DVT in apatient with Cushing's Syndrome.There is increased factor VIII, vWF, and decreased fibrinolysis in Cushing's syndrome patientswhich causes an increased risk of developing thromboembolic complications.Patients with Cushing's Syndrome are at a greater risk of acquiring hospital-acquired infection,thromboembolic and myocardial complications. Therefore, prophylactic anticoagulants andantibiotics constitute an essential component of pre-operative management.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 7,
+      "question": "Bilateral adrenalectomy is advised in all of the following conditions except",
+      "options": {
+        "A": "Bilateral ACTH-independent disease",
+        "B": "Ectopic ACTH-dependent Cushing's syndrome",
+        "C": "Unlocalised primary tumour of the adrenals",
+        "D": "Adrenal incidentaloma with size &gt;4 cm"
+      },
+      "correct_answer": "",
+      "explanation": "Unilateral adrenalectomy is done in adrenal incidentaloma with a size &gt;4cm.Bilateral adrenalectomy is advised in:• Bilateral ACTH-independent disease•Ectopic ACTH-dependent Cushing's Syndrome• Irresectable or unlocalized primary tumorAdrenalectomy is done as a surgical measure in severe hypercortisolism or Cushing's disease. Theadrenalectomy can be unilateral or bilateral depending on whether the tumor autonomouslysecrete hormones that could have a detrimental effect on health or If the adrenal mass benign ormalignant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 8,
+      "question": "A 57-year-old male patient has undergone unilateral adrenalectomy for Cushing's syndromeand you have been asked to start him on cortisol supplementation, post-surgery. What is therationale behind it?",
+      "options": {
+        "A": "Remaining adrenal gland has insufficient reserve",
+        "B": "Contralateral adrenal gland is suppressed by prolonged cortisol over-secretion",
+        "C": "Insufficient secretion of ACTH",
+        "D": "To prevent Waterhouse-Fridercihsen syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "359The rationale behind cortisol supplementation after the surgical removal of the adenoma is thatthere is suppression of the contralateral adrenal gland by the pre-operative elevated cortisollevels. This causes primary adrenal insufficiency.Patients undergoing unilateral adrenalectomy typically require exogenous steroids for up to ayear, which is usually the duration the remaining adrenal gland takes to recover adequatefunction. In bilateral adrenalectomy, steroids are required indefinitely, and patients may alsorequire mineralocorticoid replacement therapy.Option A: The remaining adrenal gland usually has sufficient reserve to maintain homeostasis.Option C: A deficiency of ACTH causes secondary adrenal insufficiency. However, the adrenalinsufficiency post adrenalectomy is primary i.e due to the hyposecretion of cortisol from the glanditself.Option D: Waterhouse-Friderichsen syndrome is a bilateral adrenal infarction associated withmeningococcal sepsis and is rapidly fatal unless immediately treated.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient presented to the OPD with complaints of new-onset hyperpigmentation of the skin.He had undergone bilateral adrenalectomy for Cushing's disease 2 years ago. Which of thefollowing statements is not true regarding his current condition?",
+      "options": {
+        "A": "It is characterized by elevated ACTH",
+        "B": "Glucocorticoid replacement has to be continued",
+        "C": "First-line of management is pharmacological",
+        "D": "Screening is done using brain MRI"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario of new-onset hyperpigmentation post-adrenalectomy is suggestiveof Nelson's syndrome. The first-line and definitive management is surgical resection of thepituitary adenoma.Nelson's syndrome is a rare complication of total bilateral adrenalectomy (TBA). TBA is aprocedure used to control hypercortisolism in Cushing's disease (due to ACTH-secreting pituitaryadenoma) when resection of the primary tumor is not possible.The loss of feedback inhibition of the hypothalamic-pituitary-adrenal axis following TBA increasesCRH. This leads to stimulation of ACTH-secreting corticotroph cells, causing enlargement of theoriginal pituitary tumor or formation of a new one.Nelson's syndrome is associated with a clinical triad of:• Hyperpigmentation• Excessive ACTH secretion• Corticotroph adenomaScreening is done with fasting plasma ACTH levels and MRI brain performed at regularintervals. Prophylactic pituitary irradiation may be recommended to prevent its incidence. Theprimary treatment is transsphenoidal surgery. Patients will also require life-long glucocorticoidreplacement, as they do not produce cortisol.The use of steroidogenic inhibitors in the treatment of Cushing's disease has decreased the needfor bilateral adrenalectomy these days.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 10,
+      "question": "352Pheochromocytoma is a ten percent tumor. Which of the following statements is false aboutpheochromocytoma?",
+      "options": {
+        "A": "10% of pheochromocytomas are extra-adrenal",
+        "B": "10% of pheochromocytomas are unilateral",
+        "C": "10% of pheochromocytomas are malignant",
+        "D": "10% of pheochromocytomas are seen in children"
+      },
+      "correct_answer": "B",
+      "explanation": "10% of pheochromocytomas are bilateral.360",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 11,
+      "question": "A 40-year-old male patient admitted for evaluation of treatment-resistant hypertension andparoxysmal palpitations was found to have elevated metanephrines on urine screen. What isthe next best step in the clinical management of this patient?",
+      "options": {
+        "A": "Imaging study with an MRI scan",
+        "B": "Medical pre-treatment with phenoxybenzamine followed by laparoscopic resection",
+        "C": "Imaging study with a contrast CT scan",
+        "D": "Imaging study with 123 Iodine-MIBG"
+      },
+      "correct_answer": "A",
+      "explanation": "In this scenario, the elevated urinary metanephrines point towards the diagnosis ofpheochromocytoma. Hence, the next best step is an MRI to localise the site of the tumour.MRI is preferred for the localization of pathologies because contrast media used for CT scans canprovoke paroxysms. Classically, pheochromocytomas show a 'Swiss cheese' configuration.123 Iodine-MIBG (metaiodobenzylguanidine) single-photon emission computed tomography(SPECT) is essential for the detection of multiple extra-adrenal tumours and metastases, but PETscan using FDG or DOPA is more sensitive in detecting metastatic foci.The image given below shows MRI (marked B and C) and high uptake on 123I-mIBG scintigraphy(marked D and E)ABCDELaparoscopic resection is now a routine in the treatment of pheochromocytoma.An α-adrenoreceptor blocker, phenoxybenzamine, is used pre-operatively to block excesscatecholamine and its consequences during surgery. ẞ-blocker is added if there is tachycardia orarrythmia.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp11_img1_b62a7861.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 12,
+      "question": "Germline mutations of which of the following genes is not associated with hereditarypheochromocytoma?",
+      "options": {
+        "A": "RET proto-oncogene",
+        "B": "Succinate dehydrogenase complex",
+        "C": "NF2 gene",
+        "D": "VHL gene"
+      },
+      "correct_answer": "",
+      "explanation": "Germline mutation in NF2 gene is associated with neurofibromatosis type 2, and not hereditarypheochromocytoma. Hereditary pheochromocytomas are associated with NF1 germlinemutations.Pheochromocytomas can occur in isolation or can be associated with hereditary tumor syndromeswith the specific germline mutations such as:•Neurofibromatosis type 1 - mutation in NF1 gene361•Familial paraganglioma syndrome - mutations within succinate dehydrogenase complex subunitB (SDHB), SDHD, SDHC genes• Multiple endocrine neoplasia type 2 (MEN 2) - activating germline mutations of RETproto-oncogene• Von Hippel-Lindau syndrome - mutations in VHL gene",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 13,
+      "question": "A 15-year-old boy undergoes bilateral adrenalectomy for phaeochromocytoma. On the thirdpostoperative day, the boy feels lethargic and tired. Blood pressure is 80/60 mm Hg, there isno sign of bleed. What could be the cause of this?",
+      "options": {
+        "A": "Addisonian crisis",
+        "B": "SIADH",
+        "C": "Diabetes insipidus353",
+        "D": "Cerebral salt wasting disease"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario of hypotension with no presence of bleeding and bilateraladrenalectomy is suggestive of an Addisonian crisis. It is a life-threatening condition caused dueto sudden insufficiency of adrenal hormones.Acute adrenal insufficiency (adrenal or addisonian's crisis) is a medical emergency caused due to aprecipitating illness unmasking insufficiency or trauma or severe sepsis causing adrenalhemorrhage (Waterhouse-Friderichsen syndrome) or surgical removal of the glands. It presentswith non-specific symptoms such as shock with fever, nausea, vomiting, abdominal pain,hypocalcemia and electrolyte imbalances. It may be often misdiagnosed as an acute abdominalemergency.Adrenal insufficiency can be primary (due to adrenal pathology), secondary (due to pituitarypathology- lack of ACTH) or tertiary (due to hypothalamus pathology- lack of CRH).Autoimmune adrenalitis is the most common cause of primary adrenal insufficiency worldwide.Tuberculosis is the most common cause of primary adrenal insufficiency in India.Adrenal crisis requires immediate intervention owing to its high mortality rate. Immediaterehydration is initiated with a saline infusion at 1 litre/hr with continuous cardiac monitoring.Glucocorticoid replacement is initiated with an initial bolus injection of hydrocortisone 100 mgfollowed by 200 mg over 24 hours, preferably by continuous infusion or alternatively by IV or IMinjections. Mineralocorticoid replacement is initiated once the daily dose of hydrocortisone hasbeen reduced to &lt;50 mg, since hydrocortisone at higher doses provides sufficient stimulation ofmineralocorticoids.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 14,
+      "question": "Neuroblastoma can originate in all of the following except",
+      "options": {
+        "A": "Organ of Zuckerkandl",
+        "B": "Paraspinal sympathetic ganglia",
+        "C": "Adrenal medulla",
+        "D": "Adrenal cortex"
+      },
+      "correct_answer": "A",
+      "explanation": "Neuroblastoma does not originate in the adrenal cortex.Neuroblastoma is an embryonal tumour of the sympathetic nervous system. These tumours ariseduring fetal or early postnatal life from sympathetic cells derived from the neural crest. Therefore,tumours can originate anywhere along the path which neural crest cells migrate, including:• Adrenal medulla most common site-• Paraspinal sympathetic ganglia•Sympathetic para ganglia such as the organ of Zuckerkandl362Note: Neuroblastoma is the most common abdominal (extradural) tumour in children andthe most common overall tumour in infants.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 15,
+      "question": "A 2-year-old girl child with failure to thrive was found to have a palpable, firm, irregularabdominal mass that crossed the midline. CT revealed a calcified mass near the left kidneywhich on biopsy showed Homer-Wright pseudorosettes. Which of the following is not trueregarding this condition?",
+      "options": {
+        "A": "70% patients present with metastasis at diagnosis",
+        "B": "Urine homovanillic acid is used for screening",
+        "C": "Amplification of N-myc gene is a good prognostic factor",
+        "D": "Abdominal mass is a common presentation of the condition"
+      },
+      "correct_answer": "C",
+      "explanation": "The above clinical scenario is suggestive of neuroblastoma and amplification of N-myc gene is anindicator of poor prognosis.Neuroblastoma arises from the adrenal medulla. Homovanillic acid (HVA) and vanillylmandelicacid (VMA) are elevated in the urine of approximately 95% of patients and are used to diagnoseand monitor this tumor.Clinical features:• Abdominal mass (retroperitoneal or hepatic)•• Periorbital ecchymoses (\"raccoon eyes,\" from periorbital ecchymosis caused by orbitalmetastases)•Opsoclonus myoclonus syndrome• Hypertension - due to secretion of catecholaminesMetastatic disease is present in more than 70% of patients at presentation.Homer-WrightpseudorosettesImmatureganglion cellsHistopathology is the gold standard for diagnosis. Histologically, classic neuroblastomas arecomposed of small, immature ganglion cells with dark nuclei. Typically, Homer-Wrightpseudorosettes can be found which are tumour cells concentrically arranged about a central spacefilled with neuropil.The mainstay of treatment is resection of the tumour and chemotherapy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp15_img1_56410c3b.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 16,
+      "question": "What is the most common presentation of adrenal carcinoma?",
+      "options": {
+        "A": "Abdominal mass",
+        "B": "Cushing syndrome",
+        "C": "Pain",
+        "D": "Hypertension"
+      },
+      "correct_answer": "B",
+      "explanation": "363The most common presentation in patients with adrenal carcinoma is Cushing's syndrome due toexcess cortisol.Patients with non-functioning tumours frequently complain of abdominal discomfort or back pain(large tumours).Mc Farlane classification is used for staging adrenal carcinoma. Treatment involves completeresection of tumour and chemotherapy.364",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    }
+  ]
+}

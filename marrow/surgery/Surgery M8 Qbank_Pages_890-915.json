@@ -1,0 +1,365 @@
+{
+  "chapter": "Infections and Tumors of Kidney",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following statements is false regarding acute pyelonephritis?",
+      "options": {
+        "A": "CECT abdomen is the investigation of choice",
+        "B": "Commonly associated with uric acid stones",
+        "C": "Renal scarring is common in untreated cases",
+        "D": "The mainstay of treatment is broad-spectrum antibiotics"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 2,
+      "question": "A diabetic patient presents with pyrexia and left flank pain. On examination, Murphy's punchsign is positive. CECT abdomen done is shown below. What is the most likely causativeorganism for this condition?",
+      "options": {
+        "A": "E.coli",
+        "B": "Proteus1205RA222mm6204SE:2IM:4012:25:43PLAIN ABDW 350:L 40P187CT Abdomen-Pelvis",
+        "C": "Clostridium",
+        "D": "Staphylococcus aureus"
+      },
+      "correct_answer": "A",
+      "explanation": "The given history with Murphy's punch sign positive, and streaks of gas on CECT abdomen pointto a diagnosis of emphysematous pyelonephritis. Escherichia coli is the most common causativeorganism.Emphysematous pyelonephritis is associated with an acute necrotizing infection of the kidney bygas-producing organisms that occurs predominantly in diabetic patients. E. coli produces carbondioxide by the fermentation of sugar.Patients frequently present with sepsis and ketoacidosis. It can be associated with tenderness atthe costovertebral angle known as Murphy's punch sign.CECT abdomen shows an enlarged destructed renal parenchyma with small linear streaks of gas.Treatment includes broad-spectrum antibiotics with drainage. In patients who fail to respond totreatment, nephrectomy is considered.Note: Clostridium species are the most common causative organisms in emphysematouscholecystitis.Murphy's punch sign is also seen in infection, inflammation, or obstruction of the kidney. Thebelow image shows the costovertebral angle formed between the lower border of the 12th rib andthe vertebral column.90011th rib12th ribKidneyCostovertebralangleCostovertebral angleMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q2_img1_e96ec7f4.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp2_img1_a3c4779b.jpeg",
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 3,
+      "question": "890A woman is referred to you for evaluation of recurrent episodes of right flank pain andhigh-grade fever. She also had a history of recurrent urinary calculi in the past. CECTabdomen done is shown below. What is the preferred treatment for this patient?",
+      "options": {
+        "A": "DJ stenting",
+        "B": "Subcapsular nephrectomy",
+        "C": "Drainage",
+        "D": "Broad spectrum antibiotics"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario with CECT abdomen showing bear paw sign is suggestive ofxanthogranulomatous pyelonephritis (XGP). Subcapsular nephrectomy is the preferred treatmentin patients with XGP.It is a form of chronic pyelonephritis seen most frequently in middle-aged diabetic women and,rarely, in children. XGP is most commonly caused by proteus followed by E. coli. The disease isusually unilateral and is associated with prolonged obstructing nephrolithiasis.CECT abdomen shows dilated and enlarged renal pelvis and calyxes showing a multiloculatedappearance. This is referred to as the bear paw sign. Histology shows foamy, lipid-ladenmacrophages.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q3_img1_f9405fca.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 4,
+      "question": "CT done for a patient with abdominal pain and sterile pyuria is shown below. What is themost likely diagnosis?891",
+      "options": {
+        "A": "Renal stones",
+        "B": "Renal cell carcinoma.Renal tuberculosisd) NephrocalcinosisDAILYROUNDSQuestion 5:A man presented to the OPD with hematuria and intermittent right flank pain. He receivedATT for pulmonary TB two years ago. Urine analysis revealed pus cells, and no growth wasseen on culture. Which of the following lesions are associated with this condition?a) Only 1b) 1 &amp; 4",
+        "C": "2, 3 &amp; 4",
+        "D": "1, 2, 3, 4 &amp;5"
+      },
+      "correct_answer": "C",
+      "explanation": "The given scenario of sterile pyuria with CT showing right-sided putty kidney points to renaltuberculosis.Putty kidney refers to the amorphous dystrophic calcification seen over the entire kidney duringthe end stage of genitourinary TB.Genitourinary tuberculosis is caused by the dissemination of the organism through thebloodstream. It occurs either due to reinfection or reactivation of old TB.CT is the most sensitive modality and is the preferred means of visualizing renal calcifications. CTurography is done to assess the various stages of renal TB.ATT is given to all patients with genitourinary TB. Nephrectomy is the preferred treatment inpatients with putty/ cement kidneys.901Option D: Nephrocalcinosis refers to the deposition of calcium salts in the kidney parenchymaand tubules.Moth eatencalyxTuberculosis of the urinary tractParenchymalcalcificationCorticalscarringCentralpapillarynecrosisHiked-uppelvisCortical abscesswith rupture into theperinephric spaceMARRABeaded ureterCaseous massUreteral strictureOMARROWThickened bladder wall(Thimble bladder)Urethral stricture",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q4_img1_0c299ea6.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp4_img1_d182be95.jpeg",
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 6,
+      "question": "The Bosniak classification system is used in assessing patients with which of the followingconditions?",
+      "options": {
+        "A": "Renal cysts",
+        "B": "Ureteropelvic junction obstruction",
+        "C": "Renal carcinoma892",
+        "D": "Renal stones"
+      },
+      "correct_answer": "A",
+      "explanation": "The Bosniak classification system is used for assessing patients with renal cysts.It divides renal cystic masses into five classes based on imaging characteristics seen on CECT. It ishelpful in predicting the risks of malignancy and identifying the appropriate choice of clinical902follow-up or treatment.Renal cyst clasRisk of malignan WorkupScy10%Nil20%Nil2F5%350%4100%USG/CT follow upPartial nephrectomy Radiofrequency ablation - in elderly or poor surgical candidatesPartial or total nephrectomyBosniak classification of renal cystsClass ISimple benign cystClass IIThin septae with finecalcifications in the walls.No soft tissue enhancementRClass IIFMultiple class II features,no soft tissue enhancementClass IIIIrregular or smooth thickenedwalls or septa showingmeasurable enhancementClass IVClass III, with soft tissue enhancementindependent of wall or septal enhancement.OMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp6_img1_b8195100.jpeg",
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 7,
+      "question": "An ultrasound abdomen done for evaluation of flank pain in a man revealed a large massarising from the right kidney. CECT abdomen done showed the presence of a central stellatescar. What is the most likely diagnosis in this patient?",
+      "options": {
+        "A": "Wilms tumor",
+        "B": "Oncocytoma",
+        "C": "Angiomyolipoma",
+        "D": "Renal sarcoma"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, the presence of a central stellate scar on CECT is suggestive of a diagnosisof oncocytoma.Oncocytoma is the most common benign renal tumor. It arises from cells rich in mitochondria.Familial type is associated with Birt Hogg Dube syndrome. Most patients remain asymptomaticeven with large oncocytomas. In some cases, it may present as an abdominal lump.The cystic variant of the tumor is classified as Bosniak class III on CECT. On histologicalexamination, large eosinophilic cells owing to an abundance of mitochondria are seen arranged indistinct nests. Partial nephrectomy is the preferred treatment.Note: Central stellate scar on CECT is also seen in chromophobe RCC and focal nodularhyperplasia of the liver.The given CECT shows an enhancing right renal mass with a central stellate scar903The given slide shows large eosinophilic cells arranged in nests",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp7_img1_a01640e4.jpeg",
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient presented to the casualty with severe back pain and vomiting. He was diagnosed tohave tuberous sclerosis during childhood. CT scan revealed the presence of renal tumors withhigh-fat content as shown in the image below. What is the most probable diagnosis?",
+      "options": {
+        "A": "Adrenal myolipoma",
+        "B": "Renal cell carcinoma",
+        "C": "Angiomyolipoma",
+        "D": "Retroperitoneal liposarcoma893"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario and CT findings are suggestive of a diagnosis of angiomyolipoma.Angiomyolipoma (AML) is a benign neoplasm of the kidney. It contains blood vessels, smoothmuscles, and fat, and arises from perivascular epithelioid cells. It can occur in isolated forms ormay be associated with tuberous sclerosis.Patients can either be asymptomatic or may present with abdominal pain or a lump. Somepatients may also present with massive hemorrhage referred to as Wunderlich's syndrome. Lenk'striad seen in patients with Wunderlich's syndrome includes:• Abdominal mass904• Abdominal pain• ShockDue to the presence of abundant fat tissue, they can be easily identified on CT scans.Immunohistochemistry is positive for HMB 45. Treatment includes:•Asymptomatic tumors and tumors less than 4 cm in size - Observation with serial CECT• Symptomatic tumors and tumors more than 4 cm in size - Partial nephrectomy/ nephron-sparingsurgery•Bleeding tumors - Angioembolization followed by partial nephrectomyEverolimus is FDA approved for the treatment of AMLs.Note: HMB45 is positive on IHC for malignant melanoma and angiomyolipomas.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q8_img1_25491111.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is false regarding Grawitz tumor?",
+      "options": {
+        "A": "Most common renal neoplasm",
+        "B": "Derived from the proximal tubular epithelium",
+        "C": "Clear cell is the most common histological type",
+        "D": "Radiosensitive tumor"
+      },
+      "correct_answer": "D",
+      "explanation": "Renal cell carcinoma (RCC) also known as Grawitz tumor or hypernephroma, is aradio-resistant tumor.RCC accounts for 85% of renal neoplasms in adults. It is more common in males betweenthe sixth to seventh decades. Clear-cell RCC is the most common type of renal cell cancer.The proximal convoluted tubule (PCT) of the nephron is usually the site of origin of RCC.Risk factors for RCC:•Smoking• Obesity.Family history of RCC• Drugs like phenacetin and diuretics• Thorotrast exposure• Increased protein intake",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not true regarding the presentation of renal cell carcinoma?",
+      "options": {
+        "A": "Flank pain is the most common presentation",
+        "B": "It is more commonly associated with left sided varicoceles",
+        "C": "It may be associated with pulsatile bony metastasis",
+        "D": "Palpable abdominal mass is part of the classic triad seen in RCC"
+      },
+      "correct_answer": "",
+      "explanation": "The most common presentation in patients with renal cell carcinoma (RCC) is gross hematuria.The classic triad (seen in &lt;10% of cases) includes:• Gross hematuria• Flank pain• Palpable abdominal massRapidly developing varicoceles can be seen in patients with RCC. Varicocele is usually seen on theleft side, as the left gonadal vein drains into the left renal vein at a sharp angle. On the right side,the gonadal vein opens into the much larger IVC.905Patients may also present with paraneoplastic syndromes. RCC can give rise to pulsatile bonymetastases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 11,
+      "question": "A man presents with intermittent hematuria and flank pain for 2 months. He is a knownsmoker and is found to be anemic. Further investigations reveal an enhancing lesion arisingfrom the right kidney. Which of the following paraneoplastic syndromes is not likely to beseen in his condition?",
+      "options": {
+        "A": "Cushing's syndrome",
+        "B": "Polycythemia",
+        "C": "Cerebellar degeneration",
+        "D": "Hypercalcemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Hematuria and flank pain in a known smoker with the given investigation findings is suggestive ofrenal cell carcinoma. Cerebellar degeneration is not a paraneoplastic syndrome associated withRCC.Paraneoplastic syndromes associated with RCC include:•Endocrine paraneoplastic syndromes -Stauffer syndrome - non-metastatic liver dysfunction, characterized by elevated serum bilirubin,ALP, and prolonged prothrombin time.• Hypercalcemia - due to increased vitamin D, PTH-related protein•Hypertension• Polycythemia• Galactorrhea•Cushing's syndrome•• Alterations in glucose metabolismNon-endocrine paraneoplastic syndromes include Lambert Eaton syndrome (neuromyopathy),amyloidosis, anemia, vasculopathy, nephropathy, coagulopathy, elevated ESR, prostaglandinelevation.Elevated ESR is the most common paraneoplastic syndrome associated with RCC.Note: Cerebellar degeneration is a paraneoplastic syndrome in Hodgkin's lymphoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 12,
+      "question": "Lab values from a routine workup done for a hypertensive man are given below. Furtherinvestigations revealed hepatosplenomegaly with a 5.5 cm tumor arising from the rightkidney. No signs of metastasis were noted. What is the most likely diagnosis in this patient?",
+      "options": {
+        "A": "Hepato renal syndrome",
+        "B": "Stauffer syndrome894",
+        "C": "Budd chiari syndrome",
+        "D": "Metastatic liver dysfunction syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario points to a diagnosis of Stauffer syndrome in a patient with renal cellcarcinoma.Stauffer syndrome is a rare paraneoplastic syndrome seen in RCC. It is a non-metastatic liverdysfunction mediated via interleukin 6. It is characterized by the presence of hepatosplenomegalywith no features of metastasis and the following lab findings:• Hyperbilirubinemia• Raised ALP•HypoalbuminemiaHypergammaglobulinemia• Prolonged prothrombin time906Option A: Hepatorenal syndrome refers to the development of renal failure in patients withadvanced chronic liver disease.Option C: Budd Chiari syndrome is characterized by hepatic venous outflow tract obstruction(HVOTO).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following types of renal cell carcinoma is characterized by multiple losses ofentire chromosomes?",
+      "options": {
+        "A": "Papillary",
+        "B": "Clear cell",
+        "C": "Chromophobe",
+        "D": "Collecting duct"
+      },
+      "correct_answer": "",
+      "explanation": "Chromophobe type renal cell carcinomas (RCC) are uniquely associated with multiple losses ofentire chromosomes, including chromosomes 1, 2, 6, 10, 13, 17, and 21. Thus, they show extremehypodiploidy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 14,
+      "question": "A man was referred for the evaluation of an unsteady gait with weakness of his legs for thepast 1 month. He gave a history of similar problems in his brother. Imaging revealedcerebellar hemangioblastomas and bilateral renal masses suggestive of RCC. Whichhistological type of this renal malignancy is he most likely to have?",
+      "options": {
+        "A": "Papillary",
+        "B": "Clear cell",
+        "C": "Chromophobe",
+        "D": "Collecting duct"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical features mentioned are consistent with renal cell carcinoma and cerebellarhemangioblastoma which along with the family history points to a diagnosis of von HippelLindau's disease (VHL). Clear cell RCC is the most common type associated with VHL disease.VHL disease is inherited as an autosomal dominant trait and is caused by a germline mutation ofthe VHL gene on chromosome 3p. A second hit can increase the predisposition to a variety ofneoplasms, particularly hemangioblastomas of the cerebellum and retina, and clear cell renalcarcinoma(in 40-60%).The given slide shows clear cell RCC.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp14_img1_f0e63e5d.jpeg",
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is the most common method of diagnostic investigation in patientssuspected to have hypernephroma?",
+      "options": {
+        "A": "CT scan abdomen and pelvis",
+        "B": "USG abdomen and pelvis",
+        "C": "MRI abdomen and pelvis",
+        "D": "Intravenous pyelogram"
+      },
+      "correct_answer": "A",
+      "explanation": "Clear Cell Carcinoma (RCC)Rounded or polygonalcellsAbundant clearcytoplasm907The most common method of diagnostic investigation in hypernephroma or renal cell carcinomais a CT scan of the abdomen and pelvis. Characteristic features of RCC on CT scan include:•Enhancement of the lesion after injection of IV contrast• Thickened irregular walls• Thickened or enhanced septa within the mass or multilocular massCT scan has replaced IVP and ultrasound as the radiological modality of choice to evaluate renalmasses.MRI can be performed for diagnosing poorly characterized renal masses on CT or if a CT scan iscontraindicated (in case of allergy to IV contrast). It also helps in defining tumor extension intothe renal vein or IVC.The below image shows a cystic tumor involving the left kidney suggestive of renal cell carcinoma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp15_img1_7394ffa2.jpeg",
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 16,
+      "question": "895A CECT abdomen done to evaluate an elderly man with intermittent flank pain is shownbelow. Which of the following will be the most common site for secondary metastasis inpatients with this tumor?",
+      "options": {
+        "A": "Adrenal glands",
+        "B": "Lungs",
+        "C": "Liver",
+        "D": "Brain"
+      },
+      "correct_answer": "B",
+      "explanation": "The history and CECT mentioned in the above scenario are consistent with a diagnosis of renalcell carcinoma. The most common site for secondary metastasis in RCC is the lungs, where theyform secondaries commonly known as cannonball secondaries.The tumor is prone to extend into the renal vein and reach the lungs via circulation. RCC alsometastasizes to the bone, lymph nodes, liver, adrenal glands, and brain.Para-aortic nodes are the first draining lymph nodes.The image below shows multiple round opacities in bilateral lungs suggestive of cannonballmetastasis in the lungs.908DAILYROUNDS",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q16_img1_83cd6533.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp16_img1_322c9c46.jpeg",
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 17,
+      "question": "In patients with which of the following findings on CECT abdomen, would you stage thetumor as T3 stage of RCC?",
+      "options": {
+        "A": "8.5 cm tumor limited to the kidney",
+        "B": "5 cm tumor limited to the kidney",
+        "C": "12 cm tumor involving the supra-diaphragmatic IVC",
+        "D": "11.5 cm tumor extending into the ipsilateral adrenal gland"
+      },
+      "correct_answer": "",
+      "explanation": "In the T3c stage of hypernephroma or renal cell carcinoma, the tumor spreads to thesupra-diaphragmatic IVC or invades the wall of the IVC.TNM staging for renal cell carcinomaNote: Robson staging is a less commonly used staging system for RCC. Fuhrmann grading is usedfor grading RCC.T: Primary tumorT1: Limited to the kidney,<7cmT2: Limited to the kidney,>7cmT3: Tumorextension into major veins or perinephric tissues, but not into ipsilateral adrenal gland or beyond Gerota's fasciaT3a: Tumor grossly extends into the renal vein or its segmental (muscle-containing) branches, or tumor invades perirenal and/or renal sinus fat but not beyond the Gerota's fasciaT3b: Spread to infra-diaphragmatic IVCT3c: Spread to supra-diaphragmatic IVC or invades the wall of theIVC909T: Primary tumorT4: Involvesipsilateral adrenal glandor invadesbeyond Gerota's fasciaN: Regional lymph nodesNo: No nodal involvementN1: Metastatic involvement of regional lymph node(s)M: MetastasisMo: No distant metastasesM1: Distant metastases",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following should be the treatment of choice for renal cell carcinoma with tumorless than 4 cm in size?",
+      "options": {
+        "A": "Partial nephrectomy896",
+        "B": "Partial nephrectomy + neoadjuvant chemotherapy",
+        "C": "Radical nephrectomy",
+        "D": "Radical nephrectomy + postoperative radiotherapy"
+      },
+      "correct_answer": "A",
+      "explanation": "Partial nephrectomy (also known as nephron-sparing surgery) is the treatment of choice fortumors &lt;4 cm.Indications for partial nephrectomy:• Tumors &lt; 4cm•Well-selected tumors between 4-7 cm• Bilateral tumors•Tumor in solitary kidneys• Patients with pre-existing renal dysfunction.Recently, partial nephrectomy is also increasingly being performed for stage Tib tumors.Treatment of renal cell carcinoma:RCC is a radio and chemoresistant tumor.Radical nephrectomy consists of the removal of the kidney, perirenal fat, adrenal gland, andregional lymph nodes. The adrenal gland is no longer removed except in cases of obvious tumorinvolvement. Lymphadenectomy is indicated only in high-risk patients with large primary tumorsand enlarged lymph nodes.Cryoablation is indicated in the Tia stage of RCC if surgery cannot be performed. It is alsoindicated in advanced/metastatic tumors.Note: Sunitinib and sorafenib are also used in GIST and hepatocellular carcinoma.910Stagi DescriptionManagementRadical nephrectomyngStage 1Tumor <7 cm, confined to the kidneyPartial nephrectomyStage 2Tumor >7 cm, confined to the kidneyStage 3Stage 4Tumor extends into the major veins or adrenal gland withintact Gerota's fascia or regional lymph nodes involved.Tumor invades beyond Gerota fascia (including contiguous extension into the ipsilatera1 adrenal gland)Radical nephrectomyDebulking surgerymTOR inhibitors such as everolimus, sirolimusTyrosine kinase inhibitors: sunitinib, sorafenib",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 19,
+      "question": "You are assisting in a radical nephrectomy in a patient with renal cell carcinoma. Which ofthe following statements is false regarding this procedure?",
+      "options": {
+        "A": "Early ligation of vessels is performed to reduce tumor spread",
+        "B": "It includes removal of the kidney with Gerota's fascia",
+        "C": "Excision of ipsilateral adrenal gland is done in all the cases",
+        "D": "Regional lymphadenectomy is done for tumors more than 10 cm in size"
+      },
+      "correct_answer": "",
+      "explanation": "Excision of the ipsilateral adrenal gland in radical nephrectomy is done only if the tumor isadherent to it.Classical radical nephrectomy includes:••Early ligation of the renal artery and vein to prevent tumor spread• Removal of the kidney with primary dissection external to the Gerota's fascia• A complete regional lymphadenectomy from the crus of the diaphragm to the aortic bifurcationRegional lymphadenectomy is not required in every radical nephrectomy. It is indicated in thefollowing conditions:Enlarged lymph nodes on imaging•Cytoreductive surgery for metastatic disease• Tumor size &gt; 10 cm• Nuclear grade° 3• Sarcomatoid histology in renal tumor• Presence of tumor necrosis on imaging•Extrarenal tumor extension• Tumor thrombus• Direct tumoral invasion of adjacent organs",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 20,
+      "question": "Which is the most common abdominal tumor seen in children?",
+      "options": {
+        "A": "Wilm's tumor",
+        "B": "Neuroblastoma",
+        "C": "Lymphoma",
+        "D": "Hepatoblastoma"
+      },
+      "correct_answer": "B",
+      "explanation": "Neuroblastoma is the most common abdominal tumor of childhood.911Wilms tumor, or nephroblastoma, is the most common primary malignant renal tumor ofchildhood.The renal origin of the mass is usually apparent on CT, but it can be mistaken for neuroblastoma.Wilm's tumor shows peripheral calcification in contrast-enhanced CT, unlike intratumoralcalcifications and vascular encasement, which are observed in neuroblastoma.FeaturesWilms tumor (Nephroblastoma)NeuroblastomaAge groupPresentationAssociated syndromesCalcificationsMarginsVascular invasionMetastasisFindings on CECTPeaks at 3-4 years of agePainless abdominal massWAGR syndromeBeckwith Weidman syndromeDenys Drash syndromeUncommon (10-15%)Well circumscribedExtends into the IVC and renal veinLung (most common)Peripheral calcificationsAge <2 years of agePainful abdominal massOpsoclonus-myoclonus syndromeVery common (90%)Poorly marginatedEncases vascular structures but does not invade themBone (most common)Intratumoral calcifications with vascular encasement",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 21,
+      "question": "A boy was brought by his parents, with complaints of blood in his urine. A left-sided reniformmass was palpated. Further investigations were suggestive of Wilms tumor. Which of thefollowing is false regarding this condition?",
+      "options": {
+        "A": "Most cases occur in children between 2-5 years of age",
+        "B": "It is the most common primary malignant renal tumor of childhood",
+        "C": "Early metastasis occurs to the liver",
+        "D": "Nephrogenic rest cells are precursor lesions"
+      },
+      "correct_answer": "",
+      "explanation": "Metastasis to the lungs occurs early in Wilms tumor. Liver, bone, and brain metastasis is rare.Wilms tumor or nephroblastoma is the most common primary malignant renal tumor ofchildhood. It is commonly seen in children between 2-5 years of age. More than one-third of thecases contain precursor lesions known as nephrogenic rests.Asymptomatic abdominal mass discovered incidentally is the most common presentation.Patients may also present with:• Abdominal pain• Gross painless hematuria.• Fever• HypertensionMost unilateral tumors are treated by chemotherapy (cyclophosphamide, vincristine, anddactinomycin) followed by nephrectomy.Radical nephrectomy is the standard surgical procedure done. Partial nephrectomy is consideredif all the following conditions are met:.• The tumor involves only one pole of the kidneyNo evidence of collecting system or vascular involvement912• The involved kidney has an appreciable function• There are clear margins between tumor and surrounding structuresIt is done for children with bilateral disease or with a solitary kidney. Preoperative chemotherapycan be used in these cases to induce tumor shrinkage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 22,
+      "question": "897A mother notices a swelling in the abdomen of her 3-year-old child while bathing him. He hada history of hematuria two weeks back which resolved spontaneously. On examination, aright-sided reniform ballotable mass was found. What all investigations will you do?",
+      "options": {
+        "A": "1 and 2",
+        "B": "2 and 4",
+        "C": "1, 2 and 3",
+        "D": "1, 2, 3 and 4"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical features of a ballotable renal mass with hematuria in a 3-year-old child are suggestiveof Wilms tumor and FNAC is not done in this condition.Investigations in suspected cases of Wilms tumor:• Laboratory study - shows hematuria, polycythemia, thrombocytosis, and elevated APTT• USG with doppler study of renal veins - for evaluation of the collecting system and to look fortumor thrombi in renal veins and inferior vena cava•• CECT abdomen - to identify the extent of the disease, to access the contralateral kidney, and formetastasis• MRI - not used routinely as it requires sedation• Positron emission tomography (PET) scan to identify regional spread and metastatic lesionsDiagnosis should be made by imaging studies and it is confirmed after nephrectomy. A biopsy isdiscouraged in this condition as it results in disease upstaging. Only in cases with atypicalpresentation such as older age, signs of infection, etc, or with unusual imaging findings a coreneedle biopsy via the posterior approach can be performed.Note: Neuroblastoma also presents similar to Wilms tumor. It is commonly seen in children ofpreschool age. Affected children commonly present with a palpable abdominal mass and the mostcommon site of the tumor is the retroperitoneum. Therefore, this disease becomes an importantdifferential diagnosis. So we should also test for the presence of vanillyl mandelic acid (VMA) inthis patient to exclude this tumor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following is the most important factor in determining the prognosis of a childwith Wilms tumor?",
+      "options": {
+        "A": "Size of the abdominal mass",
+        "B": "Loss of heterozygosity of chromosome 1p",
+        "C": "Histology of the tumour",
+        "D": "Age less than 1 year at presentation"
+      },
+      "correct_answer": "C",
+      "explanation": "The most important prognostic factor in Wilms tumor is the histology of the tumor.Wilms tumor (WT) is characterized by abnormal proliferation of the metanephric blastema, withno differentiation into tubules or glomeruli. It usually arises from three tissue elements (triphasictumor):• Blastema (poor prognosis if the blastemal component is more)•Epithelium• StromaWilms tumors lacking anaplasia (presence of atypical, polyploid mitotic figures, large nuclear size,and hyperchromasia) are designated as having \"favorable histology\".913Wilms Tumor/Triphasic NephroblastomaOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp23_img1_189c74ca.png",
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following staging systems is used for staging of Wilms tumor in a child postedfor partial nephrectomy post neoadjuvant chemotherapy?",
+      "options": {
+        "A": "Children's oncology group staging",
+        "B": "International society of paediatric oncology staging",
+        "C": "American joint committee on cancer staging",
+        "D": "Shimada staging"
+      },
+      "correct_answer": "",
+      "explanation": "International society of pediatric oncology (SIOP) is the post-chemotherapy staging system usedfor Wilms tumor. The SIOP approach involves the shrinkage of the tumor using preoperativechemotherapy.Option A: Children's oncology group (COG) staging is used for post-operative staging followed bychemotherapy. It was previously known as national Wilms tumor staging (NWTSG).Option C: TNM staging (AJCC) is used for staging internal malignancies such as gastric, renal,breast, etc.Option D: Shimada staging is used for neuroblastoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    },
+    {
+      "q_no": 25,
+      "question": "A child with a left-sided renal mass is suspected to have Wilms tumor. CECT also revealed asmall mass on the right kidney. A frozen section done intraoperatively confirmed thepresence of bilateral Wilms tumor. What is the stage of the tumor in this child?",
+      "options": {
+        "A": "Stage II",
+        "B": "Stage III",
+        "C": "Stage IV898",
+        "D": "Stage VQuestion No.1"
+      },
+      "correct_answer": "B",
+      "explanation": "Wilms tumor with bilateral involvement of kidneys is stage V.Children's oncology group (COG) staging systemStage IStage IITumor confined to the kidney and completely resected with negative lymph nodes.Tumor extends beyond the kidney but is completely resected with negative margins andlymph nodes.914Stage IStage IIIStage IVStageVTumor confined to the kidney and completely resected with negative lymph nodes.Residual tumor present following surgery confined to theabdomen, including gross ormicroscopic tumor.Hematogenous metastases (1ung, liver, bone, brain, etc.) or lymph node metastases outside the abdominopelvic region.Metastasis to opposite kidney(bilateralrenal involvement).915",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infections and Tumors of Kidney"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "chapter": "Venous Diseases",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not part of Virchow's triad?",
+      "options": {
+        "A": "Venous stasis",
+        "B": "Injury to veins",
+        "C": "Blood hypercoagulability",
+        "D": "Thrombus formation"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following patients are not at an increased risk for developing deep veinthrombosis?",
+      "options": {
+        "A": "Woman on high dose oestrogen therapy for menopausal symptoms",
+        "B": "Child with nephritic syndrome",
+        "C": "Middle aged man with polycythemia vera",
+        "D": "Teenager who has sustained major trauma in an accident"
+      },
+      "correct_answer": "B",
+      "explanation": "Nephritic syndrome is not associated with an increased risk of DVT. Nephrotic syndrome isassociated with an increased risk of developing deep vein thrombosis.Deep vein thrombosis is the presence or formation of a thrombus is present in the deep venoussystem, usually in the deep veins lower limbs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is false regarding deep vein thrombosis (DVT)?",
+      "options": {
+        "A": "Clinical assessment is unreliable",
+        "B": "Mostly bilateral",
+        "C": "Most common clinical presentation is pain and tenderness in calf",
+        "D": "Some cases may directly present as pulmonary thromboembolism"
+      },
+      "correct_answer": "",
+      "explanation": "Most cases of deep vein thrombosis (DVT) are unilateral. It is bilateral in only 30% of theindividuals.DVT refers to thrombosis of the deep venous system.Caused by:••Postoperative thrombosis (most common cause)• Oral contraceptive pills (OCPs)• After childbirth• ImmobilitySites:• Pelvic veins-common• Leg veins―common in femoral and popliteal veins (common on the left side).Fever is the earliest symptom, which is also most commonly accompanied by pain and tendernessin the calf and thigh (option C).The following signs could be elicited:•Positive Homan's sign: Resistance of calf muscles on passive foreceful dorsiflexion of the foot.• Mose's sign: Gentle squeezing of the lower part of the calf from side to side is painful.• Neuhof's sign: Thickening and deep tenderness seen on deep palpation of the calf muscles.Sometimes, the thrombus may get dislodged and present as pulmonary thromboembolism (optionD) with features of dyspnoea, tachypnoea, and chest pain.Clinical features are unreliable for making a definitive diagnosis (option A), and a venous Doppleris the best modality for confirming DVT. It reveals a non-compressible dilated vein. The likelihoodof pulmonary embolism can be predicted using modified Wells criteria.Patients with DVT should be immediately started with subcutaneous low molecular weightheparin (LMWH). If contraindicated due to renal insufficiency or thrombocytopenia-relatedconditions, they should be started on fondaparinux (indirect factor Xa inhibitor) or bivalirudin(direct thrombin inhibitor). Anticoagulants should be administered for a minimum period of 31214months. Vena cava filters are used in patients with bleeding risks (like hemophilia).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 4,
+      "question": "When performing the test on a patient as shown in the image, you noticed that there wastenderness and resistance on flexion. What is this finding known as?1204",
+      "options": {
+        "A": "Pratt's sign",
+        "B": "Moses sign",
+        "C": "Homan's sign",
+        "D": "Lowenberg's signMOMARROW"
+      },
+      "correct_answer": "C",
+      "explanation": "The given findings can be seen in a patient with DVT and this is known as Homan's sign i.e. calftenderness and resistance on forced ankle dorsiflexion.Moses Sign calf tenderness on squeezing the calf from sides.-Lowenberg's sign- pain when blood pressure cuff placed on the calf is inflated to 80 mm of Hg.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q4_img1_e581d77c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 5,
+      "question": "A 30-year-old woman who is in the third trimester of pregnancy started to experience pain inher left leg. She also noticed that her left leg was turning pale and edematous as given in theimage below. What is the cause of this condition?",
+      "options": {
+        "A": "Femoral vein thrombosis and lymphatic obstruction1205",
+        "B": "Deep femoral vein thrombosis",
+        "C": "Lymphatic obstruction only",
+        "D": "Due to pressure exerted by uterus on the iliac veins"
+      },
+      "correct_answer": "",
+      "explanation": "The patient is having phlegmasia alba dolens also known milk leg or white leg. It is due toileofemoral deep vein thrombosis.It is usually seen in pregnant women and in individuals at risk of developing deep veinthrombosis. They typically present with painful, oedematous, and pale lower limb that blanches totouch. The lack of cyanosis differentiates this entity from phlegmasia cerulea dolens.In phlegmasia alba dolens, the thrombosis involves only major deep venous channels of theextremity, thus sparing collateral veins. The venous drainage is decreased but still present.In phlegmasia cerulea dolens, the thrombosis extends to collateral veins, resulting in severevenous congestion with massive fluid sequestration and more significant edema.Both phlegmasia cerulea dolens and phlegmasia alba dolens results from acute massive deep veinthrombosis and can be complicated by venous gangrene.Edema of pregnancy does not present with pain in the lower limbs but edema due to pressureexerted by the gravid uterus on the iliac veins.1215",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q5_img1_ff25f9c8.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp5_img1_0beb0fb3.jpeg",
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 6,
+      "question": "You are tasked with giving post-operative care to a patient who just underwent openabdominal surgery. Which of the following is the most effective treatment to prevent thepatient from developing deep vein thrombosis?",
+      "options": {
+        "A": "Early ambulation",
+        "B": "Physiotherapy",
+        "C": "Prophylactic heparin",
+        "D": "Low dose aspirin"
+      },
+      "correct_answer": "",
+      "explanation": "Heparin, especially low molecular weight heparin (LMWH) is more effective for prophylaxis ofDVT in patients who have undergone major surgeries where early ambulation is not possible.The choice of prophylaxis depends on the type of surgery, trauma, and duration of postoperativeimmobilisation. Major trauma, abdominal and orthopaedic surgeries warrant a longer duration ofpostoperative immobilisation. So, the pharmacological method is preferred in these situations.Mechanical methods are advised in patients who are expected to be up and walking within 24 to48 hours such as after minor trauma. The simplest method is for the patient to ambulate. Theactivation of the calf pump mechanism is an effective means of prophylaxis.Additionally, compression stockings are advised. It can reduce the risk of DVT by exertinggraduated pressure on the leg, with the pressure being greatest at the ankle.Advantages of LMWH over unfractionated heparin:•⚫ LMWH has a longer plasma half-life and significantly higher bioavailability.• The consistent bioavailability and clearance of LMWH do not require monitoring of aPTT oranti-factor Xa activity.• Dosing is merely based on the patient's weight.• There is a more predictable anticoagulant response than with unfractionated heparin.LMWH inhibits factor Xa and not IIa activity, with the ratio of anti-factor Xa to anti-factor IIaactivity ranging from 1:1 to 4:1.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 7,
+      "question": "All of the following are risk factors for developing varicose veins, except?",
+      "options": {
+        "A": "Multiple pregnancies",
+        "B": "Superficial venous thrombosis",
+        "C": "AV fistula in lower limb",
+        "D": "BMI &gt; 40 kg/m2"
+      },
+      "correct_answer": "",
+      "explanation": "Superficial venous thrombosis is not a risk factor for developing varicose veins because the deepvenous system is not affected and there is no increased stasis of blood.Varicose veins are defined as dilated, usually tortuous, subcutaneous veins &gt;3 mm in diametermeasured in the upright position with demonstrable reflux.Important risk factors for varicose veins are:• Sex - Females &gt; Males• Age - increases with age•• Pregnancy (especially multiparity)• Family history• Body mass and height: Increasing BMI (obesity) and height are associated with a high prevalenceof varicose veins.There is inconclusive evidence regarding the increased prevalence of varicose veins in smokers,patients who suffer constipation, and occupations that involve prolonged standing.1216Primary varicose veins are due to genetic or developmental defects in the vein wall that causesdiminished elasticity and valvular incompetence.Secondary varicose veins arise from destruction or dysfunction of valves caused by trauma, DVT,AV fistula, non-traumatic proximal venous obstruction (pregnancy, pelvic tumor).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 8,
+      "question": "A truck driver presents with dilated, tortuous veins of 4 mm in the foot. What is the stage ofclinical classification according to CEAP(Clinical-etiology-anatomy-pathophysiology forchronic venous disorders)?",
+      "options": {
+        "A": "Co",
+        "B": "C1",
+        "C": "C2",
+        "D": "C3"
+      },
+      "correct_answer": "",
+      "explanation": "Dilated tortuous veins of 4 mm indicate varicose veins, so the stage is C2.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 9,
+      "question": "1206A 42-year-old daily wage laborer comes to you with discoloration of her legs. She wasdiagnosed with varicose veins 5 years ago which was left untreated. Identify the feature givenin the picture.",
+      "options": {
+        "A": "Atrophie blanche",
+        "B": "Corona phlebectatica",
+        "C": "Lipodermatosclerosis",
+        "D": "Phlegmasia alba dolensDAILYROUNDS"
+      },
+      "correct_answer": "",
+      "explanation": "Atrophia blanche is localised white atrophic skin frequently surrounded by dilated capillaries andhyperpigmentation, usually seen around the ankles. This is a sign of chronic venous disease.Lipodermatosclerosis is changes in the skin of the lower legs due to chronic venous insufficiency.It is a form of panniculitis (inflammation of the layer of fat under the skin). There is swelling anda tapering of the legs above the ankles, leading to 'inverted champagne bottle' appearance.Inverted champagne bottle legsCorona phlebectatica are fan-shaped patterns of small intradermal veins on the medial or lateralaspects of the ankle or foot. It is also called ankle flare or malleolar flare. It is an early sign ofadvanced venous disease.1217",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q9_img1_7c5983f3.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp9_img1_d0613163.jpeg",
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 10,
+      "question": "A bus conductor was diagnosed with varicose veins. On examination, skin eczema andlipodermatosclerosis were noted. According to the CEAP classification system, He would beclassified as",
+      "options": {
+        "A": "C1",
+        "B": "C2",
+        "C": "C3",
+        "D": "C4"
+      },
+      "correct_answer": "A",
+      "explanation": "According to CEAP classification, varicose veins with skin eczema and lipodermatosclerosis comeunder the clinical class of C4.The clinical class of C4 under CEAP includes changes in skin and subcutaneous tissue secondaryto chronic venous disease. It is further classified as,•C4a- pigmentation or eczema•C4b- lipodermatosclerosis or atrophie blanche• C4c- corona phlebectaticaRecent 2020 update on the CEAP system:•• C2r for recurrent varicose veins• C4c for Corona phlebectatica•C6r for recurrent active venous ulcer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is false regarding Klippel-Trenaunay syndrome?",
+      "options": {
+        "A": "Limb hypertrophy1207",
+        "B": "Not familial",
+        "C": "Surgery is indicated in all cases",
+        "D": "Increased risk of deep vein thrombosis"
+      },
+      "correct_answer": "C",
+      "explanation": "All patients with Klippel-Trenaunay syndrome should be treated conservatively with elasticcompression. A surgical intervention is only indicated for affected large superficial veins providedthe underlying deep system is normal and demonstrates only mild-to-moderate reflux.Klippel-Trenaunay syndrome is a sporadic nonhereditary mesodermal abnormality that usuallyaffects a single lower limb with deep veins which have hypoplastic or aplastic segments. It ischaracterized by a triad of:• Haemangioma presenting as nevus flammeus (port-wine stain)1218• Varicose veins• Soft tissue and bone hypertrophyVenous stripping, ligation, excision, or sclerotherapy are done in suitable cases. Low molecularweight heparin should be given to all patients undergoing surgical procedures as this syndrome isassociated with an increased risk of venous thromboembolism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient presents to you with dilated, tortuous veins of the legs. Which is the bestinvestigation to perform that will confirm the diagnosis?",
+      "options": {
+        "A": "Doppler study",
+        "B": "Duplex ultrasound imaging",
+        "C": "CT venography",
+        "D": "MR venography"
+      },
+      "correct_answer": "B",
+      "explanation": "Duplex ultrasound is the best investigation to confirm varicose veins.Duplex ultrasound gives information about the presence of blood flow in the studied vessels suchas its speed, direction and turbulence alongwith image of surrounding tissues.The aim of the duplex scan in patients with varicose veins is to establish:• If saphenous junctions are incompetent and the extent of reflux in the saphenous veins and theirdiameters.• Number, location, and diameter of incompetent perforating veins• Source of all superficial varices•Competence and evidence of previous venous thrombosis in the deep venous system.Doppler study only gives information about the presence of blood flow in the studied vessels suchas its speed, direction, and turbulence, not the surrounding tissue.Very rarely if pelvic and iliac veins are involved then CT or MR venography might be opted for,when duplex ultrasound fails to visualise properly.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 13,
+      "question": "Which vessel is not involved in the formation of mickey mouse sign that is seen whileperforming a duplex ultrasound?",
+      "options": {
+        "A": "Common femoral artery",
+        "B": "Common femoral Vein",
+        "C": "Great saphenous vein",
+        "D": "Accessory saphenous vein"
+      },
+      "correct_answer": "D",
+      "explanation": "Mickey mouse sign is seen in transverse B mode image of duplex ultrasound formed by:• Common Femoral Vein (CFV)•Common Femoral Artery (CFA)•Greater Saphenous Vein (GSV) at the Saphenofemoral junction (SFJ).It represents the normal anatomy of the femoral vessels as seen in a duplex ultrasound.1219CFAGSVCFAGSVCFV--Common femoral arteryGreat saphenous veinCommon femoral veinOMARROWCFV",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp13_img1_ebfd625d.jpeg",
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 14,
+      "question": "A duplex ultrasound was done on a patient with varicose veins. It revealed incompetence ofthe perforator connecting the great saphenous vein to the superficial femoral vein. What isthis perforator known as?",
+      "options": {
+        "A": "Boyd perforator",
+        "B": "Dodd perforator",
+        "C": "Kustner perforator",
+        "D": "Cockett perforator"
+      },
+      "correct_answer": "B",
+      "explanation": "Dodd's perforator connects the great saphenous vein to the superficial femoral veins. It is alsoknown as 'above knee' perforator and is seen at the inferior of the thigh.Perforating veins connect the superficial venous system to the deep venous system by penetratingthe fascial layers of the lower extremity. Although the total number of perforator veins is variable,up to 100 have been documented.Named perforators:•• Adductor Canal (thigh) – Hunter's perforator-• Above Knee - Dodd's perforator⚫ Below Knee - Boyd's perforator••Medial Calf - Cockett I, II, and III perforator•Ankle - May or Kustner perforator1220Perforators of the legLongsaphenous veinPopliteal veinDodd'sperforators(mid-thigh)MARROWBoyd'sperforator(knee)Cockett'sperforators(1. 11. 1)(lower leg)May/Kustnerperforator(ankle)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp14_img1_5dbd15ca.jpeg",
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 15,
+      "question": "1208Presence of which of the following would make a patient with varicose veins unsuitable forsclerotherapy?",
+      "options": {
+        "A": "Deep vein thrombosis",
+        "B": "Multiple incompetent perforators",
+        "C": "Varicose vein with leg ulcer",
+        "D": "Recurrence of varicose veins after ligation and stripping surgery"
+      },
+      "correct_answer": "A",
+      "explanation": "Deep vein thrombosis is a contraindication for sclerotherapy in varicose veins.This is because, in patients with DVT, the superficial veins are the only valved venous pathwaycarrying blood back to the heart, and excising them in the presence of deep venous thrombosiswill only aggravate the condition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 16,
+      "question": "Which sclerosant is most commonly used when performing sclerotherapy for varicose veins?",
+      "options": {
+        "A": "Sodium tetradecyl sulphate",
+        "B": "Polidocanol",
+        "C": "Hypertonic saline",
+        "D": "Sodium morrhuate"
+      },
+      "correct_answer": "",
+      "explanation": "The most commonly used sclerosant is sodium tetradecyl sulfate.In injection sclerotherapy a detergent is injected directly into the superficial veins. The detergentdestroys the lipid membranes of endothelial cells causing them to shed, leading to thrombosis,fibrosis and obliteration (sclerosis).Injection sclerotherapy alone can be successful in varicose veins &lt;3 mm in diameter and intelangiectatic vessels.Complications of sclerotherapy:•Allergic reaction,• Local hyperpigmentation•⚫ Thrombophlebitis• DVT• Skin necrosisPatients with symptomatic GSV or SSV reflux may be treated with endovenous ablationtechniques or surgical removal of the affected vein.1221Saphenous vein ligation and stripping is preferred therapy for patients with GSVs of very largediameter (&gt;2 cm).Types of sclerosants:Detergents• Sodium tetradecyl sulfate• Polidocanol• Sodium morrhuate• Ethanolamine oleateOsmotic agents•Hypertonic salineChemical irritants• Chromated glycerin• Polyiodinated iodine• Alcoholic solution of zein•BleomycinTessari method• Widely used method to prepare foam for sclerotherapy•Sclerosant Air ratio taken is 1:3 or 1:4.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is done in Trendelenburg operation?",
+      "options": {
+        "A": "Stripping of the superficial varicose vein",
+        "B": "Ligation of the perforators",
+        "C": "Saphenofemoral flush ligation",
+        "D": "Ligation of small tributaries at the distal end of superficial varicose vein"
+      },
+      "correct_answer": "",
+      "explanation": "Saphenofemoral flush ligation is done in Trendelenburg's procedure.The great saphenous vein is stripped and tied close to the common femoral vein at thesaphenofemoral junction so that there aren't any branches left that lead to recurrences.Procedure:An oblique groin incision is made at the level of and lateral to the pubic tubercle. The greatsaphenous vein is identified and dissected to the saphenofemoral junction.Six great saphenous vein tributaries are normally encountered close to the saphenofemoraljunction:• The superficial inferior epigastric vein and superficial circumflex iliac vein laterally• The deep and superficial external pudendal veins medially• More distally the anterolateral and posteromedial thigh veinsA flush saphenofemoral junction ligation is then performed and the great saphenous veinretrogradely stripped to the knee. Flush ligation is when the great saphenous vein is stripped andtied close to the common femoral vein at the saphenofemoral junction so that there aren't anytributaries that lead to recurrences.1222",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following statements regarding complications of varicose vein surgery is false?",
+      "options": {
+        "A": "Injury to the lymphatic system can cause secondary lymphoedema",
+        "B": "Saphenous nerve injury causes loss of sensation in the medial aspect of the leg",
+        "C": "The sural nerve is in danger during stripping of the great saphenous vein",
+        "D": "Deep vein thrombosis can occur"
+      },
+      "correct_answer": "C",
+      "explanation": "The sural nerve accompanies the short saphenous vein laterally along its course and suppliescutaneous sensation to the lateral malleolar region. Thus it is more prone to injury duringstripping of the short saphenous vein, not the great saphenous vein.The saphenous nerve accompanies the great saphenous vein medially from the ankle to the levelof the knee and supplies cutaneous sensation to the medial leg and ankle. Thus it is more prone toinjury during stripping of the great saphenous vein.Surgery for the varicose veins extraction may trigger injury of the lymph vessels and may lead tosecondary lymphedema.Injury and inflammation to the venous system during varicose vein surgery can cause slowing andstasis of blood flow in the lower limb, making them prone to develop deep vein thrombosispostoperatively.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 19,
+      "question": "1209In patients with chronic venous insufficiency, where are venous ulcers most likely to develop?",
+      "options": {
+        "A": "Medial aspect of the foot",
+        "B": "Lower 1/3rd of leg",
+        "C": "Lower 2/3rd of leg",
+        "D": "Middle 1/3rd of leg"
+      },
+      "correct_answer": "B",
+      "explanation": "Venous ulcers due to chronic venous insufficiency are most commonly seen in the lower of theleg and foot. They usually lie just proximal to the medial or lateral malleolus.Venous ulcers are accompanied by lipodermatosclerosis and hemosiderosis.FeaturePredisposing factorsLocationUlcer characteristicsAppearance of the lower limbVenous ulcerVaricose veins Previous DVTRecurrent superficial thrombophlebitisLower 1/3 of leg'gaiters area'Shallowandflat marginsExudate with slough and granulation tissue at base of woundLipodermatosclerosisAtrophie blancheLimb oedemaNormalcapillary refill timeArterial ulcerPeripheral arterial diseaseDiabetesSmoking HypertensionLateral malleolus and tibial aspect of legToes and feetPunched out, deep, and irregular in shapeNecrotic and unhealthy tissue at base of woundPale, shiny skinAbsent or weak peripheral pulses Delayedcapillary refill time1223",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp19_img1_e2aa65ae.jpeg",
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 20,
+      "question": "A 61-year-old man presented with a recurrent, tender, erythematous rash on the medialaspect of the right forearm and lower limb as shown in the image. He was diagnosed withpancreatic adenocarcinoma 1 year ago. Blood investigations showed normal eosinophil countsand no signs of infections. What is the most likely diagnosis?",
+      "options": {
+        "A": "Migratory thrombophlebitis",
+        "B": "Urticaria",
+        "C": "Secondary to repeated cannulation of vein",
+        "D": "CellulitisT"
+      },
+      "correct_answer": "A",
+      "explanation": "The most likely diagnosis is migratory thrombophlebitis.It is a paraneoplastic syndrome that is also known as Trousseau's syndrome or Trousseau's sign ofmalignancy. It is characterised by recurrent episodes of localised thrombosis of the superficialveins of limbs. It can lead to tender and erythematous rashes.Migratory thrombophlebitis is seen in:• Pancreatic cancer (most common)•• Lung cancer• Gastrointestinal cancer••Ovarian cancerProstate cancer• LymphomaNote: Trousseau's sign is seen in hypocalcemia where there is an involuntary contraction of themuscles of the hand and wrist when a blood pressure cuff is placed on the arm and inflated to20mm of Hg above systolic blood pressure.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q20_img1_c19a7ca2.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 21,
+      "question": "A 60-year-old male patient with sudden onset pain, cyanosis, and edema of the left upperlimb. Doppler ultrasound revealed thrombosis of the left subclavian vein. Which of thefollowing is false regarding this condition?1210",
+      "options": {
+        "A": "Can be caused by indwelling venous catheters",
+        "B": "Treated with IV anticoagulants",
+        "C": "Primary axillary vein thrombosis is seen in hypercoagulable states",
+        "D": "May occur following excessive arm exercise"
+      },
+      "correct_answer": "C",
+      "explanation": "The patient has axillary-subclavian vein thrombosis. Hypercoagulable states lead to secondaryaxillary vein thrombosis.Axillary-subclavian vein thrombosis (ASVT) is of 2 types.1224Primary ASVT occurs as a result of compression of the subclavian vein in the costoclavicularspace by repeated contraction of muscles that surround the thoracic outlet. There is repeatedcompression and traumatization to the vein. This leads to the formation of clots. It is also knownas:• Paget-Schrotter Syndrome• Venous thoracic outlet syndrome• Effort thrombosisSecondary ASVT occurs due to venous injury by indwelling central venous catheters, externaltrauma or pacemaker wires. It is also seen in hypercoagulable states.Symptoms and signs include pain, edema, and cyanosis of the upper extremity. Significantsuperficial venous distension can be seen in arm, forearm, shoulder and anterior chest wall.Doppler study is the investigation of choice. Anticoagulation is initiated once ASVT is diagnosedto prevent pulmonary embolism. In severe cases, thrombolytic therapy is done using tissueplasminogen activator (rtPA) or streptokinase.Adjuvant procedures following thrombolytic therapy may include balloon angioplasty for residualvenous narrowing and cervical or first rib resection for thoracic outlet abnormalities.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 22,
+      "question": "Identify the device given below.",
+      "options": {
+        "A": "Dialysis port",
+        "B": "Chemoport",
+        "C": "Electro-convulsive therapy lead",
+        "D": "Gamma cameraOMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows a chemoport.Chemoports are implantable venous access devices used to facilitate chemotherapyadministration.Internal jugular veins and subclavian veins are the commonly used access veins for portplacement. These devices are usually retained for a period of 1 to 2 years or more after which thedevice is explanted.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q22_img1_734383f9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following vessel is affected in May-Thurner syndrome?",
+      "options": {
+        "A": "left iliac vein",
+        "B": "Right iliac artery",
+        "C": "Left iliac artery",
+        "D": "Right iliac vein1211"
+      },
+      "correct_answer": "A",
+      "explanation": "May-Thurner syndrome refers to iliofemoral venous thrombosis.At the site where the right iliac artery crosses over the left iliac vein, the left iliac veinchronically narrowed predisposing to iliofemoral venous thrombosis.may become1225Compression of Vein by Artery against Spine seen from belowRight commoniliac arteryLeft commoniliac veinRight commoniliac arteryLeft commoniliac veinSpine",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp23_img1_b102f87f.jpeg",
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 24,
+      "question": "A 65-year-old woman with a history of varicose vein, presented with a painless lesion on herleft leg for the past 1 month. On examination, an ulcer of size 5 x 5 cm with an irregularmargin and sloping edge was found on the medial malleolus of the left leg. All the followingcan be used to manage this patient except?[Image unavailable]",
+      "options": {
+        "A": "Oral pentoxifylline",
+        "B": "Surgical excision and pinch mesh grafting",
+        "C": "4 layer bandaging system",
+        "D": "Revascularization"
+      },
+      "correct_answer": "D",
+      "explanation": "The likely diagnosis, in this case, is a venous ulcer secondary to the varicose vein.Revascularization is not a part of the management of venous ulcers.Venous ulcers are due to chronic venous insufficiency and are particularly seen in the areabetween the muscles of the calf and ankle. It has a sloping edge and the floor contains granulationtissue covered by slough and exudate. Marjolin's ulcer is a type of squamous cell carcinoma seenin chronic long-standing venous ulcers.Management of venous ulcers:•• Bisgaard's regimen• Education• Elevation of the affected limb to reduce the edema• Elastic compression stockings - The ideal interface pressure in venous ulceration is 35-40mmHg.• Evaluation• 4 layer bandaging system comprising of:• Orthopedic wool• Cotton crepe• Elastic bandage - first compressive layer• Cohesive bandage second compressive layer-• Antibiotics are given only if the wound is infected.• Regular dressing.1226•Medical management by oral pentoxifylline is considered which helps in reducing the viscosityand improving circulation.•Surgery Ulcer excision with pinch mesh grafting has a good outcome and helps in preventingrecurrence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 25,
+      "question": "A 40-year-old hairdresser presented with complaints of swelling, throbbing pain, andheaviness in her left leg for the past 1 year. A duplex scan done showed great saphenous veinincompetence. Which of the following is the treatment of choice?",
+      "options": {
+        "A": "Trendelenburg's procedure",
+        "B": "Dodd and Crockett surgery",
+        "C": "SEPS",
+        "D": "Endothermal ablation"
+      },
+      "correct_answer": "D",
+      "explanation": "The above clinical scenario is suggestive of varicose veins and the treatment of choice in thispatient is endothermal ablation.Management of varicose veins1. Great saphenous vein (GSV) and saphenofemoral incompetence (SFJ)•Endothermal ablation - It is the gold standard method. It includes:• Endovenous laser ablation (EVLA)●Radiofrequency ablation (RFA.•Trendelenburg procedure ± stripping - Flush ligation of SFJ and ligation of 6 tributaries.2. Short saphenous vein (SSJ) and saphenopopliteal incompetence (SPJ).•Flush ligation of SPJ. No stripping is done to prevent nerve injury• EVLA or RFA.3. Perforator incompetence• Dodd and Crockett surgery - Multiple subfacial ligations.• Subfascial endoscopic perforator surgery (SEPS)• EVLA or RFANew treatment modalities••• Foam sclerotherapy• Endovenous glue therapy• Trivex - Transilluminated powered phlebectomy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    },
+    {
+      "q_no": 26,
+      "question": "A 55-year-old locomotive operator presents with complaints of worm-like swelling over hisright leg. During clinical examination, a Brodie Trendelenburg test is performed. Which ofthe following statements is false regarding the test?",
+      "options": {
+        "A": "A tourniquet can be used for occluding the saphenofemoral junction",
+        "B": "Rapid filling from above indicates saphenofemoral incompetence",
+        "C": "Gradual filling from below upwards indicates saphenopopliteal incompetence",
+        "D": "Positive Brodie Trendelenburg test indicates a need for surgery"
+      },
+      "correct_answer": "C",
+      "explanation": "The gradual filling of veins from below upwards indicates the perforator incompetence. BrodieTrendelenberg test is performed to test for the incompetence of the saphenofemoral valve and thecommunicating system.1. Trendelenburg's test - Lay the patient down and elevate the leg. Empty the vessels and tie atourniquet below the SFJ. Ask the patient to stand up:• Trendelenburg's test part 11 - Here the tourniquet is not released. A gradual filling from below toupwards indicates perforator incompetence.1227•Trendelenburg's test part 1 - Here the tourniquet is released. A rapid filling from above shows thesaphenofemoral incompetence.2. Morrisey's cough impulse: the patient is asked to cough. A cough impulse at thesaphenofemoral junction indicates SFJ incompetence.3. Schwartz test: If a thrill is felt at SFJ on tapping over the incompetent vein, indicates SFJincompetence.4. Modified Perthes test: A tourniquet is tied below SFJ and the patient is asked to walk. Anincrease in pain and prominence of dilated veins indicate DVT.5. Fegan's method - Mark the places of excessive bulges within the varicosities. Ask the patient tolie down and empty the varicose vessels. Palpate along the marked area to look for gaps and pitsin the deep fascia, which indicates perforator incompetence.1228",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Venous Diseases"
+    }
+  ]
+}

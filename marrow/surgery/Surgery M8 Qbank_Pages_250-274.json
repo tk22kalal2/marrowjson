@@ -1,0 +1,440 @@
+{
+  "chapter": "Carcinoma Breast - Treatment",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What procedure is depicted in the image?",
+      "options": {
+        "A": "Brachytherapy",
+        "B": "Lateral pectoral block",
+        "C": "USG-guided biopsy",
+        "D": "Sentinel lymph node biopsyOMARROW"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q1_img1_594ff953.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp1_img1_a3a529ee.jpeg",
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is true regarding sentinel lymph node biopsy in a patient with a T2 N1Mo breast tumour?",
+      "options": {
+        "A": "If biopsy is positive, then axillary dissection is not done",
+        "B": "If biopsy is negative, then axillary dissection is done",
+        "C": "If biopsy is positive then tumour free margin should be &gt; 2 cm",
+        "D": "It is not indicated"
+      },
+      "correct_answer": "D",
+      "explanation": "Sentinel lymph node biopsy is only done in node-negative tumors. It is not done in N1 stagetumors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 3,
+      "question": "250A 40-year-old woman presents with a lump in her right breast. On examination, a 3 cmpalpable mass is felt in the right upper quadrant of the right breast. A mammogram issuggestive of a malignant lesion. Biopsy confirmed invasive ductal carcinoma with no nodalinvolvement. How will you manage this patient?",
+      "options": {
+        "A": "Modified radical mastectomy",
+        "B": "Adjuvant chemotherapy with mastectomy",
+        "C": "Breast conservation therapy with adjuvant radiotherapy",
+        "D": "Modified radical mastectomy with adjuvant radiotherapy"
+      },
+      "correct_answer": "C",
+      "explanation": "This patient has stage T2 breast carcinoma. These patients are managed with breast conservationtherapy with adjuvant radiotherapy.Indications of breast conservation surgery (BCS):• DCIS/Tis tumors•• T1-2 tumors• No contraindication for adjuvant radiotherapy• Excision with clear margins is possible• Who does not want a mastectomy• Locally advanced tumors with excellent response to neoadjuvant chemotherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 4,
+      "question": "Breast conservative surgery can be performed in which of the following patients with breastcarcinoma?",
+      "options": {
+        "A": "2, 3, 4 and 5",
+        "B": "1, 3 and 4",
+        "C": "2 and 3",
+        "D": "Only 1"
+      },
+      "correct_answer": "D",
+      "explanation": "Breast conservation surgery can be done in a post-partum woman.Breast cancer diagnosed during the second or third trimester can be managed with breastconservation surgery followed by adjuvant chemotherapy.For breast cancer diagnosed late in the third trimester, breast conservation surgery can beperformed, deferring breast irradiation until after delivery.Breast cancer diagnosed during the first trimester should be treated with mastectomy. Breastconservation surgery is contraindicated in the first trimester since post-operative radiotherapycannot be deferred for a long time and chemotherapy is contraindicated in the first trimester.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient with early breast carcinoma of stage T3 No Mo does not want to undergomastectomy. What is the next best treatment of choice in her case?",
+      "options": {
+        "A": "Breast conservation surgery followed by radiation therapy",
+        "B": "Chemotherapy alone since mastectomy is the only option",
+        "C": "Neoadjuvant chemotherapy followed by breast conservation surgery",
+        "D": "Mastectomy only since it is a large operable tumour"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the clinical scenario, neoadjuvant chemotherapy followed by breast conservationsurgery (BCS) is the next best treatment.Stage T3 No Mo tumors are lesions of size &gt;5 cm and are considered as large operable breastcancer (LOBC). The best management for such tumors is mastectomy.262In case the patient is not willing for mastectomy, the next best treatment is neoadjuvantchemotherapy to shrink the tumor, followed by breast conservation surgery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 6,
+      "question": "You are assisting in a modified radical mastectomy. Which of the following steps will not bedone by the operating surgeon during this procedure?",
+      "options": {
+        "A": "Removal of pectoralis major muscle",
+        "B": "Level 2 axillary lymph nodes dissection",
+        "C": "Removal of nipple-areola complex251",
+        "D": "Removal of pectoral fascia"
+      },
+      "correct_answer": "A",
+      "explanation": "Pectoralis major is not removed in modified radical mastectomy.Structures removed in modified radical mastectomy:• Whole breast tissue•• The skin over the breast tissue• Nipple-areola complex••• Pectoral fascia•Levels I, II, ± III axillary lymph nodesThe pectoralis minor muscle is either cut (Patey's, Scanlon's modification) or retracted(Auchincloss).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 7,
+      "question": "In patients with which of the following features of tumor involvement should you not performradical mastectomy?",
+      "options": {
+        "A": "Pectoralis major involvement",
+        "B": "Distant metastasis",
+        "C": "Axillary lymph node involvement",
+        "D": "Inter pectoral lymph node involvement"
+      },
+      "correct_answer": "B",
+      "explanation": "Distant metastasis is a contraindication for radical mastectomy.Excision of the breast, the pectoralis major and minor muscles, and all axillary lymphnodes constitute radical mastectomy. It is seldom performed given that it causes substantialmorbidity due to shoulder joint restriction, pain, significant upper limb lymphedema, and chestwall deformity, with no survival advantage when compared to less radical surgery. In the case ofdistant metastases, less radical surgery is of no benefit either.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following structures will not be removed while performing radical mastectomyin patients with breast carcinoma?",
+      "options": {
+        "A": "Pectoralis major",
+        "B": "Pectoralis minor",
+        "C": "Axillary lymph nodes",
+        "D": "Supraclavicular lymph nodes"
+      },
+      "correct_answer": "D",
+      "explanation": "Supraclavicular lymph nodes are not removed in radical mastectomy.In Halsted radical mastectomy, the following structures are removed:• All breast tissue and skin•Nipple-areolar complex• Pectoralis major and pectoralis minor muscles• Level I, II, and III axillary lymph nodes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 9,
+      "question": "A 50-year-old patient underwent a modified radical mastectomy for breast cancer. A drainwas inserted at the site of the surgery. When can the drain be removed?",
+      "options": {
+        "A": "24 hr output &lt;100 cc",
+        "B": "Output &lt;100 cc for 2 consecutive days",
+        "C": "24 hr output &lt;30-40 cc",
+        "D": "Output &lt;30-40 cc for 2 consecutive days"
+      },
+      "correct_answer": "D",
+      "explanation": "263The drain after mastectomy is removed when the output is &lt;30-40 cc for 2 consecutive days.The closed system suction drains are put in to prevent the formation of seroma. It is the mostcommon complication of mastectomy and axillary lymph node dissection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 10,
+      "question": "The following image shows the boundaries of axillary lymph node dissection. The inferiorboundary marked as 'A' denotes252A",
+      "options": {
+        "A": "Axillary vein",
+        "B": "Thoracodorsal pedicle",
+        "C": "Angular vein",
+        "D": "Costococlavicular ligament"
+      },
+      "correct_answer": "",
+      "explanation": "The space of axillary lymph node dissection is inferiorly bounded by the angular vein (marked as'A').Boundaries of axillary lymph node dissection (ALND):••Superior Axillary vein-• Lateral - Thoracodorsal pedicle•Medial - Costoclavicular ligament (Halstead ligament)•Inferior Angular vein-Indications for ALND:• Locally advanced (T4a, b, c) or inflammatory breast cancer•Metastatic disease in axillary lymph node(s) proven by needle biopsy, clinically palpable ornonpalpable nodes which are abnormal on imagingStructures preserved during ALND:• Lateral and medial pectoral nerves•Thoracodorsal pedicleHalsteadLigament (M)Long Thoracic NAngularVein (1)Axillary Vein (S)Thoraco-DorsalPedicle (L)Docrohan ImagesBoundaries of Axillary Dissection",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q10_img1_ca1ac9ad.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp10_img1_76e632fb.jpeg",
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is the most common complication of mastectomy?",
+      "options": {
+        "A": "Seroma",
+        "B": "Lymphedema",
+        "C": "Intercostobrachial nerve damage",
+        "D": "Wound infection"
+      },
+      "correct_answer": "A",
+      "explanation": "264The most common complication post-mastectomy is the development of a seroma.Seroma is a collection of fluid in a surgically created cavity, that results from the transection ofvessels and lymphatics. It presents as a localized, well-circumscribed swelling with discomfort.The fluid is clear, yellow, and viscous.Placement of closed suction drains that obliterate the space between the pectoralis major and skinflap is used to prevent seromas.•Other complications include:• Wound infection• Skin flap breakdown or necrosis•⚫ Lymphedema•⚫ Hemorrhage",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 12,
+      "question": "After modified radical mastectomy, a patient complained of loss of sensation over the medialaspect of the right upper arm. The nerve most likely damaged is",
+      "options": {
+        "A": "Intercostobrachial nerve",
+        "B": "Axillary nerve",
+        "C": "Medial cutaneous nerve of arm",
+        "D": "Long thoracic nerve253"
+      },
+      "correct_answer": "A",
+      "explanation": "Resection of the intercostobrachial nerve (ICBN) causes loss of sensation over the medial aspect ofthe upper arm. The intercostobrachial nerve is the lateral cutaneous branch of the secondintercostal nerve.Position of nerves during modifiedradical mastectomyLong thoracicnerveAxillary veinMAIntercostobrachialnerveThoracodorsal artery,vein, and nerveLattissimusdorsi muscleOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp12_img1_1d6e9746.jpeg",
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient underwent surgery for breast carcinoma. She now presents with painless swellinginvolving the arm as shown in the image below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Lymphedema",
+        "B": "Lymphangiosarcoma",
+        "C": "Venous thrombosis",
+        "D": "Cellulitis"
+      },
+      "correct_answer": "A",
+      "explanation": "The generalized swelling of the left arm of the patient post-surgery for breast carcinoma issuggestive of post-mastectomy lymphedema.Lymphoedema occurs when interstitial fluid accumulates due to defective lymphatic drainage. Itis a common complication of breast cancer treatment, involving axillary lymph nodedissection and radiotherapy. Sentinel lymph node dissection (SLND) reduces the risk of265lymphedema significantly.Clinical signs and symptoms are observed in the ipsilateral arm. A significant increase in limb sizedue to swelling is seen. Other symptoms are heaviness, tightness, numbness, tingling, limbfatigue, and reduced limb mobility.Diagnosis is predominantly based on the clinical swelling of the arm. The girth of the affected arm&gt;2 centimetres than the normal limb, a 200-mL or more increase in limb volume, or a 5% orgreater limb volume change are other diagnostic criteria.Management:••• Limb elevation, elastic arm stockings, and pneumatic compression devices to reduce swelling.• Using a low-pH water-based moisturizer to prevent dry skin caused by excess fluidaccumulation.•Manual lymphatic drainage (MLD) by a therapist followed by simple lymphatic drainage (SLD)by the patient daily aids interstitial fluid evacuation.•Surgical options include lymphaticovenular anastomosis, liposuction, and debulking.Other options:Option B: Stewart-Treves syndrome refers to lymphangiosarcoma seen in chronic long-standinglymphedema following mastectomy (more than 10 years). They present as single/multiplebluish-red skin and subcutaneous nodules. They can ulcerate and hemorrhage.Option C: Axillary venous thrombosis or Paget-Schrotter disease is seen in patients doing rigorousexercise and in weightlifters. The compression of the subclavian vein at the thoracic outlet causespainful swelling of the arm.Option D: Cellulitis (lymphangitis) is a bacterial infection of the skin and subcutaneous tissue. It ischaracterized by a painful area of erythematous and edematous tissue.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q13_img1_6a4679a5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient presented with acute worsening of edema of the left hand, which was present for thepast 5 years. Her surgical history was relevant for a radical mastectomy with radiationtherapy for left-sided breast carcinoma. On examination, the limb appears as shown below.What is the likely diagnosis in this patient?254",
+      "options": {
+        "A": "Teitze syndrome",
+        "B": "Stewart-Treves syndrome",
+        "C": "Rhabdomyosarcoma",
+        "D": "Milroy's Disease"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical scenario and image are suggestive of Stewart-Treves syndrome.The development of angiosarcoma after a combination of postmastectomy lymphedema andradiation therapy is known as Stewart-Treves syndrome. It can arise de-novo or in associationwith post-mastectomy lymphedema. It presents with acute worsening of edema withsubcutaneous nodules which are hemorrhagic or ulcerative.Treatment is preoperative chemotherapy and radiotherapy followed by surgical excision (radicalamputation of arm). The prognosis is poor.Option A: Tietze syndrome is an inflammatory condition characterized by chest pain and swellingof the cartilage around the ribs at the costochondral junction.Option C: Rhabdomyosarcoma is a rare type of cancer that affects the muscle tissue, mostly inchildren and adolescents.Option D: Milroy's disease is a familial disease, caused by congenital abnormalities inthe lymphatic system. Disruption of the normal drainage of lymph leads to fluid accumulation266and hypertrophy of soft tissues.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q14_img1_8e57d586.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 15,
+      "question": "Identify the flap shown in the image used for breast reconstruction.RRSkin and fatmoved to chestOMARROW",
+      "options": {
+        "A": "Deep inferior epigastric perforator flap",
+        "B": "Transverse rectus abdominis myocutaneous flap255",
+        "C": "Lattisimus dorsi flap",
+        "D": "External oblique flap"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows a deep inferior epigastric perforator (DIEP) flap. It is a free flap and a variant ofTRAM flap where only the skin and fat are moved to the chest.Transverse rectus abdominis myocutaneous (TRAM) flap is either based on the superior orinferior epigastric artery or both (supercharged TRAM). In a TRAM flap, the skin, fat, and rectusmuscle are moved to the chest.If robust DIEA perforators are identified with a good caliber and dissection can be performedwithout dividing the muscle, a DIEP flap is preferred. Otherwise, if small-caliber perforators areencountered and not aligned over the medial or lateral row, a TRAM flap is performed to ensureflap viability.Transverse rectus abdominismyocutaneous flapTransverserectusabdominismuscleSkin, Fat andmusclemoved to chestOMARROWOption C: Latissimus dorsi (LD) flap is an axial flap based on the thoracodorsal pedicle.267Latissimus dorsi flapLatissimusdorsi-muscle-Skin, fat andmusclemoved to chestOMARROWDIEP flap, TRAM flap, and LD flap are autogenous tissues used in breast reconstruction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q15_img1_108a11ca.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp15_img1_70d47491.jpeg",
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is the gold standard flap used in breast reconstruction withautogenous tissue?",
+      "options": {
+        "A": "Deep inferior epigastric perforators flap",
+        "B": "Latissimus dorsi musculocutaneous flap",
+        "C": "Transverse rectus abdominis myocutaneous flap",
+        "D": "Thoracoepigastric flap"
+      },
+      "correct_answer": "A",
+      "explanation": "The gold standard in breast reconstruction with autogenous tissue is the deep inferior epigastricperforator (DIEP) flap.In DIEP flap, using a microvascular technique, only subcutaneous fat and skin are taken, and nomuscle is removed. As the muscle is spared, there is a decreased risk of abdominal wall weaknessand its associated complications..Lattismus dorsi flap (LD flap) - does not provide the bulk necessary and an implant is usuallyrequired.Transverse rectus abdominis myocutaneous flap (TRAM flap):Skin, fat, and muscle are moved to the chest.• It is the most commonly used flap.• It provides good cosmesis and bulk. An implant is usually not required.• Since the rectus abdominis muscle is excised in the procedure, it can lead to abdominal wallweakness and hernias.The easiest type of reconstruction is using a silicone gel implant under the pectoralis majormuscle. Capsular contraction is a dreaded complication of silicone implants.In breast reconstruction surgeries, the timing of reconstruction may be immediate or delayed.Impediments to immediate reconstruction include insufficient theatre time and a lack ofexperienced reconstructive surgeons. In addition, if the patient is likely to need post-opradiotherapy, then a delayed reconstruction using a flap often gives better results.268",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following will you not add as part of the chemotherapeutic regime for a patientwith breast cancer?",
+      "options": {
+        "A": "Only 5",
+        "B": "1, 3 and 4",
+        "C": "2 and 5",
+        "D": "3, 4 and 5"
+      },
+      "correct_answer": "C",
+      "explanation": "Fludarabine and vincristine are not used in chemotherapy for carcinoma breast.The present chemotherapy regimen used is ACT regimen, i.e., adriamycin, cyclophosphamide, andtaxane (paclitaxel). It comprises 4 cycles of AC followed by 4 cycles of T.Earlier regimens that are less commonly used currently are as follows:• CAF - Cyclophosphamide, Adriamycin, 5-Fluorouracil• CMF - Cyclophosphamide, Methotrexate, 5-FluorouracilIndications for chemotherapy in carcinoma breast:• Lymph nodes positive• Lymph nodes negative but tumor size of &gt;1 cm•Lymph nodes negative and tumor size of &gt;0.5 cm withBlood vessel/Lymph vessel invasion• ER/PR -ve• Her-2/neu overexpression• High grade• Triple-negative breast carcinoma•High recurrence score after Oncotype Dx.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 18,
+      "question": "All are aromatase inhibitors used in the treatment of breast cancer except",
+      "options": {
+        "A": "Letrozole",
+        "B": "Anastrozole",
+        "C": "Exemastane",
+        "D": "Fulvestrant"
+      },
+      "correct_answer": "D",
+      "explanation": "Fulvestrant is a selective estrogen-receptor down regulator (SERD).Selective aromatase inhibitors include:•• Anastrozole• Exemestane• LetrozoleThey are used for the treatment of breast cancer in postmenopausal women. Selective aromataseinhibitors block the conversion of the hormone androstenedione into estrone by inhibiting thearomatase enzyme. This is the main mechanism of the production of estrogen in postmenopausalwomen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 19,
+      "question": "A woman presented to the OPD with a painless lump in the left breast. Biopsy confirmed thepresence of ductal carcinoma. Immunohistochemistry showed ER +ve, PR +ve, andHER2/neu-ve. Which of the following is the latest drug approved for treating this condition?256",
+      "options": {
+        "A": "Herceptin",
+        "B": "Palbociclib",
+        "C": "Buparlisib",
+        "D": "Ipatasertib"
+      },
+      "correct_answer": "B",
+      "explanation": "Palbociclib is the newest drug approved for metastatic, hormone receptor-positive,HER-2/neu-negative breast cancer.269It is used along with fulvestrant, a selective estrogen-receptor downregulator (SERD) based on thePALOMA 3 trial.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 20,
+      "question": "What is the drug used for estrogen dependant breast cancer?",
+      "options": {
+        "A": "Estrogen",
+        "B": "Clomiphene citrate",
+        "C": "Tamoxifen",
+        "D": "Adriamycin"
+      },
+      "correct_answer": "C",
+      "explanation": "Tamoxifen is a selective estrogen receptor modulator (SERM) that is mainly used for estrogenreceptor-positive breast cancers in pre-menopausal women.••It exhibits selective agonistic and antagonistic activity for ER receptors (ERα and ERẞ):Agonist activity at the uterus, bone, liver, and pituitary• Antagonist activity in breast and blood vesselsUses:•• Part of the primary treatment regimen for estrogen receptor-positive (ER+) breast cancers inpre-menopausal women•Adjuvant therapy after breast conservative surgery to prevent a recurrence•• Tamoxifen also is effective (a 40%-50% reduction in tumor incidence) in preventing ER+ breastcancer in women at increased risk.Adverse effects:•Vasomotor symptoms (hot flashes) and sweating• Endometrial cancer• Increased risk of thromboembolic events•Fatty liver disease",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 21,
+      "question": "A middle-aged woman underwent a trucut biopsy for the suspicion of malignancy on amammogram. Microscopy showed the presence of invasive breast carcinoma. IHC staining ofthe tumor is given below. Which of the following drugs will you add along withchemotherapeutic agents for treating this patient?ERPRHER2",
+      "options": {
+        "A": "Tamoxifen",
+        "B": "Tamoxifen + Trastuzumab",
+        "C": "Fulvestrant257",
+        "D": "Palbociclib"
+      },
+      "correct_answer": "B",
+      "explanation": "The immunohistochemistry staining shown in the above image is ER+, PR+, and HER2+, which istriple positive or luminal type B. Chemotherapy along with endocrine therapy, and trastuzumab isthe adjuvant treatment of choice.Positive immunohistochemistry staining is indicated by the presence of brown-colored tissue.•The Estrogen receptor (ER) and Progesterone receptor (PR) are both nuclear receptors, hence,the nucleus is stained brown if positive.• The human epidermal growth factor receptor type 2 (HER2) is a membrane receptor, hence thecell membrane is stained brown if positive.The image below shows positive and negative staining for ER, PR, and HER2.270(+)(-)ERPRHER2The adjuvant treatment modalities currently in practice include:• Endocrine treatment such as tamoxifen or ovarian suppression. It is given for patients withtumors that are hormone receptor-positive (either ER+ or PR+)..• Anti-HER2 therapy with trastuzumab (humanized monoclonal antibody). It is given for patientswith tumors that are HER2 overexpressing.•Chemotherapy is given for hormone negative, HER2+, and ER+ tumors.The table below shows the summary of the adjuvant treatment approach:Note: Palbociclib is used along with hormone therapy in ER +ve, PR +ve, HER2/neu -ve tumors.Tumor hormone receptor status (ER,PR)Tumor HER2/neu statusPositiveNegativePositiveEndocrine therapy + chemotherapy trastuzumabChemotherapy + trastuzumabNegativeEndocrine therapy ± chemotherapyChemotherapy",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q21_img1_9980e961.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp21_img1_a41b1b2d.jpeg",
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 22,
+      "question": "A 60 yr old woman underwent a simple mastectomy followed by radiation therapy for ER/PRpositive breast cancer. Which of the following is the most appropriate drug to be given to herto prevent the recurrence of breast cancer?",
+      "options": {
+        "A": "No drug is effective to prevent recurrence",
+        "B": "Tamoxifen",
+        "C": "Trastuzumab",
+        "D": "Anastrozole"
+      },
+      "correct_answer": "D",
+      "explanation": "Anastrozole is an aromatase inhibitor and it is the drug of choice for the prevention of recurrenceof ER/PR positive breast cancer in post-menopausal women (usually &gt;50 years). It is given for10 years.Tamoxifen is a selective estrogen receptor modulator (SERM) and it is the drug of choice forpreventing recurrence in pre-menopausal women. It has an agonistic action on the endometrium,leading to an increased risk of endometrial cancers. Hence, it is not used in post-menopausal271women.Trastuzumab is a her2/neu receptor antagonist. It is given in patients with her2/neu statuspositive. It would not be effective in this patient.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following is not true about accelerated partial breast irradiation?",
+      "options": {
+        "A": "Irradiation is delivered only at the lumpectomy site",
+        "B": "Only suitable for women older than or equal to 65 years of age",
+        "C": "It is used for low-risk DCIS patients",
+        "D": "It is suitable if surgical margins are negative by ° 2 mm"
+      },
+      "correct_answer": "B",
+      "explanation": "Accelerated partial breast irradiation (APBI) is a localized form of radiation delivered afterlumpectomy to only the part of the breast where the tumor was removed. According to theupdated guidelines, patients of age greater than or equal to 50 years are considered suitable forAPBI.Patients of age &lt;40 years are considered unsuitable, while those between 40 and 49 years of ageare included in the cautionary group.According to the recent American Society for Radiation Oncology (ASTRO) guidelines, thefollowing patients are considered suitable for APBI:•• Patients of age 50 years or older• Patients with low-risk DCIS. Low-risk DCIS includes patients satisfying the following criteria-• Screen-detected disease• Low to intermediate nuclear grade• Tumor size ≤ 2.5 cm•Surgical resection with margins negative by° 3mm• Patients with surgical margins negative by ° 2mm",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 24,
+      "question": "A postmenopausal woman presented with a 4 cm lump in her left breast. Clinical andradiological examination revealed ipsilateral fixed axillary lymph node involvement withoutdistant metastasis. Histopathology confirms invasive breast carcinoma.Immunohistochemistry is positive for ER, PR but negative for HER-2/Neu. What is the bestmethod of management for this patient?",
+      "options": {
+        "A": "2 and 4",
+        "B": "2, 3 and 5",
+        "C": "1, 2,3 and 4",
+        "D": "1, 2, 3 and 5"
+      },
+      "correct_answer": "D",
+      "explanation": "The best method of management in this patient is neoadjuvant chemotherapy, mastectomy,radiation therapy, and letrozole.Step 1: Evaluate the TNM staging and stage grouping of the tumor• Tumor size 4cm - T2• Ipsilateral fixed axillary lymph nodes are positive - N2aNo distant metastasis - MoT2N2Mo belongs to the stage group IIIA which is considered locally advanced breast cancer(LABC). They are treated by neoadjuvant chemotherapy, mastectomy, and radiation therapy.Step 2: Evaluate the receptor statusThe immunohistochemistry is positive for estrogen and progesterone receptors. Therefore thepatient has to be started with hormonal therapy with drugs like letrozole, anastrozole, tamoxifenetc.272Trastuzumab Herceptin is a HER-2/Neu blocker and as the patient is HER2/Neu negative, itwould not be effective.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 25,
+      "question": "258A 41-year-old woman underwent treatment for breast cancer of 1.2 X 1 cm with positiveaxillary nodes. She completed radiotherapy and chemotherapy and is now receivingtamoxifen. How would you follow up this patient?",
+      "options": {
+        "A": "Annual mammogram",
+        "B": "Regular checking of LFT once in 6 months",
+        "C": "Follow-up with tumour markers once in 6 months",
+        "D": "Yearly bone scans"
+      },
+      "correct_answer": "A",
+      "explanation": "Follow-up of patients after treatment of breast cancer consists of a physical examination once in3-6 months for the first 3 years and an annual mammogram.Mammography is the only imaging modality necessary for follow-up after breast cancer surgery.There is currently no role for tumor markers, serum investigations, or any other imaging studieslike bone scans in routine follow-ups.Guidelines for follow-up after primary treatment:Physical examination: every 3-6 months for the first 3 years, every 6-12 months for years 4 and 5,and annually thereafter.Mammography: initially, 6 months after surgery, and thereafter, annually.Breast self-examination: MonthlyPelvic examination: Annually in patients taking tamoxifen",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 26,
+      "question": "Post-operative radiotherapy is given in a patient with breast carcinoma mainly to",
+      "options": {
+        "A": "Prevent metastasis",
+        "B": "Induce ablation of the remnant cancer tissue",
+        "C": "Prevent recurrence",
+        "D": "Induce ablation of the affected nodes"
+      },
+      "correct_answer": "",
+      "explanation": "The main aim of radiotherapy in breast cancer is to prevent local recurrence.Radiotherapy is mainly given in the following cases:• Positive lymph nodes• After breast conservation surgery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following is the most likely site for hematogenous spread in a patient withbreast carcinoma?",
+      "options": {
+        "A": "Lumbar vertebrae",
+        "B": "Skull",
+        "C": "Thoracic vertebrae",
+        "D": "Femur"
+      },
+      "correct_answer": "A",
+      "explanation": "Lumbar vertebrae, followed by the femur and thoracic vertebrae, are the most common sites forhematogenous spread of carcinoma breast. Bone metastases in breast cancer are more osteolyticthan osteoblastic.The most common bony sites of blood-borne metastases are as follows:• Lumbar vertebrae• Femur• Thoracic vertebrae•Ribs• SkullNote: In prostate cancer, the bone metastases are more osteoblastic than osteolytic.273",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 28,
+      "question": "A pregnant woman at 11-weeks of gestational age presents with a painless lump in the upperquadrant of her left breast. Ultrasound and trucut biopsy revealed the presence of invasiveductal carcinoma. What is the next best step in the management of this patient?",
+      "options": {
+        "A": "Perform immediate breast conservation therapy",
+        "B": "Perform mastectomy and start chemotherapy immediately after delivery",
+        "C": "Mastectomy followed by hormonal therapy in the second and third trimester",
+        "D": "Mastectomy followed by chemotherapy in the second and third trimester259"
+      },
+      "correct_answer": "D",
+      "explanation": "Mastectomy followed by chemotherapy in the second and third trimester is the best step ofmanagement in a pregnant woman diagnosed to have breast cancer in the first trimester.Pregnancy-associated breast cancer is defined as breast cancer that is diagnosed during pregnancyor within 1 year postpartum. It is the most common non-gynecologic malignancy associated withpregnancy. Most patients present with a painless mass in the breast with or without bloody nippledischarge.Diagnosis is done by ultrasonography and tissue biopsy.Treatment of breast cancer in pregnancy involves:•Mastectomy in any trimester along with chemotherapy in the second and third trimesters.• Radiotherapy and hormonal therapies are absolutely contraindicated during pregnancy becauseof teratogenicity. They can be initiated after delivery.•Since radiotherapy is a component of breast conservation therapy, it is contraindicated in thefirst trimester of pregnancy. However, breast-conserving lumpectomy and axillary lymph nodedissection with chemotherapy can be done in the second and third trimesters of pregnancyfollowed by radiation after delivery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    },
+    {
+      "q_no": 29,
+      "question": "A 45-year-old woman presented with back pain that was worse during the night. Afterevaluation, she was diagnosed with a recurrence of ER/PR+ breast cancer with bonymetastasis. Which of the following would be the first-line treatment for this patient?",
+      "options": {
+        "A": "Radiotherapy",
+        "B": "Chemotherapy + Surgery",
+        "C": "Chemotherapy + Hormonal Therapy",
+        "D": "Hormonal therapy"
+      },
+      "correct_answer": "D",
+      "explanation": "The given patient has metastatic breast cancer with bony metastasis. Hormone therapy is thefirst-line treatment for these patients due to its minimal side effects. It is particularly useful forbony metastasis.In premenopausal women, tamoxifen, and in post-menopausal women, anastrozole is preferred.Chemotherapy is added to the regimen in the following scenarios:• Young woman• Visceral metastasis•Rapidly growing tumors.• Failure of hormonal therapySurgery and radiotherapy are sometimes added to the regimen for palliative measures.274",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Breast - Treatment"
+    }
+  ]
+}

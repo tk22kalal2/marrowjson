@@ -1,0 +1,245 @@
+{
+  "chapter": "Endocrine Pancreas",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common endocrine tumor of the pancreas?",
+      "options": {
+        "A": "Insulinoma",
+        "B": "Glucaganoma",
+        "C": "Somatostatinoma",
+        "D": "VIPoma"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements about insulinoma is false?",
+      "options": {
+        "A": "Majority of insulinomas are benign and solitary",
+        "B": "Insulinomas occur more commonly in females",
+        "C": "Insulinomas occur more commonly in the tail, than in the head and body of pancreas",
+        "D": "Mean age at diagnosis is 45 years"
+      },
+      "correct_answer": "",
+      "explanation": "Insulinomas are distributed equally throughout the pancreas, despite the predominance ofbeta-cells in the body and tail.803The majority (90%) of insulinomas are benign and solitary, and only 10% are malignant andmultifocal. Malignant insulinomas are usually found in association with multiple endocrineneoplasia (MEN) syndrome. Insulinomas are typically small, with an average size of 1.0 to 1.5 cm.Insulinomas occur more commonly in females, between 40-60 years of age with the mean age ofdiagnosis at 45 years.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not a component of Whipple's triad?",
+      "options": {
+        "A": "Symptoms of hypoglycaemia after fasting or exercise",
+        "B": "Plasma glucose levels &lt;2.8 mmol/L",
+        "C": "Elevated plasma insulin levels",
+        "D": "Relief of symptoms on intravenous administration of glucose"
+      },
+      "correct_answer": "",
+      "explanation": "Elevated plasma levels of insulin is not a component of the triad. Whipple's triad is a clinicalcondition characterised by an insulin-producing tumour of the pancreas called insulinoma.The components of the triad are:•••Symptoms of hypoglycaemia after fasting or exercise.Plasma glucose levels &lt;2.8 mmol/L.Relief of symptoms on intravenous administration of glucose.Patients with insulinoma eat frequently to avoid hypoglycemic symptoms. Hence, weight loss isnot a feature of insulinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 4,
+      "question": "The gold standard test for the diagnosis of insulinoma is",
+      "options": {
+        "A": "Measurement of plasma insulin levels",
+        "B": "Measurement of C-peptide levels",
+        "C": "72-hour fasting test798",
+        "D": "CECT abdomen"
+      },
+      "correct_answer": "C",
+      "explanation": "The gold standard for the diagnosis of insulinoma is the 72-hour monitored fasting test.In this test, the levels of blood glucose, insulin, proinsulin, C peptide are measured in 1 to 2-hourintervals. When done so, a patient with insulinoma will have higher values of insulin, proinsulin,and C peptide which are expected to decrease in a normal person in response to the hypoglycemiadue to fasting.All patients should be advised to undergo surgical excision of insulinoma following the exclusionof diffuse abdominal metastases by ultrasound or CT scan.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 5,
+      "question": "A 50-year-old previously healthy man presents to the clinic with complaints of episodicpalpitations, sweating, and giddiness which are relieved with food or fruit juices. Laboratoryinvestigations are suggestive of insulinoma. Which of the following will be the best imagingmodality to localize the site of the tumor in this patient?",
+      "options": {
+        "A": "Intra operative ultrasound",
+        "B": "Dynamic contrast enhanced MRI",
+        "C": "Somatostatin receptor study",
+        "D": "Contrast enhanced CT scan"
+      },
+      "correct_answer": "A",
+      "explanation": "Intra-operative ultrasound is the best method in localizing the site of the insulinoma.This is a dynamic imaging modality that provides interactive and timely information duringsurgical procedures. This is essential for the identification of small tumors, especially within thepancreatic head or uncinate process.Preoperatively, the site of the tumor can be assessed by endoscopic ultrasound or CT scan.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 6,
+      "question": "A 54-year-old woman presents with recurrent attacks of dizziness and abdominal pain for 3months. Fasting blood glucose level was 40 mg%, and insulin levels were elevated. CTabdomen showed a well-defined 1 cm lesion in the head of the pancreas. The treatment planshould be",
+      "options": {
+        "A": "Whipple's operation",
+        "B": "Enucleation only",
+        "C": "Enucleation with radiotherapy",
+        "D": "Enucleation with distal pancreatectomy"
+      },
+      "correct_answer": "B",
+      "explanation": "804Recurrent hypoglycemic symptoms (dizziness) and low blood glucose with elevated insulin issuggestive of insulinoma. Tumour enucleation is the technique of choice for benign insulinomas.Insulinomas of &lt;2 cm in diameter without signs of vascular invasion or metastases areconsidered benign.Distal pancreatectomy is advised for the following:• Tumors deep in the pancreatic body or tail• Tumors of size &gt;2 cm• Tumors within 2 mm of the main pancreatic ductMedical management to treat hyperinsulinism includes frequent intake of carbohydrate-richmeals, octreotide or diazoxide.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 7,
+      "question": "A young man with parathyroid hyperplasia and pituitary adenoma is diagnosed with multipletumors in Passaro's triangle. Which of the following structures are constituents of thetriangle?",
+      "options": {
+        "A": "Superior and descending duodenum, head of the pancreas, lymph nodes",
+        "B": "Superior duodenum, head of the pancreas, greater curvature of stomach",
+        "C": "Third part of the duodenum, body of the pancreas, greater curvature of stomach",
+        "D": "Body of the pancreas, greater curvature of stomach, lesser curvature of stomach799"
+      },
+      "correct_answer": "",
+      "explanation": "The patient is most likely suffering from MEN 1 syndrome. Gastrinoma is the most commonfunctional entero-pancreatic tumor in MEN1. Superior and descending duodenum, head of thepancreas, and lymph nodes constitute the anatomical area called gastrinoma triangle, also knownas the Passaro's triangle.The triangle is bounded by the lines connecting:• The cystic duct• The junction between the second and third portions of the duodenum• The junction between the neck and body of the pancreas.Passaro's triangle (Gastrinoma triangle)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp7_img1_b57eaee3.jpeg",
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the most common site of gastrinoma in MEN 1 syndrome?",
+      "options": {
+        "A": "Jejunum",
+        "B": "Ileum",
+        "C": "Duodenum",
+        "D": "Stomach"
+      },
+      "correct_answer": "",
+      "explanation": "OMARROW805The most common site of gastrinoma in MEN 1 syndrome is the duodenum.Gastrinoma is the most common pancreatic islet tumor in MEN 1 syndrome, arising from the Gcells of the pancreas. Gastrinoma, associated with marked gastric acid production and recurrentpeptic ulcers, is called Zollinger-Ellison syndrome. The majority of gastrinomas occur in thegastrinoma (Passaro's) triangle.In MEN 1, they often occur in patients &lt;30 years. Patients present with abdominal pain (themost common symptom), diarrhea and steatorrhea.Management:• Medical management for tumors &lt;2 cm with proton-pump inhibitors.•Surgery for tumors &gt;2 cm.• Proton-pump inhibitors with somatostatin analogues for advanced locoregional disease ormetastasis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient who had been suffering from chronic esophageal reflux and diarrhea is diagnosedwith multiple gastrinomas. All of the following statements are true regarding his conditionexcept",
+      "options": {
+        "A": "This occurs more commonly in males",
+        "B": "More than 60% of tumors are malignant",
+        "C": "It is a beta-islet-cell tumor",
+        "D": "Surgical exploration is indicated in all patients without metastasis"
+      },
+      "correct_answer": "",
+      "explanation": "Gastrinoma/Zollinger-Ellison syndrome (ZES) is a non-beta islet cell tumor of the pancreas.Option A: ZES is more common in males than in females.Option B: At the time of diagnosis, &gt;60% of tumors are malignant.Option D: Surgical exploration should be performed in all patients without diffuse metastases, toremove known malignant and benign tumors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 10,
+      "question": "A 25-year-old man with chronic abdominal pain was brought to the casualty in a dehydratedstate due to multiple diarrheal episodes. He was started on IV fluids and analgesics. Onfurther investigation, multiple ulcers were seen in the second and third part of the duodenumand his serum gastrin concentration was 2000 pg/ml. Which of the following is least likely tobe associated with this condition?",
+      "options": {
+        "A": "Improvement of diarrhoea following nasogastric aspiration",
+        "B": "Gastric pH &lt; 2",
+        "C": "Positive secretin stimulation test",
+        "D": "Reduced basal to maximal acid output ratio"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of Zollinger-Ellison syndrome/gastrinoma. Here, the basalacid output (BAO) is increased. Hence, the BAO:MAO ratio is increased.In these patients, there is gastrin hypersecretion that stimulates gastric acid secretion. Thisleads to peptic ulcers that occur at atypical sites like the duodenum and jejunum andare refractory and multiple.Abdominal pain is the most common complaint in these patients. However, diarrhea can occurdue to:• Acid-induced injury to the small intestine mucosa•Inability of the intestinal tract to absorb large volumes of fluids secreted by the stomach•Inactivation of pancreatic lipase by low pH•Precipitation of bile salts.The unique characteristic of acid-induced diarrhea is that it is controlled by nasogastric aspirationof gastric secretions.806Gastric pH &lt;2.5 and a serum gastrin concentration &gt;1000 pg/mL confirm the diagnosis ofZollinger Ellison syndrome.If the diagnosis remains in doubt, a secretin stimulation test is done. In this test, the fastinggastrin level is measured before secretin (2 IU/kg) is administered intravenously, and subsequentsamples are obtained 2, 5, 10, and 20 minutes. Gastrin levels &gt;200 pg/mL after administrationof secretin are suggestive of gastrinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient who is recently diagnosed with Zollinger-Elison syndrome is started on protonpump inhibitors. There is no previous history of acid-reduction procedure done. The targetbasal acid output should be less than800",
+      "options": {
+        "A": "5mEq/hr",
+        "B": "8mEq/hr",
+        "C": "10mEq/hr",
+        "D": "12mEq/hr"
+      },
+      "correct_answer": "C",
+      "explanation": "The proton-pump inhibitor (PPI) dosage should be titrated to keep basal acid output &lt;10mEq/hr in this patient.The target BAO is &lt;5 mEq/hr if the patient has had a prior acid-reducing procedure.Ideally, the dose of proton pump inhibitors is titrated using acid output in order to improve thehealing rate of peptic ulcer disease, and to avert its complications.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following would be the preoperative imaging study of choice in patients withgastrinoma?",
+      "options": {
+        "A": "Endoscopic ultrasound",
+        "B": "MRI",
+        "C": "CT Scan",
+        "D": "Somatostatin receptor study"
+      },
+      "correct_answer": "D",
+      "explanation": "Currently, the preoperative imaging study of choice for gastrinoma is somatostatin receptorscintigraphy (octreotide scan).The majority of the gastrinomas are found within the Passaro's triangle and can be detected byendoscopic ultrasound (EUS). However, it still misses many of the smaller lesions, and mayconfuse normal lymph nodes for gastrinomas.If there is no tumor visible on EUS, a somatostatin receptor study is useful in identifying thelocation. When the pretest probability of gastrinoma is high, the sensitivity and specificity of thismodality are almost 100%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 13,
+      "question": "Which among the following statements is false about non-functioning pancreatic endocrinetumors?",
+      "options": {
+        "A": "Most of the tumors are malignant",
+        "B": "They account for 60-90% of all pancreatic neuroendocrine tumors",
+        "C": "They are clinically asymptomatic",
+        "D": "They have a much better prognosis than functioning tumors"
+      },
+      "correct_answer": "D",
+      "explanation": "Non-functioning pancreatic endocrine tumors (NF-PETs) have a worse prognosis compared tofunctioning tumors.They account for 60-90% of all neuroendocrine tumors. They are usually larger (&gt;5cm),solitary, mostly in the head of the pancreas, malignant and metastatic. These do not cause anyclinical symptoms.They stain positive for immunohistochemical markers such as synaptophysin, chromogranin A(CgA), and neuron-specific enolase. Chromogranin A is used as a serum marker to monitorresponse to treatment and to detect recurrence.Treatment is mainly surgical. It includes partial pancreaticoduodenectomy as well as thesynchronous or metachronous resection of liver metastases.807",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 14,
+      "question": "A 50-year-old woman presents to the OPD with a skin lesion as shown in the image below.The lesions were initially small but have now spread to the entire limb and the abdomen. Shehas a history of long-standing diabetes and recurrent episodes of deep vein thrombosisdespite anticoagulation therapy. What is the most likely diagnosis?801",
+      "options": {
+        "A": "Insulinoma",
+        "B": "Gastrinoma",
+        "C": "Glucagonoma",
+        "D": "VIPomaA"
+      },
+      "correct_answer": "C",
+      "explanation": "The image depicts necrolytic migratory erythema. This skin lesion along with a history oflong-standing diabetes and recurrent deep vein thrombosis is suggestive of glucagonoma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q14_img1_5e0a5a3e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 15,
+      "question": "A 49-year-old female patient presents with complaints of abdominal pain and foul-smelling,greasy stools for one year. She is known to be diabetic and underwent cholecystectomy oneyear back. CT scan shows the presence of a tumor in the pancreas. What is the most probablediagnosis?",
+      "options": {
+        "A": "Glucagonoma",
+        "B": "Insulinoma",
+        "C": "Somatostatinoma",
+        "D": "VIPoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The most probable diagnosis is somatostatinoma.Somatostatin inhibits pancreatic and biliary secretions. Patients with somatostatinoma usuallypresent with vague abdominal pain along with the triad of:• Gallstones - due to bile stasis•• Diabetes - due to inhibition of insulin secretion• Steatorrhea - due to inhibition of pancreatic exocrine secretion and bile secretion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient with MEN 1 syndrome is diagnosed with VIPoma. Which of the following is notseen in this condition?",
+      "options": {
+        "A": "Watery diarrhea",
+        "B": "Hypokalemia",
+        "C": "Metabolic acidosis802",
+        "D": "Increased acid secretion"
+      },
+      "correct_answer": "D",
+      "explanation": "VIPoma is associated with achlorhydria.Vasoactive intestinal peptide-secreting tumor (VIPoma) is also known as Verner-Morrisonsyndrome/WDHA syndrome. WDHA stands for:•WD - Watery Diarrhea•⚫ H – Hypokalemia-• A - AchlorhydriaMetabolic acidosis from fluid and bicarbonate loss is common in VIPoma.808",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Endocrine Pancreas"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "chapter": "Chronic Pancreatitis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 55-year-old chronic alcoholic presents with complaints of recurrent epigastric pain,progressive weight loss, and foul-smelling diarrhoea for the past 6 months. CT scan revealspancreatic calcification and dilatation of the main pancreatic duct. Which of the followingstatements is false about his condition?",
+      "options": {
+        "A": "It is more common in males",
+        "B": "It can result in diabetes",
+        "C": "Abdominal pain is the most common symptom",
+        "D": "Pain increases as destruction of the pancreas progresses"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the most common cause of chronic pancreatitis?",
+      "options": {
+        "A": "Gallstones",
+        "B": "Alcohol",
+        "C": "Autoimmune",
+        "D": "Drugs"
+      },
+      "correct_answer": "",
+      "explanation": "836Alcohol consumption is the most common cause of chronic pancreatitis, accounting for 60-70%of the cases. Smoking increases the risk of alcohol-induced chronic pancreatitis.Cystic fibrosis is the most common cause of chronic pancreatitis in the pediatric age group.Other causes of chronic pancreatitis include:• Pancreatic divisum• Annular pancreas• Hyperlipidemia•⚫ Hypercalcemia• Hyperparathyroidism• Chronic duct obstruction.•• Autoimmune pancreatitis• Cystic fibrosis• Tropical pancreatitis• Hereditary pancreatitis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not a part of the TIGAR-O classification?",
+      "options": {
+        "A": "Recurrent pancreatitis",
+        "B": "Trauma",
+        "C": "Obstruction",
+        "D": "Autoimmune"
+      },
+      "correct_answer": "",
+      "explanation": "The T in the TIGAR-O classification stands for toxic-metabolic, not trauma.The TIGAR-O classification system is an etiological approach to classify chronic pancreatitis andpancreatic exocrine insufficiency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 4,
+      "question": "A young patient with recurrent abdominal pain and pancreatic calcification was found to havea mutation in SPINK1. Which of the following statements is false about this condition?828",
+      "options": {
+        "A": "Associated with high incidence of diabetes mellitus.",
+        "B": "It can be distinguished from chronic alcoholic pancreatitis histologically.",
+        "C": "Cassava ingestion is an etiological factor.",
+        "D": "Seen in malnourished individuals."
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario of chronic pancreatitis with SPINK1 mutation is suggestive of tropicalpancreatitis (nutritional pancreatitis). Tropical pancreatitis is histologically indistinguishable fromchronic alcoholic pancreatitis.Normally, if trypsinogen does become prematurely activated within the pancreas, it is inhibited bySPINK1 and then gets destroyed. A loss-of-function mutation in SPINK1 affects this process andpredisposes to tropical pancreatitis.Tropical pancreatitis is a form of idiopathic pancreatitis that begins at a young age and is usuallyseen in Indonesia, southern India (Kerala), and tropical Africa. It is associated with a highincidence of diabetes mellitus (a brittle form of pancreatogenic diabetes) and stoneformation. Causes of chronic tropical pancreatitis include:• Malnutrition• Ingestion of cyanogenic glycosides in cassava• Exposure to hydrocarbons released from kerosene or paraffin lamps837Tropical pancreatitis is histologically indistinguishable from chronic alcoholic pancreatitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 5,
+      "question": "Hereditary chronic pancreatitis is caused by the mutation of:",
+      "options": {
+        "A": "PRSS1",
+        "B": "CFTR",
+        "C": "PSTI",
+        "D": "SPINK1"
+      },
+      "correct_answer": "",
+      "explanation": "Hereditary chronic pancreatitis is caused by the mutation of PRSS1 (protease serine 1).Hereditary pancreatitis is an autosomal dominant disorder, associated with a gain-of-functionmutation in the cationic trypsinogen gene (PRSS1) on chromosome 7q. This leads tointrapancreatic activation of trypsinogen and the production of the degradation-resistant form oftrypsin.PRSS1 mutation accounts for about two-thirds of cases of hereditary pancreatitis. There is anincreased risk of developing pancreatic cancer, particularly if the patient smokes tobacco.Option B: Cystic fibrosis transmembrane conductance regulator (CFTR) gene is located on thelong arm of chromosome 7, and it regulates bicarbonate and chloride concentrations inrespiratory and pancreatic secretions.•Homozygous CFTR mutations result in cystic fibrosis• Heterozygous mild CFTR mutations predispose to pancreatic exocrine insufficiency and chronicpancreatitisOptions C and D: Serine peptidase inhibitor Kazal type 1 (SPINK1) or pancreatic secretory trypsininhibitor (PSTI) is associated with tropical calcific pancreatitis as well idiopathic chronicpancreatitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 6,
+      "question": "A 35-year-old diabetic patient presented with complaints of recurrent abdominal pain andweight loss. Investigations showed features suggestive of obstructive jaundice and MRIrevealed the following abnormality. All of the statements are true regarding the givencondition except:",
+      "options": {
+        "A": "It is likely to resolve spontaneously",
+        "B": "NSAIDs should not be used",
+        "C": "Serum IgG4 is elevated in type 2829",
+        "D": "Corticosteroids are the treatment of choice"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical features and characteristic sausage-shaped appearance of the pancreas on the T2weighted image are diagnostic of autoimmune pancreatitis (AIP). Serum IgG4 is normal in type 2AIP. It is elevated in type 1 AIP.Autoimmune pancreatitis (AIP) is a chronic inflammatory disorder of the pancreas. Patientspresent with features of obstructive jaundice, weight loss, and mild abdominal pain.CT scan or MRI showing a diffuse enlarged, sausage-shaped pancreas is characteristic ofautoimmune pancreatitis.Serum IgG4 level is considered the best serological marker for AIP.Most of the cases resolve spontaneously. However, corticosteroid therapy is the treatment ofchoice as it causes increased remission of AIP. Also, AIP is associated with gastric ulcer formationas there are abundant IgG4 levels. Hence NSAIDs are not part of the management.They are of two types:FeaturesAgeGenderType 1 AIPElderlyMales838Type 2 AIPYoungEqualFeaturesSerum IgG4HistopathologyType 1 AIPElevatedType 2 AIPNormalLymphoplasmacytic sclerosin Idiopathic duct centric pancrInfiltrating cellsRelapse rateOther organ involvedg pancreatitisIgG4 + plasma cellsHighBiliary stricturesPseudotumorsKidneyLungOthers Retroperitoneal fibrosisSialoadenitisExtra pancreatic lesionIgG4 related diseaseeatitisGranulocytesLowNoInflammatory bowel disease(15-30%)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q6_img1_41c8b784.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 7,
+      "question": "The Rosemont criteria for the diagnosis of chronic pancreatitis is based on:",
+      "options": {
+        "A": "CT scan findings",
+        "B": "ERCP findings",
+        "C": "MRCP findings",
+        "D": "EUS findings"
+      },
+      "correct_answer": "",
+      "explanation": "Rosemont's criteria for the diagnosis of chronic pancreatitis is based on endoscopicultrasonographic (EUS) findings.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following diagnostic tests have the highest sensitivity and specificity to diagnosechronic pancreatitis?",
+      "options": {
+        "A": "Magnetic resonance imaging (MRI)",
+        "B": "Computed tomography (CT) scan",
+        "C": "Secretin test",
+        "D": "Endoscopic ultrasound (EUS)"
+      },
+      "correct_answer": "",
+      "explanation": "The diagnostic test with the best sensitivity and specificity for chronic pancreatitis is the secretintest.Secretin is a hormone secreted by the small intestines. It normally stimulates the pancreas tosecrete a fluid with a high concentration of bicarbonate. Secretin stimulation test is a test thatmeasures the ability of the pancreas to respond to secretin.In order to perform the test, a tube is passed into the duodenum. Secretin is administeredintravenously and the contents of the duodenal secretions are aspirated and analyzed over aperiod of about 2 hours. The test becomes abnormal when ° 60% of the pancreatic exocrinefunction has been lost. This usually correlates well with the onset of chronic abdominal pain.Other investigations to diagnose chronic pancreatitis:Pancreatic calcifications can be seen on abdominal X-rays.Endoscopic ultrasound showing the presence of four or more of these following features is highlysuggestive of chronic pancreatitis:••• Presence of stones• Visible side branches.Cysts•Lobularity• An irregular main pancreatic duct• Hyperechoic foci and strands839• Dilatation of the main pancreatic duct•Hyperechoic margins of the main pancreatic ductAn abdominal CT scan is the initial modality of choice for diagnosing chronic pancreatitis. CT orMRI scan will show the outline of the gland, the main area of damage, and the possibilities forsurgical correction.The investigation of choice for chronic pancreatitis is MRCP with secretin stimulation. ERCP isthe gold-standard investigation. They help in identifying the presence of biliary obstruction andthe state of the pancreatic duct.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 9,
+      "question": "All of the following are tests used to diagnose exocrine deficiency of the pancreas except:",
+      "options": {
+        "A": "Lundh test",
+        "B": "Fecal elastase estimation",
+        "C": "NBT-PABA test",
+        "D": "SFLT-1 test"
+      },
+      "correct_answer": "",
+      "explanation": "SFLT-1 (soluble FMS like tyrosine kinase-1) is not used to test pancreatic exocrine deficiency.SFLT-1 is a marker used for pre-eclampsia.Tests for pancreatic exocrinedeficiencyDirect tests:Lundh testThe pancreatic secretion is directly measured following a test mealSecretin or CCK stimulation t Following intravenous injectieston of secretin or CCK, the pancreatic secretion is measuredIndirect tests:Nitroblue tetrazolium-para-aminobenzoic acid (NBT-PABA) testPancreolauryl testMeasurement of thefecal elastaseFecal fat and weight estimation testThe NBT-PABA is administered orally and degraded in thegut by a pancreatic enzyme.The breakdown product (PABA) is absorbed by the intestine and excreted in the urine. Its urinary value is measured.Works on the similar principle of NBT-PABAA value below 100 µg/g establishes the diagnosis of severepancreatic exocrine insufficiency",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q9_img1_6e5b939c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 10,
+      "question": "A 65-year-old man who had multiple episodes of pancreatitis presented with a history of mildepigastric pain and the presence of foul-smelling greasy stools for the past 5 months. MRCPshowed the presence of a chain of lake appearance in the pancreas. What is the most likelydiagnosis?",
+      "options": {
+        "A": "Acute pancreatitis830",
+        "B": "Chronic pancreatitis",
+        "C": "Carcinoma pancreas",
+        "D": "Pseudocyst of the pancreas"
+      },
+      "correct_answer": "A",
+      "explanation": "840The chain of lakes appearance on pancreatography (ERCP or MRCP) is diagnostic of chronicpancreatitis.In chronic pancreatitis, there are multiple strictures and stones in the pancreatic duct. This leadsto the alternate stenosis and dilatation of the pancreatic duct leading to the chain of lakesappearance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient with chronic pancreatitis can develop all of the following complications, except:",
+      "options": {
+        "A": "2 and 5",
+        "B": "1 and 3",
+        "C": "4 and 5",
+        "D": "1 and 2"
+      },
+      "correct_answer": "",
+      "explanation": "Renal artery stenosis and insulinoma are not complications of chronic pancreatitis.Complications of chronic pancreatitis:Intrapancreatic complications:• Pseudocysts• Duodenal or gastric obstruction• Thrombosis of splenic vein• Abscess• Perforation• Erosion into the visceral arteryInflammatory mass in the head of the pancreas• Bile duct stenosis• Portal vein thrombosis• Duodenal obstruction• Duct strictures and/or stones• Ductal hypertension and dilatation• Pancreatic carcinomaExtrapancreatic complications:• Pancreatic duct leak with ascites or fistula• Pseudocyst extension beyond lesser sac into mediastinum, retroperitoneum, lateral pericolicspaces, pelvis, or adjacent viscera",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following statements is false about the complications of chronic pancreatitis?",
+      "options": {
+        "A": "All the complications of acute pancreatitis can occur in patients with chronic pancreatitis.",
+        "B": "Exocrine insufficiency precedes endocrine insufficiency.",
+        "C": "Calcium oxalate is the most common type of stone in chronic pancreatitis.",
+        "D": "At least 90% of acinar cells should be lost before malabsorption symptoms manifest."
+      },
+      "correct_answer": "",
+      "explanation": "Calcium carbonate stone is the most common type of stone formed in chronic pancreatitis.Calcium and bicarbonate ions are normally present in pancreatic juice in high concentrations.Lithostathine is a potent inhibitor of calcium carbonate crystal formation. In alcoholics and inpatients with alcoholic chronic pancreatitis, lithostathine expression and secretion aredramatically inhibited leading to calcification.841Other complications of chronic pancreatitis:• Exocrine insufficiency - At least 90% of the gland needs to be dysfunctional beforemalabsorption symptoms manifest like:• Fat-soluble vitamin deficiency•Bleeding•Osteopenia• Osteoporosis• Endocrine insufficiency - Diabetes mellitus. Exocrine insufficiency usually precedes endocrineinsufficiency.• All the complications of acute pancreatitis can occur in patients with chronic pancreatitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 13,
+      "question": "Ayoung male patient presents with steatorrhea associated with chronic pancreatitis. A stoolexamination of the patient shows increased fecal fat and decreased fecal elastase. What is themode of administration of the pancreatic enzymes in this patient?",
+      "options": {
+        "A": "Oral",
+        "B": "Intravenous",
+        "C": "Subcutaneous",
+        "D": "Transdermal patch"
+      },
+      "correct_answer": "A",
+      "explanation": "The mode of administration of pancreatic enzymes in exocrine pancreatic insufficiency is throughan oral route.Effects of pancreatic enzyme replacement in chronic pancreatitis:• Reverses exocrine insufficiency• Prevents secondary complications such as metabolic bone disease due to inadequate absorptionof the fat-soluble vitamins A, D, E, and K• Reduces pain due to chronic pancreatitisPancreatic enzyme supplementation is done with meals. Non-enteric-coated tablets are degradedby gastric juice and the released enzymes inhibit cholecystokinin (CCK) secretion. This, in turn,decreases the pancreatic secretion and thereby reduces the pain caused due to the increasedaccumulation of the secretions within the pancreatic duct.Enteric-coated tablets are not degraded in the proximal small intestine and, hence, might not beeffective in reducing CCK secretion and relieving pain.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 14,
+      "question": "Pain relief in chronic pancreatitis can be obtained by the destruction of:831",
+      "options": {
+        "A": "Celiac ganglia",
+        "B": "Vagus nerve",
+        "C": "Anterolateral column of spinal cord",
+        "D": "Splenic plexus"
+      },
+      "correct_answer": "A",
+      "explanation": "Celiac plexus block is used for pain relief in chronic pancreatitis as well as pancreatic carcinoma.It can be done using alcohol or other analgesics. It is a safe procedure, but the effect is short-lived.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient with chronic pancreatitis complains of intractable abdominal pain despite theadministration of analgesics. CT scan shows pancreatic head enlargement. A EUS guidedfine-needle biopsy ruled out pancreatic malignancy. What will be the preferred managementin this patient?",
+      "options": {
+        "A": "ERCP with sphincterotomy",
+        "B": "Whipple procedure",
+        "C": "Beger procedure",
+        "D": "Puestow procedure"
+      },
+      "correct_answer": "",
+      "explanation": "Beger's procedure is the procedure of choice for patients with chronic pancreatitis, having anassociated mass in the head of the pancreas.842Beger's procedure is a duodenum-preserving pancreatic head resection. It preserves the functionof the foregut. Once the pancreatic head is removed, a Roux-en-Y is created and anastomosed tothe rim of the pancreas or duodenum, pancreatic duct, and body and also the bile duct, ifinvolved.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 16,
+      "question": "A 34-year-old patient presents with intractable pain associated with chronic pancreatitis.MRCP shows the chain of lakes appearance. What will be the preferred management in thispatient?",
+      "options": {
+        "A": "Total pancreatectomy",
+        "B": "Side-to-side pancreaticojejunostomy",
+        "C": "Sphincteroplasty",
+        "D": "Resection of pancreatic tail and pancreatojejunostomy"
+      },
+      "correct_answer": "B",
+      "explanation": "The pancreatic duct dilation observed on pancreatography for chronic pancreatitis is classicallydescribed as a chain of lakes, which reflects the presence of multiple dilations and stenoses.When it is accompanied by intractable pain, this condition is best treated with side-to-sideRoux-en-Y pancreaticojejunostomy, also known as the modified Puestow procedure or lateralpancreaticojejunostomy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 17,
+      "question": "A 36-year-old man presents with dull aching epigastric pain. He gives a history of acuteabdominal pain following a binge of alcohol 5 weeks back which was managed conservatively.On examination, he appears icteric and a firm mass was palpable in the epigastrium. His CTscan is given below. Which of the following statements is false about his condition?832",
+      "options": {
+        "A": "Cyst wall is lined by squamous epithelium.",
+        "B": "It can cause bowel obstruction.",
+        "C": "Increased amylase levels are seen.",
+        "D": "Splenic artery is the most common artery involved.100 m"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario with a history of acute pancreatitis, epigastric mass, and the CT imageshowing a cyst is suggestive of pancreatic pseudocyst. The capsule of the cyst is composed ofcollagen and granulation tissue, and it is not lined by epithelium. Hence, it is called a pseudocyst.Pseudocysts are post-inflammatory cysts that arise following an attack of mild acute pancreatitis.Formation of a pseudocyst requires 4 weeks or more from the onset of acute pancreatitis. They arealso the most common complication of chronic pancreatitis.Pseudocysts are usually solitary and most commonly seen in the lesser omental sac. The mostcommon artery involved is the splenic artery.•Complications of pancreatic pseudocyst include:• AbscessSystemic sepsis•• GI bleeding• Fistula formation• Peritonitis• Obstructive jaundice• Bowel obstruction• Hemorrhage into the cyst• HemoperitoneumPancreatic pseudocysts can be distinguished from cystic neoplasms by having high amylase levelsand absence of mucin and low serum carcinoembryonic antigen (CEA) levels.843",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q17_img1_b5b420be.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 18,
+      "question": "A young man is incidentally found to have a pseudocyst of the pancreas on abdominalultrasound during a master health check-up. The size of the pseudocyst is 5 cm and is locatedin the tail of the pancreas. Past history is notable for two episodes of acute pancreatitis. Howwill you manage this patient?",
+      "options": {
+        "A": "Cystogastrostomy",
+        "B": "Cystojejunostomy",
+        "C": "Observation",
+        "D": "External drainage"
+      },
+      "correct_answer": "",
+      "explanation": "Observation is the preferred treatment in this case since the size of the pseudocyst is &lt;6 cm andis arising from the tail of the pancreas.Indications for conservative management in pancreatic pseudocyst:• Asymptomatic patients• Pseudocysts smaller than 6 cm (according to Bailey)• Located on the tail.• No evidence of pancreatic duct obstruction or communication with the main pancreatic duct",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 19,
+      "question": "A 45-year-old patient presents to the emergency room with abdominal pain and severenon-bilious vomiting. He was treated for upper abdominal pain 5 weeks ago. CT scan revealsa pancreatic pseudocyst of size 8 cm in close proximity to the stomach with secondarypressure effects. What is the best treatment option for this patient?",
+      "options": {
+        "A": "Cystogastrostomy833",
+        "B": "Roux-en-Y cystojejunostomy",
+        "C": "Percutaneous drainage",
+        "D": "Observation and symptomatic management"
+      },
+      "correct_answer": "A",
+      "explanation": "The best treatment option for this patient would be to perform a cystogastrostomy since the sizeof the tumor is greater than 6 cm and in close proximity to the stomach.Interventions in pseudocyst are required when:•Complicated by infection• Presence of a mass effect• Diameter increasing in size or greater than 6 cm• Recurrence following the previous resectionEndoscopic drainage is usually curative.Surgical drainage is done if endoscopy is contraindicated or has failed.In this cystogastrostomy, an anterior gastrostomy is performed. Once the pseudocyst is located, itis drained through the posterior wall of the stomach using a linear stapler. The defect in theanterior wall of the stomach is closed in two layers.The image shows the procedure involved in cystogastrostomy.FeatureClose contact (<1 cm) with the stomachClose contact (<1 cm) with the duodenumCommunicating with the main pancreatic ductPancreatic duct stricture associated with a pancreatic pseudocystTreatment approachTransgastric drainageTransduodenal drainageTranspapillary drainageEndoscopic dilation and stent placement844OMARROWCystoduodenostomy is done when pseudocyst is adjacent to the duodenum, or concern aboutdisrupting pancreatic ductal entry into the duodenum.Roux-en-Y Cystojejunostomy is generally done for cysts that are neither in close proximity to thestomach and nor to the duodenum. This is generally preferred as the last resort as it is associatedwith a lot of complications.Percutaneous drainage to the exterior under radiological guidance is associated with a highrecurrence rate and high incidence of pancreatic-cutaneous fistula. Hence, it is not usually done.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp19_img1_b8174310.jpeg",
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 20,
+      "question": "A 55-year-old chronic alcoholic presents with recurrent abdominal pain radiating to the backand passage of dark-colored stools. He has pallor and mild epigastric tenderness onpalpation. Blood investigations show severe anemia and high serum lipase. CT scan reveals apancreatic pseudoaneurysm and subsequent endoscopy shows blood near the ampulla ofVater. Identify the false statement about his condition:",
+      "options": {
+        "A": "Splenic artery is involved.",
+        "B": "ERCP is the gold standard investigation.",
+        "C": "Coil embolization is done only in stable patients.",
+        "D": "Surgical interventions include distal pancreatectomy."
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of hemosuccus pancreaticus. CT angiography is the goldstandard in diagnosing hemosuccus pancreaticus.Haemosuccus pancreaticus, also known as pseudohaemobilia, is a rare cause of GI bleeding, dueto blood originating from the pancreatic duct into the duodenum via the ampulla of Vater. It isusually caused by the erosion of a pancreatic pseudocyst into the splenic artery.In hemosuccus pancreatitis, abdominal pain radiating to the back accompanied by melena is themost typical presentation. The pain usually has an up and down pattern, which means it changesin intensity over time. This is due to the transient closure of pancreatic ducts. Other featuresinclude:• Hematochezia•Hematemesis• Anemia• Jaundice• A palpable pulsatile mass with a thrill murmur• Retroperitoneal bleeding845Laboratory values show elevated lipase and low hemoglobin levels. The diagnosis is mainlythrough imaging modalities like upper GI endoscopy, ERCP, endoscopic ultrasound (EUS), andcontrast-enhanced CT scan.CT angiography is the gold standard diagnostic tool. It helps to localize the site of bleed and planthe management accordingly.Once the bleeding source is identified, hemodynamically stable patients are managed by coilembolization, balloon tamponade, or stent placement.Hemodynamically unstable patients are managed by distal pancreatectomy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following statements is false about this procedure done for pancreaticpseudocyst?OMARROW",
+      "options": {
+        "A": "Failure to respond to an endoscopic treatment is an indication.",
+        "B": "Defect in the anterior wall of the stomach is closed in two layers.",
+        "C": "The pseudocyst is drained through the anterior wall of the stomach.834",
+        "D": "Hemorrhage is the major complication expected."
+      },
+      "correct_answer": "",
+      "explanation": "The image shows cystogastrostomy, which is done for the pancreatic pseudocyst. The pseudocystis drained through the posterior wall of the stomach.Surgery in pseudocyst is indicated for patients who fail to respond to endoscopic treatment.Pancreatic pseudocysts closely attached to the stomach should be treated with a cystogastrostomy.In this procedure, an anterior gastrostomy is performed. Once the pseudocyst is located, it isdrained through the posterior wall of the stomach using a linear stapler. The defect in the anteriorwall of the stomach is closed in two layers.Hemorrhage is the major complication expected post-surgery.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q21_img1_35ebb7d9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 22,
+      "question": "Milwaukee classification is used for the assessment of:",
+      "options": {
+        "A": "Duodenal atresia",
+        "B": "Choledocal cyst",
+        "C": "Sphincter of Oddi dysfunction",
+        "D": "Cystic tumours of pancreas"
+      },
+      "correct_answer": "",
+      "explanation": "Milwaukee classification is used for the assessment of sphincter of Oddi dysfunction.Sphincter of Oddi dysfunction or dyskinesia (SOD) is a clinical syndrome in which pain,biochemical abnormalities, and dilatation of the bile duct and/or pancreatic duct are attributed toabnormal functions of the sphincter of Oddi.SOD may result from stenosis of the sphincter or from dysmotility. Scarring or stenosis of thesphincter can result from the passage of stones, pancreatitis, or prior endoscopicsphincterotomies.•Milwaukee classification of the sphincter of Oddi dysfunction (SOD) :Type I SOD is usually managed by Sphincterotomy. Whether such patients should undergo dualsphincterotomies (biliary and pancreatic) is debatable.• Type II SOD is usually assessed by a manometry first, followed by surgical or medicalmanagement based on manometry findings.• Type III SOD is difficult to manage. Surgical management, such as sphincterotomy has variableoutcomes with response rates ranging from 8% to 65%. Medical management in the form ofnifedipine, proton-pump inhibitor, botulinum toxin injection, etc. does not have long-termbenefits as well.Note:846Cystic tumors of the pancreas are classified according to Klo■ppel's classification system.Choledochal cysts are classified according to the Todani classification system.Biliary type SODBiliary-type painType I+Type II+Type III+Abnormal LFT (a)Dilated CBD(b)++ALT and AST levels are > 2times normal on ° 2 occasionsCBD diameter > 12 mmon USG or > 10mm on cholangiographyDelayed drainage (> 45 min) of contraston ERCP while supineOne or two of (a), (b) and (c)None of (a), (b) and (c)Delayed drainage(c)Pancreatic type SODPancreatic-type painAbnormal LFT (a)Dilated pancreatic duct (b)Delayed drainage(c)+Type IType II++Type III+Amylase and/ or Lipaselevels are > 2 times normal on 2 occasionsDilated pancreatic duct diameter: head > 6 mm and body > 5 mmDelayed drainage (> 9 min) ofcontrast while in proneposition+One or two of (a), (b) and (c)None of (a), (b) and (c)+",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 23,
+      "question": "Identify the marked structure:",
+      "options": {
+        "A": "Bile duct",
+        "B": "Cystic duct",
+        "C": "Main pancreatic duct",
+        "D": "Accessory pancreatic duct"
+      },
+      "correct_answer": "",
+      "explanation": "The structure marked is the main pancreatic duct.Endoscopic retrograde cholangiopancreatography (ERCP) is performed using a side-viewingfibreoptic duodenoscope. The ampulla of Vater is intubated, and contrast injected into the biliaryand pancreatic ducts to display the anatomy radiologically.847ERCP is helpful for:• Direct opacification of bile ducts and pancreatic ducts•Dynamic information during the introduction and drainage of the contrast medium• Visual assessment of the duodenum and ampulla of Vater, thereby facilitating biopsy• Interventional procedures such as sphincterotomy, stone extraction, biliary stenting, and biliarystricture dilatationBGBMPDERCP shows filling of the main pancreatic duct (MPD), common bile duct (B), and gallbladder (G).The MPD and CBD drain into the major papillary (large arrow). The small accessory pancreaticduct (small arrows) drains separately into the minor papilla (arrowhead).The most common complication of ERCP is acute pancreatitis. The main diagnostic disadvantagewith ERCP is the underfilling of ducts above a stricture.848",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q23_img1_ba74e50f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsThe given clinical scenario is suggestive of chronic pancreatitis. Pain decreases or disappears asthe destruction of the pancreas progress. This is called a burned-out pancreas. This correlates withthe progression of disease from a mild or moderate stage to severe destruction of the pancreas.Chronic pancreatitis is a progressive inflammatory disease in which there is an irreversibledestruction of pancreatic tissue. It is more common in males, with a male: female ratio of 4:1.Solution to Question 2:836Alcohol consumption is the most common cause of chronic pancreatitis, accounting for 60-70%of the cases. Smoking increases the risk of alcohol-induced chronic pancreatitis.Cystic fibrosis is the most common cause of chronic pancreatitis in the pediatric age group.Other causes of chronic pancreatitis include:• Pancreatic divisum• Annular pancreas• Hyperlipidemia•⚫ Hypercalcemia• Hyperparathyroidism• Chronic duct obstruction.•• Autoimmune pancreatitis• Cystic fibrosis• Tropical pancreatitis• Hereditary pancreatitisSolution to Question 3:The T in the TIGAR-O classification stands for toxic-metabolic, not trauma.The TIGAR-O classification system is an etiological approach to classify chronic pancreatitis andpancreatic exocrine insufficiency.Solution to Question 4:The given clinical scenario of chronic pancreatitis with SPINK1 mutation is suggestive of tropicalpancreatitis (nutritional pancreatitis). Tropical pancreatitis is histologically indistinguishable fromchronic alcoholic pancreatitis.Normally, if trypsinogen does become prematurely activated within the pancreas, it is inhibited bySPINK1 and then gets destroyed. A loss-of-function mutation in SPINK1 affects this process andpredisposes to tropical pancreatitis.Tropical pancreatitis is a form of idiopathic pancreatitis that begins at a young age and is usuallyseen in Indonesia, southern India (Keral",
+      "options": {
+        "A": ", and tropical Africa. It is associated with a highincidence of diabetes mellitus (a brittle form of pancreatogenic diabetes) and stoneformation. Causes of chronic tropical pancreatitis include:• Malnutrition• Ingestion of cyanogenic glycosides in cassava• Exposure to hydrocarbons released from kerosene or paraffin lamps837Tropical pancreatitis is histologically indistinguishable from chronic alcoholic pancreatitis.Solution to Question 5:Hereditary chronic pancreatitis is caused by the mutation of PRSS1 (protease serine 1).Hereditary pancreatitis is an autosomal dominant disorder, associated with a gain-of-functionmutation in the cationic trypsinogen gene (PRSS1) on chromosome 7q. This leads tointrapancreatic activation of trypsinogen and the production of the degradation-resistant form oftrypsin.PRSS1 mutation accounts for about two-thirds of cases of hereditary pancreatitis. There is anincreased risk of developing pancreatic cancer, particularly if the patient smokes tobacco.Option B: Cystic fibrosis transmembrane conductance regulator (CFTR) gene is located on thelong arm of chromosome 7, and it regulates bicarbonate and chloride concentrations inrespiratory and pancreatic secretions.•Homozygous CFTR mutations result in cystic fibrosis• Heterozygous mild CFTR mutations predispose to pancreatic exocrine insufficiency and chronicpancreatitisOptions C and D: Serine peptidase inhibitor Kazal type 1 (SPINK1) or pancreatic secretory trypsininhibitor (PSTI) is associated with tropical calcific pancreatitis as well idiopathic chronicpancreatitis.Solution to Question 6:The clinical features and characteristic sausage-shaped appearance of the pancreas on the T2weighted image are diagnostic of autoimmune pancreatitis (AIP). Serum IgG4 is normal in type 2AIP. It is elevated in type 1 AIP.Autoimmune pancreatitis (AIP) is a chronic inflammatory disorder of the pancreas. Patientspresent with features of obstructive jaundice, weight loss, and mild abdominal pain.CT scan or MRI showing a diffuse enlarged, sausage-shaped pancreas is characteristic ofautoimmune pancreatitis.Serum IgG4 level is considered the best serological marker for AIP.Most of the cases resolve spontaneously. However, corticosteroid therapy is the treatment ofchoice as it causes increased remission of AIP. Also, AIP is associated with gastric ulcer formationas there are abundant IgG4 levels. Hence NSAIDs are not part of the management.They are of two types:FeaturesAgeGenderType 1 AIPElderlyMales838Type 2 AIPYoungEqualFeaturesSerum IgG4HistopathologyType 1 AIPElevatedType 2 AIPNormalLymphoplasmacytic sclerosin Idiopathic duct centric pancrInfiltrating cellsRelapse rateOther organ involvedg pancreatitisIgG4 + plasma cellsHighBiliary stricturesPseudotumorsKidneyLungOthers Retroperitoneal fibrosisSialoadenitisExtra pancreatic lesionIgG4 related diseaseeatitisGranulocytesLowNoInflammatory bowel disease(15-30%)Solution to Question 7:Rosemont's criteria for the diagnosis of chronic pancreatitis is based on endoscopicultrasonographic (EUS) findings.Solution to Question 8:The diagnostic test with the best sensitivity and specificity for chronic pancreatitis is the secretintest.Secretin is a hormone secreted by the small intestines. It normally stimulates the pancreas tosecrete a fluid with a high concentration of bicarbonate. Secretin stimulation test is a test thatmeasures the ability of the pancreas to respond to secretin.In order to perform the test, a tube is passed into the duodenum. Secretin is administeredintravenously and the contents of the duodenal secretions are aspirated and analyzed over aperiod of about 2 hours. The test becomes abnormal when ° 60% of the pancreatic exocrinefunction has been lost. This usually correlates well with the onset of chronic abdominal pain.Other investigations to diagnose chronic pancreatitis:Pancreatic calcifications can be seen on abdominal X-rays.Endoscopic ultrasound showing the presence of four or more of these following features is highlysuggestive of chronic pancreatitis:••• Presence of stones• Visible side branches.Cysts•Lobularity• An irregular main pancreatic duct• Hyperechoic foci and strands839• Dilatation of the main pancreatic duct•Hyperechoic margins of the main pancreatic ductAn abdominal CT scan is the initial modality of choice for diagnosing chronic pancreatitis. CT orMRI scan will show the outline of the gland, the main area of damage, and the possibilities forsurgical correction.The investigation of choice for chronic pancreatitis is MRCP with secretin stimulation. ERCP isthe gold-standard investigation. They help in identifying the presence of biliary obstruction andthe state of the pancreatic duct.Solution to Question 9:SFLT-1 (soluble FMS like tyrosine kinase-1) is not used to test pancreatic exocrine deficiency.SFLT-1 is a marker used for pre-eclampsia.Tests for pancreatic exocrinedeficiencyDirect tests:Lundh testThe pancreatic secretion is directly measured following a test mealSecretin or CCK stimulation t Following intravenous injectieston of secretin or CCK, the pancreatic secretion is measuredIndirect tests:Nitroblue tetrazolium-para-aminobenzoic acid (NBT-PABA) testPancreolauryl testMeasurement of thefecal elastaseFecal fat and weight estimation testThe NBT-PABA is administered orally and degraded in thegut by a pancreatic enzyme.The breakdown product (PABA) is absorbed by the intestine and excreted in the urine. Its urinary value is measured.Works on the similar principle of NBT-PABAA value below 100 µg/g establishes the diagnosis of severepancreatic exocrine insufficiencySolution to Question 10:840The chain of lakes appearance on pancreatography (ERCP or MRCP) is diagnostic of chronicpancreatitis.In chronic pancreatitis, there are multiple strictures and stones in the pancreatic duct. This leadsto the alternate stenosis and dilatation of the pancreatic duct leading to the chain of lakesappearance.Solution to Question 11:Renal artery stenosis and insulinoma are not complications of chronic pancreatitis.Complications of chronic pancreatitis:Intrapancreatic complications:• Pseudocysts• Duodenal or gastric obstruction• Thrombosis of splenic vein• Abscess• Perforation• Erosion into the visceral arteryInflammatory mass in the head of the pancreas• Bile duct stenosis• Portal vein thrombosis• Duodenal obstruction• Duct strictures and/or stones• Ductal hypertension and dilatation• Pancreatic carcinomaExtrapancreatic complications:• Pancreatic duct leak with ascites or fistula• Pseudocyst extension beyond lesser sac into mediastinum, retroperitoneum, lateral pericolicspaces, pelvis, or adjacent visceraSolution to Question 12:Calcium carbonate stone is the most common type of stone formed in chronic pancreatitis.Calcium and bicarbonate ions are normally present in pancreatic juice in high concentrations.Lithostathine is a potent inhibitor of calcium carbonate crystal formation. In alcoholics and inpatients with alcoholic chronic pancreatitis, lithostathine expression and secretion aredramatically inhibited leading to calcification.841Other complications of chronic pancreatitis:• Exocrine insufficiency - At least 90% of the gland needs to be dysfunctional beforemalabsorption symptoms manifest like:• Fat-soluble vitamin deficiency•Bleeding•Osteopenia• Osteoporosis• Endocrine insufficiency - Diabetes mellitus. Exocrine insufficiency usually precedes endocrineinsufficiency.• All the complications of acute pancreatitis can occur in patients with chronic pancreatitis.Solution to Question 13:The mode of administration of pancreatic enzymes in exocrine pancreatic insufficiency is throughan oral route.Effects of pancreatic enzyme replacement in chronic pancreatitis:• Reverses exocrine insufficiency• Prevents secondary complications such as metabolic bone disease due to inadequate absorptionof the fat-soluble vitamins A, D, E, and K• Reduces pain due to chronic pancreatitisPancreatic enzyme supplementation is done with meals. Non-enteric-coated tablets are degradedby gastric juice and the released enzymes inhibit cholecystokinin (CCK) secretion. This, in turn,decreases the pancreatic secretion and thereby reduces the pain caused due to the increasedaccumulation of the secretions within the pancreatic duct.Enteric-coated tablets are not degraded in the proximal small intestine and, hence, might not beeffective in reducing CCK secretion and relieving pain.Solution to Question 14:Celiac plexus block is used for pain relief in chronic pancreatitis as well as pancreatic carcinoma.It can be done using alcohol or other analgesics. It is a safe procedure, but the effect is short-lived.Solution to Question 15:Beger's procedure is the procedure of choice for patients with chronic pancreatitis, having anassociated mass in the head of the pancreas.842Beger's procedure is a duodenum-preserving pancreatic head resection. It preserves the functionof the foregut. Once the pancreatic head is removed, a Roux-en-Y is created and anastomosed tothe rim of the pancreas or duodenum, pancreatic duct, and body and also the bile duct, ifinvolved.Solution to Question 16:The pancreatic duct dilation observed on pancreatography for chronic pancreatitis is classicallydescribed as a chain of lakes, which reflects the presence of multiple dilations and stenoses.When it is accompanied by intractable pain, this condition is best treated with side-to-sideRoux-en-Y pancreaticojejunostomy, also known as the modified Puestow procedure or lateralpancreaticojejunostomy.Solution to Question 17:The given clinical scenario with a history of acute pancreatitis, epigastric mass, and the CT imageshowing a cyst is suggestive of pancreatic pseudocyst. The capsule of the cyst is composed ofcollagen and granulation tissue, and it is not lined by epithelium. Hence, it is called a pseudocyst.Pseudocysts are post-inflammatory cysts that arise following an attack of mild acute pancreatitis.Formation of a pseudocyst requires 4 weeks or more from the onset of acute pancreatitis. They arealso the most common complication of chronic pancreatitis.Pseudocysts are usually solitary and most commonly seen in the lesser omental sac. The mostcommon artery involved is the splenic artery.•Complications of pancreatic pseudocyst include:• AbscessSystemic sepsis•• GI bleeding• Fistula formation• Peritonitis• Obstructive jaundice• Bowel obstruction• Hemorrhage into the cyst• HemoperitoneumPancreatic pseudocysts can be distinguished from cystic neoplasms by having high amylase levelsand absence of mucin and low serum carcinoembryonic antigen (CEA) levels.843Solution to Question 18:Observation is the preferred treatment in this case since the size of the pseudocyst is &lt;6 cm andis arising from the tail of the pancreas.Indications for conservative management in pancreatic pseudocyst:• Asymptomatic patients• Pseudocysts smaller than 6 cm (according to Bailey)• Located on the tail.• No evidence of pancreatic duct obstruction or communication with the main pancreatic ductSolution to Question 19:The best treatment option for this patient would be to perform a cystogastrostomy since the sizeof the tumor is greater than 6 cm and in close proximity to the stomach.Interventions in pseudocyst are required when:•Complicated by infection• Presence of a mass effect• Diameter increasing in size or greater than 6 cm• Recurrence following the previous resectionEndoscopic drainage is usually curative.Surgical drainage is done if endoscopy is contraindicated or has failed.In this cystogastrostomy, an anterior gastrostomy is performed. Once the pseudocyst is located, itis drained through the posterior wall of the stomach using a linear stapler. The defect in theanterior wall of the stomach is closed in two layers.The image shows the procedure involved in cystogastrostomy.FeatureClose contact (<1 cm) with the stomachClose contact (<1 cm) with the duodenumCommunicating with the main pancreatic ductPancreatic duct stricture associated with a pancreatic pseudocystTreatment approachTransgastric drainageTransduodenal drainageTranspapillary drainageEndoscopic dilation and stent placement844OMARROWCystoduodenostomy is done when pseudocyst is adjacent to the duodenum, or concern aboutdisrupting pancreatic ductal entry into the duodenum.Roux-en-Y Cystojejunostomy is generally done for cysts that are neither in close proximity to thestomach and nor to the duodenum. This is generally preferred as the last resort as it is associatedwith a lot of complications.Percutaneous drainage to the exterior under radiological guidance is associated with a highrecurrence rate and high incidence of pancreatic-cutaneous fistula. Hence, it is not usually done.Solution to Question 20:The given clinical scenario is suggestive of hemosuccus pancreaticus. CT angiography is the goldstandard in diagnosing hemosuccus pancreaticus.Haemosuccus pancreaticus, also known as pseudohaemobilia, is a rare cause of GI bleeding, dueto blood originating from the pancreatic duct into the duodenum via the ampulla of Vater. It isusually caused by the erosion of a pancreatic pseudocyst into the splenic artery.In hemosuccus pancreatitis, abdominal pain radiating to the back accompanied by melena is themost typical presentation. The pain usually has an up and down pattern, which means it changesin intensity over time. This is due to the transient closure of pancreatic ducts. Other featuresinclude:• Hematochezia•Hematemesis• Anemia• Jaundice• A palpable pulsatile mass with a thrill murmur• Retroperitoneal bleeding845Laboratory values show elevated lipase and low hemoglobin levels. The diagnosis is mainlythrough imaging modalities like upper GI endoscopy, ERCP, endoscopic ultrasound (EUS), andcontrast-enhanced CT scan.CT angiography is the gold standard diagnostic tool. It helps to localize the site of bleed and planthe management accordingly.Once the bleeding source is identified, hemodynamically stable patients are managed by coilembolization, balloon tamponade, or stent placement.Hemodynamically unstable patients are managed by distal pancreatectomy.Solution to Question 21:The image shows cystogastrostomy, which is done for the pancreatic pseudocyst. The pseudocystis drained through the posterior wall of the stomach.Surgery in pseudocyst is indicated for patients who fail to respond to endoscopic treatment.Pancreatic pseudocysts closely attached to the stomach should be treated with a cystogastrostomy.In this procedure, an anterior gastrostomy is performed. Once the pseudocyst is located, it isdrained through the posterior wall of the stomach using a linear stapler. The defect in the anteriorwall of the stomach is closed in two layers.Hemorrhage is the major complication expected post-surgery.Solution to Question 22:Milwaukee classification is used for the assessment of sphincter of Oddi dysfunction.Sphincter of Oddi dysfunction or dyskinesia (SOD) is a clinical syndrome in which pain,biochemical abnormalities, and dilatation of the bile duct and/or pancreatic duct are attributed toabnormal functions of the sphincter of Oddi.SOD may result from stenosis of the sphincter or from dysmotility. Scarring or stenosis of thesphincter can result from the passage of stones, pancreatitis, or prior endoscopicsphincterotomies.•Milwaukee classification of the sphincter of Oddi dysfunction (SOD) :Type I SOD is usually managed by Sphincterotomy. Whether such patients should undergo dualsphincterotomies (biliary and pancreatic) is debatable.• Type II SOD is usually assessed by a manometry first, followed by surgical or medicalmanagement based on manometry findings.• Type III SOD is difficult to manage. Surgical management, such as sphincterotomy has variableoutcomes with response rates ranging from 8% to 65%. Medical management in the form ofnifedipine, proton-pump inhibitor, botulinum toxin injection, etc. does not have long-termbenefits as well.Note:846Cystic tumors of the pancreas are classified according to Klo■ppel's classification system.Choledochal cysts are classified according to the Todani classification system.Biliary type SODBiliary-type painType I+Type II+Type III+Abnormal LFT (a)Dilated CBD(",
+        "B": "++ALT and AST levels are > 2times normal on ° 2 occasionsCBD diameter > 12 mmon USG or > 10mm on cholangiographyDelayed drainage (> 45 min) of contraston ERCP while supineOne or two of (a), (b) and (",
+        "C": "None of (a), (b) and (c)Delayed drainage(c)Pancreatic type SODPancreatic-type painAbnormal LFT (a)Dilated pancreatic duct (b)Delayed drainage(c)+Type IType II++Type III+Amylase and/ or Lipaselevels are > 2 times normal on 2 occasionsDilated pancreatic duct diameter: head > 6 mm and body > 5 mmDelayed drainage (> 9 min) ofcontrast while in proneposition+One or two of (a), (b) and (c)None of (a), (b) and (c)+Solution to Question 23:The structure marked is the main pancreatic duct.Endoscopic retrograde cholangiopancreatography (ERCP) is performed using a side-viewingfibreoptic duodenoscope. The ampulla of Vater is intubated, and contrast injected into the biliaryand pancreatic ducts to display the anatomy radiologically.847ERCP is helpful for:• Direct opacification of bile ducts and pancreatic ducts•Dynamic information during the introduction and drainage of the contrast medium• Visual assessment of the duodenum and ampulla of Vater, thereby facilitating biopsy• Interventional procedures such as sphincterotomy, stone extraction, biliary stenting, and biliarystricture dilatationBGBMPDERCP shows filling of the main pancreatic duct (MP",
+        "D": ", common bile duct (B), and gallbladder (G).The MPD and CBD drain into the major papillary (large arrow). The small accessory pancreaticduct (small arrows) drains separately into the minor papilla (arrowhead).The most common complication of ERCP is acute pancreatitis. The main diagnostic disadvantagewith ERCP is the underfilling of ducts above a stricture.848"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Chronic Pancreatitis"
+    }
+  ]
+}

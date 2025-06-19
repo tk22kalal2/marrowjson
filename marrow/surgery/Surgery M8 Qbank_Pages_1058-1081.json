@@ -1,0 +1,365 @@
+{
+  "chapter": "Burns",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which among the following are indications to shift a patient to the burn center?",
+      "options": {
+        "A": "2,5",
+        "B": "3,4",
+        "C": "1,2,5",
+        "D": "1,3,4,5"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following are false regarding first-degree burns?",
+      "options": {
+        "A": "Pain is the chief symptom",
+        "B": "Has minimal blister formationProtective functions of the skin are intactd) No residual scar after injury healsQuestion 3:A man accidentally took a bath with overheated water. A few hours later, he developed thegiven lesion on his shoulders and chest. Following spontaneous rupture 3 days later, the baseof the lesion was erythematous and blanches on touch. What is the time taken by thesewounds to heal?1058a) 1 weekb) 2 weeks",
+        "C": "3 weeks",
+        "D": "4 weeks"
+      },
+      "correct_answer": "B",
+      "explanation": "First-degree burns involve only the epidermis, are painful, but do not blister, protective functionsof the skin are intact and heals without a scar.Second-degree burns have dermal involvement and are extremely painful and blister.Third-degree burns are leathery, painless, and non-blanching.1070Degrees of burnsEpidermisDermisAdipose tissueMuscleBoneFirst degree(Superficial thickness)Second degree(Superficial partial-thickness)(Deep partial-thickness)Third-degree(Full-thickness)MARROWFourth degreeBone",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp2_img1_d82de35c.jpeg",
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 4,
+      "question": "Which layer is involved in blister formation in a superficial partial thickness burn?",
+      "options": {
+        "A": "Epidermis",
+        "B": "Subcutaneous tissue",
+        "C": "Papillary dermis",
+        "D": "Reticular dermis"
+      },
+      "correct_answer": "C",
+      "explanation": "The papillary dermis is involved in blister formation in a superficial partial-thickness burn.First-degree burns involve only the epidermis, with pain, redness, and mild swelling.Second-degree (partial thickness) burns involve the epidermis and some parts of the dermis (alsoknown as partial-thickness burns). Further divided into:• Superficial second-degree burns - involves the upper part of the dermis (papillary) and showspain, blisters, and severe swelling.•Deep second-degree burns - extends up to the reticular layer of the dermis and appears morepale and mottled, does not blanch to touch, but remains painful to pinprick.Third-degree or full-thickness burns involve the full thickness of the dermis and subcutaneoustissue.Fourth-degree burns involve deep structures such as muscle and bone.1071",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient has presented to you with a burn wound as seen in the image below. With regardsto Jackson's zones of tissue injury, which of the following statements is false?1059123",
+      "options": {
+        "A": "Area 2 is the most severely burned portion",
+        "B": "The outer area of a burn is called the zone of hyperemia",
+        "C": "Vasodilation is seen in the area 3",
+        "D": "Area 1 heals with minimal or no scarring"
+      },
+      "correct_answer": "",
+      "explanation": "Vasoconstriction (not vasodilation) is seen in red region or zone of stasis (marked zone 3).Jackson zones of tissue injury following burns has three zones:• The zone of coagulation is the most severely burned portion and is typically in the center of thewound.• Peripheral to that is a zone of stasis, with variable degrees of vasoconstriction and resultantischemia.• The last, outermost area of a burn is called the zone of hyperemia, which will heal with minimalor no scarring and is most like a superficial or first-degree burn. It is characterized by vasodilationfrom inflammation surrounding the burn wound.Jackson's Zones of Burn InjuryZone of coagulationZone of stasisZone of hyperemiaAdequateresuscitationZone of stasispreservedZone ofcoagulationInadequateresuscitationZone of stasislostMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q5_img1_a1edcd54.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp5_img1_d53ed360.jpeg",
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 6,
+      "question": "While examining the burns on this patient, you find a lack of sensation and capillary refill atthe burnt site. What is the degree of burn?",
+      "options": {
+        "A": "Fourth degree burns1060",
+        "B": "Superficial Second degree burns",
+        "C": "Deep Second degree burns",
+        "D": "Third degree burns"
+      },
+      "correct_answer": "D",
+      "explanation": "The characteristic features of full-thickness burns (third-degree burns) are lack of sensation in theburned skin, lack of capillary refill, and a leathery texture that is unlike normal skin.Deep dermal and full-thickness burns require excision with skin grafting for the patient to healthe wounds properly.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q6_img1_58277ea9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 7,
+      "question": "A chemical engineer burnt his fingers as shown in the image while working with hydrofluoricacid. What is the most appropriate way to manage this patient?",
+      "options": {
+        "A": "Topical application of calcium gluconate gel along with ECG monitoring",
+        "B": "Irrigation with Dakin's solution followed by surgical excision of the burn site",
+        "C": "Immediate intrarterial injection of calcium gluconate",
+        "D": "Copious irrigation with normal saline and application of mafenide acetate"
+      },
+      "correct_answer": "A",
+      "explanation": "Following irrigation of the burn site, topical application of calcium gluconate gel along with ECGmonitoring is the most appropriate management.1072Hydrofluoric acid is the strongest inorganic acid and it can cause liquefaction necrosis of deepertissues (since the acid is highly lipophilic). Pain out of proportion to physical examination is ahallmark finding in HF burns. Systemic absorption of fluoride ions can result in intravascularchelation of calcium causing hypocalcemia.Depletion of calcium causes inhibition of the sodium-potassium ATPase pump, leading tohyperkalemia and subsequent life-threatening arrhythmias. Therefore ECG monitoring isimperative. ECG abnormalities that can occur include prolonged QTc (from hypocalcemia)and QRS widening (from hyperkalemia).Following copious irrigation of the burn site with water, the mainstay of treatment is with topicalapplication of calcium gluconate gel. If the pain does not subside, or if systemic signs ensue, anintraarterial injection of calcium gluconate can be given in the affected extremity.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q7_img1_fe1ab74f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 8,
+      "question": "20% of a patient's total body surface area was burnt from an overhead electric supply line.What is leading cause of death in such burns?",
+      "options": {
+        "A": "Acute kidney injury",
+        "B": "Cardiac arrest",
+        "C": "Internal haemorrhage",
+        "D": "Internal burns1061"
+      },
+      "correct_answer": "B",
+      "explanation": "The leading cause of death in electrical injuries is cardiac arrest. This is because alternatingcurrent injuries interfere with normal cardiac pacing.The electricity itself does not usually cause significant underlying myocardial damage. Soresuscitation, if successful, should be lasting.The domestic electricity supply comprises a low voltage alternating current.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 9,
+      "question": "ABG of a patient with extensive burns shows pH: 7.29, pCO2: 38mmHg, HCO3: 16.5, andelevated lactate of 5mmol/L. As part of initial fluid resuscitation, which fluid would be thebest to initiate in this patient?",
+      "options": {
+        "A": "Normal saline",
+        "B": "Ringer lactate",
+        "C": "Hypertonic saline",
+        "D": "Human albumin solution"
+      },
+      "correct_answer": "B",
+      "explanation": "The best fluid used for burns is Ringer's lactate or Hartmann's solution.Ringer lactate (crystalloid) is a mixture of sodium chloride, sodium lactate, potassium chloride,and calcium chloride in water. It prevents metabolic acidosis that may occur in burns.Crystalloids are said to be as effective as colloids for maintaining intravascular volume and aregiven during the initial 24 hours.Option A: Normal saline may be used, but large quantities of saline can cause hyperchloremicmetabolic acidosis, worsening this patient's existing acidosis.Option D: Human albumin solution is a colloid. Colloids should be ideally be given after the first12 hours of burn because before this period, the massive fluid shifts cause proteins to leak out ofthe cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 10,
+      "question": "An adult whose both lower limbs are charred along with genitalia has burns.",
+      "options": {
+        "A": "10%",
+        "B": "19%",
+        "C": "36%",
+        "D": "37%"
+      },
+      "correct_answer": "D",
+      "explanation": "Using Wallace's Rule of 9, the % total burn surface area:•One lower limb = Thigh (9%) + leg (9%) = 18%• Genitals = 1%1073Hence, in this patient, one lower limb+ other lower limb + genital = 18% + 18% +1% = 37%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 11,
+      "question": "A 3-year-old is brought with superficial and deep second degree burns on his chest. What isthe most accurate method to assess the total body surface area involved?1062",
+      "options": {
+        "A": "Parkland's formula",
+        "B": "Lund and Browder chart",
+        "C": "Using the child's palm as reference",
+        "D": "Wallace's rule"
+      },
+      "correct_answer": "B",
+      "explanation": "Lund and Browder chart gives a more accurate accounting of the true burn size in children.Unlike the Wallace rule of nines, the Lund and Browder chart takes into consideration the age ofthe person, by decreasing percentage BSA (Body Surface Area) for the head and increasingpercentage BSA for the legs as the child ages, making it more useful in pediatric burns.PosteriorLund and Browder chartAnterior1313111/2211/22½12½1½1½112BB00RR7%0Relative percentages of areas affectedby growth (age in years)1%O1A: half of headB: half of thigh91228½56121015C: half of leg2%2½3144213%514134/241/231Adult31224%3½OMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q11_img1_98185e71.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp11_img1_c9cb16c0.jpeg",
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient comes to your clinic with a superficial partial-thickness burn. Which of thefollowing statements regarding the management is false?",
+      "options": {
+        "A": "Superficial burns generally do not require the use of topical antibiotics",
+        "B": "Blisters on second degree burns should not be burst",
+        "C": "All topical antibiotics retard wound healing",
+        "D": "Facial burns of the same degree will require a hydrocolloid dressing"
+      },
+      "correct_answer": "D",
+      "explanation": "Facial burns do not require a hydrocolloid dressing. Exposure therapy (no dressings are appliedover the wound) is typically used on the face and head.All topical antibiotics retard wound healing to some extent so they are used only in second orthird-degree burns or wounds, which have a high risk of infection.Blisters on second-degree burns should not be burst as they may cause an infection.Topical treatment of deep burns:•1% silver sulphadiazine cream• 0.5% silver nitrate solution• Mafenide acetate cream• Silver nitrate, silver sulphadiazine and cerium nitrate",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q12_img1_a455b112.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 13,
+      "question": "While starting fluid resuscitation on a patient with burns, it is important to keep in mind thatall of the following parameters will be decreased, except:",
+      "options": {
+        "A": "1 and 4",
+        "B": "4 and 5",
+        "C": "3 and 5",
+        "D": "2 and 41063"
+      },
+      "correct_answer": "C",
+      "explanation": "1074Capillary permeability and afterload is increased after severe burns.Significant burns is associated with massive release of inflammatory mediators, both in the woundand in other tissues. These mediators produce vasoconstriction and vasodilation, increasedcapillary permeability, and edema locally and in distant organs.Cellular and humoral immunity are decreased in burns (increased risk of infection).Changes in various systems in burns:CVS• Massive edema• Increased afterload•• Decreased venous return• Decreased cardiac outputRenal• Low volume concentrated urine• Decreased urinary sodium• Myoglobinuria• Renal ischemia• Acute tubular necrosis• Acute renal failureGI• Reflex Ileus•GI Ulcers (Curling's Ulcer)Endocrine and Metabolism•Increased glucagon, cortisol• Protein catabolism•Ureagenesis• Lipolysis• Increased gluconeogenesis•• Lactic acidosisHematological• Anaemia• Initial thrombocytopenia then thrombocytosis• Decreased capacity of neutrophil phagocytosis• Overall lymphopenia• Relative increase in T-Suppressor Cells1075",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient has rushed to your clinic after she spilled hot tea on her hand. What should be theideal temperature of the water used to cool her injuries?",
+      "options": {
+        "A": "0-4 degrees",
+        "B": "15 degrees",
+        "C": "20 degrees",
+        "D": "25 degrees"
+      },
+      "correct_answer": "B",
+      "explanation": "In temperate climates, cooling should be at about 15 °C, and hypothermia must be avoided.Moreover, studies show that ice cold water increases tissue damage.Water at 15 °C provides analgesia and delays the microvascular damage in burns.It should occur for a minimum of 20 minutes and is effective up to 1 hour after the burn injury.Particularly important in scalds.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q14_img1_be4cc893.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 15,
+      "question": "While fixing faulty wiring, an electrician sustains the given burn. Which of the following isfalse?1064",
+      "options": {
+        "A": "Electric burns are usually third degree burns",
+        "B": "Urine output should be monitored for volume and deposits",
+        "C": "ECG should be monitored even in low voltage burns",
+        "D": "Fluid requirement is less as compared to other burns"
+      },
+      "correct_answer": "D",
+      "explanation": "Fluid requirement is more as compared to other burns. All electric burns are managed byresuscitation at 4mL/Kg/%TBSA (which means 4mL for every Kg for every %TBSA). This isdouble what the ATLS guidelines advise for other burns as electrical burns may causemyoglobinuria and acute kidney injury.Most of the electrical burns are of severe degree and cause third-degree burns.The fluid resuscitation is done to ensure urine output of 100 mL/hr in adults and 1-1.5 mL/kg/hrin children &lt; 30 kg, until the urine clears from pigmentation. The IV fluid is then titrated downto ensure the urine output of 0.5 mL/kg/hr.Electrical injuries are usually divided into low and high-voltage injuries.• Low voltage injuries cause small, localized, deep burns.• High voltage injuries damage by flash (External burn) and conduction (Internal burn)The myocardium may be directly damaged without pacing interruption. Thus, ECG must bemonitored for arrhythmias.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q15_img1_5af5fb0b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 16,
+      "question": "A man with severe burn injuries is admitted to the ward. Proton-pump inhibitors are started.Which ulcer is being prevented?",
+      "options": {
+        "A": "Curling's ulcer",
+        "B": "Cushing's ulcer",
+        "C": "Marjolin's ulcer",
+        "D": "Buruli's ulcer"
+      },
+      "correct_answer": "A",
+      "explanation": "Proton pump inhibitors are used in burns patients to prevent Curling's ulcer. It is an acute gastricerosion that is a complication from severe burns when reduced plasma volume leads to ischemiaand cell necrosis of the gastric mucosa.Marjolin's Ulcer is squamous cell carcinoma occurring in a long-standing burn scar or any chroniculcer.Cushing's ulcer is a gastric ulcer occurring in elevated intracranial pressure.Buruli's Ulcer is an infectious disease caused by Mycobacterium ulcerans.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 17,
+      "question": "A 34-year-old electrician sustains electrical burns while at work. On arrival he ishemodynamically stable, and he is placed on ECG monitoring and initial fluid resuscitation isinitiated. His urine is collected for routine labs and appears as below. Which of the followinglab abnormalities may be seen in this patient?1065",
+      "options": {
+        "A": "Elevated unconjugated bilirubin",
+        "B": "Elevated RBC count in urine",
+        "C": "Elevated creatinine kinase",
+        "D": "Low platelet countMFC03/29/2"
+      },
+      "correct_answer": "",
+      "explanation": "1076The tea-colored urine in the clinical vignette in the setting of an electrical injury is suggestive ofrhabdomyolysis following electrical burns. Elevated creatine kinase is seen in rhabdomyolysis.AC injuries are more commonly seen and this current creates tetany within the muscles. Thissustained contraction can lead to muscle injury and resulting in rhabdomyolysis andmyoglobinuria, presenting as tea-colored urine.Damage to the underlying muscles in the affected limb can also cause the rapid onset ofcompartment syndrome. The release of the myoglobins will cause myoglobinuria and subsequentrenal dysfunction. Therefore, during the resuscitation of these patients, efforts must be made tomaintain a high urine output of up to 2 mL/kg body weight per hour.Biochemical features of rhabdomyolysis are:• Elevated CPK, BUN, Cr• Hyperkalemia, hyperphosphatemia, hypocalcemia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q17_img1_92c86be0.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 18,
+      "question": "A woman, weighing 58 kg, has second-degree burns covering 20% of the total body surfacearea. Which of the following formulae would you use to calculate the amount of fluid to begiven?",
+      "options": {
+        "A": "Percentage of burns × weight (kg) × 2 = volume in mL",
+        "B": "Percentage of burns × weight (kg)/2 = volume in mL",
+        "C": "Percentage of burns × weight (kg) × 4 = volume in mL",
+        "D": "Weight 1500 ml/m2× BSA burnt = volume in mL"
+      },
+      "correct_answer": "",
+      "explanation": "According to the latest ATLS (Advanced Trauma Life Support) 10th edition 2018, resuscitationformula for second and third-degree thermal burns in the first 24 hours is given by the followingequation:Total percentage body surface area burned × weight (kg) × 2 =x 2 = volume (mL).Half this volume is given in the first 8 hours and the second half is given in the subsequent 16hours. This has been recommended to reflect concerns about over-resuscitation when using thetraditional Parkland formula.Adequacy of fluid resuscitation is assessed by monitoring for a urine output of 0.5-1.0 mL/kg/hr.However, in cases of electrical burns, the formula is:•Total percentage body surface area burnedx weight (kg) × 4 = volume (mL).Parkland and Modified Parkland formula:Parkland's formula for resuscitation in the initial 24 hours is given by = Total percentage bodysurface area × weight (kg) × 4 = volume (mL).• Modified Parkland's formula provides more specific recommendations for the second 24 hours,advising colloid infusion of 5% albumin at the amount of 0.3-1.0/mL/kg/%BSA/hr. Themanagement of the first 24 hours remains the same.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following formulas will you use to calculate the amount of albumin to beadministered to a patient with burns?",
+      "options": {
+        "A": "Parkland formula",
+        "B": "Muir and barclay formula",
+        "C": "Evan's formula1066",
+        "D": "Wallace formula"
+      },
+      "correct_answer": "B",
+      "explanation": "The most commonly used colloid-based formula is the Muir and Barclay formula:• 0.5 × percentage body surface area burnt × weight = one portion·• A total of six portions are given in 36 hours•Three portions: One portion for every 4 hours in 12 hours.1077• Two portions: One portion for every 6 hours in the next 12 hours.• One portion: Remaining one portion in the last 12 hours.Colloid-based resuscitation using the Muir-Barclay formula results in the administration of lowervolumes of fluid than Parklands formula and carries a lower risk of complications fromover-resuscitation. However, colloids (4.5% Albumin) are deferred for the first 8 hours whencapillary permeability is highest and the benefit is questionable. So, the 36-hours schedule of theMuir and Barclay formula would begin after the first 8 hours of burn.Options A and C: Parkland formula and Evan's formula are used to calculate the crystalloidvolume to be given in the first 24 hours.Option D: Wallace's rule of nine is used to calculate the percentage of the burnt body surface area(%TBSA).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 20,
+      "question": "A patient was brought to the hospital after being rescued from a burning house where he wastrapped for 4 hours. The patient has a few minor burns but is coughing extensively. His voiceis hoarse and he is able to drink water with some difficulty. What is the safest strategy ofmanagement?",
+      "options": {
+        "A": "Start him on CPAP",
+        "B": "02 therapy with well-fitting face mask",
+        "C": "Elective cricothyroidotomy",
+        "D": "Elective endotracheal intubation"
+      },
+      "correct_answer": "D",
+      "explanation": "For a patient who presents with a history or suspicion of inhalational burn injury, electiveendotracheal intubation is the safest strategy.Delay can make intubation very difficult because of airway edema and can lead to airwayobstruction. One should be ready to perform an emergency cricothyroidotomy if intubation isdelayed.Recognition of the potentially burned airway:• A history of being trapped in the presence of smoke or hot gases•Burns on the palate or nasal mucosa, or loss of all the hairs in the noseDeep burns around the mouth and neckAmerican Burn Life Support (ABLS) indications for early intubation include:••Signs of airway obstruction (hoarseness, stridor, accessory respiratory muscle use, sternalretraction)The extent of the burn (TBSA &gt; 40%-50%)• Extensive and deep facial burns•Burns inside the mouth or difficulty swallowing•Significant edema or risk for edema•Signs of respiratory compromise: Inability to clear secretions, respiratory fatigue, pooroxygenation or ventilation•• Decreased level of consciousness where airway protective reflexes are impaired• Anticipated patient transfer of large burn with airway issue without qualified personnel tointubate en route",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 21,
+      "question": "A 12-year-old boy presented to the OPD with a scald injury of his arm. The lesion was pink,oozing, and painful to moving air and touch. Which of the following is the most appropriatemanagement?",
+      "options": {
+        "A": "Silver sulphadiazine cream dressing",
+        "B": "Excision and grafting",
+        "C": "Paraffin gauze dressing",
+        "D": "Collagen dressing"
+      },
+      "correct_answer": "D",
+      "explanation": "1078Scald injury (damage from contact with hot liquids) that appears pink in colour, has oozing, andpain is suggestive of a 2nd-degree burn (i.e. partial-thickness burn). Collagen dressing is the mostappropriate management for this injury.The best dressing for burn wounds is skin; collagen is a good substitute for skin, especially inpartial-thickness burns. For full-thickness burns, sequential excision and grafting should beconsidered.Initial treatment for burns includes cleaning burnt areas and removing loose dead skin. Blistersare de-roofed and an appropriate dressing is applied.Biological dressing (collagen dressings, amniotic membrane, etc.) is the preferred dressingmaterial, especially in partial thickness burns.If this is not available then a non-adhesive dressing like paraffin gauze impregnated with silversulfadiazine (SSD) cream, colloidal silver, ionic silver cream, or silver nitrate cream can beapplied. Since increased resistance to SSD has recently emerged, it should be judiciously used andreserved for deep dermal, full thickness, infected, and old neglected burns.Depths of a BurnEpidermisHDermisFirst degree-Superficial seconddegree--Deep second degreeSubcutaneous fat------Third degreeMuscle-Fourth degreeOMARROW",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following antibiotics will be most appropriate for managing the burn wound inthis patient?1067",
+      "options": {
+        "A": "Mafenide acetate",
+        "B": "Neomycin",
+        "C": "Silver nitrate",
+        "D": "Silver sulfadiazine"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows a burn eschar. Among the given topical antibiotics, only mafenide acetatepenetrates burn eschar to reach the interface with the patient's viable tissue.This agent has the disadvantage that it is quite painful on any partial thickness areas, and it is acarbonic anhydrase inhibitor and can potentially cause metabolic acidosis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q22_img1_da0d7ab9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 23,
+      "question": "A 58-year-old homeless man was brought to a PHC in Himachal Pradesh during late winter.He was found unresponsive. His rectal temperature was 23 degrees C, pulse was notmeasurable, heart rate was 30 per minute and respiratory rate was 6. Rewarming with anelectric blanket was started. Which organ is most susceptible to dysfunction in this patient?",
+      "options": {
+        "A": "Brain",
+        "B": "Heart",
+        "C": "Liver",
+        "D": "Kidney"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of hypothermia. The heart is the organ most sensitive tocold and is subject to ventricular fibrillation or asystole when the temperature drops to 21–24 °C.1079Hypothermia affects the dissociation of oxygen from hemoglobin, so less oxygen is released to thetissues. Other complications are coagulopathies and disseminated intravascular coagulation (DIC),pancreatitis, and acute renal failure.Classification of hypothermia:maTrauAccidentalMild36-335-320C40CMode34-332-280Crate20CSever<320 <280CeC",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 24,
+      "question": "Sweating is usually absent in",
+      "options": {
+        "A": "Heat cramp",
+        "B": "Heat exhaustion",
+        "C": "Classic heat stroke1068",
+        "D": "Heat syncope"
+      },
+      "correct_answer": "",
+      "explanation": "Sweating is usually absent in classic (epidemic) heatstroke (CHS).Heatstroke occurs as a result of an imbalance between heat production and heat dissipation(sweating). The skin is pink or ashen and sometimes, paradoxically, dry and hot. Dry skin in thepresence of hyperpyrexia is virtually pathognomonic. It is of 2 types:•Exertion-induced heat stroke is seen in people with prolonged exposure to or physical exertionin high temperatures, usually without adequate training.• Sedentary heatstroke (CHS) is a disease of elderly or infirm people whose cardiovascular systemsare unable to adapt to the stress of a hot environment and release sufficient heat such that bodytemperature rises.Heat Cramps:• These are painful spasms of voluntary muscles which follow strenuous work in a hotatmosphere.•Caused by loss of water and salt in profuse sweating.Heat exhaustion/heat prostration:Collapse without any elevation of body temperature• Occurs due to exposure to high temperature in closed environment•Precipitated by muscular exercise and unsuitable clothing•Extreme exhaustion with peripheral vascular collapse with scanty sweating.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    },
+    {
+      "q_no": 25,
+      "question": "A marathon runner was training on a hot afternoon when he experienced leg cramps anddizziness. He fainted and was taken indoors by his coach. His temperature was 104.8 F, pulse126 per minute and BP 90/60 mm of Hg. Despite an hour of rest and cold sponging, he didnot improve. Which of the following is false regarding his condition?",
+      "options": {
+        "A": "Is a result of imbalance between heat production and heat dissipation",
+        "B": "The patient should be cooled rapidly",
+        "C": "Only occurs during exertion",
+        "D": "Body temperature is measured rectally"
+      },
+      "correct_answer": "",
+      "explanation": "The heat stroke may be either exertion induced or sedentary heatstroke.1080Heat stroke occurs as a result of an imbalance between heat production and heat dissipation.• Exertion-induced heat stroke is seen in people with prolonged exposure to or physical exertionin high temperatures, usually without adequate training.• Sedentary heat stroke is a disease of elderly or infirm people whose cardiovascular systems areunable to adapt to the stress of a hot environment and release sufficient heat such that bodytemperature rises.The body temperature must be measured rectally.Treatment is rapid cooling by spraying the patient with water at 15 °C.1081",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Burns"
+    }
+  ]
+}

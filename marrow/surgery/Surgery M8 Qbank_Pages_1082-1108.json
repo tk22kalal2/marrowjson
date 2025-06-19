@@ -1,0 +1,395 @@
+{
+  "chapter": "Wound Healing, Tissue Repair & Scar",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "If histopathological examination of a 2-day-old forearm laceration is done, which of thefollowing would be seen?",
+      "options": {
+        "A": "Early collagen deposition",
+        "B": "Neutrophilic infiltration",
+        "C": "Angiogenesis",
+        "D": "Increased fibroblast activity"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp1_img1_4f682219.jpeg",
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient's wound has the given appearance 1 week after the injury. Which cells arepredominantly found in this stage of wound healing?",
+      "options": {
+        "A": "Neutrophils",
+        "B": "Lymphocytes",
+        "C": "Macrophages",
+        "D": "Fibroblasts"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image shows granulation tissue formed during the proliferative stage of wound healing.Fibroblasts are the predominant cell during the proliferative stage.Fibroblasts are specialized cells that differentiate from resting mesenchymal cells into connectivetissue. The primary function of fibroblasts is to synthesize collagen.The proliferative stage of wound healing is characterized by the formation of granulation tissue,which consists of a capillary bed, fibroblasts, macrophages, and a loose arrangement of collagen,fibronectin, and hyaluronic acid.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q2_img1_598ccd90.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 3,
+      "question": "1082Which of the following is an anti-inflammatory cytokine involved in wound healing?",
+      "options": {
+        "A": "IL-1",
+        "B": "IL-6",
+        "C": "IL-8",
+        "D": "IL-10"
+      },
+      "correct_answer": "D",
+      "explanation": "Interleukins 1, 6 and 8 are pro-inflammatory cytokines, whereas IL-10 is an anti-inflammatorycytokine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following events of wound healing will be altered in a patient with scurvy?",
+      "options": {
+        "A": "Platelet aggregation",
+        "B": "Phagocytosis",
+        "C": "Early matrix scaffolding",
+        "D": "Deposition of inorganic matrix"
+      },
+      "correct_answer": "C",
+      "explanation": "Dietary deficiency of vitamin C (scurvy) results in poorly formed collagen and affects the earlymatrix scaffolding.Type I and Type III collagens are both present in the extracellular matrix of normal skin (in an 8:1ratio). However, during the proliferative phase of wound healing, the dominant collagen that islaid is Type III. This stage is also known as early matrix scaffolding. Type III collagen is graduallyreplaced by type I collagen (during the final remodeling phase) until a ratio (type I: type III) of 4:1is achieved.Relative amount of cellsRelative amount ofmatrix synthesisPhases of wound healingInflammationProliferationDaysMaturation101216months10121416Cellular changesNeutrophilsMacrophagesFibroblastsLymphocytes.1014DaysMatrix changesCollagen IFibronectinCollagen illWound strengthOMARROW1095",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp4_img1_b2116abc.jpeg",
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 5,
+      "question": "In patients presenting with non-healing surgical incisions, what is the most commonunderlying cause?",
+      "options": {
+        "A": "Malnutrition",
+        "B": "Infection",
+        "C": "Smoking",
+        "D": "Diabetes mellitus"
+      },
+      "correct_answer": "B",
+      "explanation": "All the factors listed impair wound healing, but local infection is the most common underlyingcause of non-healing surgical incisions.To reduce the chances of infection, the surgeon should make every effort to remove all devitalizedtissue and leave a clean wound for closure.Factors affecting wound healing:• Site of the wound• Structures involvedMechanism of wounding (crushing, incision, avulsion)• Contamination. Loss of tissue• Local factors (vascularity, previous irradiation, pressure)•Systemic factors (malnutrition, anemia, steroids, AIDS, smoking)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 6,
+      "question": "A child with a grazed knee comes to your clinic for first aid. He has a history of nephroticsyndrome and is on oral prednisolone therapy. Which stage of wound healing would be mostaffected by his medication?",
+      "options": {
+        "A": "Epithelialisation of the wound",
+        "B": "Collagen synthesis and remodelling",
+        "C": "Initial inflammatory phase and angiogenesis",
+        "D": "Contraction of the wound1083"
+      },
+      "correct_answer": "",
+      "explanation": "While all of the given options are inhibited by steroids, the major effect of steroids is to inhibit theinitial inflammatory phase of wound healing (angiogenesis, neutrophil and macrophagemigration, and fibroblast proliferation) and the release of lysosomal enzymes.The stronger the anti-inflammatory effect of the steroid compound used, the greater the inhibitoryeffect on wound healing. Steroids used after the first 3 to 4 days post-injury do not affect woundhealing as severely as when they are used in the immediate postoperative period.In addition to inhibiting collagen synthesis, steroids also inhibit epithelialization and contractionand contribute to increased rates of wound infection, regardless of the time of administration.Steroid delayed healing of cutaneous wounds can be stimulated to epithelialize by topicalapplication of vitamin A.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following findings in a long-standing ulcer would indicate malignanttransformation?",
+      "options": {
+        "A": "Persistent granulation tissue with bleeding",
+        "B": "Oedema beyond area of erythema",
+        "C": "Everted wound edges",
+        "D": "Non-healing after 2 weeks of therapy"
+      },
+      "correct_answer": "C",
+      "explanation": "Everted edge around a chronic wound is a sign of malignant transformation.The majority of wounds that have not healed in 3 months are considered chronic and are prone tomalignant changes. Malignant wounds are differentiated clinically from non-malignant wounds bythe presence of overturned edges. Biopsy of the wound edges should be performed to rule outmalignancy.Malignant transformation can occur in any long-standing wound. The image shows a Marjolin'sulcer with everted edges. It is squamous cell carcinoma that develops on a long-standing burn.1096",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp7_img1_97d24953.jpeg",
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 8,
+      "question": "A 21-year-old man came to the casualty 12 hours after sustaining a laceration on his leg froma trekking accident. On closer examination, other than dirt, you do not notice any pus orsigns of infection. What is the most appropriate management?",
+      "options": {
+        "A": "Closure after granulation tissue has formed",
+        "B": "Delayed closure 2 days after removal of devitalised tissue",
+        "C": "Primary closure after adequate wound toileting and debridement",
+        "D": "Wound debridement, topical antibiotics and dressing"
+      },
+      "correct_answer": "B",
+      "explanation": "Contaminated wounds older than 6 hours should be managed with delayed primary closure.The wound is cleaned, debrided, and left open for a few days. This allows soft tissues to drain andalso ensures no infection is present before surgical closure can be done.Wound closure is categorized into primary, secondary, or tertiary:Primary closure is done for clean wounds with minimal tissue loss that are amenable toapproximation of wound edges. Healing occurs by primary intention. Primary closure is ideallyperformed within 6 to 8 hrs of trauma, but wounds in vascular areas (e.g. face) may be delayed toup to 24 hours after trauma.Secondary closure allows healing by secondary intention. The wound is left open to heal largely bythe formation of granulation tissue and contraction. These wounds often have significant tissueloss precluding tension-free approximation of edges, with devitalized edges. Wound dressings arechanged daily to aid in the formation of granulation tissue and subsequent contraction.Tertiary closure, also known as delayed primary closure, results in a combination of healing byprimary and secondary intention. The wound is thoroughly irrigated, debrided, and left open for 2to 5 days before surgical closure. It is used for wounds that are grossly contaminated withoutsignificant tissue loss.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q8_img1_cfe07a25.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 9,
+      "question": "Stage the bedsore in the following image:1084",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "1"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows complete skin loss that involves muscles and shows exposed boneindicating a stage 4 pressure sore.Pressure sores are skin or soft tissue injuries that occur due to prolonged pressure over specificareas of the body. An external pressure of &gt;30 mmHg leads to the formation of pressure sores.1097The common sites of pressure sores in decreasing frequency are the ischium, greater trochanter,sacrum, heel, malleolus (lateral followed by medial), and occiput.Pressure sores can be prevented with good skincare, the use of air-fluidized beds, specialpressure-dispersion cushions, or foams. Repositioning the patient every two hours can lessen thepressure on the area.Ulcers of stages 1 and 2 often do not require operative measures. They are managed with regularwound cleaning and dressing with a good antibiotic cover.Stage 3 and 4 ulcers are adequately debrided, and vacuum-assisted closure (VAC) is used topromote the growth of granulation tissue required for surgical closure. Large skin flaps that havemuscle with sensory innervation are best for reconstruction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q9_img1_54e872bb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is the most common site of pressure sores?",
+      "options": {
+        "A": "Heel",
+        "B": "Occiput",
+        "C": "Greater tochanter",
+        "D": "Ischium"
+      },
+      "correct_answer": "D",
+      "explanation": "Pressure sore frequency in descending order:•• Ischium• Greater Trochanter• Sacrum• Heel• Malleolus•Occiput",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 11,
+      "question": "An elderly paraplegic patient admitted to a nursing home, developed an ulcer on her glutealregion. All of the following are true regarding the management of this patient except:1085",
+      "options": {
+        "A": "Diet and nutritional support should aim to establish a positive nitrogen balance",
+        "B": "Following debridement, exposure of the wound is recommended",
+        "C": "Tensor fascia lata flap with an intact nerve supply may be used for covering the defect",
+        "D": "Frequent change in position and air mattresses can help in preventing further sores"
+      },
+      "correct_answer": "",
+      "explanation": "The given image is that of a grade 3 bedsore. A grade 3 pressure sore requires dressing followingdebridement.Preoperative management involves adequate debridement, and the use of vacuum-assisted closure(VAC) to provide a suitable wound for surgical closure. Alginates, foams, hydrocolloids, hydrogelsare other options that are available.The aim of surgery is to fill the dead space and to provide durable sensate skin. Large skin flapsthat include muscle are best and, occasionally, an intact sensory innervated area can be included(e.g. extensor fascia lata flap with the lateral cutaneous nerve of the thigh).Nutritional optimization with high caloric and protein diet should be done to establish a positivenitrogen balance. Frequent changes in position and air mattresses can also help in preventingfurther sores.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q11_img1_7f0dd1ef.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 12,
+      "question": "A meshed skin graft was used to cover a defect and vacuum-assisted closure of the transplantwas done. What is the pressure generated within the dressing?",
+      "options": {
+        "A": "-50 mmHg1086",
+        "B": "-100 mmHg",
+        "C": "-125 mmHg",
+        "D": "-150 mmHg"
+      },
+      "correct_answer": "B",
+      "explanation": "The pressure used in vacuum-assisted closure for wound healing is -125 mmHg.1098Applying negative pressure appears to hasten debridement and the formation of granulationtissue in chronic wounds and ulcers.It acts by decreasing edema, by removing interstitial fluid, and as a result, helps in decreasingbacterial counts and cell proliferation increases.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q12_img1_929155c9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 13,
+      "question": "A man who had undergone an exploratory laparotomy 6 months ago came for a follow-upvisit. Which of the following statements about healed incision is false?",
+      "options": {
+        "A": "Disorganized collagen fibers become aligned along stress lines",
+        "B": "Strength of the scar is in their weave rather than in their amount",
+        "C": "By the first week it is held by sutures and a weak type 3 collagen matrix",
+        "D": "Tensile strength is about 60-80% of normal skin by 3 months"
+      },
+      "correct_answer": "",
+      "explanation": "During the first week, a surgical wound has minimal inherent strength because the dermal edgesare held together solely by a hemostatic plug and sutures.During the second postoperative week, fibroblasts proliferate rapidly and begin to produce type Icollagen in addition to type III. The strength of the wound is still limited to less than 10% of itsfinal strength. By week 6, the concentration of strong collagen fibers begins to resemble that ofintact skin.As the collagen matures and becomes denser, the scar becomes almost acellular as the fibroblastsand blood vessels reduce. The disorganized collagen fibers become aligned along stress lines withtheir strength being in their weave rather than in their amount.Most of these changes occur over the first three months but a scar will continue to mature for 1 to2 years. Tensile strength will continue to increase but would not be expected to exceed 60-80% ofthat of normal skin.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q13_img1_9702cf43.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 14,
+      "question": "The forearm of a patient admitted to the psychiatric ward is shown in the image. Which of thefollowing is true about the healed injury?1087",
+      "options": {
+        "A": "Extends beyond the original incision",
+        "B": "Has racial and genetic predilection",
+        "C": "Parallel orientation of collagen fibers",
+        "D": "Does not heal spontaneously"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image shows hypertrophic scars which have developed on possible sites of self-inflictedcuts. Type 3 collagen fibers are arranged parallelly in hypertrophic scars. This is in contrast to akeloid where the collagen fibers are more and randomly arranged.Hypertrophic scars rise above the skin level but stay within the confines of the original wound andoften regress over time. They have no racial or genetic predilection.Difference between keloid and hypertrophic scar:FeaturesHypertrophic scarKeloidGenetic predispositio Not familialnMaybe familial - Autosomal dominant with incomplete penetrationAgeRaceSiteTimingsChildrenNo predilectionAnywhere (more common onextensor surface)4-6 weeks postinjuryAdolescents. Middle ageAfrican American, Asian, HispanicNeck, chest, ear lobes, shoulders, upper backSymptom-free interval; mayappear years after injury1099FeaturesSymptomsRegressionContractureHistologyHypertrophic scarRaised, some pruritus, respects wound confinesKeloidPain, pruritus, hyperesthesia,growth beyond wound marginsFrequent spontaneousFrequentNoRareParallel orientation of collage Hypocellular, thick, wavy colln fibersagen fibers in random orientation",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q14_img1_67f1b4ae.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following statements are true with regards to a keloid scar?",
+      "options": {
+        "A": "The extent does not cross the wound margins",
+        "B": "Wide excision of the keloid scar prevents recurrence",
+        "C": "Histopathology of a keloid scar shows reduced collagen and increased vascularity",
+        "D": "A keloid scar forms due to increase in the level of growth factors"
+      },
+      "correct_answer": "D",
+      "explanation": "Keloid scars are associated with elevated levels of growth factor leading to increased proliferationof fibrous tissue.A keloid scar is defined as excessive scar tissue that extends beyond the boundaries of the originalincision or wound (option A) and rarely regresses on its own. It is more common indarker-pigmented ethnicities.It can arise from surgery, burns, skin inflammation, infections, ear piercing, and evenspontaneously. It occurs 3 months to years after the initial insult with even minor injuries causingkeloid formation.It most commonly occurs on the skin of the earlobe, deltoid, presternal, upper back, and rarelyextends into the subcutaneous tissue.The histology of keloid scars shows excess collagen and hypervascularity with collagen fibresarranged haphazardly in loose sheets (option C).Treatment: Keloid scars do not improve spontaneously with time and excision alone has a highrate of recurrence (option B). The following can be done:1100• Pressure local moulds or elastic garments.• Silicone gel sheeting.•• Intralesional triamcinolone injection.• Excision and steroid injections.• Excision and postoperative radiation (external beam or brachytherapy).• Intralesional excision.• Laser to reduce redness.• Vitamin E and palm oil massage.Differences between Keloids and Hypertrophic scars:IncidenceHypertrophic scarFrequentKeloidRareEthnic groupsPrior injuryAfrican, American, Asian, HispanicNo predilectionYesSite predilectionYesAnywhereGeneticsTimingSymptomsRegression and contracturNeck, chest, earlobes, shoulders, upper backAutosomal dominantwith incomplete penetrationSymptom-free interval; mayappear years after injuryPain, pruritus, hyperesthesia,growth beyond wound marginsNo4-6 weeks post-injuryRaised, some pruritus, respects wound confinesFrequenteHistologyNo, and rareHypocellular, thick, wavy collagen fibres inrandom orientationParallel orientationof collagen fibres",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp15_img1_85d3e4c4.jpeg",
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient has been treated for the lesion shown in the picture below for the past 12 monthsbut there has been no response to treatment. What is the next line of treatment for thispatient?1088",
+      "options": {
+        "A": "Intralesional injection of steroids",
+        "B": "Pressure treatment",
+        "C": "Excision with adjuvant therapy",
+        "D": "Excision alone"
+      },
+      "correct_answer": "C",
+      "explanation": "Surgical excision in combination with adjuvant therapy is advised to patients with refractorykeloids.The adjuvant therapy usually includes radiation. The risk of malignancy attributable to keloidradiation therapy is minimalTreatment of keloids :• First-line treatments include silicones in combination with pressure therapy and intralesionalcorticosteroid injections.1101• Intralesional 5-fluorouracil, bleomycin, and verapamil should be used in accordance withestablished treatment protocols.• Refractory cases after 12 months of therapy should be considered for surgical excision incombination with adjuvant therapy.•Excision alone results in a high recurrence rate of 50% to 100% and enlargement of the keloid.• Immediate postoperative electron beam irradiation or brachytherapy with iridium-192 reducesrecurrence rates. The risk of malignancy attributable to keloid radiation therapy is minimal.• An additional new invasive treatment modality is internal cryotherapy, in which a metal rod isintroduced into the keloid and the subsequent extreme cooling leads to tissue necrosis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q16_img1_2be2a174.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following techniques will you use to reduce suture marks and scars?",
+      "options": {
+        "A": "2,5",
+        "B": "1,2,4",
+        "C": "3,4,5",
+        "D": "2,4"
+      },
+      "correct_answer": "C",
+      "explanation": "Fine sutures (6/0 or smaller) placed close to the wound margins tend to cause lessscarring. Subcuticular suturing avoids suture marks on either side of the wound or incision.Suture marks can be minimized using monofilament sutures that are removed early (3-5 days).Wounds can be strengthened post-suture removal by the use of sticky strips.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is not a skin substitute?",
+      "options": {
+        "A": "Integra",
+        "B": "Alloderm",
+        "C": "Trancyte",
+        "D": "Duoderm1089"
+      },
+      "correct_answer": "D",
+      "explanation": "Duoderm is a hydrocolloid and not a skin substitute.Skin substitutes are skin products made of cells, extracellular matrix components, or acombination of the two.Integra is a bilayered membrane skin substitute.Alloderm is a acellular cadaveric dermis.Apligraf is a living bilayered biologic dressing composed of neonatal dermal fibroblasts on acollagen matrix.Trancyte is a tissue-engineered skin substitute is made from a nylon mesh and a silasticsemi-permissible and biocompatible layer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 19,
+      "question": "Identify the procedure shown in the image.",
+      "options": {
+        "A": "Venesection",
+        "B": "Fasciotomy of lower limb",
+        "C": "GSV stripping",
+        "D": "Linton's operation"
+      },
+      "correct_answer": "B",
+      "explanation": "The image depicts a fasciotomy of the lower limb.Fasciotomy involves incising the deep muscle fascia and is best carried out via longitudinalincisions of skin, fat, and fascia. The muscle is seen bulging out through the fasciotomy opening.The lower limb can be decompressed via two incisions, each being lateral to the subcutaneousborder of the tibia. This gives access to the two posterior compartments and to the peroneal andanterior compartments of the leg.1102",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q19_img1_1bfa4878.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 20,
+      "question": "A catheter is inserted into the limb of a patient suspected to have compartment syndrome.What minimum reading on the pressure monitor will prompt an immediate fasciotomy?",
+      "options": {
+        "A": "20 mmHg",
+        "B": "30 mmHg",
+        "C": "40 mmHg",
+        "D": "50 mmHg"
+      },
+      "correct_answer": "",
+      "explanation": "The pressure threshold for doing a fasciotomy in a case of suspected compartment syndrome is 30mmHgFasciotomy involves incising the deep muscle fascia and is best carried out via longitudinalincisions of skin, fat, and fascia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 21,
+      "question": "While performing a fasciotomy for compartment syndrome, the following layers are incised:Skin and Subcutaneous tissueb) Skin, Subcutaneous tissue, Superficial fascia1090c) Skin, Subcutaneous tissue, Superficial fascia and Deep fasciad) Skin, Subcutaneous tissue, Superficial fascia, Deep fascia and a few muscular fibresQuestion 22:The lower limb of this patient was run over by a car. Identify the type of injury.",
+      "options": {
+        "A": "Degloving injury",
+        "B": "Crush injury",
+        "C": "Lacerated injury",
+        "D": "Tidy woundVERSAJET EXACT"
+      },
+      "correct_answer": "",
+      "explanation": "The incision for a fasciotomy involves the skin, subcutaneous tissue, superficial fascia, and deepfascia.Fasciotomy involves incising the deep muscle fascia and is best carried out via longitudinalincisions of skin, subcutaneous fat, and superficial and deep fascia. The muscle will be seenbulging out through the fasciotomy opening.The lower limb can be decompressed via two incisions, each being lateral to the subcutaneousborder of the tibia. This gives access to the two posterior compartments and the leg's peroneal andanterior compartments.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp21_img1_d41bb744.jpeg",
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 23,
+      "question": "What is the most likely diagnosis of the lesion shown in the image below?1091",
+      "options": {
+        "A": "Arterial insufficiency",
+        "B": "Neuropathic ulcer",
+        "C": "Venous ulcer",
+        "D": "Tuberculous ulcer"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image which shows a punched-out ulcer with regular margins on the plantar surface ofthe dry, crackled foot is suggestive of a neuropathic ulcer.Neuropathic ulcers occur as a result of repeated trauma to the insensitive part due to peripheralneuropathy. There is a lack of sensation over the pressure points, leading to unnoticedmicrotrauma, wounds or cuts which develop into an ulcer. Causes of neuropathic ulcers includediabetic neuropathy, B12 deficiency, alcoholism, hypothyroidism, leprosy, peripheral nerve injury,transverse myelitis and myelomeningocele.Other options:Option D: Tuberculous ulcers occur when a cold abscess from bone and joint tuberculosis breaksout on the surface. The most characteristic feature of this ulcer is its edge which is thin andundermined. The following is a picture of a tuberculous ulcer:Type of UlcerUnderlying conditionArterial (option A)Peripheral vascular disease, hypertensionLocationCharacteristicSCondition of 1eg/footLateral malleolus, toes, and dorsum of the footDeep, punched-out, irregular margins. The wound bed has unhealthy necrotic tissueCool thin shiny skin,pallor on leg elevation, absent peripheralpulses, and delayed capillary refillVenous(option C)Varicose veins, DVT,obesity, previous thrombophlebitisLower leg, above themedial malleolusShallow, flat with exudateNeuropathicDiabetes, peripheralneuropathyThe plantar surface of the foot, toesPunched-out with regular calloused margins.PressureLimited mobilityBony prominences (e.g.heel)Deep, maceratedExcematous and pigmented. Limb edemamay be presentDry, cracked, insensateAtrophic skin, loss ofmuscle1104The following is a picture of an arterial ulcer.The following is a picture of a venous ulcer.1105The following is a picture of a pressure ulcer.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q23_img1_53d79329.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp23_img1_1141988f.jpeg",
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 24,
+      "question": "A 68-year-old diabetic presented with a foot ulcer that he first noticed 1 month ago. The edgesare irregular with sloped margins. The ulcer does not bleed to touch. Peripheral pulses arefelt and an arterial doppler does not indicate a compromised blood flow. Which growth factorhas been formulated and approved for treatment?",
+      "options": {
+        "A": "IGF-1",
+        "B": "PDGF",
+        "C": "EDGF",
+        "D": "TGF-B"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical scenario is suggestive of a diabetic foot ulcer. At present, PDGF (platelet-derivedgrowth factor)-BB is currently approved by the FDA for the treatment of diabetic foot ulcers.Application of recombinant human PDGF-BB in a gel suspension to these wounds increases theincidence of total healing and decreases healing time.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following procedures leaves a clean-contaminated wound?",
+      "options": {
+        "A": "Thyroidectomy",
+        "B": "Repair of an old duodenal perforation",
+        "C": "Elective cholecystectomy1092",
+        "D": "Emergency appendectomy"
+      },
+      "correct_answer": "C",
+      "explanation": "1106Elective procedures in uninfected respiratory, genital, urinary, and gastrointestinal tracts such aselective cholecystectomy produce clean-contaminated wounds.Option A: Thyroidectomy leaves a clean wound.Option B: Repair of an old duodenal perforation is a contaminated wound.Option D: Emergency appendectomy is usually performed in the setting of an inflamed appendixand results in a dirty surgical wound.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 26,
+      "question": "ASEPSIS wound scoring takes all of the following into consideration except:",
+      "options": {
+        "A": "Wound swab from the site",
+        "B": "Serous discharge",
+        "C": "Erythema",
+        "D": "Induration"
+      },
+      "correct_answer": "D",
+      "explanation": "ASEPSIS wound score does not take induration into consideration. Instead, the I in ASEPSISstands for the isolation of bacteria from the wound.ASEPSIS wound score and Southampton wound score are used to determine the severity of thesurgical site wound infection (SSI).ASEPSIS score includes:• Additional treatment• Antibiotics for wound infection.Drainage of pus under local anesthesia• Debridement of the wound under general anesthesia•Serous discharge•Erythema• Purulent exudate.Separation of deep tissue• Isolation of bacteria from the wound•Stay as inpatient prolonged over 14 days as a result of wound infection",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following is used for wound infection grading?",
+      "options": {
+        "A": "ASA classification",
+        "B": "SIRS criteria",
+        "C": "Southampton grading",
+        "D": "APACHE II score"
+      },
+      "correct_answer": "C",
+      "explanation": "Southampton wound grading system is used to score the severity of wound site infection.Southampton wound grading system:••Grade o - Normal healing•Grade I - Normal healing with different grades of erythemaGrade II - Erythema with other signs of inflammation at different parts of the wound.• Grade III - Clear or serosanguinous discharge at different sites• Grade IV - Pus dischargeOther options:1107Option A: American Society of Anesthesiologists (ASA) grading is used in pre-anesthetic checkupsto assess a patient's physical health and fitness for anesthesia and surgery.Option B: Systemic Inflammatory Response Syndrome (SIRS) is a set of clinical criteria used toidentify and monitor critically ill patients with high-grade burns, severe trauma, and other majorsurgeries.Option D: Acute Physiology and Chronic Health Evaluation II (APACHE II) is a scoring systemused to assess the severity and predict the outcome of pancreatitis.1108",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Wound Healing, Tissue Repair & Scar"
+    }
+  ]
+}

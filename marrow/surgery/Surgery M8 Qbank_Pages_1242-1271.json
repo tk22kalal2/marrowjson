@@ -1,0 +1,425 @@
+{
+  "chapter": "Skin Malignancies",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A biopsy done for a chronic verrucous lesion over the right cheek in an elderly man revealedthe given histopathological finding. What is the most likely diagnosis?Basal cell carcinomab) Squamous cell carcinoma.c) Molluscum contagiosumd) Malignant melanomaQuestion 2:During rounds, you have been asked to examine a patient with an ulcer over the face. Whichof the following features will raise the suspicion of it being squamous cell carcinoma?",
+      "options": {
+        "A": "Inverted margins",
+        "B": "Rolled out margins",
+        "C": "Everted margins",
+        "D": "Undermined margins"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q1_img1_0196bc74.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 3,
+      "question": "1242Which of the following can increase the risk of developing squamous cell carcinoma?",
+      "options": {
+        "A": "Only 1",
+        "B": "2, 4 &amp; 5",
+        "C": "1, 2 &amp; 3",
+        "D": "1, 3, 4 &amp; 5"
+      },
+      "correct_answer": "D",
+      "explanation": "HPV 6 &amp; 11 are not risk factors for squamous cell carcinoma, HPV 16 &amp; 18 are riskfactors for squamous cell carcinoma.Note: Skin cancer is the most frequent malignant neoplasm in organ transplant recipients, withSCC and BCC representing 95% of cancer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not true regarding squamous cell carcinoma?",
+      "options": {
+        "A": "Skin biopsy is mandatory in all cases",
+        "B": "Mohs micrographic surgery is indicated for recurrent tumors",
+        "C": "Broder's staging is based on the depth of the lesion",
+        "D": "Lesion on the ear is a high-risk feature"
+      },
+      "correct_answer": "",
+      "explanation": "Broder's staging for SCC is based on histological grading. Depth or size of the tumor and lymphnode involvement are not included in Broder's staging.1254A skin biopsy is mandatory in all patients with suspected squamous cell carcinoma. Mohsmicrographic surgery is indicated in patients with aggressive and high-risk SCC.High-risk features of SCC include:Perineural invasionDepth of lesion greater than 2 mmLesions on the earPoorly differentiated lesionsNote: Mohs micrographic surgery is the treatment of choice in BCC.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 5,
+      "question": "A 55-year-old farmer presented with a slow-growing lesion over his left hand for the past 5months. The lesion was initially nodular, which then ulcerated. On examination, a 2 x 1 cmulcer with everted margins was noted. Biopsy revealed keratin pearls. Which of the followingstains will be positive for this condition?",
+      "options": {
+        "A": "Only 3",
+        "B": "3 &amp; 5",
+        "C": "2 &amp; 5",
+        "D": "1, 3 &amp; 4"
+      },
+      "correct_answer": "",
+      "explanation": "SCC is a malignant tumor of keratinizing cells of the epidermis arising from the stratumgerminatum (basalis) and expresses cytokeratins 1 and 10.CK-20 is specific for Merkel cell carcinoma. BCL2 is used to distinguish between basal cellcarcinomas and trichoepitheliomas. HMB-45 is used to detect melanocytes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 6,
+      "question": "A 75-yearold man came with complaints of a painless nodule on the left palm for the past 4weeks. He gave a history of sustaining a thorn prick injury to the palm 5 weeks ago. Onexamination, the lesion appears as shown below. What is the most likely diagnosis?1243",
+      "options": {
+        "A": "Actinic keratoses",
+        "B": "Bowen's diseaseKeratoacanthomad) Mycosis fungoidesQuestion 7:A firefighter presented with a chronic non-healing painless ulcer over his left leg. He gave ahistory of sustaining 2nd-degree burns injury to the leg 10 years back during a rescuemission. The examination finding is as shown below. All of the following are true about thiscondition, except1244a) Painlessb) Highly vascular",
+        "C": "No lymphatic spread",
+        "D": "Low-grade squamous cell carcinoma."
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario and image showing an exophytic nodule with central keratinous debris issuggestive of keratoacanthoma.Keratoacanthoma is a low-grade squamous cell carcinoma. It presents clinically as a proliferatingdome-shaped keratin-filled crater. Patients usually give a prior history of minor trauma.Treatment of choice is an excisional procedure with 4 mm margins.Option A: Actinic keratoses consist of hyperkeratotic erythematous papules and patches on thesun-exposed skin. They arise in middle-aged to older adults and have some potential formalignant transformation.1255Option B: Bowen's disease appears histologically as SCC in situ. It initially presents with a red-dened area that progresses to thickened plaques and may vary from small lesions (&lt;1 cm) tolarge areas. When it is confined to the glans penis or vulva, Bowen disease is sometimes referredto as Erythroplasia of Queyrat.Option D: Mycosis fungoides is a cutaneous T cell lymphoma, and plaque-stage lesions are seen.1256",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q6_img1_c7a50960.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp6_img1_fc70d4c8.jpeg",
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 8,
+      "question": "A 65-year-old man has the following lesion over the face. He complains of bleeding whileitching. The most likely diagnosis is",
+      "options": {
+        "A": "Dermatofibrosarcoma",
+        "B": "Marjolin's ulcer",
+        "C": "BCC",
+        "D": "Naevus"
+      },
+      "correct_answer": "",
+      "explanation": "The given history with the image showing an ulcer over the face with pearly, rolled-out borderspoints to a diagnosis of basal cell carcinoma.Basal cell carcinoma (BCC) is an epithelial tumor arising from basal cells. It is the most commontype of skin cancer most commonly seen over the face, above the line joining corner of the mouth,and lobule of the ear. Risk factors for BCC include ultraviolet radiation (strongest risk factor), age40-80 years with excessive sun exposure, light-skinned people, and exposure to arseniccompounds, coal tar, aromatic hydrocarbons, and infrared light. It is more common in males thanfemales. It is also associated with syndromes such as xeroderma pigmentosum and Gorlin'ssyndrome.Features of BCC include:•Pearly nodule with rolled border•Tortuous telangiectatic vessels• Surface which can get ulcerated with raised and beaded edge, often with a central depression orumbilication.• Bleeding on minor traumaBCC has various subtypes such as nodular (most common type), pigmented, nodulocystic,morphoeic, infiltrative, and fibroepithelioma of Pinkus.1257It is locally aggressive and can erode the bone or facial sinuses. It rarely metastasizes via lymphnodes.The occasional presence of melanin in the nodular variant of BCC (pigmented BCC) may lead toconfusion with melanoma.Depending upon the type of the lesion, a shave, punch or excisional biopsy may be employed fordiagnosis. X-ray or CT may be needed if there is a local invasion. Histology shows peripheralpalisading of cells.•Treatment:Surgical: Wide excision (4-6 mm clearance) with a skin graft or flap or primary suturing• Mohs' surgery for BCC close to the eyes, nose, or ear to preserve more tissue.• Non-surgical: Radiotherapy, vismodegib and sonedegib.Other options:Option A: Dermatofibrosarcoma, also known as dermatofibrosarcoma protuberans (DFSP) is arare, slow-growing, well-differentiated primary fibrosarcoma of the skin, associated with increasedproduction of platelet-derived growth factor-beta. It presents as a protuberant nodule within afirm, indurated plaque that can ulcerate. They are locally aggressive tumors with high recurrencerates. Treatment is wide excision and Mohs microscopic surgery. Imatinib is used forunresectable, metastatic, and recurrent tumors. The given image below shows a DFSP near theumbilicus.Option B: Marjolin's ulcer is a painless, slow-growing, locally malignant, well-differentiatedsquamous cell carcinoma that occurs in a chronic scar (burns scar, scar of venous ulcer). Itpresents as an indurated, non-tender ulcer with raised and everted edges with scarring in thesurrounding area with marked fibrosis. The ulcer can spread to the lymph nodes when it reachesthe normal skin. A wedge biopsy and MRI of the region involved confirm the diagnosis.Management is by wide excision, for larger ulcers, amputation is done. The given image belowshows a marjolin's ulcer of the leg.1258Option D: Naevus is a common benign neoplasm caused due to mutations in the components ofthe RAS signaling pathway. It has various types, such as congenital naevus, blue naevus, Spitznaevus, halo naevus, and dysplastic naevus. The given image below shows a patient with multipledysplastic nevi.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q8_img1_7ada4ff8.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp8_img1_07f453dc.jpeg",
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is true regarding basal cell carcinoma?",
+      "options": {
+        "A": "Nodular is the most common type",
+        "B": "Prognosis is very poor",
+        "C": "Most commonly seen over the neck",
+        "D": "Only punch biopsy is used for diagnosisDAILYROUNDS1245"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common form of BCC (60%) is the nodular variant.Other types of BCC are:•Superficial BCC- typically appears on the trunk as a pink or erythematous plaque with a thinpearly border• Infiltrative BCC1259•Pigmented variant of nodular BCC••Morpheaform variant - is an uncommon variant and is the most aggressive formFibroepithelioma of PinkusOption B: Patients with BCC show excellent prognosis with 100% survival rates for cases that havenot spread to other sites.Option C: Most of the basal cell carcinoma occurs on the face above the line joining the corner ofthe mouth and lobule of the ear.Option D: Depending upon the type of lesion, a shave, punch, or exicision biopsy can be used toconfirm the diagnosis.The below image shows a nodular BCC",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp9_img1_6d2d0594.jpeg",
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 10,
+      "question": "Lymph node involvement may be seen in patients with all of the following cutaneousmalignancies except?",
+      "options": {
+        "A": "Squamous cell carcinoma",
+        "B": "Merkel cell carcinoma",
+        "C": "Malignant melanoma",
+        "D": "Basal cell carcinoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Basal cell carcinoma does not show lymphatic or hematogenous metastasis. It is locally invasive.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 11,
+      "question": "A construction worker presented to the clinic with a slowly enlarging lesion near the left innercanthus for the past 2 years. He noticed bleeding from the lesion for the past 2 months. Onexamination, a 3 x 1 cm ulcer with pearly rolled-out margins was noted. A biopsy was done.Which of the following is the characteristic finding that will be seen in this condition?",
+      "options": {
+        "A": "Keratin pearls",
+        "B": "Psammoma bodies",
+        "C": "Nuclear palisading",
+        "D": "Foam cells"
+      },
+      "correct_answer": "C",
+      "explanation": "The characteristic finding of basal cell carcinoma is of ovoid cells in nests with a single 'palisading'layer.The cells of a BCC resemble those of the basal layer of the epidermis. They are basophilic, have alarge nucleus, and appear to form a basal layer by forming an orderly line around the periphery oftumor nests in the dermis, a feature referred to as palisading.1260Tpalisadingnuclei",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp11_img1_9ddfd2c4.jpeg",
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 12,
+      "question": "In patients with BCC, Mohs microscopic surgery will be indicated for which of the followingfeatures of the tumor?",
+      "options": {
+        "A": "Only 2",
+        "B": "1, 4 &amp; 5",
+        "C": "2, 3, &amp; 5",
+        "D": "1, 2 &amp; 3"
+      },
+      "correct_answer": "",
+      "explanation": "Moh's microscopic surgery is indicated in patients with the following features of BCC:•Primary lesions of the ear or lip• Recurrent lesions• With perineural invasion•⚫ Poorly differentiated lesions•• Tumors more than 2 cm in sizeMoh's microscopic surgery involves initial surgical excision of the tumor, followed by repeatedtissue sampling along lateral and deep margins. These tissue samples are examined immediatelyunder a frozen section for evidence of tumor. This process is repeated until the clearance is finallyobtained.1261",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp12_img1_612521e2.jpeg",
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is unlikely to be seen in a patient with Gorlin syndrome?",
+      "options": {
+        "A": "Bifid ribs",
+        "B": "Medulloblastoma1246",
+        "C": "Osteoma",
+        "D": "Basal cell carcinoma"
+      },
+      "correct_answer": "",
+      "explanation": "MonsOsteoma is not a part of Gorlin syndrome.Gorlin syndrome/basal cell naevus syndrome is an autosomal dominant condition caused by amutation in the PTCH gene.Components of Gorlin syndrome include:• Basal cell carcinomas•Medulloblastoma• Bifid ribs•Odontogenic keratocysts",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 14,
+      "question": "ABCDE rule applies for:",
+      "options": {
+        "A": "Malignant melanoma",
+        "B": "BCC",
+        "C": "SCC",
+        "D": "Actinic keratosis"
+      },
+      "correct_answer": "A",
+      "explanation": "ABCDE algorithm is used to diagnose melanoma.It comprises of:• Asymmetry• Border irregularity• Color variegation•• Diameter of more than 6 mm•• Evolution or changeMelanoma is a malignant tumor arising from melanocytes at the epidermal-dermal junction.Though it represents only 4% of skin cancers, it accounts for 80% of deaths (high mortality rate).1262It presents as a pigmented lesion that has enlarged, ulcerated, or bled.Histopathological confirmation is the gold standard in the diagnosis of melanoma. It is dividedinto four main types: nodular melanoma (NM), superficial spreading melanoma (SSM), lentigomaligna melanoma (LMM), and acral lentiginous melanoma (ALM).The treatment consists of wide local excision of the tumor and follow-up to detect any localrecurrence around the scar and excluding nodal spread.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 15,
+      "question": "An anxious patient with a black mole over his back presents to the clinic for evaluation. All ofthe following features according to the ABCDE rule will point towards a diagnosis ofmelanoma in this patient except?",
+      "options": {
+        "A": "Asymmetric outline",
+        "B": "Evolution",
+        "C": "Variation in color",
+        "D": "Depth &gt; 6 mm"
+      },
+      "correct_answer": "D",
+      "explanation": "D stands for diameter &gt;6 mm and not depth &gt; 6mm.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is not true regarding malignant melanoma?",
+      "options": {
+        "A": "Lentigo maligna type has the worst prognosis",
+        "B": "Commonly arises from junctional melanocytes",
+        "C": "Most commonly metastasizes to lungs",
+        "D": "Acral melanoma is the most common type in dark-skinned individuals"
+      },
+      "correct_answer": "A",
+      "explanation": "Lentigo maligna melanoma has the best prognosis. Nodular melanoma has the worst prognosis.Option B: Malignant melanoma arises from melanocytes at the dermo-epidermal junction(junctional melanocytes). They may also arise from mucosal surfaces of the eyes, pharynx,esophagus, anorectal and genital areas.Option C: Malignant melanoma most commonly metastasizes to the lungs.Option D: Acral melanoma is the most common type in dark-skinned individuals.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is the most common type of malignant melanoma?",
+      "options": {
+        "A": "Nodular1247",
+        "B": "Superficial spreading",
+        "C": "Lentigo maligna melanoma",
+        "D": "Acral lentiginous"
+      },
+      "correct_answer": "B",
+      "explanation": "Superficial spreading melanoma is the most common type of malignant melanoma. It usuallyarises in a pre-existent naevus.Other types of malignant melanoma include:• Nodular melanoma - presents as a nodule, and has the worst prognosis.• Acral lentiginous melanoma - commonly seen over palms and soles. Most common melanoma indark-skinned individuals.• Lentigo maligna melanoma - also known as Hutchinson's melanotic freckle. More commonlyseen on sun-exposed areas like the face, neck, or hands of the elderly. It is the least common andhas the best prognosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 18,
+      "question": "What does the finding depicted in the image signify?",
+      "options": {
+        "A": "Subungual hematoma",
+        "B": "Nodular melanoma",
+        "C": "Subungual melanoma.",
+        "D": "Lentigo maligna melanoma"
+      },
+      "correct_answer": "",
+      "explanation": "The image shows Hutchinsons's nail sign in subungual melanoma. It arises from the nail matrix,most commonly in the great toe or thumb.1263Hutchinson's nail sign is an important clinical clue to subungual melanoma. It is characterized bythe extension of brown or black pigment from the nail bed, matrix, and nail plate to the adjacentcuticle and proximal or lateral nail folds. It is also associated with nail dystrophy.Note: Pseudo-Hutchison's sign is a reflection of the pigmentation of the nail bed and nail matrixthrough the transparent nail folds.Option A: Subungal hematoma is a close differential of subungual melanoma. It is seen secondaryto trauma which causes bleeding and resultant hematoma formation and pigmentation. It isimportant to note that the features of Hutchinson's nail sign are not seen with subungualhematoma.Option B: Nodular melanoma is a condition where malignant melanoma cells proliferatedownwards through the skin - this is known as vertical growth. The lesion presents asa nodule that has been rapidly enlarging.1264Option D: Lentigo maligna is an early form of melanoma, in which the malignant cells areconfined to the tissue of origin, the epidermis, hence it is often reported as in-situ melanoma.Note: Subungual melanoma can be either superficial spreading melanoma or acral lentiginousmelanoma. A difference of opinion has been noted in Bailey and Love, 27th ed. where it has beenmentioned that melanoma under the fingernail is usually superficial spreadingmelanoma. However, most dermatology textbooks including the Rooks 9th ed. and Fitzpatrick's9th ed and several research articles mentioned subungual melanoma as a variant of acrallentiginous melanoma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q18_img1_b30e74a7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp18_img1_ce8421af.jpeg",
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 19,
+      "question": "Most common site of lentigo maligna melanoma is",
+      "options": {
+        "A": "Face",
+        "B": "Legs",
+        "C": "Trunks",
+        "D": "Soles"
+      },
+      "correct_answer": "A",
+      "explanation": "Lentigo maligna melanoma also known as Hutchison's melanotic freckle is more commonly seenon sun-exposed areas like face, neck or hands of the elderly. It is the least common and leastmalignant type.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 20,
+      "question": "1248Which of the following can be used for staging patients with melanoma?",
+      "options": {
+        "A": "Only 1",
+        "B": "2 &amp; 4",
+        "C": "1 &amp; 3",
+        "D": "3 &amp; 5"
+      },
+      "correct_answer": "",
+      "explanation": "Both Breslow and Clark's system is used for melanoma staging.Breslow thickness is the depth of invasion measured from the granular layer of the epidermis tothe base of the lesion. As the thickness of the melanoma increases, the prognosis worsens. Clark'sis based on the layer of skin to which melanoma has invaded.Breslow thickness has largely supplanted Clark's as it is a more accurate method of predictingprognosis.Van-nyus prognostic index is used for DCIS.Atlanta's is used for acute pancreatitis.1265Onodera's prognostic index is used for hepatocellular carcinoma after initial hepatectomy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 21,
+      "question": "A farmer presented with a brownish lesion over the plantar aspect of the left foot for 2 years.Over the last few months, he noticed that the lesion was increasing in size. On examination, a2 x 1.5cm asymmetric lesion with notched edges was noted. Excision biopsy revealed cellscontaining large, pleomorphic nuclei and numerous mitotic figures. Which of the followingwill be used as a marker for this condition?",
+      "options": {
+        "A": "S-100",
+        "B": "CK-20",
+        "C": "CK-10",
+        "D": "Vimentin"
+      },
+      "correct_answer": "",
+      "explanation": "The given history and biopsy finding is suggestive of melanoma. S-100 is a marker for melanoma.Other markers for melanoma are:• MELAN-A• HMB (Human Melanoma Black)-45• LDH",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following will be the most important prognostic indicator in patients with stage1 melanoma?",
+      "options": {
+        "A": "Site",
+        "B": "Stage",
+        "C": "Lymph node involvement",
+        "D": "Depth of melanoma"
+      },
+      "correct_answer": "D",
+      "explanation": "The best prognostic factor in primary stage 1 melanoma (TiNo) is the tumor thickness or depth ofthe melanoma.The presence of lymph node metastases is the single most important prognostic index formelanoma in general. But in Stage 1 melanoma, as there is no lymph node involvement, the depthof the melanoma is the best prognostic factor.Other major prognostic factors, in order of impact on survival, include:•Presence of lymph node metastases•Ulceration.• Age• Anatomic location of the primary tumor• Gender",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 23,
+      "question": "Arrange the types of melanoma from best to worst according to their prognosis?",
+      "options": {
+        "A": "1 &amp; 4 &gt; 3 &gt; 2",
+        "B": "2&gt;3&gt;1&gt;4",
+        "C": "4&gt;3&gt;2&gt;1",
+        "D": "3&gt;4&gt;1 &amp; 21249"
+      },
+      "correct_answer": "A",
+      "explanation": "The order of prognosis for types of melanoma from better to worse is:Lentigo maligna melanoma (LMM) and acral lentiginous melanoma (ALM) &gt; superficialspreading melanoma (SSM) &gt; nodular melanoma (NM)The LMM and ALM both have long horizontal phases. As a result of this, there will be more timeto detect them before they enter the vertical phase of growth. Thus LMM and ALM have a betterprognosis than other subtypes.The SSM has an intermediate prognosis, as the horizontal phase is rapidly followed by the verticalphase.The NM has the worst prognosis, as there is no horizontal phase and it starts with a verticalgrowth phase. This leads to a greater average tumor thickness.1266",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 24,
+      "question": "A patient presented from the dermatology out-patient with a biopsy-proven melanoma on herright arm with a Breslow depth of 2.1 mm. Nodes were clinically negative. What is thesurgical management for this patient?",
+      "options": {
+        "A": "Excision with 1-cm margin",
+        "B": "Excision with 2-cm margin and SLNB",
+        "C": "Excision with 3-cm margin",
+        "D": "Excision with 2-mm margin and SLNB"
+      },
+      "correct_answer": "B",
+      "explanation": "Wide local excision with a resection margin of 2 cm along with sentinel lymph node biopsy(SLNB) will be recommended for melanomas invading to a depth &gt; 2mm.Recommended margins of wide local excision:Wide local excision with SLNB is preferred for early-stage tumours. SLNB should be performedfor lesions &gt;1mm in depth. If SLNB is positive or if nodes are clinically positive, lymph nodedissection should be performed.SLN biopsy is more challenging in the head and neck than in other regions because of the richlymphatic drainage network, and the false-negative rate for SLN biopsy is generally higher formelanomas in these locations. Cross-sectional imaging, such as with a single-photon emission CT,helps to identify the exact anatomic location of the SLNs more accurately.DepthMarginIn sit0.5 Cum<1 m1 cmm1-21-2 Cmmm>2-4mm2 cm>4 mm2 cm",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following FDA-approved adjuvant therapy will be recommended for patientswith malignant melanoma?",
+      "options": {
+        "A": "Doxorubicin",
+        "B": "Infliximab",
+        "C": "Imatinib",
+        "D": "Interferon alpha 2b"
+      },
+      "correct_answer": "D",
+      "explanation": "The only systemic adjuvant therapy approved by the US FDA for malignant melanoma ishigh-dose interferon alpha 2b.It is administered at nearly the maximum tolerated dose, with 1 month of intravenous injectionsfollowed by 11 months of subcutaneous injections three times weekly.Note: Dabrafenib is a BRAF inhibitor used in advanced stages of melanoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 26,
+      "question": "Which of the following is false regarding Merkel cell carcinoma?",
+      "options": {
+        "A": "Regional lymph nodes will be involved in 30% of the cases",
+        "B": "It is characterized by a rapidly growing, flesh-colored papule",
+        "C": "Recurrence is rare",
+        "D": "Wide local excision is usually done"
+      },
+      "correct_answer": "C",
+      "explanation": "Recurrence is common in Merkel cell carcinoma.1267Merkel cell carcinoma is a rare and aggressive neuroendocrine tumor of the skin, most commonlyfound in white men and diagnosed at a mean age of 70 years. A rapidly growing, flesh-coloredpapule or plaque characterizes the disease.Regional lymph nodes are involved in 30% of the patients and 50% will develop systemicdisease. CK-20 is a specific marker for Merkel cell carcinoma. Wide local excision is usuallynecessary.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 27,
+      "question": "A lady comes with a reddish firm nodule on her chest which hasn't grown in size. Itshistolopathological image is shown below. What is the diagnosis?1250",
+      "options": {
+        "A": "Lipoma",
+        "B": "Fibroadenoma",
+        "C": "Nevus",
+        "D": "Hemangioma"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario of a woman with reddish firm nodule on her chest and histologyshowing multiple dilated vascular structures with a single layer of epithelial cells is suggestive of ahemangioma.Hemangioma is a benign tumor caused by the abnormal growth of blood vessels. Types ofhemangioma are capillary hemangioma (most common), juvenile/ strawberry hemangioma,cavernous hemangioma and pyogenic hemangioma.Indications for immediate treatment are complications such as ulceration or those pertaining tothe location of the mass (e.g. visual issues due to a large hemangioma over the eyelid).Treatment options include:• Beta-blockers oral propranolol• Steroids - intralesional triamcinolone, topical clobetasol, systemic steroids• Interferon alfa-2a and vincristine for steroid-resistant lesions-• Local resection with cutting cautery or carbon dioxide laserThe given image shows a flat to elevated, irregular, pinkish-red mass over the skin of the abdomensuggestive of a strawberry hemangioma.The given image shows a capillary hemangioma in a child1268",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q27_img1_535af57d.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp27_img1_f2a12ee9.jpeg",
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 28,
+      "question": "Extra mammary Paget's disease is commonly seen in the:",
+      "options": {
+        "A": "Vulva",
+        "B": "Vagina",
+        "C": "Uterus",
+        "D": "Cervix"
+      },
+      "correct_answer": "A",
+      "explanation": "•Extramammary Paget's disease arises most frequently on the vulva. Other sites include theperineum, scrotum, perianal skin, and penis.Extramammary Paget's disease (EMPD) can be primary or secondary.Primary EMPD is more common and occurs in the absence of an underlying malignancy,thought to arise from intraepidermal parts of apocrine glands or from pluripotent cells from theepidermis.• Secondary EMPD arises from an underlying adnexal carcinoma or internal malignancy due tothe epidermotropic spread of malignant cells from the underlying tumor.Visceral malignancies associated with EMPD are carcinomas of the colon, rectum, bladder,urethra, cervix, and prostate. The patient presents with well-defined, moist, erythematous scalyplaques and severe pruritis. Lichenification and excoriations may also be seen.Diagnosis is confirmed by punch, wedge, or excisional skin biopsy. A systemic workup should alsobe done to identify any underlying malignancy and they include colonoscopy, cystoscopy,colposcopy, and pelvic examination with pap smear in females.Treatment:• Mohs microscopic surgery with 5 cm margin clearance• Radiotherapy•Topical 5-fluorouracil and imiquimod•Chemotherapy•Photodynamic therapyThe given image below shows extramammary Paget's disease of the vulva.1269",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp28_img1_3ba3aae5.jpeg",
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 29,
+      "question": "A postmenopausal lady presented with an itchy plaque over the vulva for the past 2 years,which persisted despite multiple topical treatments. Biopsy of the lesion revealed largevacuolated cells with mucin. What is the most likely diagnosis?",
+      "options": {
+        "A": "Squamous cell carcinoma",
+        "B": "Adenocarcinoma",
+        "C": "Basal cell carcinoma",
+        "D": "Melanoma1251"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario and presence of large vacuolated cells with mucin (Paget's cells) points to adiagnosis of extramammary Paget's disease. It is a form of intraepidermal adenocarcinoma.Extramammary Paget's disease usually presents in the sixth to eighth decades of life. It may occurin the genital or perianal regions, or in cutaneous sites rich in apocrine glands such as theaxilla. Approximately 25% of the cases are associated with an underlying in situ or invasiveneoplasm.It most commonly presents with pruritus. The clinical appearance is similar to mammary Paget'sDisease. Scattered areas of erosion and white scale can give rise to a \"strawberries and cream\"appearance. The invasion of the lymphatic system by the tumor gives rise to underpants-patternerythema.Surgical excision forms the basis of treatment.The given image shows large vacuolated cells with mucin (Paget's cells)1270Paget's Cells",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp29_img1_53740c60.jpeg",
+      "chapter_heading": "Skin Malignancies"
+    },
+    {
+      "q_no": 30,
+      "question": "In which of the following subtypes of soft tissue sarcoma is lymph node dissectionmandatory?",
+      "options": {
+        "A": "1,2,4 and 5",
+        "B": "2,3,4 and 5",
+        "C": "1,2,3 and 5",
+        "D": "1,2,3,4 and 5"
+      },
+      "correct_answer": "D",
+      "explanation": "Most of the soft tissue sarcomas undergo hematogenous dissemination to metastasize to lungs,liver, bones, and subcutaneous tissue. Regional lymph node involvement is relatively uncommon.However, the most common subtypes with nodal metastasis are:••Clear cell sarcomaLiposarcoma• Rhabdomyosarcoma•Angiosarcoma•⚫ Epitheloid sarcoma•Malignant fibrous histiocytomaLymph node involvement is an important prognostic indicator for survival. Hence, lymph nodedissection is mandatory in these cases.1271",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin Malignancies"
+    }
+  ]
+}

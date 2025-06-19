@@ -1,0 +1,335 @@
+{
+  "chapter": "Fluids, Electrolytes & Nutrition",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the normal urine output in adults?",
+      "options": {
+        "A": "400 mL/day",
+        "B": "700 mL/day",
+        "C": "1500 mL/day",
+        "D": "2500 mL/day"
+      },
+      "correct_answer": "C",
+      "explanation": "Normal urine output in adults is generally considered to be 1500 mL/day.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp1_img1_5dcf3ae3.jpeg",
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 2,
+      "question": "Which parameter is the best guide to monitor the adequacy of fluid resuscitation in a patient?",
+      "options": {
+        "A": "Central venous pressure",
+        "B": "Urine output",
+        "C": "Restlessness",
+        "D": "Cool peripheries"
+      },
+      "correct_answer": "B",
+      "explanation": "Urine output is the best measure of organ perfusion and the best monitor for adequacy of fluid resuscitation. Adequate end-organ perfusion is best indicated by urine output of >0.5 to 1 mL/kg/h. However, it does not give a minute-to-minute value. The level of consciousness is an important marker for cerebral perfusion. The only clinical indicators of perfusion of the gastrointestinal tract and muscular beds are measures of lactic acidosis (lactate and base deficit) and mixed venous oxygen saturation. Option A: Central venous pressure (CVP) is the mean pressure in the superior vena cava, used for estimation of preload and right atrial pressure. Normal CVP ranges from 2 to 7 mm Hg (3 to 9 cmH2O). A sick or injured patient with a CVP <3 mm Hg is presumed to be volume depleted and may be given fluids with relative safety. However, CVP is unreliable in assessing volume status or left ventricular function with respect to resuscitation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 4,
+      "question": "What is the source of endogenous fluids in the body?",
+      "options": {
+        "A": "Consumed liquids",
+        "B": "Reduction of solid foodstuff",
+        "C": "Oxidation of solid foodstuff",
+        "D": "Both A and C"
+      },
+      "correct_answer": "D",
+      "explanation": "The source of endogenous fluids for the body is due to oxidation of solid foodstuff. Fluid is derived from both exogenous and endogenous fluids. Exogenous fluids - Water from beverages, water from food, etc. Endogenous fluids - Water released during oxidation of solid foodstuff. Eg: Glucose + O2 → CO2 + H2O + ATP. The amount of endogenous fluids formed is normally less than 500 ml in 24 hours. However, during starvation, this amount is supplemented by water released from the breakdown of body tissues.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient with a stab wound to the abdomen underwent an emergency laparotomy. After the damaged intestine was resected, less than 100 cm of jejunum remained and a jejunostomy was made. Which of the following is not true?",
+      "options": {
+        "A": "The patient is a net secretor",
+        "B": "Water intake should be less than a litre a day",
+        "C": "Ensure adequate resuscitation with hypotonic fluids",
+        "D": "Anti-secretory drugs should be administered"
+      },
+      "correct_answer": "C",
+      "explanation": "Net secretors are patients that have less than 100 cm of residual jejunum and a jejunostomy. They should not be given hypotonic fluids. The total amount of hypotonic fluids (water) is restricted to less than a liter a day. They are encouraged to take glucose and saline replacement solutions. Solutions that have a sodium concentration of at least 90 mmol/L (e.g., WHO cholera solution) are given. Anti-secretory drugs, which include H2-receptor antagonists, proton pump inhibitors, and the somatostatin analog octreotide, are also used. The patients with short bowel syndrome who have had a jejunostomy and more than 200 cm of small bowel resected, are divided into two groups: • Net absorbers - These patients have more than 100 cm of residual jejunum. They absorb more water and sodium from the diet that passes through the stoma. These patients can be managed without supplementary parenteral fluids. • Net secretors - These patients have less than 100 cm of residual jejunum. As they lose water and sodium from their stoma, these patients require supplements.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient with Crohn's disease has multiple skip lesions in the intestine. Surgical resection of damaged areas is being planned. Removal of which part will cause steatorrhea?",
+      "options": {
+        "A": "Duodenum",
+        "B": "Jejunum",
+        "C": "Ileum",
+        "D": "Caecum"
+      },
+      "correct_answer": "C",
+      "explanation": "Ileal resection may lead to steatorrhea. The ileum is the only site of absorption of vitamin B12 and bile salts. Following resection of the ileum, the loss of bile salts increases and is not met by an increase in synthesis. Depletion of the bile salt pool results in fat malabsorption that presents with steatorrhea. The efficiency of water absorption in the jejunum is 44% and in the ileum 70%. Resection of the ileum causes reduced conservation of fluid. Loss of bile salts into the colon affects colonic mucosa, causing a reduction in salt and water absorption, which increases stool losses. Small bowel motility is three times slower in the ileum than in the jejunum. In addition, the ileocaecal valve may slow the transit. Resection of the ileum results in a significant enhancement of gastric motility and acceleration of intestinal transit. Effects of ileal resection include increased bile salt synthesis, decreased bile salt pool, decreased bile salt absorption, gastric hypersecretion with high serum gastrin levels, gallstones, bile salts, micellar formation, fat absorption, hyperplasia/hypertrophy of bowel (i.e., adaptation), increased colonic absorption of oxalate, resection of terminal ileum, loss of specific sites for bile salts and B12 absorption, watery diarrhea due to unabsorbed bile acids and hydroxy fatty acids, and urinary oxalate stones.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp6_img1_6b58a118.jpeg",
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 7,
+      "question": "A 66-year-old diabetic patient with a frail build comes to the OPD. His wife is concerned about his recent weight loss and lack of appetite. Which parameters will you consider while assessing his malnutrition using MUST?",
+      "options": {
+        "A": "1,3,4,5",
+        "B": "1,2,3,4",
+        "C": "2,3,4,5",
+        "D": "1,2,3,5"
+      },
+      "correct_answer": "B",
+      "explanation": "Age is not a criterion used in MUST. Malnutrition Universal Screening Tool (MUST) is a five-step screening tool to identify malnourished adults or adults at risk of malnutrition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the best position for a conscious patient to be in during the insertion of a Ryle's tube?",
+      "options": {
+        "A": "Supine with neck flexion",
+        "B": "Supine with neck extension",
+        "C": "Sitting with neck flexion",
+        "D": "Sitting with neck extension"
+      },
+      "correct_answer": "C",
+      "explanation": "The best position for a conscious patient to be in during the insertion of Ryle's tube (RT) is sitting with neck flexion. The described position helps in directing the RT towards the esophagus and also prevents it from coiling in the oropharynx or entering the trachea. RT, also known as nasogastric (NG) tube, measures 120-125 cm. It has 4 markings at 40cm (cardia), 50cm (body), 60cm (pylorus), and 70 cm (duodenum) to indicate the approximate position after the placement. Indications for NG tube: •Feeding in patients with dysphagia, decreased appetite, or those who are nil per os (NPO) for medical or surgical reasons. •Aspiration of gastric fluid •Gastric decompression in cases of intestinal obstruction and paralytic ileus. Zollinger-Ellison syndrome •Bowel irrigation The absolute contraindications for an NG tube are severe midface trauma, recent nasal surgery, and basilar skull fractures. Steps for the correct insertion of RT in an adult: •Examination of the patient's nostril for any anatomical abnormalities and then instillation with 10 ml of 1% lignocaine •NEX method is used to measure the length of the RT: Place the exit port of the tube at the tip of the nose. Extend the tube to the earlobe, and then to the xiphisternum. •The patient is asked to sit upright with partial neck flexion. The tip of the Ryle's tube is lubricated and passed along the floor of the nasal passage until a resistance is felt (corresponds to nasopharynx) •The patient is subsequently asked to swallow water to guide the tube through the esophagus into the stomach until the marked length (based on the NEX method). •NG tube is finally taped to secure it in place. •Confirmation of the correct position is done by: Auscultation in the epigastric area while injecting a bolus of air •X-ray chest to locate the lead markers. •Aspiration of contents and subsequently confirming gastric origin (pH <6 indicates gastric placement)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp8_img1_f99f6cb2.jpeg",
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient in your ward is to be started on enteral nutrition. All of the following can be used as means of delivery, except:",
+      "options": {
+        "A": "Sip feeding",
+        "B": "PEG",
+        "C": "Nasojejunal tube",
+        "D": "PICC"
+      },
+      "correct_answer": "D",
+      "explanation": "A peripherally inserted central venous catheter (PICC) line is used for providing parenteral nutrition. The term enteral feeding means the delivery of nutrients into the gastrointestinal tract. This can be achieved with oral supplements (sip feeding) or with a variety of tube-feeding techniques such as nasogastric tubes (Ryle's), fine-bore feeding tubes, surgical or percutaneous endoscopic gastrostomy (PEG).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 10,
+      "question": "A young female patient with dysphagia is started on enteral nutrition. Which of the following complications is least likely to occur in this patient?",
+      "options": {
+        "A": "Constipation",
+        "B": "Diarrhea",
+        "C": "Aspiration pneumonia",
+        "D": "Hypoglycemia"
+      },
+      "correct_answer": "D",
+      "explanation": "The complication least likely to occur in a patient with enteral feeding is hypoglycemia. Metabolic complications related to decreased or increased feeding are commonly seen in total parenteral nutrition. Complications of enteral nutrition include: 1. Tube-related (most common): malposition, displacement, blockage, breakage/leakage, local complications (e.g., erosion of skin/mucosa). 2. Gastrointestinal: diarrhea, bloating, nausea, vomiting, abdominal cramps, aspiration. 3. Metabolic/biochemical: electrolyte disorders, vitamin, mineral, trace element deficiencies, drug interactions. 4. Infective: exogenous (handling contamination), endogenous (patient).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 11,
+      "question": "Which dietary component is lacking in patients started on TPN?",
+      "options": {
+        "A": "Lipids",
+        "B": "Carbohydrates",
+        "C": "Fibers",
+        "D": "Proteins"
+      },
+      "correct_answer": "C",
+      "explanation": "Fibers are not included in total parenteral nutrition. Total enteral or parenteral nutrition necessitates the provision of the macronutrients, carbohydrates, fat, and protein, together with vitamins, trace elements, electrolytes, and water.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 12,
+      "question": "A peripherally inserted central catheter (PICC) line was placed in a patient to provide parenteral nutrition. Following the insertion, a chest X-ray was taken, which appeared as shown in the image below. Which of the following is the ideal position of the tip of this catheter?",
+      "options": {
+        "A": "Subclavian vein AP",
+        "B": "Internal jugular vein",
+        "C": "Superior vena cava",
+        "D": "Inferior vena cava"
+      },
+      "correct_answer": "C",
+      "explanation": "The ideal position of the tip of a peripherally inserted central catheter (PICC) line is the superior vena cava. Peripherally inserted central catheters are commonly used for providing parenteral nutrition therapy. They are inserted through veins in the upper arm, and guided into the central venous system, such that the tip of the catheter enters the superior vena cava. A chest X-ray is taken to confirm the position of the tip. PICC lines have the advantage of minimizing inconvenience to the patients and clinicians. However, if the patient develops thrombophlebitis, the PICC line may be removed.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q12_img1_56690d12.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp12_img1_ba59ecd5.jpeg",
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 13,
+      "question": "You are asked to place a central line for providing parenteral nutrition to a critically ill patient. Which vein is the most suitable?",
+      "options": {
+        "A": "Subclavian vein",
+        "B": "External jugular vein",
+        "C": "Brachial vein",
+        "D": "Internal jugular vein"
+      },
+      "correct_answer": "A",
+      "explanation": "The subclavian vein is considered the most suitable vein for parenteral nutrition, as the catheter lies flat on the chest wall, which optimizes nursing care. Moreover, the rate of infection with subclavian venous access is lowest when compared to jugular access and femoral access. Disadvantages of subclavian vein central venous access: • Subclavian vein stenosis • Pneumothorax. Total parenteral nutrition via Subclavian vein: From IV feeder, Incision-Catheter-inside superior vena cava, Subclavian vein.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp13_img1_265f7f36.jpeg",
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient has been on total parenteral nutrition via a central venous catheter for 5 weeks. All of the following should be done, except:",
+      "options": {
+        "A": "Monitor for any signs of sudden glucose intolerance",
+        "B": "Electrolytes must be checked every 2-3 days.",
+        "C": "LFT, BUN must be done once weekly",
+        "D": "Change central venous catheter tube every two weeks"
+      },
+      "correct_answer": "D",
+      "explanation": "A central venous catheter is changed only if the infection is suspected or the catheter is blocked. It need not be changed every 2 weeks. Total parenteral nutrition (TPN), also referred to as central parenteral nutrition, requires access to a large-diameter vein to deliver the entire nutritional requirements of the individual. The dextrose content of the solution given is high (15% to 25%). All macronutrients and micronutrients are deliverable by this route. To monitor or prevent complications, the following steps may be taken: • Infections • Use subclavian vein preferably • Monitor development of glucose intolerance as it is the earliest sign of systemic sepsis • Metabolic complications • BUN and LFTs weekly • Serum electrolytes every 2-3 days • Intestinal atrophy • Provide at least some nutrients enterally if feasible",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient on total parenteral nutrition may develop a deficiency of",
+      "options": {
+        "A": "Vitamin B12",
+        "B": "Folic acid",
+        "C": "Amino acids",
+        "D": "Zinc"
+      },
+      "correct_answer": "D",
+      "explanation": "A patient on total parenteral nutrition (TPN) may develop a deficiency of zinc, among others. The commencement of TPN may precipitate or accentuate underlying nutrient deficiency by encouraging anabolism. Complications of TPN: • Infections • Highest risk - femoral vein • Lowest risk - subclavian vein • Metabolic complications • CO2 retention and respiratory insufficiency due to excess calorie infusion • Hepatic steatosis and marked glycogen deposition • Cholestasis and gallstones • Intestinal atrophy • Mucosal atrophy • Bacterial overgrowth • Impaired gut immunity",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following fluids contain lactate?",
+      "options": {
+        "A": "Hetastarch",
+        "B": "Haemacel",
+        "C": "Hartmann's solution",
+        "D": "Gelofusine"
+      },
+      "correct_answer": "C",
+      "explanation": "Ringer's lactate (sodium lactate solution) or Hartmann's solution is a mixture of sodium chloride, sodium lactate, potassium chloride, and calcium chloride in water. It is used for replacing fluids and electrolytes in those who have low blood volume or low blood pressure and to treat metabolic acidosis in cases other than those caused by lactic acidosis. It is also used to wash the eye following a chemical burn. The following table shows the composition of crystalloid and colloid solutions in (mmol/L). *Composition of Gelofusine is incorrect in Bailey 27th edition. Solution Na K Ca Cl Lact Colloidate LO5 21 1129 Hartmann's 13 1 20 Solution Na K Ca Cl Lact Colloidate 15 4 30 Normal saline (0.9% NaCl) 15 4 Dextrose saline (4% dextrose in 0.18% saline) Gelofusine* Haemacel Hetastarch 15 4 145 120 Gelatin 4% 5.1 <1 14 5 Polygelin 75 g/L Hydroxyethyl starch 6%",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 17,
+      "question": "What is the earliest sign of post-operative volume overload in a patient?",
+      "options": {
+        "A": "Distended neck veins",
+        "B": "Peripheral edema",
+        "C": "Weight gain",
+        "D": "Increased cardiac output"
+      },
+      "correct_answer": "C",
+      "explanation": "The earliest sign of volume overload in a patient is weight gain. The administration of isotonic fluids in excess of actual needs commonly results in excess volume expansion. This may be due to the overestimation of third-space losses or due to ongoing GI losses that are difficult to measure accurately. The average postoperative patient who is not receiving nutritional support should lose approximately 0.11 to 0.23 kg/day from catabolism. Other signs of volume overload include: Cardiac: • Increased cardiac output • Increased central venous pressure • Distended neck veins • Murmur GI: Bowel edema Pulmonary: Pulmonary edema",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 18,
+      "question": "Ileus is common in patients that have conditions associated with",
+      "options": {
+        "A": "Volume deficit",
+        "B": "Volume excess",
+        "C": "Both A and B",
+        "D": "Bowel edema"
+      },
+      "correct_answer": "A",
+      "explanation": "Ileus may occur in conditions associated with volume deficit. Ileus is a disruption of the normal propulsive ability of the gastrointestinal tract. The term is usually restricted to those disruptions caused by the failure of peristalsis, rather than by mechanical obstruction. Hypoperfusion to the bowel in a volume deficit state may result in ileus. The following table shows various signs and symptoms, in general, in conditions associated with volume deficit or overload. System Volume deficit General Weight loss, Decreased skin turgor, Tachycardia, orthostasis/hypotension, Collapsed neck vein Oliguria, Azotemia Volume overload Weight gain, Peripheral edema Increased cardiac output and central venous pressure, Distended neck veins, Murmurs Nothing specific S Renal G I Ileus Pulmonary Nothing specific Bowel edema Pulmonary edema",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 19,
+      "question": "Which electrolyte abnormality is expected in patients experiencing a post-operative rise in ADH?",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Hypokalemia",
+        "C": "Hypernatremia",
+        "D": "Hyponatremia"
+      },
+      "correct_answer": "D",
+      "explanation": "The post-operative rise in ADH (Antidiuretic hormone) may result in hyponatremia. Postoperative patients are usually prone to increased secretion of ADH, which causes an increase in reabsorption of free water from the kidneys, resulting in volume expansion and hyponatremia. Dilutional hyponatremia occurs when there is an excess of extracellular water relative to sodium. However, it is self-limiting as both hyponatremia and volume expansion cause a decrease in ADH secretion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is not an important cause of hypokalemia?",
+      "options": {
+        "A": "Hyperaldosteronism",
+        "B": "Diarrhea",
+        "C": "High nasogastric output",
+        "D": "Metabolic acidosis"
+      },
+      "correct_answer": "D",
+      "explanation": "Hypokalemia may occur as a result of metabolic alkalosis, not metabolic acidosis. The following are various causes of hypokalemia: • Inadequate intake • Diet, potassium-free intravenous fluids, potassium-deficient TPN • Excessive potassium excretion • Hyperaldosteronism • Medications • Potassium losses • Direct loss of potassium from GI fluid (diarrhea) • Renal loss of potassium (to conserve sodium in response to gastric losses) • Metabolic • Intracellular potassium shifts from metabolic alkalosis or insulin therapy. Vomiting leads to hypokalemia via complex pathogenesis. The gastric fluid itself contains little potassium, approximately 10 mEq/L. However, vomiting produces volume depletion and metabolic alkalosis. Volume depletion leads to secondary hyperaldosteronism, which leads to enhanced cortical collecting tubule secretion of potassium in response to enhanced sodium reabsorption. Metabolic alkalosis further increases potassium secretion by the collecting tubule due to the decreased availability of hydrogen ions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 21,
+      "question": "A patient with pancreatitis is most likely to have which of the following electrolyte abnormalities?",
+      "options": {
+        "A": "Hypercalcemia",
+        "B": "Hypocalcemia",
+        "C": "Hypernatremia",
+        "D": "Hyperkalemia"
+      },
+      "correct_answer": "B",
+      "explanation": "Pancreatitis may lead to hypocalcemia. This is because inflammation of the pancreas may lead to sequestration of the calcium via chelation with free fatty acids. Other causes of hypocalcemia: • Massive soft tissue infections such as necrotizing fasciitis • Renal failure • Pancreatic and small bowel fistulas • Hypoparathyroidism • Toxic shock syndrome • Abnormalities in magnesium levels • Tumor lysis syndrome",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 22,
+      "question": "A cachexic patient with a BMI of 14 was brought to a nursing care facility. Calorie-rich food through a nasogastric tube was started. On day 3 of therapy, the patient suddenly developed a seizure. An ECG showed dysrhythmia. Which of the following findings is most likely?",
+      "options": {
+        "A": "Hypophosphatemia, hypocalcemia, hypomagnesemia",
+        "B": "Hypophosphatemia, hypokalemia, hypercalcemia",
+        "C": "Hypocalcemia, hyperphosphatemia, hypokalemia",
+        "D": "Hypomagnesemia, hyponatremia, hyperkalemia"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical scenario is suggestive of refeeding syndrome, which results in hypophosphatemia, hypocalcemia, and hypomagnesemia. Refeeding syndrome is a potentially fatal condition that may occur due to rapid and excessive feeding of patients with severe underlying malnutrition due to starvation, alcoholism, delayed nutritional support, anorexia nervosa, or massive weight loss in obese patients. With refeeding, a shift in metabolism from fat to carbohydrate substrate stimulates insulin release, which results in the cellular uptake of electrolytes, particularly phosphate, magnesium, potassium, and calcium. These electrolyte disorders can result in altered myocardial function, arrhythmias, deteriorating respiratory function, liver dysfunction, seizures, confusion, coma, tetany, and death. Severe hyperglycemia may result from blunted basal insulin secretion. It can occur with either enteral or parenteral nutrition but is more common with the latter. Hypophosphatemia, hypokalemia, hypomagnesemia, hypocalcemia, thiamine deficiency, sodium and water retention are associated with refeeding syndrome. Chronic malnutrition, prolonged fasting, and refeeding syndrome can lead to convulsions, delirium, ataxia, Wernicke's encephalopathy, hypotension, arrhythmias, heart failure, glycogenolysis, gluconeogenesis, protein catabolism, glucose uptake, uptake of phosphorus, magnesium, and potassium, thiamine use, renal failure, paralytic ileus, anemia, hyperglycemia, peripheral edema, paresthesia, fasciculation, rhabdomyolysis, depletion of electrolytes, proteins, fats, minerals, vitamins, and proteins and glycogen synthesis. Insulin secretion is also affected.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp22_img1_b4493f9b.jpeg",
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following is not true regarding the Enhanced Recovery After Surgery (ERAS) protocol?",
+      "options": {
+        "A": "Early planned physiotherapy and mobilization",
+        "B": "It can be used after colorectal surgery",
+        "C": "Waiting for one week to start oral feeding",
+        "D": "Discharge planning is started before the patient is even admitted to hospital"
+      },
+      "correct_answer": "C",
+      "explanation": "Waiting for one week to start oral feeding is not a part of the ERAS protocol. Enhanced Recovery After Surgery (ERAS) is an approach designed to speed the clinical recovery of the patient and reduce the cost and length of stay in the hospital. It is achieved by optimizing the patient's health before surgery and then delivering evidence-based best care in the perioperative period. It includes: Early planned physiotherapy and mobilization, early oral hydration and nourishment, adequate pain control using regular paracetamol, NSAIDs, epidural, and nerve blocks. Discharge planning is started before the patient is admitted to hospital and involves support from stoma care nurses and physiotherapists. Early removal of the Ryle's tube and early feeding techniques are also part of the protocol.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fluids, Electrolytes & Nutrition"
+    }
+  ]
+}

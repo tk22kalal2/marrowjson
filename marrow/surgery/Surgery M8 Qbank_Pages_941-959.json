@@ -1,0 +1,305 @@
+{
+  "chapter": "Prostate",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following are storage symptoms of BPH?",
+      "options": {
+        "A": "1, 3, 4",
+        "B": "2 and 5",
+        "C": "1, 2, 4, 5",
+        "D": "1, 2, 4"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 2,
+      "question": "A 60-year-old man presented with fever, chills, and dysuria. On per-rectal examination, hisprostate was tender and boggy. His PSA level was 7.4 ng/dl. What is the next best step in themanagement of this patient?",
+      "options": {
+        "A": "Repeat PSA",
+        "B": "Catheterization and prostatic massage",
+        "C": "TURP-guided biopsy",
+        "D": "Antibiotic therapy"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of acute bacterial prostatitis and should be managed byantibiotics.A rigorous and prolonged treatment for 2-6 weeks with an antibiotic that penetrates the prostatewall is indicated (trimethoprim, ciprofloxacin or aminoglycoside). Incomplete infectioneradication lead to recurrent attacks and chronic prostatitis.Acute bacterial prostatitis is usually caused by an ascending urinary tract infection (UTI) or refluxof infected urine into prostatic ducts. The most common organism is Escherichia coli. Anassociated increase in levels of PSA(&gt;4ng/ml) may be present due to prostate inflammation.Catheterization and prostatic massage are contraindicated in patients with suspected acuteprostatitis, as they increase the chance for bacteremia and sepsis. Instead, suprapubic tap shouldbe performed to alleviate retention.•Chronic bacterial prostatitis is the sequela of inadequately treated acute prostatitis.Diagnosis includes:• Three-glass urine test - If the first glass with the initial urine sample is clear, but the second andthird samples contain prostatic threads and leukocytes, it indicates the presence of prostatitis.Digital rectal examination - Prostate may be normal, boggy, or tender.• Prostatic fluid examination - post-prostatic massage fluid shows pus cells and bacteria.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 3,
+      "question": "Which is the most common organism causing acute bacterial prostatitis?",
+      "options": {
+        "A": "Enterococcus",
+        "B": "Proteus",
+        "C": "Streptococcus Agalacticia",
+        "D": "E.coli"
+      },
+      "correct_answer": "",
+      "explanation": "The most common organism causing acute bacterial prostatitis (ABP) is Escherichia coli.It is commonly caused by an ascending urethral infection or reflux of infected urine into prostaticducts. Sexually transmissible infections and other urinary pathogens, such as Staphylococcusaureus and Streptococcus faecalis may also be responsible.The patient presents with fever, perineal pain, chills and rigor, and dysuria. Per rectalexamination will reveal a tender, boggy prostate. Care should be taken to avoid aggressivepalpation or prostatic massage as it can lead to bacterial dissemination and sepsis.Urine examination and culture should be done. Urine examination reveals threads in urine.Management:Patients with systemic signs of infection should be admitted for IV antibiotics, hydration, andmonitoring of laboratory parameters.Patients who have no signs of systemic infection, who can tolerate oral intake, and who have nourinary retention can be treated with oral antibiotics. Antibiotics are given for 2-6 weeks to ensure949the eradication of the infection as antibiotics don't penetrate the prostate capsule easily.For outpatient therapy: Ciprofloxacin 500 mg oral every 12 hours or levofloxacin 500 mg OD ortrimethoprim-sulfamethoxazole double-strength tablet oral every 12 hours can be used.For hospitalized patients: Intravenous ciprofloxacin or levofloxacin with or without anaminoglycoside (gentamicin or tobramycin) or intravenous beta-lactam with or without anaminoglycoside. Gram-positive infections are treated with cephalosporins (cephalexin, cefazolin)or dicloxacillin and vancomycin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of following compounds form endogenous prostatic calculi?",
+      "options": {
+        "A": "Calcium oxalate",
+        "B": "Calcium phosphate941",
+        "C": "Struvite",
+        "D": "Uric acid"
+      },
+      "correct_answer": "D",
+      "explanation": "Endogenous calculi are most commonly composed of calcium phosphate.Exogenous calculi are urinary calculi that are arrested in the prostatic urethra. They are relativelyrare.Corpora amylacea are benign histological findings in prostate glands. Prostatic calculi are thoughtto develop from the calcification of corpora amylacea.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp4_img1_33c012ef.jpeg",
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is false regarding the medical management of benign prostatichyperplasia?",
+      "options": {
+        "A": "5-alpha-reductase inhibitors take at least 6 months to act.",
+        "B": "Alpha blockers act quicker.",
+        "C": "Tamsulosin can cause abnormal ejaculation.",
+        "D": "5-alpha-reductase inhibitors act best when the gland is small."
+      },
+      "correct_answer": "D",
+      "explanation": "5-alpha-reductase inhibitors act best when the prostate is large(&gt;50g).The pathogenesis of BPH has a static and dynamic component responsible for the lower urinarytract symptoms. Conversion of testosterone to DHT is responsible for prostatic stromalhypertrophy which is the static component of BPH. The contraction of smooth muscles in theprostate is considered the dynamic component of BPH.950Mechanism of actionOnset of actionExampleAdverse effectsAlpha-blockersInhibit thecontraction of smooth musclesin the prostate.WorkquicklyTamsulosinDizziness (due to postural hypotension)Abnormal ejaculati5-alpha-reductase inhibitorsInhibit theconversion of testosterone to dihydrotestosterone (DHT)To be taken for at least6 monthsFinasterideDizzinessImpotenceon",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following findings is not an indication to perform prostatectomy in patients withbenign prostatic hyperplasia?",
+      "options": {
+        "A": "Bladder diverticula",
+        "B": "Recurrent urinary tract infections",
+        "C": "Residual volume of 200 ml",
+        "D": "Increased frequency of micturition"
+      },
+      "correct_answer": "D",
+      "explanation": "Increased frequency alone is not an indication for prostatectomy.Increasing difficulty in micturition, with considerable frequency during both day and night, delayin starting, and a poor stream are the usual symptoms for which surgery is advised.Other indications include the following:• Acute retention• Chronic retention and renal impairment• Residual urine of ° 200 mL• Raised blood urea•⚫ Hydroureter or hydronephrosis•Complications of bladder outflow obstruction.• Stone●• Infection• Diverticuli• Hemorrhage - Venous bleeding from a ruptured vein overlying the prostate",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 7,
+      "question": "Identify the approach for surgery of the prostate as shown in the image:942MA",
+      "options": {
+        "A": "Young approach",
+        "B": "Freyer approach",
+        "C": "Millin approach",
+        "D": "Transurethral approachOMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows the transvesical approach, also known as Freyer approach.In this approach, the bladder is opened and the prostate is enucleated by putting a finger into theurethra, pushing forward towards the pubes to separate the lateral lobes, and then working thefinger between the adenoma and the false capsule.Among the other approaches, TURP is most commonly performed.951Methods of performing prostatectomy(Saggital section of male urinary tract)Freyer approach (Transvesical)Millin approach (Retropubic)MATransurethralapproach(TURP)Young approach(Perineal)OMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q7_img1_be867f9c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp7_img1_58d16b21.jpeg",
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 8,
+      "question": "As a first-year surgery resident, you have scrubbed in to assist a urologist on a TURPprocedure. Up to what distal anatomical landmark do you expect him to resect?",
+      "options": {
+        "A": "External urethral sphincter",
+        "B": "Prostatic utricle",
+        "C": "Bladder neck",
+        "D": "Verumontanum"
+      },
+      "correct_answer": "D",
+      "explanation": "Verumontanum is used as the distal-most border of the resection in transurethral resection of theprostate (TURP). This prevents damage to the external urethral sphincter which is located justdistal to the verumontanum.Damage to the external urethral sphincter leads to urinary incontinence.The bladder neck is the proximal limit of resection.Trigone ofbladderProstateCoronal section of bladderand urethra in malesOpening ofejaculatory ductBulbourethralglandOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp8_img1_d8799bbe.jpeg",
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient in your ward is scheduled for monopolar-TURP. Which of the given fluids should beused for irrigation during the procedure?",
+      "options": {
+        "A": "1.5 % glycine",
+        "B": "Normal saline",
+        "C": "N/5 saline",
+        "D": "Distilled water943"
+      },
+      "correct_answer": "A",
+      "explanation": "The best irrigating fluid for M-TURP is 1.5% isotonic glycine.952InternalurethralsphincterVerumontanumExternalurethralsphincterM-TURP removes tissue with a wire loop that has an electrical current flowing in one direction(monopolar). The surgical site is irrigated with a non-conducting non-ionic fluid as the use of anionic solution leads to dissipation of the cutting current and poor cutting efficacy. Thus, normalsaline and N/5 saline cannot be used.The use of distilled water in TURP leads to the water-intoxication syndrome.Bipolar transurethral resection of the prostate (B-TURP) uses a specialized resecting loop thatincorporates both the active and the return portions of the circuit on the same electrode and anionic irrigating solution such as normal saline can be used safely.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 10,
+      "question": "A 70-year-old patient with benign prostatic hypertrophy underwent TURP. An hour later, hewas found to have an altered sensorium and had several bouts of vomiting. What is the mostprobable cause?",
+      "options": {
+        "A": "Overdose of spinal anesthetic agent",
+        "B": "Hypernatremia",
+        "C": "Hyperkalemia",
+        "D": "Water intoxication"
+      },
+      "correct_answer": "D",
+      "explanation": "The most probable cause for the above-mentioned symptoms is water intoxication also known astransurethral resection of the prostate (TURP) syndrome.Absorption of water into the circulation at the time of transurethral urethral resection can lead to:• Hyponatremia, which may manifest as confusion, nausea, and vomiting•Congestive cardiac failure• HemolysisIt is managed by fluid restriction.The use of isotonic glycine for irrigation during resection reduces the incidence of waterintoxication.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 11,
+      "question": "A man presents with a history of minimal ejaculation at sexual climax and passing cloudyurine after. He is a known diabetic and underwent TURP 6 months ago. What is themechanism leading to this complication?",
+      "options": {
+        "A": "Injury to the external urethral sphincter",
+        "B": "Disruption of the autonomic nerve supply to the corpora of the penis",
+        "C": "Over use of coagulating diathermy during the procedure",
+        "D": "Bladder neck disruption"
+      },
+      "correct_answer": "D",
+      "explanation": "The clinical scenario above suggests the patient has retrograde ejaculation. The most likelymechanism of its development is disruption of the bladder neck.Retrograde ejaculation is the most common complication of transurethral resection of theprostate (TURP).Option A: Injury to the external urethral sphincter causes incontinence following TURP.Option B: Disruption of the autonomic nerve supply to the corpora of the penis causes impotence.Option C: Overuse of coagulating diathermy following TURP causes bladder neck contracture.Other complications of TURP include:• Transurethral resection of prostate (TUR) syndrome• Primary and secondary hemorrhage• Perforation of the bladder or the prostatic capsule•Sepsis•• Urethral stricture953Note: Transurethral microwave thermotherapy (TUMT), Transurethral needle ablation (TUNA),and laser vaporization are less invasive methods used for the treatment of BPH. They have adecreased incidence of ejaculatory dysfunction and hemorrhage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 12,
+      "question": "On per rectal examination, which of the following findings will help you identify a malignantprostate lesion?",
+      "options": {
+        "A": "Smooth surface",
+        "B": "Firm consistency",
+        "C": "Rectal mucosa mobile over the prostate",
+        "D": "Presence of nodules"
+      },
+      "correct_answer": "D",
+      "explanation": "Palpable nodules over the prostate is highly suggestive of carcinoma.Features of carcinoma of theprostateHardconsistencyRectal mucosa immobileover the prostateObliteration of the median grooveNodular surfaceFeatures of benign disease ofthe prostateFirmconsistencyRectal mucosa mobileover the prostate Residual urine may be feltas a fluctuating swelling above theprostateSmooth surface",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 13,
+      "question": "A 68-year-old patient presents with difficulty in initiating micturition. A DRE reveals anenlarged nodular prostate with adherent rectal mucosa. PSA was found to be 25 ng/ml and abiopsy result was suggestive of adenocarcinoma. Which of the following statements is false944regarding his condition?",
+      "options": {
+        "A": "PSA is a not specific marker for the condition.",
+        "B": "Gleason score correlates with the pathological stage",
+        "C": "It is associated with decreased % free PSA",
+        "D": "It arises from the transitional zone of the gland."
+      },
+      "correct_answer": "D",
+      "explanation": "Prostatic carcinoma, as indicated in the clinical scenario, arises from the peripheral zone of thegland.Anatomically, the prostate is divided into three zones.• The peripheral zone lies posteriorly and has an abundance of prostatic glands.•The central zone lies posterior to the urethral lumen and above the seminal vesicles as theycourse through the prostate.• The transitional zone is periurethral.Benign prostatic hyperplasia arises from the transitional zone.Zones of prostateCentral zone.Transitional zoneOMARROWOW-Peripheralzone-Fibromuscularzone954Gleason grading may be used after biopsy to evaluate the stage of histopathological specimen.Gleason scores range from 6 to 10 where 6 is low risk for prostate cancer while 10 is high risk.PSA (prostatic specific antigen) is a glycoprotein peptidase that facilitates the liquefaction ofsemen. It is useful for screening and for monitoring response to therapy but is neither specific norsensitive to the condition as it can be elevated due to old age and benign conditions such asprostatitis and BPH.Slightly elevated total PSA (between 4.0 and 10.0 ng/mL) and low free PSA (&lt;25%) is suspiciousfor prostate cancer.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp13_img1_c6ef5076.jpeg",
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 14,
+      "question": "A 63-year-old patient comes to the urology OPD with hesitancy, incomplete voiding, and pelvic pain. On a digital rectal examination, an irregularly enlarged prostate with a nodular surface is felt. The rectal mucosa does not move freely over it. A biopsy using an automated gun is planned. How many biopsy cores should be obtained?",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "correct_answer": "D",
+      "explanation": "Ideally, 12 systematic biopsy cores are obtained in patients with suspected prostatic cancer. A 12-core systematic biopsy that incorporates apical and far-lateral cores in template distribution allows maximum cancer detection. It also avoids detection of insignificant prostate cancers and the need for a repeat biopsy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 15,
+      "question": "A 77-year-old man was evaluated for a nodule found on his prostate. His PSA levels were 15ng/dl and a transrectal biopsy indicated a malignancy. Which of the following statements isfalse regarding its spread?",
+      "options": {
+        "A": "Local spread can occur to the seminal vesicles.",
+        "B": "Direct involvement of rectum is common.",
+        "C": "Obturator nodes are most commonly involved.",
+        "D": "Spread by bloodstream usually occurs to the bones."
+      },
+      "correct_answer": "B",
+      "explanation": "Palpable nodules over the prostate with raised PSA are highly suggestive of carcinoma. directinvolvement of the rectum is rare but it may become stenosed by the tumor infiltrating around it.Option A: Local invasion occurs upwards, first involving seminal vesicles, bladder neck, andtrigone; this is followed by distal invasion to the external sphincter. Obstruction of one or bothureters can occur resulting in anuria.Option C: Lymph nodes involved are obturator lymph nodes, external iliac nodes, andoccasionally retroperitoneal, mediastinal, and supraclavicular lymph nodes.Option D: Spread by the bloodstream occurs mostly to the bones; the bones involved mostfrequently in carcinoma of the prostate are the pelvic bones and the lower lumbar vertebrae.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 16,
+      "question": "A 66-year-old man presents with an enlarged, hard, nodular prostate. Further investigationsreveal a tumor that has extended through the prostatic capsule to the seminal vesicle. Otheradjacent structures are not involved. What is the stage of his disease?",
+      "options": {
+        "A": "Ti",
+        "B": "T2945",
+        "C": "T3",
+        "D": "T4"
+      },
+      "correct_answer": "C",
+      "explanation": "The stage of the tumor that has extended through the prostatic capsule to the seminal vesicle andnot to other adjacent structures is T3b.Staging of prostate carcinoma:TxPrimary tumor cannot be assessed955Staging of prostate carcinoma:ToT1TiaTibT1cT2T2aT2bT2CT3T3aT3bT4No evidence of primary tumorClinically inapparent tumor.Neither palpable nor visibleon imagingIncidental histologic finding in 5% or less of tissue resectedIncidental histologic findingsin more than 5% of tissue resectedTumor identified by needle biopsy (for example, because ofelevated PSA level)Tumorconfined withinthe prostateTumor involves one-half of one lobe or lessTumor involves more than one-half of one lobe but not both lobesTumor involves both lobesTumorsextend through the prostate capsuleExtracapsular extension (unilateral or bilateral)Tumor invades seminal vesicle(s)Tumor is fixed orinvades adjacent structures other than seminal vesicles, such as external sphincter, rectum, bladder, levator muscles, and/or pelvic wall",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 17,
+      "question": "A 75-year-old man provisionally diagnosed with BPH underwent a TURP procedure.Histopathological exam of the resected tissue revealed a tumor involving less than 5% of thespecimen. What is the most appropriate management?",
+      "options": {
+        "A": "Conservative",
+        "B": "Radical prostatectomy",
+        "C": "Radiotherapy",
+        "D": "Androgen ablation"
+      },
+      "correct_answer": "A",
+      "explanation": "A tumor discovered incidentally on TURP present in &lt;5% of resected tissue is staged as T1a. Forolder men, conservative treatment is done for stage Tia prostatic carcinoma.Radical surgical treatment might be considered in younger (&lt;70 years) men with the same stageof the disease.956Staging of prostate carcinoma:TxToT1TiaT1bT1cT2T2aT2bT2CT3T3aT3bT4Primary tumor cannot be assessedNo evidence of primary tumorClinically inapparent tumor.Neither palpable nor visibleon imagingIncidental histologic finding in 5% or less of tissue resectedIncidental histologic findingsin more than 5% of tissue resectedTumor identified by needle biopsy (for example, because ofelevated PSA)Tumorconfined withinthe prostateTumor involves one-half of one lobe or lessTumor involves more than one-half of one lobe but not both lobesTumor involves both lobesTumorsextend through the prostate capsuleExtracapsular extension (unilateral or bilateral)Tumor invades seminal vesicle(s)Tumor is fixed orinvades adjacent structures other than seminal vesicles, such as external sphincter, rectum, bladder, levator muscles, and/or pelvic wallManagement of Prostatic CarcinomaStage of cancerAge 70 or Gleason score=6Age < 70 or Gleason score >6Radical prostatectomyEarly prostate cancer: T1B,T2 Active surveillanceALocally advanced prostate cancer: T2B, T2C, T3, T4, N1Brachytherapy + Androgen deprivation therapyBrachytherapy + Radical prostatectomy957Management of Prostatic CarcinomaMetastatic prostate cancerAndrogen deprivation therapy Chemotherapy and radiotherapy (hormone-resistant tumor) Radiopharmaceutical therapy (hormone resistant bony metastasis)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 18,
+      "question": "Orchidectomy is used as treatment for which of the following stages of prostate cancer?",
+      "options": {
+        "A": "Tic cancer in the young",
+        "B": "T2b cancer in the young",
+        "C": "T2b cancer in the elderly",
+        "D": "Tic disease in the elderly"
+      },
+      "correct_answer": "",
+      "explanation": "Orchidectomy is performed to carry out androgen ablation in the treatment of locallyadvanced disease in the elderly. It is also done to manage metastatic disease.Bilateral orchidectomy, whether total or subcapsular, will eliminate the major source oftestosterone production. LHRH analogs such as goserelin and buserelin along withanti-androgens such as flutamide is used to perform medical androgen ablation.Management of Prostatic CarcinomaStage of cancerEarly prostate cancer: T1, T2ALocally advanced prostate cancer: T2B, T2C, T3, T4, N1Metastatic prostate cancerAge > 70 or Gleason score=6Active surveillanceBrachytherapy + Androgen deprivation therapyAndrogen deprivation therapyChemotherapy and radiotherapy (hormone-resistant tumor) Radiopharmaceutical therapy (hormone resistant bonymetastasis)Age 70 or Gleason score >6Radical prostatectomyBrachytherapy + Radical prostatectomy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 19,
+      "question": "A 77-year-old man presented with worsening hip and back pain. The X-ray revealed the givenlesions The patient had undergone an orchidectomy three years ago to manage his prostaticcarcinoma. However, recent serial estimations of PSA have shown an increasing trend. Whatis the treatment of choice for his condition?946",
+      "options": {
+        "A": "Paclitaxel",
+        "B": "Goserelin",
+        "C": "Docetaxel",
+        "D": "Radium-223"
+      },
+      "correct_answer": "D",
+      "explanation": "Blastic lesions on X-Ray after surgical castration (therapeutic orchidectomy) in patients withprostatic carcinoma is suggestive of hormone-resistant bone metastasis. The treatment of choicefor hormone-resistant bone metastasis is radiopharmaceutical therapy with radium-223.Radium-223 is a radioactive isotope that emits low levels of alpha-particle radiation. Thealpha-particle radiation causes double-strand breaks in DNA, which kills cells. Radium-223 is a“calcium mimetic\" that accumulates preferentially in areas of bone undergoing increased turnover,such as areas of bone metastases.958Management of Prostatic CarcinomaStage of cancerEarly prostate cancer: T1, T2ALocally advanced prostate cancer: T2B, T2C, T3, T4, N1Metastatic prostate cancerAge>70 or Gleason score=6Active surveillanceBrachytherapy + Androgen deprivation therapyAndrogen deprivation therapyChemotherapy and radiotherapy (hormone-resistant tumor) Radiopharmaceutical therapy (hormone-resistant bonymetastasis)Age<70 or Gleason score>6Radical prostatectomyBrachytherapy + Radical prostatectomy",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q19_img1_66b53cb3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following vaccines is used in the treatment of prostate cancer?",
+      "options": {
+        "A": "Talimogene laherparepvec",
+        "B": "Bacillus Calmette-Guérin",
+        "C": "Sipuleucel-T",
+        "D": "Algenpantucel-L"
+      },
+      "correct_answer": "C",
+      "explanation": "Sipuleucel-T (Provenge) is an autologous prostatic acid phosphatase (PAP)-loaded dendritic cellvaccine.It is approved for patients with hormone-resistant, metastatic prostate cancer with minimal or nocancer-related symptoms.Other immunotherapies in prostate cancer include:• GVAX allogeneic recombinant whole-cell vaccine.•Immune checkpoint inhibitors such as PD-1/PD-L1 inhibitor• CTLA-4 inhibitorOption A: Talimogene laherparepvec (T-VEC) has demonstrated therapeutic activity in melanoma.Option B: Bacillus Calmette-Guérin is used for bladder carcinoma.Option D: Algenpantucel-L is used as immunotherapy in pancreatic adenocarcinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Prostate"
+    }
+  ]
+}

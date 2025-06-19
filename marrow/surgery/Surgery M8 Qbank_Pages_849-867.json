@@ -1,0 +1,320 @@
+{
+  "chapter": "Carcinoma Pancreas",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following statements is false about mucinous cystadenoma of the pancreas?",
+      "options": {
+        "A": "It is lined by columnar epithelium",
+        "B": "Commonly seen in peri-menopausal women",
+        "C": "Identified histologically by the presence of ovarian-like stroma",
+        "D": "It is not premalignant"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient with a pancreatic neoplasm undergoes cyst fluid aspiration. The aspirated fluidstains positive for mucin and shows elevated levels of amylase and CEA. What is the mostprobable diagnosis?",
+      "options": {
+        "A": "Serous cystadenoma of pancreas",
+        "B": "Mucinous cystadenoma of pancreas",
+        "C": "Intraductal papillary mucinous neoplasm",
+        "D": "Mature cystic teratoma"
+      },
+      "correct_answer": "",
+      "explanation": "Positive mucin staining, elevated carcinoembryonic antigen (CEA), and elevatedamylase levels are seen in cases of intraductal papillary mucinous neoplasm (IPMN).Cyst fluid analysis of various pancreatic cystic neoplasms:CharacteristicSCytologySerous cystic neoplasm (SCN) Mucinous cystic neoplasm (Scant glycogen-rich cells, with positive periodic acid-Schiff stainMCN)Sheets and clusters of columnar, mucin-containing cellsPositiveIntraductal papillary mucinous neoplasm (IPMN)Tall, columnar, mucin-containing cellsPositiveMucin stainNegativeAmylaseLowCEALow",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 3,
+      "question": "A 58-year-old man is being evaluated for recurrent attacks of pancreatitis. An ERCP is doneand it shows the presence of a fish-mouth sign at the ampulla of Vater. Which of the followingstatements is true about his condition?",
+      "options": {
+        "A": "It is more common in males",
+        "B": "It only involves the main pancreatic duct",
+        "C": "Head of pancreas is most common site of the neoplasm",
+        "D": "They have no malignant potential"
+      },
+      "correct_answer": "",
+      "explanation": "LowHighHighHigh856A fish mouth sign at the ampulla of Vater during ERCP is indicative of intraductal papillarymucinous neoplasm (IPMN). It is most commonly seen in the head of the pancreas.The intraductal papillary mucinous neoplasm can be diagnosed with the following findings(Ohashi triad) during endoscopy:•Bulging ampulla of Vater (fish-mouth sign)• Dilated pancreatic duct• Mucin secretion from the openingEqual distribution is seen between males and females in IPMN. Patients are usually in theirseventh or eighth decade of life and present with abdominal pain or recurrent pancreatitis. This iscaused by the obstruction of the pancreatic duct by thick mucin. Some patients have symptomssecondary to pancreatic insufficiencies like steatorrhea, diabetes, and weight loss.IMPNs are of three types:• Branch-duct IPMN (BD-IPMN) - affects only the small side branches. It is less frequentlyassociated with malignancy.•Main duct IPMN (MD-IPMN) - Affects the main pancreatic duct. Malignant transformation iscommonly seen.•Mixed-type IPMN - side-branch IPMNs that extend into the main duct",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 4,
+      "question": "849A 60-year-old man was incidentally found to have a pancreatic lesion on a USG. On furtherevaluation, a CT scan revealed the presence of a multicystic, lobulated mass in the pancreatichead, suggestive of serous cystadenoma. He is currently asymptomatic. What will be the nextstep in the management of this patient?",
+      "options": {
+        "A": "Repeat CT scan after 6 months",
+        "B": "Resection of the tumor",
+        "C": "Endoscopic ultrasound guided FNA",
+        "D": "Diagnostic laparoscopy"
+      },
+      "correct_answer": "C",
+      "explanation": "Endoscopic ultrasound-guided FNA (EUS-FNA) will be the next step in the management of thispatient.Serous cystadenomas are essentially benign tumors without malignant potential. Serouscystadenocarcinoma has been reported very rarely (&lt;1%). Therefore, malignant potential shouldnot be a consideration for surgical resection. Surgical resection is done only for symptomaticpatients.In asymptomatic patients, conservative management is adopted. However, it is important toconfirm the diagnosis using EUS-FNA. It yields a non-viscous fluid with low CEA and amylaselevels.Algorithm for management of pancreatic cystic neoplasms:857Algorithm for management of pancreaticcysticneoplasmsDetailed clinical history andCT scan of the abdomenSymptomatic orMCN/IPMN > 3cmResect<1 cmRepeatCT scanin one year1 om2 cm2-3 cmRepeat CTevery 6-12monthstinterval if stable for 2 yearsAsymptomaticMCN/IPMN 3 cm.serous cystadenoma,branch duct IPMNFurther evaluation1-3 cmEUS-FNAMRCP/ERCPMucin present- CEA > 200 ng/mLAtypical cells presentSolid component- Dilated mainpancreatic ductNoRepeat CTevery 3-6monthsOMARROWYesResect",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp4_img1_4cae4f52.jpeg",
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the initiating event in the oncogenesis of pancreatic cancers?",
+      "options": {
+        "A": "Activation of K-ras 2",
+        "B": "Loss of p16 function",
+        "C": "p53 mutation",
+        "D": "Loss of DPC4 function"
+      },
+      "correct_answer": "A",
+      "explanation": "The activation of the K-ras 2 oncogene is the initiating event in the oncogenesis of pancreaticcancers. It is activated in more than 95% of pancreatic cancers.Pancreatic intraepithelial neoplasia (PanIN) develops into pancreatic ductal adenocarcinoma(PDAC) in a sequential pathway. A number of tumor suppressor genes and oncogenes play asignificant role in the pathogenesis of PDAC. They include:• K-ras 2• PDX1⚫ CDKN2A/p16• p53•• DPC4 (SMAD4)858Pancreatic cancer oncogenesis1ANormal PanIN- PanIN- PanIN-21BPanIN-3InfiltrationK-rasCDKN2Ap53DPC4OMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp5_img1_16ae8849.jpeg",
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following are not risk factors for the development of pancreatic cancer?",
+      "options": {
+        "A": "1 and 4",
+        "B": "1 and 5",
+        "C": "2 and 3",
+        "D": "3 and 4"
+      },
+      "correct_answer": "A",
+      "explanation": "An history of acute pancreatitis and female gender are not risk factors for the development ofpancreatic cancer.Risk factors for pancreatic cancer:•Demographic factors:• Age (peak incidence, 65–75 years)•Male gender•⚫ Black ethnicity•Cigarette smoking• Genetic factors and medical conditions•• Family history:• Two first-degree relatives with pancreas cancer• Germline BRCA2 mutations in some rare high-risk families• Hereditary pancreatitis•Chronic pancreatitis• Lynch syndrome• Ataxia telangiectasiaPeutz-Jeghers syndrome• Familial breast-ovarian cancer syndrome• Familial adenomatous polyposis• Diabetes mellitus859• Obesity",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the most common type of pancreatic malignancy?",
+      "options": {
+        "A": "Squamous cell carcinoma",
+        "B": "Adenocarcinoma",
+        "C": "Insulinoma",
+        "D": "Acinar cell carcinoma.850"
+      },
+      "correct_answer": "B",
+      "explanation": "Ductal adenocarcinoma is the most common type of pancreatic cancer.Types of exocrine pancreatic cancer:•• Ductal adenocarcinoma (85%)• Adenosquamous carcinoma• Acinar cell carcinomaEndocrine cancer of the pancreas is rare. They account for only 5% of clinically detectedpancreatic tumours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the most common site for pancreatic carcinoma?",
+      "options": {
+        "A": "Head",
+        "B": "Neck",
+        "C": "Body",
+        "D": "Tail"
+      },
+      "correct_answer": "A",
+      "explanation": "Pancreatic carcinomas arise most commonly from the head of the gland.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements is false regarding the presentation of patients withpancreatic carcinoma?",
+      "options": {
+        "A": "Release of platelet aggregating factors cause migratory thrombophlebitis",
+        "B": "Abdominal pain is the most common presentation",
+        "C": "Courvoisier's law implicates possible cancer of the head of the pancreas",
+        "D": "Tumors of the body present at an advanced unresectable stage"
+      },
+      "correct_answer": "B",
+      "explanation": "Jaundice is the most common presentation of carcinoma of the head of the pancreas. It issecondary to obstruction of the distal bile duct.Clinical features of pancreatic cancers:• Jaundice (most common)• Nausea•Epigastric discomfort• Pruritus, dark urine, pale stools• Steatorrhea• Anorexia• Weight loss•• Back pain - indicates retroperitoneal infiltrationOn examination, the patient can have:•Palpable abdominal mass• Ascites•Supraclavicular lymphnodesMigratory superficial thrombophlebitis (Trousseau's sign of malignancy) - due to release ofplatelet aggregating factors from the tumor860• Secondaries in the rectovesical pouch (Blumer's shelf)• A palpable, non-tender gall bladderCourvoisier's law states that in the presence of a painless, palpable, enlarged gallbladder and mildjaundice, the cause is unlikely to be gallstones. This sign implicates possible cancer of the head ofthe pancreas.Tumors of the body and tail of the gland often grow silently and present at an advancedunresectable stage.Image showing migratory superficial thrombophlebitis (Trousseau's sign of malignancy):AFTNote: Trousseau's sign is also seen in hypocalcemia. It indicates carpopedal spasm (finger andwrist spasm) after inflation of a blood pressure cuff for several minutes when the brachial artery isoccluded.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp9_img1_9de33453.jpeg",
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following statements is not true about pancreatic ductal adenocarcinoma?",
+      "options": {
+        "A": "It is associated with desmoplastic changes, with scattering of neoplastic glands",
+        "B": "Perineural invasion is characteristic",
+        "C": "Body tumors are smaller",
+        "D": "Carcinoma of the head of the pancreas causes obstruction of both the pancreatic and biliaryducts"
+      },
+      "correct_answer": "",
+      "explanation": "Pancreatic ductal adenocarcinomas situated in the body of the pancreas are usually larger.Pancreatic adenocarcinomas are solid, slow-growing tumors, characterized by neoplastic tubularglands within a markedly desmoplastic fibrous stroma. They infiltrate locally, typically alongnerve sheaths, along lymphatics, and into blood vessels.Carcinoma of the head of the pancreas causes obstruction of both the pancreatic and biliary ducts.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 11,
+      "question": "A 60-year-old man with a history of chronic pancreatitis presents with jaundice, severeitching, and weight loss. A smooth, globular mass is palpable in the right upper quadrant ofthe abdomen. You suspect pancreatic cancer. What will be the imaging modality of choice forthe evaluation of the tumor?",
+      "options": {
+        "A": "Endoscopic retrograde cholangiopancreatography",
+        "B": "Magnetic resonance cholangiopancreatography851",
+        "C": "Multidetector CT scan",
+        "D": "PET scan"
+      },
+      "correct_answer": "C",
+      "explanation": "Multidetector computed tomography (CT) is the imaging modality of choice for the evaluation ofpancreatic tumors. It allows an accurate determination of the level of biliary obstruction, therelationship of the tumor to the blood vessels, and the presence of regional or metastatic disease.861For a detailed assessment of the luminal pancreato-biliary anatomy, MRCP should be considered.ERCP is reserved for cases requiring therapeutic or palliative intervention. It helps to perform abiopsy and to relieve obstruction by biliary stenting. The invasiveness of ERCP increases the rateof wound infection. Hence, it is not suitable for patients who will be undergoing surgery.F-fluorodeoxyglucose positron emission tomography (FDG-PET) has the ability to differentiatebetween benign and malignant pancreas tumors. However, false-positive results are seenin FDG-PET. The benefits of FDG-PET over CT scans are yet to be determined.A CT-scan of pancreatic cancer:0C0",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp11_img1_af38137b.jpeg",
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is a radiological sign that is not seen in patients with adenocarcinomaof the pancreas?",
+      "options": {
+        "A": "Scrambled egg appearance",
+        "B": "Inverse 3 sign",
+        "C": "Double duct appearance",
+        "D": "Narrowing of C-loop of the duodenum"
+      },
+      "correct_answer": "D",
+      "explanation": "Widening of the C-loop of the duodenum is a barium meal finding seen in the adenocarcinoma ofthe pancreas.Radiological features of adenocarcinoma pancreas:Endoscopic retrograde cholangiopancreatography (ERCP) findings:•Scrambled egg appearance• Double duct appearanceBarium meal findings:•Inverse 3 sign•Rose thorning of 2nd part of the duodenum•Widened duodenal C-loop",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 13,
+      "question": "The best method to obtain tissue for the diagnosis of pancreatic carcinoma is:",
+      "options": {
+        "A": "Transgastric FNAC guided by endoscopic ultrasound",
+        "B": "MRI-guided biopsy",
+        "C": "Laparoscopic-guided biopsy",
+        "D": "Percutaneous transperitoneal biopsy"
+      },
+      "correct_answer": "A",
+      "explanation": "862Transgastric or transduodenal FNAC or trucut biopsy performed under endoscopic ultrasound(EUS) guidance is the best method to obtain tissue for the diagnosis of pancreatic carcinoma. Thisis because it avoids the spillage of tumor cells into the peritoneal cavity.Endoscopic ultrasonography with a fine needle aspiration (EUS-FNA) is done if CT has failed todemonstrate a tumor. When a tissue diagnosis is required prior to surgery to distinguish betweeninflammation and neoplasia, EUS-FNA is helpful.Diagnostic laparoscopy prior to resection can spare an unnecessary laparotomy by identifyingsmall peritoneal and liver metastases.Percutaneous transperitoneal biopsy of potentially resectable pancreatic tumors is avoided.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 14,
+      "question": "Which is the most reliable tumor marker for the pre-treatment evaluation of a patient withpancreatic adenocarcinoma?",
+      "options": {
+        "A": "Carcinoembryonic antigen",
+        "B": "CA 19-9",
+        "C": "Alpha-fetoprotein",
+        "D": "CA 15-3"
+      },
+      "correct_answer": "B",
+      "explanation": "Carbohydrate antigen (CA) 19-9 is the most reliable tumor marker for pretreatment evaluationand post-treatment surveillance of pancreatic adenocarcinoma.Other tumor markers for pancreatic carcinoma are carcinoembryonic antigen (CEA) andα-fetoprotein.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 15,
+      "question": "A 50-year-old man has been diagnosed with pancreatic cancer. In order to diagnose aresectability status, a CECT abdomen is performed. Which of the following features willindicate an unresectable tumor?852",
+      "options": {
+        "A": "Abutment of superior mesenteric artery",
+        "B": "Stage II cancer on AJCC staging criteria",
+        "C": "Short segment occlusion of superior mesenteric vein",
+        "D": "Encasement of celiac artery"
+      },
+      "correct_answer": "D",
+      "explanation": "Encasement of the celiac artery (i.e &gt;180° or &gt;50% of the vessel circumference involvement)indicates surgical inoperability and is therefore considered to be non-resectable.Varadhachary- Katz criteria for resectability of pancreatic cancer:SMA: superior mesenteric artery, CHA: common hepatic artery, SMV-PV: superior mesentericvein-portal vein confluence•Definitions:Abutment means ≤180° or ≤50% of the vessel circumference involvement;• Encasement means &gt;180° or &gt;50% of the vessel circumference involvementCriteriaResectable(if all are satisfied)Borderline resectable(if any one is satisfied)Unresectable(if any one is satisfied)AJCC stageI/IIIIIIIISMANot affectedAbutmentEncasementCeliac axisNot affectedCHANot affectedAbutmentAbutmentEncasementEncasementSMV-PVPatentShort segment occlusionLong segment occlusion863CriteriaNote: Any evidence of peritoneal seeding, malignant ascites, or distant metastasis also indicates anunresectable tumor.Resectable(if all are satisf Borderline resectable(if aied)ny one is satisfied)Unresectable(if any one is satisfied)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient presents to the OPD with complaints of jaundice, clay-colored stools, and pruritis.After detailed radiological and pathological investigations, a 2 cm adenocarcinoma is found atthe head of the pancreas. There is no spread to the adjacent structures. What is the preferredsurgical management in this patient?",
+      "options": {
+        "A": "Whipple's procedure",
+        "B": "Pylorus preserving pancreaticoduodenectomy",
+        "C": "Duodenum-preserving pancreatic head resection",
+        "D": "Puestow's procedure"
+      },
+      "correct_answer": "B",
+      "explanation": "Since there is no involvement of adjacent structures, the preferred surgical management in thispatient is pylorus-preserving pancreatoduodenectomy (PPPD), also known as Longmire-Traversoprocedure.Pylorus-preserving pancreatoduodenectomy (PPPD) involves the removal of:• Duodenum• Pancreatic head• The distal part of the bile ductThe original pancreatoduodenectomy, as proposed by Whipple, included resection of the gastricantrum.Preserving the antrum and the pylorus results in a better physiological outcome, with nodifference in survival or recurrence rates. Hence PPPD is preferred.For tumors of the body and tail, distal pancreatectomy is the preferred surgical management.Duodenum-preserving pancreatic head resection (Beger's procedure) and Puestow's procedure(resection of tail followed by longitudinal pancreaticojejunostomy) are management options forchronic pancreatitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 17,
+      "question": "You assist in performing a Whipple procedure in a patient with carcinoma of the pancreas. Allof the following structures will be resected in this surgery, except:",
+      "options": {
+        "A": "1 and 3",
+        "B": "2 and 4",
+        "C": "3 and 5",
+        "D": "4 and 5"
+      },
+      "correct_answer": "C",
+      "explanation": "Whipple procedure does not involve the removal of the spleen and tail of the pancreas.The Whipple procedure is a complex surgery done for carcinomas involving the head of thepancreas. It is done only in cases when:• The entire duodenum has to be removed e.g. in familial adenomatous polyposis (FAP)•⚫ Tumor encroaches in the first part of the duodenum, or stomach• A clear resection margin is not achieved by pylorus preserving pancreatoduodectomyThe following structures are removed during Whipple's procedure:• Distal stomach•• Duodenum864• Proximal jejunum• Head of the pancreas• Gallbladder• Common bile duct (CBD)• Regional lymphaticsGallbladderCommonbile ductHead of thepancreasDuodenumThe Whipple procedureStomachBody and tail ofthe pancreanProximal jejunumStructures removed during the procedureCholedochojejunostomyPancreaticojejunostomyGastrojejunostomyAnastomosis during reconstructionOMARROW",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 18,
+      "question": "During the reconstruction of the Whipple procedure, all of the following anastomoses will bedone by a surgeon except:",
+      "options": {
+        "A": "Pancreaticojejunostomy",
+        "B": "Ileojejunostomy",
+        "C": "Choledochojejunostomy",
+        "D": "Gastrojejunostomy853"
+      },
+      "correct_answer": "B",
+      "explanation": "Ileojejunostomy will not be done during the reconstruction of the Whipple procedure.The reconstruction following Whipple's procedure or pylorus-preservingpancreaticoduodenectomy involves anastomosis in the following order:Pancreaticojejunostomy↓Choledochojejunostomy↓GastrojejunostomyThis is controversial since there is a difference in the reconstruction procedures mentioned instandard textbooks:Bailey and Love, 27th edition (Pg no: 1236) - Pancreaticojejunostomy + choledechojejunostomy +duodenojejunostomySchwatrz, 11th edition (Pg no: 1493) - Pancreaticojejunostomy + choledechojejunostomy +gastrojejunostomy/duodenojejunostomySabiston, 20th edition (Pg no: 1546) - Pancreaticojejunostomy + hepaticojejunostomy +duodenojejunostomy865The Whipple procedureCommon bile duotGallbladderHead of thepancreasDuodenumStomachBody and tail ofthe pancreasProximal jejunumStructures removed during the procedureCholedochojejunostomyMPancreaticojejunostomyGastrojejunostomyAnastomosis during reconstructionCOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp18_img1_065c2d31.jpeg",
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 19,
+      "question": "During the Whipple procedure, a surgeon performs the Kocher maneuver to access theretroperitoneum. This maneuver involves:",
+      "options": {
+        "A": "Mobilization of gall bladder",
+        "B": "Mobilization of second part of duodenumMobilization of the pancreasd) Mobilization of ascending colonQuestion 20:Which of the following statements is false regarding complications of the Whipple procedure?a) Delayed gastric emptying is characterized by the need for prolonged nasogastric decompressionb) Endocrine insufficiency is a complication",
+        "C": "Any drainage output on or after postoperative day 3, with amylase &gt;3 times normal valueindicates pancreatic fistula",
+        "D": "Biliary leakage is the most common complication"
+      },
+      "correct_answer": "B",
+      "explanation": "The Kocher maneuver involves the mobilization of the second part of the duodenum. It allowsexposure of the retroperitoneal fat and the inferior vena cava (IVC).Another maneuver that is used to access the retroperitoneum is the Cattel Braasch maneuver. Itinvolves the mobilization of the ascending colon.Other Kocher's in medicine:• Kocher's technique is used for the reduction of anterior shoulder dislocation. It involves foursteps:Traction → External Rotation → Adduction → Medial Rotation (TEAM)•During thyroid palpation, Kocher's method is done to demonstrate the pressure effect of thethyroid gland on the trachea or larynx. Lateral compression will result in stridor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 21,
+      "question": "What is the most common cause of death in patients following pancreaticoduodenectomy?",
+      "options": {
+        "A": "Cardiopulmonary complications",
+        "B": "Gastric outlet obstruction",
+        "C": "Anastomotic leakage",
+        "D": "Haemorrhage"
+      },
+      "correct_answer": "",
+      "explanation": "The most common cause of death following pancreaticoduodenectomy is sepsis due toanastomotic leakage.Anastomotic leakage is responsible for 33-88 % of postoperative deaths afterpancreaticoduodenectomy. Only about 5-16 % of patients develop post-surgical bleedingcomplications.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    },
+    {
+      "q_no": 22,
+      "question": "A patient was found to have a 3 cm adenocarcinoma of the body of the pancreas invading intothe superior mesenteric artery. All of the following chemotherapeutic agents can be utilizedfor the management of this patient except:",
+      "options": {
+        "A": "FOLFIRINOX regimen",
+        "B": "Albumin-bound paclitaxel",
+        "C": "MVAC regimen854",
+        "D": "Gemcitabine"
+      },
+      "correct_answer": "C",
+      "explanation": "MVAC regimen (methotrexate, vinblastine, adriamycin, and cisplatin) is not used in themanagement of this patient. MVAC regimen is used in advanced bladder carcinoma.Chemotherapy in pancreatic cancer is indicated in patients with unresectable tumours and lymphnode metastasis. Agents used in chemotherapy are:• Gemcitabine• Gemcitabine with capecitabine.• Albumin bound paclitaxel (nab-paclitaxel)•⚫ FOLFIRINOX - a combination of fluorouracil, irinotecan, oxaliplatin, and leucovorinHowever, there is only a 2-5 months increase in median survival with these regimens. Nolong-term cure is seen with chemotherapy or radiotherapy for pancreatic carcinomas.867",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Carcinoma Pancreas"
+    }
+  ]
+}

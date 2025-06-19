@@ -1,0 +1,200 @@
+{
+  "chapter": "Benign Tumors of Liver",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common benign lesion of liver?",
+      "options": {
+        "A": "Hemangioma",
+        "B": "Hepatic adenoma",
+        "C": "Hepatoma",
+        "D": "Focal nodular hyperplasia"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements is not true about epithelioid hemangioma?",
+      "options": {
+        "A": "Exposure to vinyl chloride is a risk factor",
+        "B": "Treatment of choice is liver transplantation",
+        "C": "Factor VIII staining is used for diagnosis",
+        "D": "More common in males"
+      },
+      "correct_answer": "",
+      "explanation": "Epithelioid hemangioendothelioma is more common in females.Epithelioid hemangioendothelioma is a rare vascular tumour. The infantile variety is benign,while the adult variety is malignant. It may undergo malignant degeneration into angiosarcoma.It is related to exposure to vinyl chloride and oral contraceptive pills (OCPs).It can affect the lungs, liver, and bones. In the liver, it manifests as multiple bilateral hepaticmasses. Extrahepatic metastases occur in approximately 25% of patients. Liver failure is a fatalcomplication.Hypervascular enhancement is observed on CECT. A percutaneous biopsy can help differentiatefrom other tumours. Factor VIII staining differentiates it from other nonvascular tumours.Treatment is total hepatectomy with liver transplantation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 3,
+      "question": "A 45-year-old woman was incidentally found to have a lesion in the right lobe of the liverduring an abdominal ultrasound. CECT showed the following finding. What is the most likelydiagnosis?702",
+      "options": {
+        "A": "Hepatic adenoma",
+        "B": "Focal nodular hyperplasia",
+        "C": "Hamartoma",
+        "D": "Hemangioma"
+      },
+      "correct_answer": "",
+      "explanation": "The given CECT abdomen shows a well-defined hypodense lesion in the liver with asymmetricalnodular peripheral enhancement which is characteristic of hemangioma.Hemangioma is a benign tumor composed of increased proliferation of blood vessels. It is themost common benign tumour of the liver and is mainly seen in women at a mean age of 45 years.Small capillary hemangiomas are of no clinical significance. They are usually solitary, &lt;5 cm indiameter, with equal occurrence in the right and left halves of the liver. However, gianthemangiomas of diameter &gt;5 cm require attention.They are most commonly asymptomatic and incidentally found during imaging studies. Largecompressive masses may cause vague upper abdominal symptoms. The appearance of hepatichemangioma in a contrast-enhanced CT scan is as follows:•Non-contrast phase: Well-defined hypodense lesion•Arterial phase: Peripheral nodular enhancement• Washout phase: Homogenous enhancementThe image given below shows early phase with peripheral high attenuation (a) and late phase withhomogenous high attenuation (b).708abEarly phaseLate phase",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q3_img1_76de3ed9.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp3_img1_a0f680ca.jpeg",
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following hepatic lesions can be accurately diagnosed with 99mTc-labelled redblood cells when CT and MRI are unavailable?",
+      "options": {
+        "A": "Mesenchymal hamartoma",
+        "B": "Hemangioma",
+        "C": "Focal nodular hyperplasia",
+        "D": "Hepatic adenoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Hemangiomas can be accurately diagnosed with 99mTc-labelled red cells when CT and MRI areunavailable.In hemangioma, an increase in uptake is observed in blood pool studies such as 99mTc-labelledred cells and appear as photopenic regions. The nuclear imaging techniques for the diagnosis ofhemangiomas are used only when high-quality CT and MRI are unavailable.CECT is the investigation of choice wherein a typical peripheral nodular enhancement pattern isseen.On magnetic resonance imaging (MRI), hemangiomas are hypointense on T1-weighted images andhyperintense on T2-weighted images.The below MRI image shows the light bulb sign seen in hemangioma of the liver.O709Percutaneous biopsy is potentially dangerous and inaccurate and, therefore, not recommended.Isotope scans used for the investigation of hepatobiliary disease are:• Technetium-99m colloid scan - parenchymal diseases of the liver, such as cirrhosis and alcoholichepatitis• Technetium-99m hepatobiliary iminodiacetic acid (HIDA) scan - acute cholecystitis andcongenital biliary atresia.•Technetium-99m sulphur colloid scan - focal nodular hyperplasia",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp4_img1_f9b5a918.jpeg",
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 5,
+      "question": "A 2-year-old boy is brought to the ER with complaints of petechiae, bruising, and abdominaldistension as shown in the image. Investigations reveal thrombocytopenia and elevatedD-dimer. CECT shows solitary growth in the liver with peripheral nodular enhancement.Which of the following statements is false regarding this condition?703",
+      "options": {
+        "A": "Kasai procedure is done for symptomatic cases",
+        "B": "Small lesions regress spontaneously",
+        "C": "LFT and tumour markers are normal",
+        "D": "Congestive heart failure can occur"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of Kasabach-Merritt syndrome because of hemangioma ofthe liver. Kasai procedure or hepatoportoenterostomy is done for biliary atresia, and notin Kasabach-Merritt syndrome.Rarely a rapidly enlarging hemangioma can cause thrombocytopenia and disseminatedintravascular coagulation (indicated by the elevated D-dimer) because platelets and other clottingfactors are being used up within the tumour. This is called Kasabach-Merritt syndrome.LFT and tumour markers are normal in a hemangioma. Large hemangiomas in children can resultin congestive heart failure secondary to arteriovenous shunting and they require medicalmanagement.Management:Observation is the mode of management in asymptomatic liver hemangiomas that are &lt;5cmbecause they may show spontaneous regression.Therapeutic embolisation and enucleation with arterial inflow control is the treatment of choicefor patients with symptomatic liver hemangiomas.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q5_img1_597512e4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 6,
+      "question": "A 32-year-old woman presented with abdominal pain and discomfort for the past 2 months.She has been using oral contraceptive pills for more than 5 years. Imaging studies revealed amass as shown in the image. Which of the following is false regarding this condition?F",
+      "options": {
+        "A": "Rupture and intraperitoneal hemorrhage is unlikely704",
+        "B": "Malignant transformation is seen in 10% of cases",
+        "C": "Histology shows cords of hepatocytes with absence of bile ductules",
+        "D": "More common in women"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario and MRI showing homogeneous mass with well-defined margins issuggestive of hepatic adenoma. Rupture leading to life-threatening intraperitoneal hemorrhage isa major complication associated with hepatic adenomas.Hepatic adenomas are benign solid neoplasms of the liver. They are usually seen in young womenbetween 20-40 years of age and are typically solitary. Prolonged oral contraceptive use is a clearrisk factor. Clinical presentation may be abdominal pain.Histological studies show cords of benign hepatocytes containing excessive glycogen and fat,giving a congested or vacuolated appearance. There is an absence of bile duct glands and Kupffercells.In some patients, hepatic adenomas present with spontaneous intraperitoneal hemorrhage. Thereis a risk of malignant transformation in 10% of cases.710The histopathological image given below shows hepatic adenoma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q6_img1_880277e9.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp6_img1_270f5c20.jpeg",
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following types of hepatic adenomas is associated with an increased risk ofmalignant transformation?",
+      "options": {
+        "A": "Sonic hedgehog activated adenoma",
+        "B": "Inflammatory type hepatic adenoma",
+        "C": "HNF1A mutated adenoma",
+        "D": "Beta-catenin mutated adenoma"
+      },
+      "correct_answer": "D",
+      "explanation": "ẞ-catenin mutated subtype of hepatic adenoma is associated with an increased risk of malignanttransformation.The 2017 Bordeaux molecular-pathologic classification of hepatocellular adenomas (HCA)includes six subtypes:• HNF1A-inactivated HCA••• Inflammatory HCA• ẞ-catenin exon 3 mutated HCA⚫ ẞ-catenin exon 7/8 mutated HCA• Sonic hedgehog activated HCA• Unclassified HCA",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 8,
+      "question": "During USG in a 30-year-old bodybuilder on anabolic steroids, a liver mass was noted. Thesurgeon suspects hepatic adenoma. Which of the following is false regarding investigationsperformed for this condition?",
+      "options": {
+        "A": "AFP levels are always elevated",
+        "B": "Imaging shows a well circumscribed vascular tumor",
+        "C": "Resection and biopsy are done when other investigations are equivocal",
+        "D": "MRI with gadobenate dimeglumine as contrast helps to distinguish from other tumors"
+      },
+      "correct_answer": "A",
+      "explanation": "AFP levels are usually within the normal range in hepatic adenoma.In this patient, the use of anabolic steroids is a risk factor for developing hepatic adenoma.Computed tomography (CT) or magnetic resonance imaging (MRI) demonstrates awell-circumscribed and vascular solid tumor. Arterial phase CT demonstrates a well-developedperipheral arterialization of a tumor.Dynamic magnetic resonance imaging with liver-specific MRI contrast agents such as gadobenatedimeglumine helps to better distinguish hepatic adenomas from follicular nodular hyperplasia by711their enhancement characteristics during the hepatobiliary phase of imaging.A biopsy may be necessary for the confirmation and characterization of the nature of these lesionswhen imaging studies are equivocal.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 9,
+      "question": "Spontaneous rupture of the liver occurs in",
+      "options": {
+        "A": "Hepatic adenoma",
+        "B": "Hemangioma",
+        "C": "Portal hypertension",
+        "D": "Focal nodular hyperplasia"
+      },
+      "correct_answer": "A",
+      "explanation": "Hepatic adenoma can manifest as a case of spontaneous rupture, with the sudden onset ofabdominal pain followed by hypovolemic shock secondary to intraperitoneal bleeding.The clinical presentation may be abdominal pain. In some cases, it can hepatic adenomas presentwith spontaneous intraperitoneal hemorrhage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 10,
+      "question": "Which statement regarding the management of hepatic adenoma is false?705",
+      "options": {
+        "A": "MRI surveillance is done for 5 years",
+        "B": "Hepatic artery embolization is done in cases of hemorrhage",
+        "C": "In women, the risk of malignant transformation is low if tumour &lt;10 cm",
+        "D": "In men, resection is done independent of the tumour size"
+      },
+      "correct_answer": "",
+      "explanation": "In women, the risk of malignant transformation is low if tumour &lt;5 cm.Due to the high risk of malignancy in males, hepatic adenomas should be resected independent ofthe tumour size or subtype of the lesion.In female patients, conservative management with discontinuation of oral contraceptive pills andMRI surveillance is recommended if the tumour is &lt;5 cm indiameter. Either annual (non-inflammatory adenoma) or biannual (inflammatory hepatocellularadenoma) MRI surveillance is done for at least 5 years, depending on the tumour subtype.If the tumour is &gt;5 cm, resection is done. In patients presenting with acute hemorrhage,hepatic artery embolization is done to prevent further hemorrhage till the patient can be taken upfor resection of the tumour.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following statements are false regarding focal nodular hyperplasia?",
+      "options": {
+        "A": "Resection is done for persistent symptomatic cases",
+        "B": "AFP levels are normal",
+        "C": "Appears as hotspots in Tc 99m sulphur colloid scan",
+        "D": "Increased risk of malignant transformation"
+      },
+      "correct_answer": "D",
+      "explanation": "Malignant transformation is unlikely in focal nodular hyperplasia.Contrast-enhanced CT is diagnostic for FNH. It is seen as a well-circumscribed lesion with atypical central scar. They show intense homogeneous enhancement on the arterial phase andisodense as compared to the background liver on the venous phase.Due to the presence of Kupffer cells, FNH appears as hotspots on Tc 99m sulphur colloid scans.Asymptomatic patients with typical radiologic features do not require treatment. Carefulobservation of symptomatic FNH with serial imaging is reasonable, as symptoms may resolve in asignificant number of cases.Patients with persistent symptomatic FNH or an enlarging mass should be considered forresection.If diagnostic uncertainty exists, resection may be necessary for histologic confirmation.712",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 12,
+      "question": "A 27-year-old woman was incidentally found to have a liver mass while undergoingultrasound for renal calculi. CECT showed the following image. What is the most probablediagnosis?a",
+      "options": {
+        "A": "Hemangioma",
+        "B": "Focal nodular hyperplasia",
+        "C": "Hepatoma",
+        "D": "Hepatic adenoma706"
+      },
+      "correct_answer": "B",
+      "explanation": "The above clinical scenario with contrast-enhanced CT showing hypervascular lesion with acentral non-enhancing scar points towards focal nodular hyperplasia (FNH).Focal Nodular HyperplasiaHypervascularlesionCentral scarFocal nodular hyperplasia is the second most common benign tumour in the liver and is mostlyseen in women. This condition is characterised by focal overgrowth of functional liver tissue andthe supporting fibrous stroma.Patients are mostly asymptomatic and FNH is often an incidental finding. If patients aresymptomatic, they usually complain of abdominal pain.On histological examination, cords of hepatocytes are seen with atypical biliaryepithelium scattered throughout. A central stellate scar containing a large artery branching out ina spoke-wheel pattern is also seen.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/q12_img1_4f9c0834.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/msurgery/exp12_img1_f4dc0f76.jpeg",
+      "chapter_heading": "Benign Tumors of Liver"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is correctly matched regarding solid liver lesions and theircharacteristic CECT imaging findings?",
+      "options": {
+        "A": "1 - D, 2 - C, 3 - A, 4 - B",
+        "B": "1B, 2A, 3 - D, 4 -C--",
+        "C": "1 C, 2 D, 3 - B, 4 - A",
+        "D": "1 - D, 2 - A, 3 - B, 4-C"
+      },
+      "correct_answer": "B",
+      "explanation": "The correctly matched option is 1 - B, 2 - A, 3 - D, 4 -C.Differential diagnosis of solid liver lesions and their characteristic imaging findings:Noncontrast ultrasound findingContrast-enhanced CT findingBenign lesionsHepatic hemangiomaWell demarcated homogenous hyperechoic mass Hypoechoic in presence of fatty infiltration of the liverNon-contrast phase: Well-defined hypodense lesion. Arterial phase: Peripheral nodular enhancement in the early phase and filling in during the late phase. Washout phase: Homogenous enhancement.713Focal Nodular hyperplasiaHepatocellular adenomaNoncontrast ultrasound findingVariable echogenicityCentralhyperechoic region (central scar)Heterogenous, hyperechoic lesionContrast-enhanced CT findingNon-contrast phase: Hypo- or isodense with acentral scarArterial phase: HyperdensePortal venous phase: Typically isodenseA well-demarcated lesion with peripheral enhancement inthe early phaseCentripetal flow during the portal venous phaseMalignant lesionsHepatocellular carcinomaIntrahepatic cholangio carcinomaLiver metastasisPoorly defined margin with coarse and irregular internal echoesHomogenous hypoechoic maSSUsuallymultiple lesionsMetastasis from adenocarcinoma ishypoechoicHypervascularin the arterialphaseEnhancement in the late arterial phase withrapid washoutof contrast in portal venous phase.A hypodense lesion with peripheral(rim) enhancementMetastasis from the colon, stomach, and pancreas usuallyshowslower attenuation Hypervascular metastasis (e.g Neuroendocrine tumor, RCC) appears as rapidly enhancing lesions in the arterial phase714",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors of Liver"
+    }
+  ]
+}
