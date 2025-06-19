@@ -1,0 +1,395 @@
+{
+  "chapter": "Synapse and Junctional Transmission",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A synapse is a junction between",
+      "options": {
+        "A": "1 and 2",
+        "B": "1, 2, 3",
+        "C": "All 1, 2, 3, 4",
+        "D": "1, 2, 4"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp1_img1_f6a91273.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 2,
+      "question": "All of the following are true regarding chemical synapses except",
+      "options": {
+        "A": "These are the most common type of synapses",
+        "B": "Neurotransmitter is produced by the presynaptic neuron",
+        "C": "Protoplasmic continuity between pre- and post- synaptic membrane ensures faster conduction",
+        "D": "Conduction is always orthodromic"
+      },
+      "correct_answer": "C",
+      "explanation": "Chemical synapses are interneuronal junctions without protoplasmic continuity.Most of the synapses used for signal transmission in the central nervous system of the humanbeing are chemical synapses.In these synapses, the first neuron (presynaptic neuron) secretes neurotransmitters at its nerveending synapse. This transmitter, in turn, acts on receptor proteins in the membrane of the nextneuron (post-synaptic neuron) to excite the neuron, inhibit it, or modify its sensitivity in someother way.As neurotransmitters are released only by the pre-synaptic neuron, the synaptic conduction in theCNS is only orthodromic (unidirectional).A. Chemical synapsePresynaptic neuronNeurotransmittersLigand-gated channelswith receptors forneurotransmittersPostsynaptic neuronAxon terminalSynapticvesiclesSynapticcleft182",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_988ed874.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 3,
+      "question": "In a typical chemical synaptic cleft, the extracellular distance between the presynaptic plasmamembrane and the postsynaptic plasma membrane is approximately",
+      "options": {
+        "A": "2-4 nm",
+        "B": "20-40 nm",
+        "C": "200-400 nm",
+        "D": "2-4 μm"
+      },
+      "correct_answer": "B",
+      "explanation": "In a typical chemical synaptic cleft, the extracellular distance between the presynaptic plasmamembrane and the postsynaptic plasma membrane is approximately 20-40nm.PresynapticterminalSynaptic cleft(200-300 A)PostsynapticterminalPresynapticterminalPhysiological anatomyof chemical synapseActionpotentialCa++Intercellular gap(20-40 Å)PostsynapticterminalSynapticvesicleIonotropicreceptorIonsSecondmessengerOMARROWPhysiological anatomy ofelectrical synapseActionpotentialGap junctionchannelsBolookOMARROWMitochondriaNeurotransmitterMetabotropicreceptor",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp3_img1_bd1423b8.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is true regarding neurotransmitters?",
+      "options": {
+        "A": "All neurotransmitter are derived from amino acids",
+        "B": "Nitric oxide is a neurotransmitter in the CNS173",
+        "C": "They do not act on ionotropic receptors",
+        "D": "They are released on repolarization of the nerve"
+      },
+      "correct_answer": "",
+      "explanation": "Nitric oxide is a neurotransmitter in the CNS.Neurotransmitters are the substances that mediate chemical signaling between neurons. They canbe choline esters, biogenic amines, amino acids, and neuropeptides.Two main classes of chemical substances that serve as neurotransmitters:183• small-molecule neurotransmitter (acetylcholine)•⚫ large molecule neurotransmitter (enkephalin)They can act on ionotropic receptors (ligand-gated ion channels) and/or metabotropic receptors onthe postsynaptic membrane to produce a change in membrane potential to bring about theiraction.Criteria for the substance to be neurotransmitter:•⚫ the substance must be demonstrated to be present in the presynaptic terminal.• the cell must be able to synthesize the substance.•should be released on depolarization of the terminal.••there should be specific receptors for it on the postsynaptic membrane.⚫ if the substance is applied exogenously to the postsynaptic membrane at physiologicconcentration, the response of the postsynaptic cell must mimic the in vivo response.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a monoamine neurotransmitter?",
+      "options": {
+        "A": "GABA",
+        "B": "Norepinephrine",
+        "C": "DOPA",
+        "D": "Serotonin"
+      },
+      "correct_answer": "",
+      "explanation": "GABA is not a monoamine neurotransmitter. It is an amino acid.Biogenic amines are small, charged molecules that are synthesized from amino acids and containan amino group (R-NH2). Amines known to act as neurotransmitters are dopamine,norepinephrine (noradrenaline), epinephrine (adrenaline), serotonin (5-hydroxytryptamine[5-HT]).Amino acids and their derived amines acting as neurotransmitters:•Tyrosinecatecholamines : dopamine, norepinephrine, and epinephrine.•Tryptophan - serotonin• Histidine - histamine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is true regarding metabotropic neurotransmitters?",
+      "options": {
+        "A": "They act through second messenger systems",
+        "B": "They bind to cationic channels and increase influx of Na",
+        "C": "They bind to anionic channels and increase influx of Cl",
+        "D": "They inhibit the fusion of synaptic vesicle with the synaptic cleft"
+      },
+      "correct_answer": "A",
+      "explanation": "Neurotransmitter receptors that act through second messenger systems are called metabotropicreceptors.Neurotransmitters bind to receptors on the post-synaptic membrane to activate ion channels inone of the two ways:•by gating ion channels directly (ionotropic receptors).• by activating a second messenger (metabotropic receptor) for a prolonged postsynaptic neuronalexcitation or inhibition. Most commonly activated is a G-protein coupled membrane receptor.The following four changes can occur usually after binding to a G-protein coupled receptor:•Opening specific ion channels through the post-synaptic cell membrane.184• Activation of cyclic adenosine monophosphate (CAMP) or cyclic guanosine monophosphate(cGMP) in the neuronal cell.• Activation of one or more intracellular enzymes.• Activation of gene transcription. Activation of gene transcription is one of the most importanteffects of activation of the second messenger systems because gene transcription can causeformation of new proteins within the neuron, thereby changing its metabolic machinery or itsstructure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is false regarding the neurotransmitter glutamate in the brain?",
+      "options": {
+        "A": "It is involved in excitatory neurotansmission",
+        "B": "It is a minor neurotransmitter in the brain",
+        "C": "It acts via both ionotropic and metabotropic receptors",
+        "D": "Glycine binding to the NMDA receptor is essential for the receptor to respond to glutamate"
+      },
+      "correct_answer": "B",
+      "explanation": "Glutamate is a major excitatory neurotransmitter responsible for ~75% excitatoryneurotransmission in the CNS.Glutamate is the best-known example of excitatory amino acid neurotransmitters. It brings aboutits action via both ionotropic and metabotropic receptors.Glutamate Receptors:TypeIonotropic Glutamate ReceptorsAMPA, Kainate receptorsNMDA receptorsMetabotropic Glutamate Receptor(mGluR)Mechanism of ActionPrimarily permits influx of Na+ and efflux of K+ →EPSP (excitatory postsynaptic potential)Permits influx of Ca2+ along with Na+ EPSP (excitatory postsynaptic potential) (Glycinebinding to the NMDA receptor is essential for the receptor to respond to glutamate)Leads to either ↑ in IP3/DAGor \\CAMP",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is a well-known inhibitory brain neurotransmitter?",
+      "options": {
+        "A": "Glutamate",
+        "B": "Acetylcholine",
+        "C": "GABA174",
+        "D": "Glycine"
+      },
+      "correct_answer": "C",
+      "explanation": "GABA (gamma-amino-butyric acid) is probably the best known inhibitory neurotransmitter in thebrain, especially in the forebrain regions.GABA mediates both presynaptic and postsynaptic inhibitionGABA Receptors:Other options:• Glutamate is a good example of an excitatory brain neurotransmitter.185• Acetylcholine and glycine have been known to play either excitatory or inhibitoryneurotransmitter roles depending on the particular brain circuits under study.Note:Glycine sometimes potentiates the excitatory action of glutamate at NMDA receptors. So, it mightact as an excitatory neurotransmitter as well.TypeGABAAandGABACGABABMechanism of ActionIonotropic receptorsActivation → Cl-influx into the neurons → IPSP (inhibitory postsynaptic potential)Benzodiazepines (diazepam), barbituratesand phenobarbital enhance/potentiate the effect of GABAAreceptors (neuromodulation)Metabotropic receptorsG-protein coupled receptorsGi→inhibits adenylyl cyclase to open K+channelsGo→ inhibits or delays Ca2+influxNet effect=IPSP",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 9,
+      "question": "Correctly matched with its receptor is",
+      "options": {
+        "A": "Nicotinic G-Protein Coupled Receptor-",
+        "B": "GABA-A - ionotropic",
+        "C": "GABA-B - Ionotropic",
+        "D": "Glycine - G-Protein Coupled Receptor"
+      },
+      "correct_answer": "B",
+      "explanation": "GABA A is an ionotropic receptor.GABA is the major inhibitory mediator both pre and postsynaptically in the brain.GABA receptors:TypeGABAAandGABACGABABMechanism of ActionIonotropic receptorsActivation Cl-influx into the neurons IPSP (inhibitory postsynaptic potential)Benzodiazepines (eg. Diazepam), barbiturates and phenobarbital enhance/potentiate the effect of GABAAreceptors (neuromodulation)Metabotropic receptorsG protein coupled receptorsGi→inhibits adenylyl cyclase to open K+channels GGo→ inhibitsor delays Ca2+influxNet effect=IPSP186",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 10,
+      "question": "Which is not true about neuromodulators?",
+      "options": {
+        "A": "Modify the postsynaptic neuron's response to a specific neurotransmitter",
+        "B": "May change the presynaptic neuron's release of a transmitter",
+        "C": "May be released by the presynaptic neuron along with the neurotransmitter",
+        "D": "Actions are faster than neurotransmitters"
+      },
+      "correct_answer": "D",
+      "explanation": "Neuromodulators typically have actions that are slower than neurotransmitters.Neuromodulators are chemicals released by neurons that have little or no direct effects on theirown but can modify the effects of neurotransmitters.They can modify the postsynaptic neuron's response to a neurotransmitter and they can changehow much of a neurotransmitter the presynaptic neuron synthesizes or releases.Neuromodulators also can be released by the presynaptic neuron along with the neurotransmitter.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 11,
+      "question": "A medical student was doing research in a laboratory that studies the neuromuscularjunction. Which of the following events at the junction are listed in correct sequential order?",
+      "options": {
+        "A": "Motor neuron action potential, acetylcholine release, Ca2+ entry at the endplate",
+        "B": "Ca2+ entry into the motor nerve terminal, acetylcholine release, Na+ entry at the endplate",
+        "C": "Ca2+ entry into the motor nerve terminal, Na+ entry at the endplate, motor neuron actionpotential",
+        "D": "Na+ entry at the endplate, acetylcholine release, muscle fiber action potential"
+      },
+      "correct_answer": "B",
+      "explanation": "Events Occurring at the Chemical Synapse:The action potential arriving at the end of the motor neuron increases the permeability of itsendings to Ca2+Ca2+ enters the endings and triggers a marked increase in exocytosis of theacetylcholine-containing synaptic vesicles↓Binding of acetylcholine to nicotinic receptors increases the Na+ and K+ conductance↓Resultant influx of Na+ produces a local depolarizing potential, the endplate potentialThe current created by this local potential depolarizes the adjacent muscle membrane to its firinglevelAction potentials are generated on either side of the endplate and are conducted away from theendplate in both directions along the muscle fiber. This muscle action potential, in turn, initiatesmuscle contraction.Acetylcholine is then removed from the synaptic cleft by acetylcholinesterase, which is present inhigh concentration at the neuromuscular junction.187Ca entry causesneurotransmitter-containingsynaptic vesicles to releasetheir contents by exocytosis..Synaptic cleftNeurotransmitter diffuses acrossthe synaptic cleft and binds toligand-gated ion channels on thepostsynaptic membrane.Localized membranepotentialPresynapticneuronlon movementNeurotransmitterGraded potentialOpen ligand-gated ion channelCytoplasmBinding of neurotransmitter opens ligand-gatedion channels, resulting in graded potentials.Postsynaptic neuronaptic neuronAction potentialarrives at axonterminal.Axon terminalSynapticvesiclesVoltage-gated Ca2+channels open andCa2+ enters theaxon terminal.EnzymaticDiffusion awayReuptake by degradation cpresynapticneuronfrom synapsePostsynaptic neuronClosed ligand-gated ion channelReuptake by the presynapic neuron, enzymatic degradation,and diffusion reduce neurotransmitter levels, terminating thesignal.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp11_img1_20015097.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 12,
+      "question": "Excitatory postsynaptic potential (EPSP) is due to the influx of",
+      "options": {
+        "A": "Na+",
+        "B": "K+",
+        "C": "Mg2+175",
+        "D": "Cl-"
+      },
+      "correct_answer": "A",
+      "explanation": "Excitatory postsynaptic potential (EPSP) is due to the influx of sodium ions (Na+).At the post-synaptic membrane, neurotransmitters binding to receptors generate responses thatcan be excitatory or inhibitory. If it generates an excitatory response (makes the membrane moreelectrically positive/ depolarized), it is an excitatory postsynaptic potential (EPSP) because itmakes the cell more likely to reach an action potential.EPSP may be due to• The opening of sodium channels or calcium channels to allow large numbers of positive•electrical charges to flow to the interior of the postsynaptic cell.Depressed conduction through chloride or potassium channels or both.• Various changes in the internal metabolism of the postsynaptic neuron to increase the number ofexcitatory membrane receptors or decrease the number of inhibitory membrane receptors.18830mv-15mv-70mvAs seen in the figure, following the discharge of the sensory neuron, there is positivity in themotor neuron signifying a EPSP.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp12_img1_771bb9d1.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 13,
+      "question": "Inhibitory Postsynaptic Potential (IPSP) is due to influx of",
+      "options": {
+        "A": "Na+",
+        "B": "K+",
+        "C": "Ca2+",
+        "D": "Cl-"
+      },
+      "correct_answer": "D",
+      "explanation": "Inhibitory Postsynaptic Potential (IPSP) is due to the influx of chloride ions (Cl-).If, binding of a neurotransmitter causes the postsynaptic membrane to become more negative(hyperpolarized), it is called an inhibitory postsynaptic potential (IPSP) because hyperpolarizationmoves the membrane potential farther from the threshold and makes the cell less likely to reachan action potential.IPSP may be due to:• Increase in Cl- influx. This action causes diffusion of negatively charged chloride ions fromoutside the postsynaptic neuron to the inside, thereby carrying negative charges inward andincreasing the negativity inside. This leads to hyperpolarization.•• Increase in K+ efflux. This action causes positive ions to diffuse to the exterior, which causesincreased negativity inside the neuron, which leads to hyperpolarization.• Activation of receptor enzymes that increase the number of inhibitory synaptic receptors ordecrease the number of excitatory receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 14,
+      "question": "The following effect in the motor neuron is due to:OMARROWMotor neuronInterneuron",
+      "options": {
+        "A": "Opening of chloride ion channels through the pre-synaptic neuronal membrane",
+        "B": "Increase in conductance of potassium ions to the inside of the neuron",
+        "C": "Activation of receptor enzymes that increase the number of inhibitory synaptic receptors",
+        "D": "Increase in conductance of sodium ions inside the neuron"
+      },
+      "correct_answer": "C",
+      "explanation": "Activation of receptor enzymes that increase the number of inhibitory synaptic receptors cancause the effect shown, namely, the generation of IPSP.In the figure given, there is an increased negativity in the motor neuron following the actionpotential in the interneuron. So, the synaptic potential is IPSP. This can be caused at the189postsynaptic membrane due to Cl- influx, K+ efflux or activation of receptor enzymes that increasethe number of inhibitory synaptic receptors or decrease the number of excitatory receptors.Other options:• Opening of chloride ion channels through the post-synaptic neuronal membrane.• Increase in conductance of potassium ions to the outside of the postsynaptic neuron.•• Increase in conductance of sodium ions inside the neuron causes the generation of an EPSP.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q14_img1_eaa65d50.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 15,
+      "question": "Slow inhibitory postsynaptic potential (IPSP) is generated by all except",
+      "options": {
+        "A": "Cardiac muscle176",
+        "B": "Skeletal muscle",
+        "C": "Smooth muscle",
+        "D": "Autonomic ganglia"
+      },
+      "correct_answer": "B",
+      "explanation": "Slow EPSPs and IPSPs are not generated by skeletal muscles.Slow excitatory postsynaptic potentials (EPSPs) and inhibitory postsynaptic potential (IPSPs) areseen in autonomic ganglia, cardiac, and smooth muscle, and cortical neurons.EPSPs and IPSPs occur after a latency of 0.5ms while slow EPSPs and IPSPs occur after a latencyof 100-500 ms and last for several seconds. The slow EPSPs are due to a decrease in K+ efflux,and the slow IPSPs are due to an increase in K+ efflux.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following physiologic processes is not correctly matched?",
+      "options": {
+        "A": "Presynaptic inhibition: Axo-axonal synapse",
+        "B": "Postsynaptic inhibition: GABA produces IPSP",
+        "C": "Presynaptic inhibition: GABA-B receptors decrease K+ conductance.",
+        "D": "Presynaptic inhibition: GABA-A receptors increase Cl- conductance."
+      },
+      "correct_answer": "",
+      "explanation": "GABA-B receptors are present in the spinal cord and appear to mediate presynaptic inhibition viaa G-protein that produces an increase in K+ conductance.•PRE-SYNAPTIC INHIBITIONPresynaptic inhibition is a process mediated by neurons whose terminals are on excitatoryendings, forming axoaxonal synapses.• The first transmitter shown to produce presynaptic inhibition was GABA. On the pre-synapticmembrane•Acting via GABA-A receptors, GABA increases Cl- conductance.• GABA-B receptors appear to mediate presynaptic inhibition via a G-protein that produces anincrease in K+ conductance.• This leads to hyperpolarization of the pre-synaptic membrane and inhibition of release of theneurotransmittor from the pre-synaptic neuron.190Synaptic inhibitionMAInhibitory neuronPresynaptic inhibitionPostsynaptic inhibitionOMARROWWPOST-SYNAPTIC INHIBITION• Postsynaptic inhibition occurs when an inhibitory transmitter such as glycine or GABA isreleased from a presynaptic nerve terminal onto the postsynaptic neuron to induce an IPSP in thepostsynaptic neuron.•In the figure shown below, an inhibitory transmitter such as GABA is released from the nerveterminals of an inhibitory interneuron (dark) that synapses on a postsynaptic neuron.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_20aa507e.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 17,
+      "question": "Renshaw cell inhibition is",
+      "options": {
+        "A": "Feedback facilitation",
+        "B": "Feedback inhibition",
+        "C": "Feed forward inhibition",
+        "D": "Indirect inhibition"
+      },
+      "correct_answer": "B",
+      "explanation": "Renshaw cell inhibition is an example of feedback inhibition.The axon of a spinal motor neuron has a recurrent collateral that synapses on an inhibitoryinterneuron that terminates on the cell body of the same and other motor neurons. The inhibitoryinterneuron is called a Renshaw cell and its neurotransmitter is glycine.191Renshaw cell inhibitionInhibitoryinterneuron(RENSHAW CELL)OMARROWMotor neuronAxon",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp17_img1_f7bcd94d.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 18,
+      "question": "Feedforward inhibition is seen in",
+      "options": {
+        "A": "Medulla",
+        "B": "Pituitary gland",
+        "C": "Cerebellum",
+        "D": "Renshaw cell"
+      },
+      "correct_answer": "",
+      "explanation": "Feedforward inhibition is seen in the cerebellum. In the cerebellum, stimulation of basket cells /stellate cells produces IPSPs in the Purkinje cells (i.e, inhibits Purkinje cells)In feedforward inhibition, a presynaptic cell excites an inhibitory interneuron which then inhibitsthe next follower cell.In cerebellum (Refer flow chart):Feed-forward inhibitionin cerbellumMossy fibresGranule cellsBasket cells and Stellate cells (Inhibitory interneuron)Purkinje cellsOMARROWThis arrangement is called feed-forward inhibition which presumably limits the duration ofexcitation produced by any given afferent volley.Note: Renshaw cell carries out the negative feedback inhibition of a spinal motor neuron.192",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_24525309.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 19,
+      "question": "Presynaptic facilitation is due to prolonged opening of",
+      "options": {
+        "A": "Na+ channels",
+        "B": "K+ channels177",
+        "C": "Ca2+ channels",
+        "D": "Cl- channels"
+      },
+      "correct_answer": "C",
+      "explanation": "Presynaptic facilitation is due to prolonged opening of Ca2+ channels.In presynaptic facilitation, the serotonin released at the axoaxonal ending increases theintraneuronal cAMP levels→ phosphorylation and consequent closure of K+ channels → slowingof repolarization and prolonging the depolarization by prolonged opening of Ca2+ channelsPresynaptic faciltiationPresynapticneuron.PostsynapticneuronActionpotentialActionpotentialCa2+Ca2+Ca2+5-HT (serotonin)f (serotonirMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp19_img1_ee9b8af7.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 20,
+      "question": "A person with myasthenia gravis notes increased muscle strength when he is treated with anacetylcholinesterase (AChE) inhibitor. The basis for his improvement is due to the increase in",
+      "options": {
+        "A": "The amount of acetylcholine (ACh) released from motor nerves",
+        "B": "The level of ACh at the muscle end plates",
+        "C": "The number of ACh receptors on the motor end plates",
+        "D": "Synthesis of norepinephrine in motor nerves"
+      },
+      "correct_answer": "B",
+      "explanation": "Treatment with AChE inhibitors (e.g., neostigmine) prevents the degradation of ACh and prolongsthe action of ACh at the muscle end plate.Myasthenia gravis:•• It is caused by the presence of antibodies to the ACh receptor.• Is characterized by skeletal muscle weakness and fatigability resulting from a reduced number ofACh receptors on the muscle end plate.•The size of the EPP (end plate potential) is reduced.• Treatment with AChE inhibitors (e.g., neostigmine) prevents the degradation of ACh andprolongs the action of ACh at the muscle end plate, partially compensating for the reducednumber of receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 21,
+      "question": "A 55-year-old woman had an autonomic neuropathy that disrupted the sympathetic nervesupply to the pupillary dilator muscle of her right eye. While having her eyes examined, theophthalmologist placed a sympathomimetic drug in both her eyes. The right eye becamemuch more dilated than the left eye. This suggests that:",
+      "options": {
+        "A": "The sympathetic nerve to the right eye had regenerated",
+        "B": "The parasympathetic nerve supply to the right eye remained intact and compensated for theloss of the sympathetic nerve",
+        "C": "Denervation supersensitivity had developed",
+        "D": "The left eye also had nerve damage and so was not responding as expected"
+      },
+      "correct_answer": "",
+      "explanation": "193Denervation supersensitivity develops in the muscle after the nerve supplying it is cut. Since thenerve to her right dilator pupillae is damaged, the right eye becomes excessively sensitive to thesympathomimetic drug. So, the right eye becomes much more dilated than the left.Denervation Supersensitivity:• When the motor nerve to skeletal muscle is degenerated, the muscle gradually becomes•extremely sensitive to acetylcholine. This is called denervation hypersensitivity or supersensitivity.Normally nicotinic receptors are located only in the vicinity of the motor endplate where theaxon of the motor nerve terminates. When the motor nerve is severed, there is a marked•proliferation of nicotinic receptors over a wide region of the neuromuscular junction.⚫ Denervation supersensitivity also occurs at autonomic junctions. Smooth muscle, unlike skeletalmuscle, does not atrophy when denervated, but it becomes hyperresponsive to the chemicalmediator that normally activates it.• This hyperresponsiveness can be demonstrated by using pharmacologic tools rather than actualnerve section. Prolonged use of a drug such as reserpine can be used to deplete transmitter storesand prevent the target organ from being exposed to norepinephrine for an extended period. Oncethe drug usage is stopped, smooth muscle and cardiac muscle will be supersensitive to subsequentrelease of the neurotransmitter.Option a) If the symapthetic nerve would have regenerated, both right and left eye would havebeen equally sensitive to the drug and so, would have dilated equally.Option b) Parasympathetic nerves supply the spinchter pupillae muscle. So, if stimulated theywould constrict the eye not dilate it. Also, the drug added was a sympathomimetic agent. So,parasympathetic nerves are not stimulated in the first placeOption d) If the left eye was damaged, it would also have denervation supersensitivity. Again, botheyes would dilate equally, but more than that of normal.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following statements is not true about neurotransmitters?",
+      "options": {
+        "A": "They must be present at the pre-synaptic membrane",
+        "B": "Neurons must be able to synthesize the substance",
+        "C": "They are released on repolarization of the nerve",
+        "D": "Specific receptors must be present on the post-synaptic membrane"
+      },
+      "correct_answer": "",
+      "explanation": "Neurotransmitters should be released on depolarization of the terminal.• Neurotransmitters are the substances that mediate chemical signaling between neurons.• The transmission of information at chemical synapses involves the release of neurotransmitterfrom a presynaptic cell, diffusion across the synaptic cleft, and binding of the neurotransmitter tospecific receptors on the postsynaptic membrane to produce a change in membrane potential.Criteria for the substance to be neurotransmitter•⚫ the substance must be demonstrated to be present in the presynaptic terminal•the cell must be able to synthesize the substance.•⚫ should be released on depolarization of the terminal.•⚫ there should be specific receptors for it on the postsynaptic membrane.•if the substance is applied exogenously to the postsynaptic membrane at physiologicconcentration, the response of the postsynaptic cell must mimic the in vivo response194",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 23,
+      "question": "178Neurotransmitter can be degraded by all except_",
+      "options": {
+        "A": "Can diffuse out of synaptic cleft",
+        "B": "Enzymes inactivate it",
+        "C": "Reuptake into glial cell",
+        "D": "Autoreceptor"
+      },
+      "correct_answer": "",
+      "explanation": "The final steps in the process lead to termination of the actions of the neurotransmitter andinclude•Reuptake into the nerve terminal or glial cell• Enzymatic degradation.• Diffusion away from the synaptic cleft",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following endogenous opioids is correctly matched with the receptor at which ithas maximum potency?",
+      "options": {
+        "A": "Enkephalins - 8 receptors",
+        "B": "Dynorphins - μ receptors",
+        "C": "Endorphins - к receptors",
+        "D": "Both B and C"
+      },
+      "correct_answer": "A",
+      "explanation": "Enkephalins have maximum potency at 8 receptors.Dynorphins have maximum potency at к receptors.Endorphins have maximum potency at μ receptors.Note: There is a difference of opinion among Goodman &amp; Gillman's textbook and Ganong'sreview of medical physiology(26th edition pg 151). According to Goodman &amp; Gillman'stextbook above answer is correct.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following physiologic processes is not correctly paired with a structure?Electrical transmission gap junctionb) Negative feedback inhibition: Renshaw cellc) Synaptic vesicle docking and fusion presynaptic nerve terminald) Endplate potential : muscarinic cholinergic receptorQuestion 26:Which of the following electrophysiologic events is correctly paired with the change in ioniccurrents causing the event?",
+      "options": {
+        "A": "Fast inhibitory postsynaptic potentials (IPSPs) and closing of Cl- channels",
+        "B": "Fast excitatory postsynaptic potentials (EPSPs) and an decrease in Ca2+ conductance",
+        "C": "Endplate potential and an increase in Na+ conductance",
+        "D": "Presynaptic inhibition and closure of voltage-gated K+ channels"
+      },
+      "correct_answer": "D",
+      "explanation": "Endplate potential is generated via nicotinic cholinergic receptor.The acetylcholine released from the motor neuron diffuses to nicotinic cholinergic (NM) receptorsthat are concentrated at the tops of the junctional folds of the membrane of the motor endplate.presynaptic'membraneNerveterminalaction potentalCa24synaptic-Achvesicle1. Action potential depolarisesthe nerve terminal2. Voltage gated Ca2+ channelsallow Ca2+ influxVollagegatedcalcium channel3. Ca2+ evoked vesicleexocytosis of ACh4. ACh activates AChRsNatactionVoltagegard sodium potentialformuscleContraction5. Cation influx through AChRsdepolarises muscle fibreforming EPP6. Voltage gated Na+ channelsgenerate action potential7. AChE degrades ACh toterminate the signalpostsynapticmembraveSynaphiccleftACHE-AChMuscleFibreChannelAch(Ach gatedion channel)EPPNo195Connexonconnexin monomerPlasma membranesIntercellular space2-4 nm spaceHydrophilic channelClosedOpen",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp25_img1_b050a73b.jpeg",
+      "chapter_heading": "Synapse and Junctional Transmission"
+    },
+    {
+      "q_no": 27,
+      "question": "179How is an electrical synapse different from a chemical synapse?",
+      "options": {
+        "A": "No cytoplasmic continuity between presynaptic and postsynaptic membrane",
+        "B": "Direction of impulse is unidirectional",
+        "C": "Connexons are involved in electrical synapse",
+        "D": "Electrical synapse has more latent period than chemical synapse"
+      },
+      "correct_answer": "C",
+      "explanation": "In electrical synapses, the cytoplasm of adjacent cells is directly connected by gap junctions(connexons) that allow free movement of ions from the interior of one cell to the interior of thenext cell.The transmission in electrical synapses is bidirectional and there is no synaptic delay. Unlikechemical synapses, electrical synapse has cytoplasmic continuity.196Note:Most of the synapses used for signal transmission in the central nervous system are chemicalsynapses.197",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Synapse and Junctional Transmission"
+    }
+  ]
+}

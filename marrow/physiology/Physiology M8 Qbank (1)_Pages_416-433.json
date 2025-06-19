@@ -1,0 +1,275 @@
+{
+  "chapter": "Lung Volumes and Lung Function Tests",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Tidal volume is",
+      "options": {
+        "A": "Inspiratory capacity minus inspiratory reserve volume",
+        "B": "Total lung capacity minus residual volume",
+        "C": "Functional residual capacity minus residual volume",
+        "D": "Vital capacity minus expiratory reserve volume"
+      },
+      "correct_answer": "A",
+      "explanation": "The tidal volume = inspiratory capacity - inspiratory reserve volume.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 2,
+      "question": "Functional residual capacity is:",
+      "options": {
+        "A": "Volume expired after normal inspiration",
+        "B": "Volume that remains after forced expiration",
+        "C": "Expiratory reserve volume + residual volume",
+        "D": "Tidal volume + inspiratory reserve volume"
+      },
+      "correct_answer": "C",
+      "explanation": "Functional Residual Capacity (FRC) is expiratory reserve volume + residual volume.From the picture given below, (FRC = ERV + RV).Lung volumes and CapacitiesVolume (liters)Maximum inspirationTidalVolume(TV)Inspiratoryreserve volume(IRV)wwwFunctional residualcapacity (FRC)VitalCapacity(VC)Inspiratorycapacity (IC)www.MExpiratory reservevolume (ERV)Residual volume(RV)Time(seconds)Resting inspirationTotal lungcapacity (TLC)Resting expirationMaximum expirationOMARROWLung Capacities:The total lung capacity can be broken down into alternative capacities that help to definefunctioning lungs.•The vital lung capacity refers to the maximum amount of air expired from the fully inflated lungor maximum inspiratory level.• The inspiratory capacity is the maximum amount of air inspired from the end-expiratory level.• The functional residual capacity represents the volume of the air remaining in the lungs afterexpiration of a normal breath.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_60148e39.jpeg",
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 3,
+      "question": "A 27-year-old man is breathing quietly. He then inhales as much air as possible and exhalesas much air as he can, producing the spirogram shown in the figure. What is his expiratoryreserve volume (in liters)?416",
+      "options": {
+        "A": "2.0",
+        "B": "2.5",
+        "C": "3.0",
+        "D": "3.5Volume (L)65+3210TimeOMARROW"
+      },
+      "correct_answer": "A",
+      "explanation": "Expiratory Reserve Volume = Functional Residual Capacity - Residual VolumeIn the given spirogram,•Functional Residual Capacity = 3L• Residual Volume = 1LTherefore,424Expiratory Reserve Volume = Functional Residual Capacity - Residual Volume = 3-1 = 2Note:The residual volume is the volume of air remaining in the lungs after the most forceful expiration.The functional residual capacity equals the expiratory reserve volume plus the residual volume.This capacity is the amount of air that remains in the lungs at the end of normal expirationThe expiratory reserve volume is the maximum extra volume of air that can be expired by forcefulexpiration after the end of a normal tidal expiration.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q3_img1_edc06e71.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 4,
+      "question": "A nurse in the pulmonology clinic administered a test using the following instrument. Whichof the following parameters cannot be measured?",
+      "options": {
+        "A": "Tidal volume417CE",
+        "B": "Residual volume",
+        "C": "Vital capacity",
+        "D": "Inspiratory reserve capacity"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows spirometry. All of the given parameters can be measured by a spirometerexcept residual volume.Residual volume is measured by:⚫N2 washout method• Helium-dilution method•Body plethysmographyOther parameters which cannot be measured by spirometry are:• Functional residual capacity• Total lung capacity",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q4_img1_9248b625.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 5,
+      "question": "Total lung capacity depends on",
+      "options": {
+        "A": "Size of airways",
+        "B": "Closing volume",
+        "C": "Lung compliance",
+        "D": "Residual volume"
+      },
+      "correct_answer": "",
+      "explanation": "Total lung capacity depends on the distensibility of lungs (compliance).Determinants of Lung Compliance• Stretchability of the lung tissues, particularly their elastic connective tissue.• Surface tension at the air-water interfaces within the alveoli, which is markedly reduced in thealveoli by pulmonary surfactant preventing their collapse.Option b: The Closing Volume is the lung volume above Residual Volume at which airways in thelower, dependent parts of the lungs begin to close off because of the lesser transmural pressure inthese areas.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 6,
+      "question": "Single breath nitrogen method is used for measuring",
+      "options": {
+        "A": "Dead space volume",
+        "B": "FRC",
+        "C": "Tidal volume",
+        "D": "Diffusion capacity"
+      },
+      "correct_answer": "A",
+      "explanation": "Anatomical dead space can be measured by the single-breath N2 curve (Fowler's method).•• Anatomical dead space is the respiratory system volume exclusive of alveoli.425• Alveolar dead space is the volume of gas not equilibrating with blood i.e. wasted ventilation.•Physiological/total dead space is the sum of anatomical and alveolar dead space.• The equation used for the calculation of total/physiological dead space is the Bohr's equation.Fowler's Method - Single BreathNitrogen Washout TestN₂ concentration (%)Lung volume (L)Start inspiration80PhaseI IIIII0TC (startexpiration)OMARROWIVCV RVCC°The patient takes a deep breath of O2 From mid-inspiration, then exhales steadily. The changes inthe N2 concentration of expired gas during expiration are plotted.Region I - Dead Space (DS)From I-II is a mixture of DS and alveolar gas.The transition from III-IV is the closing volume (CV).End of IV - Residual Volume (RV).Factors affecting dead space:Option B: Functional Residual Capacity (FRC) is measured using body plethysmography.Option C: Tidal volume (TV) is measured using spirometry.Option D: Diffusion Capacity is measured using carbon monoxide diffusion capacity (DLCO).FactorPosture: UprightSupinePosition of airway:Neck ExtensionNeck FlexionEffectIncrease DecreaseIncrease DecreaseAgeIncreaseArtificial airwayDecreasePositive pressure ventilationIncreaseDrug anti-cholinergicPulmonary perfusion:Pulmonary embolismHypotensionIncreaseIncreaseIncrease426FactorPulmonary disease:Emphysema",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 7,
+      "question": "Calculate the alveolar ventilation in a young man if the respiratory rate is 10/min and tidalvolume is 600ml.",
+      "options": {
+        "A": "1.5 L/min",
+        "B": "3.5 L/min",
+        "C": "4.5 L/min",
+        "D": "5.0 L/min"
+      },
+      "correct_answer": "C",
+      "explanation": "Alveolar ventilation = RR X (VT-V D)In the given case,•Respiratory rate (RR)= 10/minEffectIncrease• Tidal volume (VT) = 600 mL• Dead space volume (VD) = 150 mL in a young manThus, Alveolar ventilation = 10 X (600-150) = 4500 mL/min = 4.5 L/min",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 8,
+      "question": "Normal VD(Dead space volume)/ VT (Tidal volume) is",
+      "options": {
+        "A": "20418",
+        "B": "0.3",
+        "C": "4",
+        "D": "50"
+      },
+      "correct_answer": "B",
+      "explanation": "• Dead space volume = VD =VD = 150ml•Tidal volume = VT = 500ml•• Normal VD/VT = 150/500 = 0.3",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient has a dead space of 150 mL, a functional residual capacity of 3L, tidal volume of650 mL, expiratory reserve volume of 1.5 L, a total lung capacity of 8L, respiratory rate of 15breaths/min. What is the rate of alveolar ventilation?",
+      "options": {
+        "A": "5 L/min",
+        "B": "7.5 L/min",
+        "C": "6.0 L/min",
+        "D": "9.0 L/min"
+      },
+      "correct_answer": "B",
+      "explanation": "The rate of alveolar ventilation in this patient is 7.5 L/min.Alveolar ventilation per minute is the total volume of new air entering the alveoli and adjacent gasexchange areas each minute. It is equal to the respiratory rate times the amount of new air thatenters these areas with each breath.Alveolar ventilation=Respiratory rate X (Tidal volume - Physiologic dead space)=15 X (650-150)= 7500mL/min or 7.5L/min.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 10,
+      "question": "Closing volume of the lung is",
+      "options": {
+        "A": "Above residual volume in upper portions of the lungs",
+        "B": "Above the residual volume in dependent portions of the lungs",
+        "C": "Above tidal volume in dependent portions of the lungs",
+        "D": "Above tidal volume in upper portions of the lungs"
+      },
+      "correct_answer": "B",
+      "explanation": "The closing volume (CV) is the lung volume above the residual volume (RV) at which the airwaysin the lower dependent parts of the lung begin to close off because of the lesser transmuralpressure in these areas.427In young adults, the closing volume is about 10% of the vital capacity (VC). It increases steadilywith age and is equal to about 40% of the VC. It equals FRC, at about the age of 65 years.Diseases of the small airways apparently increase the closing volume• Normal young adult: CV &lt;&lt; FRC• At 65 years of age: CV=FRC•Small airway disease: CV &gt;&gt;FRC• In case of hyaline membrane disease, FRC is smaller than closing volume.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 11,
+      "question": "A 66-year-old man presented with gradually progressive dyspnea and a non-productivecough. On examination, he has bi-basilar inspiratory crackles and clubbing. Which of thefollowing pulmonary function tests will be true if he is to be diagnosed with interstitialpulmonary fibrosis?",
+      "options": {
+        "A": "↑ FRC, Compliance",
+        "B": "FEV1/FVC, Compliance",
+        "C": "FEV1/FVC, Compliance",
+        "D": "↑ Compliance"
+      },
+      "correct_answer": "B",
+      "explanation": "Interstitial pulmonary fibrosis is a restrictive lung disease that shows ↑ FEV1/FVC, Compliancewhen performing pulmonary function tests.In a healthy normal adult male, FVC is approximately 5.0 L, FEV1 is approximately 4.0 L, andthus, the calculated FEV1/FVC is 80%.Obstructive disorders result in a marked decrease in both FVC and FEV1/FVC, whereas restrictivedisorders result in a loss of FVC without loss in FEV1/FVC.Compliance is reduced in cases of restrictive lung diseases. For example - interstitial lungdiseases, fibrosis, sarcoidosis, asbestosis, and radiation exposure.ParameterObstructiveRestrictive ParenchymalPatholAirflow obstructioReduced complianceogynFEF25-↓N75FEV1↓NFVC↓↓FEV1/F ↓VCN to ↑TLC &RV↑↓",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 12,
+      "question": "419Flow volume given below indicatesFlowExpirationRROTLCRVInspirationOMARROW",
+      "options": {
+        "A": "Normal",
+        "B": "Intrathoracic obstruction",
+        "C": "Extrathoracic obstruction",
+        "D": "Fixed"
+      },
+      "correct_answer": "C",
+      "explanation": "The inspiratory flow-volume curve is truncated in patients with variable extrathoracicobstructions.428+II+FlowexpirationTLCRVPaw PatmPaw > PatmInspirationExpirationInspirationVariable extrathoracic• During a forced expiration, the cross-sectional area of a variable extrathoracic obstructionincreases as the pressure inside the airway increases.• The expiratory flow-volume curve is therefore nearly normal or not affected.• However, during a forced inspiration, the pressure inside the upper airway decreases belowatmospheric pressure, and unless the stability of the upper airway is maintained by reflexcontraction of the pharyngeal muscles or by other structures, the cross-sectional area of the upperairway will decrease. Therefore, the inspiratory flow-volume curve is truncated in patients withvariable extrathoracic obstructions.•Flow-volume curves are very useful in assessing obstructions of upper airways and the trachea(refer figure and flowchart).Fixed obstructionObstruction affects bothexpiratory and inspiratoryairflowExample: Foreign bodies orscarring of the airwayUpper respiratory obstructive diseaesVariable obstructionVariable extrathoracicobstructionVariable intrathoracicobstructionInspiratory flow-volume curveis truncated (shortened)Expiratory flow-volume curve istruncatedExample: Flabby pharyngealmuscles (as in obstructive sleepapnoea), vocal cord palsyExample: Tumor in theintrathoracic part of the trachea429Flow-Volume curvesVariable extrathoracicExpirationFlowTLCInspirationVariable IntrathoracicExpirationTRVTLCInspirationFixed (Intra-or extrathoracic)ExpirationTLCRVTLCInspirationTotal lung capacityResidual volumeRVOMARROWRVRV",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q12_img1_89ab1db5.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp12_img1_c26390cd.jpeg",
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following best describes the changes in lung volume and thoracic volume in acase of pneumothorax, compared to normal?",
+      "options": {
+        "A": "lung volume, ↓thoracic volume",
+        "B": "lung volume, thoracic volume",
+        "C": "lung volume, thoracic volume no change",
+        "D": "lung volume, thoracic volume"
+      },
+      "correct_answer": "B",
+      "explanation": "In pneumothorax, lung volume is decreased and thoracic volume is increased.Both lungs and the chest wall (thoracic cage) are elastic structures. Under normal conditions, theelastic tendency of the lungs to collapse is exactly balanced by the elastic tendency of the chestwall to expand.In pneumothorax, air is introduced into the pleural space, so the pleural pressure, which isnormally subatmospheric, becomes equal to atmospheric pressure. The chest wall springsoutward and the lungs collapse. This increases the thoracic volume and decreases the lung.volume.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 14,
+      "question": "A 45-year-old man inhaled as much air as possible and then expired with a maximum effortuntil no more air could be expired. This produced the maximum expiratory flow-volumecurve shown in the following diagram. What is the forced vital capacity of this man (in liters)?420",
+      "options": {
+        "A": "1.5",
+        "B": "2.5",
+        "C": "3.5",
+        "D": "4.5500400Expiratory air flow (L/min)3002001000CO65043210Lung volume (L)"
+      },
+      "correct_answer": "D",
+      "explanation": "The forced vital capacity of this man is 4.5 liters.The forced vital capacity (FVC), the largest amount of air that can be expired after a maximalinspiratory effort, is frequently measured clinically as an index of pulmonary function.Forced vital capacity(FVC) = Total lung capacity (TLC) - Residual volume(RV)•In the flow-volume curve, the point of intersection between abscissa and flow-volume curve givesthe TLC and RV.• From the given flow-volume curve we can note that:•Total Lung Capacity (TLC) = 5.5 L• Residual volume (RV)= 1.0 L• Thus,430• FVC = TLC - RV = 4.5 LExpiratory air flow (L/min)50040030020010006LO54321RV0TLC",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q14_img1_af5b62a7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp14_img1_e61b5cc2.jpeg",
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 15,
+      "question": "A 71-year-old woman presents with cough and shortness of breath. The physician conducts apulmonary function screening test in his office, and the patient generates the maximumexpiratory flow-volume curve shown to the right of the normal curve in the diagram below.These findings are consistent with which of the following conditions?1010Flow (L/s)8002Normal curve8 7654Volume (liter)421321",
+      "options": {
+        "A": "Asbestosis",
+        "B": "Asthma",
+        "C": "Bronchospasm",
+        "D": "Emphysema"
+      },
+      "correct_answer": "A",
+      "explanation": "This is a case of asbestosis.Asbestosis is a restrictive lung disease characterized by diffuse interstitial fibrosis. In restrictivelung disease, the maximum expiratory flow volume (MEFV) curve begins and ends at abnormallylow lung volumes.Note: In obstructive lung diseases, the airways are narrowed or radial traction of the airways isreduced, allowing them to close more easily. The lung volumes in these cases are higher thannormal.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q15_img1_57696c4a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 16,
+      "question": "The maximum expiratory flow-volume (MEFV) curves shown in the figure below wereobtained from a healthy man (purple curve) and a 57-year-old man with shortness of breath(green curve). What is the most probable diagnosis in this patient?",
+      "options": {
+        "A": "Asbestosis",
+        "B": "Emphysema",
+        "C": "Kyphosis",
+        "D": "TuberculosisExpiratory air flow (L/min)500400300200100T076 5 43 21 0Lung volume"
+      },
+      "correct_answer": "B",
+      "explanation": "The green curve in the above image and the case scenario denotes that the diagnosis is likely to beemphysema.Maximum expiratory flow volume (MEFV): When a person expires with great force, the expiratoryairflow reaches a maximum flow beyond which the flow cannot be increased anymore, even withgreatly increased additional force.In obstructive airway disease like Emphysema, it is usually much more difficult to expire than toinspire because the closing tendency of the airways is greatly increased by the extra positivepressure during expiration. Due to the obstruction of the airways and because they collapse moreeasily than normal airways, the maximum expiratory flow rate is greatly reduced (But, total lungcapacity and residual volume is increased) which is shown in the green curve below.Other options given above will cause constricted lungs where the lungs cannot expand to a normalmaximum volume. Hence, even with the greatest possible expiratory effort, the maximum431expiratory flow rate will be reduced. (Note: here both the total lung capacity and the residualvolume are reduced), which is shown as the blue curve in the graph below.Following graph shows the MEFV of restrictive and obstructive lung diseases.Expiratory flow-volume curvesin various diseasesExpiratory air flow (L/min)500400300200TAirwayobstructionNormalR100TLC-°75-3Lung voume (L)TLC Total lung capacityRV - Residual volumeRV-2OMARROWWRestrictivelung disease1",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q16_img1_d8a55123.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_8aac8d1a.jpeg",
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following increases in COPD?",
+      "options": {
+        "A": "1 only",
+        "B": "1 and 4",
+        "C": "1 and 3",
+        "D": "1 and 2422"
+      },
+      "correct_answer": "D",
+      "explanation": "In COPD, the functional residual capacity increases. Total lung capacity may be increased ornormal. Hence, both 1 and 2 are correct.• In obstructive lung diseases, both FEV1 and FVC reduces, where the decrease in FEV1 is morethan the reduction in FVC. As a result, the ratio of FEV1/FVC also decreases.• The total lung capacity is usually normal in chronic bronchitis, while increased in emphysema.•Functional Residual Capacity (FRC) is the volume of air present in the lungs at the end of passiveexpiration. In COPD, FRC is increased.Lung Capacities:The total lung capacity can be broken down into alternative capacities that help to definefunctioning lungs.• The vital lung capacity refers to the maximum amount of air expired from the fully inflated lungor maximum inspiratory level..The inspiratory capacity is the maximum amount of air inspired from the end-expiratory level.• The functional residual capacity represents the volume of the air remaining in the lungs afterexpiration of a normal breath. Functional Residual Capacity (FRC) is expiratory reserve volume +residual volume.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following factors is most likely to stimulate ventilation after strenuous exercise?",
+      "options": {
+        "A": "Collateral impulses from higher than brain centres",
+        "B": "Increased mean arterial H+",
+        "C": "Decreased mean arterial Po2",
+        "D": "Decreased mean arterial Pco2"
+      },
+      "correct_answer": "B",
+      "explanation": "432The stimulus to ventilation after strenuous exercise is increased mean arterial H+.The respiratory rate after exercise does not reach a basal level until the O2 debt is repaid. Thestimulus for ventilation is increased mean arterial H+ due to an increase in blood lactic acidlevels. Most of the lactic acid is converted to glycogen and some amount is converted to CO2 andH2O.433",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Volumes and Lung Function Tests"
+    }
+  ]
+}

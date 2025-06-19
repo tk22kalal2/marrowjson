@@ -1,0 +1,275 @@
+{
+  "chapter": "Vascular System and Regional Circulation I",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The Windkessel effect is seen in",
+      "options": {
+        "A": "Large elastic vessels",
+        "B": "Capacitance vessels",
+        "C": "Shunts",
+        "D": "Capillaries"
+      },
+      "correct_answer": "A",
+      "explanation": "The Windkessel effect refers to the ability of large elastic vessels to distend and increase volume with increasing pressure, and then to recoil and decrease volume with decreasing pressure, thereby helping to smooth out the blood flow to the smaller vessels.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 2,
+      "question": "The greatest total cross-sectional area in the circulatory system is of",
+      "options": {
+        "A": "Aorta",
+        "B": "Capillaries",
+        "C": "Venules",
+        "D": "Vene cavea"
+      },
+      "correct_answer": "",
+      "explanation": "473The greatest total cross-sectional area in the circulatory system is of the capillaries.The total cross-sectional area is minimum for the aorta.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 3,
+      "question": "Largest percentage of blood volume in the circulatory system is in",
+      "options": {
+        "A": "Arteries",
+        "B": "Capillaries",
+        "C": "Veins",
+        "D": "Heart"
+      },
+      "correct_answer": "C",
+      "explanation": "Largest percentage of blood volume in the circulatory system is in veins. Vessels and Percentage of Total Blood Volume: VESSELS - Heart: % OF TOTAL BLOOD VOLUME - 12%, Pulmonary circulation: 18%, Aorta: 2%, Artery: 8%, Arteriole: 1%, Capillary: 5%, Venule, vein, vena cava: 54%",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not correct regarding capillaries?",
+      "options": {
+        "A": "Have a single layer of cells bounding the lumen",
+        "B": "Greatest total cross sectional area",
+        "C": "Contains less blood than veins468",
+        "D": "Contain 25% of blood"
+      },
+      "correct_answer": "D",
+      "explanation": "Capillaries contain 5% of the total blood volume.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 5,
+      "question": "In the circulatory system, the highest velocity of blood flow is in the",
+      "options": {
+        "A": "Aorta",
+        "B": "Capillaries",
+        "C": "Venules",
+        "D": "Vene cavea"
+      },
+      "correct_answer": "",
+      "explanation": "In circulatory system, the highest velocity of blood flow is in the aorta.• The velocity of blood flow is inversely proportional to vascular cross-sectional area.474FAv= velocityF= blood flow through the vesselA=vascular cross-sectional area• Aorta has the least cross sectional area (4.5 cm2) and capillaries have the maximum crosssectional area (4500 cm2). Thus, under resting conditions, the velocity is highest in aorta andleast in capillaries.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_2f18ef01.png",
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 6,
+      "question": "The largest compliance in the circulatory system is of",
+      "options": {
+        "A": "Arteries",
+        "B": "Capillaries",
+        "C": "Veins",
+        "D": "Aorta"
+      },
+      "correct_answer": "C",
+      "explanation": "The largest compliance in the circulatory system is of veins. Vascular compliance/capacitance is the total quantity of blood that can be stored in a given portion of the circulation for each mmHg pressure rise. Vascular Compliance = distensibility X volume. The compliance of a systemic vein is about 24 times that of its corresponding artery because it is about 8 times as distensible and has a volume about 3 times that of an artery (8 × 3 = 24).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 7,
+      "question": "Bernoulli's principle states that",
+      "options": {
+        "A": "Sum of kinetic energy of flow and pressure energy is constant",
+        "B": "Low tones produces maximum stimulation at the apex of cochlea",
+        "C": "Magnitude of sensation felt is proportional to the intensity of stimulus",
+        "D": "Force of contraction is proportional to stretch of the cardiac muscle"
+      },
+      "correct_answer": "",
+      "explanation": "The Bernoulli's theorem states that in a tube or blood vessel, the sum of the kinetic energy of flowand pressure energy is constant.Other options:• Option B: Travelling wave theory (Theories of hearing): Low tones produce maximumstimulation at the apex of the cochlea.475•Option C: Weber-Fechner law: The magnitude of sensation felt is proportional to the log of theintensity of the stimulus.•Option D: Frank-Starling law of the heart: Force of contraction is proportional to stretch of thecardiac muscle.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 8,
+      "question": "The blood flow through a vessel varies directly with",
+      "options": {
+        "A": "Resistance",
+        "B": "Viscosity",
+        "C": "Pressure difference",
+        "D": "Length of the vessel469"
+      },
+      "correct_answer": "",
+      "explanation": "The blood flow through a vessel varies directly with pressure difference.The blood flow follows Ohm's law:Where,•F = Blood flowF =PR• P = Pressure difference between two ends of the vessel• R = Resistance",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_224d102d.png",
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following increases turbulence in blood flow?",
+      "options": {
+        "A": "Increase in diameter of blood vessel",
+        "B": "Reynolds number less than 2000",
+        "C": "Decrease in density of blood",
+        "D": "Decrease in velocity of blood"
+      },
+      "correct_answer": "A",
+      "explanation": "Turbulence in blood flow increases with increase in diameter of blood vessel.The turbulence of flow depends upon Reynold's number:476Re =pvDWhere,v velocity of flow - cm/sec-p - density of bloodd diameter of the vessel-μ- viscosity of blood in poiseTherefore, increase in diameter increases turbulence.Reynold's numberType of blood floW<20002000-3000LaminarTransitional>3000Turbulent",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp9_img1_c4d049af.jpeg",
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 10,
+      "question": "The tendency for turbulent flow is greatest in",
+      "options": {
+        "A": "Arteries",
+        "B": "Capillaries",
+        "C": "Veins",
+        "D": "Aorta"
+      },
+      "correct_answer": "D",
+      "explanation": "The tendency for turbulent flow is greatest in the aorta.The turbulence of flow depends upon Reynold's number:477Re =pvDv velocity of flow - cm/secp-density of bloodd diameter of the vessel-μ - viscosity of blood in poiseIn the proximal portions of the aorta and pulmonary artery, Reynold's number can rise to severalthousand during the rapid phase of the ejection, which causes considerable turbulence due to thefollowing:•High velocity of blood flow• Pulsatile nature of the flow• Sudden change in vessel diameter• Large vessel diameterReynold's numberType of blood floW<20002000-3000LaminarTransitional>3000Turbulent",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp10_img1_2316112f.jpeg",
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 11,
+      "question": "The main site of peripheral vascular resistance is",
+      "options": {
+        "A": "Precapillary arterioles",
+        "B": "Precapillary sphincters",
+        "C": "Capillaries",
+        "D": "Windkessel vessels"
+      },
+      "correct_answer": "A",
+      "explanation": "The main site of peripheral vascular resistance is precapillary arterioles. Poiseuille-Hagen formula explains that small changes in the calibre of vessels cause large changes in total peripheral resistance. 4πr^4 / 8nL = 1/R, Where R = resistance, n = viscosity, L = length of the tube, r = radius of the tube. The resistance varies inversely with the fourth power of the radius.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 12,
+      "question": "The factor favoring filtration at the arterial end of the capillary bed is",
+      "options": {
+        "A": "Increase in interstitial hydrostatic pressure",
+        "B": "Increase in hydrostatic pressure of the capillary",
+        "C": "Increase in oncotic pressure of the capillary",
+        "D": "Decrease in oncotic pressure of the interstitium470"
+      },
+      "correct_answer": "B",
+      "explanation": "The factor favoring filtration at the arterial end of the capillary bed is the increase in hydrostaticpressure of the capillary.The rate of filtration at any point along the capillary bed depends on the balance of the Starlingforces, which are responsible for fluid movement.Net filtration pressure = (Pc-Pi)-(лc- лi)where,Pc-capillary hydrostatic pressurePi-interstitial hydrostatic pressureлс=capillary colloidal osmotic pressureлi=interstitial colloidal osmotic pressureGlomerular filtration rate = k x NFPwhere,k= capillary filtration coefficientNFP= Net filtration pressure479",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following factors tends to increase the lymph flow?",
+      "options": {
+        "A": "Increased capillary hydrostatic pressure",
+        "B": "Increased plasma oncotic pressure",
+        "C": "Decreased capillary permeabilty",
+        "D": "Precapillary constriction"
+      },
+      "correct_answer": "A",
+      "explanation": "The factor tend to increase lymph flow is increase in capillary hydrostatic pressure.Since the lymph is derived from interstitial fluid, any factor that increases interstitial fluidpressure also increases lymph flow provided, the lymph vessels are functioning normally. Thefactors which increase interstitial fluid pressure include:• Increased capillary hydrostatic pressure•• Increased interstitial fluid colloid osmotic pressure• Increased permeability of the capillaries• Decreased plasma colloid osmotic pressureAll of the above factors increase the filtration at the capillary-interstitium interface and thereforeincrease the interstitial fluid volume and pressure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 14,
+      "question": "The coronary blood flow is regulated by",
+      "options": {
+        "A": "Adenosine",
+        "B": "Bradykinin",
+        "C": "Prostaglandin",
+        "D": "Increased arterial pCO2."
+      },
+      "correct_answer": "A",
+      "explanation": "Coronary blood flow is regulated by adenosine.Blood flow through the coronary system is regulated mostly by local arteriolar vasodilation inresponse to the nutritional needs of cardiac muscle.↑local metabolism →↓in 02 → breakdown of ATP to form adenosine → vasodilation →↑localcoronary blood flow.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 15,
+      "question": "True about coronary flow during systole is:",
+      "options": {
+        "A": "No change in flow with systole.",
+        "B": "Increased in flow with systole.",
+        "C": "Greater decrease in subendocardium than epicardium.",
+        "D": "Greater decrease in epicardium than in subendocardium."
+      },
+      "correct_answer": "C",
+      "explanation": "The coronary blood flow in systole has a greater decrease in subendocardium than epicardium.The myocardial compression in systole compresses the subendocardial vessels to a greater extent,and the force is sufficiently dissipated in the epicardium to permit some flow in this regionthroughout the cardiac cycle.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 16,
+      "question": "Based on the agglutination test shown below, what is the blood group?",
+      "options": {
+        "A": "B positive",
+        "B": "A positive",
+        "C": "O positive",
+        "D": "AB positive B Rh"
+      },
+      "correct_answer": "C",
+      "explanation": "Based on the agglutination test shown in the image, the blood group is O positive. As agglutination is present only in 'Rh' and not with 'A' and 'B', hence the blood group is O Rh positive. Agglutination absent, Agglutination present, Agglutination absent, AB Rh O, arrow O+ blood group.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q16_img1_4c79056c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_702ba9c5.jpeg",
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following clotting factors would have decreased gamma carboxyglutamateresidue in a patient on warfarin therapy?",
+      "options": {
+        "A": "Factor 2",
+        "B": "Factor 11",
+        "C": "Tissue factor",
+        "D": "Factor 5"
+      },
+      "correct_answer": "A",
+      "explanation": "Factor 2 would have decreased gamma carboxyglutamate residue in a patient on warfarin therapy.Activation of coagulation factors II, VII, IX, X is done by carboxylation of their glutamateresidues. This is done by the enzyme y-glutamyl carboxylase with the reduced form of vitamin Kas a co-factor.This reduced form of vitamin K needs to be constantly recycled back from its oxidized form for thereaction to continue. This recycling is done by the enzyme vitamin K epoxide reductase. Thisenzyme is inhibited by warfarin.Hence, warfarin indirectly inhibits the y-carboxylation of vitamin K dependent clotting factors- Factors II, VII, IX, X by directly inhibiting vitamin K epoxide reductase. Thus leading todecreased gamma carboxyglutamate residue in these factors.Vitamin K cycleGlutamic acidresidues of FactorsII, VII, IX, Xy-carboxyglutamateof Factors II, VII, IX, XReducedVitamin K(Hydroquinone)Vitamin KepoxideMERRERROWNADP+Vitamin KreductaseEpoxidereductaseNADPHOxidized Vitamin K(Quinzone)OMARROW481DicoumarolWarfarin",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp17_img1_044c1b12.jpeg",
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following has the highest oxygen concentration in fetal circulation?",
+      "options": {
+        "A": "Inferior vena cava",
+        "B": "Right atrium",
+        "C": "Superior vena cava",
+        "D": "Ascending aorta"
+      },
+      "correct_answer": "A",
+      "explanation": "Inferior vena cava has the highest oxygen concentration in fetal circulation. The blood gets oxygenated in the placenta and this passes to the umbilical vein. From the umbilical vein, 50% of the blood enters the hepatic circulation and 50% bypasses the liver to enter the inferior vena cava. From here, the blood enters the heart via the right atrium. The right atrium also receives deoxygenated blood from the superior vena cava. This mixed blood is distributed to the body via the aorta. Therefore, inferior vena cava has the highest concentration of oxygen in the fetal circulation.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_fef7f001.jpeg",
+      "chapter_heading": "Vascular System and Regional Circulation I"
+    }
+  ]
+}

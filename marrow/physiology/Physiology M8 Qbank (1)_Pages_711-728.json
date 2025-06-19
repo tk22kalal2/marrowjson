@@ -1,0 +1,380 @@
+{
+  "chapter": "The Pancreas",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which scientists were awarded the Nobel Prize for the discovery of insulin?",
+      "options": {
+        "A": "Banting and Best",
+        "B": "Sanger",
+        "C": "Banting and McLeod",
+        "D": "Collip and McLeod"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 2,
+      "question": "For cells of islets of Langerhans, which of the following is correctly matched?",
+      "options": {
+        "A": "-somatostatin",
+        "B": "D-glucagon",
+        "C": "F- pancreatic polypeptide",
+        "D": "A - insulin"
+      },
+      "correct_answer": "C",
+      "explanation": "The correctly matched pair is F-Pancreatic polypeptide.Cells of the endocrine pancreas are divided into:The close interrelations among these cells allow direct control of secretion of some of thehormones by the other hormones. For example:•• Insulin inhibits glucagon secretion,•Amylin inhibits glucagon secretion, and• Somatostatin inhibits secretion of insulin and glucagon.Cell typeWhat they secreteA (alph Glucagona)B (beta) Insulin and amylin718Cell tyWhat they secretepeD (deltSomatostatina)For PPPancreatic polypeptid",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 3,
+      "question": "A 21-year-old female is found in a semiconscious state. On initial evaluation, her CBG is23mg/dL. Her parents tell that the patient is an athlete and was trying to gain weight recently.An evaluation of which of the following will help in establishing a diagnosis?",
+      "options": {
+        "A": "Pancreatic polypeptide",
+        "B": "Glucagon",
+        "C": "Somatostain",
+        "D": "C peptide"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical vignette strongly suggests hypoglycemia due to surreptitious use of exogenousinsulin, characterized by a low C-peptide level.Insulin abuse is a method for increasing muscle bulk and performance enhancement in athletes,although less common than anabolic steroid abuse. Exogenous insulin does not contain C-peptide.Therefore blood level of C-peptide will be low in such patients. On the other hand, endogenousproduction of insulin will be characterized by high C-peptide level in blood.C-peptideStructure of ProinsulinA chain (21 amino acids)SB chain (30 amino acids)OMARROWInsulin is composed of two chains A and B, and a connecting peptide called C peptide. The insulinand C peptide are packaged in the secretory granules and secreted in equimolar amounts.Importance of C-peptide:•C peptide is measured by radioimmunoassay, and its level in the blood provides an index ofbeta-cell function in patients receiving exogenous insulin. If they are unable to produce insulin,they have greatly decreased levels of C peptide.•⚫ C peptide levels can be used to differentiate between an insulinoma (high C-peptide) andexogenous insulin overdose (low C-peptide) in a patient with hypoglycemia.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp3_img1_d62b5c0e.jpeg",
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 4,
+      "question": "The half-life of insulin isminutes?",
+      "options": {
+        "A": "1-2",
+        "B": "4-6711",
+        "C": "10-12",
+        "D": "12-16"
+      },
+      "correct_answer": "B",
+      "explanation": "719The half-life of insulin is 4-6 minutes.Insulin is degraded by the insulinase enzyme in the liver, and to a lesser extent, in the kidneys andmuscles.Note: Half-life of C-peptide is 20-30 minutes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 5,
+      "question": "A 40-year-old diabetic man is initiated on a new hypoglycemic drug whose mechanism ofaction is extremely similar to the glucose-mediated insulin release mechanism. Which of thefollowing best represents its mode of action?",
+      "options": {
+        "A": "Closes ATP sensitive K+ channels.",
+        "B": "Increases cAMP level in cell",
+        "C": "Participates in carrier mediated transport",
+        "D": "Causes receptor phosphorylation"
+      },
+      "correct_answer": "",
+      "explanation": "Glucose-mediated insulin release occurs through the closure of ATP sensitive K+ channels.Therefore the new drug being initiated is most probably a sulfonylurea which acts via a similarmechanism.Increased blood glucose concentration is the primary controller of insulin secretion. Inside thebeta cells, glucose is converted to glucose-6-phosphate and later ATP is generated. This ATP closesATP sensitive potassium channels, leading to a rise in K+ and depolarization. This in turn causesthe opening of voltage-gated Ca 2+ channels and influx of Ca+. This ultimately leads to thesecretion of insulin via exocytosis.GLUT 2.receptorK+ATPMechanism of insulin secretionGlucoseMetabolismATPProductionOWATP ClosesK+ Channeland causingdepolarizationCa+2Calciumactivatesinsulin geneexpressionVoltage-gatedCa opensOMARROWExocytosisof storedinsulinDiazoxide keeps the ATP sensitive K+ channels open and prevents depolarization, resulting in adecreased insulin release. It is used in patients with insulinoma.Sulfonylureas cause closure of the ATP sensitive K+ channels, leading to increased insulinsecretion. It is used in patients with diabetes mellitus.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_b6491662.jpeg",
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 6,
+      "question": "Insulin mainly facilitates glucose uptake in which of the following?",
+      "options": {
+        "A": "Brain",
+        "B": "Skeletal muscle",
+        "C": "RBC",
+        "D": "Kidney"
+      },
+      "correct_answer": "B",
+      "explanation": "Insulin mainly stimulates glucose uptake by skeletal muscles.Glucose uptake by skeletal muscle, cardiac muscle and adipose tissues is via GLUT-4 which isinsulin-dependent. In the presence of insulin, GLUT-4 receptors translocate to the cell membrane720and hence, glucose uptake by the cell occurs.Most of the other GLUT transporters are not insulin sensitive and are constitutively expressed inthe cell membrane. Ex: GLUT-1 in RBCs, brain and kidneys. (GLUT-3 is also present in the brainand kidneys)Note: Insulin promotes glucose uptake in the liver. However, this is done by increasing the activityof glucokinase and inactivating glycogen phosphorylase. The net effect is the synthesis of glycogenand decreased breakdown of glycogen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 7,
+      "question": "Insulin acts on glucose metabolism by",
+      "options": {
+        "A": "↑ facilitated diffusion of glucose↓",
+        "B": "permeability of glucose across cell membrane",
+        "C": "↑ reabsorption of glucose from renal tubules.↑",
+        "D": "glucose reabsorption from intestine"
+      },
+      "correct_answer": "A",
+      "explanation": "Insulin stimulates the glucose entry into the cells via facilitated diffusion by increasing thenumber of glucose transporters (GLUTS) in the cell membrane.This type of insulin-dependent glucose transport via GLUT 4 is observed in skeletal muscle,cardiac muscle, and adipose tissues.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 8,
+      "question": "A 45-year-old diabetic man develops a gradually increasing demand for exogenoussubcutaneous insulin therapy for glycemic control. His current insulin requirement is 130IU/day. Downregulation of which of the following is associated with his condition?712",
+      "options": {
+        "A": "GLUT 1",
+        "B": "GLUT 2",
+        "C": "GLUT 3",
+        "D": "GLUT 4"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical vignette is suggestive of insulin resistance, which is characterized by thedownregulation of GLUT-4.GLUT-4 is an insulin-dependent GLUT. Other GLUTs are not insulin sensitive and areconstitutively expressed in the cell membrane.An arbitrary but clinically useful benchmark considers patients insulin resistant if they requiregreater than 1 unit/kilogram/day of exogenous insulin to maintain glycemic control. Patientsrequiring greater than 200 units of exogenous insulin per day are considered severely insulinresistant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 9,
+      "question": "A 40-year-old man presented with diabetic ketoacidosis. After the initial evaluation, he isstarted on intravenous insulin therapy via an infusion pump. He is at increased risk ofdeveloping which of the following electrolyte abnormalities?",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Hypokalemia",
+        "C": "Hypernatremia",
+        "D": "Hyponatermia"
+      },
+      "correct_answer": "B",
+      "explanation": "In patients who require intravenous insulin therapy, a rapid insulin infusion results inhypokalemia.Therefore such patients should undergo serum electrolyte level assessment at frequent intervalswhile on insulin infusion for prompt diagnosis and early correction of hypokalemia.Insulin increases the activity of Na-K ATPase in cell membranes so that more K+ is pumped intocells. Hence, serum K+ falls.Note: Since insulin decreases serum potassium level, insulin-glucose infusions are used to treathyperkalemia.721",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following increases insulin secretion?",
+      "options": {
+        "A": "Arginine",
+        "B": "Propranolol",
+        "C": "Epinephrine",
+        "D": "K+ depletion"
+      },
+      "correct_answer": "A",
+      "explanation": "Arginine increases insulin secretion.Option B: B-adrenergic blockers like propranolol inhibits insulin secretion.Option C: Epinephrine both stimulates (by beta-adrenergic agonistic action) and inhibits (byalpha-adrenergic agonistic action) the secretion of insulin. However, the inhibitory effect ofepinephrine is more dominant than the stimulatory effect.Option D: Insulin promotes glucose uptake by cells, causing reduced serum K+. Low serum K+does not cause an increase in insulin secretion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 11,
+      "question": "Sympathetic stimulation has the following effect on insulin secretion",
+      "options": {
+        "A": "Inhibition",
+        "B": "Stimulation",
+        "C": "Inhibition followed by stimulation",
+        "D": "No effect"
+      },
+      "correct_answer": "A",
+      "explanation": "Sympathetic stimulation inhibits insulin secretion.responseThe regulation of insulin secretion can be controlled by alpha-adrenergic mediatedand beta-adrenergic mediated response. The stimulation of alpha-adrenergic receptor (° 2) playsan inhibitory role in insulin secretion. On the other hand, the stimulation of beta-adrenergicreceptor (ẞ2) plays a stimulatory role in insulin secretion.Stimulation of the sympathetic nerves to the pancreas releases norepinephrine whichpredominantly acts on ° 2-adrenergic receptors, causing a decrease in insulin secretion.Note: If-adrenergic receptors are blocked, stimulation of the sympathetic nerves causesincreased insulin secretion mediated by ẞ2-adrenergic receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following decreases the secretion of both insulin and glucagon?713",
+      "options": {
+        "A": "Epinephrine",
+        "B": "Somatostatin",
+        "C": "blood glucose",
+        "D": "None"
+      },
+      "correct_answer": "B",
+      "explanation": "Somatostatin inhibits insulin and glucagon secretion.Note: Other actions of somatostatin:••Inhibits growth hormone secretion. Somatostatin is also known as growth hormone inhibitoryhormone (GHIH).Decreases motility of the stomach, duodenum, and gallbladder.• Decreases both secretion and absorption in the gastrointestinal tract.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 13,
+      "question": "Insulin secretion is normally stimulated by.",
+      "options": {
+        "A": "GLP 1",
+        "B": "GLP 2",
+        "C": "VIP",
+        "D": "Adrenergic receptor"
+      },
+      "correct_answer": "A",
+      "explanation": "Insulin secretion is normally stimulated by GLP-1.Glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic peptide (GIP) are calledincretins and are potent stimulators of insulin secretion. They also inhibit glucagon secretion.They are released in the gastrointestinal tract after a person eats a meal. They then cause an\"anticipatory\" increase in blood insulin in preparation for the glucose and amino acids to be722absorbed from the meal.Note: Drugs that mimic the action of incretins are used in the management of diabetes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following compounds antagonizes the action of insulin?",
+      "options": {
+        "A": "Neuropeptide Y",
+        "B": "Growth Hormone",
+        "C": "Substance P",
+        "D": "Vasoactive Intestinal Peptide (VIP)"
+      },
+      "correct_answer": "B",
+      "explanation": "Growth hormone is a hyperglycemic hormone and antagonizes the effect of insulin.•Hyperglycemic HormonesGlucagon⚫ Epinephrine• Cortisol• Growth hormoneThyroid Hormone",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 15,
+      "question": "In fetus, the insulin secretion begins by",
+      "options": {
+        "A": "5",
+        "B": "3",
+        "C": "7",
+        "D": "9_(months)"
+      },
+      "correct_answer": "",
+      "explanation": "In a fetus, the pancreatic islets are formed in the third month of the fetal life, while insulinsecretion begins at about 5th month of fetal life.The exocrine pancreas starts functioning after birth.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 16,
+      "question": "How many parts are there in insulin receptor?",
+      "options": {
+        "A": "1714",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "A",
+      "explanation": "An insulin receptor has 4 parts. It is a tetramer made up of two ° and two ẞ subunits.The ° subunits are extracellular, whereas the ẞ subunits penetrate through the cell membraneinto the cytoplasm. The intracellular portions of the ẞ subunits have tyrosine kinase activity.Once insulin binds to the alpha subunits, the portions of the beta subunits protruding into the cellbecome autophosphorylated. Autophosphorylation of the beta subunits, in turn, activates a localtyrosine kinase, which causes phosphorylation of multiple intracellular enzymes. The net effect isto activate some of these enzymes while inactivating others.723Insulin receptorMAI-InsulinS-SS-S S-SOWATPTyrosinekinasedomainsADPOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_c20f2688.jpeg",
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 17,
+      "question": "Regarding the action of insulin, which of the following is true?",
+      "options": {
+        "A": "Decreased K+ uptake in adipose tissue",
+        "B": "Increased protein catabolism in Muscle",
+        "C": "Activation of hormone sensitive lipase",
+        "D": "Decreased ketogenesis in liver"
+      },
+      "correct_answer": "D",
+      "explanation": "Insulin decreases ketogenesis in the liver. In the absence of insulin (Type-1 DM), diabetic ketosismay occur.Effects of insulin on various tissues:TissueAdipose tissueMuscleLiverGeneralIncreasesIncreased glucose entryIncreased fatty acid synthesis Increased glycerol phosphate synthesis Increased triglycerides depositionActivation of lipoprotein lipaseIncreased K+ uptakeIncreased glucose entryIncreased glycogen synthesis Increased amino acid uptakeIncreased protein synthesis in ribosomeIncrease ketone uptakeIncrease K+ uptakeIncreased protein synthesisIncreased lipid synthesis Increased glycogen synthesis & glycolysisIncreased cell growthDecreasesInhibition of hormone-sensitive lipaseDecrease protein catabolismDecrease release of glucogenic amino acidsDecrease ketogenesis Decreased glucose output due to decreased gluconeogenesis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 18,
+      "question": "On giving a patient insulin, which of the following is expected to occur first?",
+      "options": {
+        "A": "Increased transport of K+ into adipocytes.",
+        "B": "Stimulation of protein synthesis",
+        "C": "Activation of glycolysis",
+        "D": "Increase in mRNA for lipolysis"
+      },
+      "correct_answer": "A",
+      "explanation": "724Increased transport of K+ into adipocytes will occur first on giving an injection of insulin.Based on time on onset, actions of insulin are classified as:Rapid (seconds): Increased permeability, leading to:•Increased transport of glucose, amino acids, and K+ into insulin sensitive cellsIntermediate (minutes): Changes in activity levels of intracellular enzymes, leading to:• Stimulation of protein synthesis• Inhibition of protein degradation••Activation of glycolytic enzymes and glycogen synthase• Inhibition of phosphorylase and gluconeogenic enzymesDelayed (hours to days): Changed rates of transcription of DNA, leading to:• Increase in mRNAs for lipogenic and other enzymes",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is incorrectly paired?",
+      "options": {
+        "A": "Epinephrine: increased glycolysis",
+        "B": "Insulin: increased protein synthesis",
+        "C": "Glucagon: increased gluconeogenesis",
+        "D": "Thyroxine: decrease blood glucose"
+      },
+      "correct_answer": "D",
+      "explanation": "The incorrect pair is thyroxine - decreased blood glucose. Thyroxine is a diabetogenic hormoneleading to an increase in blood glucose levels.•Effects Of Hormones On Carbohydrate Metabolism:Catecholamines: Activation of glycogen phosphorylase and therefore glycogenolysis occurs.Hepatic glucose output is increased, producing hyperglycemia.• Glucocorticoids: Glucocorticoids from the adrenal cortex elevate blood glucose by stimulatinggluconeogenesis and inhibiting glucose utilization by the cells.•Growth Hormone: The effects of growth hormone are partly direct and partly mediated via IGF-I(Insulin-like Growth Factor-I). The growth hormone mobilizes FFA from adipose tissue, thusfavoring ketogenesis. It decreases glucose uptake into some tissues (\"anti-insulin action\"),increases hepatic glucose output, and may decrease tissue binding of insulin.Note: Infusing catecholamine (Epinephrine) mainly promotes glycogenolysis and it is alsoassociated with enhanced rates of aerobic glycolysis in skeletal muscles during exercise (resultingin adenosine triphosphate production).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 20,
+      "question": "A meal rich in insulin-stimulating amino acids but low in carbohydrates does not causehypoglycemia because",
+      "options": {
+        "A": "Cortisol in the circulation prevents glucose from entering muscle.715",
+        "B": "Glucagon secretion is also stimulated by the meal.",
+        "C": "The amino acids in the meal are promptly converted to glucose.",
+        "D": "Insulin does not bind to insulin receptors if the plasma concentration of amino acids iselevated."
+      },
+      "correct_answer": "B",
+      "explanation": "A meal rich in arginine and alanine stimulates both insulin and glucagon secretion. Hence,hypoglycemia does not occur.Increased blood amino acids stimulate secretion of glucagon, which in turn causes the aminoacids to get converted to glucose. So, the mechanism by which hypoglycemia is prevented after aprotien rich meal is secretion of glucagon.725",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following would be least likely seen 14 days after a rat is injected with a drugthat kills all of its pancreatic ẞ cells?",
+      "options": {
+        "A": "A rise in the plasma H+ concentration",
+        "B": "A rise in the plasma amino acid concentration",
+        "C": "A fall in the plasma amino acid concentration",
+        "D": "A rise in plasma osmolality"
+      },
+      "correct_answer": "",
+      "explanation": "A fall is plasma amino acid concentration is least likely to be seen in this case.Injury to the beta cells of the pancreas impairs insulin production rendering the rat insulindeficient. Due to insulin deficiency, catabolism of proteins increases and amino acids in plasmaincrease.Insulin deficiency increases blood glucose levels, which lead to glycosuria and osmotic diuresiswith extracellular dehydration. There is increase in the plasma osmolality.Insulin deficiency causes increased utilization of fats, excess production of ketoacids andmetabolic acidosis. Metabolic acidosis - a rise in the plasma H+ develops.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following is an action of insulin?",
+      "options": {
+        "A": "Activation of liver phosphorylase",
+        "B": "Decreased activity of glucokinase",
+        "C": "Decreased activity of glycogen synthase",
+        "D": "Inhibition of glucose 6-phosphatase"
+      },
+      "correct_answer": "C",
+      "explanation": "Insulin inhibits glucose-6-phosphatase.Insulin promotes liver uptake, storage, and the use of glucose. After a meal, insulin causesglucose to be rapidly stored in the liver in the form of glycogen. This occurs by:• Inactivation of liver phosphorylase, which is the principal enzyme that causes liver glycogen tosplit into glucose.• Enhanced uptake of glucose by the liver cells by increasing the activity of the enzymeglucokinase which causes phosphorylation of glucose after it enters the liver cells. Oncephosphorylated, the glucose is temporarily trapped inside the liver cells because phosphorylatedglucose cannot diffuse back through the cell membrane.• Increased activity of enzymes that promote glycogen synthesis, like glycogen synthase.When insulin levels drop (Ex: Fasting), glucose phosphatase gets activated. This causes phosphateto get detached from glucose phosphate, allowing free glucose from the liver cells to re-entercirculation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 23,
+      "question": "A 30 yr old male presents with recurrent attacks of sweating and dizziness. Further workupreveals hypoglycemia, elevated insulin and C-peptide levels. He is diagnosed with insulinomaand given diazoxide. Which of the following is the mechanism of action of this drug?",
+      "options": {
+        "A": "Opening of the ATP Sensitive K+ channels",
+        "B": "Closing of the ATP Sensitive K+ channels",
+        "C": "Increase in number of GLUT-4 receptors",
+        "D": "Opening of the voltage sensitive Ca2+ channels"
+      },
+      "correct_answer": "",
+      "explanation": "Diazoxide acts by opening ATP sensitive K+ channels and causing a decrease in insulin secretion.Glucose enters beta cells of the pancreas via GLUT-2 receptors. Once inside, it is phosphorylatedby glucokinase (rate-limiting step) to glucose-6-phosphate which is oxidized to form adenosinetriphosphate (ATP). This ATP causes closure of ATP-sensitive potassium channels and hencedepolarization. This leads to opening voltage-gated calcium channels and Ca2+ influx. Thisstimulates fusion of the insulin-containing vesicles with the cell membrane and secretion ofinsulin into the extracellular fluid by exocytosis.Diazoxide keeps the ATP sensitive K+ channels open and prevents depolarization and subsequentinsulin release.Sulfonylureas cause closure of the ATP sensitive K+ channels, leading to increased insulinsecretion.726GLUT 2.receptorMechanism of insulin secretionGlucoseMetabolismATPProductionK+ATPtATP ClosesK+ Channeland causingdepolarizationCa+2Calciumactivatesinsulin geneexpressionVoltage-gatedCa opensOMARROWWExocytosisof storedinsulin",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp23_img1_edfe3f84.jpeg",
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 24,
+      "question": "716Coma occurs at a glucose level below",
+      "options": {
+        "A": "30 mg/dl",
+        "B": "45 mg/dl",
+        "C": "15 mg/dl",
+        "D": "5 mg/dl"
+      },
+      "correct_answer": "A",
+      "explanation": "Coma occurs when glucose levels fall below 30 mg/dL.Effects of hypoglycemia and plasmaglucose levelsmmol/Lmg/dl904.6753.8603.22.8452.21,7301.1150.6Insulin secretion inhibitedGrowth hormone, glucagon,epinephrine secretedCortisol secretionCognitive dysfunctionVLethargyComaConvulsionsPermanent neuronal damage,deathMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp24_img1_5d2e6da6.jpeg",
+      "chapter_heading": "The Pancreas"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following hormones use receptor tyrosine kinase signalling?",
+      "options": {
+        "A": "Insulin",
+        "B": "TSH",
+        "C": "TRH",
+        "D": "MSH"
+      },
+      "correct_answer": "A",
+      "explanation": "Insulin uses the receptor tyrosine kinase signalling to exert its functions.Other hormones acting in a similar fashion includes• Growth hormone• Growth factors like VEGF, PDGF, FGF, NGF727• Prolactin•• Leptin728",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Pancreas"
+    }
+  ]
+}

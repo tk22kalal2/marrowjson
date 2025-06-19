@@ -1,0 +1,530 @@
+{
+  "chapter": "Muscle Physiology I",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "All of the following are the connective tissue layers of the skeletal muscle except",
+      "options": {
+        "A": "Endomysium",
+        "B": "Sarcolemma",
+        "C": "Perimysium",
+        "D": "Epimysium"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp1_img1_afc3e011.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is a regulatory muscle protein?",
+      "options": {
+        "A": "Actin",
+        "B": "Tropomodulin",
+        "C": "Tropomyosin",
+        "D": "Dystrophin"
+      },
+      "correct_answer": "B",
+      "explanation": "Tropomyosin is a regulatory muscle protein.It extends over the entire actin filament and covers the myosin-binding sites on the actinmolecules thus preventing the attachment of actin to myosin.One molecule covers 7 active sites on actinClassification of muscle proteinsMuscle proteinsContractileActinMyosinRegulatoryTroponinTropomyosinMARROMARROWStructuralTitinDystrophinActininand Cap ZNebulinTropomodulinMyomesinTroponin is another regulatory protein. Troponin molecules are small globular units located atintervals along the tropomyosin molecules. Each of the three troponin subunits has a uniquefunction:•Troponin T binds the troponin components to tropomyosin.•⚫ troponin I inhibits the interaction of myosin with actin.137• troponin C contains the binding sites for the Ca2+ that helps initiate contraction.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_5d7736ee.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following does not belong to dystrophin-glycoprotein complex?",
+      "options": {
+        "A": "Perlecan",
+        "B": "Dystrophin",
+        "C": "Dystroglycan",
+        "D": "Sarcoglycan"
+      },
+      "correct_answer": "A",
+      "explanation": "Perlecan is a large extracellular matrix proteoglycan that plays a crucial role in tissue developmentand organogenesis.Dystrophin-glycoprotein complex• The dystrophin-glycoprotein complex provides a structural link between the cytoskeleton of themuscle cell and the extracellular matrix, which appears to stabilize the sarcolemma, adds strengthto the muscle by providing a scaffolding for the fibrils and prevents contraction-induced injury(rupture).•Organisation of DG complex• Dystrophin connects F-actin to the transmembrane protein ẞ-dystroglycan via smaller proteinscalled Syntrophins.•This ẞ-dystroglycan, in turn connects to the merosin subunit of laminin 211 in the extracellularmatrix via ° -dystroglycan.• The dystroglycans are also associated with a complex of four transmembrane glycoproteins, ° -,B-, y-, and 8-sarcoglycan and sarcospan.Dystrophin-glycoprotein complexẞ1Laminin 2SarcoglycancomplexSarcospan000 Ra2Functionally importantcarbohydrate side chainsB-DystroglycansDystrophinF-ActinSyntrophinsOMARROWAPPLIED ASPECT•⚫ Duchenne Muscular Dystrophy• X-linked recessive disorder• Deletion of DMD gene which codes for Dystrophin• Becker muscular Dystrophy• Dystrophin is present but altered or reduced in amount138•Limb Girdle Dystrophy• Sarcoglycan is mutated",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp3_img1_9491d693.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 4,
+      "question": "Thin filaments consists of all of the following except",
+      "options": {
+        "A": "Actin",
+        "B": "Myosin",
+        "C": "Troponin126",
+        "D": "Tropomyosin"
+      },
+      "correct_answer": "B",
+      "explanation": "Myosin forms the thick filament, while actin, troponin, and tropomyosin form the thin filament.Thin Filaments in Sarcomere••The thin filaments are polymers made up of two chains of actin that form a long double helix.Tropomyosin molecules are long filaments located in the groove between the two chains in theactin.••Each thin filament contains 300-400 actin molecules and 40-60 tropomyosin molecules.Troponin molecules are small globular units located at intervals along the tropomyosinmolecules.• Each of the three troponin subunits has a unique function:•Troponin T binds the troponin components to tropomyosin.⚫ Troponin I inhibits the interaction of myosin with actin.••Troponin C contains the binding sites for the Ca 2+ that helps to initiate contraction.SarcomereH zoneZ lineM lineZ lineLighter I bandDarker A band Lighter I bandPortion of athick filamentPortion of athin filament| TroponinActinActin-binding sitesHeadATP-binding siteTailHeadsMyosin moleculeFlexible hinge regionTropomyosinBinding siteActin subunitsfor myosin",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp4_img1_9c9191c5.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following proteins is present in skeletal muscles, but absent in a smoothmuscle?",
+      "options": {
+        "A": "Troponin",
+        "B": "Tropomyosin",
+        "C": "Actin",
+        "D": "Myosin"
+      },
+      "correct_answer": "",
+      "explanation": "Actin, myosin, and tropomyosin are present in both skeletal muscle and smooth muscle. Buttroponin is absent and calmodulin is present in smooth muscle.139",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 6,
+      "question": "Myosin filament has a fixed length of",
+      "options": {
+        "A": "16 nanometers",
+        "B": "1.6 micrometers1.6 nanometersd) 16 micrometersQuestion 7:The thick filament is made up ofmyosin 3. Dystrophin 4. Titina) 1, 3 and 4b) 2, 3 and 4",
+        "C": "1 and 2",
+        "D": "3 and 41. Heavy chain of myosin 2. Light chain of"
+      },
+      "correct_answer": "B",
+      "explanation": "The total length of each myosin filament is uniform, almost exactly 1.6 micrometers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 8,
+      "question": "Pseudo H zone in a sarcomere extends between the",
+      "options": {
+        "A": "Two Z lines",
+        "B": "Two I bands127",
+        "C": "Two sides of M line",
+        "D": "A and I band"
+      },
+      "correct_answer": "C",
+      "explanation": "Pseudo H-zone is the light area between the two sides of M line due to reversal of polarity of themyosin molecules in each of the thick filaments.Sarcomere• The sarcomere is the contractile unit of the skeletal muscle fibre.• Z line: provides attachment to actin filaments. The area between two adjacent Z lines is calledthe sarcomere.• It is composed of thick and thin filaments:• Thick filament Myosin• Thin filaments Actin, tropomyosin and troponin• I band:•Isotropic to light.•• Only thin filaments.•⚫ Half lies in one sarcomere and half in the next.• A band:Anisotropic to light.•Myosin plus overlapped actin.140• H bands:•lighter area in the centre of A band, when the muscle is relaxed, the thin filaments do notoverlap the thick filaments..• Only Myosin• Pseudo H: light portion on two sides of M line because of absence of cross bridges (no myosinhead).• M line: centre of A band. Here there are slender cross-connections that hold the thick filamentsin proper array.Structure of a myofibrilI bandA bandHHH ZoneThin filamentFThick filament-Z lineThick filamentActin binding sitesATP binding sitesTailM lineSarcomereHeadHeadsMyosinFlexible hingemoleculeregionTroponinZ lineThin filamentBinding sitefor myosinMARROWActinEEEETropomyosinActinsubunitsL",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_c6e0ecfa.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 9,
+      "question": "A cross-sectional view of a skeletal muscle fiber through the H zone would reveal theof",
+      "options": {
+        "A": "Actin and Titin",
+        "B": "Actin and Myosin",
+        "C": "Myosin only",
+        "D": "Actin only"
+      },
+      "correct_answer": "C",
+      "explanation": "H zone is the central region of the A band which is lighter than the outer edges of the A bandbecause the H zone is occupied by thick filaments only (No cross bridges)In the figure, note the section through various levels and the myofilaments observed.•Section through I band → only actin (thin filament)•Section through A band (Exlcuding H zone) → Actin and Myosin• Section through H zone →only myosin (thick filament)• Section through M line thick filament linked with accessory proteins•Section at AI junction → both actin and myosin141SarcomereZ lineZ lineThin filamentsThick filamentsH zoneI bandA bandI band",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp9_img1_d11921a8.png",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 10,
+      "question": "The titin protein present in the muscle fiber binds",
+      "options": {
+        "A": "The tail ends of actin filaments to Z disc",
+        "B": "The head ends of myosin filaments to the Z disc",
+        "C": "The tail ends of myosin filaments to M disc",
+        "D": "The myofibrils to each other, and also to the cell membranepresence"
+      },
+      "correct_answer": "A",
+      "explanation": "The titin protein present in the muscle fiber binds the head ends of myosin filaments to the Z discSeveral proteins other than actin and myosin are also present in the muscle. Some of theminclude:1. Titin:• It is the largest known protein.•It runs between the M line and Z disc and binds the head ends of myosin filaments to the Z disc.• It has a tethered portion in the A band, where it is attached to the myosin filament and an elasticportion in the I band.• The elastic property of the titin causes elastic recoil of the sarcomere and prevents it from beingoverstretched.2. Nebulin:• It extends from the Z disc and runs along the full length of each actin filament.• It regulates the length of the actin filaments.3. ° -actinin:• It is a component of the Z discs• It binds the plus ends of actin filaments to this disc.4. Myomesin• It is present in the region of the M line.• It maintains the regular lattice arrangement of the myosin filaments in this region.5. Desmin:142• It is an intermediate filament characteristic of the muscle• It encircles the myofibrils near the Z disc and binds myofibrils to each other and also to the cellmembrane.6. Dystrophin:•It is present in the periphery of the muscle fiber, towards the cytoplasmic face of thesarcolemma.• It binds to the actin filaments and the glycoprotein complex, consisting of dystroglycan andsarcoglycan that spans the sarcolemma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is the constituent of the marked area in the electron microscopicpicture of muscle?128",
+      "options": {
+        "A": "Alpha actinin",
+        "B": "Actin",
+        "C": "Titin",
+        "D": "Tropomyosin"
+      },
+      "correct_answer": "A",
+      "explanation": "Alpha actinin is the constituent of the marked area.The image depicts sarcomere and the arrow points towards Z-line. Alpha actinin binds actin toZ-lines.MyosinBandSarcomereBANDHBandABandZ LineActinThe orderly arrangement of actin, myosin, and related proteins that produces this pattern. Thearea between two Z-lines is called sarcomere.The thick filaments, which are about twice the diameter of the thin filaments, are made up ofmyosin, which are lined to form A bands; the thin filaments are made up of actin, tropomyosin,and troponin. The array of thin filaments extends out of the A band and into the less densestaining I bands.The lighter H bands in the center of the A bands are the regions where, when the muscle isrelaxed, the thin filaments do not overlap the thick filaments. The Z lines allow for anchoring ofthe thin filaments.Actinin, titin and desmin are additional structural proteins.Titin connects Z-lines to the M lineand provides the scaffolding to the sarcomere. Desmin adds structure to Z-lines by connectingZ-line to plasma membrane.143Note: Some sources say that even titin is a component of Z-disc so if alpha actinin is not given inthe options titin is the second best answer.BandHZoneRelaxedContractedBandCapZ-Titingee-Z-diskgeMyosinheadMyosintailActinfilamentomeoneM-line",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q11_img1_0d85d4f3.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp11_img1_226433d7.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 12,
+      "question": "Muscle myosin and actin filaments are kept in place by",
+      "options": {
+        "A": "Tropomyosin",
+        "B": "Troponin",
+        "C": "Actinin",
+        "D": "Titin"
+      },
+      "correct_answer": "D",
+      "explanation": "The side-by-side relationship between the myosin and actin filaments is maintained by a largenumber of filamentous molecules of a protein called titin.Titin is a filamentous and springy protein. These springy titin molecules act as a framework thatholds the myosin and actin filaments in place so that the contractile machinery of the sarcomerewill work.One end of the titin molecule is elastic and is attached to the Z disk, acting as a spring andchanging length as the sarcomere contracts and relaxes. The other part of the titin moleculetethers it to the myosin thick filament.Myosin (thick filament)M lineTitinwwwwwwwwwwwwKickerianvaprapro)wwwwwwwwwwwwActin (thin filament)144Z disc",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp12_img1_23898131.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 13,
+      "question": "Choose the true statement regarding the sarcomere in skeletal muscle.",
+      "options": {
+        "A": "Desmin binds Z line to sarcoplasmic reticulum",
+        "B": "Actinin binds M line to actin",
+        "C": "Titin binds M line to z line",
+        "D": "The length of myosin changes with contraction129"
+      },
+      "correct_answer": "C",
+      "explanation": "Titin binds M line to Z lineOther optionsDesmin binds Z line to sarcolemma ( not sarcoplasmic reticulum)Actinin binds Z line to actin (not M line; in fact, one of the two attachments of actin, desmin andtitin, is always Z line)Titin binds M line to z line, forms scaffolding, is responsible for muscle elasticity, is the largestknown protein (Largest protein - titin; Largest gene - Dystrophin; Most abundant protein -Collagen)The length of myosin or actin does not change with contraction; actually, the length of zones I andH get changed (i.e, gets decreased)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following occurs during skeletal muscle contraction?",
+      "options": {
+        "A": "A band shorten",
+        "B": "Both H and I band shorten",
+        "C": "Both A and I band shorten",
+        "D": "Both A and H band shorten"
+      },
+      "correct_answer": "B",
+      "explanation": "Sliding of thin filament over thick filament (cross bridge formation) reduces the length of I and Hband.•• During contraction, the Z lines come closer to each other reducing the length of the sarcomere.•The A band remains constant and M line becomes prominent.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 15,
+      "question": "The cross-bridges of the sarcomere in skeletal muscle are made up of",
+      "options": {
+        "A": "Titin",
+        "B": "Myosin",
+        "C": "Troponin",
+        "D": "Tropomyosin"
+      },
+      "correct_answer": "B",
+      "explanation": "When the action potential reaches the muscle fiber, there is influx of Ca2+ ions. This Ca2+ bindsto troponin C and tropomyosin is moved out of the way. Myosin heads can now bind to actin andform so-called cross-bridges.When a head attaches to an active site, this attachment simultaneously causes profound changesin the intramolecular forces between the head and arm of its cross-bridge. This causes the head totilt toward the arm and to drag the actin filament along with it. This tilt of the head is called thepower stroke.Immediately after tilting, the head then automatically breaks away from the active site.Formation of cross-bridges is associated with hydrolysis of ATP and generation of force.145The active site on actin isO exposed as Ca2+ bindstroponin.TroponinActive siteMyosin headThe myosin head formsa cross-bridge with actin.During the power stroke.the myosin head bends.and ADP and phosphateare released.4A new molecule of ATPattaches to the myosinhead, causing thecross-bridge to detach.ATP hydrolyzes to ADPand phosphate, whichreturns the myosin to the\"cocked\" position.Ca2+ TropomyosinADPADPADPActin",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp15_img1_147a9b47.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 16,
+      "question": "ATPase activity is present in",
+      "options": {
+        "A": "Myosin Head",
+        "B": "Myosin Tail",
+        "C": "Actin filaments",
+        "D": "Desmin filaments"
+      },
+      "correct_answer": "",
+      "explanation": "A feature of the myosin head that is essential for muscle contraction is that it functions as anadenosine triphosphatase (ATPase) enzyme.Chemical Events during Muscle Contraction•Before contraction begins, the heads of the cross-bridges bind with ATP. The ATPase activity ofthe myosin head immediately cleaves the ATP but leaves the cleavage products, ADP plusphosphate ion, bound to the head. (Point A)• When the troponin-tropomyosin complex binds with calcium ions, active sites on the actinfilament are uncovered and the myosin heads then bind with these sites. (Point B)•⚫ The bond between the head of the cross-bridge and the active site of the actin filament causes aconformational change in the head and the power stroke occurs. (Point C)•Once the head of the cross-bridge tilts, the ADP and phosphate ion that were previously attachedto the head are released and a new ATP moelcule binds in that place. (Point D)•The binding of the new ATP molecule causes detachment of the head of myosin from the actin.(Point D)•This cycle is then repeated.146Z line/KrausemembraneSarcomereHSarcomereH ZoneMlineZ line/KrausemembraneLighterDarkerI bandA bandPortion of athick filamentActin binding sites.ATP binding sitesTailHeadHeadsMyosinmoleculeFlexible hingeregion(a) Thin Filament(b) CrossbridgeThick filament(c) Power strake(c)(e)Thin filamentThick filamentCalciumLighterI bandPortion of athin filamentActinTropomyosinTroponinBinding siteActinfor myosinsubunitsOMARROWMyosinheadADPPActinActin(ADP)ATP]ADP and P.releasedATP attaches tomyosin andmyosin headdetachesCalcium bindingPiMyosin headADPCocking ofmyosin head",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_46d912fc.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 17,
+      "question": "Myosin head detaches from actin by which of the following mechanism?",
+      "options": {
+        "A": "Binding of ATP",
+        "B": "Entry of calcium into sarcoplasmic reticulum",
+        "C": "Change in troponin C configuration",
+        "D": "Release of ADP and Pi"
+      },
+      "correct_answer": "",
+      "explanation": "Binding of ATP on the free site of myosin leads to the detachment of myosin head from the thinfilament.147(a) Thin Filament(b) CrossbridgeThick filament(c) Power stroke(d)(e)Thin filamentThick filamentCalciumMyosinheadADPPActinActinP(ADP)ATP SCalcium bindingPiTyrosin headADPADP and P.releasedATP attaches tomyosin andmyosin headdetachesCocking ofmyosin head",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp17_img1_67d8eceb.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 18,
+      "question": "130In human skeletal muscles, calcium ions are stored in?",
+      "options": {
+        "A": "Terminal cistern",
+        "B": "Sarcolemma",
+        "C": "Transverse tubules",
+        "D": "All are correct"
+      },
+      "correct_answer": "",
+      "explanation": "In a skeletal muscle, calcium ions are majorly stored in the terminal cisterns of the SarcoplasmicReticulum.Terminal cisterns are the lateral sacs of the sarcoplasmic reticulum. The spread of action potentialtriggers the release of Ca2+ from the terminal cisterns.The sarcolemma is the cell membrane of the skeletal muscle. Transverse tubules are the internalextensions of the sarcolemma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 19,
+      "question": "All of the following are true about excitation-contraction coupling in skeletal muscle exceptthat",
+      "options": {
+        "A": "Acetylcholine is released at the nerve terminal.",
+        "B": "Ca2+ is released from sarcoplasmic reticulum during contraction.",
+        "C": "Ca2+ is pumped back into sarcoplasmic reticulum during relaxation.",
+        "D": "Ca2+ binds to tropomyosin to initiate muscle contraction."
+      },
+      "correct_answer": "",
+      "explanation": "Ca2+ binds to troponin C (not tropomyosin) to initiate muscle contraction.148Excitation-contraction coupling inskeletal muscleMotor neuron dischargeAcetylcholine (Ach) released at the motor endplateAch binds to nicotinic Ach receptors† Na* and Kª conductance in endplate membraneEndplate potential generatedInward spread of depolarization along the T-tubulesCa2+ released from terminal cisterns in sarcoplasmicreticulumCa² diffuses to thick and thin filamentsCa² binds to troponin C and uncovers myosin-bindingsites on actinCross linkages formed between actin and myosin↓Thin filaments slide on thick filamentsMovementOMARROWCa2+ pumped back intosarcoplasmic reticulumRelease of Ca2+ from troponinCessation of interaction betweenactin and myosin",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp19_img1_4697b70a.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 20,
+      "question": "A skeletal muscle contraction ends when",
+      "options": {
+        "A": "Ions move out of the cytoplasm",
+        "B": "Ach is metabolised at the Neuromusclular junction (NMR)",
+        "C": "Decreased calcium outside the sarcoplasmic reticulum",
+        "D": "Myosin filaments are degraded"
+      },
+      "correct_answer": "",
+      "explanation": "Once the Ca2+ concentration outside the sarcoplasmic reticulum has been lowered sufficiently,chemical interaction between myosin and actin ceases and the muscle relaxes.•The SERCA pump uses energy from ATP hydrolysis to remove Ca2+ from the cytosol back intothe terminal cisterns, where it is stored until released by the next action potential.• Thus during relaxation•Ca2+ concentration in cytoplasmic decreases.• Ca2+ concentration in sarcoplasmic reticulum increases.Option a: Calcium ions do not move out of the cytoplasm. They are taken up by the sarcoplasmicreticulum.149",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 21,
+      "question": "A bodybuilder is regularly working out in a gym. Which of the following is true regarding totalheat production during muscle contraction?",
+      "options": {
+        "A": "Activation heat is produced when a muscle is contracting",
+        "B": "Initial heat produced is due to the basal metabolic processes.",
+        "C": "Relaxation heat is present in both isotonic and isometric contractions",
+        "D": "Recovery heat of muscle is greater than the initial heat."
+      },
+      "correct_answer": "D",
+      "explanation": "Activation heat is the heat that muscle produces whenever it contracts.Heat Production in Muscle•Resting heat: The heat given off at rest due to the basal metabolic processes.•• Initial heat: The heat produced in excess of resting heat during contraction. It is made upsubtypes:two• Activation heat: The heat that muscle produces whenever it is contracting, and•Shortening heat: The heat which is proportional in amount to the distance the muscle shortens.Shortening heat is apparently due to some change in the structure of the muscle duringshortening.• Recovery heat: this is the heat liberated by the metabolic processes that restore the muscle toits precontraction state. The recovery heat of muscle is approximately equal to the initial heat.• Relaxation heat: Heat released in a muscle that has contracted isotonically to restore it to itsprevious length. This extra heat is in addition to recovery heat.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 22,
+      "question": "131In a 100-m dash, most of the energy consumed by skeletal muscles to replenish ATP isderived from",
+      "options": {
+        "A": "Phosphocreatine",
+        "B": "Aerobic glycolysis",
+        "C": "Oxidation of Fatty acids",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "In a 100-m dash that takes 10 s, 85% of the energy consumed is derived anaerobicallyby phosphocreatine, which is hydrolyzed to creatine and phosphate groups with the release ofconsiderable energy.The ATP concentration in a muscle is low enough (4 millimolar) to sustain contractions for 1-2seconds after which ATP is dephosphorylated into ADP. The ADP is re-phosphorylated byphosphocreatine for the next 5 to 8 seconds.ADP is re-phosphorylated by 3 sources.•Phosphocreatine after 2 seconds upto 10 seconds.• Glycolysis (anaerobic) after 10 seconds upto a minute•Oxidative metabolism - after a minute upto 2-4 hours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 23,
+      "question": "The length of the muscle fiber at the onset of contraction which is required to attain themaximum active tension is known as",
+      "options": {
+        "A": "Equilibrium Length",
+        "B": "Resting Length",
+        "C": "Initial length",
+        "D": "Overlapping Length"
+      },
+      "correct_answer": "B",
+      "explanation": "The length of the muscle fiber at the onset of contraction which is required to attainmaximum active tension is known as resting length.Resting length is also known as the optimum length. It is about 2μm. At this length, there isa maximal overlap between the actin and myosin fibers and therefore, the maximum number ofcross-bridge binding sites are formed.150Passive tension is the tension in a muscle when it is not stimulated. Total tension is the tensiondeveloped when a muscle contracts isometrically in response to a maximal stimulus.Active tension = Total tension - Passive tensionWhen the muscle fiber contracts, the active tension developed is proportional to the number ofcross-bridges between the actin and myosin fibers. Hence, at the resting length, maximum activetension is produced and the muscle fiber contracts with a maximum force of contraction.In the given image, the purple line represents the passive tension in the muscle (beforecontraction) and its relation with the muscle length, while the red line represents the total tensionpresent (during contraction) and its relation with the muscle length.Tension of muscleRelationship of muscle tension andlength during contractionTension duringcontractionTotaltensionIncrease in tensionduring contractionLengthOMARROWActivetensionTension beforecontractionPassivetension",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp23_img1_70e35ab1.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 24,
+      "question": "All of the following are true regarding the resting length of a muscle fiber except",
+      "options": {
+        "A": "There are maximum cross-bridges between actin and myosin",
+        "B": "The passive tension is maximum",
+        "C": "The resting length is around 2μm in humans",
+        "D": "The velocity of contraction is maximum for any given load"
+      },
+      "correct_answer": "B",
+      "explanation": "The passive tension is not maximum at resting length of a muscle fiber.Passive tension is the tension in a muscle when it is not stimulated. Total tension is the tensiondeveloped when a muscle contracts isometrically in response to a maximal stimulus.Active tension = Total tension - Passive tension151Tension of muscleRelationship of muscle tension andlength during contractionMARTension duringcontractionTotaltensionIncrease in tensionduring contractionActivetensionLengthOMARROWTension beforecontractionPassivetensionThe active tension is maximum at the resting length of a muscle fiber. This is because there is aoptimal overlap between the actin and myosin fibers at the resting length and therefore themaximum number of cross-bridges are formed. (Option A) This provides for the maximum forceof contraction at this length. The active tension decreases as the muscle is stretched beyond itsnormal length. The resting length is around 2µm in humans. (Option C)The velocity of muscle contraction varies inversely with the load on the muscle i.e. as the load onthe muscle increases, the velocity of contraction decreases. At a given load, the velocity is maximalat the resting length and declines if the muscle is shorter or longer than this length. (Option D)Velocity of contractionARROWMuscle loadOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp24_img1_ef712ac7.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 25,
+      "question": "Active tension in a muscle depends upon which of the following?",
+      "options": {
+        "A": "Number of muscle fibres",
+        "B": "Number of motor units recruited",
+        "C": "Aerobic capacity of muscle",
+        "D": "Action potential amplitude"
+      },
+      "correct_answer": "B",
+      "explanation": "Active tension in a muscle depends upon the number of motor units recruited.152The greater the number of motor units recruited, the greater will be the active tension.Factors affecting muscle tensionTension developed by each fiber• Action potential frequency• Fiber length (length-tension relationship)• Fiber diameter•FatigueNumber of active fibers• Number of fibers per motor unit• Number of active motor units (recruitment)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 26,
+      "question": "132Which of the following have the maximum density of white muscle fibers?",
+      "options": {
+        "A": "Calf muscles",
+        "B": "Extraocular muscles",
+        "C": "Back",
+        "D": "Hip"
+      },
+      "correct_answer": "B",
+      "explanation": "Extra-ocular muscles have the maximum density of white muscle fibers (type IIB), which contractquickly with peak tension attained within 7.5 msec of stimulation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 27,
+      "question": "All are true about red muscle fibers except -",
+      "options": {
+        "A": "More mitochondria",
+        "B": "High glycolytic metabolism",
+        "C": "More myoglobin",
+        "D": "More oxidative capacity"
+      },
+      "correct_answer": "B",
+      "explanation": "The red muscle fibers are Type 1 muscle fibers with low/moderate glycolytic metabolism. Rest ofthe options are true regarding red muscle fibers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 28,
+      "question": "A motor unit is made up of",
+      "options": {
+        "A": "All the muscle fibers within a given muscle",
+        "B": "A motor neuron and the muscle fibers it innervates",
+        "C": "All the neurons going into an muscle of the body",
+        "D": "A fascicle and a nerve"
+      },
+      "correct_answer": "B",
+      "explanation": "Each single motor neuron and the muscle fibers it innervates constitute a motor unit.• The number of muscle fibers in a motor unit varies.• In muscles concerned with fine, graded, precise movement, (eg. extraoccular muscles) eachmotor unit innervates very few (three to six) muscle fibers.•On the other hand, in human leg and back muscles, number of muscle fibers per motor unit canbe upto 600.•• Each spinal motor neuron innervates only one kind of muscle fiber, so that all the muscle fibersin a motor unit are of the same type.•• On the basis of the type of muscle fiber they innervate, and thus on the basis of the duration oftheir twitch contraction, motor units are divided into S (slow), FR (fast, resistant to fatigue), andFF (fast, fatigable) units.153Spinal cordMotor unitSomaticmotor neuronMAOMARROWMotor unitMuscleMotor unitSomaticmotor axonMotorunitNeuromuscularjunctionsSkeletalmuscle fibers",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp28_img1_d70092de.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 29,
+      "question": "Which of the following is correct about the recruitment of fast fatiguable motor unit?",
+      "options": {
+        "A": "Recruited first",
+        "B": "Recruited last",
+        "C": "During relaxation",
+        "D": "For the less demanding tasks"
+      },
+      "correct_answer": "B",
+      "explanation": "The fast fatigable motor unit is recruited last.Each single motor neuron and the muscle fibers it innervates constitute a motor unit. On the basisof the type of muscle fiber they innervate, and thus on the basis of the duration of their twitchcontraction, motor units are divided intoS (slow)• FR (fast, resistant to fatigue)•FF (fast, fatigable) units.S fibers have a low innervation ratio (ie, small units) and FF fibers have a high innervation ratio(i.e., large units).The recruitment of motor units during muscle contraction follows a general scheme, the sizeprinciple.• In general, a specific muscle action is developed first by the recruitment of S muscle units thatcontract relatively slowly to produce controlled contraction.• Next, FR muscle units are recruited, resulting in more powerful response over a shorter periodof time.• Lastly, FF muscle units are recruited for the most demanding tasks.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 30,
+      "question": "Twitch of a single muscle fiber is called133",
+      "options": {
+        "A": "Fibrillation",
+        "B": "Fasciculation",
+        "C": "Myoclonus",
+        "D": "Jerk"
+      },
+      "correct_answer": "A",
+      "explanation": "Twitch of a single muscle fiber is called fibrillation.154FibrillationFasciculationTwitch of a single muscle fibe Jerky, visible contractions ofrOccurs due to the degenerati○on of a single motor neuron or its axon.groups of muscle fibersOccur as a result of a pathologic discharge of spinal motorneurons (motor unit).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 31,
+      "question": "A scientist found that the latent period of muscle twitch is 10 ms and the contraction period is40 ms. What is the tetanizing frequency (Hz)?",
+      "options": {
+        "A": "25",
+        "B": "50",
+        "C": "100",
+        "D": "75"
+      },
+      "correct_answer": "A",
+      "explanation": "Tetanizing frequency = 1/contraction period = 1/40 ms = 25 Hz.Tetanizing frequency• As the contractile mechanism does not have a refractory period, on rapid stimulation of amuscle, each new contraction occurs before the preceding one is over. As a result, the secondcontraction is added partially to the first, and thus the total strength of contraction risesprogressively with increasing frequency. Such a response is called a tetanus (tetanic contraction).It is a complete tetanus when no relaxation occurs between stimuli.• Tetany occurs because enough calcium ions are maintained in the muscle sarcoplasm throughoutthe period of stimulation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 32,
+      "question": "Tetanic contraction is due to the accumulation of",
+      "options": {
+        "A": "Na+",
+        "B": "Ca2+",
+        "C": "K+",
+        "D": "Cl-"
+      },
+      "correct_answer": "B",
+      "explanation": "Tetanic contraction occurs due to progressive accumulation of Ca2+ ions with rapidly repeatedstimulation of skeletal muscle.• With rapidly repeated stimulation, activation of the contractile mechanism occurs repeatedlybefore any relaxation has occurred, and the individual contractions fuse into one continuouscontraction. Such a response is called a tetanus (tetanic contraction).••A single action potential releases sufficient Ca2+ to cause a twitch contraction.However, the duration of this contraction is very short because Ca2+ is very rapidly pumpedback into the SR.• If the muscle is stimulated a second time before the muscle is fully relaxed, there is progressiveaccumulation of Ca2+ and the force of contraction increases. Thus, twitch forces are amplified asstimulus frequency increases.• At a high level of stimulation, intracellular Ca2+ increases and is maintained throughout theperiod of stimulation, and the amount of force developed greatly exceeds that seen during atwitch. The response is termed tetany.155TensionTensionTime(a) Wave summation(b) Tetanus-Time",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp32_img1_384d67b4.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 33,
+      "question": "The function of the Golgi tendon organ is toSense changes in muscle directionb) Sense changes in muscle tensionc) Sense changes in position of the muscled) Sense changes in length of the muscleions.Question 34:Which of the following statements are correct regarding mechanisms of depolarisation,repolarisation, and hyperpolarisation in a skeletal muscle action potential?134",
+      "options": {
+        "A": "2 and 4 are correct",
+        "B": "1, 3, and 5 are correct",
+        "C": "1, 4, and 5 are correct",
+        "D": "2, 4, and 5 are correct"
+      },
+      "correct_answer": "B",
+      "explanation": "Golgi tendon organ sense changes in muscle tension.Golgi tendon reflex (Inverse myotatic/ Inverse stretch reflex) is disynaptic, is the opposite of thestretch reflex.When the tension in a contracted muscle is significantly elevated, the inhibitory effect from theGolgi tendon organ leads to instantaneous relaxation of the entire muscle. This effect is calledthe lengthening reaction.It is a protective mechanism to prevent tearing of the muscle or avulsion of the tendon from itsattachments to the bone.Note: Muscle spindles senses changes in muscle length (stretch).Stretch reflex and inverse stretch reflex1a fiberfrom musclespindle1b fiberfrom Golgitendon organOMARROW156Inhibitory interneuronreleasing glycineMotor neuronMatcw",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp33_img1_45192e0d.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 35,
+      "question": "Which of the following statements is true about skeletal muscle contraction?",
+      "options": {
+        "A": "2, 3, 4",
+        "B": "3 only",
+        "C": "1, 2, 4",
+        "D": "1, 3, 4"
+      },
+      "correct_answer": "B",
+      "explanation": "During the contraction of the skeletal muscle, the Ca2+ is released from the sarcoplasmicreticulum. Only statement 3 is correct.Excitation contraction coupling refers to the process by which the membrane depolarization of themuscle fibre (excitation) leads to the contraction of the muscle.The steps of excitation-contraction coupling in skeletal muscle are as follows:•Motor-neuron discharge causes the release of acetylcholine at the motor endplate, which bindsto the nicotinic acetylcholine receptors.• This causes increased Na+ and K+ conductance in the endplate membrane, leading to thegeneration of end-plate potential, which is a local potential.• When the local endplate potential reaches a threshold for the muscle fibre, and an actionpotential is generated.• The generated action potential passes inward through the T tubules, leading to the spread ofdepolarisation.• The depolarization of the muscle fibre causes the release of Ca2+ from terminal cisterns ofsarcoplasmic reticulum and diffusion to thick and thin filaments.158• The calcium released, binds to troponin C, uncovering myosin-binding sites on actin.•• The formation of cross-linkages between actin and myosin and sliding of thin on thick filamentscauses contraction of the skeletal muscle.Steps in relaxation:The cytoplasmic calcium is pumped back into the sarcoplasmic reticulum, by the action ofSERCA (sarcoplasmic endoplasmic reticulum calcium ATPase).• Once the calcium concentration is lowered, the interaction between actin and myosin ceases, andthe muscle relaxes.Other options:Statement 1: Incorrect - Extracellular calcium levels play an important role in muscle contraction.When there is a decrease in extracellular calcium as in hypocalcemia, the voltage-gated sodiumchannels are activated, which causes sodium influx. The increased intracellular sodiumconcentration causes sustained depolarization, which may lead to tetany.Statement 2: Incorrect - Ca2+ is not released from mitochondria. It is released from thesarcoplasmic reticulum.Statement 4: Voltage-gated calcium channels on T-tubules (part of sarcolemma) are activated by adepolarizing stimulus, which causes the release of calcium from the sarcoplasmic reticulum. Theincreased calcium concentration will eventually lead to muscle contraction.159",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsSarcolemma is the cell membrane of the muscle cell, while the remaining options are connectivetissue layers surrounding the muscle.A muscle is made up of individual muscle fibers. Each muscle fiber is a single cell that ismultinucleated, long, cylindrical, and surrounded by a cell membrane, the sarcolemma.Arrangement of the connective tissue is shown below.136Structure of skeletal muscleMABloodvesselFascicleMuscle fiberBoneTendonwEpimysiumPerimysiumEndomysiumOMARROWSolution to Question 2:Tropomyosin is a regulatory muscle protein.It extends over the entire actin filament and covers the myosin-binding sites on the actinmolecules thus preventing the attachment of actin to myosin.One molecule covers 7 active sites on actinClassification of muscle proteinsMuscle proteinsContractileActinMyosinRegulatoryTroponinTropomyosinMARROMARROWStructuralTitinDystrophinActininand Cap ZNebulinTropomodulinMyomesinTroponin is another regulatory protein. Troponin molecules are small globular units located atintervals along the tropomyosin molecules. Each of the three troponin subunits has a uniquefunction:•Troponin T binds the troponin components to tropomyosin.•⚫ troponin I inhibits the interaction of myosin with actin.137• troponin C contains the binding sites for the Ca2+ that helps initiate contraction.Solution to Question 3:Perlecan is a large extracellular matrix proteoglycan that plays a crucial role in tissue developmentand organogenesis.Dystrophin-glycoprotein complex• The dystrophin-glycoprotein complex provides a structural link between the cytoskeleton of themuscle cell and the extracellular matrix, which appears to stabilize the sarcolemma, adds strengthto the muscle by providing a scaffolding for the fibrils and prevents contraction-induced injury(rupture).•Organisation of DG complex• Dystrophin connects F-actin to the transmembrane protein ẞ-dystroglycan via smaller proteinscalled Syntrophins.•This ẞ-dystroglycan, in turn connects to the merosin subunit of laminin 211 in the extracellularmatrix via ° -dystroglycan.• The dystroglycans are also associated with a complex of four transmembrane glycoproteins, ° -,B-, y-, and 8-sarcoglycan and sarcospan.Dystrophin-glycoprotein complexẞ1Laminin 2SarcoglycancomplexSarcospan000 Ra2Functionally importantcarbohydrate side chainsB-DystroglycansDystrophinF-ActinSyntrophinsOMARROWAPPLIED ASPECT•⚫ Duchenne Muscular Dystrophy• X-linked recessive disorder• Deletion of DMD gene which codes for Dystrophin• Becker muscular Dystrophy• Dystrophin is present but altered or reduced in amount138•Limb Girdle Dystrophy• Sarcoglycan is mutatedSolution to Question 4:Myosin forms the thick filament, while actin, troponin, and tropomyosin form the thin filament.Thin Filaments in Sarcomere••The thin filaments are polymers made up of two chains of actin that form a long double helix.Tropomyosin molecules are long filaments located in the groove between the two chains in theactin.••Each thin filament contains 300-400 actin molecules and 40-60 tropomyosin molecules.Troponin molecules are small globular units located at intervals along the tropomyosinmolecules.• Each of the three troponin subunits has a unique function:•Troponin T binds the troponin components to tropomyosin.⚫ Troponin I inhibits the interaction of myosin with actin.••Troponin C contains the binding sites for the Ca 2+ that helps to initiate contraction.SarcomereH zoneZ lineM lineZ lineLighter I bandDarker A band Lighter I bandPortion of athick filamentPortion of athin filament| TroponinActinActin-binding sitesHeadATP-binding siteTailHeadsMyosin moleculeFlexible hinge regionTropomyosinBinding siteActin subunitsfor myosinSolution to Question 5:Actin, myosin, and tropomyosin are present in both skeletal muscle and smooth muscle. Buttroponin is absent and calmodulin is present in smooth muscle.139Solution to Question 6:The total length of each myosin filament is uniform, almost exactly 1.6 micrometers.Solution to Question 7:The thick filament or the myosin is made up of the heavy chain of myosin and light chain ofmyosin.The myosin molecule is composed of six polypeptide chains- Two heavy chains, each with amolecular weight of about 200,000, and four light chains with molecular weights of about 20,000each.The two heavy chains wrap spirally around each other to form a double helix, which is called thetail of the myosin molecule.One end of each of these chains is folded into a globular polypeptide structure called a myosinhead. These heads contain an actin-binding site and a catalytic site that hydrolyzes ATP. Thus,there are two free heads at one end of the double-helix myosin molecule.The four light chains are also part of the myosin head, two to each head. These light chains helpcontrol the function of the head during muscle contraction.Solution to Question 8:Pseudo H-zone is the light area between the two sides of M line due to reversal of polarity of themyosin molecules in each of the thick filaments.Sarcomere• The sarcomere is the contractile unit of the skeletal muscle fibre.• Z line: provides attachment to actin filaments. The area between two adjacent Z lines is calledthe sarcomere.• It is composed of thick and thin filaments:• Thick filament Myosin• Thin filaments Actin, tropomyosin and troponin• I band:•Isotropic to light.•• Only thin filaments.•⚫ Half lies in one sarcomere and half in the next.• A band:Anisotropic to light.•Myosin plus overlapped actin.140• H bands:•lighter area in the centre of A band, when the muscle is relaxed, the thin filaments do notoverlap the thick filaments..• Only Myosin• Pseudo H: light portion on two sides of M line because of absence of cross bridges (no myosinhead).• M line: centre of A band. Here there are slender cross-connections that hold the thick filamentsin proper array.Structure of a myofibrilI bandA bandHHH ZoneThin filamentFThick filament-Z lineThick filamentActin binding sitesATP binding sitesTailM lineSarcomereHeadHeadsMyosinFlexible hingemoleculeregionTroponinZ lineThin filamentBinding sitefor myosinMARROWActinEEEETropomyosinActinsubunitsLSolution to Question 9:H zone is the central region of the A band which is lighter than the outer edges of the A bandbecause the H zone is occupied by thick filaments only (No cross bridges)In the figure, note the section through various levels and the myofilaments observed.•Section through I band → only actin (thin filament)•Section through A band (Exlcuding H zone) → Actin and Myosin• Section through H zone →only myosin (thick filament)• Section through M line thick filament linked with accessory proteins•Section at AI junction → both actin and myosin141SarcomereZ lineZ lineThin filamentsThick filamentsH zoneI bandA bandI bandSolution to Question 10:The titin protein present in the muscle fiber binds the head ends of myosin filaments to the Z discSeveral proteins other than actin and myosin are also present in the muscle. Some of theminclude:1. Titin:• It is the largest known protein.•It runs between the M line and Z disc and binds the head ends of myosin filaments to the Z disc.• It has a tethered portion in the A band, where it is attached to the myosin filament and an elasticportion in the I band.• The elastic property of the titin causes elastic recoil of the sarcomere and prevents it from beingoverstretched.2. Nebulin:• It extends from the Z disc and runs along the full length of each actin filament.• It regulates the length of the actin filaments.3. ° -actinin:• It is a component of the Z discs• It binds the plus ends of actin filaments to this disc.4. Myomesin• It is present in the region of the M line.• It maintains the regular lattice arrangement of the myosin filaments in this region.5. Desmin:142• It is an intermediate filament characteristic of the muscle• It encircles the myofibrils near the Z disc and binds myofibrils to each other and also to the cellmembrane.6. Dystrophin:•It is present in the periphery of the muscle fiber, towards the cytoplasmic face of thesarcolemma.• It binds to the actin filaments and the glycoprotein complex, consisting of dystroglycan andsarcoglycan that spans the sarcolemma.Solution to Question 11:Alpha actinin is the constituent of the marked area.The image depicts sarcomere and the arrow points towards Z-line. Alpha actinin binds actin toZ-lines.MyosinBandSarcomereBANDHBandABandZ LineActinThe orderly arrangement of actin, myosin, and related proteins that produces this pattern. Thearea between two Z-lines is called sarcomere.The thick filaments, which are about twice the diameter of the thin filaments, are made up ofmyosin, which are lined to form A bands; the thin filaments are made up of actin, tropomyosin,and troponin. The array of thin filaments extends out of the A band and into the less densestaining I bands.The lighter H bands in the center of the A bands are the regions where, when the muscle isrelaxed, the thin filaments do not overlap the thick filaments. The Z lines allow for anchoring ofthe thin filaments.Actinin, titin and desmin are additional structural proteins.Titin connects Z-lines to the M lineand provides the scaffolding to the sarcomere. Desmin adds structure to Z-lines by connectingZ-line to plasma membrane.143Note: Some sources say that even titin is a component of Z-disc so if alpha actinin is not given inthe options titin is the second best answer.BandHZoneRelaxedContractedBandCapZ-Titingee-Z-diskgeMyosinheadMyosintailActinfilamentomeoneM-lineSolution to Question 12:The side-by-side relationship between the myosin and actin filaments is maintained by a largenumber of filamentous molecules of a protein called titin.Titin is a filamentous and springy protein. These springy titin molecules act as a framework thatholds the myosin and actin filaments in place so that the contractile machinery of the sarcomerewill work.One end of the titin molecule is elastic and is attached to the Z disk, acting as a spring andchanging length as the sarcomere contracts and relaxes. The other part of the titin moleculetethers it to the myosin thick filament.Myosin (thick filament)M lineTitinwwwwwwwwwwwwKickerianvaprapro)wwwwwwwwwwwwActin (thin filament)144Z discSolution to Question 13:Titin binds M line to Z lineOther optionsDesmin binds Z line to sarcolemma ( not sarcoplasmic reticulum)Actinin binds Z line to actin (not M line; in fact, one of the two attachments of actin, desmin andtitin, is always Z line)Titin binds M line to z line, forms scaffolding, is responsible for muscle elasticity, is the largestknown protein (Largest protein - titin; Largest gene - Dystrophin; Most abundant protein -Collagen)The length of myosin or actin does not change with contraction; actually, the length of zones I andH get changed (i.e, gets decreased)Solution to Question 14:Sliding of thin filament over thick filament (cross bridge formation) reduces the length of I and Hband.•• During contraction, the Z lines come closer to each other reducing the length of the sarcomere.•The A band remains constant and M line becomes prominent.Solution to Question 15:When the action potential reaches the muscle fiber, there is influx of Ca2+ ions. This Ca2+ bindsto troponin C and tropomyosin is moved out of the way. Myosin heads can now bind to actin andform so-called cross-bridges.When a head attaches to an active site, this attachment simultaneously causes profound changesin the intramolecular forces between the head and arm of its cross-bridge. This causes the head totilt toward the arm and to drag the actin filament along with it. This tilt of the head is called thepower stroke.Immediately after tilting, the head then automatically breaks away from the active site.Formation of cross-bridges is associated with hydrolysis of ATP and generation of force.145The active site on actin isO exposed as Ca2+ bindstroponin.TroponinActive siteMyosin headThe myosin head formsa cross-bridge with actin.During the power stroke.the myosin head bends.and ADP and phosphateare released.4A new molecule of ATPattaches to the myosinhead, causing thecross-bridge to detach.ATP hydrolyzes to ADPand phosphate, whichreturns the myosin to the\"cocked\" position.Ca2+ TropomyosinADPADPADPActinSolution to Question 16:A feature of the myosin head that is essential for muscle contraction is that it functions as anadenosine triphosphatase (ATPase) enzyme.Chemical Events during Muscle Contraction•Before contraction begins, the heads of the cross-bridges bind with ATP. The ATPase activity ofthe myosin head immediately cleaves the ATP but leaves the cleavage products, ADP plusphosphate ion, bound to the head. (Point",
+      "options": {
+        "A": "• When the troponin-tropomyosin complex binds with calcium ions, active sites on the actinfilament are uncovered and the myosin heads then bind with these sites. (Point",
+        "B": "•⚫ The bond between the head of the cross-bridge and the active site of the actin filament causes aconformational change in the head and the power stroke occurs. (Point",
+        "C": "•Once the head of the cross-bridge tilts, the ADP and phosphate ion that were previously attachedto the head are released and a new ATP moelcule binds in that place. (Point",
+        "D": "•The binding of the new ATP molecule causes detachment of the head of myosin from the actin.(Point D)•This cycle is then repeated.146Z line/KrausemembraneSarcomereHSarcomereH ZoneMlineZ line/KrausemembraneLighterDarkerI bandA bandPortion of athick filamentActin binding sites.ATP binding sitesTailHeadHeadsMyosinmoleculeFlexible hingeregion(a) Thin Filament(b) CrossbridgeThick filament(c) Power strake(c)(e)Thin filamentThick filamentCalciumLighterI bandPortion of athin filamentActinTropomyosinTroponinBinding siteActinfor myosinsubunitsOMARROWMyosinheadADPPActinActin(ADP)ATP]ADP and P.releasedATP attaches tomyosin andmyosin headdetachesCalcium bindingPiMyosin headADPCocking ofmyosin headSolution to"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp1_img1_70773df6.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    },
+    {
+      "q_no": 17,
+      "question": "Binding of ATP on the free site of myosin leads to the detachment of myosin head from the thinfilament.147(",
+      "options": {
+        "A": "Thin Filament(",
+        "B": "CrossbridgeThick filament(",
+        "C": "Power stroke(",
+        "D": "(e)Thin filamentThick filamentCalciumMyosinheadADPPActinActinP(ADP)ATP SCalcium bindingPiTyrosin headADPADP and P.releasedATP attaches tomyosin andmyosin headdetachesCocking ofmyosin headSolution to"
+      },
+      "correct_answer": "",
+      "explanation": "Binding of ATP on the free site of myosin leads to the detachment of myosin head from the thinfilament.147(a) Thin Filament(b) CrossbridgeThick filament(c) Power stroke(d)(e)Thin filamentThick filamentCalciumMyosinheadADPPActinActinP(ADP)ATP SCalcium bindingPiTyrosin headADPADP and P.releasedATP attaches tomyosin andmyosin headdetachesCocking ofmyosin head",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp17_img1_67d2813f.jpeg",
+      "chapter_heading": "Muscle Physiology I"
+    }
+  ]
+}

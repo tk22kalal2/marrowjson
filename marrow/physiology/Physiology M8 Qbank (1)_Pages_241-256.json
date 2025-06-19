@@ -1,0 +1,320 @@
+{
+  "chapter": "Special Senses",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Light entering the eye first passes through",
+      "options": {
+        "A": "Inner nuclear layer",
+        "B": "Outer nuclear layer",
+        "C": "Outer plexiform layer",
+        "D": "Retinal ganglion layer, retinal layer."
+      },
+      "correct_answer": "D",
+      "explanation": "Light entering the eye first passes through the cornea, then the lens, and finally the retina, where it encounters the retinal ganglion layer, among other layers.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp1_img1_4b381ffb.jpeg",
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 2,
+      "question": "Initiation of visual impulse is associated with",
+      "options": {
+        "A": "Condensation of opsin with Vitamin A",
+        "B": "Photoisomerization and hydrolysis of visual purple",
+        "C": "NADP",
+        "D": "NAD"
+      },
+      "correct_answer": "B",
+      "explanation": "Initiation of visual impulse is associated with photoisomerization and hydrolysis of visual purple. Rhodopsin or visual purple, the photosensitive pigment, is composed of opsin (a protein belonging to the superfamily of G protein-coupled receptors) and retinal (an aldehyde of vitamin A). When light strikes the photoreceptors, retinal is chemically transformed in a process called photoisomerization, which begins the transduction process. Phototransduction in rods and cones: Rhodopsin (opsin + retinal) 11-cis Retinal → All-trans Retinal → Metarhodopsin II → Activation of transducin (G protein) → Activation of phosphodiesterase → ↓ cGMP → Closure of Na+ channels → Hyperpolarization → ↓ Synaptic neurotransmitter → Bipolar cell response and other neural responses.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_806b8ac4.jpeg",
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 3,
+      "question": "Which form of vitamin A combines with opsin to make rhodopsin?",
+      "options": {
+        "A": "All-trans retinaldehyde",
+        "B": "11-cis-retinaldehyde",
+        "C": "All-trans retinol",
+        "D": "11-cis-retinol"
+      },
+      "correct_answer": "B",
+      "explanation": "11-cis-retinaldehyde combines with opsin to make rhodopsin. All-trans retinol is one form of Vitamin A, which is converted to 11-cis retinol under the influence of isomerase. Finally, 11-cis retinol is converted into 11-cis retinal, which combines with scotopsin to form rhodopsin. Rod discs: Rhodopsin molecules H3CCH3CH3-CH3H3CH (a) 11-cis-retinal. 11-cis-retinal and opsin are reassembled to form rhodopsin. Photon regeneration enzyme: 11-trans-retinal bleaching 11-cis-retinal 11-trans-retinal ADP ATP opsinn opsin H3CCH3CH3CH3CH3 (b) all-trans-retinal.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp3_img1_91a3a24f.jpeg",
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements is true regarding the distribution of rods and cones in the retina?",
+      "options": {
+        "A": "Macula lutea is the blind spot",
+        "B": "Low density of photoreceptors are present in the macula",
+        "C": "Foveola contains only cones",
+        "D": "Peripheral retina has a greater cones to rods ratio"
+      },
+      "correct_answer": "C",
+      "explanation": "Central fovea (foveola) contains only cones (a rod-free area) and is a region of the highest resolution. Regional variations in the retina: Macula lutea, located at the posterior pole, temporal to the optic disc, is an area of central vision with a high density of photoreceptors and interneurons. The optic disc lacks photoreceptors and is called the 'blind spot'. Normally, a person is unaware of the blind spot because the corresponding part of the visual field can be seen by the contralateral eye, and neurological processes complete the incomplete image perceptually. The peripheral retina has a higher ratio of rods to cones (20:1), a greater degree of convergence of photoreceptors to the target interneuron (bipolar cells), more sensitivity to light, and lower visual acuity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 5,
+      "question": "The rod receptor potential differs from other surface receptors in that it shows",
+      "options": {
+        "A": "Depolarization",
+        "B": "Decreased negativity",
+        "C": "Increased conductance of sodium",
+        "D": "Hyperpolarization"
+      },
+      "correct_answer": "D",
+      "explanation": "The rod receptor potential differs from other surface receptors in that it shows hyperpolarization. In most sensory receptors: Arrival of stimulus → Ion channels are opened up allowing current to flow => depolarization of the receptor. In photoreceptors: When the light strikes the outer segment, a cascade of reactions (refer figure) are initiated, that close some of the Na+ channels in the outer segment and result in hyperpolarization. Rod receptors - Sodium flow: Dark Light CGMP Channels open Na+ Channels closed Na+ Na+ Na+ Na+",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_31674843.jpeg",
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 6,
+      "question": "Which is the first-order neuron in the optic pathway?",
+      "options": {
+        "A": "Rods and cones",
+        "B": "Ganglion cells",
+        "C": "Cells in the lateral geniculate body",
+        "D": "Bipolar cells"
+      },
+      "correct_answer": "A",
+      "explanation": "Photoreceptors - rods and cones are the first-order neurons in the visual pathway.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 7,
+      "question": "Purely depolarizing cells in the optic pathway are",
+      "options": {
+        "A": "Bipolar cells",
+        "B": "Cones",
+        "C": "Amacrine cells",
+        "D": "Rods"
+      },
+      "correct_answer": "C",
+      "explanation": "The responses of the rods, cones, and horizontal cells are hyperpolarizing, and the responses of the bipolar cells are either hyperpolarizing or depolarizing, whereas amacrine cells produce purely depolarizing potentials.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 8,
+      "question": "Amacrine cells secrete",
+      "options": {
+        "A": "Acetylcholine",
+        "B": "Serotonin",
+        "C": "Histamine",
+        "D": "Glutamate"
+      },
+      "correct_answer": "A",
+      "explanation": "Amacrine cells release acetylcholine. Amacrine cells are one of the neuronal cell types of the retina. They transmit signals in two directions, either directly from bipolar cells to ganglion cells or horizontally within the inner plexiform layer from axons of the bipolar cells to dendrites of the ganglion cells or to other amacrine cells. Amacrine cells release GABA, glycine, dopamine, acetylcholine, and indolamine. Other neuronal cell types of the retina are: The photoreceptors: rods and cones, Horizontal cells, Bipolar cells, and Ganglion cells. Of these cell types, only neurotransmitters secreted by photoreceptors and amacrine cells have been discovered. Rods and cones release glutamate at their synapses with the bipolar cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 9,
+      "question": "The only neurons in the retina showing action potential are",
+      "options": {
+        "A": "Bipolar cells",
+        "B": "Ganglion cells",
+        "C": "Amacrine cells",
+        "D": "Rods and cones"
+      },
+      "correct_answer": "B",
+      "explanation": "All neural elements in the retina exhibit local graded potentials except ganglion cells, which show action potential.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 10,
+      "question": "The fibers from contralateral nasal retina project to the following layers of lateral geniculate nucleus",
+      "options": {
+        "A": "2,3,5",
+        "B": "1,4,6",
+        "C": "1,2,3",
+        "D": "4,5,6"
+      },
+      "correct_answer": "B",
+      "explanation": "On each side, layers 1, 4, and 6 of the lateral geniculate nucleus receive input from the contralateral eye, whereas layers 2, 3, and 5 receive input from the ipsilateral eye. (Refer to figure). Optic Pathway: Magnocellular pathway - transient response, monochrome, high contrast gain, lower spatial resolution, faster; Primary visual cortex (Area 17). Optic nerves, Optic chiasm, Optic tract, Lateral geniculate nucleus, Parvocellular pathway - sustained response, sees color, low contrast gain, higher spatial resolution, slower. Fibers from contralateral nasal hemiretina, Fibers from ipsilateral temporal hemiretina.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp10_img1_50338723.jpeg",
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 11,
+      "question": "Parvocellular pathway carries signal for detection of",
+      "options": {
+        "A": "Color contrast",
+        "B": "Luminous contrast",
+        "C": "Temporal frequency",
+        "D": "Saccadic eye movements"
+      },
+      "correct_answer": "A",
+      "explanation": "From the Lateral Geniculate Nucleus (LGN), a magnocellular pathway (from layers 1 and 2) and aparvocellular pathway (from the rest of the layers) project to the visual cortex.Parvocellular pathwayReceive input entirely from type X retinal ganglion cells, and transmit color.Convey accurate point-to-point spatial information.Terminate in layer 4C of theprimary visual cortex.Carries signals for color vision, texture, shape, and fine details.Magnocellular pathwayFormed by Y ganglion cells project to magnocellular layersof the lateral geniculate nucleus.Colorblind, transmitting onlyblack-and-white information.Terminate in layer 4C of theprimary visual cortex.Carries signals for detectionof movement, depth, and flicker.251MAMagnocellular pathwayTransient responseMonochromeHigh contrast gainLower spatialresolutionFasterOptic PathwayPrimary visual cortex(Area 17)Optic nervesOptic chiasmOptic tractLateralgeniculatenucleusParvocellular pathwayHan sustainedresponseSees colorLow contrast gainHigher spatialresolutionSlowerFibers fromcontralateral nasal hemiretinaFibers from ipsilateral temporal hemiretinaOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp11_img1_fd02fc8e.jpeg",
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 12,
+      "question": "The axons from the lateral geniculate nucleus terminate in",
+      "options": {
+        "A": "Layer 1",
+        "B": "Layer 4",
+        "C": "Layer 2 and 3",
+        "D": "Layer 5 and 6 of the primary visual cortex"
+      },
+      "correct_answer": "B",
+      "explanation": "The axons from the lateral geniculate nucleus (LGN) mostly end in Layer 4. The primary visual receiving area (primary visual cortex) is located principally on the sides of the calcarine fissure and has 6 layers similar to the neocortex. Layer 4 receives most of the input from the LGN, which is divided further into 4A, 4B, 4Cα, and 4Cβ. The magnocellular pathways from layers 1 and 2 of the LGN end in layer 4Cα while the parvocellular pathways from layers 3-6 of the LGN end in layer 4Cβ.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 13,
+      "question": "An ophthalmologist explains to a patient that he is a protanope. These patients have difficultyin identifying which of the following color?",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Blue",
+        "D": "Black"
+      },
+      "correct_answer": "A",
+      "explanation": "Protanopes are dichromats with difficulty in identifying red color.•Anomalous Trichromatic Vision• Deficiency of red is Protanomaly.•Deficiency of green is Deuteranomaly.• Deficiency of blue is Tritanomaly.• Dichromatic Vision (Individuals with only two cone systems)• Blindness to red color Protanopia (Protanope).• Blindness to green color Deuteranopia (Deuteranope).• Blindness to blue color Tritanopia (Tritanope).••Monochromatic Vision Have only one cone system.Color blindness is X-linked recessive.252• Achromatopsia/ Achromasia- Color blindness is due to lesions of area V8 of the visual cortex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 14,
+      "question": "Auditory information is relayed throughthalamic nucleus.",
+      "options": {
+        "A": "Dorsomedial nucleus",
+        "B": "Lateral geniculate nucleus",
+        "C": "Medial geniculate nucleus",
+        "D": "Ventral Posterolateral nucleus"
+      },
+      "correct_answer": "",
+      "explanation": "The medial geniculate nucleus is the thalamic nucleus that conveys auditory information from thebrainstem to the primary auditory cortex.Lateral geniculate nucleus is the thalamic nucleus that conveys visual information.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 15,
+      "question": "In the auditory pathway, which is the first structure that can determine the direction of the perceived sound?",
+      "options": {
+        "A": "Cochlear nucleus",
+        "B": "Inferior colliculus",
+        "C": "Lateral lemniscus",
+        "D": "Superior olivary nucleus"
+      },
+      "correct_answer": "D",
+      "explanation": "The superior olivary nuclei receive information from both ears and begin the process of detecting the direction from which a sound comes. The eighth nerves reach their respective cochlear nuclei in the medulla, from where the nerves travel to both the ipsilateral and contralateral superior olivary nuclei in the pons, and hence giving it the ability to detect the direction of the sound. The lateral part of the superior olivary nucleus does so by comparing the difference in intensities of sound reaching the two ears, whereas the medial part of the superior olivary nucleus detects the time lag between the signals entering the two ears.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following events prompts the auditory system to interpret a sound as loud?",
+      "options": {
+        "A": "A decreased number of inner hair cells become stimulated",
+        "B": "A decreased number of outer hair cells become stimulated",
+        "C": "Hair cells excite nerve endings at a diminished rate",
+        "D": "The amplitude of vibration of the basilar membrane increases"
+      },
+      "correct_answer": "D",
+      "explanation": "There are at least three ways that the auditory system determines loudness: • As the sound becomes louder, the amplitude of vibration of the basilar membrane increases so that hair cells excite the nerve endings at more rapid rates. • As the amplitude increases, more and more hair cells on the fringes of the resonating portion of the basilar membrane become stimulated. • As the amplitude of vibration reaches high intensity, the outer hair cells become recruited at a significant rate.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 17,
+      "question": "Umami taste is evoked by",
+      "options": {
+        "A": "Glucose",
+        "B": "Quinine",
+        "C": "Glutamate",
+        "D": "Sodium chloride"
+      },
+      "correct_answer": "C",
+      "explanation": "Umami taste is triggered particularly by the monosodium glutamate (MSG) used so extensively in Asian cooking. Taste Receptors • Humans have five established basic tastes: sweet, salt, sour, bitter, and umami. • The taste receptors for these five basic tastes are of two major types: • Ligand-gated channels (ionotropic receptors): for salt and sour taste • G-Protein Coupled Receptors (metabotropic receptors): for sweet, bitter, and umami • Salt and sour taste are mediated through epithelial sodium channels (ENaC) • Na+ movement through ENaC → salt taste • H+ movement through ENaC → sour taste • Sweet, bitter, and umami are sensed via GPCRs • T1R2 and T1R3 families → sweet taste • T2R family → bitter taste • Metabotropic glutamate receptor (mGluR4) → Umami",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 18,
+      "question": "Mitral cells are seen in",
+      "options": {
+        "A": "left atrium",
+        "B": "Olfactory bulb",
+        "C": "Primary visual cortex",
+        "D": "Geniculate body"
+      },
+      "correct_answer": "B",
+      "explanation": "Mitral cells are seen in Olfactory bulb.Axons of Olfactory nerves (First cranial nerve) synapse with the mitral cells and tufted cells in theolfactory bulb to form anatomically discrete units called olfactory glomeruli.The olfactory bulb also contains periglomerular cells that are inhibitory interneurons and granulecells that make reciprocal synapses with mitral and tufted cells.These mitral and tufted cells (second-order neurons) terminate in Olfactory cortex.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_73ecc4dc.jpeg",
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following sensory systems has the smallest range of intensity discrimination?",
+      "options": {
+        "A": "Auditory",
+        "B": "Visual",
+        "C": "Olfactory",
+        "D": "Somatosensory"
+      },
+      "correct_answer": "",
+      "explanation": "OSNsOlfactory tractMitral cell bodiesOlfactory glomeruliThe olfactory system has the smallest range of intensity discrimination.Smell is concerned more with detecting the presence or absence of odors, than with thequantitative detection of their intensities. Concentrations that are only 10 to 50 times abovethreshold values will evoke maximum intensity of smell, which is in contrast to most other254sensory system of the body.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 20,
+      "question": "Number of cones in the retina (millions) is",
+      "options": {
+        "A": "3-6",
+        "B": "5-12",
+        "C": "10-15",
+        "D": "20245"
+      },
+      "correct_answer": "A",
+      "explanation": "There are approximately 6 million cones and 120 million rods in each human eye.Features of Photoreceptors•• Each rod and cone are divided into outer segment, inner segment, nuclear region and a synapticzone.•Saccules and discs in the outer segment contain photosensitive pigments.•If a person spends a considerable length of time in brightly lighted surroundings and then movesto a dimly lighted environment, the retinas slowly become \"accustomed to the dark.” This declinein visual threshold is known as dark adaptation. It is nearly maximal in about 20 min, muchlonger than the time taken for light adaptation which is 5 min.•• When one passes suddenly from a dim to a brightly lighted environment, the light seemsintensely and even uncomfortably bright until the eyes adapt to the increased illumination and thevisual threshold rises. This adaptation occurs over a period of about 5 min and is called lightadaptation.Membrane shelveswith rhodopsin orcolor pigmentRods and ConesMitochondriaMAIInvaginations in cellmembrane thatform stacks ofmembranousdisks-photopigmentsexist as transmembraneproteinsMitochondriaMFRod CellCone CellOMARROWOuter segmentInner segmentOuterlimiting membraneNucleuSynaptic bodyOuter segmentConnecting ciliumInner segmentNucleusSynaptic terminal",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp20_img1_dd90e1e3.jpeg",
+      "chapter_heading": "Special Senses"
+    },
+    {
+      "q_no": 21,
+      "question": "What is the site of lesion in Wernicke's hemianopic pupil?",
+      "options": {
+        "A": "Optic nerve",
+        "B": "Optic tract",
+        "C": "Optic radiation",
+        "D": "Optic chiasma"
+      },
+      "correct_answer": "B",
+      "explanation": "The site of lesion in Wernicke's hemianopic pupil is optic tract.Wernicke hemianopic pupil is the light reflex, where, illumination of the blind half of the retinashows no pupillary reaction while stimulating the normal side of the retina shows a pupillaryreaction. It is seen in lesions involving the optic tract. It is also seen in cases such as TB, syphilisand tumours of the optic thalamus.255Homonymous hemianopia (HH) involves loss of vision on the same side of the visual field in botheyes. HH is characteristically seen in lesions involving the visual pathway posterior to the opticchiasma.256",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Special Senses"
+    }
+  ]
+}

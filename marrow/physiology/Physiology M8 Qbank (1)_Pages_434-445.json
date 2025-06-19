@@ -1,0 +1,200 @@
+{
+  "chapter": "with Pressure Changes",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which is the best parameter to analyze hypoxic hypoxia?",
+      "options": {
+        "A": "Partial pressure of CO2 in arterial blood (Paco2)",
+        "B": "Partial pressure of O2 in arterial blood (Pa02)",
+        "C": "A-V difference",
+        "D": "Po2 venous"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 2,
+      "question": "Which type of hypoxia does not stimulate peripheral chemoreceptors?",
+      "options": {
+        "A": "Anemic",
+        "B": "Histotoxic",
+        "C": "Stagnant",
+        "D": "Hypoxic"
+      },
+      "correct_answer": "A",
+      "explanation": "In the case of anemic hypoxia, O2 content is low but dissolved O2 is within normal limits, so itdoes not stimulate peripheral chemoreceptors.Peripheral chemoreceptors located in the carotid and aortic arteries sense changes inP02(&lt;60mm Hg), pH, and Pco2 and they respond to changes in dissolved O2(PaO2).Histotoxic hypoxia will lead to metabolic acidosis that will lead to an increase in H+concentration, which in turn will stimulate the peripheral chemoreceptors.Hemorrhage that produces hypotension leads to chemoreceptor stimulation due to decreasedblood flow to the chemoreceptors and consequent stagnant anoxia of these organs.Note: In case of stagnant hypoxia, chemoreceptors can be stimulated if the resultant decreasedoxygen delivery causes a significant drop in local tissue oxygen levels, which eventually can lowerthe PaO2 detectable by chemoreceptors. Therefore, they may not be significantly stimulatedunless the reduction in oxygen levels is severe. Therefore, anaemic hypoxia is a better answer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is most likely in a patient with cyanosis?",
+      "options": {
+        "A": "Anemic hypoxia",
+        "B": "Histotoxic hypoxia",
+        "C": "Carbon monoxide poisoning",
+        "D": "Stagnant hypoxia"
+      },
+      "correct_answer": "D",
+      "explanation": "440In stagnant hypoxia, blood flow is very low; so, more oxygen is extracted causing an increase inreduced hemoglobin cyanosis.→Cyanosis Cyanosis is the dusky bluish discoloration of the tissues occurring when the reducedhemoglobin concentration is more than 5g/dL.• Its occurrence depends upon• The total amount of hemoglobin in the blood• Degree of hemoglobin unsaturation•The state of capillary circulationOption a: In the case of anemia, the total hemoglobin content is low, so enough reducedhemoglobin cannot be formed.Option b: In histotoxic hypoxia, the amount of reduced hemoglobin formed is very less becausethe defect is in the tissue 02.Option c: In CO poisoning, there is the formation of carboxyhemoglobin, which is red in colorobscure the color of reduced hemoglobin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 4,
+      "question": "Administration of O2 has maximum benefit in:",
+      "options": {
+        "A": "Anemic hypoxia",
+        "B": "Histotoxic hypoxia434",
+        "C": "Hypoxic hypoxia",
+        "D": "Stagnant hypoxia"
+      },
+      "correct_answer": "C",
+      "explanation": "Administration of oxygen has maximum benefit in hypoxic hypoxia.Hypoxic hypoxia refers to a condition in which there is low atmospheric Po2, leading to lowarterial Po2. Hence, supplemental O2 can be very beneficial when the cause of hypoxia is due tolimited oxygen availability.Administration of oxygen-rich gas has limited value in anemic, histotoxic, and stagnant hypoxiabecause:Anemic hypoxia- Oxygen delivery is not beneficial because despite increasing the exogenousoxygen delivery, an anemic person will not have the capacity to carry more oxygen due to thehemoglobin/ red blood cell deficit in anemia.Histotoxic hypoxia- The most common example is cyanide poisoning. Cyanide inhibits importantenzymes in the oxidative phosphorylation process, which is essential to the survival of our cells.Additional oxygen supplementation will not be able to overcome this inhibition, and so it will havelimited benefit. Hyperbaric oxygen may be helpful to some extent.Stagnant hypoxia- Stagnant hypoxia refers to ischemic hypoxia that results from inadequatecirculation due to conditions such as heart failure and hypoxia in the setting of shock. In suchconditions, administering intravenous fluids can improve the patient's condition because it is thecirculation that is affected. If the shock is prolonged it can result in acute respiratory distresssyndrome (ARDS), which can be treated with positive pressure ventilation and not simply byincreasing oxygen administration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 5,
+      "question": "In which of the following situations is oxygen therapy most beneficial provided the lungfunction is normal?",
+      "options": {
+        "A": "Anemia",
+        "B": "COPD",
+        "C": "Cyanide poisoning",
+        "D": "High altitude"
+      },
+      "correct_answer": "D",
+      "explanation": "441With O2 therapy, increasing the inspired Po2 will result in an increased amount of dissolved 02.At high altitudes, there is low barometric pressure and so less Po2, hence, supplemental O2 willhelp.Option A: With anemia, the hemoglobin is fully saturated and O2 will have minimal effect.Treatment of anemia is more beneficial than providing oxygen to an anemic patient.Option B: With COPD there is CO2 retention due to difficulty in the expiration, and there will be adecreased Po2. So, there is a change in the regulation of respiration (drive for ventilation) frombeing under CO2 control to being driven by the decrease in O2. Giving supplemental O2 to such aperson will increase arterial Po2, thus decrease the stimulus to breathe, resulting in patientstopping breathing.Option C: Cyanide poisoning results in decreased 02 utilization by the tissues and so additional02 would be of no benefit.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 6,
+      "question": "In which of the following conditions is oxygen therapy not useful?",
+      "options": {
+        "A": "Asthma",
+        "B": "Acute myocardial infarction",
+        "C": "Pulmonary edema",
+        "D": "Central respiratory depression"
+      },
+      "correct_answer": "D",
+      "explanation": "Oxygen therapy is not beneficial in central respiratory depression.High dose oxygen reduces the output of peripheral chemoreceptors. So, if given to patients whoalready have central respiratory depression, it will indirectly reduce the hypoxic drive to breatheeven further, leading to a reduction in respiratory frequency and minute ventilation.Note: In acute severe asthma, a high concentration of oxygen should be given by face mask toachieve an oxygen saturation of &gt;90%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the points on the following figures represent arterial blood in a severely anemicperson?435",
+      "options": {
+        "A": "Figure 1-D, Figure 2- D",
+        "B": "Figure 1-E, Figure 2- E",
+        "C": "Figure 1-D, Figure 2- E",
+        "D": "Figure 1-E, Figure 2- DO2 saturation20Content ml O₂/dL51015100755025B2040PO2BFigure 16080T10020406080100PO2Figure 200"
+      },
+      "correct_answer": "D",
+      "explanation": "When a person is anemic, there is decrease in O2 content of the blood (Fig 1-E) because ofdecreased number of RBCs and hence hemoglobin content in the blood. The oxygensaturation (Fig 2-D) of the available hemoglobin in the arterial blood is however normal and, thepO2 is also not affected by the hemoglobin concentration.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q7_img1_ab491aa0.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 8,
+      "question": "A 24-year-old woman is anemic with hemoglobin concentration of 6 g/dL. Which of thefollowing set of changes have occurred in this case, compared to normal?",
+      "options": {
+        "A": "Arterial Po2, Mixed venous Po2, ↑2,3-DPG",
+        "B": "Arterial Po2, Mixed venous Po2, Normal 2,3-DPG",
+        "C": "Arterial Po2, Normal Mixed venous Po2, ↑2,3-DPG",
+        "D": "Normal Arterial Po2, Mixed venous Po2, 12,3-DPG"
+      },
+      "correct_answer": "D",
+      "explanation": "Normal Arterial Po2, Mixed venous Po2, ↑2,3-DPG are the set of changes that will be seen in theabove patient.The oxygen-carrying capacity of the blood is reduced in an anemic person, but the arterial Po2and oxygen saturation are both normal.The decrease in arterial O2 content is compensated for by an increase in the extraction offrom hemoglobin, which reduces the Po2 of the venous blood.oxygenThe unloading of oxygen at tissue level is enhanced by an increased level of 2,3-DPG in an anemicpatient because 2,3-DPG causes a right shift of the oxygen-hemoglobin dissociation curve.442",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following oxygen-hemoglobin dissociation curves corresponds to blood from anadult (dark blue line) and blood from a fetus (light blue line)?436",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "DAB0PO20PO2PO2PO2"
+      },
+      "correct_answer": "C",
+      "explanation": "Curve C corresponds to blood from an adult (dark blue line) and blood from a fetus (light blueline). The fetal oxygen-hemoglobin dissociation curve is shifted to the left relative to the adultcurve.The fetal hemoglobin (Hb F) has a greater affinity for O2 than adult hemoglobin (Hb A). Thisfacilitates the movement of O2 from the mother to fetus. The cause of this greater affinity is thepoor binding of 2,3-DPG by polypeptide chains that replace ẞ chains in Hb F. The fetaloxygen-hemoglobin dissociation curve is thus shifted to the left relative to the adult curve.Typically, fetal arterial Po2 is low, hence leftward shift enhances placental uptake of O2.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q9_img1_892acd5f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following oxygen-hemoglobin dissociation curves corresponds to blood duringresting conditions (dark blue line) and blood during exercise (light blue line)?",
+      "options": {
+        "A": "A% Hb sat.% Hb sat.P02% Hb sat.0PO2MARROW% Hb sat.PO2OMARROW0DPo2437",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correct_answer": "B",
+      "explanation": "The right shift of the oxygen-hemoglobin curve allows more oxygen to be released to the muscle ata given Po2 in the blood. The oxygen dissociation curve shifts to the right when factors like:• Increased temperature resulting from heat generated by the exercising muscle,• Higher carbon dioxide levels released from the muscle tissue,• Elevated 2,3-Bisphosphoglycerate (2,3-BPG), and•Increased hydrogen ions concentration in the muscle capillary bloodAbove factors decrease hemoglobin's oxygen affinity. This shift promotes easier oxygen release tomuscles and other tissues.Note: Despite the rightward shift, the maximum hemoglobin oxygen saturation at high oxygenlevels remains unchanged. The plateau on the curve represents the maximal saturation achievableunder optimal conditions, ensuring hemoglobin can still be fully saturated with oxygen.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q10_img1_2ca52848.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 11,
+      "question": "Decompression sickness is seen in",
+      "options": {
+        "A": "All of the below",
+        "B": "Pilot",
+        "C": "Mountaineer",
+        "D": "Divers"
+      },
+      "correct_answer": "A",
+      "explanation": "Decompression sickness is seen in pilots, mountaineers, and divers.Decompression sickness (DCS) or diver's disease, the bends, or Caisson disease is the name givento a variety of symptoms experienced by a person exposed to a reduction in the pressuresurrounding their body.It can be seen in• Divers ascending rapidly from deep-sea (high pressure) to the surface of the earth (low pressure)• Pilots traveling in unpressurized aircraft or mountaineers, rapidly ascending from the surface ofthe earth (high-pressure zone) to a high altitude (low-pressure zone).Under high-pressure, gases get compressed and their solubility increases. When a person is in ahigh-pressure zone like the deep sea for a long time, an increased amount of nitrogen gets443dissolved in his or her body. If the person suddenly comes back to an area of atmosphericpressure or a low-pressure zone, the gases escape from a dissolved state and form bubbles. Thesebubbles are almost entirely made of nitrogen. The bubbles can plug many small blood vessels indifferent tissues.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 12,
+      "question": "Nitrogen narcosis is due to",
+      "options": {
+        "A": "Nitrogen inhibits dismutase enzyme",
+        "B": "Increased production of nitrous oxide",
+        "C": "Increased solubility of nitrogen in nerve cell",
+        "D": "Decrease in free radicals"
+      },
+      "correct_answer": "C",
+      "explanation": "Nitrogen narcosis is due to increased solubility of nitrogen in the nerve cell.Concept:•⚫ Below the sea level, atmospheric pressure increases at the rate of 1 atm for every 33 feet depth.• According to Boyle's law, as pressure increases, volume decreases. Hence, lungs tend to collapse.To prevent this and to keep lung expanded, gas is delivered at high pressure to the lungs.• According to Dalton's law, nitrogen contributes the maximum to barometric pressure and hencethe amount of nitrogen entering alveoli increases.•Henry's law: As the partial pressure of nitrogen in alveoli increases, its concentration in bloodalso increases (dissolved form). Nitrogen is 5 times more soluble in fat compared to water.•As a result, nitrogen dissolves in the fatty substances in neuronal membranes, and because of itsphysical effect on altering ionic conductance through the membranes, it reduces neuronalexcitability and produces the narcotic effect.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    },
+    {
+      "q_no": 13,
+      "question": "During acclimatization at higher altitude, all of the following changes take place except",
+      "options": {
+        "A": "↑ Minute ventilation",
+        "B": "↑ Sensitivity of central chemoreceptors",
+        "C": "↑ Sensitivity of peripheral chemoreceptors",
+        "D": "Shift of Oxygen Haemoglobin Dissociation Curve to left"
+      },
+      "correct_answer": "D",
+      "explanation": "A shift of Oxygen Haemoglobin Dissociation Curve (OHDC) to the right is seen in acclimatization.On ascension to higher altitudes over a period of days rather than a period of hours, the ability tobreathe much more deeply and withstand lower atmospheric O2 concentrations is improved. Thisphenomenon is called acclimatization.Variation of pH in Acclimatization:Immediate exposure to low pO2 stimulates the arterial chemoreceptors. This increases alveolarventilation. This immediate increase in pulmonary ventilation upon rising to a high altitude blowsoff large quantities of CO2, reducing the pCO2 and increases the pH of the body fluids.These changes inhibit the brain stem respiratory center and thereby oppose the effect of low PO2to stimulate respiration through the peripheral arterial chemoreceptors in the carotid and aorticbodies.There is a reduction of bicarbonate ion concentration in the cerebrospinal fluid, as well as in thebrain tissues. This reduction, in turn, decreases the pH in the fluids surrounding thechemosensitive neurons of the respiratory center, thus increasing the respiratory stimulatoryactivity of the center. An important mechanism for the gradual decrease in bicarbonateconcentration is compensation by the kidneys for the respiratory alkalosis. Gradually, themetabolic compensation of the kidney will shift the pH towards normal.444",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "with Pressure Changes"
+    }
+  ]
+}

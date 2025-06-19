@@ -1,0 +1,365 @@
+{
+  "chapter": "Transport Across Cell Membrane",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Transport of lipid-soluble substances across the cell membrane occurs via which of the following?",
+      "options": {
+        "A": "Porins",
+        "B": "Ionophore",
+        "C": "Lipopolysaccharides",
+        "D": "Diffusion"
+      },
+      "correct_answer": "D",
+      "explanation": "Lipid-soluble substances can directly diffuse across the cell membrane.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following will diffuse more rapidly through phospholipid membranes?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Sodium",
+        "C": "Chloride",
+        "D": "Water"
+      },
+      "correct_answer": "A",
+      "explanation": "Among the following substances, oxygen diffuses more rapidly through phospholipid membranesas it is a lipid-soluble substance.Phospholipid membranes are:• Permeable to lipid-soluble substances (e.g., O2, CO2, NH3, steroid hormones)• Impermeable to water-soluble substances (e.g., Na+, Cl-, glucose)•Semipermeable to water",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is explained by the fick's law of diffusion?",
+      "options": {
+        "A": "Active diffusion along concentration gradient",
+        "B": "Passive diffusion along concentration gradient",
+        "C": "Active diffusion against concentration gradient",
+        "D": "Passive diffusion against concentration gradient"
+      },
+      "correct_answer": "B",
+      "explanation": "Fick's law of diffusion explains passive diffusion along the concentration gradient.Fick's law of diffusion: The magnitude of the diffusing tendency is directly proportional to thecross-sectional area across which diffusion is taking place and the concentration gradient, orchemical gradient, which is the difference in concentration of the diffusing substance divided bythe thickness of the membrane.41",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 4,
+      "question": "For a membrane permeable substance, the intracellular concentration (IC) is 10 units andextracellular concentration (EC) is 5 units. If the intracellular concentration, surface area ofthe membrane and thickness of the membrane are doubled, and the EC remains the same,What will be the net effect on the diffusion?34",
+      "options": {
+        "A": "Diffusion becomes 2x",
+        "B": "Diffusion becomes 3xDiffusion becomes 1/2xd) Diffusion becomes 1/3xQuestion 5:Which of the following does not follow transport saturation kinetics?a) Facilitated diffusionb) Na+-Ca2+ exchanger",
+        "C": "Simple diffusion",
+        "D": "Coupled transport"
+      },
+      "correct_answer": "B",
+      "explanation": "The net effect on the diffusion is, it becomes 3x.The magnitude of the diffusion:where,•·J=net rate of diffusion• D = diffusion coefficient• A = area of the membrane• Ax = thickness of the membrane or the distance the molecule must travel across for diffusion• Ac = concentration gradientIn the condition mentioned above, the surface area, the thickness of the membrane andintracellular concentration becomes doubled. This means,• A is doubled = 2A• Ax is doubled = 2Ax••IC is doubled. 10x2= 20 units; EC is 5 units.So, Ac = 20-5 = 15. Ac was 5 with the original concentrations. Hence Ac has been tripled.Now,J=-D x 2A x 3Ac/2Ax = 3 x [DA Ac/Ax]Therefore the diffusion of the substance increases by three-fold.2nd method :JDA (Ac/Ax)After applying changes, Ac = intracellular conc. - extracellular conc.Therefore, J1 = - DA (5/Ax)=10-5= 5After appropriate doublings,New intracellular conc. = 10* 2 = 20New extracellular conc. =5 (since no change) Ac = 20-5 = 15Therefore, J2 = - D 2*A (15 / 2* Ax)= - D A (15/Ax)Now,J2 / J1 = [-DA (15/Ax) ]/[ = - DA (5/Ax)]J2J115/5= 3Therefore the diffusion of the substance increases by three-fold.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 6,
+      "question": "Which statement about the facilitated diffusion is true?",
+      "options": {
+        "A": "Form of active transport",
+        "B": "Requires carrier protein",
+        "C": "Doesn't follow saturation kinetics",
+        "D": "Requires creatinine phosphate"
+      },
+      "correct_answer": "B",
+      "explanation": "When carrier proteins help in the movement of substances in the direction of their chemical orelectrical gradients (downhill movement), no energy input is required and the process is calledfacilitated diffusion.Examples• GLUT• Urea Transporters:• UTA 1, 2, 3, 4 in Kidney• UTB in RBC• Amino Acid TransportersOther options are wrong because:• Facilitated diffusion is a type of passive transport.• It follows saturation kinetics.• No energy input is required in facilitated diffusion.43Rate of diffusionVmaxSimple diffusionFacilitated diffusionConcentration of substanceOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp6_img1_86fce825.jpeg",
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 7,
+      "question": "The movement of which of the following substance across the membrane is most affected byosmotic pressure?",
+      "options": {
+        "A": "Sodium",
+        "B": "Potassium",
+        "C": "Water",
+        "D": "Glucose"
+      },
+      "correct_answer": "",
+      "explanation": "The movement of water across the membrane is most affected by osmotic pressure.Osmotic pressure is the pressure that would have to be applied to prevent the movement of watermolecules to the more concentrated solution i.e. to a region in which there is higher concentrationof a solute to which the membrane is impermeable.AOsmotic pressureRRSemipermeablemembraneOMARROW• Osmotic pressure is calculated by Vant Hoff's law.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp7_img1_8f63ae3d.jpeg",
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 8,
+      "question": "Osmolarity is defined as35",
+      "options": {
+        "A": "Number of osmole per litre",
+        "B": "Number of osmole per kg",
+        "C": "Weight of solute per litre",
+        "D": "Weight of solvent perlitre"
+      },
+      "correct_answer": "A",
+      "explanation": "Bcm H₂OOsmoticpressure44Difference between osmolarity &amp; osmolality:•Osmolarity is the number of osmoles per litre of solution,• Osmolality is the number of osmoles per kilogram of solvent.•Therefore, osmolarity is affected by the volume of the various solutes in the solution and thetemperature, while the osmolality is not.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 9,
+      "question": "Passive transfer of only solvent occurs in",
+      "options": {
+        "A": "Diffusion",
+        "B": "Active transport",
+        "C": "Osmosis",
+        "D": "Pinocytosis"
+      },
+      "correct_answer": "",
+      "explanation": "Passive transfer of the only solvent occurs in Osmosis.The diffusion of solvent molecules into a region in which there is a higher concentration of asolute to which the membrane is impermeable is called osmosis.Note: Membrane is impermeable to the solute.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 10,
+      "question": "A 47-year-old diabetic man takes a low-dose aspirin daily due to cardiovascular risk. Theabsorption of aspirin in the stomach is an example of which type of transport?",
+      "options": {
+        "A": "Nonionic diffusion",
+        "B": "Facilitated diffusion",
+        "C": "Simple diffusion",
+        "D": "Secondary active transport"
+      },
+      "correct_answer": "A",
+      "explanation": "The absorption of salicylates like aspirin in the stomach is an example of nonionic diffusion.• Some weak acids and bases are quite soluble in cell membranes in the undissociated form, butthey cannot cross membranes in the charged (i.e. dissociated) form. Consequently, molecules ofthe undissociated substance diffuse from one side of the membrane to the other and thendissociate. This phenomenon is called nonionic diffusion.Examples• Ammonia excretion in collecting ducts• Excretion of weak acids and bases in the kidney•Absorption of salicylates in the stomach• Absorption of bile acids in the distal ileum",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 11,
+      "question": "Energy is required in which of the following mode of transport.",
+      "options": {
+        "A": "Osmosis",
+        "B": "Diffusion",
+        "C": "Facilitated diffusion",
+        "D": "Active transport"
+      },
+      "correct_answer": "D",
+      "explanation": "When a carrier protein transports substances against their electrical and chemical gradients(uphill movement) it requires energy and this type of transport is called active transport.45Active transportActive transportPrimaryRRDirect input of metabolicenergy in the form of ATPSecondaryTransport of 2 or moresubstances is coupledMetabolic energy is derivedindirectly from the Na+gradient, maintained by theNa K pumpOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp11_img1_ac617327.jpeg",
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 12,
+      "question": "Movement of calcium from the cytosol to the extracellular space takes place by36",
+      "options": {
+        "A": "Primary active transport",
+        "B": "Facilitated diffusion",
+        "C": "Simple diffusion",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "The movement of calcium from the cytosol to the extracellular space takes place by primary activetransport.Two primary active transport calcium pumps maintain low intracellular calcium levels. Onepumps calcium ions to the extracellular space and another to the sarcoplasmic reticulum.Calcium transport also takes place via secondary active transport. A sodium-calciumexchanger/antiporter moves sodium ions to the interior and calcium ions to the exterior.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 13,
+      "question": "Na+-K+ ATP pump uses",
+      "options": {
+        "A": "ATPase",
+        "B": "GTPase",
+        "C": "Acetyl CoA",
+        "D": "NADPH"
+      },
+      "correct_answer": "A",
+      "explanation": "Na+- K+ ATPase or Na+-K+ ATP pump catalyzes the hydrolysis of ATP to ADP and uses theenergy to extrude three Na+ from the cell and take two K+ into the cell for each molecule of ATPhydrolyzed.Sodium-Potassium Pump/ Na+- K+ Pump:•Carrier protein located on the plasma membrane of all cells• Pumps 3 Na+ out of the cell &amp; 2 K+ into the cell (coupling ratio 3:2)• 2 separate globular proteins:•• Larger-subunit &amp; smaller- ẞ subunit, ° subunit concerned with Na+- K+ transport•Binding sites on ° subunit:• 3 intracellular sites- for Na+, ATP, and one phosphorylation site• 2 extracellular sites- for K+ and oubain46PlasmamembraneMechanism Of ActionExtracellular space-SodiumNa+CytoplasmATPPhosphateADPSodium-potassium pump3Na+ binds to a subunitATP ADPP binds to Na+-K+ ATPase-PotassiumK*Change in a subunit configurationMANa+ extruded out of cellSw W2K+ binds to extracellular sitea subunit dephosphorylationa subunit returns to original configurationK+ released into the cellOMARROWNa*K*ConcentrationFunctions:• Controlling Cell Volume.•Electrogenic Nature- maintains Resting membrane potential• The energy from the Na+-K+ pump also indirectly serves as the energy source for secondaryactive transport.Regulation:•Pump activity is altered by second messenger molecules eg. cAMP, DAG• Stimulated by thyroid hormones, insulin and aldosterone• Inhibition by dopamine, digitalis glycosides, ouabain47",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 14,
+      "question": "Primary active transport is mediated by which one of the following enzymes?",
+      "options": {
+        "A": "G-Protein",
+        "B": "Na+-K+ ATPase",
+        "C": "Carrier protein",
+        "D": "Channel protein"
+      },
+      "correct_answer": "B",
+      "explanation": "In active transport the energy is provided almost exclusively by the hydrolysis of ATP. Hencemany carrier molecules are ATPases (eg. Na+-K+-ATPase), enzymes that catalyze the hydrolysis ofATP.PRIMARY ACTIVE TRANSPORTRequiresdirect input of metabolic energyin the form of adenosine triphosphate(ATP)a) Na+-K+-ATPase or sodiumpotassium pumpb) Ca2+-ATPasec) H+-ATPase or protonpump d) H+-K+-ATPaseSECONDARY ACTIVE TRANSPORTThe transport of two or moresolutes is coupled and metabolic energy is providedindirectlyfrom the Na+gradient thatis maintained across cell membranes by Na+-K+-ATPasepumpa) Na+- glucose cotransportb)Na+-Ca2+counter transport",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 15,
+      "question": "For Na+-K+ ATPase coupling ratio is",
+      "options": {
+        "A": "1:1",
+        "B": "1:2",
+        "C": "2:3",
+        "D": "3:2"
+      },
+      "correct_answer": "D",
+      "explanation": "Na+-K+ ATPase or Na+-K+ ATP pump is an electrogenic pump in that it moves three positivecharges out of the cell for each two that it moves in, and it is therefore said to have a couplingratio of 3:2.Note:•Na+-K+ ATP pump is found in almost all parts of the body, and it catalyzes the hydrolysis of ATPto ADP and uses the energy for its activity•It is one of the major energy using process in the body. On an average, it accounts for 24% of theenergy utilized by the cells, and in neurons it accounts for 70%. Thus, it accounts for large sharein basal metabolism",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 16,
+      "question": "A 40-year-old diabetic man has been prescribed empagliflozin. Which of the followingprocesses will most likely be affected by this drug?37",
+      "options": {
+        "A": "Secondary active transport",
+        "B": "Primary active transport",
+        "C": "Facilitated diffusion",
+        "D": "Simple diffusion"
+      },
+      "correct_answer": "A",
+      "explanation": "Empagliflozin is an SGLT-2 inhibitor. SGLT-2 or sodium-glucose transport protein 2 is anexample of a cotransporter that plays a key role in glucose absorption from renal tubuleby secondary active transport. This process is blocked by SGLT-2 inhibitors, leading to renal lossof glucose and improved glycemic control.• A special property of the transport protein involved in secondary active transport is that aconformational change to allow Na+ movement to the interior will not occur until a glucose48molecule also attaches to the transport protein. When they both become attached, theconformational change takes place automatically, and the Na+ and glucose are transported to theinside of the cell at the same time.•The figure shows glucose is transported uphill and Na+ is transported downhill. Energy derivedfrom the downhill movement of Na+ is maintained by the Na+-K+ ATPase pump on thebasolateral side.Interstitial fluidTubular cellsTubular lumenCo-transportBasolateralmembraneGLUTGlucoseK+RR- Na+ATPOMARROWSGLTLuminalmembraneGlucoseNa+",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_23344050.jpeg",
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 17,
+      "question": "Glucose is absorbed in intestine by?",
+      "options": {
+        "A": "Primary active transport",
+        "B": "Facilitated diffusion",
+        "C": "Simple diffusion",
+        "D": "Secondary active transport"
+      },
+      "correct_answer": "D",
+      "explanation": "Glucose is absorbed in the intestine by secondary active transport (sodium co-transport).The energy for glucose transport is provided indirectly, by the active transport of Na+ out of thecell. This maintains the concentration gradient across the luminal border of the cell so that moreNa+ and consequently more glucose enter.Though both secondary active transport and facilitated diffusion play a role in glucose absorption,it is the initial active transport of sodium through the basolateral membranes of the intestinalepithelial cells that provide the eventual force for moving glucose through the membranes as well.So, secondary active transport is the single best answer for this question.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 18,
+      "question": "A 40-year-old lady is diagnosed with Lambart- Eaton syndrome. Radioimmunoassay revealsthe presence of serum antibodies against voltage-gated calcium channels. Which of thefollowing process will be affected as a result of this pathology?",
+      "options": {
+        "A": "Facilitated Diffusion",
+        "B": "Endocytosis",
+        "C": "Exocytosis",
+        "D": "Simple Diffusion"
+      },
+      "correct_answer": "",
+      "explanation": "Exocytosis of neurotransmitters at the nerve terminals will be affected as a result of antibodiesagainst voltage-gated calcium channels.After an action potential reaches the terminal endings of a nerve, the influx of Ca2+ viavoltage-gated calcium channels leads to the fusion of intracellular vesicles with cell membranes.This results in the release of neurotransmitters into the synaptic space. This process will beimpaired in the case of Lambert-eaton syndrome.49Exocytosis is the extrusion of membrane-bound vesicles. In exocytosis, intracellular vesicles moveto the cell membrane, fuse with it and then release their contents to the extracellular fluid. Soluteand water can be released from the cell via vesicles by the process of exocytosis.Exocytosis can be:Constitutive exocytosis:• Involves prompt transport of proteins to the cell membrane in vesicles, with little or noprocessing or storage• Examples• Goblet cells in the intestine continuously to release mucus• Fibroblasts in connective tissue release collagenRegulated/ Non constitutive exocytosis:Here the proteins from golgi apparatus initially enter the secretory granules, where theprocessing of prohormones to mature hormones occurs before exocytosis•Examples• Endocrine cells, hormones are stored in secretory vesicles and released in response to a signalfrom outside the cell.•To insert proteins into the cell membrane like aquaporin insertionNote:• The term 'regulated exocytosis' is misleading because even constitutive exocytosis is regulated.•Exocytosis involves two families of proteins: Rabs, which help vesicles dock onto the membrane,and SNARES, which facilitate membrane fusion.• This is Ca2+ -dependent process•Exocytosis, like endocytosis, requires energy in the form of ATP.ExocytosisConstitutive SecretionPlasmaMembranenewly-synthesizedmembrane and proteinsRegulated SecretionCa²+ triggeredVesicleGolgi apparatus50SignalReceptor",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 19,
+      "question": "Which pathway is called regulated pathway?",
+      "options": {
+        "A": "Constitutive exocytosis",
+        "B": "Constitutive endocytosis",
+        "C": "Receptor mediated endocytosis",
+        "D": "Non Constitutive exocytosis"
+      },
+      "correct_answer": "D",
+      "explanation": "The non constitutive pathway of exocytosis is called the regulated pathway.Exocytosis can be either constitutive or non constitutive(regulated):•Regulated or nonconstitutive pathway: Proteins from the Golgi apparatus initially entersecretory granules, where processing of prohormones to the mature hormones occurs beforeexocytosis.• Constitutive pathway: Involves the prompt transport of proteins to the cell membrane invesicles, with little or no processing or storage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 20,
+      "question": "38A 30-year-old gentleman is diagnosed with elevated blood cholesterol levels. A defect in aprocess that involves the protein 'clathrin' is being suspected. Which of the following processwill be most likely affected by this defect?",
+      "options": {
+        "A": "Receptor mediated endocytosis",
+        "B": "Exocytosis",
+        "C": "Cell to cell adhesion",
+        "D": "Plasma membrane"
+      },
+      "correct_answer": "A",
+      "explanation": "Receptor-mediated endocytosis takes place in coated pits or indentations where the cytoplasmicside of the membrane has high concentrations of protein. The most common protein found incoated pits is clathrin.A GTP binding protein dynamin is involved in pinching off the vesicle formed inclathrin-mediated endocytosisClathrin-dependent endocytosisreceptorformation ofYYYclathrin-coated vesiclesPMAP-2clathrinAP-2 complexα-adaptinẞ2-adaptinμ2-chainσ2-chainfusionuncoatingearly endosomesImportance:• Internalisation of many receptors and ligands bound to them eg. LDL, Nerve Growth Factor.• Receptor-mediated endocytosis transports a variety of substances including protein hormones,growth factors, antibodies, and plasma proteins that serve as carriers for iron and cholesterol.Synaptic function•• Abnormalities in receptor-mediated removal of cholesterol from the blood are associated withelevated plasma cholesterol levels and cardiovascular disease.515555",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp20_img1_4306c591.jpeg",
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is true about secretory vesicle transport?",
+      "options": {
+        "A": "Along concentration gradient",
+        "B": "No relation with concentration gradient",
+        "C": "Against the concentration gradient",
+        "D": "Passive method of membrane transport"
+      },
+      "correct_answer": "B",
+      "explanation": "Vesicular transport has no relation to the concentration gradient.Vesicular transport requires energy expenditure by the cell, so this is an active method ofmembrane transport. Energy is needed to accomplish vesicle formation and vesicle movementwithin the cell.METHOD OF TRANSPORTSUBSTANCE INVOLVEDENERGY REQUIREMENTEndocytosisPinocytosis2. Phagocytosis3. Receptor-mediatedTranscytosisExocytosisUptake of fluids or macromolecules by the cellSubstances ingested are in the solutionMultimolecular particles (e.gbacteria, cellular debris)Specific large polar molecule(ex: Transferrin, LDL)Intact proteins across epithelial barriers (e.g., ingested antibodies in maternal milk across intestinal epithelia)Secretary products (e.g hormones, enzymes), as well as large molecules that pass through the cell intact.Small molecules are taken upby invaginations of the plasma membrane and pinch offto form a vesicle.Active. The cell extends pseudopods around the particle toform a vesicle.Active. Molecules bind to receptors that are localized in clathrin-coated pits in the plasma membrane, endocytosed in vesicles that fuse with lysosomesMovement of endocytosed vesicles between the apical andbasolateral compartments ofcells.Active. An increase in cytosolic Ca2+ induces the fusion ofa secretory vesicle with the plasma membrane; the vesicleopens up and releases its contents.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 22,
+      "question": "Transcytosis occurs in which of the following cell types?",
+      "options": {
+        "A": "Epithelial cells of intestine",
+        "B": "Neuroglia",
+        "C": "Neuron",
+        "D": "Axolemma"
+      },
+      "correct_answer": "A",
+      "explanation": "Transcytosis is seen in epithelial cells of intestine. Transcytosis is endocytosis across onemembrane of the cell followed by exocytosis across the opposite membrane.Transcytosis across epithelia or endothelia: Some molecules, such as proteins, are too large todiffuse through the membrane or cross the membrane transporters of epithelia. Instead they aremoved across epithelia by transcytosis.•Steps:The molecule is brought into the epithelial cell via receptor-mediated endocytosis.52• The resulting vesicle attaches to microtubules in the cells cytoskeleton and is transported acrossthe cell by vesicular transport.• At the opposite side of the epithelium, the contents of the vesicle are expelled into the interstitialfluid by exocytosis.Significance:• Transcytosis makes it possible for large proteins to move across an epithelium and remainintact.•It is the means by which infants absorb maternal antibodies in breast milk. The antibodies areabsorbed on the apical surface of the infant's intestinal epithelium and then released into theextracellular fluid.transcellularrouteparacellularrouteapicalmembranetightjunctionyoung mushing yetin ubasalmembranelateralmembrane",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp22_img1_5e54ff12.jpeg",
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following ion is used in exocytosis?",
+      "options": {
+        "A": "K+",
+        "B": "Na+",
+        "C": "Ca2+",
+        "D": "Mg"
+      },
+      "correct_answer": "",
+      "explanation": "-As exocytosis, begins → Tin intracellular Ca2+ → Ca2+interacts with a calcium sensing protein →secretory vesicle docking and fusion → fused area of membrane opens, the vesicle contents diffuseinto the extracellular fluid while the vesicle membrane stays behind and becomes part of the cellmembrane.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 24,
+      "question": "39A 35-year-old diabetic man is started on an insulin secretagogue. Which of the following ionsis required for emeiocytosis or reverse pinocytosis during the insulin secretion process?",
+      "options": {
+        "A": "Na+",
+        "B": "K+",
+        "C": "Ca2+",
+        "D": "Mg2+"
+      },
+      "correct_answer": "",
+      "explanation": "Emeiocytosis requires Ca2+ directly.Emeiocytosis is the movement of secretory granules to the plasma membrane of the cell, fusion ofthe granule surface membrane with the cell membrane, rupture of membranes, and liberation ofgranular contents into the pericapillary space.Insulin secretion (as shown in the image below):53• Glucose enters B cells by GLUT-2 transporters.• It is phosphorylated and metabolized to pyruvate (Pyr) in the cytoplasm.•The Pyr enters the mitochondria and is metabolized via the citric acid cycle. The ATP formed byoxidative phosphorylation inhibits ATP-sensitive K+ channels, reducing K+ efflux.• This depolarizes the B cell, and Ca2+ influx is increased. The Ca2+ stimulates the release ofinsulin by exocytosis. Glutamate (Glu) is also formed, and this primes secretory granules,preparing them for exocytosis.It is promoted by Ca2+, ↑ K+It is inhibited by Mg2+, K+ depletion.The process of emeiocytosis for insulin secretion is depicted in the image below.Emeiocytosis for insulin secretionGLUT2RespirationGlucoseATP+ATP ADP ratio closesKATP channel,causing depolarisationATPproductionCaCa2+ activates insulin geneexpression via CREB(Calcium ResponsiveElement Binding Protein)Exocytosis of stored insulinMARROW54VoltagegatedCa2+channels",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsLipid-soluble substances are transported across the cell membrane via diffusion.••The rate of diffusion depends directly on lipid solubility.Characteristics of simple diffusion• The only form of transport that is not carrier-mediated• Occurs down an electrochemical gradient (\"downhill\")• Does not require metabolic energy and therefore is passive•Permeability••• Describes the ease with which a solute diffuses through a membraneDepends on the characteristics of the solute and the membrane• Small hydrophobic solutes (e.g., O2) have the highest permeabilities in lipid membranes.•Hydrophilic solutes (e.g., Na+) must cross cell membranes through water-filled channels, orpores. If the solute is an ion, then its flux will depend on both the concentration difference and thepotential difference across the membrane.Solution to Question 2:Among the following substances, oxygen diffuses more rapidly through phospholipid membranesas it is a lipid-soluble substance.Phospholipid membranes are:• Permeable to lipid-soluble substances (e.g., O2, CO2, NH3, steroid hormones)• Impermeable to water-soluble substances (e.g., Na+, Cl-, glucose)•Semipermeable to waterSolution to Question 3:Fick's law of diffusion explains passive diffusion along the concentration gradient.Fick's law of diffusion: The magnitude of the diffusing tendency is directly proportional to thecross-sectional area across which diffusion is taking place and the concentration gradient, orchemical gradient, which is the difference in concentration of the diffusing substance divided bythe thickness of the membrane.41Solution to Question 4:The net effect on the diffusion is, it becomes 3x.The magnitude of the diffusion:where,•·J=net rate of diffusion• D = diffusion coefficient• A = area of the membrane• Ax = thickness of the membrane or the distance the molecule must travel across for diffusion• Ac = concentration gradientIn the condition mentioned above, the surface area, the thickness of the membrane andintracellular concentration becomes doubled. This means,• A is doubled = 2A• Ax is doubled = 2Ax••IC is doubled. 10x2= 20 units; EC is 5 units.So, Ac = 20-5 = 15. Ac was 5 with the original concentrations. Hence Ac has been tripled.Now,J=-D x 2A x 3Ac/2Ax = 3 x [DA Ac/Ax]Therefore the diffusion of the substance increases by three-fold.2nd method :JDA (Ac/Ax)After applying changes, Ac = intracellular conc. - extracellular conc.Therefore, J1 = - DA (5/Ax)=10-5= 5After appropriate doublings,New intracellular conc. = 10* 2 = 20New extracellular conc. =5 (since no change) Ac = 20-5 = 15Therefore, J2 = - D 2*A (15 / 2* Ax)= - D A (15/Ax)Now,J2 / J1 = [-DA (15/Ax) ]/[ = - DA (5/Ax)]J2J115/5= 3Therefore the diffusion of the substance increases by three-fold.Solution to Question 5:42Simple diffusion is not carrier-mediated transport hence do not follow saturation kinetics.• Facilitated diffusion, primary active transport, and secondary active transport all involve integralmembrane proteins and are called carrier-mediated transport.•• All carrier-mediated transport system follows saturation kinetics.The figure shows that as the concentration of the diffusing substance increases, the rate ofsimple diffusion continues to increase proportionately, but in the case of facilitated diffusion, therate of diffusion cannot rise greater than the transport maximum (Tm). Tm is analogous tothe maximum velocity (Vmax) level in enzyme kinetics.Rate of diffusionVmaxSimple diffusionFacilitated diffusionConcentration of substanceOMARROWSolution to Question 6:When carrier proteins help in the movement of substances in the direction of their chemical orelectrical gradients (downhill movement), no energy input is required and the process is calledfacilitated diffusion.Examples• GLUT• Urea Transporters:• UTA 1, 2, 3, 4 in Kidney• UTB in RBC• Amino Acid TransportersOther options are wrong because:• Facilitated diffusion is a type of passive transport.• It follows saturation kinetics.• No energy input is required in facilitated diffusion.43Rate of diffusionVmaxSimple diffusionFacilitated diffusionConcentration of substanceOMARROWSolution to Question 7:The movement of water across the membrane is most affected by osmotic pressure.Osmotic pressure is the pressure that would have to be applied to prevent the movement of watermolecules to the more concentrated solution i.e. to a region in which there is higher concentrationof a solute to which the membrane is impermeable.AOsmotic pressureRRSemipermeablemembraneOMARROW• Osmotic pressure is calculated by Vant Hoff's law.Solution to Question 8:Bcm H₂OOsmoticpressure44Difference between osmolarity &amp; osmolality:•Osmolarity is the number of osmoles per litre of solution,• Osmolality is the number of osmoles per kilogram of solvent.•Therefore, osmolarity is affected by the volume of the various solutes in the solution and thetemperature, while the osmolality is not.Solution to Question 9:Passive transfer of the only solvent occurs in Osmosis.The diffusion of solvent molecules into a region in which there is a higher concentration of asolute to which the membrane is impermeable is called osmosis.Note: Membrane is impermeable to the solute.Solution to Question 10:The absorption of salicylates like aspirin in the stomach is an example of nonionic diffusion.• Some weak acids and bases are quite soluble in cell membranes in the undissociated form, butthey cannot cross membranes in the charged (i.e. dissociated) form. Consequently, molecules ofthe undissociated substance diffuse from one side of the membrane to the other and thendissociate. This phenomenon is called nonionic diffusion.Examples• Ammonia excretion in collecting ducts• Excretion of weak acids and bases in the kidney•Absorption of salicylates in the stomach• Absorption of bile acids in the distal ileumSolution to Question 11:When a carrier protein transports substances against their electrical and chemical gradients(uphill movement) it requires energy and this type of transport is called active transport.45Active transportActive transportPrimaryRRDirect input of metabolicenergy in the form of ATPSecondaryTransport of 2 or moresubstances is coupledMetabolic energy is derivedindirectly from the Na+gradient, maintained by theNa K pumpOMARROWSolution to Question 12:The movement of calcium from the cytosol to the extracellular space takes place by primary activetransport.Two primary active transport calcium pumps maintain low intracellular calcium levels. Onepumps calcium ions to the extracellular space and another to the sarcoplasmic reticulum.Calcium transport also takes place via secondary active transport. A sodium-calciumexchanger/antiporter moves sodium ions to the interior and calcium ions to the exterior.Solution to Question 13:Na+- K+ ATPase or Na+-K+ ATP pump catalyzes the hydrolysis of ATP to ADP and uses theenergy to extrude three Na+ from the cell and take two K+ into the cell for each molecule of ATPhydrolyzed.Sodium-Potassium Pump/ Na+- K+ Pump:•Carrier protein located on the plasma membrane of all cells• Pumps 3 Na+ out of the cell &amp; 2 K+ into the cell (coupling ratio 3:2)• 2 separate globular proteins:•• Larger-subunit &amp; smaller- ẞ subunit, ° subunit concerned with Na+- K+ transport•Binding sites on ° subunit:• 3 intracellular sites- for Na+, ATP, and one phosphorylation site• 2 extracellular sites- for K+ and oubain46PlasmamembraneMechanism Of ActionExtracellular space-SodiumNa+CytoplasmATPPhosphateADPSodium-potassium pump3Na+ binds to a subunitATP ADPP binds to Na+-K+ ATPase-PotassiumK*Change in a subunit configurationMANa+ extruded out of cellSw W2K+ binds to extracellular sitea subunit dephosphorylationa subunit returns to original configurationK+ released into the cellOMARROWNa*K*ConcentrationFunctions:• Controlling Cell Volume.•Electrogenic Nature- maintains Resting membrane potential• The energy from the Na+-K+ pump also indirectly serves as the energy source for secondaryactive transport.Regulation:•Pump activity is altered by second messenger molecules eg. cAMP, DAG• Stimulated by thyroid hormones, insulin and aldosterone• Inhibition by dopamine, digitalis glycosides, ouabain47Solution to Question 14:In active transport the energy is provided almost exclusively by the hydrolysis of ATP. Hencemany carrier molecules are ATPases (eg. Na+-K+-ATPase), enzymes that catalyze the hydrolysis ofATP.PRIMARY ACTIVE TRANSPORTRequiresdirect input of metabolic energyin the form of adenosine triphosphate(ATP)",
+      "options": {
+        "A": "Na+-K+-ATPase or sodiumpotassium pump",
+        "B": "Ca2+-ATPase",
+        "C": "H+-ATPase or protonpump",
+        "D": "H+-K+-ATPaseSECONDARY ACTIVE TRANSPORTThe transport of two or moresolutes is coupled and metabolic energy is providedindirectlyfrom the Na+gradient thatis maintained across cell membranes by Na+-K+-ATPasepumpa) Na+- glucose cotransportb)Na+-Ca2+counter transportSolution to"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Transport Across Cell Membrane"
+    }
+  ]
+}

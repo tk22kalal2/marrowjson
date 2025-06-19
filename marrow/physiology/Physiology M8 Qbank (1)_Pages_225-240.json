@@ -1,0 +1,350 @@
+{
+  "chapter": "Somatosensory Pathways",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The principle that \" In spinal cords, dorsal roots are sensory and ventral roots are motor\" isknown as",
+      "options": {
+        "A": "Law of projection",
+        "B": "Bell - Magendie law",
+        "C": "Labelled line principle",
+        "D": "Weber - Fechner law"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient admitted to the ward does not feel a sensation of the heat on touching a hot object.Considering the signal reaches the thalamus, which of the following is not transmitting thesignal to an intact postcentral gyrus?",
+      "options": {
+        "A": "Primary neuron",
+        "B": "Receptor",
+        "C": "Secondary neuron",
+        "D": "Tertiary neuron"
+      },
+      "correct_answer": "",
+      "explanation": "In this scenario, the tertiary neuron does not transmit the signal to the postcentral gyrus.In the thalamus, secondary sensory neurons synapse onto tertiary sensory neurons, which in turnproject to the somatosensory region of the cerebral cortex.The question tests your knowledge of this pathway. It is said that the signal reaches the thalamusand the postcentral gyrus is intact. Still, the person cannot perceive the sensation, so the pathwayis broken between the thalamus and the gyrus, which has to be at the tertiary neuron.Sensory pathway in the nervous systemCerebral-cortex4th orderneuron3rd orderneuronThalamusMABrainstem2nd orderneuronReceptor1st orderneuronMARROWSpinal cord",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_9a6cbb97.jpeg",
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 3,
+      "question": "Decussation of ascending spinal pathways occurs mainly within the",
+      "options": {
+        "A": "Midbrain and medulla oblongata",
+        "B": "Pons and medulla oblongata",
+        "C": "Spinal cord and medulla oblongata",
+        "D": "Spinal cord only"
+      },
+      "correct_answer": "",
+      "explanation": "Decussation of ascending spinal pathways occurs mainly within the spinal cord and medullaoblongata. Most of the ascending pathways and tracts do decussate or cross; however, someremain uncrossed.Dorsal column pathway crosses in the medulla oblongata.The anterior and lateral spinothalamic tract crosses obliquely in the spinal segments.232ThalamusMedial leminiscusNucleus gracilisNucleus cuneatusFasciculus gracilisFasciculus cuneatusDorsal rootganglionFine touch and proprioceptionsensations from right side of bodyDorsal column systemPostcentral gyrusThird-order neuronSecond-order neuronMidbrainMedullaSpinal cord-First-order neuronPain and temperaturesensations from right side of bodySpinothalamic tractLateralspinothalamictractDorsal rootganglion",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp3_img1_a2b05afe.jpeg",
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 4,
+      "question": "Conscious proprioception is carried by",
+      "options": {
+        "A": "Dorsal column fibers225",
+        "B": "Anterior spinothalmic tract",
+        "C": "Lateral spinothalmic tract",
+        "D": "Vestibular tract"
+      },
+      "correct_answer": "",
+      "explanation": "Conscious proprioception is carried by dorsal column. Unconscious proprioception is carried byspinocerebellar tract.Option B and C: Anterolateral system carries pain, temperature, crude touch.ThalamusMedial leminiscusNucleus gracilisPostcentral gyrusThird-order neuronSecond-order neuron-MidbrainNucleus cuneatusMedullaFasciculus gracilisFasciculus cuneatusDorsal rootganglionFine touch and proprioceptionsensations from right side of bodyDorsal column systemSpinal cordFirst-order neuronPain and temperaturesensations from right side of bodySpinothalamic tractLateralspinothalamictractDorsal rootganglion",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp4_img1_81907532.jpeg",
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a property of fibers in the dorsal column pathway?",
+      "options": {
+        "A": "Large axonal diameter",
+        "B": "Dorsal column carries fine touch",
+        "C": "Rapid conduction velocity",
+        "D": "Unmyelinated"
+      },
+      "correct_answer": "",
+      "explanation": "The dorsal column-medial lemniscal system is composed of large, myelinated nerve fibers andthus transmit signals to the brain, at high velocities of 30 to 110 m/sec.Option B: Dorsal column carries fine touch and anterolateral column carries crude touch233",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient comes to you for his annual health checkup. He lost his vision due to an accident afew years ago. He now experiences the world through touch. Which of the followingBrodmann's areas processes this tactile stimulation?",
+      "options": {
+        "A": "3, 1, 2",
+        "B": "4,6",
+        "C": "44, 45",
+        "D": "41, 42"
+      },
+      "correct_answer": "",
+      "explanation": "Processing of tactile stimulation occurs in Brodmann's area in 3, 1, 2.The human cerebral cortex is divided into about 50 distinct areas called Brodmann's areas basedon histological structural differences.Areas 3, 1, 2 which constitute primary somatosensory area I, and areas 5 and 7, which constitutethe somatosensory association area process sensory information like tactile stimulation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 7,
+      "question": "Cortical representation of body in the cerebrum is",
+      "options": {
+        "A": "Horizontal",
+        "B": "Vertical",
+        "C": "Saggital",
+        "D": "None"
+      },
+      "correct_answer": "B",
+      "explanation": "Cortical representation of body in the cerebrum is vertical.Parts of the body are represented in order along the postcentral gyrus, with the legs on top andhead at the bottom of the gyrus.A cortical homunculus is a distorted representation of the human body, based on a neurologicalmap of the areas and proportions of the human brain dedicated to processing motor functions, orsensory functions, for different parts of the body. The size of the cortical receiving area forimpulses from a particular part of the body is proportionate to the use of the part.Sensory Homunculus is a topographical representation of distribution of sensory input to thesomatosensory cortex from different parts of the body.Motor homunculus is a topographical representation of distribution of motor output from primarymotor cortex to different parts of the body.Sensory homunculus is depicted below:HipLegFootToesGenitalsMOOISWristHandLittleRingMiddleIndexThumbEyeNoseFaceTeeth,gums,and jawLipsTonguePharynx234",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp7_img1_9373b969.jpeg",
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 8,
+      "question": "Somatosensory area has the largest representation for226",
+      "options": {
+        "A": "Lips",
+        "B": "Hand",
+        "C": "Thumb",
+        "D": "Back"
+      },
+      "correct_answer": "A",
+      "explanation": "Somatosensory area has the largest representation for lips.The relative sizes of the cortical receiving areas of the sensory homunculus are proportionate tothe use of the part. The sizes of these areas are directly proportional to the number of specializedsensory receptors in each respective peripheral area of the body.Some body parts are represented by large areas in the somatic cortex-the lips the greatest of all,followed by the face and thumb, whereas the trunk and lower part of the body are represented byrelatively small areas.HipHCLegFootToesGenitalsTrunkNeckHeadShoulderArmElbowForearmWristHandLittleRingMiddleIndexThumbEyeNoseFaceTeeth,gums,Lipsand jawTonguePharynx",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_388d9524.jpeg",
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient sustains an injury to the lateral portion of the postcentral gyrus in the righthemisphere. Loss of sensation is likely to be seen at which of the following sites in thispatient?",
+      "options": {
+        "A": "Left lower limb",
+        "B": "Right lower limb",
+        "C": "Left facial area",
+        "D": "Right facial area"
+      },
+      "correct_answer": "C",
+      "explanation": "In this case, injury to the lateral portion of the postcentral gyrus in the right hemisphere wouldresult in loss of sensation in the left facial area.Each hemisphere receives somatic sensory information from the opposite side of the body in thepostcentral gyrus (somatosensory area).The lateral portion of the postcentral gyrus receives somatic sensory information from the facialand neck region while the medial portion of the postcentral gyrus received somatic sensoryinformation from the trunk and appendages.235HipLegFootToesGenitalsElbowForearmWristHandLittleRingMiddleIndexThumbEyeNoseFaceLipsTeeth,gums,and jawTonguePharynx",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp9_img1_9aeff5ae.jpeg",
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 10,
+      "question": "Lesion of somatosensory area I affects",
+      "options": {
+        "A": "Pain",
+        "B": "Localization",
+        "C": "Temperature",
+        "D": "All of the above"
+      },
+      "correct_answer": "B",
+      "explanation": "Lesion of the somatosensory area I affects the localization of sensations.Bilateral lesion of the somatosensory area I leads to the following impairment of sensoryjudgment:••Inability to localize different sensations in different parts of the bodyInability to judge degrees of pressure against the bodyInability to judge the weight of the objects• Inability to judge shapes of forms of objects - astereognosis• Inability to judge the texture of the materialsPain and temperature are not affected both in quality and intensity in the lesion of thesomatosensory area I. However, they are poorly localised. Pain and temperature localizationdepends greatly on the topographical map of the body in somatosensory area I to localize thesource.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 11,
+      "question": "A man was rushed to the casualty after getting stabbed in the back with a knife. On MRI, acomplete transection of one side of the spinal cord is suspected. Which of the following islikely to be seen in this patient?",
+      "options": {
+        "A": "Pain and temperature loss on the opposite side",
+        "B": "Fine touch lost on the opposite side",
+        "C": "Pain and temperature lost on the same side",
+        "D": "Only pain lost on the same side"
+      },
+      "correct_answer": "A",
+      "explanation": "This patient most likely has Brown-Sequard syndrome. It is characterized by loss of pain andtemperature on the opposite side.Hemisection of the spinal cord causes damage to ascending sensory (dorsal column pathway,ventrolateral spinothalamic tract) and descending motor (corticospinal tract) pathways, which iscalled the Brown-Séquard syndrome.The lesion to fasciculus gracilus or fasciculus cuneatus leads to ipsilateral loss of discriminativetouch, vibration, and proprioception below the level of the lesion.236The loss of the spinothalamic tract leads to contralateral loss of pain and temperature sensationbeginning one or two segments below the lesion.Damage to the corticospinal tract produces weakness and spasticity in certain muscle groups onthe same side of the body.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 12,
+      "question": "227Which of the following findings are seen in a patient with Brown-Sequard syndrome?",
+      "options": {
+        "A": "Upper Motor Neuron type of paralysis below the lesion on the opposite side",
+        "B": "Impaired fine touch below the lesion on the opposite side",
+        "C": "Loss of crude touch below the lesion on the same side",
+        "D": "Loss of vibration sense below the lesion on the same side"
+      },
+      "correct_answer": "D",
+      "explanation": "A patient with Brown Sequard syndrome will have a loss of vibration sense below the lesion on thesame side.Brown-sequard syndrome is caused due to hemisection of the Spinal cord. It can be caused byfracture-dislocation of the vertebral column, by a bullet or stab wound, or by an expanding tumor.Clinical features:• Pyramidal tract: Pyramidal weakness (ipsilateral upper motor neuron type of paralysis) belowthe level of the lesion on the same side as the lesion (pyramidal tract crosses in the medulla).• Dorsal columns: Impaired fine touch, 2 point discrimination, proprioception, vibration belowthe level of lesion on the same side of lesion (dorsal column fibres cross in the medulla).Spinothalamic tract: Loss of pain, temperature, crude touch, pressure sensation below the levelof the lesion on the contralateral side of the lesion (spinothalamic tract crosses midline afterentering the cord).•",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 13,
+      "question": "Itch is carried by",
+      "options": {
+        "A": "Dorsal column",
+        "B": "Spinocerebellar tract",
+        "C": "Anterolateral system",
+        "D": "Corticospinal tract"
+      },
+      "correct_answer": "C",
+      "explanation": "Itch-specific fibers have been demonstrated in the anterolateral spinothalamic tract. They arecarried by unmyelinated nerve fiber C. Itching can be produced by repeated local mechanicalstimulation of skin, variety of chemical agents including histamine and kinins released in the skinin response to tissue damageSimple scratching relieves itching because it activates large fast conducting afferents (Aẞ) that gatethe transmission in the dorsal horn in a manner analogous to inhibition of pain by stimulation ofsimilar afferents (Gate control theory).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 14,
+      "question": "Following are the endogenous opioids except_",
+      "options": {
+        "A": "Dopamine",
+        "B": "Endorphin",
+        "C": "Enkephalin",
+        "D": "Dynorphin"
+      },
+      "correct_answer": "A",
+      "explanation": "Endogenous opioids, a group of neuropeptides that includesbeta-endorphin, dynorphins, and enkephalins.Opioids cause both presynaptic and post synaptic inhibition reducing excitatory post-synapticpotential (EPSP). Opioids are released from the descending analgesic pathway and bind withopiate receptors on the afferent pain-fiber terminal. This binding suppresses the release ofsubstance P, blocking further transmission of the pain signal.237",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 15,
+      "question": "You are examining a patient for a follow-up of severe pain in his right leg. He tells you that hefeels much better now that he is taking acupuncture therapy too. Which of the following isresponsible for pain relief in acupuncture?",
+      "options": {
+        "A": "Substance P",
+        "B": "Endorphin",
+        "C": "Serotonin",
+        "D": "Histamine"
+      },
+      "correct_answer": "B",
+      "explanation": "Pain relief in acupuncture is by the release of endorphin.The acupuncture endorphin hypothesis is the primary mechanism of acupuncture analgesia.According to this hypothesis, Acupuncture is thought to activate afferent neurons leading to spinalcord and midbrain centers that release endogenous opioids implicated in pain relief.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 16,
+      "question": "228Fast pain is carried by",
+      "options": {
+        "A": "Neo spinothalamic tract",
+        "B": "Paleo spinothalamic tract",
+        "C": "Dorsal column",
+        "D": "None"
+      },
+      "correct_answer": "A",
+      "explanation": "Fast pain is carried by neospinothalamic tract.Pain signals take two pathways to the brain:• Neospinothalmic tract for fast pain/epicritic pain (AS fibres)• Paleospinothalamic tract for slow pain/Protopathic pain (C fibres)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 17,
+      "question": "Soldiers wounded in the heat of battle often feel no pain until the battle is over which is anexample of stress-induced analgesia. This is due to",
+      "options": {
+        "A": "Substance P",
+        "B": "Serotonin",
+        "C": "Cannabinoids",
+        "D": "Cortisol"
+      },
+      "correct_answer": "",
+      "explanation": "Stress induced analgesia is due to cannabinoids.The stress-induced analgesia, i.e., reduced pain sensitivity during stressful events might be due to:• Release of endogenous cannabinoids such as 2-arachidonoylglycerol (2-AG) and anandamide• Release of Norepinephrine from brainstem catecholaminergic neurons in the amygdala.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following does not carry proprioceptive impulses?",
+      "options": {
+        "A": "Olivo cerebellar tract",
+        "B": "Tecto cerebellar tract",
+        "C": "Spino cerebellar tract",
+        "D": "Cuneo cerebellar tract"
+      },
+      "correct_answer": "B",
+      "explanation": "Tectocerebellar tract does not carry proprioceptive impluses. Tectocerebellar tract carry visual andauditory impulses.Spinocerebellar, olivo cerebellar, cuneo cerebellar tracts carry Proprioceptive impulses.Vestibulocerebellar tract carry vestibular impulses.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 19,
+      "question": "Pain and temperature in the thalamus are controlled by which of the following nuclei?",
+      "options": {
+        "A": "Ventral posterior lateral nucleus",
+        "B": "Ventral posterior medial nucleus",
+        "C": "Anterior nucleus",
+        "D": "Intralaminar nucleus"
+      },
+      "correct_answer": "A",
+      "explanation": "Pain and temperature in thalamus are controlled by the ventral posterior lateral nucleus. Pain andtemperature is carried by anterolateral spinothalamic tract.Fibres from anterolateral spinothalamic tract and dorsal column synapse in the ventralposteriorlateral (VPL) nucleus of thalamus.238Option B: The pathway from taste receptors includes synapses in the nucleus of the tractussolitarius in the brainstem and ventral posterior medial nucleus in the thalamus.Option C: Anterior nucleus functions as a relay station for the hippocampal impulses. It receivesafferents from mammillothalamic tract. It sends efferents to cingulate gyrus.Option D: Intralaminar nucleus participates in arousal reaction, it recieves afferents from reticularformation of brain stem.PosteriorInternal medullarylaminaDivisions of thalamusAnteriorMedialnuclearAnteriornucleargroupgroupVALDLPVLDorsal tier-VPPulvinar-LateralnucleargroupVLVA Ventral anterior nucleusVP Ventral posterior nucleusVentral lateral nucleusVentral tierLP Lateral posterior nucleusLD Lateral dorsal nucleusOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp19_img1_e102e4c1.jpeg",
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 20,
+      "question": "229Ventrolateral cordotomy for relief of pain in the right lower limb is being performed on apatient. Which of the following is cut in this procedure?",
+      "options": {
+        "A": "Left ventral spinothalamic tract",
+        "B": "Left lateral spinothalamic tract",
+        "C": "Right ventral spinothalamic tract",
+        "D": "Right lateral spinothalamic tract"
+      },
+      "correct_answer": "B",
+      "explanation": "In ventrolateral cordotomy, selected pain-conducting tracts in the spinal cord, i.e. fibers in thelateral spinothalamic pathway, are cut leading to contralateral loss of pain and temperaturesensation below the level of the lesion.In the more recent percutaneous approach, destruction of the lateral spinothalamic at the level ofC1-C2 results in a contralateral disruption of painful sensations beyond C4.Note: The fibers carrying pain sensation ascend in the lateral spinothalamic tract while the fiberscarrying crude touch and pressure sensations ascend in the anterior spinothalamic tract.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 21,
+      "question": "Pick the correct statement:",
+      "options": {
+        "A": "Spinal lemniscus carries fibres of dorsal spinothalamic tract",
+        "B": "Trigeminal lemniscus carries pain and temperature sensations from the ipsilateral orofacialregion",
+        "C": "Lateral lemniscus carries fibres from cochlear nuclei",
+        "D": "Medial lemniscus carries fibres from of vestibular nuclei"
+      },
+      "correct_answer": "C",
+      "explanation": "Lateral lemniscus carries fibres from cochlear nucleiMedial lemniscus carries fibres from of dorsal column nucleiSpinal lemniscus carries fibres of anterolateral spinothalamic tractTrigeminal lemniscus carries pain and temperature sensations from the contralateral orofacialregion239",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 22,
+      "question": "Lesion in the medial lemniscus at the level of pons causes which of the following?",
+      "options": {
+        "A": "Pain and temperature loss in the same side",
+        "B": "Pain and temperature loss in the opposite side",
+        "C": "Loss of tactile and proprioception on the same side",
+        "D": "Loss of tactile and proprioception on the opposite side"
+      },
+      "correct_answer": "D",
+      "explanation": "Lesion in the medial lemniscus at the level of pons causes loss of tactile and proprioception on theopposite side.Fibers of medial lemniscus ascend ipsilaterally in the dorsal columns of the spinal cord to themedulla, where they synapse in the gracilus and cuneate nuclei.The second-order neurons from these nuclei cross the midline and ascend in the medial lemniscusto end in the contralateral ventral posterior lateral (VPL) nucleus and related specific sensoryrelay nuclei of the thalamus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    },
+    {
+      "q_no": 23,
+      "question": "Ablation of somatosensory area 1 leads to",
+      "options": {
+        "A": "Total loss of pain sensation",
+        "B": "Total loss of touch sensation",
+        "C": "Loss of tactile but not 2 point discrimination",
+        "D": "Loss of tactile and 2 point discrimination230Question No.1234"
+      },
+      "correct_answer": "D",
+      "explanation": "Ablation of somatosensory area 1 leads to Loss of tactile and 2 point discrimination.Widespread bilateral excision of the somatosensory area I causes loss of the following types ofsensory judgment:• The person is unable to localize discretely the different sensations in the different parts of thebody. However, he or she can localize these sensations crudely, such as to a particular hand. Thebrain stem, thalamus, or parts of the cerebral cortex can perform some degree of localization.•The person is unable to judge critical degrees of pressure/weight/texture.240",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Somatosensory Pathways"
+    }
+  ]
+}

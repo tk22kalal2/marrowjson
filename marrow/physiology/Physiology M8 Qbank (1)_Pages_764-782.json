@@ -1,0 +1,410 @@
+{
+  "chapter": "Male Reproductive Physiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 32 year old lady is undergoing evaluation for polycystic ovary syndrome. Her sexhormone-binding globulin (SHBG) is low. The decrease in sex hormone-binding globulin willhave the maximum effect on which of the following hormones?",
+      "options": {
+        "A": "Estrogen",
+        "B": "Testosterone",
+        "C": "DHEA",
+        "D": "Progesterone"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 2,
+      "question": "Sertoli cells in testes have receptors for",
+      "options": {
+        "A": "FSH",
+        "B": "LH",
+        "C": "Inhibin",
+        "D": "GnRH"
+      },
+      "correct_answer": "A",
+      "explanation": "Sertoli cells express FSH receptor, whereas Leydig cell express LH receptorSertoli cells are the true epithelial cells of the seminiferous epithelium and extend from basallamina to the lumen.Functions of Sertoli cells:•Express FSH receptor and androgen receptor.• Forms the blood-testis barrier.• Surround the sperm cells and provide structural support within the epithelium.• Guide sperm cells towards the lumen as they advance to later stages of spermatogenesis.• Produce inhibin and Mullerian-inhibiting substance (MIS).•Produce androgen-binding proteins that maintain high androgen levels within the lumen of theseminiferous tubules and the proximal part of the male reproductive tract.• Perform phagocytic function by engulfing residual bodies (cytoplasm shed by spermatozoaduring spermiogenesis) and dead sperm cells.•Express aromatase, which converts testosterone to potent estrogen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 3,
+      "question": "The negative feedback mechanism involving the Sertoli cells causes↓",
+      "options": {
+        "A": "LH",
+        "B": "\\FSH",
+        "C": "TRH",
+        "D": "CRH"
+      },
+      "correct_answer": "B",
+      "explanation": "The negative feedback mechanism involving the Sertoli cells causes FSH.FSH stimulates inhibin production by the Sertoli cells. This inhibin inhibits FSH productionby directly acting on the anterior pituitary. Thus, inhibin keeps FSH levels within a set point.772Negative feedback mechanism ofHypothalamic-pituitary axis in malesHypothalamusGonadotropin-ReleasingHormoneAnterior pituitaryFollicle-stimulatinghormoneLuteinizinghormoneInhibinSertoli cellsLeydig cellsTestosteroneParacrineOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp3_img1_17fa18f5.jpeg",
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 4,
+      "question": "In men, LH controls secretion of",
+      "options": {
+        "A": "Inhibin",
+        "B": "AMH764",
+        "C": "Testosterone",
+        "D": "ABP"
+      },
+      "correct_answer": "C",
+      "explanation": "In men, LH controls the secretion of testosterone.LH stimulates Leydig cells to secrete testosterone, which in turn inhibits LH by a negativefeedback mechanism. FSH stimulates Sertoli cells to secrete inhibin, which in turn inhibits FSHby a negative feedback mechanism.Testosterone inhibits LH secretion by acting directly on the anterior pituitary and by inhibitingthe secretion of GnRH from the hypothalamus. Inhibin acts directly on the anterior pituitary toinhibit FSH secretion.FSH also stimulates the secretion of ABP (androgen-binding protein) and inhibin. FSH andandrogens maintain the gametogenic function of the testes. Hypothalamic lesions in animals andhypothalamic disease in humans lead to atrophy of the testes and loss of their function.Negative feedback mechanism ofHypothalamic-pituitary axis in malesHypothalamusGonadotropin-ReleasingHormoneAnterior pituitaryFollicle-stimulatinghormoneLuteinizinghormoneInhibinSertoli cellsLeydig cellsTestosteroneParacrineOMARROW773",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp4_img1_b147306d.jpeg",
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 5,
+      "question": "Testosterone production is mainly contributed by",
+      "options": {
+        "A": "Leydig cells",
+        "B": "Sertoli cells",
+        "C": "Seminiferous tubules",
+        "D": "Epididymis"
+      },
+      "correct_answer": "A",
+      "explanation": "Testosterone production is mainly contributed by Leydig cells. Testosterone is synthesized from cholesterol in the Leydig cells and also from androstenedione secreted by the adrenal cortex. The diagnosis of testosterone deficiency should be made only on the basis of clinical signs and symptoms consistent with androgen deficiency, and consistently subnormal serum testosterone concentrations at 8 to 10 AM on three occasions. Testosterone has been used to treat primary or secondary hypogonadism in adult men.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 6,
+      "question": "All of the following are androgens except_",
+      "options": {
+        "A": "Testosterone",
+        "B": "Dihydrotestosterone",
+        "C": "Androstenedione",
+        "D": "17° hydroxy-progesterone"
+      },
+      "correct_answer": "",
+      "explanation": "17° hydroxy-progesterone is a progestin, not androgen.The term androgen means any steroid hormone that has masculinizing effects. Testosterone,Dihydrotestosterone, androstenedione, and dehydroepiandrosterone are androgens.The sites of production:•⚫ Testes.• Adrenal gland.•Ovary (not significant).• Tumors of the adrenal androgen-producing cells etc.Both in the testes and in the adrenals, the androgens can be synthesized either from cholesterol ordirectly from acetyl coenzyme A.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following cells secrete anti mullerian hormone?",
+      "options": {
+        "A": "Theca cells",
+        "B": "Leydig cells",
+        "C": "Sertoli cells and Granulosa cells",
+        "D": "Muller cells"
+      },
+      "correct_answer": "D",
+      "explanation": "(Anti Mullerian Hormone) is secreted by both sertoli cells and granulosa cells.Sertoli cells produce Anti Mullerian Hormone (Mullerian inhibitory substance) duringdevelopment. It induces the regression of the mullerian duct that is programmed to give rise to afemale reproductive tract.Granulosa cells of the ovary produce AMH during the reproductive years. It limits the formationof primary follicles by inhibiting excessive follicular recruitment by FSH.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 8,
+      "question": "The blood-testis barrier is formed byTight junctions between adjacent leydig cellsb) Tight junctions between adjacent sertoli cellsc) Basal lamina and spermatogonia765d) Basal lamina and leydig cellsQuestion 9:Spermiogenesis refers to",
+      "options": {
+        "A": "Formation of spermatozoa from spermatogonia",
+        "B": "Formation of spermatozoa from spermatid",
+        "C": "Formation of spermatids from sperm",
+        "D": "Formation of secondary spermatocyte from primary spermatocyte"
+      },
+      "correct_answer": "B",
+      "explanation": "774The blood-testis barrier is formed by the tight junctions between adjacent sertoli cells.This Sertoli-Sertoli cell tight junctions divide the seminiferous epithelium into 2 compartments:• Basal compartment - contains the spermatogonia and early-stage primary spermatocytes.• Adluminal compartment - contains later-stage primary spermatocytes and all subsequentstages of sperm cells.It imparts a selective permeability, allowing few substances such as testosterone to cross butpreventing noxious substances that might damage the developing sperm. It also protects sperms.from antibodies by creating a specialized, immunologically safe microenvironment for developingsperm.BELOW DIAGRAM -1 basal lamina, 2 spermatogonia, 3 spermatocyte 1st order, 4 spermatocyte 2nd order,spermatid, 6 mature spermatid, 7 Sertoli cell, 8 tight junctions(Blood- Testis Barrier)5787654M321",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_082bae9d.jpeg",
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 10,
+      "question": "Development of spermatozoa from spermatogonium takes how much time?",
+      "options": {
+        "A": "30-35 days",
+        "B": "40-45 days",
+        "C": "50-55 days",
+        "D": "70-75 days"
+      },
+      "correct_answer": "D",
+      "explanation": "The time required to produce mature spermatozoa from the earliest stage of spermatogonia is 65to 70 days.776Since several developmental stages of spermatogenic cells occur during this time frame, the stagesare collectively known as the spermatogenic cycle.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 11,
+      "question": "Spermatogenesis is maintained by which hormone?",
+      "options": {
+        "A": "Testosterone",
+        "B": "FSH",
+        "C": "LH",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "All three of them (testosterone, FSH, LH) are required for spermatogenesis.Pulses of hypothalamic GnRH stimulate the anterior pituitary to secrete FSH and LH, which thenact on the testesFSH acts on the Sertoli cells to stimulate spermatogenesis and inhibin secretion. LH acts on theLeydig cells to stimulate testosterone secretion. Testosterone, acting locally on the Sertoli cells, isessential for maintaining spermatogenesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 12,
+      "question": "Role of growth hormone in spermatogenesis is",
+      "options": {
+        "A": "Stimulation of sertoli cells",
+        "B": "Early division of spermatogonia",
+        "C": "Formation of acrosome",
+        "D": "Stimulation of leydig cells766"
+      },
+      "correct_answer": "B",
+      "explanation": "The growth hormone specifically promotes the early division of spermatogonia.Hormonal factors that stimulate spermatogenesis:Testosterone, secreted by the Leydig cells of the testis, is essential for growth and division of thetesticular germinal cells, which is the first stage in forming sperm.• Luteinizing hormone, secreted by the anterior pituitary gland, stimulates the Leydig cells tosecrete testosterone.•• Follicle-stimulating hormone, secreted by the anterior pituitary gland, stimulates the Sertolicells. Without this stimulation, the spermiogenesis will not occur.• Estrogens, formed from testosterone by the Sertoli cells when stimulated by FSH, are alsoessential for spermiogenesis.• Growth hormone is necessary for controlling the background metabolic functions of the testes. Itspecifically promotes early division of the spermatogonia themselves. In its absence, as inpituitary dwarfs, spermatogenesis is severely deficient or absent, thus causing infertility.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following provides a negative feedback in spermatogenesis?",
+      "options": {
+        "A": "ABP( androgen- binding protein)",
+        "B": "Inhibin",
+        "C": "Progesterone",
+        "D": "GnRH"
+      },
+      "correct_answer": "B",
+      "explanation": "Negative feedback in spermatogenesis is by inhibin.FSH stimulates inhibin production by the Sertoli cells. This inhibin inhibits FSH productionby directly acting on the anterior pituitary.LH stimulates Leydig cells to secrete testosterone, which in turn inhibits LH. Testosteroneinhibits LH secretion by acting directly on the anterior pituitary and by inhibiting the secretion ofgonadotropin-releasing hormone (GnRH) from the hypothalamus.777Hormonal control of malereproductive functionHypothalamusGonadotropin-ReleasingHormoneAnterior pituitaryFollicle-stimulatinghormoneLuteinizinghormoneTestesInhibinSertoli cellsLeydig cellsTestosteroneParacrineReproductive tractand other organsStimulatesspermatogenesisOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp13_img1_9b5346cb.jpeg",
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 14,
+      "question": "A 35-year-old man is being evaluated for suspected infertility. His semen analysis shows adecrease in sperm count and motility. On physical examination, a 'bag of worms'-likestructure is palpated in his scrotum, suggestive of varicocele. Which of the following is themost likely reason behind his decreased sperm count?",
+      "options": {
+        "A": "Lowered scrotal temperature, compared to core temperature",
+        "B": "Rise in scrotal temperature, compared to core temperature",
+        "C": "Blockage in epididymal ducts",
+        "D": "Blockage in vas deferens"
+      },
+      "correct_answer": "B",
+      "explanation": "The most likely reason behind decreased sperm count in this patient is rise in scrotal temperature,secondary to varicocoele.Normally, the testes occupy the scrotum, which lies outside the body cavity and is maintained at35° to 36°C, or 1° to 2°C below body temperature. This lower temperature is essential for normalspermatogenesis. It is maintained by a countercurrent arrangement of testicular arteries andveins, which facilitates heat exchange.Enlarged veins around the testes, called varicoceles, cause infertility by raising the temperature inthe scrotum and decreasing sperm production.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 15,
+      "question": "Sperm acquires motility in",
+      "options": {
+        "A": "Seminal vesicle",
+        "B": "Testes",
+        "C": "Epididymis",
+        "D": "Ejaculatory duct"
+      },
+      "correct_answer": "",
+      "explanation": "Sperm is stored in the epididymis, where they undergo a process of maturation before they arecapable of progressive motility and fertilization.Changes during the sperm maturation in the epididymis:Progressive increase in forward motility• Increase ability to fertilize•Maturation of acrosome•⚫ Molecular reorganization of plasma membrane: Lipid (stabilization of plasma membrane)protein (shedding as well as the acquisition of new proteins)••Ability to bind to zona pellucida• Acquisition of receptors for proteins of the zona pellucida778• Increase disulfide bond between cysteine residues in sperm nucleoproteins•⚫ Topographic regionalization of glycosidic residues• Accumulation of mannosylated residues on periacrosomal plasma membrane• Decreased cytoplasm and cell volume",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 16,
+      "question": "At which location does the capacitation of sperm take place?",
+      "options": {
+        "A": "Seminiferous tubules",
+        "B": "Uterine tubes",
+        "C": "Epidydmis767",
+        "D": "Ejaculatory duct"
+      },
+      "correct_answer": "B",
+      "explanation": "Capacitation of sperm takes place in uterine tubes.Once ejaculated into the female genital tract, the spermatozoa move up the uterus to the isthmusof the uterine tubes, where they slow down and undergo final conditioning called capacitation.This process involves two components:• Increasing the motility of the spermatozoa• Facilitating their preparation for the acrosomal reaction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following factors increases sperm motility?",
+      "options": {
+        "A": "↑Temperature",
+        "B": "Acidic environment",
+        "C": "Vaginal secretions",
+        "D": "While passing through seminiferous tubule"
+      },
+      "correct_answer": "",
+      "explanation": "•Sperm motility is increased by vaginal secretions.On coming in contact with the fluids of the female genital tract, multiple changes occur thatactivate the sperm for the final processes of fertilization. These collective changes are calledcapacitation of the spermatozoa, which normally requires from 1 to 10 hours.The following changes are believed to occur:The uterine and fallopian tube fluids wash away the various inhibitory factors that suppresssperm activity in the male genital ducts.• While the spermatozoa remain in the fluid of the male genital ducts, they are continuallyexposed to many floating vesicles from the seminiferous tubules containing large amounts ofcholesterol. This cholesterol is continually added to the cellular membrane covering the spermacrosome, toughening this membrane and preventing the release of its enzymes.• After ejaculation, the sperm deposited in the vagina swim away from the cholesterol vesiclesupward into the uterine cavity, and they gradually lose much of their other excess cholesterolduring the next few hours. In doing so, the membrane at the head of the sperm (the acrosome)becomes much weaker.• The membrane of the sperm also becomes much more permeable to calcium ions, so calciumnow enters the sperm in abundance and changes the activity of the flagellum, giving it a powerfulwhiplash motion in contrast to its previously weak undulating motion. In addition, the calciumions cause changes in the cellular membrane that cover the leading edge of the acrosome, makingit possible for the acrosome to release its enzymes rapidly and easily as the sperm penetrates thegranulosa cell mass surrounding the ovum, and even more so as it attempts to penetrate the zonapellucida of the ovum.779",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 18,
+      "question": "A 70-year-old man suffering from prostate cancer is undergoing long-term androgendeprivation therapy. He is being treated with long acting GnRH agonist. After prolongedinjection of GnRH, which of the following will most likely be seen in this patient?",
+      "options": {
+        "A": "↑ FSH↓",
+        "B": "LH",
+        "C": "↑spermiogenesis",
+        "D": "↑Testosterone"
+      },
+      "correct_answer": "B",
+      "explanation": "Prolonged injection of GnRH will lead to decreased LH levels.A constant administration of GnRH produces an initial agonistic action known as \"flare\", followedby a downregulation of GnRH receptors (decrease in GnRH receptor concentration). Thisdesensitizes pituitary to the action of GnRH and a hypogonadotropic-hypogonadal state isinduced.This is characterized by low LH, low FSH levels and thereby reduced testosterone production (i.e.,chemical castration).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 19,
+      "question": "The major contribution to semen is from which of the following organs?",
+      "options": {
+        "A": "Seminal vesicle",
+        "B": "Cowpers gland",
+        "C": "Prostate",
+        "D": "Urethral gland"
+      },
+      "correct_answer": "A",
+      "explanation": "The major contribution to semen is from seminal vesicles.The seminal vesicles contribute ~60-70% of the volume of semen. Apart from sperm, theremaining 20-40% represents epididymal fluids, as well as secretions of the prostate gland andbulbourethral glands.The seminal plasma originates primarily from the accessory glands (the seminal vesicles, theprostate gland, and the bulbourethral glands).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 20,
+      "question": "Normal pH of human semen is",
+      "options": {
+        "A": "7",
+        "B": "6.5768",
+        "C": "7.4",
+        "D": "8"
+      },
+      "correct_answer": "",
+      "explanation": "The normal pH of human semen is 7.4 (isotonic).The pH in the lumen of the epididymis is relatively acidic (6.5 to 6.8) as the result of H+ secretionby clear cells that are analogous to intercalated cells in the nephron. Addition of the relativelyalkaline secretions of the seminal vesicles raises the final pH of seminal plasma to between 7.2and 7.8.Spermatozoa generally tolerate alkalinity better than acidity.A pH near neutrality or slightly higher is optimal for the motility and survival of sperm cells inhumans and in other species as well.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 21,
+      "question": "Prostaglandins in semen are secreted by which of the following organs?",
+      "options": {
+        "A": "Seminal vesicle",
+        "B": "Cowpers gland",
+        "C": "Prostate",
+        "D": "Urethral gland"
+      },
+      "correct_answer": "A",
+      "explanation": "Prostaglandins in semen are secreted by seminal vesicle.The seminal vesicles secrete fluid that is rich in fructose, citrate, prostaglandins, and fibrinogen.The prostaglandins present in the seminal fluid may assist in fertilization in two ways:• Prostaglandins react with cervical mucus to make it more penetrable by sperm.780•Prostaglandins induce peristaltic contractions in the female reproductive tract (i.e., the uterusand fallopian tubes) to propel the sperm up the tract.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 22,
+      "question": "A couple is undergoing evaluation for their inability to conceive. In order to rule out male factor infertility, the consultant orders a semen analysis for the husband. Which of the following best estimates the normal sperm count in an adult?",
+      "options": {
+        "A": "20-40 million/mL",
+        "B": "40-60 million/mL",
+        "C": "60-80 million/mL",
+        "D": "90-120 million/mL"
+      },
+      "correct_answer": "D",
+      "explanation": "Normal sperm count on average is 100 million/mL (90-120 million/mL). Note: The WHO 2010 minimal criteria for semen analysis requires a minimum sperm count >15 million/mL or >40 million per ejaculate.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 23,
+      "question": "In which part of the fallopian tube does fertilization take place?",
+      "options": {
+        "A": "Interstitial part",
+        "B": "Isthmus",
+        "C": "Fimbria",
+        "D": "Ampulla"
+      },
+      "correct_answer": "D",
+      "explanation": "In humans, fertilization of the ovum by the sperm usually occurs in the ampulla of the fallopiantube.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 24,
+      "question": "For how many hours does human sperm remain fertile in the female genital tract?",
+      "options": {
+        "A": "6-8 h769",
+        "B": "12-24 h",
+        "C": "24-48 h",
+        "D": "72-96 h"
+      },
+      "correct_answer": "C",
+      "explanation": "After ejaculation, sperms have a maximal lifespan of 24-48 hours in the female genital tract.The activity and rate of metabolism of sperm increase markedly with increasing temperaturecausing its life to be considerably shortened.Sperm can be cryopreserved for years if agents such as glycerol are used to prevent ice crystalformation during freezing.Note: The ovum remains viable and capable of being fertilized, probably no longer than 24 hoursafter it is expelled from the ovary.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 25,
+      "question": "For how long does the ovum remain viable following ovulation?",
+      "options": {
+        "A": "12 hours",
+        "B": "24 hours",
+        "C": "48 hours",
+        "D": "72 hours"
+      },
+      "correct_answer": "B",
+      "explanation": "The ovum remains viable up to 24hours following ovulation.If not fertilized, the ovum degenerates in the fallopian tube without leaving behind any traceafter 24 hours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 26,
+      "question": "Which of the following hormones has no role for the attainment of puberty?",
+      "options": {
+        "A": "GH",
+        "B": "Leptin",
+        "C": "Testosterone",
+        "D": "Insulin"
+      },
+      "correct_answer": "D",
+      "explanation": "Insulin has no role in the attainment of puberty. GH, leptin and testosterone are all required forthe onset of puberty.The onset of puberty is marked by enhanced androgenic activity. The growth spurt of adolescentmales is influenced by a complex interplay between androgens, growth hormone (GH), nutrition,and genetic factors.781Leptin, the satiety-producing hormone secreted by fat cells, may be the link between body weightand puberty.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following hormones is responsible for pubarche?",
+      "options": {
+        "A": "GH",
+        "B": "Progesterone",
+        "C": "Testosterone",
+        "D": "Estrogen"
+      },
+      "correct_answer": "C",
+      "explanation": "Pubarche or the development of axillary and pubic hair is due to testosterone.The growth of pubic and axillary hair in both sexes is primarily due to androgens.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    },
+    {
+      "q_no": 28,
+      "question": "Which of the following hormones play a permissive role in the attainment of puberty?",
+      "options": {
+        "A": "GnRH",
+        "B": "Leptin770",
+        "C": "Insulin",
+        "D": "GHQuestion No.1"
+      },
+      "correct_answer": "B",
+      "explanation": "The hormone that plays a permissive role in the attainment of puberty is leptin.It now appears that leptin may be the link between body weight and puberty. Leptin is asatiety-producing hormone secreted by adipocytes. High leptin levels reduce appetite and increaseenergy expenditure.Evidence for which is given by:• Obese ob/ob mice that cannot make leptin are infertile, and their fertility is restored byinjections of leptin.• Leptin treatment also induces precocious puberty in immature female mice.• However, the way that leptin fits into the overall control of puberty remains to be determined.Leptin also accelerates GnRH pulsatility in neurons, fastening puberty.782",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Male Reproductive Physiology"
+    }
+  ]
+}

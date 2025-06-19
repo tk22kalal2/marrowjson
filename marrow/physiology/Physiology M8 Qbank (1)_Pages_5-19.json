@@ -1,0 +1,305 @@
+{
+  "chapter": "Homeostasis and cellular physiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Homeostasis is called as dynamic equilibrium because",
+      "options": {
+        "A": "All variables are given equal importance",
+        "B": "Can achieve a constancy in extreme environmental challenge",
+        "C": "The set-point for all homeostatic variables is always fixed",
+        "D": "Body maintains an internal balance within fluctuating limits"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 2,
+      "question": "Which is a component of homeostatic control system?",
+      "options": {
+        "A": "Stimulus",
+        "B": "Receptor",
+        "C": "Effector",
+        "D": "All of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "Stimulus, receptor and effector are all components of a homeostatic control system.Components of homeostasis include:• Stimulus - It is a detectable change in the internal or external environment, such as change intemperature.•Receptor - It detects environmental changes.• Integrating centre• Effector - It is an organ or cell that acts in response to a stimulus.Components of homeostasisNegativefeedbackStimulusResponseReceptorEffectorAfferentpathwayEfferentpathwayIntegrating centerOMARROW11",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_0828c1c2.jpeg",
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 3,
+      "question": "Feedback regulation is seen in",
+      "options": {
+        "A": "The increased heart rate that occurs in an athlete just before a sprint begins",
+        "B": "Smell of food triggers secretion of salivary and gastric juices",
+        "C": "An increase in insulin before glucose absorption has raised blood glucose levels",
+        "D": "The increased heart rate in response to a decrease in blood pressure"
+      },
+      "correct_answer": "D",
+      "explanation": "Feedback regulation is seen in the increased heart rate in response to a decrease in bloodpressure. This is because, in feedback regulation, the homeostatic response (increased heart rate)occurs after the change (decrease in blood pressure) has occurred.On the other hand, in feedforward regulation, the homeostatic responses take place before thechange has occurred. This is done in anticipation of the change to minimize fluctuations.Examples of feedforward regulation include:•The increased heart rate that occurs in an athlete just before a sprint begins.• The smell of food triggers the secretion of salivary and gastric juices.• An increase in insulin before glucose absorption has raised blood glucose levels.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 4,
+      "question": "Positive feedback is seen in all except_",
+      "options": {
+        "A": "LH surge",
+        "B": "Action potential",
+        "C": "Gastric secretion5",
+        "D": "Thrombus formation"
+      },
+      "correct_answer": "",
+      "explanation": "Positive feedback is seen in all except gastric secretion. It is under negative feedback control.Negative feedback consists of certain changes that affect a deficient or excessive variable to pull itback to a certain mean value to maintain homeostasis. Most processes in the body are undernegative feedback. For example, an increase in gastric acids leading to a decrease in gastricsecretion.Positive feedback consists of changes that affect a variable to push it further away from a certainmean value. For example, an increase in LH leading to a further increase in LH. Instances, wherepositive feedback plays an important role are:•Clotting of blood• Calcium release from the sarcoplasmic reticulum•LH Surge• Action potential• Shock• Parturition",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 5,
+      "question": "On infusion of a large volume of blood, the MAP rises from 100 mmHg to 175 mmHg. Due tothe baroreceptor feedback mechanism, the MAP falls down to 125 mmHg. Calculate the gainof the feedback system.",
+      "options": {
+        "A": "-2",
+        "B": "-3",
+        "C": "+2",
+        "D": "+3"
+      },
+      "correct_answer": "A",
+      "explanation": "The gain of the feedback system in the above case is -2.The gain of the system is then calculated by using the following formula:Gain = C/EHere, C is correction achieved from the deviated value and E is the remaining errorpost-correction.Calculation12•The original value in the given case is 100 mmHg.• The deviated value in the given case is 175 mmHg.• The corrected value in the given case is 125 mmHg.•⚫ C is given by correction achieved from deviated value, Corrected value - Deviated value = 125 -175 = -50 mmHg.•⚫ E is given by the remaining error post-correction, Corrected value - Original value = 125 - 100 =25 mmHg.• Gain = -50/25 = -2.The negative symbol indicates that the homeostatic mechanism acts in a direction opposite to theinitial deviation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 6,
+      "question": "Plasma membrane in eukaryotes is made up of all except",
+      "options": {
+        "A": "Cholesterol",
+        "B": "Lecithin",
+        "C": "Sphingomyelin",
+        "D": "Triglycerides"
+      },
+      "correct_answer": "D",
+      "explanation": "Plasma membrane in eukaryotes does not contain triglycerides.The plasma membrane is composed almost entirely of proteins and lipids. The major lipidsinclude:••Phospholipids: Lecithin, cephalin, phosphatidylserineSphingolipids: SphingomyelinCholesterol",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 7,
+      "question": "Membrane fluidity is increased by",
+      "options": {
+        "A": "Stearic acid",
+        "B": "Palmitic acid",
+        "C": "Myristic acid",
+        "D": "Linoleic acid"
+      },
+      "correct_answer": "D",
+      "explanation": "Membrane fluidity is increased by linoleic acid, an unsaturated fatty acid. All other options aresaturated fatty acids.Longer and saturated fatty acids decrease the fluidity because their side chains are straight andinteract more strongly with each other. Conversely, unsaturated fatty acids increase thefluidity because their side chains are kinked and less compact.Cholesterol, also known as fluidity buffer helps to maintain the fluidity of the cell membrane.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is an example of peripheral protein?",
+      "options": {
+        "A": "Sodium potassium ATPase pump",
+        "B": "Insulin receptor6",
+        "C": "G-Protein coupled receptors",
+        "D": "Cell surface receptors"
+      },
+      "correct_answer": "D",
+      "explanation": "Cell surface receptors are peripheral proteins.Proteins in the Plasma Membrane13Integral ProteinsTransmembrane proteins i.e., they span the thickness of the membrane.Examples -Insulin receptor, pumps, transport proteins (carriers), G-protein coupled receptorsPeripheral ProteinsPresent either on the inner orouter surface of the membraneExamples -Cell surface receptors and enzymesPhospholipidbilayerStructure of cell membranePeripheral proteinIntegral proteinsChannel protein Carrier proteinOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_b88d0791.jpeg",
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following membranes has the highest protein content per gram tissue?",
+      "options": {
+        "A": "Myelin sheath",
+        "B": "Outer mitochondrial membrane",
+        "C": "Sarcoplasmic reticulum",
+        "D": "Inner mitochondrial membrane"
+      },
+      "correct_answer": "D",
+      "explanation": "The inner mitochondrial membrane has the highest protein content per gram tissue.Myelin has the lowest protein content per gram tissue.Protein to Lipid Ratio in Different MembranesMembranesProtein: Lipid Rati0Myelin0.23Human RBC1.1Mitochondrial outer membr1.1aneSarcoplasmic reticulum2.0Mitochondrial inner membr3.2ane14",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 10,
+      "question": "The sequence of vesicular transport in a cell is",
+      "options": {
+        "A": "ER Trans - Cis - Mitochondria-",
+        "B": "ER Cis Trans - Mitochondria--ER Trans Cis-Cell membrane---d) ER Cis - Trans - Cell membraneQuestion 11:All of the following are enzyme markers of mitochondria excepta) ATP synthaseb) 5'-nucleotidase",
+        "C": "Glutamate dehydrogenase",
+        "D": "Creatine kinase"
+      },
+      "correct_answer": "D",
+      "explanation": "The sequence of vesicular transport in a cell is ER - Cis - Trans - Cell membrane.Rough endoplasmic reticulum (RER) - It is the site of protein synthesis. Proteins are taken to theGolgi apparatus through transport vesicles.Cis end of Golgi apparatus - Also called as receiving end, it is closest to RERTrans end of Golgi apparatus - Also called as releasing end, it is furthest away from RER.Cell membrane - Synthesised proteins within secretory vesicles are released into the extracellularspace through the process of exocytosis.NucleusRoughendoplasmic-reticulumGolgiapparatusCellmembraneSequence of vesicular transportVesiclesCisendWTransendOMARROWExocytosis",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp10_img1_dbb5ca4b.jpeg",
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following will test negative for all mitochondrial markers?",
+      "options": {
+        "A": "Spermatozoa",
+        "B": "Ova",
+        "C": "Mature red blood cells7",
+        "D": "White blood cells"
+      },
+      "correct_answer": "C",
+      "explanation": "Mature red blood cells will test negative for all mitochondrial markers are as they do not havemitochondria.Lack of mitochondria is the reason why red blood cells exclusively use anaerobic glycolysis togenerate ATP.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 13,
+      "question": "Which is the characteristic enzyme present in peroxisome?",
+      "options": {
+        "A": "Arylsulfatases",
+        "B": "Ribonuclease",
+        "C": "Glycosidases",
+        "D": "Catalase"
+      },
+      "correct_answer": "D",
+      "explanation": "15Catalase is the characteristic enzyme of peroxisomes. All other are lysosomal enzymes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 14,
+      "question": "Gap junctions are found in all except",
+      "options": {
+        "A": "Neurons",
+        "B": "Cardiac muscle",
+        "C": "Smooth muscle",
+        "D": "Skeletal muscle"
+      },
+      "correct_answer": "D",
+      "explanation": "Gap junctions are absent in adult skeletal muscles.Gap junctions are intercellular connections with a channel in between. They are present inexcitable tissues such as cardiac muscle, smooth muscle and neurons but not in skeletal muscles.Plasma membraneof cell 1Gap junctionsConnexonPlasma membraneof cell 2Gap junctionExtracellularspcaeClosedOpenOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp14_img1_6533d82d.jpeg",
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 15,
+      "question": "Tight junctions are not seen in",
+      "options": {
+        "A": "Cardiac muscle",
+        "B": "Renal tubules",
+        "C": "Sertoli cells",
+        "D": "Choroid plexus"
+      },
+      "correct_answer": "A",
+      "explanation": "Tight junctions are not seen in cardiac muscle.Tight junctions form a water-tight seal between cells. They are characteristically seen in thefollowing:•Intestinal mucosa• Renal tubules• Choroid plexus• Sertoli cellsFunctions of tight junctions are:• Prevents the diffusion of macromolecules between cells.•Maintains cell polarity.• Seals the paracellular pathway.16",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is not a cell adhesion molecule (CAM)?",
+      "options": {
+        "A": "Integrin",
+        "B": "Selectin",
+        "C": "Cadherin",
+        "D": "Spectrin8"
+      },
+      "correct_answer": "D",
+      "explanation": "Spectrin is a cytoskeletal protein but not a cell adhesion molecule.Cells are attached to each other or to the basal lamina by cell adhesion molecules (CAMs). Someimportant classes of CAMs are:•Integrins: heterodimers that bind to various receptors• IgG superfamily of immunoglobulins●Cadherins: Ca2+-dependent molecules that mediate cell-to-cell adhesion by homophilic reactions• Selectins which have lectin-like domains that bind carbohydratesClinical significance• Cancer cells have abnormal CAMs and hence cause decreased cell adhesion and allow individualcancer cells to detach from the parent cancer.•The decrease in the amount of E-cadherin maybe the reason for early metastasis of numeroustumors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 17,
+      "question": "Identify the incorrectly matched pair of intercellular connections and their structural units",
+      "options": {
+        "A": "Desmosome - Desmoglein",
+        "B": "Gap junctions - Cadherins",
+        "C": "Hemidesmosome Integrins",
+        "D": "Zona occludens - Claudins"
+      },
+      "correct_answer": "B",
+      "explanation": "Gap junctions are made of connexons. Connexons are in turn made of units called connexins.Plasma membraneof cell 1Gap junctionsConnexonPlasma membraneGap junctionExtracellularof cell 2spcaeClosedOpenOMARROWThe different intercellular connections and their structural units are given below:Intercellular connectionsTight junctions or zona occludensGap junctionsZona adherensStructural unitsOccludins, claudins and junctional adhesion moleculesConnexonsCadherins17Intercellular connectionsDesmosomeHemidesmosomeStructural unitsCadherins like desmogleinIntegrins",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp17_img1_022b7d5f.jpeg",
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 18,
+      "question": "Integrin connects with:",
+      "options": {
+        "A": "Cadherin",
+        "B": "Vitronectin",
+        "C": "Fibronectin",
+        "D": "Selectin"
+      },
+      "correct_answer": "C",
+      "explanation": "Integrin connects with fibronectin.Integrins are transmembrane glycoproteins (integral proteins) that allow cells to attach toextracellular matrix constituents such as laminin, fibronectin and collagen. It helps in linking theintracellular cytoskeleton functionally and structurally with the outside world.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 19,
+      "question": "The force-generating proteins are",
+      "options": {
+        "A": "Myosin and myoglobin",
+        "B": "Dynein and kinesin",
+        "C": "Calmodulin and kinesin",
+        "D": "Troponin and dynamins"
+      },
+      "correct_answer": "B",
+      "explanation": "The force-generating proteins are dynein and kinesin.There are three superfamilies of proteins namely kinesin, dynein, myosin referred to as molecularmotors.The molecular motors are the force generating proteins as they move proteins, organelles, andother cell parts (collectively referred to as \"cargo\") to all parts of the cell.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 20,
+      "question": "An absent dynein arm in cilia can lead to all of the following except:",
+      "options": {
+        "A": "Chronic sinusitis",
+        "B": "Bronchiectasis",
+        "C": "Ciliocytophthoria",
+        "D": "Situs inversus9"
+      },
+      "correct_answer": "C",
+      "explanation": "An absent dynein arm in cilia leads to primary ciliary dyskinesia. Kartagener syndrome is aprimary ciliary dyskinesia characterized by the classical triad of situs inversus, chronic sinusitis,and bronchiectasis.Ciliocytophthoria is the degradation of ciliated cells due to viral infections. It is not seen inprimary ciliary dyskinesia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    },
+    {
+      "q_no": 21,
+      "question": "In dividing cells, mitotic spindles are formed by",
+      "options": {
+        "A": "Ubiquitin",
+        "B": "Tubulin",
+        "C": "Vimentin",
+        "D": "Keratin"
+      },
+      "correct_answer": "B",
+      "explanation": "Tubulins constitute the microtubules that form the mitotic spindle in a dividing cell.Cytoskeletal elements of the cell.Ubiquitin helps in protein degradation.Cytoskeletal elementProtein subunitsMicrofilament(smallest diam Actineter)18Cytoskeletal elementIntermediate filamentProtein subunitsKeratin, vimentin, desmin, lamin etc.Microtubule (largest diameter) Kinesin, dynein and tubulin19",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Homeostasis and cellular physiology"
+    }
+  ]
+}

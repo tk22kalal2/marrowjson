@@ -1,0 +1,425 @@
+{
+  "chapter": "Higher Mental Functions",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following statements about the reticular activating system is false?",
+      "options": {
+        "A": "Involved in arousal",
+        "B": "Polysynaptic pathway",
+        "C": "Receives collateral from sensory pathway",
+        "D": "Does not produce EEG alerting response"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 2,
+      "question": "Which is the EEG wave recorded in a subject who is awake but eyes closed?",
+      "options": {
+        "A": "Alpha waves",
+        "B": "Beta waves",
+        "C": "Theta waves",
+        "D": "Delta waves"
+      },
+      "correct_answer": "A",
+      "explanation": "Alpha-waves are recorded best in the parieto-occipital region in adults at rest, i.e. awake butrelaxed with eyes closed.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following structures regulates the sleep-wake cycle?",
+      "options": {
+        "A": "Basal ganglia",
+        "B": "Hypothalamus",
+        "C": "Medulla",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "B",
+      "explanation": "The hypothalamus and several non-specific nuclei in ascending reticular activating system (ARAS)located in the midbrain are involved in the regulation of the sleep-wake cycle.Sleep CentresStimulation of the midbrain reticular formation (RAS) produces the EEG alerting response andpromotes the waking state.The nucleus coeruleus (locus coeruleus) is rich in norepinephrine and the raphe nuclei of ARAS isrich in serotonin. These regions when stimulated induce wakefulness.The cholinergic neurons in the pontine reticular formation, on stimulation, induce sleep.Stimulation of the histaminergic neurons of the posterior hypothalamus produces arousal.Electrical stimulation of the anterior hypothalamus and the adjacent basal forebrain regionrapidly induces sleep. This sleep-inducing effect is thought to be mediated by GABA-ergicinhibitory neurons.Orexin produced by hypothalamic neurons also appears to have a role in sleep-wake transition byregulating the changes in activity in these brainstem neurons.wakeful statSleepeNorepinephr AcetylcholiineSerotoninneGABAHistamine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 4,
+      "question": "In which stage of sleep are K complex and sleep spindles seen?",
+      "options": {
+        "A": "REM",
+        "B": "Stage 1 NREM",
+        "C": "Stage 2 NREM330",
+        "D": "Stage 3 NREM"
+      },
+      "correct_answer": "C",
+      "explanation": "Stage 2 of NREM sleep is marked by the appearance of sinusoidal waves called sleep spindles(12-14 Hz) and occasional high-voltage biphasic waves called K complexes.339voltageK-ComplexwheySleep Spindletime",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp4_img1_aef9cb98.jpeg",
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 5,
+      "question": "Which stage constitutes the largest amount of sleep time of a young adult?",
+      "options": {
+        "A": "REM",
+        "B": "NREM 1",
+        "C": "NREM 2",
+        "D": "NREM 3"
+      },
+      "correct_answer": "",
+      "explanation": "•In young adults, the largest amount of sleep time (50-60%) is spent in stage 2 NREM sleep;REM phases constitute 20-25% of total sleep time, stages 3 and 4 NREM about 15-20%, andstage 1 non-REM about 5%.• REM sleep occupies 80% of total sleep time in premature infants and 50 % in full-termneonates. In most adults, it is 25 %. In the elderly, it falls to about 20%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is observed during sleep induction?",
+      "options": {
+        "A": "↑ Norepinephrine and serotonin",
+        "B": "↑ Acetylcholine",
+        "C": "↑ Histamine",
+        "D": "GABA"
+      },
+      "correct_answer": "B",
+      "explanation": "The cholinergic neurons in the pontine reticular formation, on stimulation, induce sleep. When the activity of norepinephrine and serotonin-containing neurons (locus coeruleus and raphe nuclei) is dominant, there is a reduced level of activity in acetylcholine-containing neurons in the pontine reticular formation, leading to wakefulness. The reverse of this pattern leads to REM sleep. A more even balance in the activity of these groups of neurons is associated with NREM sleep.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 7,
+      "question": "In NREM sleep, which part of brain is not involved?",
+      "options": {
+        "A": "Dorsal Raphe nucleus",
+        "B": "Thalamus",
+        "C": "Hypothalamus",
+        "D": "Basal forebrain"
+      },
+      "correct_answer": "A",
+      "explanation": "The nucleus coeruleus (locus coeruleus) is rich in norepinephrine and the Raphe nuclei of ARAS isrich in serotonin. These regions when stimulated induce arousal. Thus, the dorsal raphe nucleus isnot involved in NREM sleep.Genesis and Regulation of NREM sleep340• Electrical stimulation of the anterior hypothalamus and the adjacent basal forebrain regionrapidly induces sleep mediated by GABA-ergic inhibitory neurons called the NREM-on cells.• These cells are thought to produce sleep by inhibiting the histaminergic cells in the posteriorhypothalamus as well as cells of the nucleus reticularis pontis oralis in the midbrain that mediatearousal.•They are maximally active in NREM sleep and inactive during waking and REM sleep.• NREM sleep is produced by synchronized synaptic potentials in cortical neurons generated bythe rhythmic firing of thalamic relay neurons that project to the cortex. (Thalamocortical loop)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 8,
+      "question": "Delta waves are seen in",
+      "options": {
+        "A": "Deep sleep",
+        "B": "REM Sleep",
+        "C": "Awake state",
+        "D": "NREM 1331"
+      },
+      "correct_answer": "",
+      "explanation": "Delta waves are predominant in N3 (formerly called stage 3 and 4) of NREM. This is characteristicof deep sleep, also referred to as slow wave sleep.(Delta waves for Deep sleep)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is associated with slow-wave sleep?",
+      "options": {
+        "A": "Nightmares",
+        "B": "Cardiac arrhythmias",
+        "C": "Penile tumescence",
+        "D": "Delta activity"
+      },
+      "correct_answer": "",
+      "explanation": "In slow-wave sleep, (Stages 3 and 4 of NREM) delta waves predominate the EEG.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is the source of melatonin?",
+      "options": {
+        "A": "Pineal gland",
+        "B": "Hypothalamus",
+        "C": "Adrenal cortex",
+        "D": "Melanocytes"
+      },
+      "correct_answer": "A",
+      "explanation": "Melatonin is released by the pineal gland (pinealocytes) that plays an important role in sleep mechanisms. In infants, the pineal gland is large and the cells are arranged in alveoli. It begins to involute before puberty and small concretions of calcium phosphate and carbonate appear (radiopaque structure) = physiological calcification.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 11,
+      "question": "A businessman who takes frequent long trips to overseas destinations visits the clinic askingfor \"something that helps with falling asleep and adapt with the local time\". He is given a lowdose of melatonin as a part of his treatment plan. Which of the following best describes itsaction?",
+      "options": {
+        "A": "Facilitates ACTH secretion",
+        "B": "Prevents sleep induction",
+        "C": "Regulates circadian rhythm",
+        "D": "Release of melanin"
+      },
+      "correct_answer": "",
+      "explanation": "Melatonin plays a key role in regulating the circadian rhythm. Therefore it is helpful in restoringthe usual sleep wake pattern in patients with jetlag.Diurnal variation in melatonin secretion may function as a timing signal to coordinate events withthe light-dark cycle in the environment (circadian rhythm).Melatonin synthesis and secretion are increased during the dark period of the day and maintainedat low levels during the daytime.Increased melatonin levels induce sleepiness.341Photic stimulation of the retinaActivation of retinohypothalamic fibresStimulation of SCN (Supra chiasmatic nucleus) whichcontains GABAnergic neuronsInhibition of sympathetic fibres via superior cervicalganglionInhibition of pineal glandDecreased synthesis and secretion ofmelatoninRhythm of sleep wake cycle(circadian rhythm)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp11_img1_226f5476.png",
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 12,
+      "question": "In which type of memory are basal ganglia involved?",
+      "options": {
+        "A": "Conditioning",
+        "B": "Procedural",
+        "C": "Explicit332",
+        "D": "None"
+      },
+      "correct_answer": "",
+      "explanation": "Procedural memory includes skills and habits, which, once acquired, become unconscious andautomatic. This type of memory is processed in the striatum.Implicit memory/Non-declarative memory: It does not require being conscious or awareness. E.g.,Remembering how to brush your teeth. They are of 4 types:• Procedural memory (skills and habits) in striatum, cerebellum, motor cortex••Priming in neocortex• Non-associative learning (includes habituation and sensitization, e.g., Byhearting facts)• Associative learning: classical and operant conditioningExplicit/declarative memory: Memory of words, rules, language, etc. Associated withconsciousness/awareness. E.g., recalling first day in school.They are of two types:• Semantic memory (facts) e.g., Knowing capital of India: Parts of brain involved are temporalcortex and prefrontal cortex.• Episodic memory (events) e.g., Recalling first day in college: hippocampus, medial temporal lobeand neocortex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 13,
+      "question": "A 50-year-old lady develops severe anterograde amnesia. On further evaluation, a suprasellarcraniopharyngioma invading adjacent structures is seen on T1-weighted MRI. Compression ofwhich of the following structures can explain her symptoms?",
+      "options": {
+        "A": "Prefrontal cortex",
+        "B": "Neocortex",
+        "C": "Mammillary body",
+        "D": "Amygdala"
+      },
+      "correct_answer": "",
+      "explanation": "Compression or a lesion affecting the mammillary body will cause anterograde amnesia.The Hippocampus, mammillary body and mammillothalamic tract are the primary structuresinvolved in the conversion of short-term memory to long-term memory. Any lesion involving this342pathway will affect the ability to convert short-term memory to long-term memory, leading toanterograde amnesia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following neural mechanism is not involved in synaptic plasticity and learning?",
+      "options": {
+        "A": "Post-tetanic potentiation",
+        "B": "Habituation",
+        "C": "Desensitization",
+        "D": "Long-term depression"
+      },
+      "correct_answer": "A",
+      "explanation": "Sensitization is a neural mechanism involved in synaptic plasticity and learning (notdesensitization).Neural basis of synaptic plasticity and learning• Post-tetanic Potentiation• Production of enhanced postsynaptic potential, which occurs after a brief tetanizing train ofstimuli in the presynaptic neuron• This enhancement lasts up to 60 seconds.• Habituation•• A simple form of learning in which neutral stimulus is repeated many times until the subjectbecomes habituated to the stimulus and ignores it• A classic example of non-associative learning (e.g., learning a fact by heart)• Sensitization: The opposite of habituation• Long-term Potentiation (LTP)• A rapidly developing persistent enhancement of the post-synaptic potential response topresynaptic stimulation, after rapidly repeated stimulation of presynaptic neuron• Characteristically observed in the hippocampus• Long-term Depression• Is the opposite of LTP•Characterized by a decrease in synaptic strength●Produced by slower stimulation of presynaptic neuron•May be involved in the neural mechanism by which learning occurs in the cerebellum",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 15,
+      "question": "The type of potentiation in the hippocampus is",
+      "options": {
+        "A": "Long-term potentiation",
+        "B": "Post-tetanic potentiation",
+        "C": "Long-term depression",
+        "D": "Habituation"
+      },
+      "correct_answer": "A",
+      "explanation": "Long-term potentiation occurs in the hippocampus. LTP is a rapidly developing persistent enhancement of the post-synaptic potential response to presynaptic stimulation, after rapid repeated stimulation of the presynaptic neuron. NMDA receptors are involved in LTP.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 16,
+      "question": "Wernicke's area is in",
+      "options": {
+        "A": "Superior temporal gyrus",
+        "B": "Precentral gyrus",
+        "C": "Postcentral gyrus",
+        "D": "Inferior frontal gyrus"
+      },
+      "correct_answer": "A",
+      "explanation": "Wernicke's area lies behind the primary auditory cortex in the posterior part of the superior gyrus of the temporal lobe. Wernicke's area is concerned with language comprehension. Fluency lost: Motor speech area, Transcortical motor Aphasia. Comprehension lost: Sensory association areas, Transcortical sensory. Broca: Inferior frontal gyrus. Write, Speak: Pure word deafness. Wernicke: Inferior parietal/Superior temporal. Auditory, Visual: Hearing, Read, Repetition. Wernicke, Broca. If all 3 intact: Repetition preserved. Auditory, MAR, ROW, Alexia.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_e458f131.jpeg",
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is false about Broca's aphasia?",
+      "options": {
+        "A": "Lesion lies in frontal lobe",
+        "B": "Fluency is impaired",
+        "C": "Neologisms are absent",
+        "D": "Repetition is preserved"
+      },
+      "correct_answer": "D",
+      "explanation": "Repetition is impaired in Broca's aphasia. Aphasias are abnormalities of language functions that are not due to defects of vision or hearing or motor paralysis. They are caused by lesions in the cerebral hemispheres.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 18,
+      "question": "A lesion in the broca's area will affect which of the following?",
+      "options": {
+        "A": "Word formation",
+        "B": "Word comprehensionWord memorizationd) ReadingQuestion 19:A patient is able to recognize a person by name but not face. Which of the following is themost likely site of the lesion?a) Frontal lobeb) Occipital lobe",
+        "C": "Post parietal region",
+        "D": "Occipitotemporal"
+      },
+      "correct_answer": "A",
+      "explanation": "A lesion in broca's area will lead to an impairment of word-formation.Broca's area is in the inferior frontal lobe.Broca area processes the information received from the wernicke area into a detailed andcoordinated pattern for vocalization and then projects the pattern via a speech articulation area inthe insula to the motor cortex. This then initiates the appropriate movements of the lips, tongue,and larynx to produce speech.The probable sequence of events that occurs when a subject names a visual object is shown in thefigure and flowchart.344Information travels from lateral geniculate nucleus toprimary visual cortexPrimary visual cortex (Area 17) to high order visualareas(Area 18)Angular gyrus(Area 39)Wernicke's area(Area 22)Broca's area(area 44) via arcuate fasciculusBroca's area process it and vocalises4544",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_af4413cd.jpeg",
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is the test for immediate memory?",
+      "options": {
+        "A": "Digit span forward up to 7 digits with 2 skips allowed",
+        "B": "Serial (100-7) subtraction test up to 5 steps334",
+        "C": "Digit span backwards up to 5 digits with 2 skips allowed",
+        "D": "Serial (20-1) subtraction test up to 5 steps"
+      },
+      "correct_answer": "A",
+      "explanation": "Forward digit span test is the best test among the given options.Memory is of 3 types:• Immediate• Recent• RemoteImmediate memory is attention dependent. Tests of attention and memory include•• Digit span test: Most important and best test for immediate memory•Serial (100-7) subtraction test is the best for concentration• Days of the week backwards••Spell WORLD backwards⚫ (20-3) testDigit span testThe examiner recites numbers randomly without any sequence and asks the patient to repeat thesame. The examiner starts with a 2-number sequence and the digit span increases from 2numbers to 3 numbers and so on. The patient is asked to repeat until he/she fails to repeat allnumbers correctly.Digit forward• Normally a person can repeat up to 7 digits (+/- 2)•⚫ E.g., Examiner says 2-4-8-1-5-7-9. The person has to repeat in the same order 2 - 4-8-1-5-7-9.Digit backward•Reproduction of longer digits in backward direction.Normally a person can repeat up to 5 digits (+/- 1) in backward direction (making option Cwrong)• Eg: Examiner says 2 - 4-8-1-5-7-9. The person has to repeat it backwards. 9 -7 -5 -1 -8- 4-2.Serial (100-7) subtraction test• 5 scores / steps are taken in to account•1st score - When the patient tells 93 (100 - 7 = 93)• 2nd score - When the patient tells 86 (93-7 = 86)•And so on. . 100, 93, 86, 79, 72, 65Hence among the given options:Digit span forward up to 7 digits with 2 skips allowed would be the answer of choice as it is thebest test for immediate memory346",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 21,
+      "question": "The marked area given in the sleep polysomnography is of",
+      "options": {
+        "A": "REM sleep",
+        "B": "NREM stage 1",
+        "C": "NREM stage 2",
+        "D": "NREM stage 3"
+      },
+      "correct_answer": "A",
+      "explanation": "The marked area in the given polysomnography represents REM sleep.The three zones in the given image represent EOG, EEG and EMG, respectively.EOGEEGEMGThe following table helps identify the state of wakefulness from the graph:In the marked area,•EOG shows Positive activity• EEG shows Mixed waves•EMG shows Minimal activityThis is characteristic of REM sleep.EEGEOG EMGActive statFasteREM sleePMixe +dNREM sleSlow+ep347LEGGREGGCWCLAT01520341EOGEEGEMGREMTHO",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q21_img1_e405c811.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp21_img1_e35f074c.jpeg",
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 22,
+      "question": "In which phase of sleep bruxism occurs?",
+      "options": {
+        "A": "NREM2",
+        "B": "NREM 3",
+        "C": "REM",
+        "D": "NREM 406"
+      },
+      "correct_answer": "A",
+      "explanation": "Sleep-related bruxism is diagnosed when an individual grinds or clenches the teeth duringsleep. Bruxism occurs more commonly during NREM 2.Parasomnias refer to abnormal behavior or experiences that arise from or occur during sleep.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following sleep disorder does not occur in stage 3 of NREM?335",
+      "options": {
+        "A": "Night terror",
+        "B": "Nocturnal enuresis",
+        "C": "Bruxism",
+        "D": "Sleep walking"
+      },
+      "correct_answer": "C",
+      "explanation": "Bruxism occurs in stage 2 of NREM, whereas other sleep disorders given in the option occur instage 3 of NREM",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 24,
+      "question": "A 30-year-old male, who met with an RTA, regained consciousness after 36 hours. It was thendiscovered that the patient is unable to create new memories. Which of the following is theprobable site of the lesion?",
+      "options": {
+        "A": "Amygdala",
+        "B": "Neocortex",
+        "C": "Hippocampus",
+        "D": "Hypothalamus"
+      },
+      "correct_answer": "",
+      "explanation": "From the history, it is clear that the patient is suffering fron anterograde amnesia, most probablydue to a lesion is hippocampus.Hippocampus is the primary structure within the temporal lobe involved in conversion ofshort-term memory to long-term memory.Hippocampal cognitive map is inappropriately reactivated during a deja vu experience.Hippocampus does not store memory but only converts short-term memory to long-term memory.Hence, hippocampal lesions cause only anterograde amnesia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following is correctly paired to show the relationship between a brain area and atype of memory?",
+      "options": {
+        "A": "Neocortex and associative learning",
+        "B": "Medial temporal lobe and declarative memory",
+        "C": "Angular gyrus and procedural memory",
+        "D": "Striatum and priming"
+      },
+      "correct_answer": "B",
+      "explanation": "348Declarative memory involves the hippocampus and the medial temporal lobe for retention.Priming neocortex.-Procedural memory - striatum.Associative learning- amygdala for its emotional responses and the cerebellum for the motorresponses.Nonassociative learning - various reflex pathways.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 26,
+      "question": "A 35-year-old man is severely injured in a road traffic accident. Brain MRI shows significantdamage to the bilateral frontal lobes. Which of the following neurological features will beleast likely seen in this patient?",
+      "options": {
+        "A": "Slowed thinking",
+        "B": "Decreased curiosity",
+        "C": "Social withdrawal",
+        "D": "Retained judgement336"
+      },
+      "correct_answer": "D",
+      "explanation": "Retained judgement will be least likely seen if the patient survives such a devastating injury.Injury to the frontal lobe may lead to frontal lobe syndrome, which consists of poor judgment,slowed thinking, decreased curiosity, social withdrawal, and irritability.Frontal lobe injury:• Impairs the executive functions: motivation, attention, and sequencing of actions•Aphasia, apraxia, constructional apraxia, neglect, and memory deficits can be seen•Characterized by changes in personality•Apathetic indifference and impulsive behaviour.•Commonly urinary incontinence and faecal incontinence is seen• Commonly produced by trauma, infarcts, tumours, lobotomy, multiple sclerosis, or Pick'sdisease.Frontal lobe pathology may become apparent only under unstructured, stressful, real-lifesituations and are difficult to detect in intelligence scales, as IQ mostly requires parietal lobeactivation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 27,
+      "question": "A lady presents with vascular injury to the inferior frontal gyrus. Which functional area is likely to be affected?",
+      "options": {
+        "A": "Motor speech area",
+        "B": "Wernicke's area",
+        "C": "Auditory area",
+        "D": "Visual area"
+      },
+      "correct_answer": "A",
+      "explanation": "Broca's motor speech area is likely to be affected in the vascular injury of the inferior frontal gyrus. A lesion in this region leads to motor/Broca's aphasia. Speech is non-fluent and interrupted by many word-finding pauses. The speech is impoverished in function words that contribute to the syntax but is enriched in meaningful nouns and verbs. However, comprehension of speech is intact and the patient knows what he wants to say. For example, a patient with Broca's aphasia may say 'walk dog' instead of 'I want to take the dog for a walk'.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 28,
+      "question": "What is Prosopagnosia?",
+      "options": {
+        "A": "Impairment of consciousness",
+        "B": "Being unaware of one's problems",
+        "C": "Difficulty in identifying known faces",
+        "D": "Failure to identify objects"
+      },
+      "correct_answer": "C",
+      "explanation": "349Prosopagnosia is difficulty in identifying known faces.In humans, storage and recognition of faces is more strongly represented in the right inferiortemporal lobe in right-handed individuals, though the left lobe is also active. Damage to this areacan cause prosopagnosia.Patients with this abnormality can recognize forms and reproduce them. They can recognizepeople by their voices, and many of them show autonomic responses when they see familiar asopposed to unfamiliar faces. However, they cannot identify the familiar faces they see. The lefthemisphere is also involved, but the role of the right hemisphere is primary.The presence of autonomic response to a familiar face in the absence of recognition has beenexplained by postulating the existence of a separate dorsal pathway for processing informationabout faces that leads to recognition at only a subconscious level.Note:• Autotopagnosia - inability to recognize or to orient any part of one's own body• Simultagnosia - inability to recognize multiple elements in a visual presentation, one object orsome elements of a scene can be appreciated but not the display as a wholeSomatagnosia - inability to identify any part of the body, either one's own or another's body• Tactile agnosia (astereognosis) - inability to recognize objects by touch, in the presence of intactcutaneous and proprioceptive hand sensation; caused by a lesion in the contralateral parietal lobe",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    },
+    {
+      "q_no": 29,
+      "question": "Emotion is regulated by:",
+      "options": {
+        "A": "Temporal lobe",
+        "B": "Frontal lobe",
+        "C": "Limbic system",
+        "D": "Parietal lobe"
+      },
+      "correct_answer": "B",
+      "explanation": "Emotion is regulated by the frontal lobe.There are two aspects of emotion:• Genesis of emotion and rating of emotional importance-from the limbic system - amygdala.• The limbic system houses the emotional association areas, which direct the hypothalamus toexpress the motor and endocrine components of the emotional state.• The amygdala rates the emotional importance of an experience and activates the hippocampus(memory) accordingly. Thus an emotionally intense experience is etched in memory, which is thebasis for learned fear responses.• Damage to the amygdala ablates the ability to distinguish fear and anger in other persons' voicesand facial expressions.• Regulation of emotion - frontal lobe.350The Limbic SystemFornixPineal glandCorpus callosumCOMPONENTS INTHE DIENCEPHALONAnterior group ofthalamic nucleiHypothalamus-Mamillary body-Amygdaloid bodyCOMPONENTS INTHE CEREBRUM- Cingulate gyrus-Parahippocampalgyrus- Hippocampus351",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Higher Mental Functions"
+    }
+  ]
+}

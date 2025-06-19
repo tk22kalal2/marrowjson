@@ -1,0 +1,335 @@
+{
+  "chapter": "Electrophysiology of the Heart",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The SA Node acts as the pacemaker of the heart because it",
+      "options": {
+        "A": "Generates impulses spontaneously",
+        "B": "Has rich sympathetic innervation",
+        "C": "Generates impulses at the highest rate",
+        "D": "Has poor cholinergic innervation"
+      },
+      "correct_answer": "C",
+      "explanation": "The SA Node acts as the pacemaker of the heart because it generates impulses at the highest rate.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 2,
+      "question": "In which of the following is the conduction velocity least?",
+      "options": {
+        "A": "AV node",
+        "B": "Ventricles",
+        "C": "Bundle of His",
+        "D": "Purkinje fibers"
+      },
+      "correct_answer": "A",
+      "explanation": "The conduction velocity is least in the AV node. The slow conduction in the AV node is caused mainly by a diminished number of gap junctions between successive cells in the conducting pathways.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 3,
+      "question": "The velocity of conduction of an impulse is maximum in",
+      "options": {
+        "A": "Atrial fibers",
+        "B": "SA node",
+        "C": "AV node",
+        "D": "Purkinje fibers"
+      },
+      "correct_answer": "D",
+      "explanation": "The velocity of conduction of an impulse is maximum in Purkinje fibers. Purkinje fibers have the maximum number of gap junctions, hence the maximum conduction velocity (4m/s).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 4,
+      "question": "The AV nodal delay is (seconds).",
+      "options": {
+        "A": "0.2",
+        "B": "0.1",
+        "C": "0.5519",
+        "D": "0.01"
+      },
+      "correct_answer": "B",
+      "explanation": "The AV nodal delay is 0.1 seconds. The slow conduction is caused mainly by diminished numbers of gap junctions between successive cells in the conducting pathways. It ensures that the atria have ejected their blood into the ventricles first before the ventricles contract.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 5,
+      "question": "If the SA node discharges at 0.00 sec, when will the action potential normally arrive at the epicardial surface at the base of the left ventricle?",
+      "options": {
+        "A": "0.16 sec",
+        "B": "0.18 sec",
+        "C": "0.22 sec",
+        "D": "0.12 sec"
+      },
+      "correct_answer": "C",
+      "explanation": "The duration of action potential to arrive at the epicardial surface at the base of the left ventricle is 0.22 sec. Impulse initiated from SA node at 0.00 s. Impulse reaches AV node at 0.03 s. Delay of impulse at AV node by 0.13 s, resulting in a total time of 0.16 s (0.03 + 0.13) to reach the beginning of Purkinje fibers. Impulse reaches base of Purkinje fibers by 0.03 s, resulting in a total time of 0.19 s (0.16 + 0.03) to reach the endocardial surface of the base of the ventricle. Impulse travels from endocardial to epicardial surface in 0.03 s (due to arrangement of myocardial fibers). Hence, a total time of 0.22 s (0.19 + 0.03) is taken for the impulse to travel from SA node to epicardial surface of the base of ventricles.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_fe5f38ef.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 6,
+      "question": "The order of depolarization after stimulation of Purkinje fibers is:",
+      "options": {
+        "A": "Septum → Endocardium → Epicardium",
+        "B": "Endocardium → Epicardium → Septum",
+        "C": "Epicardium → Endocardium → Septum",
+        "D": "Septum → Epicardium → Endocardium"
+      },
+      "correct_answer": "A",
+      "explanation": "The order of depolarization is from septum → endocardium → epicardium. The spread of cardiac excitation: Atrial depolarization is initiated from the SA node, spreads radially through the atria, then converges on the AV node. A delay of about 0.1s (AV nodal delay) occurs before excitation spreads to the ventricles. Ventricular depolarization starts at the left side of the interventricular septum and moves first to the right across the midportion of the septum. It moves along the ventricular walls to the AV groove, proceeding from the endocardial to the epicardial surface.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp6_img1_951fc281.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 7,
+      "question": "Phases of the ventricular muscle action potential are shown below. At which phase of the below image is the action potential most dependent on sodium permeability?",
+      "options": {
+        "A": "Phase 3",
+        "B": "Phase 2",
+        "C": "Phase 0",
+        "D": "Phase 1"
+      },
+      "correct_answer": "C",
+      "explanation": "The action potential is most dependent on sodium permeability in Phase 0. Action potential of myocardium: • Phase 0: Depolarization: Influx of Na+ into myocyte. • Phase 1: Early repolarization: Efflux of K+ from myocyte. • Phase 2: Plateau: Ca2+ enters myocardial cells via voltage-regulated L-type Ca2+ channels. • Phase 3: Repolarization: Efflux of K+. • Phase 4: Restoration of RMP: Restoration of Na+ and K+ by Na-K ATPase.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q7_img1_98bee043.png",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp7_img1_1df186f2.png",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 8,
+      "question": "Plateau phase of ventricular muscle is due to the opening of:",
+      "options": {
+        "A": "Na channel",
+        "B": "Ca channel",
+        "C": "K channel",
+        "D": "Cl channel"
+      },
+      "correct_answer": "B",
+      "explanation": "Plateau phase of ventricular muscle is due to the opening of Ca channel. Action potential of myocardium: • Phase 0: Depolarization: Influx of Na+ into myocyte. • Phase 1: Early repolarization: Efflux of K+ from myocyte. • Phase 2: Plateau: Ca2+ enters myocardial cells via voltage-regulated L-type Ca2+ channels. • Phase 3: Repolarization: Efflux of K+. • Phase 4: Restoration of RMP: Restoration of Na+ and K+ by Na-K ATPase. -528+52 mV • Na+ (in) ⚫ Na (rapid) • K+, Cl (out) ⚫ to 1,2 (transient outward) -96 mV 4012200 ms • K+ ⚫ K1 (inward rect.) • Ca2+ (in), K+ (out) Ca-L (Ca long) ⚫ ks (K slow delayed rect.) K+ (out) ⚫ ks (K slow delayed rect.) ⚫ KR (K rapid delayed rect.) K1 (inward rect.) 34",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_478439c3.png",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 9,
+      "question": "Repolarization of cardiac muscle proceeds from:",
+      "options": {
+        "A": "Left to right",
+        "B": "Endocardium to epicardium",
+        "C": "Epicardium to endocardium",
+        "D": "Base to the apex"
+      },
+      "correct_answer": "C",
+      "explanation": "Repolarization of cardiac muscle proceeds from epicardium to endocardium. Depolarization proceeds from endocardium to epicardium in an intact cardiac muscle.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 10,
+      "question": "Phase 0 of pacemaker potential is initiated by:",
+      "options": {
+        "A": "Opening of voltage-gated Na+ channels",
+        "B": "Opening of voltage-gated Ca2+ channels",
+        "C": "Inactivation of voltage-gated Ca2+ channels",
+        "D": "Inactivation of voltage-gated Na+ channels"
+      },
+      "correct_answer": "B",
+      "explanation": "Phase 0 of pacemaker potential is initiated by opening of voltage-gated Ca2+ channels. The pacemaker potential consists of: • Phase 0 - this is the upstroke seen due to the opening of voltage-gated Ca2+ channels. This causes an influx of calcium leading to the upstroke. • Phase 3 - This is followed by inactivation of the calcium channels and simultaneous activation of K+ channels. This leads to efflux of K+, bringing about repolarization. • Phase 4 - As the K+ efflux declines, a channel permeable to both Na+ and K+ opens, leading to an influx of both Na+ and K+. This is the If channel. This is responsible for slow spontaneous diastolic depolarization. This accounts for the automaticity of SA and AV nodes. The slope of Phase 4 in the SA node determines the heart rate. Note: Fast voltage-gated Na+ channels seen in myocyte potential are permanently inactivated because of the less negative resting potential of the pacemaker cells.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp10_img1_31917a9f.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 11,
+      "question": "You are researching the benefits of vagus nerve stimulation as a potential treatment for epilepsy. Which of the following parameters can be increased due to vagal stimulation?",
+      "options": {
+        "A": "Heart rate",
+        "B": "R-R interval in ECG",
+        "C": "Cardiac output",
+        "D": "Force of contraction"
+      },
+      "correct_answer": "B",
+      "explanation": "Vagal stimulation can cause an increase in the R-R interval in the ECG as it decreases heart rate. Vagus nerve effects on the heart: Post-ganglionic parasympathetic nerve (vagus nerve) releases acetylcholine (Ach), which activates muscarinic receptors in the SA node, AV node, and atrial muscle, resulting in a reduction of heart rate, reduction of transmission through the AV node, and a reduction in atrial contractility.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp11_img1_f38198b6.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 12,
+      "question": "In recording Lead I, the right arm is the negative electrode and the positive electrode is",
+      "options": {
+        "A": "Left arm",
+        "B": "Left leg",
+        "C": "Right leg",
+        "D": "Left arm + left leg"
+      },
+      "correct_answer": "A",
+      "explanation": "In recording Lead I, the right arm is the negative electrode and the positive electrode is the left arm. Bipolar Limb leads for ECG recording: LA → left arm, RA → right arm. Lead type: Positive input (+), Negative input (-). Lead I: LA, RA. Lead II: LL, RA. Lead III: LL, LA. Einthoven's triangle: Lead I, Lead II, Lead III.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp12_img1_e3e0f7e2.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 13,
+      "question": "Einthoven's law states that",
+      "options": {
+        "A": "II=I+III",
+        "B": "I=II+III",
+        "C": "III=I+II",
+        "D": "Any of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "Einthoven's law states Lead I + Lead III = Lead II. Einthoven's triangle is an imaginary formation of three limb leads in a triangle used in electrocardiography.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 14,
+      "question": "In Einthoven's triangle, what is the value of lead III when lead I = 1mV and lead II = 2mV?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "A",
+      "explanation": "According to Einthoven's law, Lead I + Lead III = Lead II. Lead III = Lead II - Lead I = (2-1) = 1 mV.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 15,
+      "question": "In a standard ECG, an augmented limb lead measures the electrical potential difference between",
+      "options": {
+        "A": "2 limbs",
+        "B": "1 limb and the 2 other limbs",
+        "C": "One limb and a neutral point",
+        "D": "2 limbs and 2 other limbs"
+      },
+      "correct_answer": "B",
+      "explanation": "In a standard ECG, an augmented lead measures the electrical potential difference between one limb and the other two limbs. aVR, aVL, and aVF are the augmented limb leads.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp15_img1_d81e3e64.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 16,
+      "question": "Which part of the ECG corresponds to ventricular repolarization?",
+      "options": {
+        "A": "The P wave",
+        "B": "The QRS duration",
+        "C": "The T wave",
+        "D": "The U wave"
+      },
+      "correct_answer": "C",
+      "explanation": "The part of the ECG that corresponds to ventricular repolarization is the T wave. ECG waves: P wave, QRS complex, T wave, U wave. Events in the heart: atrial depolarization, ventricular depolarization, ventricular repolarization, repolarization of ventricular myocytes with long action potential.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_161a5280.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 17,
+      "question": "The PR interval indicates",
+      "options": {
+        "A": "Atrial depolarization",
+        "B": "Ventricular repolarization",
+        "C": "AV node conduction time",
+        "D": "Both A and C"
+      },
+      "correct_answer": "D",
+      "explanation": "The PR interval indicates atrial depolarization (P wave) and AV node conduction time (PR segment). The PR interval is the time between the beginning of the P wave and the beginning of the QRS complex. It is the interval between the beginning of electrical excitation of the atria and the beginning of excitation of the ventricles. Normal duration is 0.12-0.20s. The PR interval, 5 mm = RQ, SQT interval = 1 sec, PR segment.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp17_img1_f3ec450f.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 18,
+      "question": "The P wave is absent in",
+      "options": {
+        "A": "Atrial fibrillation",
+        "B": "Atrial flutter",
+        "C": "Congestive cardiac failure (CCF)",
+        "D": "Wolff-Parkinson-White (WPW)"
+      },
+      "correct_answer": "A",
+      "explanation": "The P wave is absent in atrial fibrillation. In atrial fibrillation, numerous small depolarization waves spread in all directions through the atria. The waves are weak and many of them are of opposite polarity at any given time; they almost electrically neutralize one another. Therefore, P waves are absent from the ECG in atrial fibrillation.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_71e9f2b7.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 19,
+      "question": "The normal mean QRS axis lies between",
+      "options": {
+        "A": "+30° and +100°",
+        "B": "-30° and -100°",
+        "C": "-30° and +100°",
+        "D": "-30° and -110°"
+      },
+      "correct_answer": "C",
+      "explanation": "The normal mean QRS axis lies between -30° and +100°. The QRS axis represents the major vector of ventricular activation, which is the overall direction of electrical activity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 20,
+      "question": "The sympathetic innervation to the AV node is by",
+      "options": {
+        "A": "Right thoracic ganglion",
+        "B": "Left thoracic ganglion",
+        "C": "Right stellate ganglion",
+        "D": "Left stellate ganglion"
+      },
+      "correct_answer": "D",
+      "explanation": "The sympathetic innervation to the AV node is by the Left stellate ganglion. Innervation of the SA Node and AV Node: The SA node develops from structures on the right side of the embryo, and the AV node from structures on the left. Therefore - ANS: SA node, AV node, Parasympathetic: Right vagus, Left vagus; Sympathetic: Right stellate ganglion, Left stellate ganglion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 21,
+      "question": "You are following up with a patient on a sympathomimetic drug. Which of the following effects is unlikely to be due to sympathetic stimulation?",
+      "options": {
+        "A": "Increased conduction velocity",
+        "B": "Increased refractory period",
+        "C": "Increased heart rate",
+        "D": "Increased contractility of the heart"
+      },
+      "correct_answer": "B",
+      "explanation": "Sympathetic stimulation causes faster conduction, therefore a decreased refractory period. Effects of sympathetic stimulation: • Chronotropic - It increases the rate of sinus nodal discharge. • Dromotropic - It increases the rate of conduction. • Bathmotropic - It increases the level of excitability in all portions of the heart. • Inotropic - It increases the force of contraction of all the cardiac musculature.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Electrophysiology of the Heart"
+    },
+    {
+      "q_no": 22,
+      "question": "The AH interval on His Bundle Electrocardiogram (HBE) corresponds to the conduction on ECG.",
+      "options": {
+        "A": "Through the His-Purkinje system",
+        "B": "From the AV node to the bundle of His",
+        "C": "From Purkinje to ventricular fibers",
+        "D": "Through ventricular fibers"
+      },
+      "correct_answer": "B",
+      "explanation": "The AH interval corresponds to conduction from the AV node to the bundle of His on an ECG. His bundle electrogram (HBE) is the record of the electrical activity obtained with the catheter passed through a vein to the right side of the heart and placed close to the tricuspid valve. It shows three deflections, as shown in the figure: His bundle electrogram. With HBE and standard ECG leads, three intervals can be timed accurately. His bundle waves: A denotes AV node activation, H denotes His bundle activation, and V denotes ventricular depolarization. The intervals are as follows: PA interval - time from the first appearance of atrial depolarization to the A wave in HBE, corresponding to conduction time from the SA node to the AV node. AH interval - from the A wave to the start of the H spike, corresponding to AV nodal conduction time. HV interval - time from the start of the H spike to the start of the QRS deflection in ECG, corresponding to conduction in the Bundle of His and bundle branches.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp22_img1_3473a09f.jpeg",
+      "chapter_heading": "Electrophysiology of the Heart"
+    }
+  ]
+}

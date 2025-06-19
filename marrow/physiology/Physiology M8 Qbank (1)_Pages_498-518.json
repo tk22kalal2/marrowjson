@@ -1,0 +1,395 @@
+{
+  "chapter": "Cardiac Cycle and Cardiac Output",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The basal cardiac output in adults is around",
+      "options": {
+        "A": "10 litres",
+        "B": "5.5 litres",
+        "C": "7.5 litres",
+        "D": "6.5 litres"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 2,
+      "question": "The cardiac output can be determined by all except:",
+      "options": {
+        "A": "Fick's principle",
+        "B": "Thermodilution",
+        "C": "Echocardiography",
+        "D": "V/Q ratio"
+      },
+      "correct_answer": "D",
+      "explanation": "V/Q ratio not used to determine cardiac output.Measurement of cardiac output:• Fick principle•• Dye dilution/thermodilutionDoppler plus echocardiograph• MRI",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 3,
+      "question": "Cardiac output in litre per minute divided by heart rate gives",
+      "options": {
+        "A": "Mean arterial pressure",
+        "B": "Cardiac index",
+        "C": "Cardiac efficiency",
+        "D": "Stroke volume"
+      },
+      "correct_answer": "D",
+      "explanation": "Cardiac output in litre per minute divided by heart rate gives stroke volume.Cardiac output is given by, Cardiac Output = Heart Rate X Stroke Volume.The stroke volume is the amount of blood pumped out of each ventricle per beat, is about 70 mLfrom each ventricle in a resting man in the supine position.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 4,
+      "question": "Ejection fraction is",
+      "options": {
+        "A": "SV/ESV",
+        "B": "ESV/EDV",
+        "C": "EDV/SV498",
+        "D": "SV/EDV"
+      },
+      "correct_answer": "D",
+      "explanation": "Ejection fraction is SV/EDV.The amount of blood ejected by each ventricle per stroke at rest is 70-90 mL. The end-diastolicventricular volume is about 130 mL. The ejection fraction is the percentage of the end-diastolicventricular volume that is ejected with each stroke, is about 65%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient with cardiac output 5L/min and body surface area 1.7m2. What will be the cardiacindex (L/min/m2)?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "A",
+      "explanation": "Cardiac index is the cardiac output per minute per square meter of body surface.Cardiac Index = Cardiac output / body surface area.506Therefore Cardiac index = 5L/min /1.7m2= 2.94 L",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 6,
+      "question": "Volume determining preload is",
+      "options": {
+        "A": "End systolic volume",
+        "B": "Volume of blood in aorta",
+        "C": "Ventricular ejection volume",
+        "D": "End diastolic volume"
+      },
+      "correct_answer": "",
+      "explanation": "Volume determining preload is End diastolic volume.Preload is the initial stretch on muscle at the end of diastole. Preload is equal to End diastolicvolume (EDV) and is determined by venous return to heart.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 7,
+      "question": "Starling's law implies:",
+      "options": {
+        "A": "Increased heart rate leads to increased cardiac output",
+        "B": "Increased discharge leads to increased cardiac output",
+        "C": "Increased venous return leads to increased cardiac output",
+        "D": "Increased blood pressure leads to increased cardiac output"
+      },
+      "correct_answer": "D",
+      "explanation": "Starling's law implies increased venous return leads to increased cardiac output.Frank-Starling law: The energy of contraction is proportional to the initial length of the cardiacmuscle fiber.The length of the muscle fibers is proportional to the end-diastolic volume, which is determinedby venous return.SV (UL)IncreasedContractilityNormalLVEDP (mmHg)DecreasedContractility",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp7_img1_4ac9d345.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 8,
+      "question": "Venous return to the heart during quiet standing is facilitated by all of the following factorsexcept",
+      "options": {
+        "A": "Calf muscle contraction during standing",
+        "B": "Valves in perforators.499",
+        "C": "Deep fascia.",
+        "D": "Increased arterial pressure due to gravitation."
+      },
+      "correct_answer": "D",
+      "explanation": "Venous return to the heart during quiet standing is not facilitated by increased arterial pressure.Factors that facilitate venous return to the heart:Calf muscles contract and pump blood through veins.• Valves don't allow the retrograde flow of blood through veins.• Deep fascia by forming a supporting structure to veins.507Note: The pulsations of artery helps in increasing lymph flow.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 9,
+      "question": "When a person changes position from standing to supine,",
+      "options": {
+        "A": "Heart rate increases",
+        "B": "Venous return to heart rises immediately",
+        "C": "Cerebral blood flow increases",
+        "D": "Decrease in blood flow to the lung apices"
+      },
+      "correct_answer": "B",
+      "explanation": "When a person changes position from standing to supine, venous return to heart risesimmediately. On standing, Gravitational pull causes venous pooling of blood in the legs. Onsupine position, this gravitational pull equalizes over body, causing the pooled blood to returnback to heart.Other options:Option A: Heart rate decreases because of increased cardiac output and increased BP viabaroreceptor reflex.Option C: Cerebral blood flow will remain constant due to autoregulation.Option D: Blood flow to the apex of lung will be high due to high cardiac output.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 10,
+      "question": "A 30-year-old woman has a resting heart rate of 70-beats/min. Her pressure-volume diagramof the left ventricle is given below. What is her cardiac output (in mL/min)? (Point 2corresponds to 120 ml)",
+      "options": {
+        "A": "2000",
+        "B": "3000",
+        "C": "4900",
+        "D": "7000"
+      },
+      "correct_answer": "",
+      "explanation": "In this case, the patient has a heart rate of 70-beats/min and the stroke volume can be determinedfrom the given pressure-volume diagram.Point 2 corresponds to the EDV(End diastolic volume) = 120 mLPoint 1 corresponds to the ESV(End systolic volume) = 50 mLThus, stroke volume (SV) = EDV - ESV = 120-50 = 70 mLTherefore, Cardiac output = HR X SV = 70 X 70 = 4900 mL/min.Pressure-volume changes in cardiac cycleLeft intraventricular pressure (mmHg)150Aorticvalvecloses31002EWAortic valveopens50IsovolumetricrelaxationMitralvalveopensStroke volumeIsovolumetriccontractionbPeriod of fillingMitral valvecloses1↑50End-systolicvolume100150End-diastolicvolumeLeft ventricular volume (mL)EW-External work done by the ventricleOMARROW508",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q10_img1_31461aad.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp10_img1_be06fd44.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 11,
+      "question": "pressure (mmHg)150100503HARROW01050100volume (mL)OMARROW2120150500A sister donated one of her kidneys to her brother. What would be the effect on her cardiacoutput?",
+      "options": {
+        "A": "Decrease",
+        "B": "Increase",
+        "C": "No effect",
+        "D": "Variable effect"
+      },
+      "correct_answer": "",
+      "explanation": "Surgical removal of kidney leads to decrease in cardiac output.Amputation of a limb or surgical removal of organs like kidney removes a parallel circuitthus increasing total peripheral vascular resistance. As the resistance increases, afterloadincreases hence decreasing stroke volume.CO= HR × SV, therefore decrease in stroke volume leads to decrease in cardiac output.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 12,
+      "question": "The duration of atrial diastole is",
+      "options": {
+        "A": "0.1 sec",
+        "B": "0.3 sec",
+        "C": "0.7 sec",
+        "D": "0.5 sec"
+      },
+      "correct_answer": "",
+      "explanation": "The duration of atrial diastole is 0.7 sec.Cardiac Cycle EvenSystole(Diastole(Total (tss)s)s)Ventricles0.30.50.8Atria0.10.70.8",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 13,
+      "question": "The indication of the end of the isovolumetric relaxation phase is when",
+      "options": {
+        "A": "Ventricular pressure raise above atrial pressure",
+        "B": "Ventricular pressure falls below atrial pressure",
+        "C": "Ventricular pressure falls below aortic pressure",
+        "D": "ventricular pressure rises above aortic pressure"
+      },
+      "correct_answer": "C",
+      "explanation": "The indication of the end of the isovolumetric relaxation phase is when ventricular pressure fallsbelow atrial pressure.Events of the Cardiac CycleDiastole• ProtodiastoleBefore the semilunar valve closes, even though ventricular muscle is relaxed, blood flow into greatvessels is due to momentum of blood.• Iso-volumetric RelaxationThe ventricular muscle continues to relax, even though the ventricular volume does not change,with all valves closed.•• Ventricular FillingIsovolumetric relaxation ends when the ventricular pressure falls below the atrial pressure and theAV valves open, permitting the ventricles to fill.• Atrial SystoleDuring the last third of diastole, the atria contract and give additional thrust to the inflow of bloodinto the ventricles. It correlates with 'a' wave in JVP.Systole•• Isovolumetric Contraction509The ventricular muscle continues to contract, even though the ventricular volume does notchange, with all valves closed.It correlates with the 'c' wave of JVP.• Ventricular EjectionWhen the ventricular pressures rise above aortic and pulmonary pressures the valves open, andventricular ejection begins. Peak pressures in the left and right ventricles are about 120 and 25mmHg, respectively.Events of the cardiac cycleAtrial systole120Aortic valveopens100806040 Mitral valveclosesVolume (mL)130ggg9050Pressure20(mmHg)Isovolumic contractionEjectionIsovolumic relaxationRapid inflowDiastasisAortic valveclosesMitral valveopens1st2nd3rdSystoleRPDiastole°.OMARROWS00Aortic pressureCAtrial pressureVentricular pressureTVentricular VolumeElectrocardiogramPhonocardiogramSystole",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp13_img1_5aa67c6f.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 14,
+      "question": "During the cardiac cycle, the opening of the aortic valve takes place at the",
+      "options": {
+        "A": "End of isovolumterc relaxation.",
+        "B": "Begining of isovolumetric relaxation.",
+        "C": "Begining of isovolumetric contraction.",
+        "D": "End of isovolumetric contraction."
+      },
+      "correct_answer": "D",
+      "explanation": "Opening of the aortic valve takes place at the end of the isovolumetric contraction.When the ventricular pressures rise above aortic and pulmonary pressures the semilunar valves(aortic and pulmonary valves) open, and ventricular ejection begins.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 15,
+      "question": "501The effect of increased heart rate on cardiac cycle is that it",
+      "options": {
+        "A": "Decrease the duration of systole and diastole.",
+        "B": "Increase the duration of systole and diastole.",
+        "C": "Decrease the duration of systole more than diastole.",
+        "D": "Decrease the duration of diastole more than systole."
+      },
+      "correct_answer": "D",
+      "explanation": "The effect of increased heart rate on cardiac cycle is that it decreases the duration of diastole morethan systole.The duration of systole is much more fixed than that of diastole, so when the heart rate isincreased, diastole is shortened to a much greater degree. Coronary blood flow and ventricularfilling occur in diastole.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 16,
+      "question": "Electromechanical systole is the time interval between",
+      "options": {
+        "A": "Q wave and T wave",
+        "B": "S wave and T wave",
+        "C": "R wave and first heart sound",
+        "D": "Q wave and second heart sound"
+      },
+      "correct_answer": "D",
+      "explanation": "510Electromechanical systole is the time interval between Q wave and second heart sound.To record this both ECG and phonocardiography are required.Electromechanical systolePhonocardiogramMAElectrocardiogramS₁S2WT1Q-S2QRSLVETOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_b99dca46.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 17,
+      "question": "The pressure-volume curve is shifted to the left in:",
+      "options": {
+        "A": "Aortic regurgitation",
+        "B": "Mitral regurgitation",
+        "C": "Aortic stenosis",
+        "D": "Mitral stenosis"
+      },
+      "correct_answer": "D",
+      "explanation": "The pressure-volume curve is shifted to the left in Mitral stenosis.The PV loop is shifted to the right when there is volume overload (increased EDV).The PV loop is shifted to the left in case of increased contractility or decreased compliance(decreased EDV).Effect of Valvular Diseases on PV loop:• Mitral stenosis: Left and down.•Mitral regurgitation: Width increased and height decreased.• Aortic stenosis: Tall with steep slope.• Aortic regurgitation: Right and tall.511LV pressure (mmHg)LV pressure (mmHg)Pressure-volume changes in cardiac cycleLeft intraventricular pressure (mmHg)150Aorticvalvecloses31002EWAortic valveopensIsovolumetricrelaxationStroke volume50MitralvalveopensEWAortic stenosis200100-50End-systolicvolumeIsovolumetriccontractionbPeriod of fillingMitral valveclosesa1100End-diastolicvolumeLeft ventricular volume (mL)External work done by the ventricleOMARROW150Pressure-Volume loops▸ Aortic regurgitation200100LV volume (ml)B Mitral stenosis200100-0100200LV volume (ml)200LV pressure (mmHg)LV pressure (mmHg)100100LV volume (ml)D Mitral regurgitation200100100200LV volume (ml)OMARROW200",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp17_img1_b641336e.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 18,
+      "question": "Dicrotic notch is caused by",
+      "options": {
+        "A": "Closing of mitral valve",
+        "B": "Closing of aortic valve",
+        "C": "Opening of mitral valve",
+        "D": "Opening of aortic valve"
+      },
+      "correct_answer": "B",
+      "explanation": "Dicrotic notch is caused by closing of aortic valve.The dicrotic notch, a small oscillation in the falling phase of the pulse wave caused by vibrationsset up when the aortic valve shuts.512Dicrotic notchDicrotic notchSystolic phaseOWDiastolic phaseSystolic peakDiastolic peakArterial pressure waveformOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_c293dc57.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 19,
+      "question": "First heart sound and second heart sound are respectively due to502",
+      "options": {
+        "A": "Opening of semilunar and atrioventricular valves",
+        "B": "Closure of semilunar and atrioventricular valvesClosure of atrioventricular and semilunar valvesd) Opening of atrioventricular and semilunar valvesQuestion 20:The fourth heart sound is caused by:a) Closure of aortic and pulmonary valvesb) Vibrations in the ventricular wall during systole",
+        "C": "Ventricular filling",
+        "D": "Closure of mitral and tricuspid valves"
+      },
+      "correct_answer": "",
+      "explanation": "First heart sound and second heart sound are respectively due to closure of atrioventricular (AV)and semilunar valves.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 21,
+      "question": "\"a\" wave on JVP is for",
+      "options": {
+        "A": "Atrial contraction",
+        "B": "Atrial filling",
+        "C": "Ventricular relaxation",
+        "D": "Ventricular filling"
+      },
+      "correct_answer": "A",
+      "explanation": "\"a\" wave in JVP represents atrial contraction.Waves of JVP :• a- atrial systole pushing the blood to the ventricles.• c- isovolumetric contraction of ventricles causing the tricuspid valve to bulge.• x'- fall in atrial pressure during ventricular systole due to pull of valve leaflets.• v-venous filling which creates an increase in atrial pressure.⚫y-passive filling of ventricles by a passive flow of the blood from the right atrium.Pressure →→CJVPTimea - Atrial contractionc - Tricuspid valve elevation into the right atriumx - Downward movement of the contracting right ventriclev - Back-pressure wave from blood filling the right atriumy- Tricuspid valve opens in early ventricular diastoleOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp21_img1_65e943b1.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 22,
+      "question": "'c' wave in JVP is seen in",
+      "options": {
+        "A": "Iso-volumetric contraction",
+        "B": "Slow filling at end of diastole",
+        "C": "End of systole",
+        "D": "Start of diastole"
+      },
+      "correct_answer": "A",
+      "explanation": "'c' waves are produced by bulging of the tricuspid valve into the right atrium during theIso-volumetric contraction of the right ventricle.514ChamberpressuresLV volumeEKGVenouswaveformMitral valveclosesMitral valveopensARPSSystoleDiastoleSystoleDiastole",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp22_img1_6cbd4420.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 23,
+      "question": "The x descent in jugular venous pressure corresponds tophase of the cardiac cycle.",
+      "options": {
+        "A": "Atrial systole503",
+        "B": "Ventricular systole",
+        "C": "Ventricular diastole",
+        "D": "Joint diastole"
+      },
+      "correct_answer": "B",
+      "explanation": "The x descent in jugular venous pressure corresponds to the ventricular systole of the cardiaccycle.The jugular venous pulse• The waves in JVP reflect the pressure changes in the right atrium.•The internal jugular vein is preferred because the external jugular vein is valved and not directlyin line with the superior vena cava and right atrium.ChamberpressuresLV volumeEKGVenouswaveformMitral valveclosesMitral valveopensRPTSSystoleDiastoleSystoleDiastole• a wave: Corresponds to right atrial contraction.• c wave: Corresponds to the bulging of the tricuspid valve into the right atrium duringisovolumetric ventricular contraction.515• x descent: Corresponds to the atrial relaxation as the ventricular systole pulls the tricuspid valveduring ejection.• v wave: Corresponds to the venous filling of the right atrium against a closed tricuspid valve.• y descent: Corresponds to fall in right atrial pressure during passive emptying of the right atriuminto the right ventricle.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp23_img1_7f6ab966.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 24,
+      "question": "C wave of JVP represents:",
+      "options": {
+        "A": "Tricuspid bulge into right atrium during isovolumetric ventricular contraction",
+        "B": "Contraction of right atrium",
+        "C": "Passive filling of right atrium",
+        "D": "Passive emptying of right atrium"
+      },
+      "correct_answer": "A",
+      "explanation": "'C' wave in JVP represents tricuspid bulge into right atrium during isovolumetric ventricular contraction. Characteristics of JVP: • a wave corresponds to atrial systole which causes regurgitation of some blood into the great veins. • c wave occurs due to the increase in atrial pressure caused by bulging of the tricuspid valve into the right atrium during isovolumetric ventricular contraction. • x descent occurs due to the fall in atrial pressure during ventricular systole due to pulling of valve leaflets. • v wave is seen at the end of ventricular contraction and occurs due to the slow venous filling which causes an increase in atrial pressure. • y descent occurs due to the passive emptying of the right atrium into the right ventricle. Chamber pressures, LV volume, EKG, Venous waveform, Mitral valve: Mitral valve closes, opens. RS: Systole, Diastole, Systole, Diastole.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp24_img1_d1f9e68e.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 25,
+      "question": "Reflex responsible for tachycardia during right atrial distension is:",
+      "options": {
+        "A": "J reflex",
+        "B": "Cushing reflex",
+        "C": "Bezold jarisch reflex",
+        "D": "Bainbridge reflex"
+      },
+      "correct_answer": "D",
+      "explanation": "Reflex responsible for tachycardia during right atrial distension is Bainbridge reflex.516Atrial Reflex Control of Heart Rate: The Bainbridge Reflex• The stretch receptors of the atria that elicit the Bainbridge reflex transmit their afferent signalsthrough the vagus nerves to the medulla of the brain.⚫ Then efferent signals are transmitted back through vagal and sympathetic nerves to increaseheart rate and strength of heart contraction.Bezold-Jarisch Reflex:• Activation of chemosensitive vagal C fibres in the cardiopulmonary region (e.g. Juxta capillaryregion of alveoli, ventricles, atria, great veins, and pulmonary artery) causes profound brady-cardia, hypotension and a brief period of apnea followed by rapid shallow breathing.Cushing Reflex:• When ICP is increased, the blood supply to RVLM neurons is compromised.• The local hypoxia and hypercapnia causes an increase in discharge from the neurons, producinghypertension, bradycardia and irregular respiration.• The resultant rise in systemic arterial pressure tends to restore the blood flow to the medulla.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 26,
+      "question": "Arrange the following events in the sequence in which they occur, after 'p wave' in ECG:",
+      "options": {
+        "A": "1-2-3-4",
+        "B": "1-2-4-3",
+        "C": "3-1-2-4",
+        "D": "1-3-2-4"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct sequence of events that occur after the p-wave is 1-2-4-3, ie:-a wave in JVP → First heart sound →T wave in ECG → Rapid filling of ventricles.The sequence of the events in this question can be better understood with the following diagram:Events of the cardiac cycle120Aortic valveopens100806040Mitral valvecloses20Volume ((mL) PresPressure (mmHg)1309050Isovolumic contractionEjectionIsovolumic relaxationRapid inflowAortic valveclosesMitral valveopensDiastasisAtrial systole1st2nd3rdSystoleDiastole©MARROWDR00S------0Aortic pressureAtrial pressureVentricular pressureVentricular VolumeElectrocardiogramPhonocardiogramSystole•The p wave in the ECG represents atrial depolarization, which causes contraction of the atria,represented by the 'a' wave in the JVP. Atrial contraction causes final filling of the ventricles(fourth phase of ventricular diastole)517• Atrial contraction is followed by the closure of the mitral valve, which causes the first-heartsound.⚫ This is followed by the isovolumetric contraction of the ventricle, which causes c wave in JVP,•due to bulging of the tricuspid valve. This is followed by the rapid ejection phase of the ventricle.•The T wave of ECG occurs during ventricular repolarization, which is followed by the opening ofthe mitral valve, followed by rapid filling phase of the ventricle (second phase of ventriculardiastole).Note: Passive rapid filling occurs as the mitral valve opens just before atrial contraction occurs.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp26_img1_b06f9bce.jpeg",
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    },
+    {
+      "q_no": 27,
+      "question": "Cardiac output is increased in:",
+      "options": {
+        "A": "Pregnancy",
+        "B": "Sleep504",
+        "C": "Sitting",
+        "D": "StandingQuestion No.1"
+      },
+      "correct_answer": "A",
+      "explanation": "Cardiac output is increased in pregnancy.Effect of various conditions on cardiac output:No changeSleepModerate changes in environmental temperatureIncreas Anxiety and excitement EatingExerciseHigh environmentaleDecreasetemperaturePregnancyEpinephrineSitting or standing from lyingposition Rapid arrhythmiasHeart disease518",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiac Cycle and Cardiac Output"
+    }
+  ]
+}

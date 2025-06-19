@@ -1,0 +1,230 @@
+{
+  "chapter": "Alveolar Gas Exchange",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Oxygen comes from alveoli to blood by",
+      "options": {
+        "A": "Osmosis",
+        "B": "Active transport",
+        "C": "Diffusion",
+        "D": "Receptor mediated"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the time taken (in seconds) for blood to traverse the pulmonary capillaries at rest?",
+      "options": {
+        "A": "1.0",
+        "B": "0.1",
+        "C": "0.3",
+        "D": "0.75"
+      },
+      "correct_answer": "",
+      "explanation": "Time taken by a red cell is about 0.75 seconds to traverse the pulmonary capillaries at rest and 0.3seconds or less during exercise.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the percentage of systemic cardiac output which bypasses the pulmonary circulation(physiological shunt)?",
+      "options": {
+        "A": "5",
+        "B": "2",
+        "C": "10",
+        "D": "15"
+      },
+      "correct_answer": "C",
+      "explanation": "The percentage of cardiac output that bypasses the pulmonary circulation or physiological shunt is2%. The fraction of mixed venous blood that does not become oxygenated as it moves from theright atrium to the left ventricle is called physiologic shunt.Causes of physiological shunt:•••Extrapulmonary R-&gt;L Anatomic Shunt (normally ~ 1% of cardiac output)Intrapulmonary \"True\" ShuntFlow past unventilated or collapsed alveoli (e.g., due to edema, pneumonia, atelectasis)• Anatomic arterio-venous pathways - Mixing of unoxygenated blood in bronchial veins withoxygenated blood in pulmonary capillaries or vein reduces the final partial pressure of O2 in thearterial blood (PaO2).• Intrapulmonary regions with low ventilation/perfusion ratio: Alveolar ventilation is not zero, butblood is not completely oxygenated (A virtual shunt, not a \"true\" shunt).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 4,
+      "question": "A 35-year-old man with shortness of breath is undergoing tests to assess lung function. Whichof the following is used to measure lung diffusion capacity?",
+      "options": {
+        "A": "CO",
+        "B": "N2O383",
+        "C": "CO2",
+        "D": "O2 (under normal condition)"
+      },
+      "correct_answer": "A",
+      "explanation": "The diffusing capacity for CO (DLCO) is measured as an index of the diffusing capacity of thelung because its uptake is diffusion-limited.The diffusing capacity of the lung for a given gas is directly proportional to the surface area of thealveolo-capillary membrane and inversely proportional to its thickness.389DLco =Diffusing capacity for CO (DLCO)Amount of CO entering the bloodPartial pressure of CO in the alveoli - Partial pressure of CO in the blood©MARROWThe normal value of DLCO at rest is about 25 mL/min/mm Hg.It increases up to threefold during exercise because of capillary dilation and an increase in thenumber of active capillaries.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp4_img1_ceece7e1.jpeg",
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 5,
+      "question": "The partial pressure of H2O at the body temperature (37° C) is (in mm Hg).",
+      "options": {
+        "A": "21",
+        "B": "47",
+        "C": "40",
+        "D": "100"
+      },
+      "correct_answer": "",
+      "explanation": "The partial pressure of water vapor at a normal body temperature of 37°C is 47 mm Hg.•Humidification of air:When dry air enters respiratory system it is humidified i.e. water molecules are continuallyescaping from the water surface (tissues) into the gas phase.• The partial pressure that the water molecules exert to escape through the surface is called thevapor pressure of the water.• The vapor pressure of water depends entirely on the temperature of the water.• The greater the temperature, the greater the kinetic activity of the molecules and, therefore, thegreater the likelihood that the water molecules will escape from the surface of the water into thegas phase.•• For instance, the water vapor pressure at 0°C is 5 mm Hg, and at 100°C it is 760 mm Hg.• The most important value to remember is the vapor pressure at body temperature 47 mm Hg.(Once the equilibrium is attained after diffusion, vapour pressure is called partial pressure).GaseSInspired AirAlveolar AirExpiredAir02158.0100.0116.0CO2 0.340.032.0H2O5.747.047.0390GaseSInspired AAlveolar AExpiredirirAirN2596.0573.0Total 760.0760.0565.0760.0",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the partial pressure of O2 in the alveolus?",
+      "options": {
+        "A": "100 mmHg",
+        "B": "45 mmHg",
+        "C": "60 mmHg",
+        "D": "40 mmHg"
+      },
+      "correct_answer": "",
+      "explanation": "The partial pressure of O2 in the alveolus is 100 mmHg.The partial pressure of gases as they enter and leave the lungs is depicted below.Partial pressure of gases in the lungPVo₂ 40 mmHgPVco2 46 mmHgMixed venousbloodPo 160 mmHgPco20 mmHgDry Inspired airPo 150 mmHgPco₂ 0 mmHgHumidifiedtracheal airPAO2 100 mmHg Alveolar airPACO2 40 mmHg8OMARROWPao 100 mmHgPaco 40 mmHgSystemic arterialblood",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp6_img1_213fbb02.jpeg",
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 7,
+      "question": "If the tidal volume is 500 mL, PeCO2 is 30 mmHg and PaCO2 is 45 mmHg, calculate thedead space?",
+      "options": {
+        "A": "150 mL",
+        "B": "160 mL",
+        "C": "166 mL",
+        "D": "145 mL"
+      },
+      "correct_answer": "",
+      "explanation": "The Bohr-enghoff equation is used to calculate physiological dead space/total dead space.The original Bohr equation required measurement of the alveolar partial pressure ofCO2 (PACO2).391Bohr equationV. P. CO₂-P.CO₂AV₁P CO₂OMARROWLater Enghoff modified the equation and replaced the PACO2 with PaCO2 (partial pressure ofCO2 in arterial blood). Enghoff's modification of Bohr equation is:Enghoff's modification of Bohr equationdV P₂ CO₂-PCO₂2V.aP₂ CO₂OMARROWWhere,• VD is the physiological dead space• VT is the tidal volume•• PaCO2 is the partial pressure of CO2 in the arterial blood• PeCO2 is the average partial pressure of CO2 in the entire expired air.Substituting the values:Vd=(45-30/45) x 500=166.66 ml392",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is true regarding dead space volume in a healthy individual?",
+      "options": {
+        "A": "Anatomical dead space&gt; physiologic dead space",
+        "B": "Anatomical dead space&lt; physiological dead space384",
+        "C": "Anatomical dead space and physiologic dead space are almost equivalent",
+        "D": "Anatomical dead space is not related to physiologic dead space"
+      },
+      "correct_answer": "",
+      "explanation": "In healthy individuals, anatomical dead space and physiologic dead space are almost equivalent,and can be estimated by body weight.Dead space is the volume of the airways and lungs that do not participate in gas exchange.Types• Anatomic dead space- Volume of the air-occupying conducting zone where no exchange of gasestakes place.• Alveolar/functional dead space- the volume of gas not equilibrating with blood (wastedventilation)•• Total dead space/Physiological dead space = Anatomical + Alveolar dead space.In healthy individuals:• Anatomical dead space = 150 mL.•Alveolar dead space is usually zero (increased in diseased conditions).Hence,• Physiological dead space = Anatomical + Alveolar == 150 + 0 = 150 mL.•Physiological dead space = Anatomical dead space.• Radford's formula: Anatomical dead space in mL is approximately equal to the body weight inpounds.• Dead space can be measured by the following:•Single Breath N2 method (Fowler's method)•• Bohr's equation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 9,
+      "question": "From base to the apex of the lung during standing, all the following decrease except",
+      "options": {
+        "A": "Pulmonary blood flow",
+        "B": "Ventilation per unit volume",
+        "C": "V/Q ratio",
+        "D": "Intrapleural pressure (with respect to atmospheric pressure)"
+      },
+      "correct_answer": "B",
+      "explanation": "V/Q ratio does not decrease from the base to apex of the lung while standing.• Normal differences in ventilation and perfusion of the lung in the upright position (refer figure).Blood flow distribution in the lungPA: Alveolar pressurePa: arterial pressurePV: venous pressureZones of lungBlood flOWPressure driving blood flowZone 1 (near Apex)LowestPA> Pa> PvZone 2MediumPa> PA> Pv393Zones of lungZone 3Pco₂ (mm Hg)Blood flPressure driving blood flowOWHighestPa> Pv> PAEffect of V/Q on gas exchange60MixedvenousbloodZone 3V/QlowestZone 2V/Qmedium40402020Zone 1V/QhighestARROW00 40006060Inspiredair80100120140160Po₂ (mm Hg)OMARROWVentilation-perfusion ratio is not the same in all part of the lungs because of the effect of gravity.At the apex (Against gravity):Both ventilation and perfusion decrease since the flow is against gravity. But, a decrease inperfusion is higher than the decrease in ventilation. Hence, ratio increases (3.2).At the base of lung:Both ventilation and perfusion increase since the flow is towards gravity. Increase in perfusion ismore than increase in ventilation, i.e., denominator increases. Hence, ratio decreases to 0.6.The average value of V/Q ratio throughout lungs is 0.8.•Important points:•If the effect of gravity is eliminated, as in the supine position, the value is the same in all parts ofthe lung = 0.8.• V/Q ratio is infinity when perfusion is zero as in case of pulmonary embolism.•V/Q ratio is zero when ventilation is zero like in case of foreign body obstruction.• High V/Q ratio at apex leads to high pAO2 which favors the growth of microorganisms liketubercle bacilli.Intra-pleural pressure decreases as we move from the base to the apex of the lung i.e- becomesmore negative as we move from the base to the apex of the lung.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp9_img1_c095d02d.jpeg",
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 10,
+      "question": "Waterfall effect is seen in",
+      "options": {
+        "A": "Lower and middle portions of the lung",
+        "B": "Upper portion of the lung",
+        "C": "Middle portion of the lung",
+        "D": "Lower portion of the lung"
+      },
+      "correct_answer": "",
+      "explanation": "Water fall effect has been used to describe the blood flow in the middle portion of lung.394In this region blood flows in pulses. At first there is no flow because of obstruction at thecollapsed venous end of the capillary bed. Pressure from the arterial side builds up until it exceedsalveolar pressure and flow resumes. This dissipates the capillary pressure and returns to the startof the cycle.The blood flow in this region is determined by the pulmonary artery-alveolar pressure difference.Blood \"falls\" into the pulmonary veins, which are compliant and take whatever amount of bloodcan flow into them. This has been called the waterfall effect.Blood flow distribution in the lungPA: Alveolar pressurePa: arterial pressurePV: venous pressureZones of lungBlood flOWPressure driving blood flowZone 1 (near ApeLowestPA> Pa> Pvx)Zone 2MediumZone 3HighestPa> PA> PvPa> Pv> PA",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 11,
+      "question": "V/Q = infinity holds true in which of the following conditions?",
+      "options": {
+        "A": "Foreign body obstruction in the bronchus",
+        "B": "Equal to dead space",
+        "C": "When O2 and CO2 ratio is equal",
+        "D": "The PO2 of alveolar air is 159 mmHg and PCO2 is 40 mmHg"
+      },
+      "correct_answer": "B",
+      "explanation": "VA/Q= infinity means that there is no exchange of O2 &amp; CO2, which means the volume ofthe lung equals to dead space and the physiological effort of breathing is wasted.VA represents the ventilation in alveoli and Q represents the blood flow through the alveolus. Theratio of VA and Q explains the respiratory exchange when there is an imbalance between alveolarventilation and alveolar blood flow. The ventilation-perfusion ratio is considered normal if there isan equal amount of blood flow &amp; ventilation through the alveolus.VA/Q ratio is infinity when:• There is adequate ventilation but no perfusion.•No exchange of gases ( O2 and CO2 )through the respiratory membranes of correspondingalveoli.• The alveolar air equilibrates the humidified inspired air.• Partial pressures of the O2 and CO2 are 149 mmHg &amp; 0 mm Hg respectively.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 12,
+      "question": "The O2-CO2 diagram shown below shows a ventilation-perfusion ratio curve for the normallung. Which of the following options best describes the effect of decreasing theventilation-perfusion ratio on the alveolar Po2 and Pco2?385PcO2 (mm Hg)↓",
+      "options": {
+        "A": "02 tension, CO2 tension",
+        "B": "↑ O2 tension, CO2 tension",
+        "C": "O2 tension no change, CO2 tension",
+        "D": "02 tension, ↑CO2 tensionP02 (mm Hg)Normal"
+      },
+      "correct_answer": "D",
+      "explanation": "Decreased ventilation-perfusion ratio implies decreased oxygenation due to decreased ventilationwith respect to perfusion. Hence, PAO2 decreases and Pco2 increases.395A decrease in the ventilation-perfusion ratio (VA/Q) is depicted by moving to the left along thenormal ventilation-perfusion line as shown in the figure (Zones here refer to the zones of variationin pulmonary blood flow and alveolar ventilation under influence of gravity)•• Zone 1 - Zone 1 has the lowest ventilation compared to Zones 2 and 3 but, in Zone 1 Ventilation(V)&gt;&gt;Perfusion (Q) hence V/Q is high• PAO2 is highest• PACO2 is lowest• Zone 2 - Ventilation (V) almost equal to Perfusion (Q) but slightly lower so V/Q is average (~0.8)• Zone 3 - Zone 3 has the highest ventilation compared to Zones 2 and 1 but, in Zone 3 Perfusion(Q) &gt;&gt; Ventilation (V) hence V/Q is low• PAO2 is lowest• PACO2 is highest.*PAO2 - Alveolar partial pressure of oxygen*PACO2 Alveolar partial pressure of CO2Effect of V/Q on gas exchange6060MixedvenousbloodPco₂ (mm Hg)40402020Zone 3V/QlowestZone 2V/QmediumZone 1V/QhighestARROWInspiredair004040606080100120140160Po₂ (mm Hg)OMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q12_img1_2a042a20.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp12_img1_0b59fd2e.jpeg",
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 13,
+      "question": "A person with normal lung at sea level (760 mm Hg) is breathing 50% oxygen. With a normalrespiratory quotient of 0.8, what is the approximate alveolar Po2 (in mmHg)?",
+      "options": {
+        "A": "713",
+        "B": "159",
+        "C": "306",
+        "D": "365"
+      },
+      "correct_answer": "C",
+      "explanation": "Alveolar gas equation is used to calculate partial pressure of O2 in alveolar air.It is given by the formula:396Alveolar gas equationPACO2PAO, = Ploz+ Correction factorRWhere• PAO2 = Alveolar PO2 (mm Hg)•• PIO2 = PO2 in inspired air (mm Hg)OMARROW•PACO2 = Alveolar PCO2 (mm Hg), which is normally 40mmHg⚫ R = Respiratory exchange ratio or respiratory quotient (CO2 production/02 consumption)••Correction factor is usually negligible.Step 1: In the question PO2 in inspired air is not given directly. It has to be calculated using theformula:PIO2 = FIO2 (PB - PH20)Where• PIO2 = PO2 in inspired air (mm Hg)• FIO2 = Fraction of inspired 02 (50% or 0.5)• PB = Barometric pressure (760 mmHg)•⚫ PH2O = Water vapour pressure (47 mmHg)Substituting the values:PIO2 = 0.5 (760 - 47) = 0.5 × 713 = 356.5 mmHgStep 2:PAO2 = PiO2 - (Pc02/R) = 356.5 - (40/0.8) = 356.5 - 50 = 306.5 mmHg.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp13_img1_a958c2dd.jpeg",
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following decreases in a patient with emphysema?",
+      "options": {
+        "A": "Alveolar Pco2",
+        "B": "Cardiac output",
+        "C": "Diffusion area",
+        "D": "Pulmonary artery pressure386"
+      },
+      "correct_answer": "C",
+      "explanation": "In emphysema, the destruction of the alveolar walls brings down the diffusion area.397Changes in Emphysema• Due to the destruction of the alveolar walls, there is a decrease in surface/diffusion area.• Cardiac output will be normal.• Pulmonary artery pressure may be elevated because the destruction of alveoli leads to loss ofsurrounding capillaries which forces blood into remaining capillaries, which tends to increasepulmonary artery pressure.• Alveolar Pco2 will tend to increase due to difficulty in expiration.Diffusion capacity of Lung for CO (DLCO):•-In case of emphysema – Decreased diffusion (DLCO) because of decreased surface area (trypsindestroys respiratory membrane).In case of fibrosis or pulmonary edema – Decreased diffusion (DLCO) because of increasedthickness of membrane• In case of anemia - Decreased DLCO..• Polycythemia, pulmonary hemorrhage – Increased DLCO.-",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following best describes the mean arterial oxygen tension (pO2), carbon dioxidetension (pCO2) and pH in a healthy athlete during moderate exercise?↓",
+      "options": {
+        "A": "Arterial pO2, ↓ Arterial pCO2, ↓ Arterial pH↓",
+        "B": "Arterial pO2, ↑ Arterial pCO2, ↓ Arterial pH",
+        "C": "↑ Arterial pO2, ↓ Arterial pCO2, ↑ Arterial pH",
+        "D": "No change in Arterial pO2, Arterial pCO2 or Arterial pHCorrect Option"
+      },
+      "correct_answer": "D",
+      "explanation": "During moderate exercise, there is no change in arterial pO2, arterial pCO2 or arterial pH.Ventilation increases abruptly at the onset of exercise due to psychic stimuli and afferent impulsesfrom proprioceptors in muscles, tendons, and joints. This is followed by a brief pause and then agradual increase in ventilation. This gradual increase in ventilation is believed to be due tomultiple factors such as an increase in body temperature, increase in plasma K+ level stimulatingperipheral chemoreceptors, or the sensitivity of the neurons controlling the response to CO2.In strenuous exercise, at a certain point, the O2 uptake reaches its maximum levels, beyond whichit cannot increase further. This leads to a rise in blood lactate levels. Buffering of lactic acidliberates CO2 which further increases ventilation. The increased production of lactic acid, increasein ventilation and CO2 production are proportional, and alveolar and arterial CO2 changes little tonil. This is called isocapnic buffering.398",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alveolar Gas Exchange"
+    }
+  ]
+}

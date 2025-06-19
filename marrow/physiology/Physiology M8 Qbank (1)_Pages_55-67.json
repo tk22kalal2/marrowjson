@@ -1,0 +1,215 @@
+{
+  "chapter": "Membrane Potentials",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following equations is used to calculate the equilibrium potential for an ion?",
+      "options": {
+        "A": "Gibbs-Donnan equation",
+        "B": "Nernst equation",
+        "C": "Goldmann equation",
+        "D": "Bernoulli equation"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp1_img1_2d1b67c0.jpeg",
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is used to calculate the equilibrium potential for diffusion of multipleions?",
+      "options": {
+        "A": "Gibbs-Donnan equation",
+        "B": "Nernst equation",
+        "C": "Goldmann equation",
+        "D": "Henderson equation"
+      },
+      "correct_answer": "C",
+      "explanation": "60The Goldman equation is used to calculate the diffusion potential when the membrane ispermeable to several different ions.Goldman-Hodgkin-Katz equationGoldman-Hodgkin-Katz equationDCNat+P Na+ + Ck+P K+ + Ccr PC™EMF (millivolts)=-61x logCP ++NaCk+P K+ + Car ParHere,• P= permeability of the membrane to each ion, and•C= concentrations of the respective ions on the inside (i) and outside (o) of the membrane.The Na+, K+ and Cl- are the most important ions involved in the development of membranepotentials in nerve fibres and muscle fibres.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_1936556e.jpeg",
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 3,
+      "question": "Gibbs-Donnan equilibrium explains the",
+      "options": {
+        "A": "Effect of one non-diffusible ion on the distribution of other non-diffusible ions",
+        "B": "Effect of one permeant ion on the distribution of other permeant ions",
+        "C": "Effect of a permeant ion on the distribution of nondiffusible ions",
+        "D": "Effect of a non-diffusible ion on the distribution of permeant ions"
+      },
+      "correct_answer": "D",
+      "explanation": "Gibbs-Donnan equilibrium explains the effect of a non-diffusible ion on the distribution ofpermeant ions.Consider the situation depicted below,61Gibbs-Donnan equilibriumMAXK+mYK+CICIProtOMARROWThe membrane is permeable to K+ and Cl-. However, it is impermeable to the proteins. Theimpermeable protein molecules hinder the movement of K+ (negative charge of the proteinsholding back positive charge of the K+) and favor the movement of Cl- (like charges repel).According to the Gibbs-Donnan equation, at equilibrium, the concentration ratios of diffusibleions are equal across the membrane.[K'₁] [Cl]Cross-multiplying[K'y] [CI][K] [a]-[K] [a][C]-x] = [K'₁]",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp3_img1_d2478d65.jpeg",
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 4,
+      "question": "Extracellular concentration of a positive ion (with valency = 1) is 100mmol/L and itsintracellular concentration is 10mmol/L, the potential across the membrane using Nernstequation is (mV).",
+      "options": {
+        "A": "-6055",
+        "B": "-10",
+        "C": "+60",
+        "D": "10"
+      },
+      "correct_answer": "",
+      "explanation": "The potential of a positive ion across the membrane using Nernst equation is +60mV.6261ZEMF (millivolts)=x logConcentration insideConcentration outsideOMARROWWhere, z is valency in the formula.Deriving the numerical value:EMF = 61/1 *log 10/100= 61The choice of concentration of the ion placed in the numerator and denominator does not matterbecause the formula is only used to derive the numerical value and not the sign ( +/- ).Mathematically, log (100/10) = 1 and log (10/100)=-= 1. Hence, changing the numerator anddenominator only changes the sign and the numerical value remains the same.Deciding the sign/charge: A positive ion with greater concentration extracellularly will try todiffuse inside the cell. A positive intracellular potential is required to prevent this. Hence thesign/charge (potential) is positive (+).Hence, the potential across the membrane using the Nernst equation is +60mV (the closestanswer chosen).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp4_img1_b223af5f.jpeg",
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 5,
+      "question": "Extracellular concentration of a negative ion (with valency = 1) is 10mmol/L and itsintracellular concentration is 100mmol/L. The equilibrium potential for this ion using Nernstequation is (mV)",
+      "options": {
+        "A": "10",
+        "B": "- 10",
+        "C": "60",
+        "D": "- 60"
+      },
+      "correct_answer": "C",
+      "explanation": "The equilibrium potential for this negative ion using the Nernst equation is +60mV.6361EMF (millivolts) = ± — x log-ZConcentration insideConcentration outsideOMARROWWhere, z is valency in the formula.Deriving the numerical value:EMF = 61/1 *log 100/10= 61Deciding the sign/charge: A negative ion with greater concentration intracellularly will try todiffuse outside the cell. A positive intracellular potential is required to prevent this. Hence, thepotential is positive.Hence, the Nernst potential is +60mV (the closest answer chosen).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_0c507d10.jpeg",
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the Nernst potential for K+ in milivolt (mV)?",
+      "options": {
+        "A": "+90",
+        "B": "-90",
+        "C": "+70",
+        "D": "-70"
+      },
+      "correct_answer": "B",
+      "explanation": "The Nernst potential for K+ is -90mV.Note:•• For K+ ions, the concentration gradient is directed outward and the electrical gradient isdirected inward.• In general, all excitable cell membranes at rest are maximally permeable to K+ and thus theirRMP is close to equilibrium potential of K+ ion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following ions have the highest positive equilibrium potential?",
+      "options": {
+        "A": "Na+",
+        "B": "Cl-",
+        "C": "K+",
+        "D": "Mg"
+      },
+      "correct_answer": "A",
+      "explanation": "The ion with the highest positive equilibrium potential is Na+ that is +60mV.64",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 8,
+      "question": "The resting membrane potential of a nerve fibre depends on56",
+      "options": {
+        "A": "Diffusion of Na+ ions",
+        "B": "Na+-K+ ATPase pump",
+        "C": "Diffusion of K+ ions",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "The resting membrane potential (RMP) of a nerve fibre depends on the diffusion of both K+ andNa+ and the Na+-K+ ATPase pump.The most predominant factor, however, is the diffusion of K+ ions. This is because, at rest, thepermeability of the membrane of the nerve fibre to K+ ions is almost 100 times greater than thatto Na+.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 9,
+      "question": "Resting membrane potential of the nerve fibre is equal to equilibrium potential of",
+      "options": {
+        "A": "Na+",
+        "B": "K+",
+        "C": "Cl-",
+        "D": "Mg2+"
+      },
+      "correct_answer": "",
+      "explanation": "Resting membrane potential of a nerve fiber is equal to the equilibrium potential of Cl- and is-70mV.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 10,
+      "question": "Driving force of a charged ion is",
+      "options": {
+        "A": "Measured membrane potential - calculated equilibrium potential",
+        "B": "Measured membrane potential + calculated equilibrium potential",
+        "C": "Calculated equilibrium potential - Measured membrane potential",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "The driving force on a charged ion is measured membrane potential (Em) - calculated equilibriumpotential (Ex).Net driving force (mV) = Em - Exwhere,Em Actual membrane potential (mV)=Ex = Equilibrium potential for X (mV)When the driving force is negative (i.e., Em is more negative than the ion's equilibrium potential),then• A cation will enter the cell•An anion will leave the cell",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 11,
+      "question": "If the membrane potential of this cell is -80mV the driving force is greatest for which ion?57",
+      "options": {
+        "A": "Ca2+",
+        "B": "Cl-",
+        "C": "K+",
+        "D": "Na+lonEquilibrium potential (mV)Ca2++120Na++60K+-90Cг-70OMARROW"
+      },
+      "correct_answer": "",
+      "explanation": "The driving force is greatest for Ca2+.Net driving force is the difference between the membrane potential and the equilibrium potentialfor that particular ion. Hence Em - EX. Where:Em Actual membrane potential (mV) = -80mV=EX = Equilibrium potential for X (mV)For the respective ions:E Ca2+ = +120; Driving force = -80 - (120) = -200mVE Na+ = +60; Driving force= -80 - (60) =-140mV65E K+ = -90, Driving force = -80 - (-90) =10mVE Cl-=-70, Driving force = -80 - (-70) =-10mVThus, Ca2+ will have the largest driving force and it will move inwards or into the cell.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following techniques is used to study the current flow across single ion channel?",
+      "options": {
+        "A": "Patch clamp technique",
+        "B": "Voltage clamp technique",
+        "C": "Iontophoresis",
+        "D": "Galvanometry"
+      },
+      "correct_answer": "A",
+      "explanation": "The patch-clamp technique is used to record ion current flow through a single protein channel.In the patch-clamp experiment, a small pipette is carefully maneuvered to seal off a portion of acell membrane. The pipette has an electrode bathed in an appropriate solution that allows for therecording of electrical changes through any pore in the membrane.Sold by chit\"Burchsfrom someoneen scammerCell MembraneNa+ channel",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp12_img1_c5a6309d.jpeg",
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 13,
+      "question": "What is the effect on the cellular membrane when the extracellular concentration of K+ isdecreased?",
+      "options": {
+        "A": "Increased positivity of the membrane.",
+        "B": "Increased negativity of RMP",
+        "C": "Decreased fluctuations in RMP",
+        "D": "Decreased negativity of membrane58"
+      },
+      "correct_answer": "B",
+      "explanation": "When the extracellular concentration of K+ is decreased (hypokalemia), there is increasednegativity of RMP.RMP predominantly depends on the diffusion of K+ from inside to outside the cell. This diffusiondepends on the concentration gradient with the inside of the cell having a larger concentration ofK+ ions. When the extracellular concentration of K+ decreases, the concentration gradient for K+rises. Therefore, more K+ ions diffuse out of the cell. This leaves the inside of the cell morenegative relative to the extracellular space. This increases the negativity of the RMP, leaving themembrane hyperpolarised.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Membrane Potentials"
+    },
+    {
+      "q_no": 14,
+      "question": "X, Y, Z are three permeable ions. X = -50 and Y = -30. At RMP, if there is no net electrogenictransfer, what is the value of Z?",
+      "options": {
+        "A": "+20",
+        "B": "-20",
+        "C": "+80",
+        "D": "-80"
+      },
+      "correct_answer": "C",
+      "explanation": "No net electro genic transfer at RMP means X + Y + Z=066Since X = -50 and Y = -30, then Z must be +80 since (-80 +80 = 0)67",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Membrane Potentials"
+    }
+  ]
+}

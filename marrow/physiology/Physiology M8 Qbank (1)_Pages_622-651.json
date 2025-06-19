@@ -1,0 +1,515 @@
+{
+  "chapter": "Renal Clearance",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Principal cells and intercalated cells are present in which part of the nephron?",
+      "options": {
+        "A": "Distal collecting tubule and collecting duct",
+        "B": "Glomerulus and proximal collecting tubule",
+        "C": "Proximal collecting tubule and loop of Henle",
+        "D": "Loop of Henle and distal collecting tubule"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp1_img1_cfa3e64f.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 2,
+      "question": "How does DCT differ from PCT?",
+      "options": {
+        "A": "Brush border in luminal membrane",
+        "B": "Carbonic anhydrase in its luminal membrane",
+        "C": "'Tight' tight junctions",
+        "D": "No Na+ - K+ ATPase in its basolateral membrane"
+      },
+      "correct_answer": "C",
+      "explanation": "DCT has 'tight' tight junctions, while PCT has 'leaky' tight junctions.The 'tight' tight junctions can maintain the high electrochemical gradients produced by activetranscellular transport. This configuration is used to produce either highly concentrated or dilutedsecretions, as in the distal nephron. Hence, it can produce urine with osmolarity severalfoldhigher or lower than plasma.In contrast, epithelia with 'leaky' tight junctions move large amounts of isosmotic fluids. A goodexample is a transport in PCT.Na+- K- ATPase is present throughout most parts of the nephron.PCTBrush border present in the apical membraneCytoplasmic carbonic anhydrase (type 2 & type 4) presentHas 'leaky' tight junctionsParacellular transport is possible via leaky tight junctionsDCTNo brush borderCytoplasmic carbonic anhydrase (type 2 only)Has 'tight' tight junctionsNo paracellular transport",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 3,
+      "question": "In comparison to cortical nephron, juxtamedullary nephron",
+      "options": {
+        "A": "Are more in number",
+        "B": "Has long loop of Henle",
+        "C": "Has low filtration rate",
+        "D": "Have no vasa recta"
+      },
+      "correct_answer": "B",
+      "explanation": "633In comparison to cortical nephrons, juxtamedullary nephrons are characterized by a long loop ofHenle that descends deep into the inner medulla. It is essential for the concentration of urine.Cortical and Juxtamedullary nephronsJuxtamedullary nephronCortical nephronProximalconvolutedtubuleBowman'scapsuleCortexMedullaDescending limbLoop of Henle-Distal convolutedtubuleLoop of HenleMARROWCollecting ductAscending limbof loop of Henle",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp3_img1_3f86aae7.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 4,
+      "question": "About what percentage of the cardiac output do the kidneys receive?",
+      "options": {
+        "A": "5%",
+        "B": "10%622",
+        "C": "15%",
+        "D": "20%"
+      },
+      "correct_answer": "D",
+      "explanation": "Kidneys receive approximately 20 to 25% of the cardiac output, which is approximately 1000 mLper minute.Blood flow (ml/miRegionn)Liver1500Kidneys1260Brain750Skeletal musc840leHeart muscle250S",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the normal resting GFR?",
+      "options": {
+        "A": "125 ml/min",
+        "B": "90 ml/min",
+        "C": "60 ml/min",
+        "D": "150 ml/min"
+      },
+      "correct_answer": "A",
+      "explanation": "The GFR in a healthy adult of average size is approximately 125 mL/min.Glomerular filtration rate (GFR) is the volume of fluid filtered from the renalglomerular capillaries into the Bowman's capsule per unit time.The GFR is determined by634• Sum of the hydrostatic and colloid osmotic forces across the glomerular membrane, which givesthe net filtration pressure• Glomerular Kf (glomerular ultrafiltration coefficient)Mathematically, it can be expressed as follows:GFR= Kf[forces favoring filtration- forces opposing filteration]GFR= Kf [PG + лB -PB- лG]Forces Favoring FiltrationPG: Glomerular hydrostatic pressureлB: Bowman's capsule oncotic pressureForces Opposing FiltrationPB: Bowman's capsule hydrostatic pressureлG: Glomerular capillary oncotic pressure",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the renal blood flow in a resting adult?",
+      "options": {
+        "A": "1-1.5 L/min",
+        "B": "1.5-2 L/min",
+        "C": "2-2.5 L/min",
+        "D": "2.5-3 L/min"
+      },
+      "correct_answer": "A",
+      "explanation": "In a resting adult, the kidneys receive 1.2–1.3 L of blood per minute or just under 25% of thecardiac output. Among the given options, 1-1.5 L/min is the closest range.Renal blood flow is determined by the pressure gradient across the renal vasculature (thedifference between the renal artery and renal vein hydrostatic pressures), divided by the totalrenal vascular resistance. It is expressed as follows:Renal blood flow =Renal artery pressure-Renal vein pressureTotal renal vascular resistanceNote: Renal blood flow = Renal plasma flow/ 1- Hematocrit635",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the normal renal filtration fraction?",
+      "options": {
+        "A": "0.3",
+        "B": "0.4",
+        "C": "0.2",
+        "D": "1.5"
+      },
+      "correct_answer": "C",
+      "explanation": "Normal renal filtration fraction (i.e. the fraction of renal plasma flow that is filtered) averagesabout 0.2.It means that 20% of the plasma flowing through the kidney is filtered through the glomerularcapillaries. The remaining 80% leaves the glomerular capillaries by the efferent arterioles andbecomes the peritubular capillary circulation.It is calculated by the given equation:Filteration fraction =GFRRPFWhen there is a fall in systemic blood pressure, the GFR falls less than the RPF because ofefferent arteriolar constriction, and consequently, the filtration fraction rises.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following does not form filtration barrier?",
+      "options": {
+        "A": "Podocytes",
+        "B": "Mesangium",
+        "C": "Endothelial cell623",
+        "D": "Basement membrane"
+      },
+      "correct_answer": "B",
+      "explanation": "Mesangium does not form a filtration barrier. It is made up of mesangial cells, supportingglomerular capillaries.The filtration barrier consists of:• Endothelium of the capillary• Basement membrane:•• Lamina densa - electron-dense layer. It contains type IV collagen• Lamina rara interna - contains glycosaminoglycan heparan sulfate which has a negative charge• Lamina rara externa - contains glycosaminoglycan heparan sulfate which has a negative charge• Layer of epithelial cells (podocytes) surrounding the outer surface of the capillary basementmembrane63630230B 2010A| 1.A. The endothelial cells of the glomerulus; 1. Pore (fenestra)Michal Komaone@①POLAND 20B. Glomerular basement membrane: 1. Lamina rara interna 2. Lamina densa 3. Lamina raraexternaC. Podocytes: 1. Enzymatic and structural protein 2. Filtration slit 3. Diaphragm.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_d728733d.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 9,
+      "question": "Two particles share the same diameter. The one which will pass through the glomerularmembrane has",
+      "options": {
+        "A": "Positive charge",
+        "B": "Negative charge",
+        "C": "No charge",
+        "D": "Filtration across GBM does not depend on charge"
+      },
+      "correct_answer": "A",
+      "explanation": "For any given molecular radius, positively charged molecules are filtered much more readily thanare negatively charged molecules.This is because the sialoproteins in the glomerular capillary wall are negatively charged, and thisnegative charge repels the negatively charged substances in the blood.Studies have showed that for tracer molecules presumed to be of similar size, charges which arefiltered are positive charge &gt; neutral charge &gt; negative charge.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 10,
+      "question": "What size of neutral substances are permitted by the filtration barriers?",
+      "options": {
+        "A": "8-10 nm",
+        "B": "4-8 nm",
+        "C": "8-10 μm",
+        "D": "4-8 μm"
+      },
+      "correct_answer": "B",
+      "explanation": "Filtration barriers permit neutral substances that have the size of 4-8 nm.Neutral substances with diameters:••&lt;4 nm freely filtered-&gt;8 nm not filtered-• Between 4-8 nm - the permeability is inversely proportional to the diameterClinical correlation:•Genetically abnormal basement membranes: Alport's syndrome (° 3 and ° 4 chains on the longarm of chromosome 2 involved in autosomal dominant and recessive pattern; ° 5 chain on X637chromosome involved in X-linked inheritance)• Autoimmune response to basement membrane collagen IV (° 3 NC1domain): Goodpasture's syndrome",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is not a part of the juxtaglomerular apparatus?",
+      "options": {
+        "A": "Lacis cells",
+        "B": "Macula densa",
+        "C": "JG cells",
+        "D": "Glomerular mesangial cells"
+      },
+      "correct_answer": "D",
+      "explanation": "Glomerular mesangial cells are not a part of the juxtaglomerular apparatus.Juxtaglomerular apparatus contains:•• Macula densa: Specialized cells at the end of the thick ascending limb of Henle forms the maculadensa. They detect sodium concentration of the fluid in the tubule (Chemoreceptor). In responseto elevated sodium, the macula densa cells trigger contraction of the afferent arteriole, reducingflow of blood to the glomerulus and the glomerular filtration rate.• Lacis cells: Extraglomerular mesangial cells situated between afferent and efferent arteriole.•Granular cells/JG cells: Modified smooth muscle cells of the afferent arteriole, that secreterenin. Fall in pressure in afferent arteriole stimulates renin release (mechanoreceptor), which, inturn, increases blood pressure.Note: The distal convoluted tubule starts at the macula densa.DCTJuxtaglomerular apparatusPCTGCAAMacula densa-JG cells(granular cells)EALacis cells(extraglomerularmesangial cells)Juxtaglomerular apparatusOMARROWGCGCViscerallayerwwwwwwParietallayer",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp11_img1_ce371bf6.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 12,
+      "question": "In patients with renal diseases, albumin is the first to appear in the urine. What is the reasonbehind this?",
+      "options": {
+        "A": "Its high concentration in plasma",
+        "B": "Its effective molecular diameter624",
+        "C": "Its high albumin: globulin ratio",
+        "D": "Epithelial cells are sensitive"
+      },
+      "correct_answer": "B",
+      "explanation": "In renal diseases, albumin is the first to appear because of its effective molecular diameter.In minimal change nephropathy, the negative charges on the basement membrane are lost evenbefore there are noticeable changes in kidney histology. As a result of this loss of negative chargeson the basement membranes, some of the lower molecular weight proteins, especially albumin(effective molecular diameter of 7 nm), are filtered and appear in the urine, a condition known as638proteinuria or albuminuria.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 13,
+      "question": "Calculate the net filtration pressure across the GBM for a patient with Glomerularultrafiltration coefficient = 6 Glomerular hydrostatic pressure =45 Glomerular capillaryoncotic pressure =20 Bowman's capsule hydrostatic pressure =10 Bowman's capsule oncoticpressure =0",
+      "options": {
+        "A": "90 mmHg",
+        "B": "60 mmHg",
+        "C": "30 mmHg",
+        "D": "15 mmHg"
+      },
+      "correct_answer": "",
+      "explanation": "Net filtration pressure = Hydrostatic pressure in the glomerular capillaries - Pressure in Bowman'scapsule - Oncotic pressure in the glomerular capillaries.Net filtration pressure= [PG -PB- лG+ лB]Therefore,Net filtration pressure== (45-10-20+0)= 25-10= 15 mmHgNote:Here, just the net filtration pressure is asked and not the GFR.GFR= Kf [PG -РB- лG+ лB]",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 14,
+      "question": "How much is the inulin clearance?",
+      "options": {
+        "A": "55 ml/min",
+        "B": "625 ml/min",
+        "C": "125 ml/min",
+        "D": "40 ml/min"
+      },
+      "correct_answer": "D",
+      "explanation": "Inulin clearance is equal to 125 ml/ min. Since it is used for the measurement of GFR, inulinclearance will be equal to GFR, i.e 125 ml/minRenal clearance is the volume of plasma completely cleared of a substance by the kidneys per unittime.A higher renal clearance suggests the substance may be cleared almost completely in one passthrough the kidneys while a low value describes a substance that may not be eliminated by thekidneys at all.Clearance refers to the volume of plasma that would be necessary to supply the amount ofsubstance excreted in the urine per unit of time. Stated mathematically,Cx. Px = Ux. V==where Cx is the clearance rate of a substance xPx is the plasma concentration of xUx is the urine concentration of that xV is the urine flow rateRearranging this equation, clearance can be expressed as639Clearance =[U]x. V",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 15,
+      "question": "In a patient, urine flow rate is 10 mL/min; plasma inulin is 2 mg/mL; and urine inulin is 25mg/mL. Which of the following is true assuming GFR to be normal?",
+      "options": {
+        "A": "Inulin clearance = GFR",
+        "B": "Inulin clearance &gt; GFR",
+        "C": "Inulin clearance &lt; GFR",
+        "D": "GFR cannot be calculated"
+      },
+      "correct_answer": "",
+      "explanation": "In the given scenario, inulin clearance = GFR.Inulin clearance is calculated by the formula:[P]xCinulinU inulin VVinulinPinulinSubstituting the values given,•Uinulin= 25 mg/mL• Vinulin= 10 mL/min• Pinulin=2 mg/mL64025x10C=-=125 mL/min2Thus, Inulin clearance=GFR (normal GFR= 125 ml/min)Inulin is a polymer of fructose, clearance of inulin can be used for measurement of GFR, becauseof the following reasons:•Freely filtered• Neither reabsorbed nor secreted in the tubules• NontoxicNot metabolized by the body",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 16,
+      "question": "625A patient's urine flow rate is 2 ml/min. What is the clearance of a substance x whose plasmaconcentration is 10mg/mL and in urine is 100mg/mL?",
+      "options": {
+        "A": "0.2 ml/min",
+        "B": "2 ml/min",
+        "C": "20 ml/min",
+        "D": "200 ml/min"
+      },
+      "correct_answer": "A",
+      "explanation": "The clearance in the given scenario is 20 ml/ min.Clearance[U]x. V[P]x641C = Clearance (mL/min)[U]x = Urine concentration of substance x (mg/mL)=100mg/mLV= Urine flow rate per minute (mL/min)=2mL/min=[P]x Plasma concentration of substance x (mg/mL)=10mg/mLSubstituting the values,Clearance100×2in",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 17,
+      "question": "What is the effect of sympathetic stimulation on GFR?",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "↑↑↓↓GFR with afferent arteriolar dilationGFR with efferent arteriolar dilationGFR with afferent arteriolar constriction",
+        "D": "GFR with Efferent arteriolar constriction"
+      },
+      "correct_answer": "",
+      "explanation": "GFR decreases with sympathetic stimulation as there is afferent arteriolar constriction.Strong activation of the renal sympathetic nerves constrict the afferent and efferent renalarterioles through the ° 1 receptors. As the afferent areterioles have far more ° 1 receptors than theefferent, it results in decreased renal blood flow and GFR.Effects of Arteriolar Constriction on GFRMAfferentarterioleEfferentTRA↓ RBFPGGFRarterioleGlomerulusEffect of Afferont Artoriolar Constriction on GFRAfferentarterioleEfferentarterioleT RE1 PGGlomerulus1 GFREffect of Moderate Efferent Artoriolar Constriction on GFAAfferentarterioleEfferentTRERBF↑ \"GJ GFRarterioleGlomerulusEffect of Severo Efferent Arteriolar Constriction on GFRRAPaGFHRenal blood flowAfferent arteriolar resistanceEfferent arteriolar resistanceGlomerular hydrostatic pressureGlomerular colloid oncotic pressureGlomerular filtration rateOMARROW642",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp17_img1_3e8c0e30.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 18,
+      "question": "If a patient is on a high protein diet, what will be the effect on the GFR?Increases GFRb) Decreases GFRc) Has no effectd) Is unpredictableQuestion 19:Which of the following would cause an increase in both GFR and RPF?",
+      "options": {
+        "A": "Hyperproteinemia",
+        "B": "Constriction of efferent arteriole",
+        "C": "Dilation of efferent arteriole",
+        "D": "Dilation of the afferent arteriole"
+      },
+      "correct_answer": "A",
+      "explanation": "High protein intake increases GFR.Effect of protein intake on GFRHigh dietary proteinAmino acidsMA↑ Amino acids and NaCl reabsorptionin PCT (Na-amino acid cotransporter)NaCl in macula densaMaculadensafeedback↓Afferent arteriolar resistance↑ GFROMARROWNote: Increase in the plasma protein concentration is not the same as high protein intake. Anincrease in the plasma protein concentration decreases GFR due to a raised oncotic pressure. Ahigh protein intake raises the amino acid concentration in the blood, not the plasma proteinconcentration.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_5547d185.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 20,
+      "question": "626Which of the following causes relaxation of the mesangial cells?",
+      "options": {
+        "A": "CAMP",
+        "B": "Endothelin",
+        "C": "PGF2",
+        "D": "Vasopressin"
+      },
+      "correct_answer": "A",
+      "explanation": "CAMP causes relaxation of the mesangial cells. The other agents mentioned in the options causecontraction of the mesangial cells.Agents causing relaxation of mesangial cells (mnemonic - DANCE)643• Dopamine• ANP• CAMP• PGE2Angiotensin II is an important regulator of mesangial contraction, and there are angiotensin IIreceptors in the glomeruli.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 21,
+      "question": "What is the effect of prostaglandins on renal blood flow?",
+      "options": {
+        "A": "Increase blood flow to cortex and medulla",
+        "B": "Increase blood flow to cortex and decrease blood flow to medulla",
+        "C": "Decrease blood flow to cortex and increase blood flow to medulla",
+        "D": "Decrease blood flow to cortex as well as medulla"
+      },
+      "correct_answer": "B",
+      "explanation": "Prostaglandins increase blood flow in the renal cortex and decrease blood flow in the renalmedulla.PGE2 is partially responsible for the vasodilatation of the afferent arteriole, which increases bloodflow to the glomerulus. This phenomenon describes why NSAIDs (which inhibit prostaglandinsynthesis) result in afferent arteriole vasoconstriction. It can cause a reduced GFR in patients whorely heavily on prostaglandin synthesis to maintain renal blood flow.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 22,
+      "question": "Which part of the proximal tubule is most susceptible to ischemic injury?",
+      "options": {
+        "A": "S1",
+        "B": "S2",
+        "C": "S3",
+        "D": "S4"
+      },
+      "correct_answer": "C",
+      "explanation": "Regions of the kidney most prone to ischemic injury are the S3 segment of the proximal tubuleand the medullary thick ascending limb of the loop of Henle (mTAL). These tubular areas existphysiologically in relatively lower oxygen conditions.The S3 segment, in particular, has a much lower capability of producing energy through glycolysisunder anaerobic conditions than the mTAL.Based on the ultrastructure proximal tubule is divided into three segments:• S1 segment: 1st half of PCT• S2 segment: 2nd half of PCT and 1st half of proximal straight tubule•S3 segment: 2nd half of proximal straight tubule644ProximaltubuleS2-S3-Descending limbLoop of HenleLoop of HenleParts of proximal tubuleS1MARROWCortexBowman'scapsule-Collecting tubuleMedullaThick segment ofascending limbThin segment ofascending limb",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp22_img1_f47d0174.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 23,
+      "question": "What is the effective renal plasma flow?",
+      "options": {
+        "A": "425 mL/min",
+        "B": "625 mL/min",
+        "C": "525 mL/min",
+        "D": "725 mL/min"
+      },
+      "correct_answer": "B",
+      "explanation": "In humans, the effective renal plasma flow (eRPF) averages about 625 mL/min.Measurement of renal plasma flow (RPF) is done by measuring the clearance ofpara-aminohippuric acid (PAH). PAH is filtered and secreted by the renal tubules, hence it it canbe used for RPF measurement.RPF = С PAH =CPAHUPAHV| -PPAHwhere:• RPF = renal plasma flow (mL/min or mL/24 hour)•• CPAH = clearance of PAH (mL/min or mL/24 hourr)• UPAH = urine concentration of PAH (mg/mL)645• V = urine flow rate (mL/min or mL/24 hour)• PPAH = plasma concentration of PAH (mg/mL)Note: Renal blood flow= Renal plasma flow/ 1- Hematocrit",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following formulae is correct?627",
+      "options": {
+        "A": "ERPF = RPF/ Extraction ratio",
+        "B": "RPF = ERPF/ Extraction ratio",
+        "C": "ERPF = Extraction ratio/ RPF",
+        "D": "RPF = Extraction ratio/ ERPF"
+      },
+      "correct_answer": "B",
+      "explanation": "True renal plasma flow (RPF) is obtained by dividing effective renal plasma flow (ERPF) byextraction ratio.RPFwhere,a. ERPF=ERPFExtraction Ratio===effective Renal Plasma flowClearance of PAHUCPAHD VPCPAHDb. Extraction Ratio = The percentage of PAHremoved from the blood= 90·1. = 0.90When we inject para-aminohippuric acid, 90% of it is filtered through the glomerulus at the rateof 625mL per minute - which is the effective renal plasma flow (ERPF). Using that, to we calculatethe true RPF, we divide it by the extraction ratio to account for the 10% that is not filtered bydividing the ERPF by 0.9, hence getting the final value of ~ 700mL per minuteWhen peripheral venous plasma concentration of PAH is used for calculation of RPF, RPFobtained is called effective renal plasma flow (ERPF). This is because PAH concentration isessentially identical to that in the arterial plasma reaching the kidney.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp24_img1_984d0472.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 25,
+      "question": "In a patient with renal disease, you want to measure the filtration fraction. Which of thefollowing substances will you use?",
+      "options": {
+        "A": "Inulin and mannitol",
+        "B": "Urea and diodrast",
+        "C": "PAH and phenol red",
+        "D": "Inulin and PAHA"
+      },
+      "correct_answer": "D",
+      "explanation": "Inulin and PAHA are used to determine the filtration fraction. The filtration fraction is the ratio ofGFR and RPFInulin, a polymer of fructose can be used to measure GFR. Para-aminohippuric acid (PAHA) isused to measure RPF.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 26,
+      "question": "According to myogenic hypothesis of renal autoregulation the afferent arterioles contract inresponse to stretch-induced by",
+      "options": {
+        "A": "NO",
+        "B": "Noradrenaline",
+        "C": "Opening of calcium channels",
+        "D": "Adenosine"
+      },
+      "correct_answer": "C",
+      "explanation": "646The afferent arterioles contract in response to stretch induced by the opening of calcium channels.The mechanism is called myogenic autoregulation of renal blood flow and GFR.The stretch of the vascular wall allows increased movement of calcium ions from the extracellularfluid into the cells, causing them to contract. This contraction prevents excessive stretch of thevessel. This prevents excessive increase of renal blood flow and GFR by raising vascularresistance.This mechanism may be more important in protecting the kidney from hypertension-inducedinjury.Autoregulation has two main mechanisms:• Metabolic mechanism: Tissues produce vasodilatory metabolites that regulate flow e.g.prostaglandins, NO, CO2, H+ and K+• Myogenic mechanismMyogenic autoregulation of renal blood flow↑arterial wall tension (BP)Stretching of blood vessels (afferent arteriole smooth muscle)Opening of voltage-dependent calcium channels↑Calcium influxIncreased intracellular calciumVasoconstrictionPrevent excessive increase of renal blood flow and GFROMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp26_img1_5eb72ebe.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 27,
+      "question": "Tubuloglomerular feedback is mediated by the sensing of",
+      "options": {
+        "A": "Increased Na+ concentration in the thick ascending loop of Henle",
+        "B": "Increased Cl- concentration in the thick ascending loop of Henle",
+        "C": "Increased Na+ concentration in the macula densa",
+        "D": "Increased Cl- concentration in the macula densa"
+      },
+      "correct_answer": "C",
+      "explanation": "Tubuloglomerular feedback is mediated by the sensing of increased Na+ concentration in the macula densa. Macula densa are the specialized cells present at the distal end of the thick ascending loop of Henle where it reaches the glomerulus. The distal convoluted tubule starts from the macula densa. Macula densa forms part of the juxtaglomerular apparatus. While both Na+ and Cl- are delivered to the macula densa cells, it is the increased concentration of Na+ in the cells that increases the Na+-K ATPase activity leading to the feedback.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp27_img1_5fd888ad.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 28,
+      "question": "Renal autoregulation is absent in which of the following cases?628",
+      "options": {
+        "A": "Denervated kidney",
+        "B": "Isolated, perfused kidney",
+        "C": "Paralysis of vascular smooth muscle",
+        "D": "All of the above"
+      },
+      "correct_answer": "",
+      "explanation": "Renal autoregulation is absent in case of paralysis of vascular smooth muscle.Paralysis of vascular smooth muscles abolishes its action i.e., autoregulation of renal blood flowand GFR. Vascular smooth muscles act through myogenic mechanism of renalautoregulation. Paralysis of vascular smooth muscles can be brought about by administration ofdrugs.Renal autoregulation is present in denervated and in isolated, perfused kidneys.Feedback mechanisms intrinsic to the kidneys keep the renal blood flow and GFR relativelyconstant, despite marked changes in arterial blood pressure. This relative constancy of GFR andrenal blood flow is referred to as autoregulation.Renal autoregulationmL/min800600Renal blood flow400-ARROW20070Glomerular filtration140210Arterial pressure (mm Hg)OMARROW648",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q28_img1_01cca10c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp28_img1_53ccee76.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 29,
+      "question": "Kidney responds to shock by",
+      "options": {
+        "A": "Increasing renal blood flow",
+        "B": "Increasing afferent arteriole resistance",
+        "C": "Increasing GFR",
+        "D": "Both B and C"
+      },
+      "correct_answer": "B",
+      "explanation": "Kidney responds to shock by increasing afferent arteriolar resistance.During shock, both afferent and efferent arterioles in kidney are constricted, however, the efferentvessels are constricted much more.The glomerular filtration rate and the plasma renal flow is decreased during shock. As plasmarenal flow is decreased to a greater extent, the filtration fraction increases. (Option 1 &amp; 3)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 30,
+      "question": "What is the function of tubuloglomerular feedback?",
+      "options": {
+        "A": "Regulate GFR",
+        "B": "Decrease plasma sodium",
+        "C": "Increase plasma volume",
+        "D": "Decrease tubular secretion"
+      },
+      "correct_answer": "A",
+      "explanation": "Tubuloglomerular feedback regulates glomerular filtration rate (GFR).As the rate of ow through the ascending limb of the loop of Henle and first part of the distaltubule increases, glomerular filtration in the same nephron decreases, and, conversely, a decreasein ow increases the GFR.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 31,
+      "question": "The concentration of a substance is 2 mg % in afferent arteriole and o mg% in the efferentarteriole of a patient. This substance is",
+      "options": {
+        "A": "Freely filtered",
+        "B": "Secreted",
+        "C": "Absorbed in PCT",
+        "D": "Impermeable to loop of henle"
+      },
+      "correct_answer": "A",
+      "explanation": "A concentration of o mg% is efferent arteriole indicates the substance is freely filtered.Afferent arterioles → glomerulus (filtration) → efferent arterioles → peritubular capillaries(reabsorption+secretion).Note: The question compares the concentration in afferent and efferent arterioles. Reabsorptionand secretion happen between the tubular lumen of the nephron and the peritubular capillariesand not the efferent arteriole.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 32,
+      "question": "The protein in the glomerular basement membrane responsible for charge-dependentfiltration is?629",
+      "options": {
+        "A": "Fibronectin",
+        "B": "Heparan sulfate",
+        "C": "Collagen Type IV",
+        "D": "Entactin"
+      },
+      "correct_answer": "B",
+      "explanation": "The protein in the glomerular basement membrane responsible for charge-dependent filtration isheparan sulfate. It prevents filtration by repelling negatively charged proteins.Collagen type IV, fibronectin, entactin are structural components of basement membrane.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 33,
+      "question": "Efferent arteriolar constriction causes all except:",
+      "options": {
+        "A": "Decrease in GFR",
+        "B": "Decreases renal blood flow",
+        "C": "Decreases oncotic pressure in glomerular capillaries",
+        "D": "Increases hydrostatic pressure in glomerular capillaries"
+      },
+      "correct_answer": "",
+      "explanation": "Efferent arteriolar constriction increases oncotic pressure in glomerular capillaries.Efferent arteriolar constriction has a biphasic response on GFR depending on the severity ofresistance.649Moderate efferent arteriolar constriction causes increased glomerular hydrostatic pressure andslightly increased GFR.However, in cases of severe efferent arteriolar constriction (more than threefold increase inefferent arteriolar resistance), the renal blood flow is significantly reduced. This results inincreased plasma protein concentration, thereby increasing the glomerular colloid oncoticpressure. As the increase in colloid oncotic pressure exceeds the increase in hydrostatic pressure,the net force for filtration decreases, resulting in decreased GFR.Effects of Arteriolar Constriction on GFRMAfferentarterioleTRAJROFPG1 GFREfferentarterioleGlomerulusEffect of Afferent Arteriolar Constriction on GFRAfferentarterioleEfferentarterioleT RE↑ PGGlomerulus1 GFREffect of Moderate Efferent Arteriolar Constriction on GFAAfferentarterioleTRE+ RBF1 GFREfferentarterioleGlomerulusEffect of Sevoro Efferent Arteriolar Constriction on GFRGFHRenal blood flowAfferent arteriolar resistance.Efferent arteriolar resistanceGlomerular hydrostatic pressureGlomerular colloid oncotic presSLITOGlomerular filtration rataOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp33_img1_ab1f52ee.jpeg",
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 34,
+      "question": "GFR is increased by all except",
+      "options": {
+        "A": "Increased renal blood flow",
+        "B": "Efferent arteriolar constriction",
+        "C": "Ureteric stone",
+        "D": "Decreased oncotic pressure"
+      },
+      "correct_answer": "",
+      "explanation": "Ureteric stone causes a reduction in glomerular filtration rate (GFR).Following ureteral obstruction, there is a progressive fall in glomerular filtration rate (GFR) due toa reduction in a single-nephron glomerular filtration rate (SNGFR) and a reduced number offiltering nephrons.All the other factors/options increase GFR.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    },
+    {
+      "q_no": 35,
+      "question": "This is the graph depicting the filterability of dextran through the kidney, 1 representing complete filtration and 0 representing no filtration. Choose the substance A, B, C respectively.630Relative filterability1.00.80.60.40.20ABWC1822263034Effective molecular radius (Å)",
+      "options": {
+        "A": "Polycationic, Neutral, Polyanionic",
+        "B": "Polyanionic, Neutral, Polycationic",
+        "C": "Neutral, Polycationic, Polyanionic",
+        "D": "Polyanionic, Polycationic, Neutral"
+      },
+      "correct_answer": "A",
+      "explanation": "In the given graph, the order of filterability is A > B > C, which likely indicates that the substances are Polycationic, Neutral, Polyanionic. The glomerular filtration barrier is negatively charged, which will repel most of the negative-charged (anionic substances). Whereas, the cationic substances are easily filtered. Hence, the order of filterability would be: Polycationic > Neutral > Polyanionic, represented by A, B, and C in the graph shown. The glomerular filtration barrier consists of: Endothelium of the capillary, Basement membrane: Lamina densa - electron-dense layer. It contains type IV collagen, Lamina rara interna - contains glycosaminoglycan heparan sulfate which has a negative charge, and Lamina rara externa - contains glycosaminoglycan heparan sulfate which has a negative charge, and a layer of epithelial cells (podocytes) surrounding the outer surface of the capillary basement membrane. The capillary endothelium is perforated by thousands of small holes called fenestrae, which measure from 4 nm up to 8 nm. Therefore, neutral substances with molecular diameters of less than 4 nm are freely filtered, and filtration of those with diameters of more than 8 nm approaches zero. However, in addition to the size of the particles, the filtration also depends mainly on the charge of the particle being filtered. The glomerular capillary wall consists of highly negatively charged proteins called sialoproteins, which repel the negatively charged substances (anions). The property can be studied by using charged dextran. When the filtration of the negatively and positively charged dextrans was studied, the results indicated that the negatively charged dextrans in the blood are repelled, with the result that filtration of anionic substances 4 nm in diameter is less than half that of neutral substances of the same size. This explains why albumin, despite having an effective molecular diameter of approximately 7 nm, has a very low filtration rate.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renal Clearance"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "chapter": "Dilution",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is implied if a drug has more renal clearance than GFR?",
+      "options": {
+        "A": "Drug is reabsorbed by the renal tubules",
+        "B": "Drug is secreted in the renal tubules",
+        "C": "Drug is excreted in renal tubules",
+        "D": "Drug is neither excreted nor reabsorbed in renal tubules"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 2,
+      "question": "Choose the correct formula regarding renal physiology.",
+      "options": {
+        "A": "Filtration fraction = ( RPF / GFR ) * 100",
+        "B": "Filtration rate = GFR * urine concentraion",
+        "C": "Excretion rate = UxV",
+        "D": "Clearance = UP / V"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct formula is Excretion rate = UV.• Filtration fraction = (GFR/RPF) * 100 = 20% (or) 0.2 (approx)• Filtration rate = GFR * Plasma concentration• Clearance = U*V/PWhere,662GFR Glomerular filtration rateRPF = Renal plasma flowU = Concentration of the substance in urineV = Urine flow rateP = Concentration of the substance in plasma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 3,
+      "question": "Choose the correct option.",
+      "options": {
+        "A": "Inulin is completely secreted and never reabsorbed.",
+        "B": "Glucose is completely reabsorbed in DCT.",
+        "C": "Creatinine is partially secreted.",
+        "D": "PAH at any plasma concentration is completely filtered and secreted."
+      },
+      "correct_answer": "",
+      "explanation": "Creatinine is partially secreted and never reabsorbed. Clearance of creatinine (CCr) can also beused to determine GFR. Since creatinine is secreted by the tubules, the clearance of creatinine willbe slightly higher than inulin. Hence, it overestimates GFR.Inulin is completely filtered and never reabsorbed. Hence, it can be used for GFR estimation.Glucose is completely reabsorbed below the renal threshold (i.e ~180mg/dl) in PCT.PAH(para amino hippuric acid) at low plasma concentrations is completely filtered andsecreted. Hence, it can be used for estimation of renal blood flow.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 4,
+      "question": "Renal plasma flow is being calculated using PAH in a patient. The technician inadvertentlyuses PAH thrice the recommended dose. What will be the estimated effective renal plasmaflow?",
+      "options": {
+        "A": "False high652",
+        "B": "False low",
+        "C": "Both",
+        "D": "Correct and is not affected"
+      },
+      "correct_answer": "B",
+      "explanation": "Effective renal plasma flow in this patient will be falsely low.It is equal to the clearance of para-aminohippurate (PAH) as shown by the following equation.U PAH VERPF == C PAHP PAHWhere,• ERPF = Effective Renal Plasma Flow• UPAH = [PAH] in urine663• V= Urine flow rate•PPAH = [PAH] in plasma•• CPAH = Clearance of PAHAt high concentrations of PAH, as given in this question, tubular secretion attains saturation afterwhich the clearance of PAH falls. Hence, a low ERPF will be seen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following transporter is present in the ascending loop of Henle?",
+      "options": {
+        "A": "Na+ - Cl- co transporter",
+        "B": "ENaC channel",
+        "C": "Na+ 2Cl- - K+ co transporter",
+        "D": "Na+ aminoacid co transporter-"
+      },
+      "correct_answer": "",
+      "explanation": "Thick ascending limb of loop of Henle has Na+ - 2Cl- - K+ co transporter that cotransports oneNa+, one K+, and 2Cl- from the tubular lumen into the tubular cells. This is an example ofsecondary active transport.Na+ is transported out of the cell into the interstitium by Na, K ATPase in the basolateralmembrane of the cell.Cl- exits in basolateral ClC-Kb Cl- channels. Barttin, a protein in the cell membrane, is essentialfor normal ClC-Kb function.K+ moves from the cell to the interstitium and the tubular lumen by ROMK(renal outer medullarypotassium channel) and other K+ channels.NaCl transport in loop of HenleTubularlumenK+ROMKK+Tubular cell in thick,ascending limbInterstitialfluidNa+Na+CIK+K+CIBartinK+ROMKK+OMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_1e1ccf16.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 6,
+      "question": "The principal site of absorption of Na + is_",
+      "options": {
+        "A": "Proximal convoluted tubule",
+        "B": "Distal convoluted tubule",
+        "C": "Thick ascending limb of Loop of Henle",
+        "D": "Collecting duct"
+      },
+      "correct_answer": "A",
+      "explanation": "The principal site of absorption of Na + is PCT. About 60-65% of filtered sodium is reabsorbed inthe proximal convoluted tubule (PCT), coupled with the movement of H+, glucose, amino acids,organic acids, phosphate, and other electrolytes and substances.All segments of nephron are involved in sodium reabsorption except thin descending loop ofHenle.664% of filtered Na reabsorbed Part of nephron603073PCTThick ascending limb of the 1oop of HenleDCTCollecting ductsMain transporter involvedNa+-H+exchangerNa+-2Cl--K cotransporterNa-Cl cotransporterENaC channels (regulated byaldosterone to permit homeostatic adjustments)Tubular functionPartially reabsorbedElectrolytes(eg.Na+)Urea(52%)(60%)H₂O (66%)HYPOISOSolutesGlucose100%AminoacidsHCO(80%)H₂OSolutesMARLOWSHYPERHormone regulated segment(Collecting duct)MARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp6_img1_e6a23dbc.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 7,
+      "question": "Potassium is maximally absorbed in",
+      "options": {
+        "A": "PCT",
+        "B": "DCT",
+        "C": "Collecting duct",
+        "D": "Loop of henle"
+      },
+      "correct_answer": "A",
+      "explanation": "Potassium is maximally absorbed in PCT.Potassium is freely filtered by the glomerulus. The bulk of filtered K+ is reabsorbed in theproximal tubule. In the proximal tubule, K+ absorption is primarily passive and proportional toNa+ and water through paracellular transport.K+ reabsorption in the thick ascending limb of Henle occurs through both transcellular (Na+- K+-2Cl- cotransport) and paracellular pathways.K+ secretion begins in the early distal convoluted tubule and progressively increases along thedistal nephron into the cortical collecting duct. Most urinary K+ can be accounted for by K+secretion mediated by principal cells. Under conditions of K+ depletion, reabsorption of K+ occursin the collecting duct.It is the only electrolyte to be reabsorbed as well as secreted.66567%K+ handling in the nephronLow-K* diet onlyVariablesecretionDietary K+AldosteroneAcid-baseFlow rate20%Excretion 1%-110%MARROWLuminal anions",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp7_img1_dafac173.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 8,
+      "question": "Bicarbonate is reabsorbed across the luminal membrane with the help of-",
+      "options": {
+        "A": "Na+ HCO3- antiport-",
+        "B": "Na+ HCO3- Co transport653",
+        "C": "Na+ H+ exchanger-",
+        "D": "Na+ - K+ exchanger"
+      },
+      "correct_answer": "",
+      "explanation": "Bicarbonate is reabsorbed at the luminal membrane in the form of CO2 and H2O with the help ofNa+ H+ exchanger.-In the tubular cell of the PCT, CO2 and H2O recombine with the help of carbonic anhydrase II,and then dissociate into H+ and HCO3-. From here, the H+ moves back into the tubular lumen viathe Na+ H+ exchanger while the HCO3- is reabsorbed at the basolateral membrane via the Na+ -HCO3- co-transporter.-Bicarbonate reabsorption in PCTTubularlumenHCO3HCO3 + Na+HCO3 + H+",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_efed2fb2.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 9,
+      "question": "True about renal tubular transport_",
+      "options": {
+        "A": "Maximum reabsorption in distal tubule",
+        "B": "Urea is absorbed 100% in PCT",
+        "C": "H+ is absorbed in proximal tubule",
+        "D": "Amino acid is reabsorbed in proximal tubule"
+      },
+      "correct_answer": "D",
+      "explanation": "H2CO3Tubular cell in PCTInterstitialfluidATPADPNa+Na+K+H++ HCO3H2CO3+ H2OCO2H2O + CO2OMARROW666HCO3Na+Glucose and amino acids are completely reabsorbed in the proximal tubule.Option A: Maximum reabsorption occurs in proximal tubuleOption B: Urea is reabsorbed and secreted. It is reabsorbed in PCT and in collecting duct. It issecreted in thin ascending loop of henle.Option C: H+ is secreted in PCT as well as in collecting ducts.Tubular functionPartially reabsorbedElectrolytes(eg.Na+)(60%)Urea(52%)H₂O (66%)Glucose100%AminoacidsHCO(80%)HYPOISOSolutesSolutesH₂OMARLOWHYPERHormone regulated segment(Collecting duct)OMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp9_img1_6bba2268.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following occurs along with glucose transport into the cell?",
+      "options": {
+        "A": "Sodium symport",
+        "B": "Calcium antiport",
+        "C": "Potassium transport",
+        "D": "Amino acid antiport"
+      },
+      "correct_answer": "D",
+      "explanation": "Sodium symport occurs along with glucose transport into the cell.Sodium and glucose are co-transported across the luminal membrane of proximal tubularcells. This occurs via sodium glucose co-transporters (SGLT2 and SGLT1). The energy derivedfrom the movement of Na+ is used to move glucose against its concentration gradient into thetubular cell. This is referred to as secondary active transport.The Na+ is then pumped out of the cell into the interstitium, and the glucose exits by facilitateddiffusion via glucose transporter (GLUT)-2 along the basolateral membrane into the interstitialfluid.Clinical correlation:Fanconi-Bickel syndrome: Defective GLUT2Isolated renal glycosuria: Defective SGLT2667Sodium-glucose co-transport mechanismTubularlumenGlucoseNa+SGLTTubular cellGlucoseNa+Na+AminoacidsNa+AminoacidsOMARROWK++ADPATPInterstitialfluidGLUTGlucoseNa+",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp10_img1_dc1999a8.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 11,
+      "question": "Normal renal threshold (g/L) and transport maxima (mg/min) for glucose respectively are",
+      "options": {
+        "A": "200, 375",
+        "B": "375, 200",
+        "C": "2, 375",
+        "D": "375, 2"
+      },
+      "correct_answer": "C",
+      "explanation": "The actual renal threshold is about 200 mg/dL (i.e., 2 g/L) (1g/L=100mg/dl) and the transportmaximum for glucose is 375 mg/min.For substances that are actively reabsorbed or secreted, there is a limit to the rate at whichthe solute can be transported, which is referred to as the transport maximum. This limit is due tosaturation of the specific transport systems involved.Normally, measurable glucose does not appear in the urine because essentially all thefiltered glucose is reabsorbed in the proximal tubule.The transport maximum for glucose is about 375 mg/min, whereas the filtered load of glucose isonly about 125 mg/min. With large increases in GFR and/or plasma glucose concentration.that increase the filtered load of glucose above 375 mg/min, the excess glucose filtered is notreabsorbed and passes into the urine.When the plasma glucose concentration is 100 mg/100 ml and the filtered load is at its normallevel (125 mg/min) there is no loss of glucose in the urine. However, when the plasmaconcentration of glucose rises above about 200 mg/100 ml, increasing the filtered load to about250 mg/min, a small amount of glucose begins to appear in the urine. This point is termed as thethreshold for glucose.Splay is due to separation between filtered load and exceretion. It occurs due to differenttransport maximums of different nephrons.668Glucose filtration rate (mg/min)900800700Renal glucose clearance600500400ARZO300200100ThresholdTransportmaximumReabsorption00100200300400500600700800Plasma glucose concentration(mg/100 ml)NormalFiltered loadExcretionOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp11_img1_3e0b1d89.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 12,
+      "question": "The image of PAH excretion is depicted below. Match the labellings.654PAH filtered, secreted,or excretedBWUnbound plasma (PAH)OMARROW",
+      "options": {
+        "A": "a. Filtered, b. Excreted, c. Tm, d. Secreted",
+        "B": "a. Filtered, b. Secreted, c. Tm, d. Excreted",
+        "C": "a. Secreted, b. Filtered, c. Tm, d. Excreted",
+        "D": "a. Excreted, b. Filtered, c. Tm, d. Secreted"
+      },
+      "correct_answer": "B",
+      "explanation": "The labellings depticed are a. Filtered, b. Secreted, c. Tm, d. ExcretedFiltered Load: The filtered load of PAH increases linearly as the unbound concentration of PAHincreases (filtered load = GFR. [P]PAH).Secretion: At low concentrations of PAH, many carriers are available and secretion increaseslinearly as the plasma concentration increases. When the PAH concentration increases to a levelwhere the carriers are saturated, Tm is reached. After this point, no matter how much the PAHconcentration increases, there can be no further increase in the secretion rate.Excretion. For a secreted substance such as PAH, excretion is the sum of filtration andsecretion. At low PAH concentrations (below Tm), excretion increases steeply with increases inplasma PAH concentration because both filtration and secretion are increasing. At PAHconcentrations above Tm, excretion increases less steeply (and parallels the curve for filtration)because only the filtration component increases as concentration increases; secretion is alreadysaturated.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q12_img1_6fd566c1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 13,
+      "question": "In a patient with uncontrolled diabetes, what is the value of plasma clearance of glucose?",
+      "options": {
+        "A": "Zero",
+        "B": "Equal to inulin clearance",
+        "C": "Greater than PAH clearance",
+        "D": "Greater than zero"
+      },
+      "correct_answer": "D",
+      "explanation": "In uncontrolled diabetes, the plasma clearance of glucose is greater than zero.Normally, all the glucose that is filtered is reabsorbed and no glucose is excreted in the urine.Hence, the clearance is zero. In uncontrolled diabetes, since the plasma glucose concentration isgreater than the renal threshold for reabsorption, excess glucose is excreted in the urine and theclearance is greater than zero.Clearance of different substances can be shown in a graph as follows:669Clearance (ml/min)Renal clearance of various substances200400Glucose, mg/dL60020600500400300200Inulin1000406080PAH, mg/dLPAH OWPlasma levelOMARROWGlucoseThe above graph depicts renal handling of glucose, inulin, and para-aminohippurate (PAH) andcan be explained as follows:Glucose clearance: Normally, all the glucose that is filtered is reabsorbed and no glucose isexcreted in the urine. Hence, the clearance is zero. In uncontrolled diabetes, since the plasmaglucose concentration is greater than the renal threshold for reabsorption, excess glucose isexcreted in the urine and the clearance is greater than zero.Inulin clearance: Inulin is freely filtered and is neither reabsorbed nor secreted. Hence, it isconstant and equal to the glomerular filtration rate.PAH clearance: PAH is both filtered and secreted. When plasma PAH is low, clearance is high.However, as plasma PAH rises above the threshold level for PAH secretion, clearance fallsprogressively.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp13_img1_81b2aa0b.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient has a blood glucose level of 200 mg/dL and GFR of 90 ml/min. What is theamount of glucose excreted if the transport maximum of the patient is as shown below?655",
+      "options": {
+        "A": "80 mg/min",
+        "B": "50 mg/min",
+        "C": "40 mg/min",
+        "D": "30 mg/minGlucose (mg/min)250-200150-100-50-ReabsorbedTransport MaximumThresholdExcreted050 100 150 200 250 300 350Filtered Load of Glucose (mg/min)"
+      },
+      "correct_answer": "D",
+      "explanation": "The amount of glucose excreted in the above scenario is 30 mg/min.Calculation:Step 1: Calculate total filtered glucose:In this question,• GFR = 90 ml/min• Plasma glucose concentration = 200 mg/dL= 2 mg/ml (1 dL=100 ml).• Total filtered glucose = GFR X Plasma glucose concentration.= 90 ml/min X 2 mg/ml=180 mg/min.Step 2: Check transport maximum:670In the above question transport maximum is 150 mg/min.Step 3: Calculate the excretion:Excretion = Total filtered glucose - Total reabsorbed glucose (Transport Maximum)=180-150 mg/min= 30 mg/min",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q14_img1_25b1a4e5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 15,
+      "question": "Choose the correct statement regarding the concentration of solutes at the end of proximalconvoluted tubule",
+      "options": {
+        "A": "Concentration of glucose in tubular fluid is more than that of plasma",
+        "B": "Concentration of urea in tubular fluid is more than that of plasma",
+        "C": "Concentration of bicarbonate in tubular fluid is more than that of plasma",
+        "D": "Concentration of sodium in tubular fluid is less than that of plasma"
+      },
+      "correct_answer": "",
+      "explanation": "The concentration of urea in tubular fluid is more than that of plasma.TF/P1.61.41.210.80.60.40.2DReabsorption of various solutes25in the PCTCreatinineUreaNa+OsmROW50% Proximal tubule length75TF/P - Tubular fluid : Plasma concentration ratioPCT - Proximal convoluted tubuleOMARROWHCO3Amino acidsGlucose100[TF/P]&gt;1, when solute is reabsorbed less quickly than water or when solute is secreted. Ex-PAH, Creatinine, Inulin, Urea.[TF/P]=1, when solute and water are reabsorbed at the same rate Ex - Na.[TF/P]&lt;1, when solute is reabsorbed more quickly than water. Ex- glucose, amino acid,bicarbonate.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp15_img1_d6d379e7.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 16,
+      "question": "The mechanism by which majority of water is reabsorbed in PCT is",
+      "options": {
+        "A": "Active",
+        "B": "Secondary active",
+        "C": "Facilitated",
+        "D": "Osmosis656"
+      },
+      "correct_answer": "B",
+      "explanation": "Water reabsorption in PCT mainly occurs by osmosis.The proximal tubule reabsorbs 67% of the filtered water. The driving force for water reabsorptionis a transtubular osmotic gradient established by reabsorption of solutes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 17,
+      "question": "A dehydrated patient is excreting hypertonic urine. Absorption of water in which part of thenephron causes this?",
+      "options": {
+        "A": "Collecting duct",
+        "B": "PCT",
+        "C": "Ascending loop",
+        "D": "Descending loop"
+      },
+      "correct_answer": "A",
+      "explanation": "671Hypertonic urine is excreted due to absorption of water in collecting duct.The final concentration of urine is determined by the amount of water reabsorption that occurs inthe collecting ducts. The changes in osmolarity of the urine (hypo/hypertonic) depends on theamount of ADH (vasopressin) acting on the collecting ducts.The basic requirements for forming a concentrated urine (hypertonic urine) are• A high level of ADH, which increases the permeability of the distal tubules and collecting ductsto water, thereby allowing these tubular segments to avidly reabsorb water.• A high osmolarity of the renal medullary interstitial fluid, which provides the osmotic gradientnecessary for water reabsorption to occur in the presence of high levels of ADH.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 18,
+      "question": "A patient with diabetes insipidus is prescribed vasopressin. This drug has its maximum effecton which part of the renal tubule?",
+      "options": {
+        "A": "Proximal tubule",
+        "B": "Distal tubule",
+        "C": "Loop of henle",
+        "D": "Collecting duct"
+      },
+      "correct_answer": "",
+      "explanation": "Vasopressin has the maximum effect on the collecting ducts.Vasopressin acts by inserting aquaporin 2 present in cytoplasmic vesicles of principal cells on tothe apical membrane. The effect is mediated via the vasopressin V2 receptor, cyclic adenosine5-monophosphate (cAMP), and protein kinase A. When vasopressin is absent, the collecting ductepithelium is relatively impermeable to water.Principal and intercalated cellsLumen(Urine)CIH₂OAmiloridetriamtereneENaCNa+MAATPCollecting tubulePrincipal collAquaporins onvesicle membraneVSADHATP.ADP3NaK+Ra-intercalated cell 2H⭑ADPHCO-ADATPẞ- intercalated cellHCO-RHTADPATPOMARROWInterstitium(Blood)2K+AldosteroneSpironolactoneAldosteroneCr",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_18f4ff28.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is true about free water clearance?",
+      "options": {
+        "A": "Regulated by ADH",
+        "B": "Regulated by aldosterone",
+        "C": "Unaffected by furosemide",
+        "D": "None of the above"
+      },
+      "correct_answer": "",
+      "explanation": "Free water clearance is regulated by ADH.Free water clearance is defined as the amount of solute-free water generated by the kidneys, eitherwhen dilute urine or when concentrated urine is formed.Free-water clearance is positive, when excess water is being excreted (dilute urine).672Free-water clearance is negative, when excess solutes are being removed and water is beingconserved (concentrated urine).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 20,
+      "question": "The following picture shows the composition of solute in the urine and plasma sample of 3patients. Identify the true statement.657Patient ASoluteSolventPlasmaUrinePlasmaPatient BUrinePatient COMARROWPlasmaUrine",
+      "options": {
+        "A": "A shows negative free water clearance, B is isotonic, C is positive free water clearance",
+        "B": "A shows positive free water clearance B is isotonic C is positive free water clearance",
+        "C": "A shows positive free water clearance B is isotonic C is negative free water clearance",
+        "D": "A shows negative free water clearance B is isotonic C is negative free water clearance"
+      },
+      "correct_answer": "",
+      "explanation": "Patient A shows positive free water clearance B is isotonic C shows negative free water clearance.Free water clearance is defined as the amount of solute-free water generated by the kidneys, eitherwhen dilute urine or when concentrated urine is formed.Patient A has positive free-water clearance, since excess water is being excreted (dilute urine).Patient C has negative free-water clearance, since excess solutes are being removed and water isbeing conserved (concentrated urine).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q20_img1_b5eea7d1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 21,
+      "question": "All are true except that",
+      "options": {
+        "A": "PCT is permeable to water",
+        "B": "Descending limb of loop of Henle is permeable to water",
+        "C": "Thick ascending limb is impermeable to water",
+        "D": "Distal tubule is permeable to water"
+      },
+      "correct_answer": "C",
+      "explanation": "The ascending limb is always impermeable to H2O.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 22,
+      "question": "The average urine osmolality in mosm/kg is",
+      "options": {
+        "A": "100-800",
+        "B": "500-1400",
+        "C": "200-400",
+        "D": "50-1400658"
+      },
+      "correct_answer": "",
+      "explanation": "The average urine osmolality is 100-800 mosm/kg.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 23,
+      "question": "What are the requirements for a patient to excrete concentrated urine?",
+      "options": {
+        "A": "High ADH levels and hypoosmolar renal medulla",
+        "B": "Low ADH levels and hypoosmolar renal medulla",
+        "C": "High ADH levels and hyperosmolar renal medulla",
+        "D": "Low ADH levels and hyperosmolar renal medulla"
+      },
+      "correct_answer": "",
+      "explanation": "The requirements for excreting concentrated urine are high ADH levels and hyperosmolar renalmedulla.A high level of ADH, which increases the permeability of the distal tubules and collecting ducts towater, thereby allowing these tubular segments to avidly reabsorb water, and a high osmolarity ofthe renal medullary interstitial fluid, which provides the osmotic gradient necessary for waterreabsorption to occur in the presence of high levels of ADH.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 24,
+      "question": "Maximum osmotic gradient is found in",
+      "options": {
+        "A": "Outer medulla",
+        "B": "Inner medulla",
+        "C": "Outer cortex",
+        "D": "Inner cortex"
+      },
+      "correct_answer": "C",
+      "explanation": "Maximum osmotic gradient is found in the inner medulla. The gradient of osmolarity from thecortex (300 mosm/L) to the inner medulla (1200 mosm/L) is produced by the loops of Henle ascountercurrent multipliers and maintained by operation of the vasa recta as countercurrentexchangers.673",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 25,
+      "question": "Hyperosmolarity of renal medulla is due to",
+      "options": {
+        "A": "K+",
+        "B": "Na+",
+        "C": "Glucose",
+        "D": "H+"
+      },
+      "correct_answer": "",
+      "explanation": "Hyperosmolarity of the medullary interstitium is mainly due to NaCl and urea.The major factors that contribute to the buildup of solute concentration into the renal medullaare• Active transport of Na+ and co-transport of K+, Cl-, and other ions out of the thick portion of theascending limb of the loop of Henle into the medullary interstitium.• Active transport of ions from the collecting ducts into the medullary interstitium.• Facilitated diffusion of urea from the inner medullary collecting ducts into the medullaryinterstitium.• Diffusion of only small amounts of water from the medullary tubules into the medullaryinterstitiumCounter-current mechanism in kidneyTubularflowPCT300H₂O38040060060078080010001200300100NaCl200980101200↑400Interstitial fluidin renal cortex300Collecting iduct200DCT300↓350010320↓4001060010800↓600OUreaBOO101000↓120040060070U700O9001200800hoodVasa rectaOsmoticgradientLoop ofHenleConcentratedurineNa+-K+-CI symporters in thick ascendinglimb build up NaClCountercurrent flow through loop of Henleestablishes the osmotic gradientH2O reabsorbed from collecting duct. H₂Oreabsorption increased in presence of ADHUrea build up in renal medullaMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp25_img1_8e6ba30f.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 26,
+      "question": "Which of the following is not a component of the countercurrent mechanism?",
+      "options": {
+        "A": "Thick ascending loop of Henle",
+        "B": "Proximal convoluted tubule",
+        "C": "Vasa recta",
+        "D": "Descending limb of loop of Henle"
+      },
+      "correct_answer": "B",
+      "explanation": "Proximal convoluted tubule (PCT) does not play a role in countercurrent mechanism.The countercurrent mechanism consists of 2 components:• Countercurrent multiplier:a. Absorption of water via Aquaporin 1 in thin descending limbb. Active transport of Na+- K+- 2Cl- in thick ascending limbc. Flow of fluid from PCT to DCT• Countercurrent exchanger: Vasa recta are involved in this process. They help in maintaining theosmotic gradient in the renal medulla. This is a passive process.674Counter-current mechanism in kidneyTubularflowPCT300H₂O380400600600780BOD10001200Osmoticgradient300100Naci2009801200400Loop ofHenle300CollectingductInterstitial fluidin renal cortex200DCT31003400320500600600Urea100400PU60080010001200Concentratedurine70080019001200hoodVasa recta23Na+-K+-CI symporters in thick ascendinglimb build up NaCICountercurrent flow through loop of Henleestablishes the osmotic gradientH₂O reabsorbed from collecting duct. H₂Oreabsorption increased in presence of ADHUrea build up in renal medullaMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp26_img1_a3fd89a4.jpeg",
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 27,
+      "question": "659Maximum osmolality that can be reached at the tip of medulla is proportional to",
+      "options": {
+        "A": "Distribution of Na-K-2Cl channel in the thick ascending loop of Henle",
+        "B": "Permeability of descending loop to water",
+        "C": "Length of loop of Henle",
+        "D": "All of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "The maximum osmolality that can be reached at the tip of the medulla is proportional to thelength of the loop of Henle, because the Loop of Henle acts as Countercurrent multiplier tomaitain the gradient in medulla. Greater is the length of loop of Henle, greater will be theosmolality that can be reached at the tip of the medulla.In case of juxtamedullary nephrons with longer loops and thin ascending limbs, the osmoticgradient is spread over a greater distance and the osmolality at the tip of the loop is greater.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 28,
+      "question": "Counter current blood flow is seen in all except",
+      "options": {
+        "A": "Kidney",
+        "B": "Testes",
+        "C": "Eye",
+        "D": "Small intestine"
+      },
+      "correct_answer": "",
+      "explanation": "The eye does not have a countercurrent blood flow system.Heat and substances, including gases, steroids and peptide hormones, can pass from venousblood, interstitial fluid and lymph to the arterial blood; the process is called local counter-currenttransfer.Examples of countercurrent blood flow• Heat exchange between the arteries and venae comitantes of the limbs.• Vasa recta in the kidneys• Testes• Small intestine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 29,
+      "question": "All of the following are components responsible for the countercurrent mechanism in thekidney except",
+      "options": {
+        "A": "Sodium outflow in thick ascending limb",
+        "B": "Water outflow in thin descending limb",
+        "C": "Sodium outflow in thin ascending limb",
+        "D": "Flow of tubular fluid from PCT to DCT"
+      },
+      "correct_answer": "",
+      "explanation": "675Thin ascending limb is not a component of the countercurrent mechanism.The loop of Henle function as countercurrent multipliers and vasa recta as countercurrentexchangers.The functioning of the loop of Henle depends upon:•High permeability of the thin descending limb to water (via aquaporin-1)• Active transport of Na+ and Cl- from the thick ascending limb•Inflow of tubular fluid from proximal tubule and outflow to the distal tubule.Note: The thin ascending limbs of juxtamedullary nephrons are permeable to Na+ and Cl- andhence do contribute passively to countercurrent multiplication. However, among the optionsprovided, Option C is the best answer as the other options are directly responsible for thecountercurrent mechanism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 30,
+      "question": "Which of the following is the diluting segment of the kidney?",
+      "options": {
+        "A": "PCT",
+        "B": "Collecting duct",
+        "C": "Ascending thick loop of Henle",
+        "D": "Descending loop of Henle"
+      },
+      "correct_answer": "",
+      "explanation": "The ascending thick limb of the loop of Henle is called the diluting segment.In the ascending limb, there is the movement of Na+ and Cl- out of the tubular lumen, and thetubular fluid becomes more dilute.When the fluid reaches the top of the ascending limb, it becomes hypotonic to plasma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 31,
+      "question": "660As filtrate flows through PCT, the concentration of all of the following decreases except:",
+      "options": {
+        "A": "Aminoacid",
+        "B": "Glucose",
+        "C": "Chloride",
+        "D": "Bicarbonate"
+      },
+      "correct_answer": "",
+      "explanation": "As the filtrate flows through the proximal convoluted tubule, the concentration of the chlorideincreases.• The concentration of chloride in the early part of the pCT is ~105 mEq/L.• As the sodium is reabsorbed, it preferentially carries glucose, amino acids, and bicarbonate.•• This leaves behind the solute, that has a higher concentration of the chloride, which as it reachesthe second half of the PCT is ≈140 mEq/L.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    },
+    {
+      "q_no": 32,
+      "question": "Macula densa is formed by which part of the nephron?",
+      "options": {
+        "A": "PCT",
+        "B": "DCT",
+        "C": "Afferent arteriole",
+        "D": "Bowman's capsule"
+      },
+      "correct_answer": "",
+      "explanation": "Macula densa is formed by specialized tubular epithelial cells of the distal convoluted tubule.676DCTJuxtaglomerular apparatusPCTGCAAEAMacula densa-JG cells(granular cells)Lacis cells(extraglomerularmesangial cells)Juxtaglomerular apparatusMARROWGCViscerallayerwww.wwwParietallayerThe juxtaglomerular apparatus consists of the following parts:• Macula densa: At the end of the thick ascending limb of Henle, and at the beginning of the distaltubule, the tubular epithelial cells are specialized to form the macula densa. They detect sodiumconcentration of the fluid in the tubule (chemoreceptor). In response to elevated sodium, themacula densa cells trigger the contraction of the afferent arteriole, reducing the flow of blood tothe glomerulus and the glomerular filtration rate. This happens as follows: When there isincreased sodium, there is increased sodium-potassium ATPase activity which leads to increasedATP hydrolysis causing more adenosine formation. The adenosine receptors on the macula densacells stimulate it to release more calcium, so that there is vasoconstriction of the afferent arteriole,thereby decreasing the GFR.•Lacis cells: Extraglomerular mesangial cells situated between afferent and efferent arteriole.Granular cells/JG cells: Modified smooth muscle cells of the afferent arteriole, they secreterenin. Fall in pressure in afferent arteriole stimulates renin release (mechanoreceptor), which, inturn, increases blood pressure.677",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dilution"
+    }
+  ]
+}

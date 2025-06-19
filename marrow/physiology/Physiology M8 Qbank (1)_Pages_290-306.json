@@ -1,0 +1,305 @@
+{
+  "chapter": "Motor Physiology - 2",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "When dynamic y-motor neurons are activated at the same time as ° -motor neurons to muscle,",
+      "options": {
+        "A": "Prompt inhibition of discharge in spindle Ia afferents takes place.",
+        "B": "The muscle will not contract.",
+        "C": "The number of impulses in spindle Ia afferents is smaller than when ° discharge alone isincreased.",
+        "D": "The number of impulses in spindle Ia afferents is greater than when ° discharge alone isincreased."
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 2,
+      "question": "The myogram below shows a slow onset and a longer after-discharge. Which type of reflexdoes it represent?Contraction",
+      "options": {
+        "A": "Flexor withdrawal reflex",
+        "B": "Stretch reflex",
+        "C": "Crossed extensor reflex",
+        "D": "Inverse stretch reflexDurationof stimulus0123SecondsOMARROWAfter-discharge290"
+      },
+      "correct_answer": "C",
+      "explanation": "The figure shows the typical myogram recorded from a muscle involved in a crossed extensorreflex. This myogram demonstrates the relatively long latency before the reflex begins and thelong after-discharge at the end of the stimulus.• When a painful stimulus is applied to the body, the flexor withdrawal and the crossed extensorreflexes are stimulated.• About 0.2 to 0.5 seconds after the flexor reflex in one limb, the opposite limb begins to extend.This reflex is called the crossed extensor reflex.• After the painful stimulus is removed, the crossed extensor reflex has an even longer period ofafter-discharge than does the flexor reflex. This prolonged after-discharge results fromreverberating circuits among the inter-neuronal cells.Myogram of flexor reflexFlexor contraction-FatigueARRAAfter-discharge01SecondsOMARROW23Compare the myograms of a flexor reflex with a crossed extensor reflex.In the flexor reflex, the contraction occurs immediately after applying the stimulus and theafter-discharge is smaller.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q2_img1_b5c72bb6.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_4e45344c.jpeg",
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 3,
+      "question": "The bulboreticular facilitatory area of the brain stem excites the gamma efferent system. Thisbulboreticular area receives impulses from which of the following areas?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Basal Ganglia",
+        "C": "Cerebral Cortex",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "Impulses are transmitted into the bulboreticular area from• Cerebellum,• Basal ganglia, and• Cerebral cortex.297The gamma efferent system is excited by signals from the bulboreticular facilitatory region of thebrain stem.When the bulboreticular facilitatory region transmits excitatory signals through the gamma nervefibers to the intrafusal muscle fibers of the muscle spindles, it shortens the ends of the spindlesand stretches the central receptor regions, thus increasing their signal output. If the spindles onboth sides of each joint are activated at the same time, then reflex excitation of the skeletalmuscles on both sides of the joint increases, producing tight, tense muscles opposing each other atthe joint. The net effect is that the position of the joint becomes strongly stabilized.Any time a person must perform a muscle function that requires a high degree of delicate andexact positioning, the bulboreticular facilitatory region of the brain stem stabilizes the positions ofthe proximal joints.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following describes components of the central pathway responsible for controlof posture?",
+      "options": {
+        "A": "The pontine reticulospinal pathway terminates on neurons in the dorsomedial area of thespinal ventral horn that innervate flexor muscles.",
+        "B": "The tectospinal pathway terminates on neurons in the dorsolateral area of the spinal ventralhorn that innervate limb muscles.",
+        "C": "The medullary reticulospinal pathway terminates on neurons in the ventromedial area of thespinal ventral horn that innervate axial and proximal muscles.",
+        "D": "None of the above"
+      },
+      "correct_answer": "",
+      "explanation": "The medullary reticulospinal pathway terminates on neurons in the ventromedial area of thespinal ventral horn, that innervate axial and proximal muscles.The medullary reticular nuclei transmit inhibitory signals to the antigravity anterior motorneurons by way of the medullary reticulospinal tract, located in the lateral column of the cord.Option A: The pontine reticular nuclei transmit excitatory signals through the pontinereticulospinal tract in the anterior column of the cord. The fibers of this pathway terminate on themedial anterior motor neurons that excite the axial muscles of the body, that is the muscles of thevertebral column and the extensor muscles of the limbs.Option B: The tectospinal tract originates in the superior colliculus of the midbrain. It projects tothe contralateral cervical spinal cord to control head and eye movements.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a medial pathway involved in maintenance of posture?",
+      "options": {
+        "A": "Reticulospinal Tract",
+        "B": "Rubrospinal Tract",
+        "C": "Vestibulospinal Tract",
+        "D": "Tectospinal Tract"
+      },
+      "correct_answer": "",
+      "explanation": "The rubrospinal tract is a part of the lateral brainstem pathway.••• The medial brainstem pathways : pontine and medullary reticulospinal, vestibulospinal, andtectospinal tracts.These pathways descend in the ipsilateral ventral columns of the spinal cord and terminatepredominantly on interneurons in the ventromedial part of the ventral horn to control axial andproximal muscles.• The lateral brainstem pathways: The corticospinal tract and the rubrospinal tract.• They cross the midline and project to interneurons in the dorsolateral part of the spinal ventralhorn to also influence motor neurons that control distal limb muscles.•⚫ The rubrospinal tract excites flexor motor neurons and inhibits extensor motor neurons. Thispathway may play a role in the posture typical of decorticate rigidity.298",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 6,
+      "question": "Increased neural activity before a skilled voluntary movement is first seen in",
+      "options": {
+        "A": "precentral motor cortex",
+        "B": "midbrain",
+        "C": "cerebellum291",
+        "D": "cortical association areas"
+      },
+      "correct_answer": "D",
+      "explanation": "The command for voluntary movement originates in cortical association areas, then planned inthe cortex as well as in the basal ganglia and the lateral portions of the cerebellar hemispheres.Hence, the neural activity first originates in the cortical association areas.The basal ganglia and cerebellum funnel information to the premotor and motor cortex by way ofthe thalamus.Motor commands from the motor cortex are relayed in large part via the corticospinal tracts to thespinal cord.Control of voluntary movementIdeaPlanCortical associationareasBasal gangliaExecutePremotor and motorcortexMovementMARROWLateral cerebellumIntermediatecerebellum• Motor Association Area: Idea about voluntary movement• Basal Ganglia: Planning and Organising the act•Cerebellum( Neocerebellum) - Planning the act•Premotor Cortex: Setting the posture before the act• Primary Motor Cortex: Executing the act• Spinocerebellum : Smoothening the act",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp6_img1_34d66fc6.jpeg",
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following descending motor tracts is essential for rapid skilled movement?",
+      "options": {
+        "A": "Anterior corticospinal tract",
+        "B": "Rubrospinal tract",
+        "C": "Lateral vestibulospinal tract",
+        "D": "Medullary Reticulospinal tract"
+      },
+      "correct_answer": "B",
+      "explanation": "The lateral corticospinal and rubrospinal tracts are concerned with distal limb muscles and, withskilled voluntary movements.The ventral corticospinal tract and medial descending brainstem pathways (tectospinal,reticulospinal, and vestibulospinal tracts) are concerned with the axial muscles - posturaladjustments and gross movements.Note: Medial portion of the ventral horn innervate proximal limb muscles, particularly the flexors.Lateral ventral horn innervates distal limb muscles.299",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is true about experimental sham rage?",
+      "options": {
+        "A": "Occurs in decorticate animals",
+        "B": "Is goal directed",
+        "C": "Is caused by removing the hypothalamus",
+        "D": "Appears and goes slowly"
+      },
+      "correct_answer": "A",
+      "explanation": "Sham rage occurs in decorticate animals is the true statement.Sham rage is a controversial term used to describe behavior such as biting, clawing, hissing,arching the back and \"violent alternating limb movements\" produced in animal experiments byremoving the cerebral cortex, which is claimed to occur in the absence of any sort of innerexperience of rage.The reason for this might be that the removal of the neocortex causes a loss of inhibition of theareas involved in the rage reaction, causing those areas to become hyperactive (due to anuninhibited hypothalamus).Removal of hypothalamus abolishes the sham rage.Sham rage may be triggered by very mild stimuli such as weak touch. It is also non-goal directed.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 9,
+      "question": "A 62-year-old known hypertensive woman presented to the emergency with spasticity of bothlower limbs. Further neurological examination showed regular, repetitive, rhythmiccontractions of a muscle subjected to sudden, maintained stretch. Which of the following isfalse regarding this phenomenon?",
+      "options": {
+        "A": "Only sustained clonus with five or more beats is considered abnormal",
+        "B": "Clonus may also occur in spinal cord injury that disrupts the descending cortical input to aspinal glycinergic inhibitory interneuron called the Renshaw cell",
+        "C": "The stretch reflex-inverse stretch reflex sequence may contribute to this response",
+        "D": "This is characteristic of states in which decreased y-motor neuron discharge is present"
+      },
+      "correct_answer": "D",
+      "explanation": "The case scenario indicates clonus. A characteristic of states in which increased y-motor neurondischarge is present is clonus.All the other options are correct.When a muscle is subjected to a sudden and maintained stretch, there occur regular, repetitive,and rhythmic contractions. This is called clonus. Ankle clonus is a typical example.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following statements regarding a clasp knife effect is false?",
+      "options": {
+        "A": "Hypertonia292",
+        "B": "Golgi Tendon Organ is involved",
+        "C": "It is called Lengthening Reaction",
+        "D": "Pacinian Corpuscle is involved"
+      },
+      "correct_answer": "D",
+      "explanation": "Pacinian corpuscle is not involved in the clasp knife effect.• When the muscles are hypertonic, the sequence of moderate stretch leads to muscle contraction,strong stretch leads to muscle relaxation. Eg. Passive flexion of the elbow meets immediateresistance due to stretch reflex in the triceps muscle. Further stretch activates the inverse stretchreflex. The resistance to flexion suddenly collapses, and the arm flexes. This sequence ofresistance followed by a sudden decrease in resistance when a limb is moved passively is known asthe clasp-knife effect because of its resemblance to the closing of a pocket knife.• Lengthening reaction: When the tension on the muscle becomes extreme, the inhibitory effectfrom the Golgi tendon organ leads to an instantaneous relaxation of the entire muscle. It is aprotective mechanism to prevent tearing of the muscle.300NervefiberGolgi tendon organTendonbundlesMARROWMuscularfibersWOrgan of Golgi, showingramification of nerve fibrils",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp10_img1_01675a50.jpeg",
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 11,
+      "question": "Fill in the blanks: Efferent axons from the dentate nucleus terminate inthalamic nucleus and travel through",
+      "options": {
+        "A": "Ventral anterior ---middle cerebellar",
+        "B": "Ventral lateral---superior cerebellar",
+        "C": "Ventral lateral ---middle cerebellar",
+        "D": "Ventral posteromedial ---superior cerebellar_peduncle?"
+      },
+      "correct_answer": "B",
+      "explanation": "Efferent axons from the dentate nucleus terminate in Ventral lateral nucleus of the thalamus (VL)and travel through superior cerebellar peduncle.The cerebellar cortex projects to the deep nuclei, which in turn project to the brainstem. The deepnuclei provide the only output for the spinocerebellum and the cerebrocerebellum:• The medial spinocerebellum projects to the fastigial nuclei and from there to the brainstem.• The adjacent hemispheric portions of the spinocerebellum project to the emboliform and globosenuclei and from there to the brainstem.⚫ The cerebrocerebellum projects to the dentate nucleus (Purkinje cells of cerebellum relay intothis nucleus) and from there either directly or indirectly to the ventrolateral nucleus of thethalamus.These fibres pass through the cerebellar peduncles:•The superior cerebellar peduncle includes fibers from deep cerebellar nuclei that project to thebrainstem, red nucleus, and thalamus. It also contains the ventral spinocerebellar tract fibers.The middle cerebellar peduncle contains only afferent fibers from the contralateral pontinenuclei.• Inferior cerebellar peduncle a mixture of afferent fibers from the brainstem and spinal cord andefferent fibers to the vestibular nuclei.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following does not carry proprioceptive impulses?",
+      "options": {
+        "A": "Olivo cerebellar tract",
+        "B": "Tecto cerebellar tract",
+        "C": "Spino cerebellar tract",
+        "D": "Cuneo cerebellar tract"
+      },
+      "correct_answer": "B",
+      "explanation": "• The tecto cerebellar tract transmits only the auditory and visual impulses to the cerebellum.301• The olivocerebellar pathway projects to the cerebellar cortex via climbing fibers; the rest of thelisted paths project via mossy fibers.Afferent TractsVestibulocerebellarDorsal spinocerebellarVentral spinocerebellarCunecerebellarTectocerebellarPontocerebellarOlivocerebellarTransmitsvestibular impulses from labyrinths, directs & via vestibular nucleiProprioceptive & exteroceptive impulses from muscle spindles, Golgi tendon organ & joint receptors of lower limbs& trunkProprioceptive & exteroceptive impulses from muscle spindles, Golgi tendon organ & joint receptors of upper & lower limbsProprioceptive & exteroceptive impulses from muscle spindles, Golgi tendon organ & joint receptors of upper limb &upper thoraxAuditory & visual impulses via inferior & superior colliculli,respectivelyImpulse from motor & otherparts of cerebral cortex via pontine nucleiProprioceptive input from whole body via relay in inferiorolive",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient has developed an inability to control the distance, speed, and range of motionnecessary to perform smoothly coordinated movements. His finger-to-nose test andheel-to-shin tests are abnormal. A lesion in which of the following sites is most likely to befound?",
+      "options": {
+        "A": "Basal Ganglia",
+        "B": "Spinocerebellar tract",
+        "C": "Midbrain",
+        "D": "Pons"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical findings are suggestive of dysmetria which is most commonly found due to alesion involving the cerebellum or the cerebellar pathways. Therefore, a lesion in thespinocerebellar tract is most likely to be found in this patient.• Dysmetria - In the absence of the cerebellum, the subconscious motor control system cannotpredict how far movements will go. Therefore, the movements ordinarily overshoot their intendedmark; then the conscious portion of the brain overcompensates in the opposite direction for thesucceeding compensatory movement. Dysmetria also results from lesions in the spinocerebellartracts because feedback information from the moving parts of the body to the cerebellum isessential for cerebellar timing of movement termination.302",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 14,
+      "question": "293Dysdiadochokinesia refers to which of the following?",
+      "options": {
+        "A": "Inability to perform the Tandem-Gait test",
+        "B": "Inability to stand without swaying with eyes open",
+        "C": "Inability to control vestibulo-ocular reflexes",
+        "D": "Inability to perform rapid alternating movements with the hands"
+      },
+      "correct_answer": "D",
+      "explanation": "Dysdiadochokinesia—Inability to Perform Rapid Alternating Movements.•In cerebellar lesions, the motor control system fails to predict where the different parts of thebody will be at a given time. As a result, the succeeding movement may begin much too early ormuch too late and no orderly \"progression of movement” can occur.•• So, a series of stalled attempted but jumbled movements occurs instead of the normalcoordinated movements. This condition is called dysdiadochokinesia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 15,
+      "question": "The patient exhibited an unsteady \"drunk like\" gait and the physician noted that he swayedwhile entering the examination room. Which region of the cerebellum was most likelyaffected by the bleed?",
+      "options": {
+        "A": "Flocculonodular Lobe",
+        "B": "Spinocerebellum",
+        "C": "Cerebrocerebellum",
+        "D": "Superior Vermis"
+      },
+      "correct_answer": "A",
+      "explanation": "Flocculonodular Lobe is involved in the unsteady \"drunk like\" gait of the patient.Cerebellum has three parts based on function.• Vestibulocerebellum (or flocculonodular lobe): The oldest part of the cerebellum which containsnodulus in the vermis and the flanking flocculus. It has vestibular connections and is concernedwith equilibrium and gait. Loss of it can cause disturbance of equilibrium and posturalmovements, especially during rapid movements.•• Spinocerebellum: The region that receives proprioceptive input from the body as well as a copyof the \"motor plan\" from the motor cortex. By comparing the plan with performance, it smoothsand coordinates movements that are ongoing. Superior vermis is a part of spinocerebellum. Lossof it can cause problems with coordination.⚫ Cerebrocerebellum: They are the newest from a phylogenetic point of view, reaching theirgreatest development in humans. They interact with the motor cortex in planning andprogramming movements.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 16,
+      "question": "The efferent fibres of the basal ganglia include which of the following?",
+      "options": {
+        "A": "1, 2",
+        "B": "1, 4",
+        "C": "1, 2, 4",
+        "D": "1, 2, 3, 4"
+      },
+      "correct_answer": "B",
+      "explanation": "The two major outputs/ efferents of the basal ganglia are from Globus pallidus interna andsubstantia nigra pars reticulata. Both are inhibitory (GABAergic) and both project to theventrolateral and ventroanterior thalamus.303Putamen circuit through the basal gangliaPrefrontalVentroanterior andventrolateral nucleiof thalamusSubthalamusPremotor andsupplementalPrimarymotorSubstantia nigraCaudateGlobus pallidusinternal and externalMARROWSomatosensoryPutamen",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_01159052.jpeg",
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following describes a connection between components of the basal ganglia?",
+      "options": {
+        "A": "The subthalamic nucleus releases glutamate to excite the globus pallidus, internal segment.",
+        "B": "The substantia nigra pars reticulata releases dopamine to excite the globus pallidus, externalsegment.",
+        "C": "The striatum releases acetylcholine to excite the substantia nigra pars reticulata.",
+        "D": "The globus pallidus, external segment releases glutamate to excite the striatum.294"
+      },
+      "correct_answer": "A",
+      "explanation": "Intranuclear Connections:• Dopaminergic nigrostriatal projection from the substantia nigra pars compacta to the striatum.GABAergic projection from the striatum to substantia nigra pars reticulata..• There is an inhibitory (GABAergic) projection from the striatum to both GPe and GPi.• The subthalamic nucleus receives an inhibitory input from GPe, and in turn the subthalamicnucleus has an excitatory (glutamate) projection to both GPe and GPi.• From the ventrolateral thalamus, there is an excitatory (presumably glutamate) projection to theprefrontal and premotor cortex. This completes a full cortical-basal ganglia-thalamic-cortical loop.Putamen circuit through the basal gangliaPrefrontalMVentroanterior andventrolateral nucleiof thalamusSubthalamusPremotor andsupplementalPrimarymotorSubstantia nigraCaudateGlobus pallidusinternal and externalMARROWSomatosensoryPutamen304",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp17_img1_c94744ed.jpeg",
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is false regarding the functions of basal ganglia ?",
+      "options": {
+        "A": "Neurons in the basal ganglia, like those in the lateral portions of the cerebellar hemispheres,discharge before movements begin.",
+        "B": "The putamen circuit has its inputs mainly from the parts of the brain adjacent to the primarymotor cortex but not much from the primary motor cortex itself.",
+        "C": "The caudate nucleus plays a major role in this cognitive control of motor activity.",
+        "D": "Substantia nigra pars reticulata is a major source of dopaminergic neurons to the corpusstriatum."
+      },
+      "correct_answer": "D",
+      "explanation": "Substantia nigra pars compacta (not pars reticulata) is the major source of dopaminergic neuronsto the striatum.Neurons in the basal ganglia, like those in the lateral portions of the cerebellar hemispheres,discharge before movements begin since the basal ganglia are involved in the planning andorganization of skilled movements.• The putamen circuit has its inputs mainly from the parts of the brain adjacent to the primarymotor cortex. Then its outputs do go mainly back to the primary motor cortex and adjacentpremotor cortex. it is mainly involved in complex motor activity and skilled movement.•The caudate circuit plays a major role in the cognitive control of motor activity.Putamen circuit through the basal gangliaPrefrontalMVentroanterior andventrolateral nucleiof thalamusSubthalamusPremotor andsupplementalCaudateSubstantia nigraGlobus pallidusPrimarymotorinternal and externalMARROWSomatosensoryPutamenCaudate circuit through the basal gangliaPrefrontalVentroanterior andventrolateral nucleiof thalamusSubthalamusPrimaryPremotor andsupplementalmotorSubstantia nigraCaudateGlobuspallidusinternaland externalOMARROWSomatosensoryPutamen305",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_4f5e6033.jpeg",
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 19,
+      "question": "In a patient suffering from parkinsons's disease, what is the most likely reason behind thegradual decline in the therapeutic effect of L-dopa?",
+      "options": {
+        "A": "Antibodies to dopamine receptors develop.",
+        "B": "Inhibitory pathways grow into the basal ganglia from the frontal lobe.",
+        "C": "There is an increase in circulating ° -synuclein.",
+        "D": "The dopaminergic neurons in the substantia nigra continue to degenerate."
+      },
+      "correct_answer": "D",
+      "explanation": "The most likely reason behind the gradual decline in the therapeutic effect of L-dopa in a patientsuffering from parkinsons's disease is the continued degeneration of the dopaminergic neurons inthe substantia nigra. Since endogenous production of dopamine continues to decline,the exogenous source of dopamine (i.e. L-dopa) alone fails to maintain the same level oftherapeutic effect.•Parkinson's disease (Paralysis Agitans) was shown to result from the degeneration ofdopaminergic neurons in the substantia nigra pars compacta. The fibres to the putamen (part ofthe striatum) are most severely affected.•• Dopaminergic neurons and dopamine receptors are steadily lost with age in the basal ganglia inhealthy individuals, and an acceleration of these losses apparently precipitates parkinsonism.Symptoms appear when 60-80% of the nigrostriatal dopaminergic neurons degenerate.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    },
+    {
+      "q_no": 20,
+      "question": "A 50-year-old gentleman who is a known patient of parkinson's disease, developsrefractoriness to L-dopa therapy. An alternative treatment modality is being planned, whichemploys ablation of certain thalamic regions by neurosurgery. Which thalamic nucleus is thestereotaxic target for the neurosurgeons?",
+      "options": {
+        "A": "Centromedian",
+        "B": "Ventrolateral",
+        "C": "Ventroposterolateral",
+        "D": "Ventromedial"
+      },
+      "correct_answer": "B",
+      "explanation": "The ventrolateral thalamic nucleus is the stereotaxic target for the neurosurgeons to alleviatesymptoms in Parkinson's disease refractory to levodopa.•The two major outputs of the basal ganglia are from GPi and substantia nigra pars reticulata.Both are inhibitory (GABAergic) and both project to the ventrolateral and ventroanteriorthalamus. From the thalamus, there is an excitatory (presumably glutamate) projection to theprefrontal and premotor cortex. This completes a full cortical-basal ganglia-thalamic-cortical loop.Therefore stereotactic ablation of ventrolateral thalamic nucleus helps in alleviation of symptomsin parkinson's disease refractory to levodopa.306",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Motor Physiology - 2"
+    }
+  ]
+}

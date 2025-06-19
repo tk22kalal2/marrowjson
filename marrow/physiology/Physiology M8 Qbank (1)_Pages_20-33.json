@@ -1,0 +1,320 @@
+{
+  "chapter": "Cellular messengers & Receptors",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is an example of a polypeptide hormone?",
+      "options": {
+        "A": "Parathormone",
+        "B": "Adrenaline",
+        "C": "Cortisol",
+        "D": "Thyroxine"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 2,
+      "question": "Which hormone crosses the plasma membrane for its action?",
+      "options": {
+        "A": "Epinephrine",
+        "B": "Thyroxine",
+        "C": "Glucagon",
+        "D": "Insulin"
+      },
+      "correct_answer": "B",
+      "explanation": "Thyroxine crosses the plasma membrane for its action.Thyroid hormones enter the nucleus and bind to thyroid hormone receptors. Thehormone-receptor complex in the nucleus binds to DNA via zinc fingers. This increases theexpression of a variety of different genes that code for proteins regulating cell function. Althoughthyroxine is an AA derivative, there are transporters to move it into the cell, hence they areintracellular receptors acting on the nucleus.Epinephrine, glucagon, and insulin bind to cell surface receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following hormone is not stored before release?",
+      "options": {
+        "A": "Insulin",
+        "B": "Cortisol",
+        "C": "Thyroxine",
+        "D": "Renin"
+      },
+      "correct_answer": "B",
+      "explanation": "26Cortisol is not stored before release.Usually, the polypeptide and protein hormones such as insulin, thyroxine or renin are stored insecretory vesicles before release. They are synthesized as much larger polypeptide chains(preprohormones) that are biologically inactive and then processed intracellularly by specificproteases to yield the final hormone molecule which is stored in the secretory vesicle until needed.On the other hand, steroid hormones such as cortisol are synthesised as needed and are notstored. They are lipid soluble and easily diffuse across cell membrane to enter the interstitial fluidand then blood.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 4,
+      "question": "Downregulation of receptors occurs due to all except",
+      "options": {
+        "A": "Inactivation of receptor",
+        "B": "Internalisation",
+        "C": "Desensitisation20",
+        "D": "Decreased level of stimulating hormone"
+      },
+      "correct_answer": "",
+      "explanation": "Downregulation of receptors occurs due to internalisation, inactivation of receptors ordesensitisation.A decrease in the level of stimulating hormones generally leads to an increase in the level of activereceptors. This is called upregulation of receptors.On the other hand, an increase in the level of stimulating hormones generally leads to a decreasein the level of active receptors. This is called downregulation of receptors.Downregulation of receptors can occur by one of the following mechanisms:•• Desensitisation - Receptors undergo chemical modifications that make them less responsive.• Internalisation - It is the temporary sequestration of the cell membrane receptors to the inside ofthe cell, away from the action of hormones. Following internalisation, the receptors are eitherdestroyed or recycled.•Inactivation of receptors.• Decreased production of receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 5,
+      "question": "Receptors on cell membrane that activate ion channel after binding with agonists are",
+      "options": {
+        "A": "Nicotinic cholinergic",
+        "B": "Muscarinic cholinergic",
+        "C": "Opioid μ receptors",
+        "D": "GABAB receptors"
+      },
+      "correct_answer": "D",
+      "explanation": "Nicotinic cholinergic receptors activate an ion channel after binding with its agonist. Thesereceptors are called ligand-gated channels or ionotropic receptors.Receptors for neurotransmitters are classified into two broad families based on structure andfunction. They are:•Ligand-gated channels (Ionotropic receptors)• When bound to these receptors, a membrane channel is opened leading to a brief increase inionic conductance.•Important for fast synaptic transmission.•Examples GABAA, GABAC, Nicotinic cholinergic, Glycine and Serotonin (5HT3 subtype).-• G-protein coupled receptors (Metabotropic receptors)27• When bound to these receptors, secondary messengers are released that modulate voltage-gatedchannels on neuronal membranes.• Examples - GABAB, Muscarinic cholinergic, Catecholamines, Serotonin (all subtypes except5HT3) and opioid receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 6,
+      "question": "Adrenaline, noradrenaline and dopamine act through",
+      "options": {
+        "A": "1 pass receptor",
+        "B": "2 pass receptor",
+        "C": "4 pass receptor",
+        "D": "7 pass receptor"
+      },
+      "correct_answer": "",
+      "explanation": "Adrenaline, noradrenaline and dopamine act through a 7 pass receptor called G-protein coupledreceptor (GPCR).The catecholamines act through GPCRs which are cell membrane receptors that span across themembrane 7 times hence called seven helix or serpentine receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following statements is true about the G-protein-coupled receptor (GPCR)?",
+      "options": {
+        "A": "G proteins bind to hormones on the surface of the nucleus.",
+        "B": "All the three subunits °, ẞ, and ■ should bind to each other for G proteins to act.",
+        "C": "G proteins act as inhibitory or excitatory because of differences in ° subunit.",
+        "D": "G protein is bound to GTP in resting state."
+      },
+      "correct_answer": "D",
+      "explanation": "G proteins act as inhibitory or excitatory because of differences in ° subunit.G protein-coupled receptors (GPCRs) are cell membrane receptors that span across the membrane7 times hence called seven helix or serpentine receptors.G proteins have 3 subunits (°,ẞ and ■). In its resting state, 。 subunit is bound to GDP.Upon ligand binding to GPCR, it undergoes a conformational change that activates G proteinwithin the cell. The subunit dissociates and in turn alters the activity of second messengers suchas CAMP, cGMP or Ca2+.Once the ligand is unbound, the intrinsic GTPase activity of the ° subunit converts GTP to GDP.This leads to reassociation of ° with the ẞ-■ subunit and termination of effector activation.G protein-coupled receptors-Receptor-LigandMAGDPG protein(inactive)ROBG protein(active)GTPCell responseOMARROW28",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp7_img1_d6e0b9e7.jpeg",
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 8,
+      "question": "○Action of subunit of G protein is",
+      "options": {
+        "A": "Breakdown of GTP to GDP",
+        "B": "Conversion of GDP to GTP",
+        "C": "Internalization of receptors",
+        "D": "Binding of agonist21"
+      },
+      "correct_answer": "",
+      "explanation": "The action of subunit of G protein is the breakdown of GTP to GDP as it has an intrinsic GTPaseactivity.Guanine exchange factors (GEFs) convert GDP to GTP by nucleotide exchange.G proteins can be either stimulatory (GS) or inhibitory (Gi) with respect to the production of the2nd messenger cAMP by the enzyme adenylyl cyclase. Stimulatory or inhibitory activity resides inthe subunit.• Cholera toxin acts on ° subunit of GS• Pertussis toxin acts on ° subunit of GiExtracellularfluidCytoplasmHormoneBGTPAdenylylcyclaseCAMPATPActive CAMPdependentprotein kinaseInactiveCAMPdependentproteinkinaseProtein - PO4 + ADPProtein + ATPCell's Response",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_bc281e96.jpeg",
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 9,
+      "question": "PDGF acts through which of the following signaling pathways?",
+      "options": {
+        "A": "CAMP",
+        "B": "IP3-DAG",
+        "C": "cGMP",
+        "D": "Tyrosine kinase"
+      },
+      "correct_answer": "D",
+      "explanation": "PDGF (platelet-derived growth factor) acts through the activation of tyrosine kinases.All growth factors that foster the multiplication or development of various types of cells actthrough the activation of tyrosine kinases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 10,
+      "question": "Which hormone acts on JAK-STAT kinase receptor?",
+      "options": {
+        "A": "TSH",
+        "B": "Thyroxine",
+        "C": "GH",
+        "D": "FSH"
+      },
+      "correct_answer": "C",
+      "explanation": "Growth hormone acts on JAK-STAT receptors.Janus tyrosine kinase receptors (JAK-STAT) serves as receptors for:• Growth hormone• Prolactin• Erythropoietin29•⚫ LeptinThyroxine acts on nuclear receptors. TSH and FSH act on G protein-coupled receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 11,
+      "question": "All of the following act through cell surface receptors except",
+      "options": {
+        "A": "Cortisol",
+        "B": "Insulin",
+        "C": "FSH",
+        "D": "TSH"
+      },
+      "correct_answer": "A",
+      "explanation": "Cortisol is a steroid hormone and acts on an intracellular (cytoplasmic) receptor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 12,
+      "question": "Steroid hormone receptors have an attachment site for all except",
+      "options": {
+        "A": "Steroid hormone",
+        "B": "Transcription repressors",
+        "C": "Hormone-responsive element",
+        "D": "Transcription activators22"
+      },
+      "correct_answer": "B",
+      "explanation": "Steroid hormone receptors have an attachment site for steroid hormone, hormone-responsiveelement, and transcription activators, but not transcription repressors.Transcription repressors are proteins that bind to specific sites on DNA and prevent transcriptionof nearby genes.Mechanism of action ofsteroid hormonesSteroid hormone diffuses across the cell membraneand binds to its cytoplasmic receptorHormone-receptor complex diffuses into or istransported into the nucleusHormone-receptor complex binds to the specifichormone response element activating thetranscription machinery including attachmentof transcription activators↑ Transcription→↑mRNA↑ Translation → new proteinsPhysiologic effectsMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp12_img1_3778cc06.jpeg",
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 13,
+      "question": "True statement about second messengers is",
+      "options": {
+        "A": "Are substances that interact with first messengers outside cells.",
+        "B": "Mediate the intracellular responses to many different hormones and neurotransmitters",
+        "C": "Are hormones secreted by cells in response to stimulation by another hormone",
+        "D": "Are substances that bind to first messengers in the cell membrane."
+      },
+      "correct_answer": "B",
+      "explanation": "Second messengers mediate the intracellular responses to many different hormones andneurotransmitters.Cell surface receptors are substances that interact with the first messengers which are hormonesand neurotransmitters.The second messengers are the intracellular signalling molecules. They bring about manyshort-term changes in cell function by altering enzyme function, triggering exocytosis, and otherphysiological effects. They can also lead to the alteration of transcription of various genes (longterm effect).30Examples of second messengers are cAMP, cGMP, Ca2+ and IP3-DAG (Inositol triphosphate anddiacylglycerol).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 14,
+      "question": "Which one of the following acts as a second messenger?",
+      "options": {
+        "A": "Mg2+",
+        "B": "Cl-",
+        "C": "Ca2+",
+        "D": "PO43-"
+      },
+      "correct_answer": "",
+      "explanation": "Among the following calcium (Ca2+) acts as a second messenger.Increased cytoplasmic Ca2+ binds to and activates calcium-binding proteins (calmodulin,troponin) or activate protein kinases (or phospholipase C) to bring about physiological effects.Cytoplasmic Ca2+ is increased by:•• Direct entry of Ca2+ from the ECF through Ca2+ channels that could be ligand-gated,voltage-gated or stretch-activated (mechanically gated).• Mobilisation of Ca2+ that are stored in high concentrations in the endoplasmic reticulum byother second messengers such as IP3-DAG (Inositol triphosphate and diacylglycerol).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 15,
+      "question": "A primigravida with 38 completed weeks of gestation has gone into labor. Oxytocin wasstarted to augment labor. The second messenger system through which oxytocin acts is",
+      "options": {
+        "A": "CAMP",
+        "B": "Phospholipase c",
+        "C": "cGMP",
+        "D": "Tyrosine kinase"
+      },
+      "correct_answer": "B",
+      "explanation": "The second messenger system through which oxytocin acts is the phospholipase C system.It activates the enzyme phospholipase C which breaks down some phospholipids in the cellmembrane into IP3 (phosphoinositol triphosphate) and DAG (diacylglycerol). DAG then activatesprotein kinase C and IP3 mobilises Ca2+ from mitochondria and endoplasmic reticulum to bringabout smooth muscle contraction and other cellular responses.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 16,
+      "question": "CAMP is the exclusive second messenger for all the following except",
+      "options": {
+        "A": "Corticotropin",
+        "B": "Dopamine",
+        "C": "Glucagon",
+        "D": "Vasopressin23"
+      },
+      "correct_answer": "D",
+      "explanation": "Vasopressin does not use cAMP exclusively.Vasopressin (ADH) acts on at least 3 kinds of receptors: V1A, V1B and V2• All the 3 are G-protein coupled receptors• V1A and V1B receptors (Gq) act through IP3 as a second messenger, to increase the intracellularcalcium concentration•• V2 receptors (Gs) use cAMP as a second messengerCAMP is the exclusive second messenger for dopamine, corticotropin and glucagon.Dopamine has 5 receptors (D1, D2, D3, D4, D5)•all use cAMP as second messengers• D1, D5 act by increasing cAMP• D2, D3, D4 act by decreasing cAMP31",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 17,
+      "question": "CGMP is the second messenger of",
+      "options": {
+        "A": "Somatostatin",
+        "B": "Angiotensin II",
+        "C": "ADH",
+        "D": "NO (nitric oxide)"
+      },
+      "correct_answer": "D",
+      "explanation": "Vasodilatory actions of NO are mediated by cGMP.NO is a hormone derived from the amino acid arginine. It activates guanylyl cyclases in vascularsmooth muscle cells resulting in the conversion of CGTP to cGMP (2nd messenger). cGMPactivates cGMP dependent protein kinase, which causes blood vessels to relax.CGMP is the second messenger for nitric oxide and atrial natriuretic factor.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q17_img1_0554460d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is not a second messenger?",
+      "options": {
+        "A": "Guanylyl cyclase",
+        "B": "CAMP",
+        "C": "IP3",
+        "D": "DAG"
+      },
+      "correct_answer": "A",
+      "explanation": "Guanylyl cyclase is the enzyme that catalyzes the formation of cGMP. It is cGMP that acts as thesecond messenger.CAMP, IP3 and DAG are all second messengers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 19,
+      "question": "Activation of protein kinase C causes_",
+      "options": {
+        "A": "Increased adenylyl cyclase",
+        "B": "Phosphorylation of proteins",
+        "C": "Increased CAMP",
+        "D": "Increased ion channel conduction"
+      },
+      "correct_answer": "B",
+      "explanation": "Activation of protein kinase C causes phosphorylation of proteinsCellular Phosphorylation is under the control of two groups of proteins:• Kinases• enzymes that catalyse the phosphorylation of tyrosine or serine residues in protein•••Example- Protein Kinase A, Protein Kinase C, Ca2+/Calmodulin Kinase· Phosphatases⚫ that catalyses the dephosphorylation of tyrosine or serine residues in the proteinKinases play important roles in regulating cellular physiology, including cell growth and celldeath. Philadelphia chromosome, t(9:22) or the bcr-abl fusion gene codes for an abnormal kinasethat leads to chronic myeloid leukaemia (CML). The drug imatinib was developed to block thetyrosine kinase activity of bcr-abl protein and is an effective treatment option for CML.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 20,
+      "question": "A 7-year-old girl presents with skin lesions as shown in the image. The parents also complainof early breast development, growth acceleration, and vaginal bleeding. On genetic studies, itwas found that there is a gain of function mutation of G Protein. What is the most probablediagnosis?24",
+      "options": {
+        "A": "Color blindness",
+        "B": "Hirschsprung disease",
+        "C": "McCune-Albright syndrome",
+        "D": "Familial hypothyroidism"
+      },
+      "correct_answer": "C",
+      "explanation": "Among the given options, the most probable diagnosis is McCune-Albright syndrome as it is theonly gain-of-function mutation of G Protein.G proteins or G protein-coupled receptor complexes can undergo a loss- or gain-of-functionmutation. Some examples are given below:In McCune-Albright syndrome, a gain-of-function mutation in Gs° is associated with therough-bordered areas of skin pigmentation and hypercortisolism. This mutation occurs duringfetal development, creating a mosaic of normal and abnormal cells.32ReceptorType of mutatiDiseaseonCone opsinLossRhodopsinLossEndothelin receptLossorTSH receptorLossTSH receptorGainColour blindnessNight blindness or retinitis pigmentosaHirschsprung diseaseFamilialhypothyroidismFamilialhyperthyroidismLH receptorGainFamilial male precocious pubertyGsproteinGainPituitary adenomas with acromegalyGsproteinGain (mosaic)McCune-Albright syndrome",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q20_img1_8163ac5f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    },
+    {
+      "q_no": 21,
+      "question": "Nuclear signalling pathways are all except",
+      "options": {
+        "A": "Caveolins",
+        "B": "NF-kB",
+        "C": "Importins",
+        "D": "Rat proteins"
+      },
+      "correct_answer": "D",
+      "explanation": "Rat proteins are not nuclear signalling pathways. Recombinant rat IFN- is a bioactive proteinintended for use in cell culture applications.Importin:•Transporting protein molecules into nucleus by binding to specific recognition sequences, calledNuclear Localization Sequences (NLS).• 2 subunits, importin° and importin ẞ.Caveolins:••Family of integral membrane proteins that are principal components of caveolae membranes•Involved in receptor-independent endocytosis.• Acts as scaffolding proteins within caveolar membranes by compartmentalizing andconcentrating signaling molecules.NF-kB•Part of a prototypical proinflammatory signaling pathway• based on the role of NF-κB in the expression of proinflammatory genes including cytokines,chemokines, and adhesion molecules33",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cellular messengers & Receptors"
+    }
+  ]
+}

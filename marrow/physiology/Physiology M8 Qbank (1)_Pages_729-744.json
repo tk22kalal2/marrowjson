@@ -1,0 +1,320 @@
+{
+  "chapter": "The Adrenals",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following hormones is secreted by the zona glomerulosa?",
+      "options": {
+        "A": "Aldosterone",
+        "B": "Testosterone",
+        "C": "Cortisol",
+        "D": "Epinephrine"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is not required for the formation of estradiol?",
+      "options": {
+        "A": "Lyase",
+        "B": "11ẞ hydroxylase",
+        "C": "Aromatase",
+        "D": "Hydroxysteroid dehydrogenase"
+      },
+      "correct_answer": "",
+      "explanation": "11ẞ hydroxylase is not required for estradiol synthesis.11ẞ hydroxylase is required for the conversion of 11-deoxycorticosterone to corticosterone, acompound formed in the mineralocorticoid synthesis pathway.Synthesis of Sex SteroidsCholesterolCholesterol demolase(theca cells)LHODDFroomenoloneProgesterone3 ẞ-hydroxysteroid dehydrogenase17 a-hydroxylase17-hydroxypregnenolone17,20-lyaseSulfotransferaseDehydroepiandrosteronesulfate (DHEA-S)Dehydroepiandrosterone(DHEA)3 ẞ-hydroxysteroiddehydrogenaseAndrostenedione17 B-hydroxysteroiddehydrogenase (granulosa cells)TestosteroneLHOAromatase(granulosa cells)17 B-estradiolOMARROW735",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_db1e7f32.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is statements is false?",
+      "options": {
+        "A": "90% of the cortisol is bound to plasma proteins",
+        "B": "Cortisol has a half-life of 60-90 minutes.",
+        "C": "Aldosterone has a half-life of about 20 minutes.",
+        "D": "80% of the aldosterone is bound to plasma proteins"
+      },
+      "correct_answer": "",
+      "explanation": "60% of aldosterone is bound to plasma proteins, not 80%.90% of cortisol is bound to plasma proteins. Most of it is bound to transcortin, acorticosteroid-specific ° 2 globulin, and the rest to albumin. This high degree of binding to plasmaproteins slows the elimination of cortisol. Therefore, cortisol has a longer half-life of 60 to 90minutes.Since only about 60% of aldosterone is in bound form, it has a relatively short half-life of about 20minutes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not an action of cortisol?",
+      "options": {
+        "A": "Stimulates gluconeogenesis",
+        "B": "↑ protein catabolism",
+        "C": "Stimulates lipolysis729",
+        "D": "↑ number of T-lymphocytes"
+      },
+      "correct_answer": "B",
+      "explanation": "Cortisol suppresses the proliferation of T-lymphocytes and decreases the number ofT-Lymphocytes.Actions of Cortisol:Metabolic effects:• Effect on carbohydrates: Exert an anti-insulin effect, leading to hyperglycemia• Increases gluconeogenesis•Increases glycogen synthesis••• Decreases utilization of glucose in peripheral tissues• Effect on fat and appetite: promotes mobilization of fatty acids from adipose tissue in acutestates. This mobilization increases the concentration of free fatty acids in the plasma, which alsoincreases their utilization for energy, causing lipolysis. However, in chronic states cortisolincreases appetite and food intake by inducing the synthesis of neuropeptide-Y which leads to anapparent lipogenic effect seen as buffalo humping and central obesity.• Effect on protein: Exerts a catabolic effect and causes proteolysis• Effect on water and electrolytes: Sodium water retention and diuresisAnti-inflammatory and immunosuppressive effects:• Induce the synthesis of lipocortin, an inhibitor of phospholipase A2• Inhibit the release of histamine and serotonin• Inhibit the production of IL-2 and T lymphocytes, and depress cellular immunityMaintenance of vascular responsiveness to catecholamines:• Cortisol up-regulates ° 1 receptors on arterioles, increasing their sensitivity to the vasoconstrictoreffect of norepinephrine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 5,
+      "question": "All of the following conditions increase cortisol except",
+      "options": {
+        "A": "Surgery",
+        "B": "Infection",
+        "C": "Heat stroke",
+        "D": "Sleep"
+      },
+      "correct_answer": "D",
+      "explanation": "736Cortisol secretion is low during sleep.Any type of stress, physical or mental, can increase cortisol release.Diurnal variation of cortisol sectretionCortisol concentration(μg/100ml)2015105TM012:00 4:00 8:0012:004:008:00 12:00AM--PM-NoonOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_e1ac01f1.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 6,
+      "question": "A 60-year-old man is being treated for severe COVID with dexamethasone. Which of thefollowing mechanisms best explain the rationale for starting steroids in this patient?",
+      "options": {
+        "A": "Inhibition of phospholipase A2",
+        "B": "Inhibition of cyclo-oxygenase",
+        "C": "↑ activity of lipoprotein lipase",
+        "D": "Inhibition of lipoxygenase"
+      },
+      "correct_answer": "A",
+      "explanation": "Inhibition of phospholipase A2 is an anti-inflammatory effect of steroids, thus being the rationalefor starting steroids in this patient.Patients with severe COVID are at high risk of developing a systemic inflammatory response.Steroids help in mitigating these deleterious effects.Phospholipase A2 is a precursor of arachidonic acid. Arachidonic acid is the precursor forprostaglandins and leukotrienes, which are involved in inflammation. Steroids induce thesynthesis of lipocortin, which inhibits phospholipase A2.Other anti-inflammatory and immunosuppressive effects of steroids are:• Inhibit the production of interleukin-2 (IL-2) and proliferation of T lymphocytes•Inhibit the release of histamine and serotonin from mast cells and platelets",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following effects is produced only at high levels of glucocorticoids?",
+      "options": {
+        "A": "Maintenance of normal vascular reactivity",
+        "B": "Increased excretion of a water load",
+        "C": "Inhibition of the inflammatory response",
+        "D": "Increased differentiation of adipose tissue"
+      },
+      "correct_answer": "C",
+      "explanation": "Inhibition of inflammatory response requires high levels of glucocorticoids.Anti-inflammatory and anti-allergic responses (inhibition of histamine from mast cells andbasophils) are produced only at high levels of glucocorticoids. These effects cannot be produced bynormal circulating glucocorticoids in the body and thus require exogenous supplementation ofsteroids to produce them.737",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 8,
+      "question": "ACTH level is higher during_",
+      "options": {
+        "A": "Morning",
+        "B": "Evening",
+        "C": "Afternoon730",
+        "D": "Night"
+      },
+      "correct_answer": "",
+      "explanation": "ACTH level is higher during the early morning and low during late evening. 75% of the ACTHproduction occurs between 4:00 AM to 10:00 AM.Note: Cortisol levels are also high in the early morning and low in the late evening.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 9,
+      "question": "ACTH secretion is inhibited by",
+      "options": {
+        "A": "Aldosterone",
+        "B": "Epinephrine",
+        "C": "Glucocorticoid",
+        "D": "CRH"
+      },
+      "correct_answer": "",
+      "explanation": "Glucocorticoids inhibit ACTH secretion by a direct negative feedback mechanism. They alsoinhibit CRH secretion.Hypothalamo-Pituitary-Adrenal AxisEmotionsStress stimuliDiurnal variation rhythm disturbancesHypothalamusCRHAnterior PituitaryACTHAdrenal cortexGlucocorticoidsMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp9_img1_cbce10b2.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 10,
+      "question": "Aldosterone secretion is maximally stimulated by.",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "ACTH",
+        "C": "Hypernatremia",
+        "D": "Exogenous steroid"
+      },
+      "correct_answer": "A",
+      "explanation": "Hyperkalemia and activation of renin-angiotensin system are the most potent stimulators ofaldosterone secretion.738Regulation of AldosteroneSecretion of renin(from the juxtaglomerularcells of afferent arterioles)Angiotensinogen(produced by the liver)ReninMARRACTH(direct stimulation)Mild andtransienteffectAngiotensin IAngiotensin-convertingenzyme (present in theendothelium of thelung vasculature)Angiotensin IIBinds to receptors in thezona glomerulosa cellsIncreasedaldosterone secretionIncreased plasmapotassium concentrationOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp10_img1_93e197a7.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 11,
+      "question": "Mineralocorticoid receptors are present in all except",
+      "options": {
+        "A": "Hippocampus",
+        "B": "Kidney",
+        "C": "Colon",
+        "D": "Liver"
+      },
+      "correct_answer": "D",
+      "explanation": "Mineralocorticoid receptors are not present in the liver. They are present in kidneys,colon, hippocampus, salivary glands, and sweat glands.Mineralocorticoid activity increases the reabsorption of Na+ and potassium excretion from urine,sweat, saliva, and contents of the colon. Along with the Na+, there is water reabsorption andinturn ECF volume expansion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 12,
+      "question": "In which of the following ways does aldosterone react with renal tubular cells?",
+      "options": {
+        "A": "Increases transport of ENaCs from the cytoplasm to the cell membrane",
+        "B": "Binds to steroid receptor inside the nucleus of renal tubular cells",
+        "C": "Binds to ENaC's on the cell membrane and increase Na+ transport",
+        "D": "Binds to G-protien coupled receptors on the cell surface731"
+      },
+      "correct_answer": "A",
+      "explanation": "Aldosterone increases transport of ENaCs (epithelial sodium channels) from the cytoplasm to thecell membrane. This is a rapid effect of aldosterone.Mechanism of action of aldosterone:• Aldosterone diffuses into the renal tubular epithelial cells and combines with a mineralocorticoidreceptor (MR) in the cytoplasm..•The aldosterone-receptor complex diffuses into the nucleus and induces transcription.The mRNA diffuses back into the cytoplasm and undergoes translation to form proteins. Thesehave two effects - Rapid and Slow.• The slower effect is increase in synthesis of ENaCs.• The important products formed are:• Na+K+ATPase• membrane transport proteins like epithelial sodium channel739Aldosterone mechanism of actionTubularlumenMNa+.PrincipalcellsRenalinterstitialfluidAldosteroneMRNucleusSpironolactoneATPXxx DNAwwwmRNAADPK+ProteinsENaCMitochondrialenzymesOMARROWNa+Na+-K+ ATPASE",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp12_img1_3475094d.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following has the greatest effect on plasma osmolality?",
+      "options": {
+        "A": "Progesterone",
+        "B": "Cortisol",
+        "C": "Vasopressin",
+        "D": "Aldosterone"
+      },
+      "correct_answer": "",
+      "explanation": "Vasopressin (also called ADH or anti-diuretic hormone) has the greatest effect on plasmaosmolality.Two primary systems are especially involved in regulating the concentration of sodium andosmolarity of extracellular fluid:• The osmoreceptor-ADH system and• The thirst mechanism.Although aldosterone decreases the rate of sodium excretion by the kidneys, the concentration ofsodium in the extracellular fluid rises only by a few mEqs. The reason for this is that when sodiumis reabsorbed by the tubules, simultaneous absorption of equivalent amounts of water occurs. So,aldosterone does not cause a significant change in the plasma osmolality.Osmoreceptor-antidiuretic hormone (ADH)feedback mechanismDehydration↑ Extracellular osmolarityStimulates osmoreceptors in the hypothalamus↑ Release of ADH form the posterior pituitary↑ Plasma ADH↑ Insertion of aquaporin – 2 in distal tubulesand collecting ducts↑ Water permeability in distal tubulescollecting ductsand↑ Water reabsorption↓ Urine formation/ ↓ Water excretedMARROW740",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp13_img1_6fef1a76.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 14,
+      "question": "A 30-year-old man is admitted with nausea, vomiting, and dizziness. On evaluation, he ishypotensive and has mucosal hyperpigmentation. Laboratory workup reveals the diagnosis ofhypoaldosteronism. Which of the following is least likely to be found in this patient?",
+      "options": {
+        "A": "Hyponatremia",
+        "B": "Hyperkalemia",
+        "C": "Hypotension",
+        "D": "Alkalosis"
+      },
+      "correct_answer": "D",
+      "explanation": "In a patient with hypoaldosteronism, alkalosis is least likely to be found. Hypoaldosteronism israther responsible for causing metabolic acidosis.Patients with hypoaldosteronism have:Hyponatremia- due to increased Na+ loss in urine•Hyperkalemia- due to K+ retention•• Hypotension- due to reduced ECF volume• Mild metabolic acidosis because hydrogen ions are not secreted in the urine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 15,
+      "question": "A 35-year-old female presents to the OPD with headaches and high blood pressure. Oninvestigation, increased aldosterone levels with low renin levels are seen and a diagnosis ofConn's syndrome is made. Which of the following is least likely to be found in this patient?",
+      "options": {
+        "A": "Slight increase in ECF volume",
+        "B": "Rise of &gt; 7meq/L in plasma Na+ level",
+        "C": "Hypertension",
+        "D": "Hypokalemia"
+      },
+      "correct_answer": "B",
+      "explanation": "Rise in plasma Na+ level of &gt; 7meq/L than the normal value is least likely to be found in thispatient.Excess secretion of aldosterone causes only a modest increase in plasma sodium, usually a rise ofless than 4-6 mEq/L. When sodium gets reabsorbed, water also accompanies it, resulting inplasma sodium remaining fairly normal.Conn's syndrome or primary hyperaldosteronism is due to an aldosterone-producing tumour ofthe zona glomerulosa, causing:• Loss of potassium by the kidneys leads to hypokalemia.• Mild metabolic alkalosis.• A slight increase in extracellular fluid volume and blood volume.• A modest increase in plasma sodium concentration.⚫ Hypertension.741TubularlumenConn's syndromeInterstitialfluidBloodK+Ho p p qMRNucleus†ENaC †Na-KATPaseNaAldosteronet(Na)(NaK+(NatNaK+-H₂OOMARROW",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following decreases aldosterone secretion?",
+      "options": {
+        "A": "Renin",
+        "B": "Hyperkalemia732",
+        "C": "ACTH",
+        "D": "Hypernatremia"
+      },
+      "correct_answer": "D",
+      "explanation": "Hypernatremia decreases aldosterone secretion.H₂ORegulation of AldosteroneSecretion of renin(from the juxtaglomerularcells of afferent arterioles)Angiotensinogen(produced by the liver)ReninMARRACTH(direct stimulation)Metabolicalkalosis-Loss of HHypokalemia-Loss of K-+Plasma levelsof potassiumHypernatremia-+PressureAngiotensin IAngiotensin-convertingenzyme (present in theendothelium of thelung vasculature)Angiotensin IIMild andtransienteffectBinds to receptors in thezona glomerulosa cellsIncreasedaldosterone secretionIncreased plasmapotassium concentrationOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_37916593.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 17,
+      "question": "Hormones that are increased in plasma during periods of stress include all of the followingexcept",
+      "options": {
+        "A": "Glucocorticoids",
+        "B": "Endorphins",
+        "C": "Vasopressin",
+        "D": "Insulin"
+      },
+      "correct_answer": "",
+      "explanation": "Insulin does not increase during stress.In response to stress, the usual physiological functions like gluconeogenesis, lipolysis, andinhibition of insulin actions occurs, resulting in increased blood levels of fuel sources (glucose,fatty acids) needed to cope.742Hormones that are increased in the blood by stress are CRH, ACTH, cortisol, ẞ-endorphin(toreduce pain), vasopressin, aldosterone, growth hormone, and glucagon.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is the major adrenal androgen?",
+      "options": {
+        "A": "Testosterone",
+        "B": "Androstenedione",
+        "C": "Dehydroepiandrosterone",
+        "D": "Cortisol"
+      },
+      "correct_answer": "D",
+      "explanation": "Dehydroepiandrosterone (DHEA) is the major adrenal androgen.The androgens secreted from the adrenal gland are dehydroepiandrosterone andandrostenedione.Adrenal hormone synthesisCholesterolCholesteroldesmolase(P450 scc)170-Hydroxylase(P450 c17)17, 20 Lyase(P450 c17)Freon nalone3ẞ-Hydroxysteroiddehydrogenase17-Hydroxy-pregnenolone3ẞ-Hydroxysteroiddehydrogenase17a-Hydroxylase(P450 c17)Progesterone17-Hydroxy-progesteroneAldosteroneDehydroepl-androsterone3ẞ-Hydroxysteroiddehydrogenase17.20 Lyase(P450 c17)21ẞ-Hydroxylase(P450 021)11-Deoxycortisol11ẞ-Hydroxylase(P450 c21)CortisolAndrostened-lone(Glomerulosa zona)(Fasciculata and reticularis zonalMitochondrionCytoplasmMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp18_img1_60d28c6f.jpeg",
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 19,
+      "question": "A 16-year-old female patient presents to the OPD with hirsutism and masculinization. Whichof the following hormones of the adrenal cortex is the likely culprit?",
+      "options": {
+        "A": "Dehydroepiandrosterone",
+        "B": "Aldosterone",
+        "C": "Cortisol",
+        "D": "Epinephrine"
+      },
+      "correct_answer": "A",
+      "explanation": "Hirsutism and masculinization in a female suggest excessive androgens likedehydroepiandrosterone (DHEA).Adrenogenital syndrome is due to an adrenocortical tumor secreting excessive quantities ofandrogens that cause intense masculinizing effects. In boys, it presents as precocious puberty. Inwomen, virile characteristics develop, including:• Growth of a beard• Deeper voice•⚫ Masculine distribution of hair on the body and the pubis and• Growth of the clitorisThe excretion of 17-ketosteroids (which are derived from androgens) in the urine maybe 10 to 15times elevated. This finding can be used in diagnosing the disease.743",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is not directly controlled by ACTH?",
+      "options": {
+        "A": "Glucocorticoids733",
+        "B": "Androstenedione",
+        "C": "Dehydroepiandrosterone",
+        "D": "Epinephrine"
+      },
+      "correct_answer": "D",
+      "explanation": "The secretion of the adrenal medullary hormones (epinephrine, norepinephrine, and dopamine) isnot controlled directly by ACTH.Hormones secretedRegulated byZona glomerulosaMineralocorticoids (aldostero Angiotensin II, K+, ACTH (mne)ild transient effect)Zona fasiculataGlucocorticoids (cortisol, cortACTHicosterone)Zona reticulariSex steroids (DHEA, DHEA-S) ACTHSAdrenal medullaCatecholamines (epinephrine, Diffuse sympathetic dischargnorepinephrine)e(stress)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following hormones is exclusively secreted by adrenal gland but not by theovaries of females?",
+      "options": {
+        "A": "Progesterone",
+        "B": "DHEA",
+        "C": "Estrogen",
+        "D": "DHEA-S"
+      },
+      "correct_answer": "D",
+      "explanation": "DHEAS is exclusively secreted from the adrenals but not by ovaries because ovaries lack theenzyme dehydroepiandrosterone-sulphotransferase needed to form DHEAS.90% of DHEA is synthesised by the adrenals and 10% comes from the ovaries.744",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "The Adrenals"
+    }
+  ]
+}

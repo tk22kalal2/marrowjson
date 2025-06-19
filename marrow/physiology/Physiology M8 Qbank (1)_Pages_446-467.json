@@ -1,0 +1,455 @@
+{
+  "chapter": "Regulation of Respiration",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Where is the pneumotaxic center located?",
+      "options": {
+        "A": "Pons",
+        "B": "Midbrain",
+        "C": "Medulla",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "A",
+      "explanation": "The pneumotaxic center is located in the pons.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp1_img1_17730481.jpeg",
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 2,
+      "question": "Pacemaker generating the rhythm for breathing is",
+      "options": {
+        "A": "Pneumotaxic centre",
+        "B": "Dorsal group of neurons in the medulla",
+        "C": "Pre-Botzinger complex",
+        "D": "Apneustic centre"
+      },
+      "correct_answer": "C",
+      "explanation": "Pre-Botzinger complex generates the rhythm for automated breathing. These are also known as pacemaker cells located in the medulla. These are the first set of neurons that initiate inspiration. These neurons discharge rhythmically, and they produce rhythmic discharges in the phrenic motor neurons. Breathing is under the control of both the following: Voluntary control: Located in the cerebral cortex (via corticospinal tract). Automatic control: Driven by pacemaker cells in the medulla (Pre-Botzinger complex). These activate motor neurons via cervical (Phrenic nerve innervating diaphragm) and thoracic spinal cord (external intercostal muscle). There is a reciprocal innervation to expiratory and inspiratory muscles in that motor neurons supplying expiratory muscles are inactive when motor neurons supplying inspiratory muscles are active, and vice versa. Inspiration Initiation: Pre-Botzinger complex (Pacemaker cells) in Medulla. Maintenance: Apneustic center in lower Pons stimulates Dorsal group of neurons in the medulla. Inspiration Termination: Apneustic center is inhibited by Vagus and Pneumotaxic center. Regulation of expiration: During quiet breathing, expiration is a passive process; there is no firing of neurons. Ventral respiratory group of neurons are involved in forceful expiration, like during exercise. Mnemonic DIVE: Dorsal respiratory group for Inspiration and Ventral respiratory group for Expiration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is true about the main respiratory control neurons?",
+      "options": {
+        "A": "Send out regular bursts of impulses to expiratory muscles during quiet respiration",
+        "B": "Are unaffected by pain",
+        "C": "Are unaffected by impulses from the cerebral cortex",
+        "D": "Send out regular bursts of impulses to inspiratory muscles during quiet respiration"
+      },
+      "correct_answer": "D",
+      "explanation": "The main respiratory control neurons, called the pre-Bötzinger complex (pre-BOTC), are located in the medulla. The pre-Bötzinger complex (pre-BÖTC) is located on either side of the medulla, between the nucleus ambiguus and the lateral reticular nucleus. They send out regular bursts of impulses to inspiratory muscles via the phrenic nerve during quiet respiration. Option A: Expiration is passive during quiet breathing. There is no discharge of any neurons. Option B: Pain stimulates respiration. There are NK1 receptors and μ-opioid receptors in the pre-Botzinger complex, and, in vivo, substance P stimulates and opioids inhibit respiration. Option C: Impulses from the cerebral cortex also influence the pre-Botzinger complex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 4,
+      "question": "The rate of inspiration is controlled by",
+      "options": {
+        "A": "Cerebral cortex",
+        "B": "Ventral group of neurons in medulla",
+        "C": "Pneumotaxic centre",
+        "D": "Apneustic centre"
+      },
+      "correct_answer": "C",
+      "explanation": "The rate of inspiration is controlled by the pneumotaxic centre. Pneumotaxic centre: Location: Upper pons (dorsally in nucleus parabrachialis) Function: • Transmits signals to the inspiratory area, i.e., it inhibits the apneustic centre and thus the dorsal respiratory group of neurons, to stop inspiration. • It thus helps limit the duration of inspiration and switching between inspiration and expiration. • This has a secondary effect of increasing the rate of breathing because limiting the duration of inspiration also shortens the duration of expiration, and hence, the entire period of respiration. Medulla Pons Ventral respiratory group (VRG) Medulla Pons Pneumotaxic centre Pontine respiratory group (PRG) Apneustic centre (+) Dorsal respiratory group (DRG) (+) (+) Accessory respiratory muscles Internal intercostal muscle External intercostal muscle Diaphragm",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp4_img1_7ea44558.jpeg",
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 5,
+      "question": "Depth of inspiration is increased by",
+      "options": {
+        "A": "Pneumotaxic centre",
+        "B": "Ventral group of neurons in medulla",
+        "C": "Dorsal group of respiratory neurons",
+        "D": "Apneustic centre"
+      },
+      "correct_answer": "D",
+      "explanation": "Depth of inspiration is increased by the apneustic centre. The apneustic centre sends signals to prevent switching off of inspiration maintained by the dorsal respiratory group of neurons, thereby increasing the depth of inspiration. In contrast to this, the pneumotaxic centre primarily limits inspiration by controlling the 'switch-off' point of the inspiratory ramp signal. A note on inspiratory ramp signal: The neural signals transmitted to the inspiratory muscle, mainly the diaphragm, are not the instantaneous burst of action potentials. Instead, it begins weakly and increases steadily in a ramped manner. The advantage of the ramp is that it causes a steady increase in the volume of the lungs during inspiration, rather than inspiratory gasps. Control of the limiting point at which the ramp suddenly ceases is the mechanism by which the respiratory centres control depth and rate of respiration. Option A: Pneumotaxic centre of the pons regulates the rate and depth of breathing. Option B: Ventral group of neurons regulate expiration. Option C: Dorsal group of neurons regulate inspiration.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_0dd9fecd.jpeg",
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 6,
+      "question": "A young couple was spending their afternoon on a picnic. Suddenly, the woman got down on her knee, pulled out a ring, and proposed. The man was taken aback and began to hyperventilate. The overdrive mechanism observed is due to",
+      "options": {
+        "A": "Pneumotaxic centre",
+        "B": "Dorsal group of neurons (DRG) in the medulla",
+        "C": "Apneustic centre",
+        "D": "Ventral group of neurons (VRG) in the medulla"
+      },
+      "correct_answer": "D",
+      "explanation": "The ventral respiratory group contributes to the extra respiratory drive (overdrive mechanism). During quiet breathing: Expiration is a passive process and the neurons from the ventral respiratory group remain almost totally inactive during quiet respiration. Unlike the dorsal respiratory group (DRG; dorsal group of neurons), VRG (the ventral group of neurons) does not appear to participate in the basic rhythmic oscillations that control respiration. Extra-respiratory drive (overdrive mechanism): When the respiratory drive for increased pulmonary ventilation becomes greater than normal, for example, during exercise, respiratory signals spill over to VRG from DRG. So, VRG contributes to the extra respiratory drive (overdrive mechanism). The neurons of VRG contribute to both inspiration and expiration; especially, they are important in providing powerful expiratory signals to the abdominal muscles during very heavy expiration. Dorsal and ventral respiratory group: Location - Function. Dorsal respiratory group - Nucleus Tractus Solitarius in medulla - Inspiratory ramp signals - Stimulates inspiration. Ventral respiratory group - Nucleus Retro Ambigualis in medulla - Inactive during quiet breathing; Active during forced expiration. Medulla - Pons - Ventral respiratory group (VRG). Medulla - Pons - Pontine respiratory group (PRG). Apneustic center (+). Dorsal respiratory group (DRG) (+) (+). Accessory respiratory muscles - Internal intercostal muscle. External intercostal muscle. Diaphragm.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp6_img1_a36fc04a.jpeg",
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 7,
+      "question": "Stimulation of the apneustic centre causes",
+      "options": {
+        "A": "Decrease in the inspiratory ramp signal",
+        "B": "Marked increase in inspiratory activity",
+        "C": "Stimulation of pneumotaxic centre",
+        "D": "Cessation of spontaneous respiration"
+      },
+      "correct_answer": "B",
+      "explanation": "The apneustic center is located in the lower pons and it stimulates the inspiratory center to increase inspiratory activity. The apneustic center of the pons sends signals to the DRG in the medulla to delay the 'switch off' signal of the inspiratory ramp provided by the pneumotaxic center of the pons. It gets feedback from vagal afferents and also from other respiratory centers. The apneustic center is inhibited by vagal afferents from pulmonary stretch receptors aroused by inspiration, so that the stimulatory effect on the inspiratory neurons is switched off, allowing expiration to supervene.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 8,
+      "question": "A few nights before the respiratory physiology exam, a student was suffering from a recurring nightmare. In this nightmare, a knife-wielding horse was chasing him through the streets and threatening to cut off his brainstem at the mid-pontine level. Assuming the horse was proficient in its threat, and performed a bilateral vagotomy as well, which of the following outcomes would occur?",
+      "options": {
+        "A": "Cessation of spontaneous respiration",
+        "B": "Continuation of regular breathing",
+        "C": "Irregular but rhythmic respiration",
+        "D": "Apneusis"
+      },
+      "correct_answer": "D",
+      "explanation": "Transection of the brain stem at the mid-pontine level with bilateral vagotomy causes apneusis. At mid-pontine level lesion, the apneustic centre is intact while the pneumotaxic centre is separated. Concurrent removal of vagus inputs causes this kind of abnormal pattern of breathing characterized by deep, gasping inspiration with a pause at full inspiration followed by a brief insufficient release.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 9,
+      "question": "Peripheral chemoreceptors",
+      "options": {
+        "A": "Respond minimally to changes in PO2 under normoxic conditions",
+        "B": "Respond to changes in arterial PO2 but not pH",
+        "C": "Respond to changes in PCO2 slower than the central chemoreceptors",
+        "D": "Are most important receptors causing an increased ventilation in response to a rise in PCO2"
+      },
+      "correct_answer": "A",
+      "explanation": "Peripheral chemoreceptors respond minimally to changes in PO2 under normoxic conditions. Because of the enormous blood flow per unit of tissue to the carotid bodies, the receptors are not stimulated in conditions such as anemia or carbon monoxide poisoning, in which the amount of dissolved O2 in the blood reaching the receptors is generally normal, even though the combined O2 in the blood is markedly decreased. Peripheral chemoreceptors are responsive to changes in arterial O2, CO2, and H+ ions. They are excited by a decrease in arterial O2. However, a graph plotted between the rate of firing of afferent neurons in the chemoreceptor vs. arterial pO2 shows they are most sensitive to changes in pO2 of less than 60mmHg. Thus, ventilation is driven by pCO2 and H+ under normoxic conditions. Other options: Option B: Peripheral chemoreceptors respond to changes in blood pH. They are excited by an increase in H+ ions (i.e., decrease in pH). Option C: The response of peripheral chemoreceptors to changes in PCO2 is faster than that of central chemoreceptors. Increase in arterial pCO2 stimulates respiration. However, the stimulation by way of peripheral chemoreceptors occurs 5 times as rapidly as that from central chemoreceptors. This helps increase the rapidity of response to CO2 at the onset of exercise. Option D: Central chemoreceptors are more important than the peripheral chemoreceptors in the ventilatory response to increased CO2. Note: Most potent stimulus for central chemoreceptor in blood: CO2. Most potent stimulus for central chemoreceptor in CSF: H+ ions. Most potent stimulus for respiration: CO2.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 10,
+      "question": "Peripheral chemoreceptors are primarily sensitive to",
+      "options": {
+        "A": "PaCO2",
+        "B": "H+",
+        "C": "PaO2",
+        "D": "HCO3-"
+      },
+      "correct_answer": "C",
+      "explanation": "The peripheral chemoreceptors, located in the carotid and aortic bodies, are primarily sensitive to a decrease in arterial PO2, although high PaCO2 and low pH also stimulate them and enhance their sensitivity to hypoxia. The carotid body is more sensitive than the aortic body.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 11,
+      "question": "Peripheral chemoreceptors are stimulated maximally by",
+      "options": {
+        "A": "Acidosis",
+        "B": "Hypercapnia",
+        "C": "Carbon monoxide",
+        "D": "Cyanide"
+      },
+      "correct_answer": "D",
+      "explanation": "Cyanide causes histotoxic hypoxia, and thus, by preventing the O2 utilization at the tissue level, it acts as a powerful stimulus for peripheral chemoreceptors. Even though the Po2 level of blood is normal in the case of cyanide poisoning, the sensors in the carotid and aortic bodies are not able to sense oxygen in the blood because of the blockade of cellular respiration, and hence, they go into a hypoxic state and get stimulated. Option A: Acidosis (increased H+ ions) stimulates peripheral chemoreceptors. Option B: Increased pCO2 mainly stimulates central chemoreceptors. Option C: The peripheral chemoreceptors have an enormous blood flow per unit tissue (2000 mL/100g of tissue/min) because of which the O2 needs of the cells can be met by dissolved O2. Therefore, carbon monoxide poisoning does not stimulate peripheral chemoreceptors because the amount of dissolved O2 is generally normal, even though the combined O2 in the blood is markedly decreased.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 12,
+      "question": "Carotid body chemoreceptors are stimulated by all of the following types of hypoxia except",
+      "options": {
+        "A": "Anemic",
+        "B": "Hypoxic",
+        "C": "Stagnant",
+        "D": "Histotoxic"
+      },
+      "correct_answer": "A",
+      "explanation": "Anemic hypoxia does not stimulate carotid body chemoreceptors. In anemia, the amount of dissolved O2 reaching the receptors is generally normal. Combined O2 in the blood is markedly decreased. The blood flow per unit tissue of carotid body chemoreceptors is enormous (2000 mL/100g of tissue/min). Hence, O2 needs of the tissue can be met largely by dissolved O2 alone. Therefore, the receptors are not stimulated by conditions such as anemia or carbon monoxide poisoning, in which the amount of dissolved O2 reaching the receptors is generally normal, even though combined O2 in the blood is markedly decreased. These peripheral chemoreceptors are stimulated when arterial pO2 is low.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 13,
+      "question": "Central chemoreceptors",
+      "options": {
+        "A": "Respond to both pCO2 and pO2 of blood",
+        "B": "Are activated by changes in pH of the CSF",
+        "C": "For a given rise in pCO2, the pH of the CSF falls less than that of blood",
+        "D": "HCO3- concentration in CSF doesn't affect output of central chemoreceptors"
+      },
+      "correct_answer": "B",
+      "explanation": "Central chemoreceptors are stimulated by changes in pH of the CSF. They are located on the ventral surface of the medulla. Option A: Central chemoreceptors do not respond to pO2 of the blood. Option C: For a given rise in pCO2, the CSF pH falls more than that of the blood because the CSF has less buffering. CO2 combines with H2O to form H2CO3, which dissociates into H+ and HCO3-. H+ is buffered by combining with Hb. This buffering is less in CSF, and hence pH falls. Option D: The HCO3- concentration of the CSF can affect the output of the central chemoreceptors by buffering the changes in pH. HCO3- can combine with H+ and thus neutralize it and alter pH and thus alter output of central chemoreceptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 14,
+      "question": "Central chemoreceptors are most sensitive to the following change in the blood:",
+      "options": {
+        "A": "Decreased Po2",
+        "B": "Increased Pco2",
+        "C": "Increased H+",
+        "D": "Decreased Pco2"
+      },
+      "correct_answer": "B",
+      "explanation": "Central chemoreceptors are most sensitive to increased Pco2 in the blood. Central chemoreceptors are most sensitive to increased Pco2 in the blood because CO2 moves into the CSF, where it is promptly hydrated to form H2CO3 that dissociates to increase the CSF H+ concentration. This stimulates the central chemoreceptors, which monitor CSF H+ concentration (not blood H+ concentration). Other options:  • H+ in arterial blood penetrates the blood-brain barrier very slowly and hence has little effect on central chemoreceptors. • Arterial Po2 has no effect on central chemoreceptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 15,
+      "question": "The primary direct stimulus for excitation of central chemoreceptors which regulate ventilation is",
+      "options": {
+        "A": "Increased H+ in CSF",
+        "B": "Increased arterial PCO2",
+        "C": "Decreased arterial PO2",
+        "D": "Increased CO2 in CSF"
+      },
+      "correct_answer": "A",
+      "explanation": "The central chemoreceptors are primarily stimulated by an increase in the H+ in the CSF. CO2 readily penetrates the blood-brain barrier and is promptly hydrated in the CSF to form H2CO3, which dissociates so that the local H+ concentration rises. The H+ concentration in the CSF parallels the arterial PCO2. So, the effect of arterial PCO2 and CO2 in CSF is indirect or secondary. Arterial PO2 has no effect on central chemoreceptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 16,
+      "question": "Peripheral and central chemoreceptors may both contribute to increased ventilation that occurs as a result of decreased",
+      "options": {
+        "A": "Arterial PCO2",
+        "B": "Arterial PO2",
+        "C": "Arterial blood pressure",
+        "D": "H+"
+      },
+      "correct_answer": "B",
+      "explanation": "Both peripheral and central chemoreceptors contribute to increased ventilation that occurs as a result of decreased arterial blood pressure. A decrease in arterial blood pressure leads to hypoperfusion, which causes hypoxia and stimulates peripheral chemoreceptors. A decrease in arterial blood pressure also leads to CO2 retention, which increases arterial PCO2 and the H+ concentration in the cerebrospinal fluid (CSF), stimulating central chemoreceptors. Option A: Decreased arterial PCO2 does not stimulate chemoreceptors; it is increased PCO2 that stimulates central chemoreceptors. Option B: Decreased arterial PO2 stimulates peripheral chemoreceptors but has no influence on central chemoreceptors. Option D: Increased (not decreased) H+ ions stimulate both peripheral and central chemoreceptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following do not stimulate either central or peripheral chemoreceptors?",
+      "options": {
+        "A": "Hypocapnia",
+        "B": "Hypoxia",
+        "C": "Acidosis",
+        "D": "Low perfusion pressure"
+      },
+      "correct_answer": "A",
+      "explanation": "Hypercapnia is a stimulus for central and peripheral chemoreceptors and not hypocapnia. Option B: The peripheral chemoreceptors are stimulated by hypoxia (hypoxic, stagnant, and histotoxic, but not anemic hypoxia) and exercise (increased K+ levels). Option C: The central chemoreceptors are stimulated by hypercapnia and resultant acidosis. Option D: Low perfusion pressure produces hypoxia because the amount of O2 delivered to the receptors per unit time is decreased. This stimulates the peripheral chemoreceptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 18,
+      "question": "The most important stimulus controlling the level of resting ventilation is",
+      "options": {
+        "A": "pH of CSF on central chemoreceptors",
+        "B": "pH on peripheral chemoreceptors",
+        "C": "Pco2 on peripheral chemoreceptors",
+        "D": "Po2 on peripheral chemoreceptors"
+      },
+      "correct_answer": "A",
+      "explanation": "The most important stimulus comes from the pH of the CSF on the central chemoreceptors. The CO2 that enters the brain and CSF is hydrated to H2CO3 and dissociates, leading to rising H+ levels. The CSF H+ concentration hence parallels the arterial CO2 levels. The effect of pO2 on peripheral chemoreceptors under normoxic conditions is very small. Changes in pCO2 do affect the peripheral chemoreceptors, but the magnitude is less than that for the central chemoreceptors. The effect of changes in the pH on peripheral chemoreceptors under normal conditions is small, and the changes in pO2 do not affect the central chemoreceptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following occurs after hyperventilation with 6% CO2 in inspired air?",
+      "options": {
+        "A": "Continued hyperventilation",
+        "B": "Apnea",
+        "C": "Cheyne-Stokes breathing",
+        "D": "Kussmaul's breathing"
+      },
+      "correct_answer": "A",
+      "explanation": "Hyperventilation with 6% CO2 is followed by continued hyperventilation till alveolar PCO2 drops towards normal. Ventilatory responses to CO2: There is a linear relationship between the increase in % of CO2 in inspired air and respiratory minute volume. The upper limit for this linearity is 6% of alveolar PCO2. When the CO2 content of the inspired gas is >7%, the alveolar and the arterial PCO2 begin to rise abruptly in spite of hyperventilation, leading to hypercapnia. Hypercapnia depresses the central nervous system, including respiratory centers, leading to CO2 narcosis (a headache, confusion, and eventually coma). Mechanism: Increased CO2 in inspired air increases alveolar PCO2, which stimulates central chemoreceptors, and as PCO2 drops toward normal, it stimulates ventilation, increasing arterial PCO2.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is true about the ventilatory response?",
+      "options": {
+        "A": "CO2 is a major factor controlling the normal level of ventilation",
+        "B": "It is not related to respiratory minute volume",
+        "C": "It depends only on central chemoreceptors",
+        "D": "It is increased if alveolar PO2 is raised"
+      },
+      "correct_answer": "A",
+      "explanation": "The normal level of ventilation is controlled by the ventilatory response to CO2. Option B: There is a linear relationship between respiratory minute volume and the alveolar PCO2, i.e., as alveolar PCO2 increases, respiratory minute volume increases. Option C: The ventilatory response depends on peripheral chemoreceptors in addition to central chemoreceptors. Option D: The ventilatory response to CO2 is increased if the alveolar PO2 is reduced. The ventilatory response is reduced also during sleep.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 21,
+      "question": "Hering-Breuer reflexes are mediated by",
+      "options": {
+        "A": "Slowly adapting myelinated vagal fibers",
+        "B": "Rapidly adapting myelinated vagal fibers",
+        "C": "Unmyelinated pulmonary C fibers",
+        "D": "Unmyelinated bronchial C fibers"
+      },
+      "correct_answer": "A",
+      "explanation": "Hering-Breuer reflexes are mediated by slowly adapting pulmonary stretch receptors and the impulses travel in the vagus nerve via large myelinated fibers. Hering-Breuer inflation reflex: 'Prolonged inspiration inhibits further inspiration.' Hyperinflation of lungs stimulates slowly adapting pulmonary stretch receptors and the impulses travel in the vagus nerve via large myelinated fibers. This signal inhibits the inspiratory ramp signals of the dorsal respiratory group of neurons (DRG), thus, inspiration is quickly inhibited and expiration follows. Advantages of Hering-Breuer inflation reflex: It cuts down the inspiration time, and therefore, it prevents overinflation of the lungs. Lungs operate at lower lung volumes, thereby preventing wastage of energy. The Hering-Breuer reflex is activated when the lung volume increases to more than three times the normal tidal volume (tidal volume = 0.5 liters/breath; so, lung volume > 1.5 liters per breath activates the reflex). It signifies that the reflex plays a protective role preventing the overinflation of the lung rather than regulating the normal ventilation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 22,
+      "question": "All of the following statements about Hering-Breuer inflation reflex are true except",
+      "options": {
+        "A": "The impulses travel to the brain via the vagus nerve",
+        "B": "It results in further inspiratory efforts if the lung is maintained inflated",
+        "C": "It is seen in adults at high tidal volumes",
+        "D": "Abolishing the reflex in many animals causes slow, deep breathing"
+      },
+      "correct_answer": "B",
+      "explanation": "Hering-Breuer inflation reflex inhibits further inspiratory efforts if the lungs are maintained inflated. Mechanism: Stretch receptors via vagus inhibit Dorsal Respiratory Group. Intercostal nerves: Inspiration shortened, Expiration prolonged. Phrenic. Option A: The impulses travel to the brain via the vagus nerve. Option C: Hering-Breuer Reflex is activated when TV > 1.5L. The reflex is seen in adults at high tidal volumes. Option D: Abolishing the reflex by cutting the vagal nerves in experimental animals causes slow, deep breathing.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following is true about Head's paradoxical reflex?",
+      "options": {
+        "A": "Inhibits respiration",
+        "B": "Stimulated by hyperinflation of the lung",
+        "C": "Plays an important role in normal respiration",
+        "D": "Mediated by tracheobronchial stretch receptors"
+      },
+      "correct_answer": "B",
+      "explanation": "Head's paradoxical reflex is stimulated by hyperinflation of the lungs. It refers to prolonged inspiration stimulating further inspiration. Hyperinflation of the lungs causes a strong and long-lasting inspiratory effort (an effect opposite to the Hering-Breuer inflation reflex). Physiological role: • Occasional deep breaths, which are thought to counteract any tendency to atelectasis in quiet breathing and possibly in reinforcing the gasps or inspiratory efforts. • The first cry after birth. • The possible explanation for this could be the inhibition of the vagus nerve at cold temperatures (due to the presence of pulmonary fluid in the unaerated newborn lungs). • Lack of inhibitory impulses from the pulmonary stretch receptors and vagus has an effect opposite to Hering-Breuer's inflation reflex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 24,
+      "question": "The immediate response of J receptor stimulation is",
+      "options": {
+        "A": "Tachycardia",
+        "B": "Hypertension",
+        "C": "Tachypnea",
+        "D": "Apnea"
+      },
+      "correct_answer": "D",
+      "explanation": "The immediate reflex response of J receptor stimulation is apnea. It is followed by rapid breathing, bradycardia, and hypotension (pulmonary chemoreflex). Juxtacapillary receptors are the C fiber endings located close to the pulmonary vessels in the alveolar interstitium. They are not involved in quiet or normal respiration. They are stimulated by hyperinflation of the lung and intravenous or intracardiac administration of chemicals like capsaicin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 25,
+      "question": "Moderate exercise, being one of the most powerful stimulators of ventilation, works by the way of",
+      "options": {
+        "A": "Low arterial PO2",
+        "B": "Low PO2 in mixed venous blood",
+        "C": "Low arterial pH",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "Moderate exercise does not reduce the arterial PO2, increase the arterial PCO2, or reduce the arterial pH. Option A: The brain, upon transmitting motor impulses to the exercising muscles, is believed to transmit collateral impulses into the brainstem at the same time to excite the respiratory center. This action is analogous to the stimulation of the vasomotor center of the brain stem during exercise that causes a simultaneous increase in arterial pressure. Option B: The PO2 of mixed venous blood does fall, but there are no known chemoreceptors that are stimulated as a result. Option C: Two points are important regarding pH during moderate exercise: • pH = pK + log ([HCO3-]/[CO2]) • The pH of the blood is dependent only on the ratio of the amount of CO2 to the amount of HCO3-. The concentrations of both buffer components (HCO3- and CO2) are very large compared to the amount of H+ added to the blood during moderate exercise. Thus, any change in HCO3- due to the addition of H+ during moderate exercise is very tiny compared to the amount of HCO3- already present in the blood. Thus, the pH of blood during moderate exercise remains constant. When sufficient oxygen is not available during exercise, there is increased accumulation of lactic acid, which initially leads to an increase in PaCO2. However, this is counteracted by the stimulation of ventilation and, as a result, PaCO2 is decreased. This provides some respiratory compensation for further lactic acid production and prevents a decline in blood pH. Thus, blood pH remains constant in moderate exercise.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 26,
+      "question": "The exercise-induced hyperventilation during vigorous exercise is produced due to the receptors present in",
+      "options": {
+        "A": "Medulla oblongata",
+        "B": "Lung parenchyma",
+        "C": "Carotid bodies",
+        "D": "Trachea and large bronchi"
+      },
+      "correct_answer": "C",
+      "explanation": "The exercise-induced hyperventilation during vigorous exercise is produced due to the receptors present in carotid bodies. When exercise becomes more vigorous, buffering of the increased amounts of lactic acid that are produced liberates more CO2, and this further increases ventilation. The additional increase in ventilation produced by the acidosis depends on the carotid bodies and does not occur if they are removed. Note: The abrupt increase at the start of exercise is presumably due to psychic stimuli and afferent impulses from proprioceptors in muscles, tendons, and joints.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 27,
+      "question": "In moderate exercise, the respiratory rate is increased at the beginning due to the response of",
+      "options": {
+        "A": "J receptor stimulation",
+        "B": "Decrease in PO2 in arterial blood",
+        "C": "Increased PCO2 in arterial blood",
+        "D": "Joint proprioceptor stimulation"
+      },
+      "correct_answer": "D",
+      "explanation": "In moderate exercise, the respiratory rate is increased at the beginning due to the response of joint proprioceptor stimulation. Respiratory responses to exercise: During exercise, there is an increase in ventilatory rate that matches the increase in O2 consumption and CO2 production by the body. The stimulus for increased ventilation rate is the activation of joint proprioceptors at the beginning of the exercise. The mean values for arterial PO2 and PCO2 do not change during exercise. Arterial pH does not change during moderate exercise, although it may decrease during strenuous exercise because of lactic acidosis. On the other hand, venous PCO2 increases during exercise because the excess CO2 produced by exercising muscle is carried to the lungs in venous blood. Pulmonary blood flow increases because cardiac output increases during exercise. As a result, more pulmonary capillaries are perfused, and more gas exchange occurs. The distribution of V/Q ratios throughout the lung is more even during exercise than when at rest, and there is a resulting decrease in the physiologic dead space. The abrupt increase at the start of exercise is presumably due to psychic stimuli and afferent impulses from proprioceptors in muscles, tendons, and joints. The more gradual increase in ventilation is presumably due to an increase in O2 consumption (proportional increase), an increase in body temperature, and increases in the plasma K+ level (which stimulate the peripheral chemoreceptors). The sensitivity of the neurons controlling the response to CO2 is increased, or the respiratory fluctuations in arterial PCO2 increase, so that, even though the mean arterial PCO2 does not rise, it is CO2 that is responsible for the increase in ventilation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 28,
+      "question": "Which among the following is not a function of the pneumotaxic centre?",
+      "options": {
+        "A": "Limitation of inspiration",
+        "B": "Increase in the rate of breathing",
+        "C": "Switching off the inspiratory ramp",
+        "D": "Generating respiratory rhythm"
+      },
+      "correct_answer": "D",
+      "explanation": "Respiratory rhythm generation is a function of the dorsal respiratory group of neurons (and not the pneumotaxic center). The pneumotaxic center: it is located dorsally in the nucleus parabrachialis of the upper pons and it transmits signals to the inspiratory area. The primary effect of this center is to control the switch-off point of the inspiratory ramp, thus controlling the duration of the filling phase of the lung cycle. The function of the pneumotaxic center is primarily to limit inspiration, which has a secondary effect of increasing the rate of breathing, because limitation of inspiration also shortens expiration and the entire period of each respiration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 29,
+      "question": "Which of the following ions is involved in peripheral oxygen sensing chemoreceptors?",
+      "options": {
+        "A": "Potassium",
+        "B": "Calcium",
+        "C": "Sodium",
+        "D": "Chloride"
+      },
+      "correct_answer": "A",
+      "explanation": "Potassium is involved in peripheral oxygen sensing chemoreceptors. Type I glomus cells (carotid and aortic body) have O2-sensitive K+ channels, whose conductance is reduced in proportion to the degree of hypoxia. This reduces the K+ efflux, depolarizing the cell and causing Ca2+ influx. The Ca2+ influx triggers action potentials and consequent excitation of the afferent nerve endings.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    },
+    {
+      "q_no": 30,
+      "question": "Which of the following neurons predominantly fire during forceful expiration?",
+      "options": {
+        "A": "Dorsal group of neurons",
+        "B": "Ventral group of neurons",
+        "C": "Pneumotaxic center",
+        "D": "Chemoreceptors"
+      },
+      "correct_answer": "B",
+      "explanation": "Ventral groups of neurons fire when forceful expiration is needed, like during heavy exercise. Dorsal group of neurons control the normal inspiration and expiration. Pneumotaxic center limits the duration of inspiration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regulation of Respiration"
+    }
+  ]
+}

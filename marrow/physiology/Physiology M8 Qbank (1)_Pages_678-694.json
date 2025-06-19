@@ -1,0 +1,380 @@
+{
+  "chapter": "Reflex",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Principal site of acidification of urine",
+      "options": {
+        "A": "Distal convoluted tubule",
+        "B": "Proximal convoluted tubule",
+        "C": "Loop of henle",
+        "D": "Collecting duct"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 2,
+      "question": "Most important extracellular buffer",
+      "options": {
+        "A": "Bicarbonates",
+        "B": "Plasma protein",
+        "C": "Phosphates",
+        "D": "Nitrates"
+      },
+      "correct_answer": "A",
+      "explanation": "The most important extracellular buffer is bicarbonate. The source of bicarbonate is plasma byfilteration. It is a non inducible buffer.Proteins: Are the most abundant intracellular buffer.Phosphate: minor buffer in kidney. The source is plasma by filteration. It is a noninduciblebuffer.Ammonia is a minor buffer, locally produced by tubular cells. Its production increases inmetabolic acidosis. It is the only inducible buffer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 3,
+      "question": "Normal anion gap is mostly due to",
+      "options": {
+        "A": "Unmeasured proteins",
+        "B": "Unmeasured Na+",
+        "C": "Unmeasured Cl-",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "Normal anion gap is mostly due to unmeasured proteins.Normally in the plasma, the concentrations of anions and cations are equal to maintain electricalneutrality. Thus no real \"anion gap\" exists in the plasma and this is purely a diagnostic concept.Diagnostically, when the electrolytes are measured in the blood, routinely only certain cations andanions are measured. These are Na+, Cl- and HCO3-. The anion gap is the difference between theunmeasured anions and unmeasured cations. This is estimated as:Plasma anion gap= [Na+] - [Cl-] - [HCO3-]685The unmeasured cations include calcium, magnesium and potassium.The unmeasured anions include albumin, phosphate, sulphate and organic anions.This is primarily used in measurement of different causes of metabolic acidosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 4,
+      "question": "Normal anion gap ismEq/L.",
+      "options": {
+        "A": "4-8",
+        "B": "8-16678",
+        "C": "0-4",
+        "D": "16-20"
+      },
+      "correct_answer": "B",
+      "explanation": "The normal anion gap ranges between 8 and 16 mEq/L.The concentrations of anions and cations in plasma must be equal to maintain electricalneutrality. Therefore, there is no real \"anion gap\" in the plasma.However, only certain cations and anions are routinely measured in the clinical laboratory. Thecation normally measured is Na+, and the anions are usually Cl- and HCO3-.The \"anion gap\" (which is only a diagnostic concept) is the difference between unmeasured anionsand unmeasured cations and is estimated asPlasma anion gap = [Na+ ] − [HCO3− ] – [Cl− ]=144-24-108 =12 mEq/LThe anion gap will increase if unmeasured anions rise or if unmeasured cations fall.The most important unmeasured cations include calcium, magnesium and potassium and themajor unmeasured anions are albumin, phosphate, sulfate and other organic anions.Usually the unmeasured anions exceed the unmeasured cations and the anion gap ranges between8 and 16 mEq/L.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 5,
+      "question": "Endocrine functions associated with kidney include all of the following except_",
+      "options": {
+        "A": "Erythropoietin secretion",
+        "B": "ANP secretion",
+        "C": "1,25-DHCC formation (Vitamin D3)",
+        "D": "Renin secretion"
+      },
+      "correct_answer": "B",
+      "explanation": "ANP is secreted by the heart.Endocrine/Paracrine Functions of the Kidney:SubstanceReninErythropoietinProstaglandin E2 (PGE2)PGI2and other prostaglandinSSite of secretionGranular cells or juxtaglomerular cells (JG cells) of the juxtaglomerular apparatus (JGA)Interstitial cells in the peritubular capillary bedRenal medullary interstitial cells (RMICS), macula densa,and by cells of collecting ductArterioles and glomeruli1,25-Dihydroxycholecalciferol Cells of proximal tubules of t(calcitriol or vitamin D3)he kidneys.686",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 6,
+      "question": "The major prostanoid synthesized in kidney is",
+      "options": {
+        "A": "PGE1",
+        "B": "PGE2",
+        "C": "PGI2",
+        "D": "PGF2°"
+      },
+      "correct_answer": "B",
+      "explanation": "PGE2 is the major prostanoid synthesized in the kidney.It is secreted by:••RMICS (Renal Medullary Interstitial Cells)• Macula densa•Cells in the collecting ducts.Prostacyclin (PGI2) and other prostaglandins are secreted by the arterioles and glomeruli.Renal medullary interstitial cells (RMICs) are specialized fibroblast-like cells which are major siteof cyclooxygenase 2 (COX-2) and prostaglandin synthase (PGES) expression.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 7,
+      "question": "All of the following results in increased renin secretion except",
+      "options": {
+        "A": "Renal ischemia",
+        "B": "Increased amount of Na+ in DCT",
+        "C": "Decreased amount of Na+ in PCT",
+        "D": "Decreased afferent arteriolar pressure"
+      },
+      "correct_answer": "B",
+      "explanation": "The increased amount of Na+ and Cl- reabsorption across macula densa (DCT) is inhibitory torenin secretion. All other factors increase renin secretion.Renin leads to a series of events through the Renin-Angiotensin-Aldosterone pathway that finally,in simple terms, leads to salt and water retention and increases blood pressure. Therefore, it iseasy to remember that all factors that cause decreased effective volume, pressure, or sodiumdelivery will increase the renin levels and vice versa.Note: Renin is secreted by the juxtaglomerular cells (granular cells) which are epitheloid cellslocated in the media of afferent arterioles of the glomerulus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 8,
+      "question": "Angiotensin II causes all of the following except",
+      "options": {
+        "A": "Stimulation of thirst",
+        "B": "Aldosterone secretion",
+        "C": "Increased ADH secretion679",
+        "D": "Vasodilation"
+      },
+      "correct_answer": "D",
+      "explanation": "Angiotensin II is one of the most potent vasoconstrictors in the body.It constricts efferent arteriole, thereby increasing filteration fraction and glomerular filterationrate, when there is decreased renal bloodflow",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 9,
+      "question": "Vasopressin secretion is increased by",
+      "options": {
+        "A": "Alcohol",
+        "B": "Decreased ECF volume",
+        "C": "Decreased oncotic pressure",
+        "D": "Procainamide"
+      },
+      "correct_answer": "B",
+      "explanation": "Vasopressin (ADH) secretion increases in response to decreased ECF volume to bring about waterretention to restore the ECF volume.ADH exerts its antidiuretic effect by acting on the V2 receptors and involves the insertion ofaquaporin 2 (AQP2) into the apical (luminal) membranes of the principal cells of the collectingducts.687",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient who got into an accident is brought to the casualty and is bleeding from his rightleg. His blood pressure is 90/60 mm Hg. Which of the following plays the most importantrole for sodium and water retention in this patient?",
+      "options": {
+        "A": "Renin-angiotensin system",
+        "B": "ADH",
+        "C": "Aldosterone",
+        "D": "ANP"
+      },
+      "correct_answer": "A",
+      "explanation": "The renin-angiotensin system plays the most important role for sodium and water retention inthis patient as the patient has hypovolemia due to blood loss. (refer to figure)The plasma concentration of renin is the rate-limiting step in the renin-angiotensin system; it isthe major determinant of plasma angiotensin II concentration.Angiotensin II stimulates the aldosterone and ADH secretion; it also constricts the blood vesselsand causes thirst, which helps in maintaining blood pressure.Renin-angiotensin-aldosterone systemSympatheticactivityLegendSecretion froman organStimulatorysignalInhibitory signalKidneyLungsLiverSurface of pulmonaryand renal endothelium:ACENawK+Tubular Na Clreabsorption and Kexcretion. H,O retention HO-C-ReactionActive transportPassive transportAdrenal gland:cortexAngiotensinogenAngiotensin IAngiotensin IIAldosteronesecretionDecrease inReninrenal perfusion(juxtaglomerularapparatus)KidneyArteriolarvasoconstriction.Increase in bloodpressurePituitary gland:+ADH secretionArterioleposterior lobeCollecting duct:HO absorption|| KO-|| +Water and saltretention. Effectivecirculating volumeincreases. Perfusionof the juxtaglomerularapparatus increases.© Aria Rad – 2006",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp10_img1_3fca4e3d.jpeg",
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 11,
+      "question": "Atriopeptin (ANP) acts at",
+      "options": {
+        "A": "Collecting duct",
+        "B": "Loop of Henle",
+        "C": "Early distal tubule",
+        "D": "Proximal tubule"
+      },
+      "correct_answer": "A",
+      "explanation": "ANP acts on the collecting duct.ANP is secreted by the atria in response to an increase in ECF volume. It decreases Na+reabsorption in the late distal tubule and collecting ducts. It causes natriuresis.ANP causes dilation of afferent arterioles and constriction of efferent arterioles resulting in anincreased RBF(Because the dilatory effect of ANP on afferent arterioles is more than theconstrictor effect on efferent arterioles, there is an overall decrease in renal vascular resistanceand resultingincrease in RBF) and increased GFR.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 12,
+      "question": "ANP secretion is raised by all except",
+      "options": {
+        "A": "Hypovolemia",
+        "B": "Administration of isotonic saline680",
+        "C": "Raised central venous pressure",
+        "D": "blood pressure"
+      },
+      "correct_answer": "A",
+      "explanation": "It is in ECF volume and not hypovolemia that causes increased secretion of ANP.688Stimuli that increase the secretion of ANP• Tatrial stretch or ventricular stretch• Tisotonic saline administration• TECF volumeStimuli that decrease ANP secretion•Rising from supine to standing position (as this decreases the central venous pressure).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 13,
+      "question": "Several hormones regulate the tubular reabsorption of water and electrolytes at different sitesin the nephron physiologically in a patient. Which of the following combination is correct?",
+      "options": {
+        "A": "Angiotensin in distal tubule",
+        "B": "Aldosterone in collecting ducts",
+        "C": "ADH in proximal tubule",
+        "D": "ANP in loop of Henle"
+      },
+      "correct_answer": "",
+      "explanation": "The combination which is correct is Aldosterone in collecting ducts.Aldosterone acts on principal cells and intercalated cells, which are present in collecting ducts. Itregulates ECF volume and Na+ content. Major stimulus for aldosterone secretionis Hyperkalemia. The functions of aldosterone are Na+ and H2O reabsorption, K+ andH+excretion.Option A: Angiotensin II acts on efferent arteriole. It causes vasoconstriction increasing BP. Itcauses constriction of efferent arteriole, increases filteration fraction, preserving GFR whenRBF ↓.Option B: ADH acts on principal cells in collecting ducts. It primarily regulates serum osmolarity.Stimulates reabsorption of water in collecting ducts via Aquaporin-2.Option D: ANP is released from atria and BNP is released from ventricles in response to ↑ volume,it inhibits RAAS, relaxes mesangial cells and promotes natriuresis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 14,
+      "question": "The areas associated with micturition reflex is/are",
+      "options": {
+        "A": "Pons",
+        "B": "Paracentral lobule",
+        "C": "Both a and b",
+        "D": "none"
+      },
+      "correct_answer": "",
+      "explanation": "The micturition center is located in the pons. The paracentral lobule is also associated withmicturition.The micturition reflex is an autonomic spinal cord reflex, but it can be inhibited or facilitated bycenters in the brain.These centers include-.• A strong facilitative and inhibitory centers in the brain stem, located mainly in thepons.•Centers located in the cerebral cortex that are mainly inhibitory but can become excitatory.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 15,
+      "question": "Hypoxia-induced factors stimulate",
+      "options": {
+        "A": "Intercalated cells",
+        "B": "Lacis cells",
+        "C": "Interstitial cells",
+        "D": "Macula densacells of the kidney to initiate erythropoiesis."
+      },
+      "correct_answer": "C",
+      "explanation": "Hypoxia induced factors stimulate interstitial cells to initiate erythropoiesisErythropoietin is produced by interstitial cells in the peritubular capillary bed of the kidney.689Erythropoietin inturn initiates erythropoiesis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 16,
+      "question": "Choose the correct option mentioning the correct site of product conversion",
+      "options": {
+        "A": "Cholecalciferol → 25 hydroxy vitamin D3 @ skin",
+        "B": "Cholecalciferol → 25 hydroxy vitamin D3 @ kidney681",
+        "C": "Angiotensin 1 → angiotensin 2 @ liver",
+        "D": "Angiotensin 1 → angiotensin 2 @ lungs"
+      },
+      "correct_answer": "D",
+      "explanation": "Angiotensin 1 → angiotensin 2 @ lungsCholecalciferol → 25 hydroxy vitamin D3 @ liver25 hydroxy vitamin D3 → 1,25 dihydroxy vitamin D3 @ KidneyAngiotensin I is converted to Angiotensin II by Angiotensin Converting Enzyme (ACE) which isexpressed in the lungs.Renin-angiotensin systemAngiotensinogen(from liver)RoninPhysiologicallyAngiotensininactive formBlood-pressureregulating peptide40% pressor activityof AT II but 100%aldosterone stimulatingactivitySecreted by juxtaglomerular/granule cells in the afferentarterioles of the juxtaglomerularapparatus (JGA) of kidneyAngiotensin Convertingenzyme (ACE)Angiotensin IIAminopeptidaseAngiotensin IIIAminopeptidaseLeast physiologicalAngiotensin IVactivityOMARROWExpressedin lungsendothelium",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_27a6df12.jpeg",
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 17,
+      "question": "ADH acts through which aquaporin channel?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B",
+      "explanation": "The antidiuretic hormone acts through aquaporin channel 2.ADH binds to V2 receptors in the late distal tubules, collecting tubules, and collecting ducts, andstimulates the movement of an intracellular protein, called aquaporin-2 (AQP-2), to the luminalside of the cell membranes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 18,
+      "question": "Ureteric peristalsis is mainly due to",
+      "options": {
+        "A": "Sympathetic innervation",
+        "B": "Parasympathetic innervation",
+        "C": "Both a and b",
+        "D": "Pacemaker activity of smooth muscles of renal pelvis"
+      },
+      "correct_answer": "D",
+      "explanation": "Urine flowing from the collecting ducts into the renal calyces stretches the calyces and increasestheir inherent pacemaker activity, which in turn initiates peristaltic contractions occurring 1 to 5times per minute that spread to the renal pelvis and then downward along the length of theureter, thereby forcing urine from the renal pelvis toward the bladder.690• The walls of the ureters contain smooth muscle and are innervated by both sympathetic andparasympathetic nerves, as well as by an intramural plexus of neurons and nerve fibers thatextends along the entire length of the ureters.•• As with other visceral smooth muscle, peristaltic contractions in the ureter are• Enhanced by parasympathetic stimulation• Inhibited by sympathetic stimulation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 19,
+      "question": "In micturition reflex, the first change to occur is",
+      "options": {
+        "A": "Trigone relaxation",
+        "B": "Detrusor contraction",
+        "C": "Relaxation of perineal muscles",
+        "D": "Decreased urethral pressure"
+      },
+      "correct_answer": "",
+      "explanation": "•• One of the initial events is the relaxation of the muscles of the pelvic floor, and this may cause asufficient downward tug on the detrusor muscle to initiate its contraction.• Micturition Reflex• Micturition is fundamentally a spinal reflex facilitated and inhibited by higher brain centers andis subject to voluntary facilitation and inhibition.• These centers include•⚫ strong facilitative and inhibitory centers in the brain stem, located mainly in the pons• several centers located in the cerebral cortex that is mainly inhibitory but can become excitatory.•The micturition reflex is the basic cause of micturition, but the higher centers normally exertfinal control of micturition.•Micturition Reflex is the result of a stretch reflex initiated by sensory stretch receptors in thebladder wall, especially by the receptors in the posterior urethra when this area begins to fill withurine at the higher bladder pressures.• Sensory signals from the bladder stretch receptors are conducted to the sacral segments of thecord through the pelvic nerves and then reflexively back again to the bladder through theparasympathetic nerve fibers by way of these same nerves. (refer figure)•As the bladder continues to fill, the micturition reflexes become more frequent and cause greatercontractions of the detrusor muscle.• Once a micturition reflex begins, it is \"self-regenerative.\".• It is a single complete cycle of• The progressive and rapid increase of pressure,• A period of sustained pressure, and• Return of the pressure to the basal tone of the bladder.•As the bladder becomes more and more filled, micturition reflexes occur more and more oftenand more and more powerfully.Once the micturition reflex becomes powerful enough, it causes another reflex, which passesthrough the pudendal nerves to the external sphincter to inhibit it. If this inhibition is morepotent in the brain than the voluntary constrictor signals to the external sphincter, urination willoccur. If not, urination will not occur until the bladder fills still further and the micturition reflex691becomes more powerful.Innervation of the bladderInferior mesentericganglionPelvic nervesExternalsphincterPudendal nervesOMARROWL1L2L3L4HypogastricL5nervesS1S2S3S4S5Reflex and voluntary control of micturitionReflex controlFilling of bladderStretch receptorsMotor neuronParasympathetic nerveinhibitionBladderBladder contractsInternal urethral sphincteropens mechanicallyUrinationVoluntary controlCerebral cortexMotor neuronexcitationExternal urethralsphincter opensExternal urethralsphincter closesMARROWNo urination",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp19_img1_9c494dba.jpeg",
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 20,
+      "question": "How much urine in the bladder will cause the first urge to void in a patient?",
+      "options": {
+        "A": "150ml",
+        "B": "250ml",
+        "C": "350ml682",
+        "D": "100ml"
+      },
+      "correct_answer": "C",
+      "explanation": "The first urge to void is felt at a bladder volume of about 150 mL, and a marked sense of fullnessat about 400 mL.Cystometrogram (refer figure)A plot of intravesical pressure against the volume of fluid in the bladder is called acystometrogram.The curve shows• An initial slight rise in pressure when the first increments in the volume are produced (Ia);• A long, nearly flat segment as further increments are produced (Ib);692• A sudden, sharp rise in pressure as the micturition reflex is triggered(II).•⚫ The flatness of segment Ib is a manifestation of the law of Laplace.• This law states that the pressure in a spherical viscus is equal to twice the wall tension divided bythe radius.• P= 2T/R•In the case of the bladder, the tension increases as the organ fill but so does the radius.Therefore, the pressure increase is slight until the organ is relatively full.CystometrogramIntravesical pressure (cm water)6060404020ARROWlbla100200300400500Volume of fluid in the bladder (mL)OMARROW",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 21,
+      "question": "In a patient, pO2 is 85mmHg, pCO2 is 50mmHg, pH is 7.2, and HCO3- is 36mmol/L. Identifythe condition.",
+      "options": {
+        "A": "Respiratory acidosis with compensatory metabolic alkalosis",
+        "B": "Uncompensated respiratory acidosis",
+        "C": "Respiratory alkalosis with compensatory metabolic acidosis",
+        "D": "Respiratory acidosis with compensatory metabolic acidosis"
+      },
+      "correct_answer": "",
+      "explanation": "This patient has respiratory acidosis with compensatory metabolic alkalosis.pH is decreased (&lt;7.35) so it is acidosis.The CO2 levels are increased (&gt;45mmHg), which is in line with the change in pH (inrespiratory acidosis CO2 is expected to raise), thus the primary problem is respiratory.The HCO3- levels are increased (&gt;30mmol/L), which is opposite to change in pH (i.e there isacidosis and HCO3- levels are high), thus, there is compensatory metabolic alkalosis.Thus, this is a case of respiratory acidosis with compensatory metabolic alkalosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 22,
+      "question": "A patient with salicylic acid poisoning has the following arterial blood gas analysis report: pH=7.1, pCO2 =18mmHg, HCO3-=12mmol/L. Identify the acid-base disorder here.",
+      "options": {
+        "A": "Metabolic acidosis with respiratory alkalosis",
+        "B": "Respiratory acidosis with compensatory metabolic alkalosis",
+        "C": "Metabolic acidosis with uncompensated respiratory alkalosis",
+        "D": "Respiratory acidosis with metabolic alkalosis"
+      },
+      "correct_answer": "",
+      "explanation": "The acid-base disorder here is a mixed disorder of metabolic acidosis and respiratory alkalosis.It should not be confused with metabolic acidosis with uncompensated respiratory alkalosis. Thiscan be understood by the following calculation:Step 1: The pH in this patient is 7.1 (pH &lt;7.35) which indicates acidosis693Step 2: HCO3- is 12 mmol/L (Normal HCO3- - 22–30 mmol/L). In metabolic acidosis,HCO3- levels decrease.Hence, this is a case of metabolic acidosis.Step 3: As per Winter's formula, the expected respiratory compensation in metabolic acidosis canbe calculated using,pCO2 =( 1.5 x [HCO3-]) +8 ± 2In this case, Expected pCO2 = ( 1.5 × [12]) +8 ± 2= 26 ± 2x= 24 28 mmHg-The pCO2 in this patient is 18 mmHg, which implies there is an overcompensation of pCO2. Thisovercompensation can happen only if there is an additional component of respiratory alkalosiscontributing to reduced pCO2.Hence, this patient has a mixed disorder - metabolic acidosis and respiratory alkalosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following patients will have metabolic alkalosis?",
+      "options": {
+        "A": "A patient suffereing from diarrhoea",
+        "B": "A patient with chronic renal failure who is recommended dialysis",
+        "C": "A patient who was diagnosed with hyperaldosteronism",
+        "D": "A patient who took a whole bottle of aspirin to get rid of the headache"
+      },
+      "correct_answer": "",
+      "explanation": "Metabolic alkalosis is seen in patients with hyperaldosteronism.In hyperaldosteronism: increased aldosterone levels cause increased H+ secretion by the distaltubule and increased reabsorption of HCO3- → Metabolic alkalosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 24,
+      "question": "In a patient with metabolic acidosis, which of the following changes are seen?",
+      "options": {
+        "A": "Increased K+ excretion",
+        "B": "Decreased K+ excretion683",
+        "C": "Increased Na+ excretion",
+        "D": "Increased Na+ reabsorption"
+      },
+      "correct_answer": "A",
+      "explanation": "K+ secretion into the renal tubules is decreased when the H+ secretion is increased (IntracellularBuffering of H+). Thus in metabolic acidosis, there is decreased K+ excretion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    },
+    {
+      "q_no": 25,
+      "question": "A normal anion gap metabolic acidosis occurs in patients with",
+      "options": {
+        "A": "Diarrhoea",
+        "B": "Diabetic ketoacidosis",
+        "C": "Methyl alcohol poisoning",
+        "D": "Acute renal failure"
+      },
+      "correct_answer": "A",
+      "explanation": "Diarrhoea is a cause of normal anion gap metabolic acidosis produced as a result of increasedHCO3- loss in feces.This is because a decrease in HCO3- is replaced by an increase in the concentration of Cl-. This isa measurable anion and hence the anion gap is normal.Extra-edge Siggard-Anderson curve normogram is used to plot the acid-base composition of theblood694",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Reflex"
+    }
+  ]
+}

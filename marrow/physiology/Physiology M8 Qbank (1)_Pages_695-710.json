@@ -1,0 +1,365 @@
+{
+  "chapter": "Pituitary and Thyroid",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is secreted from acidophilic cells of pituitary?",
+      "options": {
+        "A": "GH",
+        "B": "TSH",
+        "C": "ACTH",
+        "D": "FSH"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 2,
+      "question": "A 40-year-old man is suffering from hypertension, buffalo hump and hyperpigmentation ofthe skin, including oral mucosa. He is diagnosed with Cushing syndrome due to pituitarycause. Which of the following is responsible for the hyperpigmentation seen in this patient?",
+      "options": {
+        "A": "TSH",
+        "B": "FSH",
+        "C": "ACTH",
+        "D": "MSH"
+      },
+      "correct_answer": "C",
+      "explanation": "ACTH is more responsible than MSH for the hyperpigmentation seen in a patient with Cushingsyndrome due to pituitary cause (ACTH hypersecretion).ACTH is a derivative of POMC (Pro-opiomelanocortin). POMC is the precursor of ACTH,melanocyte stimulating hormone (MSH), ẞ lipotropin and ẞ endorphin. Since themelanocyte-stimulating hormone is the byproduct of ACTH synthesis from POMC, any diseaseprocess which leads to ACTH overproduction will also lead to an increased level of MSH. ACTHhas mild MSH activity, hence elevated levels of ACTH acts on melanotropin-1 receptors causinggeneralized hyperpigmentation.A similar manifestation will also be seen in Addison's disease where the ACTH level is high.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 3,
+      "question": "Inhibitory control by the hypothalamus is exerted on:",
+      "options": {
+        "A": "Prolactin only",
+        "B": "Prolactin and growth hormone",
+        "C": "Growth hormone only",
+        "D": "Neither"
+      },
+      "correct_answer": "B",
+      "explanation": "Inhibitory control by the hypothalamus is exerted mainly on prolactin and growth hormone.The major hypothalamic releasing hormones are:⚫ Thyrotropin releasing hormone (TRH)• Corticotropin releasing hormone (CRH)702• Growth hormone releasing hormone (GHRH)• Gonadotropin releasing hormone (GnRH)The major hypothalamic inhibitory hormones are:• Prolactin inhibitory hormone or dopamine•Growth hormone inhibitory hormone (GHIH), also called Somatostatin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 4,
+      "question": "A patient with a known brain tumour learns that his pituitary stalk has been affected.Secretion of which of the following hormones is increased after the sectioning of the pituitarystalk?695",
+      "options": {
+        "A": "Prolactin",
+        "B": "TSH",
+        "C": "ACTH",
+        "D": "FSH"
+      },
+      "correct_answer": "A",
+      "explanation": "The secretion of prolactin is increased after the sectioning of the pituitary stalk.Prolactin is unique among the pituitary hormones because the predominant central controlmechanism is inhibitory, i.e., dopamine inhibits prolactin secretion. Hence, sectioning of thepituitary stalk (Ex: In head trauma or compressive skull lesions) prevents this inhibition and leadsto increased secretion of prolactin.Note:If the pituitary stalk is cut above the pituitary gland but the entire hypothalamus is left intact, theposterior pituitary hormones (ADH &amp; Oxytocin) show a transient decrease because they areinitially synthesized in the supraoptic and paraventricular nuclei of the hypothalamus and arethen transported down to the nerve endings to the posterior pituitary gland, requiring severaldays to reach the gland.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a cause of elevated prolactin level?",
+      "options": {
+        "A": "Sleep",
+        "B": "Pregnancy",
+        "C": "Stress",
+        "D": "L-dopa"
+      },
+      "correct_answer": "D",
+      "explanation": "L-Dopa is not a cause of increased prolactin level, it decreases prolactin secretion by increasingthe formation of dopamine (prolactin inhibitory hormone).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is the effect of continuous GnRH administration?",
+      "options": {
+        "A": "Stimulates hypothalamic pituitary axis",
+        "B": "Suppresses hypothalamic pituitary axis",
+        "C": "May suppress or stimulate",
+        "D": "Has no effect"
+      },
+      "correct_answer": "B",
+      "explanation": "Continuous GnRH administration suppresses the hypothalamic-pituitary axis.Pulsatile GnRH stimulates the pulsatile release of LH and FSH.Note: Long-acting GnRH agonists are used to suppress gonadotropin levels in children withprecocious puberty and in men with prostate cancer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following actions of GH is mediated by IGF-1?",
+      "options": {
+        "A": "Lipolysis",
+        "B": "Decreased insulin sensitivity",
+        "C": "Antilipolysis",
+        "D": "Na+ retention"
+      },
+      "correct_answer": "C",
+      "explanation": "Antilipolysis is mediated by IGF-1.The actions of growth hormone-mediated via IGF-1 (somatomedin-C) are the indirect effects ofgrowth hormone and include:703• Antilipolytic activity• Insulin-like activity• Protein synthesis.Epiphyseal growthThe direct effects of GH include:• Sodium retention• Decreased insulin sensitivity•Lipolysis• Protein synthesis•⚫ Epiphyseal growth",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 8,
+      "question": "GH has its effect on bone growth through_",
+      "options": {
+        "A": "Directly696",
+        "B": "IGF-1",
+        "C": "Thyroxine",
+        "D": "Both directly and via IGF-1"
+      },
+      "correct_answer": "D",
+      "explanation": "Growth hormone (GH) has both direct and indirect effects on bone growth.GH stimulates prechondrocytes to differentiate into chondrocytes. GH strongly stimulatesosteoblasts and chondrocytes causing increased deposition of proteins → bone growth. GH alsoincreases insulin-like growth factor (IGF) levels, which stimulate bone growth.Note: The pygmies of Africa have a congenital inability to synthesize significant amounts ofsomatomedin C (IGF-I). Therefore, even though their plasma concentration of growth hormone iseither normal or high, they have diminished amounts of IGF-I in the plasma, which accounts forthe short stature. Some other dwarfs (e.g., the Levi-Lorain dwarf) also have this problem.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following hormones demonstrates the fluctuations depicted below?",
+      "options": {
+        "A": "ACTH",
+        "B": "GH",
+        "C": "TSH",
+        "D": "Prolactin30SleepStrenuousexercise201008 am124 pm8 pm124 am8 amNoonMidnightOMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "Growth hormone demonstrates the depicted fluctuations. Growth hormone is secreted in apulsatile fashion, with increase during strenuous exercise and during the early period of sleep,(Non-REM Sleep) as shown in the graph. It is reduced during the later stages of sleep. (REMsleep)Other options:Option A: ACTH levels are high in the early morning and low in the late evening.Option C: TSH is secreted in pulses, but the fluctuations are less in comparison to other pituitaryhormones because of the low amplitude of the pulses and the relatively long half-life of TSH.Option D: Prolactin is secreted in a pulsatile fashion, with the highest secretory peak between4:00 and 6:00 a.m. (REM Sleep)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q9_img1_d88f5455.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 10,
+      "question": "Growth hormone level is decreased in which of the following conditions?",
+      "options": {
+        "A": "Hypoglycemia",
+        "B": "Fasting",
+        "C": "REM Sleep",
+        "D": "Exercise"
+      },
+      "correct_answer": "",
+      "explanation": "704Growth hormone (GH) level is decreased during deep sleep. Specifically, it is reduced during REMsleep as the levels of GHRH reduces and levels of cortisol are higher compared to slow wave sleep.Hypoglycemia, fasting, and exercise cause an increase in GH secretion. GH levels are increasedduring non-REM sleep.GH levels also decline with age and obesity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 11,
+      "question": "697A 35 yr old man presents with hypertension, coarse facial features, frontal bossing, largehands and feet, mandibular enlargement and a large fleshy nose. His age-matched serumIGF-I levels are elevated. What is the most likely cause of his condition?",
+      "options": {
+        "A": "Excess of GH",
+        "B": "Deficiency of GH",
+        "C": "Excess of somatostatin",
+        "D": "Deficiency of somatostatin"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of acromegaly and is due to excess growth hormone (GH).Acromegaly occurs when excessive GH is secreted after puberty (after fusion of long boneepiphysis). Features include• Prognathism (protrusion of jaw), hypertrophy of frontal bones• Acral enlargement in hands and feet (due to thickening of soft tissues)•⚫ Visceromegaly: Enlargement of most organs especially the tongue, thyroid, salivary gland, liver,spleen, kidney, and prostateSerious complications include cardiomyopathy with arrhythmias, diabetes mellitus, obstructivesleep apnoea, and increased risk of colonic polyps and cancer. Age-matched IGF-I levels areelevated.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 12,
+      "question": "What does the neurohypophysis release?",
+      "options": {
+        "A": "Oxytocin",
+        "B": "Prolactin",
+        "C": "MSH",
+        "D": "ACTH"
+      },
+      "correct_answer": "A",
+      "explanation": "The posterior pituitary or neurohypophysis releases oxytocin and anti-diuretic hormone (ADH orvasopressin)Note: ADH and oxytocin are synthesised by the supraoptic and paraventricular nuclei of thehypothalamus. Thereafter, they are stored and released from the posterior pituitary.2Posterior Pituitary HormonesReleasing hormone(hypothalamus)PituitaryhormoneADHStoresADHTargetKidneys.Sweat glands.circulatorysystemEffectsWater balanceReleasing hormone(hypothalamus)GnRHOTFemalereproductivesystemAnterior Pituitary HormonesPituitaryhormoneTargetLHReproductivesystemGnRHFSHReproductivosystemTAHTSHThyroid glandPRHPRL(inhibitedMammaryglandsby PIH)GHRHGH(inhibitedLiver, bone.musclesby GHIH)CRHACTH705Triggers uterinecontractions duringchildbirthEffectsStimulates productionof sex hormones bygonadsStimulates productionof sperm and eggsStimulates the releaseof thyroid hormone(TH). TH regulatesmetabolism.Promotes milkproductionAdrenalglandsInduces targets toproduce insulin-likegrowth factors (IGF).IGFs stimulate bodygrowth and a highermetabolic rate.Induces targets toproduce glucocorticoids,which regulatemetabolism and thestress response",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp12_img1_ee03d859.jpeg",
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 13,
+      "question": "Which pair of vasopressin receptors is incorrect?",
+      "options": {
+        "A": "Via-smooth muscles",
+        "B": "V2-collecting ducts",
+        "C": "Vib-anterior pituitary",
+        "D": "V4-CNS"
+      },
+      "correct_answer": "D",
+      "explanation": "The pair V4-CNS is incorrect.Vasopressin mediates its effect via 3 kinds of receptors- Via, V1b and V2. There is no V4.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 14,
+      "question": "\"Vasopressin escape\" in SIADH results due to:",
+      "options": {
+        "A": "Downregulation of aquaporin 2 production",
+        "B": "Increase in urine osmolarity",
+        "C": "Decrease in ADH secretion",
+        "D": "Upregulation of aquaporin 2 production"
+      },
+      "correct_answer": "A",
+      "explanation": "Vasopressin escape in SIADH (Syndrome of inappropriate ADH secretion) results due todownregulation of aquaporin 2 production.Prolonged exposure to elevated levels of vasopressin (ADH) leads eventually to downregulation ofaquaporin-2 receptors. This prevents excessive reabsorption of water, despite high serum ADHlevels and hence maintains euvolemia. This is known as vasopressin escape. This helps preventexcessive dilutional hyponatremia in SIADH.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 15,
+      "question": "698Sodium-iodide symport is absent in which of the following sites?",
+      "options": {
+        "A": "Pituitary",
+        "B": "Placenta",
+        "C": "Parotid",
+        "D": "Thyroid"
+      },
+      "correct_answer": "A",
+      "explanation": "Sodium-iodide symport is absent in the pituitary.Na+/I- symporter is present in• Basolateral membranes of thyrocytes facing the capillaries.•Salivary glandsGastric mucosa• Placenta•Ciliary body of the eye• Choroid plexus• Mammary glands",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 16,
+      "question": "A 35-year-old lady is diagnosed with Hashimoto thyroiditis and a positive antibody titeragainst thyroid peroxidase enzyme. Which of the following is not a function of the affectedenzyme?",
+      "options": {
+        "A": "Coupling",
+        "B": "Oxidation",
+        "C": "Organification",
+        "D": "Iodide trapping"
+      },
+      "correct_answer": "",
+      "explanation": "Iodide trapping (iodide uptake) is not catalyzed by thyroid peroxidase. Oxidation, organification,and coupling are catalyzed by it.Steps in synthesis and secretion of thyroid hormone:• Iodide uptake: The basolateral sodium-iodide symporter (NIS) actively takes up I-(iodide) fromthe circulation into the follicular cells. It is then transported into the colloid through a pendrin(chloride-iodide) transporter706•⚫ Thyroglobulin synthesis: Thyroglobulin (Tg), is a large glycoprotein rich in tyrosine residues. It issynthesized by follicular cells.• Iodination of thyroglobulin: This is regulated by the thyroid peroxidase (TPO) enzyme. TPO hasthree functions:•Oxidation: TPO oxidizes I- to 12 (iodine) in the presence of H2O2•Organification: TPO links tyrosine residues of thyroglobulin with iodine (12) to formmonoiodotyrosine (MIT), diiodotyrosine (DIT)• Coupling reactions: TPO combines iodinated tyrosine residues to make MIT + DIT = T3(triiodothyronine), DIT + DIT = T4 (tetraiodothyronine)• Storage: Thyroid hormones are bound to thyroglobulin and stored in the follicular lumen ascolloids. The colloid has hormone reserves for 2-3 months•• Release: Iodinated thyroglobulin is taken up by the thyroid follicles via endocytosis and fuseswith lysosomes. It is cleaved by lysosomal proteolytic enzymes into MIT, DIT, T3, and T4. T4(80%) and T3 (20%) are released into the blood• Peripheral T3 conversion: T4 undergoes deiodination in extrathyroidal tissue to form T3, whichis the active form of the hormoneBloodvesselERSynthesis and Secretion ofThyroid HormoneFollicular cellsGolgiColloidTaTyrosineTPOH₂OOxidationOrganificationDeiodinationDIT(Tg+11) MIT(Tg+21) DITMITToMITDITCouplingTa TaT₁ ToTA MITTAMITDITTaTA(DIT+DIT) TA-TaTaDITEndocytosisT₁MITDITTa (MIT+DIT)Lysosomaldegradation12lodidelodineNIS : Sodium-lodide symporterTg : ThyroglobulinMARROWTPO: Thyroid peroxidaseMIT: MonoiodotyrosineDIT : Diiodotyrosine: TriiodothyronineT₁TA: Tetraiodothyronine",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp16_img1_aa277ce2.jpeg",
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 17,
+      "question": "A patient with hyperthyroidism is planned for thyroidectomy. In order to achieve a euthyroidstatus preoperatively, he is started on Lugol's iodine solution. Which of the following bestdescribes its mechanism of action?",
+      "options": {
+        "A": "Suppression of TSH secretion",
+        "B": "Decreased iodination of MIT",
+        "C": "Decreased T3 to T4 conversion",
+        "D": "Inhibition of organification and synthesis of thyroid hormones"
+      },
+      "correct_answer": "",
+      "explanation": "Introduction of exogenous iodine in the form of lugol's iodine solution leads to transientinhibition of organification and synthesis of thyroid hormones. This is known as the wolff-chaikoffeffect.In individuals with a normal thyroid, the gland escapes from this inhibitory effect and iodideorganification resumes; but the suppressive action of high iodide may persist in patients withhyperthyroidism due to underlying autoimmune thyroid disease.707Note: Jod-Basedow effect is iodine-induced hyperthyroidism, usually occurring after the use of anI-based contrast agent. It is often seen in the presence of pre-existing thyroid conditions likemultinodular goitre.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 18,
+      "question": "How long is thyroxine stored in thyroid follicles?",
+      "options": {
+        "A": "2-3 weeks",
+        "B": "2-3 days",
+        "C": "2-3 months",
+        "D": "2-3 years699"
+      },
+      "correct_answer": "D",
+      "explanation": "Thyroxine is stored in the thyroid follicles for 2-3 months, bound to thyroglobulin.Serves as a reserve of T3 and T4, thus delaying the occurrence of hypothyroidism, if thyroidsecretion ceases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 19,
+      "question": "The major thyroxine-binding protein is",
+      "options": {
+        "A": "Albumin",
+        "B": "Transthyretin",
+        "C": "Thyroxine-binding globulin",
+        "D": "Transferrin"
+      },
+      "correct_answer": "",
+      "explanation": "Thyroxine-binding globulin (TBG) is the major thyroxine-binding protein.Other thyroxine-binding proteins are:•Albumin• Transthyretin (TTR)/ thyroxine-binding pre-albumin (TBPA)•⚫ Lipoproteins",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is false regarding thyroid hormone?",
+      "options": {
+        "A": "T3 is more avidly bound to nuclear receptor than T4",
+        "B": "T4 has more plasma concentration",
+        "C": "T3 is more active than T4",
+        "D": "T4 has shorter half-life than T3"
+      },
+      "correct_answer": "D",
+      "explanation": "T4 doesn't have a shorter half-life than T3, rather T3 has a shorter half-life and more rapid actionthan T4.The table compares T4 and T3:T3T4More potent (4x)More activeLess potentRapid onset of actionShorter half-life (1 day)Less plasma concentrationLess in colloidResponsible for physiologicalactionsLess activeSlow onset of actionLonger half-life (7 days)More plasma concentrationMore in colloidUsed for pharmacotherapy708",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 21,
+      "question": "Half-life of T4.",
+      "options": {
+        "A": "10 hours",
+        "B": "6-7 days",
+        "C": "6 weeks",
+        "D": "2-3 months"
+      },
+      "correct_answer": "B",
+      "explanation": "The half-life of T4 is 6 - 7 days.T3 has the shorter half-life of 1 day.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 22,
+      "question": "A 35 yr old woman presents with heat intolerance and menstrual abnormalities. Onexamination, a diffusely enlarged thyroid gland is present. Which of the following featureswill not be present in her?",
+      "options": {
+        "A": "Increased heart rate",
+        "B": "Increased stroke volume",
+        "C": "Decreased peripheral vascular resistance",
+        "D": "Decreased protein breakdown700"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of hyperthyroidism, which does not cause decreasedprotein breakdown. Rather it causes increased protein breakdown.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 23,
+      "question": "Prolactin level is highest during :",
+      "options": {
+        "A": "24 hours after ovulation",
+        "B": "24 hours after delivery",
+        "C": "REM Sleep",
+        "D": "After running for 1 hour"
+      },
+      "correct_answer": "B",
+      "explanation": "Among the given options, the prolactin level is highest 24 hours after delivery.The maximum level of prolactin is seen during pregnancy and in the immediate postpartumperiod. During pregnancy, the secretion is increased reaching a peak at the time of delivery. Afterdelivery, the plasma concentration falls to nonpregnant levels in a few weeks. Suckling producessurges of prolactin release.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pituitary and Thyroid"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following conditions would have the highest levels of ACTH and cortisol?",
+      "options": {
+        "A": "Early morning",
+        "B": "Normal individuals with dexamethasone administration",
+        "C": "Addison's disease",
+        "D": "Cushing's disease"
+      },
+      "correct_answer": "D",
+      "explanation": "Among the given conditions, the levels of ACTH and cortisol will be highest in Cushing's disease.Cushing's disease is caused by an ACTH secreting pituitary adenoma. The increased ACTH causesincreased cortisol production.Note: In normal physiologic state, ACTH levels are higher in the early morning but not as high asin Cushing's disease.Buffalo humpThin skinHypertensionMAThin armsand legsCushing syndromeOMARROW709MoonfaceEasy bruisabilityEcchymosisPendulous.abdomenPurple straiePoor woundhealing710",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp24_img1_75c0ab3d.jpeg",
+      "chapter_heading": "Pituitary and Thyroid"
+    }
+  ]
+}

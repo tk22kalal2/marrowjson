@@ -1,0 +1,215 @@
+{
+  "chapter": "Muscle Physiology II",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Human cardiac muscle contains",
+      "options": {
+        "A": "Alpha heavy chain of Myosin",
+        "B": "Beta heavy chain of Myosin",
+        "C": "Both a and b",
+        "D": "None"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 2,
+      "question": "Intercalated discs are seen in",
+      "options": {
+        "A": "Skeletal muscle",
+        "B": "Smooth muscle",
+        "C": "Cardiac muscle",
+        "D": "All of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "• Cardiac muscle fibres are made up of many individual cells connected in series and parallel withone another.••The areas where the end of one muscle fiber abuts on another, which always occur at Z lines, arecalled intercalated discs.•⚫ It provides a strong union between fibers, maintaining cell-to-cell cohesion, so that the pull ofone contractile cell can be transmitted along its axis to the next.• It contains Desmosomes to prevent pulling apart of the cells when strain.•At each intercalated disc, the plasma membrane fuses with one another forming gap junctionwhich provide low resistance bridges for the spread of excitation from one fiber to anotherpermitting the cardiac muscle to function as a syncytium.Cardiac MuscleMitochondriaMyofibrils165Cardiac musclecellsIntercalateddisc",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp2_img1_fb6f1e84.jpeg",
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 3,
+      "question": "Activation of the sympathetic system increases the myocardial contractility of a patient.Which of the following is responsible for this positive inotropic effect?",
+      "options": {
+        "A": "Phosphorylation of Phospholamban",
+        "B": "Dephosphorylation of Phospholamban",
+        "C": "Decreased levels of cAMP",
+        "D": "Increased permeability of cell membrane"
+      },
+      "correct_answer": "A",
+      "explanation": "Phosphorylation of phospholamban is responsible for the positive inotropic effect on themyocardium observed after the stimulation of the sympathetic nervous system.Phospholamban is a protein that regulates Ca2+ATPase in the sarcoplasmic reticulum. Whenphosphorylated, phospholamban stimulates the Ca2+ ATPase, resulting in greater uptake andstorage of Ca2+ by the sarcoplasmic reticulum.Increased Ca2+ uptake by the sarcoplasmic reticulum has two effects:It causes faster relaxation (i.e., briefer contraction).it increases the amount of stored Ca2+ for release on subsequent beats.This positive inotropic effect has three important features: increased peak tension, increased rateof tension development, and faster rate of relaxation.Faster relaxation means that the contraction (twitch) is shorter, allowing more time for refilling.This effect is mediated via activation of ẞ1 receptors, which are coupled via a Gs protein toadenylyl cyclase.Activation of adenylyl cyclase leads to the production of cAMP, activation of protein kinases, andphosphorylation of proteins that produce the physiologic effect of increased contractility.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 4,
+      "question": "Which among the following is the function of phospholamban?",
+      "options": {
+        "A": "Regulation of Na+-K+ pump",
+        "B": "Transport calcium out of mitochondria160",
+        "C": "Regulates calcium entry into sarcoplasmic reticulum",
+        "D": "Binds actin with myosin"
+      },
+      "correct_answer": "",
+      "explanation": "•Phospholamban is a protein that regulates SR Ca2+ ATPase (SERCA) in the sarcoplasmicreticulum. In its dephosphorylated state, phospholamban inhibits the Ca2+ ATPase, resulting indiminished uptake and storage of Ca2+ by the sarcoplasmic reticulum, while in its phosphorylatedstate, there is disinhibition of the Ca2+ ATPase leading to increased uptake and storage of Ca2+by the sarcoplasmic reticulum.• Increased Ca2+ uptake by the sarcoplasmic reticulum has two effects:•• It causes faster relaxation (i.e., briefer contraction).it increases the amount of stored Ca2+ for release on subsequent beats.• Phosphorylation of phospholamban is responsible for the positive inotropic effect effect on themyocardium observed after the stimulation of sympathetic nervous system.• This effect is mediated via activation of ẞ1 receptors, which are coupled via a Gs protein toadenylyl cyclase.•This positive inotropic effect has three important features: increased peak tension, increased rateof tension development, and faster rate of relaxation.•• Faster relaxation means that the contraction (twitch) is shorter, allowing more time for refilling.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a feature of cardiac muscle?",
+      "options": {
+        "A": "All or none phenomenon.",
+        "B": "Length-tension relationship",
+        "C": "Tetanization",
+        "D": "Plateau potential"
+      },
+      "correct_answer": "",
+      "explanation": "166Cardiac muscle cannot be tetanized due to long refractory period.In cardiac myocytes, depolarization proceeds rapidly and an overshoot of the zero potential ispresent. This is followed by a plateau before the membrane potential reaches the RMP (-90mV).This plateau phase lasts for 200 msec or more. Repolarization is therefore not complete untilcontraction is 50% completed.Phases of cardiac action potential• o→ Depolarisation and overshoot• Due to opening of voltage-gated Na+ channels• 1→ Initial rapid repolarization• Due to closure of Na+ channels and opening up of K+ channels• 2→ Plateau phase•• Due to slow but prolonged opening of Ca2+ channels• 3→ late rapid repolarization·4 Baseline (RMP)• Phases 3 and 4 are due closure of Ca2+ channels and a slow, delayed increase of K+ effluxthrough K+ channels.• During phases o to 2 and about half of phase 3 of cardiac action potential, cardiac muscle cannotbe excited again, that is, it is in its absolute refractory period. It remains relatively refractory untilphase 4. Thus, cardiac muscle cannot be tetanized.Na+ channelsclose+30mV0Voltage-gatedion channelsopen-90Influx of Na++300mV-85Slow Ca2+ channels openSlow Ca2+ channels closeThe plateauRepolarizationRapid depolarizationRefractory periodAbsolute100200Time (ms)(a)RelativeK channels close300Skeletal muscleCardiac muscleAction potential+300Action potentialmVTensionHA100-90ContractionTension200300Time (ms)(b)Contraction0100Time (ms)200300",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_c072f306.jpeg",
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 6,
+      "question": "The following graph displays which physiological law of the heart?",
+      "options": {
+        "A": "Starling Law",
+        "B": "Laplace Law",
+        "C": "Bainbridge Law",
+        "D": "Bell-Magendie lawPressure (mm Hg)270240Systolicintravascularpressure210180150Developedtension120906030Diastolicintravascularpressure01020 30 40 50 60 70Diastolic volume (mL)"
+      },
+      "correct_answer": "A",
+      "explanation": "The diagram displays the Length-Tension relationship for a cardiac muscle explaining the Starlinglaw of the heart.167In the body, the initial length of the fibers is determined by the degree of diastolic filling of theheart, and the pressure developed in the ventricle is proportional to the volume of the ventricle atthe end of the filling phase (Starling law of the heart).•The developed tension increases as the diastolic volume increases until it reaches a maximum,then tends to decrease.• The decrease is due to beginning disruption of the myocardial fibers and not due to a decrease inthe number of cross-bridges between actin and myosin as seen in skeletal muscle.Pressure (mm Hg)270240Systolicintravascularpressure210180150Developedtension120906030Diastolicintravascularpressure01020 30 40 50 60 70Diastolic volume (mL)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q6_img1_3455d93f.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp6_img1_6ce1d982.jpeg",
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 7,
+      "question": "Muscles in hollow viscera behave as161",
+      "options": {
+        "A": "Single unit smooth muscle",
+        "B": "Multiunit smooth muscle",
+        "C": "Both, depending on action",
+        "D": "None"
+      },
+      "correct_answer": "A",
+      "explanation": "Hollow viscera are primarily composed of single-unit smooth muscles.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is true regarding excitation-contraction coupling in smooth muscle?",
+      "options": {
+        "A": "Presence of troponin is essential",
+        "B": "Sustained contraction occurs with high calcium concentration",
+        "C": "Phosphorylation of actin is required for contraction",
+        "D": "Cellular calcium concentration is essential to cause contraction"
+      },
+      "correct_answer": "D",
+      "explanation": "Increased cytosolic Ca2+ is essential for contraction of smooth muscles.Events in Excitation Contraction Coupling in Smooth Muscles.168M13Smooth muscle contraction andrelaxation mechanismAcetylcholine (Ach) binds tomuscarinic receptorsCa influx into cytoplasm of cellCa² binds to calmodulin to formCa calmodulin complexComplex activatesmyosin light chain kinase (MLCK)Myosin undergoes phosphorylationMyosin ATPase activity is increasedNMyosin head attaches to actin(cross-bridge cycle forms)Smooth muscle contractsMyosin undergoes dephosphorylation bymyosin light chain phosphatase (MLCP)Smooth muscle relaxesMARROWA unitary smooth muscle is unique in that it can contract when stretched even in the absence ofany extrinsic innervation. Stretch is followed by a decrease in membrane potential and an increasein the tone of the muscle.Other options:Option a: Troponin is absent in smooth muscle.Option b: Sustained contraction of the smooth muscle occurs even when the calciumconcentration falls. This is mainly because of the latch-bridge mechanism where the myosincross-bridges remain attached to the actin. This mechanism allows for maintaining thecontraction with less expenditure of energy and is particularly important in the vascular smoothmuscle.Option c: Unlike skeletal muscle where troponin binding is essential for contraction, the smoothmuscle contraction requires phosphorylation of myosin (not actin).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp8_img1_01a01b8e.jpeg",
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 9,
+      "question": "Calmodulin is mostly both structurally and functionally related to",
+      "options": {
+        "A": "Actin",
+        "B": "Myosin light chain kinase",
+        "C": "Troponin C",
+        "D": "Tropomyosin"
+      },
+      "correct_answer": "",
+      "explanation": "Calmodulin is structurally and functionally related to troponin. In place of troponin, smoothmuscle cells contain a large amount of the regulatory protein calmodulin.Calmodulin is similar to troponin; it is different in the manner in which it initiates contraction.Calmodulin initiates contraction by activating the myosin light chain kinase. Troponin, on theother hand, initiates contraction by causing a conformational change in the tropomyosin moleculewhich then uncovers the active sites on the actin filament.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 10,
+      "question": "A sustained contraction with little expenditure of energy is made possible by a latchingmechanism in",
+      "options": {
+        "A": "Skeletal muscle",
+        "B": "Smooth muscle",
+        "C": "Cardiac muscle",
+        "D": "All of the above"
+      },
+      "correct_answer": "B",
+      "explanation": "•Smooth muscles can maintain prolonged full tonic contraction with little use of energy (as littleas 1/300 the energy required for comparable sustained skeletal muscle contraction) and with little169continued excitatory signal due to this mechanism.• This is due to the fact that even after dephosphorylation of myosin, the cross-bridges continue tocling on for some time.• The excitation coupling mechanism occurring in smooth muscle is similar to the skeletal musclesbut for a few features:• The process is slow and a low energy mechanism.• There is no fixed length tension relationship as it shows the property of plasticity (smooth•muscles behaving like a viscous mass rather than a rigidly structured tissue).This mechanism is specially useful in vascular smooth muscles.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 11,
+      "question": "The most distinguishing feature between skeletal muscle and smooth muscle is162",
+      "options": {
+        "A": "Troponin",
+        "B": "Tropomyosin",
+        "C": "Myosin",
+        "D": "Actin"
+      },
+      "correct_answer": "A",
+      "explanation": "Actin, myosin, and tropomyosin are present in both skeletal muscle and smooth muscle. But,troponin is absent and calmodulin is present in smooth muscle.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/q11_img1_b2a1045b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following acts to increase the release of calcium ions from the endoplasmicreticulum of a smooth muscle?",
+      "options": {
+        "A": "Calsequestrin",
+        "B": "Diacylglycerol",
+        "C": "Inositol Triphosphate (IP3)",
+        "D": "1, 25 di hydroxy cholecalciferol"
+      },
+      "correct_answer": "C",
+      "explanation": "In response to a stimulus, the efflux of calcium from intracellular stores occurs through anInositol triphosphate receptor (IP3R)- Ca+2 channel.The source of Ca+2 in smooth muscle contraction can be different depending on the activatingstimulus.•The influx from the extracellular site through voltage or ligand-gated Ca+2 channels in theplasma membrane•• Efflux from intracellular stores (eg, sarcoplasmic reticulum) through the RyR and the inositoltriosephosphate receptor (IP3R).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following statements regarding smooth muscle is false?",
+      "options": {
+        "A": "Unitary smooth muscle has an unstable membrane potential",
+        "B": "Dense Bodies are present instead of Z lines",
+        "C": "It can exert a variable tension at any given length",
+        "D": "Sympathetic stimulation produces excitatory membrane potentials"
+      },
+      "correct_answer": "",
+      "explanation": "Sympathetic stimulation (norepinephrine) of a smooth muscle produces inhibitory potentials andrelaxation.Parasympathetic stimulation (or acetylcholine) causes depolarization and contraction in thesmooth muscle.Smooth muscle can be divided into:• Unitary smooth muscle - has low-resistance gap junctions between individual muscle cells andfunctions in a syncytial manner• Multiunit smooth muscle made up of individual units with few or nil gap junctions.Blood vessels have both unitary and multiunit smooth muscle in their walls.170Option A: Unitary smooth muscle has an unstable membrane potential with continuous irregularcontractions independent of its nerve supply. This state of partial contraction is called tonus ortone.Option B: Dense bodies are present instead of Z lines in smooth muscle. These are bound to actinfilaments by -actinin.○Option C: Smooth muscle can exert variable tension at any given length. This property is calledplasticity. When a unitary smooth muscle is stretched, it first exerts increased tension. However, ifit is held at this length after stretching, the tension gradually decreases. This is referred to asplasticity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    },
+    {
+      "q_no": 14,
+      "question": "Given below is the demonstration of tetanization in the gastrocnemius muscle of a frog.Identify the tetanising frequency.163",
+      "options": {
+        "A": "25-20 Hz",
+        "B": "30-35 Hz",
+        "C": "15-20 Hz",
+        "D": "10-15 HzKw10mmSpeed=1000mm/secOMARROW"
+      },
+      "correct_answer": "D",
+      "explanation": "Tetanizing frequency demonstrated by the muscle is 33Hz. In the above graph, we know,• The speed of the paper is 1000mm/sec.••The y-axis represents millivolts, the x-axis represents time.The scale on the x-axis is 10mm.• The area under the graph represents the muscle contraction.Contraction period (latent period to maximum force of contraction) includes 3 scales = 30 mm.As paper speed is 1000mm/sec,Contraction period = 30mm = (30/1000) = 30 msec.Tetanizing frequency = 1/contraction period = 1000/30 = 33Hz.TetanizationThe features of muscle contraction can be demonstrated by eliciting single muscle twitches. Theadding together of individual twitch contractions to increase the intensity of overall musclecontraction is Summation. Summation occurs in two ways:•⚫ by increasing the number of motor units contracting simultaneously, which is multiple bersummations.•⚫ by increasing the frequency of contraction, which is called frequency summation and can lead totetanization.When the frequency of a contraction reaches a critical level, the successive contractions eventuallyfuse together, and the whole muscle contraction appears to be completely smooth and continuous,this is called tetanization.Tetanization occurs in two ways:•Complete tetanus occurs when no relaxation occurs between stimuli.Incomplete tetanus when periods of incomplete relaxation take place between the summatedstimuli.171Muscle strength tension)spContractionperiodStimulaOLTetanizationRelaxationLatent period204050GOTime (mm)Twitch ContractionTO405060Time (mm)Wave Summationtttttt1002001111111111111111300-100Time (mm)Incomplete and complete tetanusOMARROW172",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Muscle Physiology II"
+    }
+  ]
+}

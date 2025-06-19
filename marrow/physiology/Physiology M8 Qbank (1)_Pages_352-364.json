@@ -1,0 +1,200 @@
+{
+  "chapter": "Functional Anatomy",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the total number of airway divisions present between the trachea and alveolar sacs?",
+      "options": {
+        "A": "21",
+        "B": "22",
+        "C": "23",
+        "D": "24"
+      },
+      "correct_answer": "B",
+      "explanation": "The trachea divides into primary bronchi, then into secondary bronchi, and further into tertiary bronchi, terminal bronchioles, respiratory bronchioles, and finally, alveolar sacs, totaling 22 divisions.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp1_img1_eb8077e6.jpeg",
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 2,
+      "question": "Which among the following has the highest airway resistance?",
+      "options": {
+        "A": "Alveolar duct",
+        "B": "Bronchi",
+        "C": "Respiratory bronchioles",
+        "D": "Small bronchioles"
+      },
+      "correct_answer": "B",
+      "explanation": "Among the given options, bronchi (medium-sized airway) offer maximum resistance. The best answer here is bronchi, as all the other options suggest smaller airways, while bronchi are the only medium-sized airway. Airflow can be derived from the Poiseuille-Hagen formula: Q = π * ΔP * r^4 / (8 * η * L), where Q is the flow rate, π is the pi symbol, ΔP is the pressure difference, r is the radius, η is viscosity, and L is length. Also, flow rate (Q) = pressure difference (ΔP) / resistance (R). Therefore, substituting this in the Poiseuille-Hagen formula, ΔP / R = π * ΔP * r^4 / (8 * η * L), 1 / R = π * r^4 / (8 * η * L), R = 8 * η * L / (π * r^4). Therefore, it can be derived that airway resistance is inversely proportional to the radius by the power of four. With the Poiseuille-Hagen formula, we might feel that the smallest airways are the major site of resistance. However, the contribution by the smallest airways is very little to the overall total resistance. This is because the airway branches in each generation exist in parallel rather than in series. As the parallel branching increases, the resistance decreases (total cross-sectional diameter of small airways put together is high). Thus, the overall resistance of the small airways is very small. Also, airflow velocity decreases substantially as the effective cross-sectional area increases (i.e., the flow becomes laminar). Other factors affecting airway resistance include: lung volume, as lung volume increases, the resistance decreases, and vice versa. Lung volume increases the transairway pressure, thus increasing the caliber of the airway. Airway mucus, edema, and contraction of bronchial smooth muscle increase the airway resistance. Its clinical application is seen in asthma, bronchitis, and emphysema. The density and viscosity of inspired gas also contribute to airway resistance. A gas with more density imparts more resistance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 3,
+      "question": "A 14-year-old boy with shortness of breath was diagnosed with chronic inflammation ofconducting airways. Which of the following is not a feature of the affected structure?",
+      "options": {
+        "A": "Includes first 16 generations starting from trachea",
+        "B": "Smooth muscles and cartilage predominate",
+        "C": "Secrete variety of molecules that aid in lung defence",
+        "D": "Membrane bound organelles namely lamellar bodies are present"
+      },
+      "correct_answer": "D",
+      "explanation": "Chronic inflammation of conducting airways is suggestive of asthma. Lamellar bodies are storagebodies of surfactant present in the alveoli and not the conducting airway.The conducting airways form the first 16 generations from the trachea to the terminal bronchial.It is lined by pseudostratified ciliated columnar epithelium. It also consists of smooth muscleswhich are responsible for bronchoconstriction and dilatation. It also consists of other specializedcells such as:• Basal cells - stem cells• Clara/Club cells - specialized epithelial cells (non-ciliated cuboidal cells) that:• Functions as stem cells• Helps in lung defense.357The conducting airways secrete several substances that in lung defense such as:•Secretory immunoglobins - IgA• Collectins surfactant protein(SP)-A and SP-D• Defensins-• Reactive oxygen species• Reactive nitrogen species.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 4,
+      "question": "Maximal smooth muscle relative to wall thickness is seen in",
+      "options": {
+        "A": "Terminal bronchiole",
+        "B": "Trachea352",
+        "C": "Bronchi",
+        "D": "Respiratory bronchioles"
+      },
+      "correct_answer": "A",
+      "explanation": "Smooth muscle is maximum in terminal bronchioles.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 5,
+      "question": "An elderly smoker who presented with an acute exacerbation of COPD is administeredsalbutamol. Which one of the following substances has a similar mechanism of action?",
+      "options": {
+        "A": "Substance P",
+        "B": "Vasoactive intestinal polypeptide",
+        "C": "Leukotrienes",
+        "D": "Cholinergic stimulation"
+      },
+      "correct_answer": "",
+      "explanation": "Salbutamol, a short-acting beta (adrenergic) agonist (SABA) is a bronchodilator. Similarly,vasoactive intestinal polypeptide (VIP) is also a bronchodilator. Along with dynorphin, it is part ofthe non-adrenergic non-cholinergic (NANC) inhibitory system.Bronchial innervation:Other potent bronchoconstrictors are histamine and leukotrienes.Clinical relevance:• Methacholine sensitivity test or Airway hyperresponsiveness test: Methacholine which is similarto acetylcholine causes exaggerated bronchoconstriction in case of bronchial asthma.•5-Lipoxygenase inhibitor (5-LOX inhibitor-Zileuton), selective CysLT-receptor antagonists (Cysleukotriene receptor antagonist-zafirlukast, pranlukast, and montelukast), and ẞ2 receptoragonists are used in the treatment of asthma.SiteSympathetic systemType of receptEffectorTracheal and bronchial smooth muscleẞ2RelaxationBronchial glands° 1ẞ2Reduce secretion Increase secretionParasympathetic system (more predominant)Tracheal and bronchial smooth muscleM2, M3ContractionBronchial glandsM2, M3Stimulation358Innervation of the tracheobronchial treeTracheobronchial treeParasympatheticstimulationSympatheticstimulationBronchoconstrictionvia muscarinicreceptorsBronchodilationvia adrenergicreceptorsNon-adrenergicnon-cholinergic(NANC) inhibitorysystemNon-adrenergicnon-cholinergic(NANC) stimulatorysystemBronchodilationvia VIP(vasoactive intestinalpolypeptide)and dynorphinBronchoconstrictionvia substance POMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp5_img1_3fd9d65a.jpeg",
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following cells secrete surfactant in lungs?",
+      "options": {
+        "A": "Type 1 pneumocyte",
+        "B": "Alveolar macrophage",
+        "C": "Dust cells",
+        "D": "Type 2 pneumocyte"
+      },
+      "correct_answer": "D",
+      "explanation": "Type 2 pneumocytes secrete surfactant in the lungs.Alveolar Lining Epithelial CellsTwo types• Type I cells - The primary lining cells of the alveoli (squamous epithelium); Helps in gasexchange• Type II cells - Granular pneumocytes produce surfactantType II cells make 60% of epithelial cells in alveoli but type I cells form 95% of the total surfacearea because of its flat surface.Type II cells are stem cells which help in replenishing damaged Type 1 pneumocytes in conditionslike drug-induced pulmonary toxicity by amiodarone, bleomycin etc.Other cells - Pulmonary alveolar macrophages (PAMs/type 3 alveolar cells), lymphocytes, plasmacells, neuroendocrine cells (APUD cells-Amine precursor uptake and decarboxylation), and mastcells.359Type Il pneumocytessecrete surfactant toprevent the collapse ofthe alveolus and toprevent the inner wallsfrom sticking together.OxygenCarbonCapillaryDioxide(CO₂)DeoxygenatedCOblood comingfrom heartTypePneumocytesAlveolusType1PneumocytesbotOxygenatedblood going toheartType 1 Pneumocytesare thin, flat cellswhich allow gasexchange betweenthe alveolus andcapillaries.one",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mphysiology/exp6_img1_25ea6ff9.jpeg",
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 7,
+      "question": "Surfactant is composed mainly of",
+      "options": {
+        "A": "Phosphatidyl glycerol",
+        "B": "Cephalin",
+        "C": "Lecithin",
+        "D": "Protein"
+      },
+      "correct_answer": "",
+      "explanation": "Major surfactant is dipalmitoylphosphatidylcholine i.e Lecithin. Sphingomyelin is a minorsurfactant.The surfactant is a surface-active agent in water, which means that it greatly reduces the surfacetension of water.Pulmonary surfactant is produced by type 2 pneumocytes.Most important components are•Phospholipid - dipalmitoylphosphatidylcholine (DPPC) also known as Dipalmitoyl Lecithin.Lecithin is the most abundant lipid in surfactant.•Phosphatidylglycerol- minor component.Surfactant apoproteins• Calcium ions.• 4 unique apoproteins of surfactant: surfactant protein (SP)-A, SP-B, SP-C, and SP-D.Clinical relevance:•Tests to assess fetal lung maturity:• L/S ratio i.e. Lecithin/Sphingomyelin ratio: Ratio ≥ 2 is considered normal.• Shake test/Bubble test/Clement test: Formation of stable foam in the presence of surfactant.•⚫ Phosphatidylglycerol levels in Amniotic fluid• Autosomal dominant familial interstitial lung disease has absent surfactant protein SP-C.•Pulmonary alveolar proteinosis - Autoantibody against GM-CSF which is involved in clearance ofsurfactant.360",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 8,
+      "question": "All are true of surfactant except_",
+      "options": {
+        "A": "Helps prevent pulmonary edema",
+        "B": "Deficiency of surfactant causes Infant Respiratory Distress Syndrome353",
+        "C": "Helps prevents alveolar collapse according to Bernoulli's principle",
+        "D": "Decrease in surfactant increases the work of breathing"
+      },
+      "correct_answer": "C",
+      "explanation": "Surfactant helps to prevent alveolar collapse according to Law of Laplace. (Not Bernoulli's)Physiologic advantages of surfactant• By reducing surface tension it increases lung compliance••• Reduces the lung's tendency to recoil• Helps to keep the alveoli dry•Helps to prevent pulmonary edema (Option A)The surface tension generates a pressure that tends to collapse the sphere.In accordance with Law of Laplace - P=2T/r, whereP - Collapsing pressure on alveolus (dynes/cm2) or Pressure required to keep alveolus open(dynes/cm2)T = Surface tension (dynes/cm)r = Radius of the alveolus (cm).Collapsing pressure is inversely related to radius i.e. large alveolus (one with a large radius) willhave a low collapsing pressure and therefore will require only minimal pressure to keep it open.On the other hand, a small alveolus (one with a small radius) will have a high collapsing pressureand require more pressure to keep it open.By reducing surface tension, surfactant reduces the collapsing pressure for a given radius.Option B: Surfactant deficiency is an important cause of infant respiratory distress syndrome(IRDS) also known as hyaline membrane disease, the serious pulmonary disease that develops ininfants born before their surfactant system is functional..In IRDS, there is high surface tension in the lungs resulting in atelectasis• Also, there is retention of fluid in the lungs.• During fetal life, Cl- is secreted with fluid by the pulmonary epithelial cells. At birth, there is ashift to Na+ reabsorption by these cells via ENaC and fluid is absorbed along with Na+. Prolongedimmaturity of ENaC contributes to pulmonary edema in IRDS.Option D: Surfactant increases lung compliance, which reduces the work of expanding the lungsduring inspiration. Increasing the compliance of the lungs reduces the collapsing force at anygiven volume so that it is easier for the lungs to expand.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 9,
+      "question": "A young lady at 35 weeks of gestation is at high risk of preterm delivery in the next 7 days. She is started on antenatal corticosteroid therapy to increase surfactant production in the fetus. What is the mechanism of action of this substance?",
+      "options": {
+        "A": "Breaks the structure of water in alveoli",
+        "B": "Lubricates the flow of CO2 diffusion",
+        "C": "Binds oxygen",
+        "D": "Makes the capillary surface hydrophilic"
+      },
+      "correct_answer": "A",
+      "explanation": "The mechanism of action of surfactant is by breaking the structure of water in alveoli. When water forms a surface with air, the water molecules on the surface of the alveoli have a strong attraction for one another. This pulls the molecules together, leading to high surface tension. The surfactant is amphipathic in nature (i.e., hydrophobic on one end and hydrophilic on the other). They align themselves on the alveolar surface, with their hydrophobic portions facing the alveolar lumen. The cohesive force between a water molecule and an adjacent pulmonary surfactant molecule is very low. So, they break up the attracting forces between water molecules lining the alveoli (which had been responsible for the high surface tension). Thus, they reduce surface tension.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 10,
+      "question": "Stability of alveoli is maintained by",
+      "options": {
+        "A": "Lung compliance",
+        "B": "Negative intrapleural pressure",
+        "C": "Increased alveolar surface area by surfactant",
+        "D": "Residual air in alveoli"
+      },
+      "correct_answer": "",
+      "explanation": "Stability of alveoli is maintained by increased alveolar surface area by surfactant.Surfactant reduces the lung's tendency to recoil so that they do not collapse easily and so thestability of the alveoli is maintained.Factors that maintain alveolar stability•Pulmonary surfactant: ↓ surface tension within alveoli• Mechanical interdependence: prevents alveolar collapseInterdependenceThe tendency of one alveolus to collapse is opposed by the traction exerted by the surroundingalveoli. Thus, the collapse of a single alveolus stretches and distorts the surrounding alveoli, whichin turn are connected to other alveoli. This support offered to lung units by those surroundingthem is termed Interdependence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 11,
+      "question": "A woman at risk for preterm delivery is planned for assessment of fetal lung maturity. Atwhat gestational age will the surfactants be detectable in the amniotic fluid?",
+      "options": {
+        "A": "28 weeks",
+        "B": "34 weeks",
+        "C": "35 weeks",
+        "D": "36 weeks"
+      },
+      "correct_answer": "A",
+      "explanation": "Surfactant appears in the amniotic fluid between 28 and 32 weeks of gestation.362By week 20-24, primitive alveoli form and surfactant production begins but it does not reach thesurface of the lungs until later.Mature levels of pulmonary surfactant are present usually after 35 wk of gestation.Clinical aspects:• Preterm infants develop respiratory distress syndrome or hyaline membrane disease due tosurfactant deficiency.• Antenatal corticosteroids are given to increase the production of surfactants.•Lecithin/Sphingomyelin ratio is a test for fetal lung maturity. L/S ratio &gt; 2 is suggestive of amature fetal lung.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 12,
+      "question": "A woman on multiple medications came for an antenatal check-up. Which among the following medications that she takes decreases surfactant production?",
+      "options": {
+        "A": "Thyroid hormones",
+        "B": "Beta adrenergic agonists",
+        "C": "Inadequate insulin",
+        "D": "Calcium supplements"
+      },
+      "correct_answer": "C",
+      "explanation": "Inadequate insulin intake in diabetic pregnant women causes inadequate glucose control. This causes excess glucose in maternal plasma, crossing the placenta. Excess glucose in fetal plasma causes the fetal pancreas to hypersecrete fetal insulin. Excess insulin in fetal plasma decreases surfactant production. This is the reason for the increased incidence of hyaline membrane disease in infants of diabetic mothers. Factors increasing surfactant synthesis: Glucocorticoids, Thyroxine, stretching of lungs in infancy, beta adrenergic agonist, calcium, and regular exercise. Factors decreasing surfactant synthesis: smoking, long-term inhalation of 100% oxygen, and occlusion of the main bronchus/pulmonary artery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    },
+    {
+      "q_no": 13,
+      "question": "Which is the best metabolic function of the lung?",
+      "options": {
+        "A": "Inactivation of serotonin",
+        "B": "Inactivation of bradykinin",
+        "C": "Metabolism of basic drugs",
+        "D": "Conversion of angiotensin I to angiotensin II"
+      },
+      "correct_answer": "",
+      "explanation": "Conversion of angiotensin I to angiotensin II is the most significant metabolic function of thelungs.This is mediated by angiotensin-converting enzyme (ACE), located on the surface of endothelialcells in the pulmonary capillaries.•Synthesized and used in the lungs363• Surfactant•Synthesized or stored and released into the blood• Prostaglandins• Histamine•Kallikrein•Partially removed from the blood•.ProstaglandinsBradykinin• Adenine nucleotides• Serotonin• Norepinephrine•Acetylcholine•• Activated in the lungs• Angiotensin I → Angiotensin II364",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Functional Anatomy"
+    }
+  ]
+}
