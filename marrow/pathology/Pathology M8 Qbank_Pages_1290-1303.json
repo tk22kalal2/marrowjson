@@ -1,0 +1,260 @@
+{
+  "chapter": "Infective & Vascular CNS pathology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which cells constitute the resident monocyte-lineage population of the CNS and accumulate in response to injury?",
+      "options": {
+        "A": "Oligodendrocytes",
+        "B": "Microglial cells",
+        "C": "Astrocytes",
+        "D": "Stellate cell"
+      },
+      "correct_answer": "B",
+      "explanation": "Microglial cells are the resident monocyte-lineage population of the CNS and accumulate in response to injury.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of these are the earliest morphologic markers of neuronal cell death?",
+      "options": {
+        "A": "White neurons",
+        "B": "Red neurons",
+        "C": "Gliosis",
+        "D": "Axonal reaction"
+      },
+      "correct_answer": "B",
+      "explanation": "Red neurons are the earliest morphologic markers of neuronal cell death. Acute neuronal injury refers to a spectrum of changes that accompany acute CNS hypoxia/ischemia or other acute insults and reflect the earliest morphologic markers of neuronal cell death. They are evident by about 12 to 24 hours after an irreversible insult. Morphologic features consist of: • Shrinkage of the cell body • Pyknosis of the nucleus • Disappearance of the nucleolus • Loss of Nissl substance • Intense eosinophilia of the cytoplasm. Stages of neuronal injury and their pathological features are given below: Stages - Early change, Time - 12-24 hr, Subacute change - 24 hr-2 weeks, Repair - 2 weeks +. Features - Red neuron, Necrosis, macrophages, vascular proliferation, gliosis, Removal of necrosis, gliosis completed, loss of CNS architecture.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 3,
+      "question": "A 45-year-old male who is a known diabetic and hypertensive suffers a stroke. During this episode, which of the following cells are the least susceptible to injury, considering the stroke was transient and not severe?",
+      "options": {
+        "A": "Watershed zones of cerebral cortex",
+        "B": "Pyramidal cells of hippocampus",
+        "C": "Purkinje cells of cerebellum",
+        "D": "Astrocytes of cerebral cortex"
+      },
+      "correct_answer": "D",
+      "explanation": "Astrocytes are more resistant to focal cerebral ischemia than neurons, and die by delayed necrosis. The cells most susceptible to ischemia are: Pyramidal cell layer cells of the hippocampus (especially area CA1, also referred to as Sommer sector), Purkinje cells of the cerebellum, and pyramidal neurons of the cerebral cortex (the watershed zones).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 4,
+      "question": "A 50-year-old man died of an unknown condition. On autopsy, a sample of the brain was taken as a specimen, and the following fibers were seen on microscopic examination. These fibers are not seen in which of the following conditions?",
+      "options": {
+        "A": "Alexander disease",
+        "B": "Pilocytic astrocytoma",
+        "C": "Pick disease",
+        "D": "Longstanding gliosis"
+      },
+      "correct_answer": "C",
+      "explanation": "The image shows the presence of Rosenthal fibers. Rosenthal fibers are not seen in Pick's disease. Rosenthal fibers are thick, elongated, brightly eosinophilic, irregular structures that occur within astrocytic processes. They contain two heat-shock proteins (αB crystallin and HSP27) as well as ubiquitin. They are typically found in regions of longstanding gliosis and are characteristic of a type of glial tumor - pilocytic astrocytoma. Alexander disease is a leukodystrophy associated with mutations in the gene encoding GFAP. In this condition, abundant Rosenthal fibers are found in periventricular, perivascular, and subpial locations.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q4_img1_bc4e571f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 5,
+      "question": "Hemorrhage of which of the following areas of the brain are called ganglionic hemorrhages?",
+      "options": {
+        "A": "Basal ganglia and cerebral hemisphere",
+        "B": "Thalamus and pons",
+        "C": "Basal ganglia and thalamus",
+        "D": "Basal ganglia only"
+      },
+      "correct_answer": "C",
+      "explanation": "Hemorrhages in the basal ganglia and thalamus are commonly designated ganglionic hemorrhages. Those that occur in the lobes of the cerebral hemispheres are called lobar hemorrhages.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient is rushed into the ER with complaints of sudden excruciating headache and projectile vomiting. CT angiography shows the presence of Charcot-Bouchard microaneurysms. These are caused by which of the following?",
+      "options": {
+        "A": "Congenital",
+        "B": "Hypertension",
+        "C": "Atherosclerosis",
+        "D": "Trauma"
+      },
+      "correct_answer": "B",
+      "explanation": "Charcot-Bouchard microaneurysms are caused by chronic hypertension. They are most commonly seen within the basal ganglia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 7,
+      "question": "A 66-year-old man with chronic hypertension presents to the ER with altered mental status and elevated blood pressure of 210/110 mm Hg. You suspect intracranial hemorrhage. What is the most common site of hemorrhage seen in such cases?",
+      "options": {
+        "A": "Putamen",
+        "B": "Thalamus",
+        "C": "Pons",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical condition is suggestive of hypertensive intraparenchymal hemorrhage. The most common site (50-60%) of hypertensive hemorrhage in the brain is the putamen. Hypertension is the most common cause of intracerebral hemorrhage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient with a known history of autosomal dominant polycystic kidney disease presents to the ER with a sudden, severe headache, photophobia, and nausea. What type of aneurysm would you suspect in this patient?",
+      "options": {
+        "A": "Saccular",
+        "B": "Fusiform",
+        "C": "Mycotic",
+        "D": "Dissecting"
+      },
+      "correct_answer": "A",
+      "explanation": "In a patient with a known history of autosomal dominant polycystic kidney disease, the most common type of intracranial aneurysm is a saccular aneurysm. Although the majority occur sporadically, genetic factors may be important in their pathogenesis of saccular aneurysms. There is an increased incidence of saccular aneurysm in individuals with certain Mendelian disorders, like autosomal dominant polycystic kidney disease, Ehlers-Danlos syndrome type IV, neurofibromatosis type 1 [NF1], and Marfan syndrome, fibromuscular dysplasia of extracranial arteries, and coarctation of the aorta. Other predisposing factors include cigarette smoking and hypertension. The most frequent cause of clinically significant subarachnoid hemorrhage is the rupture of a saccular (berry) aneurysm in a cerebral artery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements is not true about CADASIL?",
+      "options": {
+        "A": "It shows autosomal recessive inheritance.",
+        "B": "It is characterized by mutations in the NOTCH3 gene.",
+        "C": "It presents with subcortical infarcts.",
+        "D": "Recurrent strokes and dementia are seen."
+      },
+      "correct_answer": "A",
+      "explanation": "Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is an autosomal-dominant disorder caused by mutations in the NOTCH3 gene. This leads to the misfolding of the extracellular domain of the NOTCH3 receptor that is preferentially expressed in vascular smooth muscle. It is clinically characterized by recurrent strokes (usually ischemic, less often hemorrhages) and dementia. Arteries in the CNS and in other tissues such as skin show concentric thickening of the media and adventitia, loss of smooth muscle cells, and the presence of basophilic, periodic acid Schiff (PAS)-positive deposits. Deposits contain the misfolded NOTCH3 protein. These appear as osmiophilic compact granular material on electron microscopy and are consistently detected in the walls of affected vessels.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient presented to the emergency department with high fever, photophobia, and neck stiffness. A lumbar puncture was performed and findings are given below. Which of the following is the most common cause of this condition?",
+      "options": {
+        "A": "Enterovirus",
+        "B": "Herpes simplex 1 virus",
+        "C": "Herpes simplex 2 virus",
+        "D": "West Nile virus"
+      },
+      "correct_answer": "A",
+      "explanation": "The above clinical scenario is suggestive of aseptic meningitis. Enterovirus is the most common cause, accounting for around 90% of the cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 11,
+      "question": "A 34-year-old man is admitted with a history of altered sensorium and abnormal behavior. The patient subsequently died, and on autopsy, the following findings are seen in the Purkinje cells of the cerebellum. What are these called?",
+      "options": {
+        "A": "Henderson-Patterson bodies",
+        "B": "Negri bodies",
+        "C": "Owl-eye inclusions",
+        "D": "Guarnieri bodies"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows characteristic Negri bodies found in the Purkinje cell of the cerebellum. These are the pathognomonic microscopic finding in rabies. This patient's clinical features of altered sensorium and abnormal behavior are suggestive of rabies. Negri bodies are cytoplasmic, round to oval, eosinophilic inclusions that can be found in the pyramidal neurons of the hippocampus and Purkinje cells of the cerebellum. The rabies virus can be detected within Negri bodies by ultrastructural and immunohistochemical methods.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q11_img1_790b8216.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_c63cfeab.jpeg",
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 12,
+      "question": "Progressive multifocal leukoencephalopathy is caused by which of the following?",
+      "options": {
+        "A": "Rabies",
+        "B": "Measles",
+        "C": "JC virus infection",
+        "D": "CMV infection"
+      },
+      "correct_answer": "C",
+      "explanation": "Progressive multifocal leukoencephalopathy (PML) is an encephalitis caused by the JC polyomavirus. The disease occurs almost exclusively in immunosuppressed individuals, most commonly among patients with acquired immunodeficiency syndrome (AIDS). The most prominent symptoms are clumsiness, progressive weakness, and visual, speech, and personality changes. Since the virus preferentially infects oligodendrocytes, demyelination is its principal pathological effect. It affects the subcortical white matter, particularly that of the parietal and occipital lobes. On microscopic examination, enlarged oligodendrocyte nuclei containing glassy amphophilic viral inclusions are seen.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp12_img1_b15e9d6b.jpeg",
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 13,
+      "question": "A 35-year-old immunocompromised patient presented with fever, headache, and neurological deficits. MRI showed multiple enhancing lesions and a stereotactic biopsy of the lesion was done. What is the most likely diagnosis? A) Cerebral malaria, B) Cerebral toxoplasmosis, C) Herpes simplex encephalitis, D) Progressive multifocal leukoencephalopathy (PML). A 40-year-old man with bronchiectasis presents with progressive focal neurologic deficits and symptoms related to increased intracranial pressure. On lumbar puncture, the CSF is found to have a high white cell count and an increased protein concentration, but the glucose content is normal. What is the most likely diagnosis?",
+      "options": {
+        "A": "Brain abscess",
+        "B": "Viral meningitis",
+        "C": "Neurosyphilis",
+        "D": "Lyme disease"
+      },
+      "correct_answer": "B",
+      "explanation": "The above image shows lymphocytes, macrophages, and eosinophils surrounding the Toxoplasma bradyzoites encased in cysts. Along with the case scenario, the most likely diagnosis is cerebral toxoplasmosis. Cerebral toxoplasmosis is an opportunistic infection commonly found in the setting of HIV-associated immunosuppression. Toxoplasmosis of the CNS produces brain abscesses, which are found most often in the cerebral cortex (near the grey-white junction) and deep gray nuclei. Lesions of acute cerebral toxoplasmosis exhibit central necrosis, petechial hemorrhages surrounded by acute and chronic inflammation, macrophage infiltration, and vascular proliferation. Both free tachyzoites and encysted bradyzoites may be found at the periphery of the necrotic foci. Chronic lesions consist of small cystic spaces containing scattered lipid and hemosiderin-laden macrophages that are surrounded by gliotic brain. Option A: In cerebral malaria caused by P. falciparum, brain vessels are plugged with parasitized red cells. Around the vessels, ring hemorrhages and small focal inflammatory reactions (called malarial or Dürck granulomata) are seen. Option C: Herpes simplex encephalitis is necrotizing and often hemorrhagic. Cowdry type A intranuclear viral inclusion bodies may be found in both neurons and glia. Option D: Progressive multifocal leukoencephalopathy (PML) is an encephalitis caused by the JC polyomavirus. The disease occurs almost exclusively in immunosuppressed individuals. The virus preferentially infects oligodendrocytes and hence demyelination is its principal pathologic effect. The enlarged oligodendrocyte nuclei contain glassy amphophilic viral inclusions.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q13_img1_340118b5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is incorrect regarding the common locations of CNS infections?",
+      "options": {
+        "A": "Tuberculosis - basal part of the brain",
+        "B": "HSV frontal and temporal lobes",
+        "C": "HIV frontal and parietal lobes",
+        "D": "CMV choroid plexus"
+      },
+      "correct_answer": "C",
+      "explanation": "HIV encephalopathy is seen in subcortical regions of the brain and not in frontal and parietal lobes. It is characterized by defects in short-term memory and executive function. It is also known as subcortical dementia. CNS manifestations seen in AIDS: • Aseptic meningitis • HIV-associated neurocognitive disorder (HAND) • HIV encephalopathy • AIDS dementia complex. Myelopathy • Pure sensory ataxia • Paresthesia/dysesthesia • Myopathy • Peripheral neuropathy • Acute inflammatory demyelinating polyneuropathy (Guillain-Barre syndrome) • Chronic inflammatory demyelinating polyneuropathy (CIDP) • Mononeuritis multiplex • Distal symmetric polyneuropathy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following statements is false regarding prion diseases?",
+      "options": {
+        "A": "Creutzfeldt-Jakob Disease is most commonly sporadic",
+        "B": "Spongiform neurons are seen in fatal familial insomnia",
+        "C": "Startle myoclonus is seen in Creutzfeldt-Jakob Disease",
+        "D": "The disease-causing isoform of prion protein is PrPC"
+      },
+      "correct_answer": "D",
+      "explanation": "The disease-causing isoform of prion protein is PrPSc. Prions are the proteinaceous infectious particles that lack nucleic acid, composed entirely of alternatively folded proteins that undergo self-propagation. They bind to the normal, cellular isoform of the prion protein (PrPC), which is rich in α-helix, and stimulate conversion of PrPC into the disease-causing isoform PrPSc, which contains less α-helix and a high amount of β-structure. Structured proteins are resistant to digestion by human cellular enzymes. Transmission of prion disease may be sporadic, familial, or iatrogenic. This group of diseases includes: Creutzfeldt-Jakob disease, Gerstmann-Sträussler-Scheinker syndrome, Fatal Familial Insomnia, Kuru disease, Scrapie in sheep and goats, and Bovine spongiform encephalopathy in cows. The most common prion disease in humans is CJD, which is most commonly sporadic. CJD is characterized by a constellation of dementia, myoclonus, and periodic electrical bursts in EEG. Autoclaving at 134 degrees Celsius for 5 hours or treatment with 2 N NaOH for several hours is recommended for sterilization against prions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 17,
+      "question": "A 15-year-old boy is brought to the ER with complaints of seizures, spasticity of limbs, and cognitive decline since two weeks. He has no history of recent illness, but mentions suffering from a high fever with a rash 5 years ago. What condition had he likely suffered from?",
+      "options": {
+        "A": "Measles",
+        "B": "Chicken pox",
+        "C": "HSV infection",
+        "D": "Scarlet fever"
+      },
+      "correct_answer": "A",
+      "explanation": "The patient is most likely suffering from subacute sclerosing panencephalitis (SSPE), a delayed late complication of measles. Subacute sclerosing panencephalitis (SSPE) is a rare, progressive clinical syndrome characterized by cognitive decline, spasticity of limbs, seizures, and psychosis. It occurs in children or young adults, months or years after an initial, early-age acute infection with measles. The pathogenesis of SSPE is not well understood but may involve persistent infection with a genetic variant of measles virus within the central nervous system.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    },
+    {
+      "q_no": 18,
+      "question": "Berry aneurysm occurs due to:",
+      "options": {
+        "A": "Endothelial injury of vessel due to hypertension",
+        "B": "Arterial internal elastic lamina defect",
+        "C": "Endothelial layer defect",
+        "D": "Adventitia defect"
+      },
+      "correct_answer": "B",
+      "explanation": "Berry aneurysm occurs due to an arterial internal elastic lamina defect. As an aneurysm develops, it typically forms a neck with a dome and the arterial internal elastic lamina disappears at the base of the neck. The media thins and connective tissue replaces the smooth-muscle cells. The site of rupture is most often the dome. Here the wall thins, and the tear that allows bleeding is usually ≤0.5 mm long. Risk of aneurysm rupture is higher if: Aneurysm is >7 mm in diameter, Aneurysm at the top of the basilar artery, Aneurysm at the origin of the posterior communicating artery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Infective & Vascular CNS pathology"
+    }
+  ]
+}

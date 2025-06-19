@@ -1,0 +1,245 @@
+{
+  "chapter": "Peripheral nerves & Neuromuscular pathology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common cause of peripheral neuropathy?",
+      "options": {
+        "A": "Nutritional deficiency",
+        "B": "Paraneoplastic syndrome",
+        "C": "Diabetes mellitus",
+        "D": "Drug-induced"
+      },
+      "correct_answer": "C",
+      "explanation": "Diabetes mellitus is the most common cause of peripheral neuropathy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 2,
+      "question": "A 20-year-old man presents with distal leg weakness with no complaints of tingling or numbness. On examination, you note reduced muscle stretch reflexes below the knee along with the following findings. This condition is associated with which chromosome?",
+      "options": {
+        "A": "17",
+        "B": "19",
+        "C": "1",
+        "D": "13"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of Charcot-Marie-Tooth (CMT) disease. It is most commonly associated with chromosome 17. It is the most common type of hereditary neuropathy. The most common variant of this condition is CMT1A. It is caused by a duplication of a region on chromosome 17 that includes the peripheral myelin protein 22 (PMP22) gene. It usually presents in the first to third decade of life with distal leg weakness, e.g., foot drop with no numbness or tingling. There is reduced sensation to all modalities with reduced muscle stretch reflexes. Atrophy of the muscles below the knee leads to inverted champagne bottle legs. Charcot-Marie-Tooth disease is characterized by inverted champagne bottle legs, pes cavus (high arch), and hammer toes.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q2_img1_f44fa4a5.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp2_img1_7a136c6d.jpeg",
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 3,
+      "question": "A 32-year-old woman comes with complaints of double vision that gets worse after she reads a book or watches television. She also has drooping of the eyelids that gets better after a nap. Serology is positive for anti-acetylcholine receptor antibodies. Which of the following is more commonly associated with this condition?",
+      "options": {
+        "A": "Thymoma",
+        "B": "Thymic hyperplasia",
+        "C": "Medullary carcinoma of the thyroid",
+        "D": "Small cell lung carcinoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of myasthenia gravis. It is most commonly associated with thymic hyperplasia (65% of cases). Thymoma is seen in around 10% of patients with myasthenia gravis. Myasthenia gravis is a neuromuscular disorder that is characterized by weakness and the fatigability of skeletal muscles. It is due to the autoantibody-mediated destruction of the acetylcholine receptors (AChRs) at the neuromuscular junction. This consequently leads to a decreased transmission at the neuromuscular (myoneural) junction. There is a characteristic pattern of muscle involvement. Lid and extraocular muscles (diplopia and ptosis) are involved early in the disease course. The facial muscles' weakness can produce a snarling expression, weakness in chewing, and a nasal timbre to the voice. Weakness increases with repeated use of the muscles and improves with rest. The reflexes are normal in this condition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 4,
+      "question": "A 52-year-old man presents with mild ptosis and proximal lower limb weakness. Nerve conduction studies show incremental response following brief exercise. Further investigations reveal antibodies against presynaptic P/Q voltage-gated calcium channels. Which of the following malignancies is associated with this condition?",
+      "options": {
+        "A": "Small cell lung cancer",
+        "B": "Thymoma",
+        "C": "Medullary thyroid cancer",
+        "D": "Parathyroid cancer"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of Lambert-Eaton myasthenic syndrome (LEMS). It is associated with small-cell lung carcinoma. It is an autoimmune disorder caused by antibodies that block acetylcholine release by inhibiting a presynaptic calcium channel. In contrast to myasthenia gravis, rapid, repetitive stimulation (muscle activity) results in an increase in muscle response and strength. Patients typically present with weakness of their extremities. In about half the cases, there is an underlying malignancy; most often, neuroendocrine carcinoma of the lung (small cell lung carcinoma). The stimulus for autoantibody formation in paraneoplastic cases may be the expression of the same calcium channel in the neoplastic cells. Patients without cancer often have other autoimmune diseases, such as vitiligo or thyroid disease. Treatment consists of drugs that increase acetylcholine release by depolarizing synaptic membranes (pyridostigmine), plasmapheresis, and immunosuppressive agents, similar to myasthenia gravis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the most common inflammatory myopathy in children?",
+      "options": {
+        "A": "Dermatomyositis",
+        "B": "Polymyositis",
+        "C": "Inclusion body myositis",
+        "D": "Viral myositis"
+      },
+      "correct_answer": "A",
+      "explanation": "Dermatomyositis is the most common inflammatory myopathy in children. Two types of dermatomyositis are known - juvenile and adult. Age of onset, common associations: Juvenile dermatomyositis is under 7 years, with calcinosis and lipodystrophy. Adult dermatomyositis occurs in the 4th to 6th decade, with cardiac and lung involvement, and underlying malignancy (15-25%). Myositis-specific antibodies are present. The prognosis is better for juvenile dermatomyositis and worse for adult dermatomyositis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 6,
+      "question": "A 51-year-old woman presents with complaints of weakness for 2 months. She reports that she has difficulty rising from a chair and combing her hair every morning. Physical exam reveals decreased strength in the shoulders and hip. Muscle biopsy findings are shown below. What is the likely diagnosis?",
+      "options": {
+        "A": "Dermatomyositis",
+        "B": "Polymyositis",
+        "C": "Inclusion body myositis",
+        "D": "Viral myositis"
+      },
+      "correct_answer": "A",
+      "explanation": "The muscle biopsy shows myofiber atrophy accentuated at the edges of the fascicles (perifascicular atrophy). The biopsy, along with the history, is suggestive of dermatomyositis. It is associated with perimysial CD4+ cellular infiltrates. Dermatomyositis is an immunologic disease in which damage to small blood vessels contributes to muscle injury. Dermatomyositis biopsy findings include muscle fascicle, perifascicular atrophy, perimysial cellular infiltrates, and endomysium. Note: Viral myositis occurs 1-7 days after a viral infection (HIV-1, coxsackievirus). Muscle weakness and tenderness are seen. There are raised CK levels, muscle necrosis without inflammation, and positive urine myoglobin.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp6_img1_0090f19a.jpeg",
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient with gastric carcinoma develops proximal muscle weakness. Biopsy findings are suggestive of dermatomyositis. Which of the following antibodies are most likely to be present in this patient?",
+      "options": {
+        "A": "Anti-Mi2 antibodies",
+        "B": "Antiribosomal P antibodies",
+        "C": "Anti-P155/P140 antibodies",
+        "D": "Anti-Jo1 antibodies"
+      },
+      "correct_answer": "C",
+      "explanation": "This patient has developed paraneoplastic dermatomyositis. Anti-P155/P140 antibodies (directed against several transcriptional regulators) are associated with paraneoplastic dermatomyositis and juvenile dermatomyositis. It presents as gradual, symmetric muscle weakness and myalgias, typically affecting the proximal muscles first. Fine movements controlled by distal muscles are affected late in the disease. Myopathic changes and elevation in serum creatine kinase levels suggest muscle damage. Dermatomyositis - Cutaneous features: Heliotrope rash, Gottron papules, V sign.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_ad0746ec.jpeg",
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient with muscle weakness is found positive for antibodies against cN1A. What is the likely diagnosis?",
+      "options": {
+        "A": "Dermatomyositis",
+        "B": "Polymyositis",
+        "C": "Inclusion-body myositis",
+        "D": "Viral myositis"
+      },
+      "correct_answer": "C",
+      "explanation": "Antibodies to cN1A are seen in inclusion-body myositis. It is the most common inflammatory myopathy in patients >65 years. Patients present with slowly progressive muscle weakness that tends to be most severe in the quadriceps and the distal upper extremity muscles. Dysphagia from esophageal and pharyngeal muscle involvement can also occur. Laboratory studies usually show modestly elevated creatine kinase levels. Most myositis-associated autoantibodies are absent but are positive for antibodies to cN1A.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 9,
+      "question": "An 8-year-old boy was brought in with progressive muscle weakness and walking difficulties. The following finding was noted on examination. Genetic testing revealed a dystrophin gene mutation. On which chromosome is the affected gene located?",
+      "options": {
+        "A": "X",
+        "B": "Y",
+        "C": "21",
+        "D": "22"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical history and the image showing pseudohypertrophy of calf muscles are highly suggestive of Duchenne's muscular dystrophy. It is an X-linked recessive condition. Duchenne's and Becker's muscular dystrophy are caused by loss-of-function mutations in the dystrophin gene on the X chromosome. It is one of the largest human genes. Dystrophin provides mechanical stability to the myofiber during muscle contraction. Defects in the complex may lead to small membrane tears that permit the influx of calcium, triggering events that result in myofiber degeneration. Duchenne's muscular dystrophy is associated with deletions or frame-shift mutations that result in the total absence of dystrophin. Immunohistochemical studies for dystrophin show the absence of the normal sarcolemmal staining pattern. In contrast, the mutations in Becker's muscular dystrophy typically permit the synthesis of a truncated version of dystrophin, which retains some function. Immunohistochemical studies for dystrophin show reduced staining.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q9_img1_77ca1ac0.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 10,
+      "question": "NARP syndrome is a?",
+      "options": {
+        "A": "Lysosomal storage disorder",
+        "B": "Mitochondrial function disorder",
+        "C": "Glycogen storage disorder",
+        "D": "Golgi body transport disorder"
+      },
+      "correct_answer": "B",
+      "explanation": "NARP syndrome - Neuropathy, Ataxia, Retinitis Pigmentosa syndrome is described as a mitochondrial function disorder. NARP syndrome is due to a point mutation of the mitochondrial ATPase-6 gene. It has 2 phenotypes: NARP and Maternally Inherited Leigh Syndrome (MILS). It is characterized by moderate, diffuse cerebral and cerebellar atrophy and symmetric lesions of the basal ganglia on MRI. The severity of the syndrome corresponds to the mutant mitochondrial DNA load in the tissues.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following are mitochondrial disorders?",
+      "options": {
+        "A": "2, 4, 5",
+        "B": "1, 3, 4",
+        "C": "1, 2, 3",
+        "D": "2, 3, 5"
+      },
+      "correct_answer": "D",
+      "explanation": "The following conditions are mitochondrial disorders: Myoclonic epilepsy with ragged red fibers, Leber hereditary optic neuropathy, Kearns-Sayre syndrome. The proteins and tRNAs in the mitochondria may be encoded by 2 sets of genes: Nuclear genome - Mendelian inheritance patterns, Mitochondrial genome (mtDNA) - maternally inherited, as the oocyte contributes all the mitochondria in the embryo. Mitochondrial disorders are caused by mutations in the mitochondrial genome. The most consistent pathologic change in skeletal muscle is abnormal aggregates of mitochondria. These are seen preferentially in the subsarcolemmal area of affected myofibers, producing a ragged red fibers appearance.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q11_img1_0affff64.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_7cd89626.jpeg",
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 12,
+      "question": "Hypokalemic periodic paralysis is most commonly caused by the mutation of genes encoding which of the following ion channels?",
+      "options": {
+        "A": "Sodium",
+        "B": "Calcium",
+        "C": "Potassium",
+        "D": "Chloride"
+      },
+      "correct_answer": "B",
+      "explanation": "Hypokalemic periodic paralysis is most commonly caused by the mutation of the genes encoding calcium channels (CACNA1S). It is an autosomal dominant ion channel myopathy with an onset in adolescence. Males are usually affected more than females. It presents as proximal muscle weakness. Ocular and bulbar muscles are less likely to be involved. The diagnosis is established by a low serum potassium level during an attack, after excluding secondary causes. Ion channel myopathies include the following: Ion channel affected, Manifestation, CACNA1S, KCNJ2, SCN4A, CLCN1, RYR1, Hypokalemic periodic paralysis, Andersen-Tawil syndrome, Autosomal disorder, Periodic paralysis, heart arrhythmias, and skeletal abnormalities, Myotonia and periodic paralysis, Myotonia congenita, Congenital myopathy (central core disease), Malignant hyperthermia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 13,
+      "question": "In a child diagnosed with myotonia congenita, which of the following ion channel is likely to be mutated?",
+      "options": {
+        "A": "Sodium",
+        "B": "Calcium",
+        "C": "Potassium",
+        "D": "Chloride"
+      },
+      "correct_answer": "D",
+      "explanation": "Mutations affecting the chloride channel CLC1 cause myotonia congenita. The resulting deficiency of CLC1 is responsible for the characteristic myotonia in myotonic dystrophy. Ion channel myopathies: Ion channel affected: CLC1, A3, KCNJ2, SCN4A, CLC1, RYR1. Manifestation: Hypokalemic Periodic Paralysis (HypoKPP), Andersen-Tawil syndrome, an autosomal disorder associated with periodic paralysis, heart arrhythmias, and skeletal abnormalities, Myotonia and periodic paralysis, Myotonia congenita, Congenital myopathy (central core disease) and malignant hyperthermia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 14,
+      "question": "Glial hamartia is a feature of which of the following conditions?",
+      "options": {
+        "A": "Neurofibromatosis type 1",
+        "B": "Neurofibromatosis type 2",
+        "C": "Tuberous sclerosis",
+        "D": "Von Hippel-Lindau syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Glial hamartias are seen in neurofibromatosis type 2 (NF2). These are microscopic nodular collections of glial cells at abnormal locations, often in the superficial and deep layers of the cerebral cortex. NF2 is associated with the following: bilateral eighth-nerve schwannomas, multiple meningiomas, gliomas typically ependymomas of the spinal cord, and nonneoplastic lesions - schwannosis, meningioangiomatosis, and glial hamartia. Option A: NF1 is associated with neurofibromas of all types, malignant peripheral nerve sheath tumors, gliomas of the optic nerve, other glial tumors, hamartomatous lesions, and pheochromocytomas. Option C: Tuberous sclerosis is associated with hamartomas within the CNS in the form of cortical tubers and subependymal nodules. Other lesions include subependymal giant-cell astrocytoma, renal angiomyolipomas, retinal glial hamartomas, pulmonary lymphangioleiomyomatosis, cardiac rhabdomyomas, and cysts in the liver, kidneys, and pancreas. Option D: Von Hippel-Lindau disease is associated with hemangioblastomas of the CNS and cysts involving the pancreas, liver, and kidneys, and have a propensity to develop renal cell carcinoma and pheochromocytoma. Note: A hamartia is not considered to be a tumor and is distinct from a hamartoma. A hamartoma is a benign neoplasm characterized by tissue misarrangement similar to a hamartia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 15,
+      "question": "A pathologist is examining a histopathological slide showing pseudo-Meissner corpuscles. This finding is seen in which of the following conditions?",
+      "options": {
+        "A": "Diffuse neurofibroma",
+        "B": "Plexiform neurofibroma",
+        "C": "Superficial cutaneous neurofibroma",
+        "D": "Wallerian degeneration"
+      },
+      "correct_answer": "A",
+      "explanation": "Focal collections of pseudo-Meissner corpuscles or tactile-like bodies (cells mimicking the appearance of Meissner corpuscles) is a feature of diffuse neurofibroma. Note: Meissner corpuscles consist of a cutaneous nerve ending responsible for transmitting the sensations of fine, discriminative touch and vibration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    },
+    {
+      "q_no": 16,
+      "question": "An electron microscopic picture of a cut section of a nerve fiber is given. Identify the area which will be affected in the most common variant of Guillain-Barré syndrome.",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4, 1, 2, 3"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common variant of Guillain-Barré syndrome is acute inflammatory demyelinating polyneuropathy (AIDP). The area affected in this condition is the myelin sheath (marked as 2 in the image). Myelinated Axon - Electron microscopy appearance: Schwann cell, Myelin, Axon, Basal lamina. 500 nm. Guillain-Barré syndrome (GBS) is an acute autoimmune disease that causes fulminant polyradiculoneuropathy. It is a T-cell-mediated immune response. GBS is usually associated with a history of upper respiratory infection (URI) or acute gastroenteritis (AGE) 1-3 weeks prior. The causative organisms may be Campylobacter jejuni, cytomegalovirus, Epstein-Barr virus, and Mycoplasma pneumoniae. It presents with the following features: Ascending motor paralysis (lower limbs > upper limbs), sensory deficits may or may not be seen, deep tendon reflexes - absent, transient bladder dysfunction in severe cases, and autonomic manifestations - loss of vasomotor control, postural hypotension, cardiac dysrhythmias. Histological examination shows inflammation of peripheral nerves, manifested as perivenular and endoneurial infiltration by lymphocytes, macrophages, and a few plasma cells. On electron microscopy, an early effect on myelin sheaths is seen. There is segmental demyelination induced by the actions of activated macrophages. There are several types of Guillain-Barré syndrome: Demyelinating, Acute inflammatory demyelinating polyneuropathy (AIDP) - most common, Axonal, Acute motor axonal neuropathy (AMAN), Acute motor-sensory axonal neuropathy (AMSAN), and Regional GBS syndromes: Miller-Fisher syndrome (MFS).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q16_img1_881d0d27.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Peripheral nerves & Neuromuscular pathology"
+    }
+  ]
+}

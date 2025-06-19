@@ -1,0 +1,305 @@
+{
+  "chapter": "CNS Tumours",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is the most common primary malignant brain tumor in children?",
+      "options": {
+        "A": "Medulloblastoma",
+        "B": "Oligodendroglioma",
+        "C": "Pilocytic astrocytoma",
+        "D": "Ependymoma"
+      },
+      "correct_answer": "A",
+      "explanation": "Medulloblastoma is indeed considered the most common primary malignant brain tumor in children.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 2,
+      "question": "A 6-year-old child is brought with complaints of unsteadiness and gait disturbance. On neurological examination, nystagmus, areflexia, and hypotonia are noted. Contrast-enhanced MRI of the brain shows an enhancing nodule within the wall of a cystic mass. The mass is resected and histology shows the given finding. Which of the following statements is incorrect regarding this tumor?",
+      "options": {
+        "A": "BRAF mutation is seen in this tumor",
+        "B": "It is GFAP positive",
+        "C": "It is usually slow growing",
+        "D": "It belongs to WHO grade II tumors"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical history and the image showing Rosenthal fibers is diagnostic of pilocytic astrocytoma. It belongs to WHO grade I tumors. Pilocytic astrocytoma typically occurs in children and young adults and is usually located in the cerebellum. It is usually a slow-growing tumor and if it occurs in the cerebellum, it can be resected. If it extends into the hypothalamic region from the optic tract, it can have a more ominous clinical course because of its location. It is often cystic; if solid, it may be well circumscribed. It is often biphasic with both loose microcystic and fibrillary areas. The tumor is composed of bipolar cells with long, thin hair-like processes that are GFAP-positive and form dense fibrillary meshworks. Rosenthal fibers and eosinophilic granular bodies are characteristic findings under microscopy. BRAF mutation is seen in this tumor.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q2_img1_926a305f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 3,
+      "question": "A 65-year-old patient presents with headache, seizures, and focal neurological deficit. Imaging shows a tumor in the right frontal lobe which crosses the midline and the histological section of the resected tumor is shown below. Which of the following molecular subtypes does this tumor belong to?",
+      "options": {
+        "A": "IDH wild type",
+        "B": "IDH mutant type",
+        "C": "P53 - wild type",
+        "D": "P53 mutant type"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical history and histological image are suggestive of primary glioblastoma, IDH-wild type. The given histological image shows foci of necrosis with pseudo-palisading of malignant nuclei and endothelial cell proliferation, which are characteristic of glioblastoma (previously called glioblastoma multiforme). According to the WHO classification of CNS diseases 2016, glioblastomas are classified as follows: 1. Glioblastoma, IDH-wild type: • About 90% of the cases • Primary or de novo glioblastoma • Over 55 years of age 2. Glioblastoma, IDH-mutant type: • About 10% of the cases • Secondary glioblastoma, with a history of prior lower-grade diffuse glioma • Arises in younger patients 3. Glioblastoma, NOS, where full IDH evaluation cannot be performed.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q3_img1_295c1ed5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 4,
+      "question": "A 40-year-old patient presents to the OPD with recurrent seizures, headache, and projectile vomiting. MRI brain reveals cortical-based heterogeneous tumor with calcification in the frontal lobe. The histological section of the resected tumor shows perineuronal satellitosis. Which of the following is the most common genetic alteration noted in this tumor?",
+      "options": {
+        "A": "Mutation of the isocitrate dehydrogenase genes",
+        "B": "Deletion of portions of chromosomes 1p and 19q",
+        "C": "Loss of 9p",
+        "D": "Mutation in CDKN2A"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical picture is suggestive of oligodendroglioma and the most common genetic alterations in oligodendroglioma are mutations of the isocitrate dehydrogenase (IDH1 and IDH2) genes. IDH1 and IDH2 gene mutations are seen in up to 90% of oligodendroglioma and they are associated with a better prognosis. Deletions of portions of chromosomes 1p and 19q are seen in up to 80% of the cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 5,
+      "question": "The histological section of an intracranial space-occupying lesion resected from a patient is given below. Which of the following tumors shows this pattern?",
+      "options": {
+        "A": "Pleomorphic Xanthoastrocytoma",
+        "B": "Medulloblastoma",
+        "C": "Oligodendroglioma",
+        "D": "Ependymoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The histological image shows a fried egg appearance of cells and is seen in oligodendroglioma. Oligodendroglioma is an infiltrating glioma comprised of cells that resemble oligodendrocytes. It commonly occurs in the fourth and fifth decades. The lesion is found mostly in the cerebral hemispheres, with a predilection for white matter. The tumor is composed of sheets of regular cells with spherical nuclei containing finely granular chromatin (similar to normal oligodendrocytes) surrounded by a clear halo of vacuolated cytoplasm, giving a fried egg appearance. Tumor cells infiltrating the cerebral cortex often collect around the neurons (perineuronal satellitosis). Fried eggs in pathology: Oligodendroglioma on histopathology, hairy cell leukemia on bone marrow biopsy, seminoma/dysgerminoma on light microscopy, and Mycoplasma pneumonia fried egg colonies on Eaton agar.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q5_img1_788278b3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements is incorrect regarding oligodendroglioma?",
+      "options": {
+        "A": "It shows perinuclear halos and perineuronal satellitosis",
+        "B": "Tumors showing IDH1 and IDH2 mutations carry a good prognosis",
+        "C": "It commonly involves the white matter of the cerebral hemispheres",
+        "D": "Tumors showing co-deletion of 1p and 19q are chemosensitive"
+      },
+      "correct_answer": "D",
+      "explanation": "Oligodendroglioma showing co-deletion of 1p and 19q is chemosensitive. Mutations in oligodendroglioma and their responsiveness to chemotherapy: Mutations - Chemo-radiation, IDH 1, IDH 2 - sensitive, 1p, 19q codeletions - sensitive. However, mutations such as 9p loss, 10q loss, CDKN2A mutation are chemo-radiation resistant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 7,
+      "question": "The spinal MRI of a 30-year-old patient with neurofibromatosis type 2 shows an ependymoma. Which of the following is true regarding this tumor?",
+      "options": {
+        "A": "Ependymoma is predominantly a spinal tumor",
+        "B": "Ependymoma in children commonly arises from the roof of the fourth ventricle",
+        "C": "CSF seeding of metastasis is commonly seen",
+        "D": "Posterior fossa ependymoma mostly presents with ataxia"
+      },
+      "correct_answer": "B",
+      "explanation": "Ependymoma is predominantly a spinal tumor in adults and is commonly associated with neurofibromatosis type 2. CSF dissemination is uncommon despite the relationship of the ependymoma with the ventricular system. Posterior fossa ependymoma often manifests with hydrocephalus secondary to progressive obstruction of the fourth ventricle. Tumor site and recurrence: Adult - Spinal cord, Supratentorial, Posterior fossa - Rare; Child - Infratentorial (floor of the fourth ventricle) - Frequent",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 8,
+      "question": "The fluorescence in situ hybridization done in a patient with supratentorial ependymomas shows positivity for RELA fusion protein. What is the prognosis of this molecular subtype?",
+      "options": {
+        "A": "Excellent",
+        "B": "Worst",
+        "C": "Variable",
+        "D": "Intermediate"
+      },
+      "correct_answer": "B",
+      "explanation": "RELA fusion protein positive ependymoma carries the worst prognosis. This highlights the importance of immunohistochemistry in the role of prognosis of ependymoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 9,
+      "question": "An obese patient is being evaluated for recurrent low back pain radiating to both the lower limbs. Imaging shows a myxopapillary ependymoma located in the spinal cord. Which of the following statements regarding this tumor is incorrect?",
+      "options": {
+        "A": "It belongs to WHO grade 2 tumors",
+        "B": "It commonly arises from the filum terminale",
+        "C": "It consists of mucopolysaccharides and a papillary core consisting of blood vessels microscopically",
+        "D": "It follows an aggressive clinical course"
+      },
+      "correct_answer": "D",
+      "explanation": "Myxopapillary ependymoma is a slow-growing tumor and does not follow an aggressive clinical course. Myxopapillary ependymoma belongs to WHO grade 2 tumors histologically as of the 2021 WHO classification of central nervous system tumors. It occurs commonly in the filum terminale of the spinal cord and contains papillary elements in a myxoid (acidic and neutral mucopolysaccharides) background, admixed with ependymoma-like cells microscopically.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 10,
+      "question": "A 12-year-old boy presents with complaints of headache, projectile vomiting, and blurring of vision. CT scan shows a mass lesion in the posterior cranial fossa. His medical records are unremarkable, except for a family history of colon cancer in three of his relatives. What is the most probable syndrome that this patient has?",
+      "options": {
+        "A": "Gorlin syndrome",
+        "B": "Turcot syndrome",
+        "C": "Lynch syndrome",
+        "D": "Neurofibromatosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical features and the family history of colon cancer point to the diagnosis of Turcot syndrome. Turcot syndrome is a rare hereditary disorder clinically characterized by the occurrence of primary tumors of the colon and the central nervous system. Two types of tumors are seen in Turcot syndrome. The first is characterized by childhood cerebellar medulloblastoma caused by mutations in the APC gene. The second type is characterized by gliomas, particularly glioblastoma multiforme, arising in both children and adults and is related to mismatch repair gene mutations. Familial carcinoma syndromes and the common malignancies associated with them: Gorlin syndrome: Medulloblastoma and multiple early-onset basal cell carcinomas; Lynch syndrome: Gastrointestinal and genito-urinary tumors and rarely gliomas in the brain; Neurofibromatosis: Schwannoma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following statements regarding medulloblastoma is incorrect?",
+      "options": {
+        "A": "It belongs to WHO Grade II tumors",
+        "B": "Drop metastases is a common complication",
+        "C": "It is an extremely radiosensitive tumor",
+        "D": "Isochromosome 17q signals a poor prognosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Medulloblastoma belongs to WHO Grade IV tumors. Medulloblastoma accounts for 20% of brain tumors in children. It occurs predominantly in children and exclusively in the cerebellum. Drop metastasis through CSF dissemination is a common complication. It is an extremely radiosensitive tumor. Molecular classification of medulloblastoma: Group - Molecular alteration - Prognosis: WNT type - Monosomy 6 and beta-catenin overactivity - Best, SHH type - Mutation in sonic hedgehog pathway - Intermediate, Group 3 - Isochromosome 17q with MYC amplification - Worst, Group 4 - Isochromosome 17q without MYC amplification, but sometimes with MYCN amplification - Intermediate",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 12,
+      "question": "A 40-year-old smoker diagnosed with small cell carcinoma of the lung 1 year back now develops seizures, short-term memory loss, and psychiatric symptoms. Which of the following paraneoplastic conditions can be attributed to this presentation?",
+      "options": {
+        "A": "Subacute cerebellar degeneration",
+        "B": "Limbic encephalitis",
+        "C": "Opsoclonus myoclonus",
+        "D": "Lambert Eaton syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical history is suggestive of limbic encephalitis. Limbic encephalitis is characterized by subacute dementia. Histologically, it is characterized by perivascular inflammatory cuffs, microglial nodules, neuronal loss, and gliosis evident in the anterior and medial portions of the temporal lobe. Some of these patients have a circulating ANNA-1 antibody (anti-Hu) that is most commonly associated with small cell carcinoma of the lung. Another group of these patients have a circulating antibody that recognizes the NMDA receptor and cross-reacts with hippocampal neurons.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 13,
+      "question": "A 28-year-old pregnant woman is diagnosed with a meningioma. Which of the following growth patterns does the tumor exhibit in the subsequent trimesters of her pregnancy?",
+      "options": {
+        "A": "The tumor grows rapidly throughout her pregnancy",
+        "B": "The tumor shrinks throughout her pregnancy",
+        "C": "The tumor grows rapidly in the first trimester and shrinks thereafter",
+        "D": "The size of the tumor exhibits no change throughout her pregnancy"
+      },
+      "correct_answer": "A",
+      "explanation": "Meningiomas express progesterone receptors and grow more rapidly during pregnancy. Meningiomas are usually slow-growing tumors. They show a moderate female predominance. The common sites of involvement of meningiomas are: the parasagittal aspect of the brain convexity, dura over the lateral convexity, wings of the sphenoid, olfactory groove, sella turcica, and foramen magnum.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp13_img1_7869e8e6.jpeg",
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 14,
+      "question": "The MRI of a woman presenting with recurrent headaches is given below. Microscopy of the resected tumor shows psammoma bodies and the tumor cells express progesterone receptors. Which of the following is the most common cytogenetic abnormality noted in this tumor?",
+      "options": {
+        "A": "22q deletion",
+        "B": "9p deletion",
+        "C": "17q deletion",
+        "D": "1p deletion"
+      },
+      "correct_answer": "A",
+      "explanation": "The given MRI showing homogeneously enhancing extra-axial, dural-based tumor and the microscopic findings are highly suggestive of meningioma. The most common cytogenetic abnormality in meningioma is 22q deletion. Meningioma is predominantly a benign tumor of adults, usually attached to the dura. It arises from the meningothelial cells of the arachnoid. 50% - 60% of the sporadic meningioma harbors mutations in the NF2 gene (in chromosome 22q12) resulting in the absence of functional merlin protein. In meningioma without NF2 mutations, the most common mutations occur in TNF receptor-associated factor 7 (TRAF7).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q14_img1_7570cd78.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following tumors is most commonly associated with meningeal carcinomatosis?",
+      "options": {
+        "A": "Breast carcinoma",
+        "B": "Lymphoma",
+        "C": "Malignant melanoma",
+        "D": "Colon carcinoma"
+      },
+      "correct_answer": "A",
+      "explanation": "Breast carcinoma is commonly associated with meningeal carcinomatosis. Meningeal carcinomatosis presents as tumor nodules studding the surface of the brain, spinal cord, and intradural nerve roots.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following types of herniation is characterized by Duret hemorrhages?",
+      "options": {
+        "A": "Transtentorial herniation",
+        "B": "Subfalcine herniation",
+        "C": "Tonsillar herniation",
+        "D": "Cingulate herniation"
+      },
+      "correct_answer": "A",
+      "explanation": "Duret hemorrhages are characteristic of transtentorial herniation. Transtentorial (uncinate, mesial temporal) herniation occurs when the medial aspect of the temporal lobe is compressed against the free margin of the tentorium. Progression of transtentorial herniation is often accompanied by secondary hemorrhagic lesions in the midbrain and pons, termed Duret hemorrhages. These linear or flame-shaped lesions usually occur in the midline and paramedian regions and are believed to be due to the distortion or tearing of penetrating veins and arteries supplying the upper brainstem. With increasing displacement of the temporal lobe, the third cranial nerve is compromised, resulting in pupillary dilation and impairment of ocular movements on the side of the lesion. The posterior cerebral artery may also be compressed, resulting in ischemic injury to the territory supplied by that vessel, including the primary visual cortex. When the extent of herniation is large enough, the contralateral cerebral peduncle may be compressed, resulting in hemiparesis ipsilateral to the side of the herniation. The compression in the peduncle in this setting is known as the Kernohan notch.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following structures is involved in tonsillar herniation?",
+      "options": {
+        "A": "Brainstem",
+        "B": "Cerebellum",
+        "C": "Temporal lobe",
+        "D": "Cingulate gyrus"
+      },
+      "correct_answer": "B",
+      "explanation": "Cerebellum is involved in tonsillar herniation. Tonsillar herniation refers to the displacement of the cerebellar tonsils through the foramen magnum. This pattern of herniation is life-threatening because it causes brainstem compression and compromises vital respiratory and cardiac centers in the medulla.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is the most common CNS neoplasm in immunosuppressed patients?",
+      "options": {
+        "A": "Medulloblastoma",
+        "B": "Astrocytoma",
+        "C": "Glioblastoma",
+        "D": "Lymphoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Primary central nervous system lymphoma is the most common CNS neoplasm in immunosuppressed individuals, including those with AIDS and immunosuppression after transplantation. The vast majority of primary central nervous system lymphomas are of B-cell origin. Overall, primary central nervous system lymphomas are aggressive and have the worst outcome. The Epstein-Barr virus plays an important role in the pathogenesis of HIV-related primary central nervous system lymphoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 19,
+      "question": "A 14-year-old patient presents with bilateral proptosis. The biopsy from the region shows this pattern. What is the likely diagnosis?",
+      "options": {
+        "A": "Leiomyoma",
+        "B": "Schwannoma",
+        "C": "Rhabdomyosarcoma",
+        "D": "Fibromatosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical history and biopsy picture is characteristic of schwannoma. The biopsy specimen in schwannoma shows hypocellular (Antoni B) and hypercellular areas (Antoni A). Antoni A area has the nuclei of tumor cells aligned in palisading rows. The nuclear-free zones that lie between nuclear palisading are known as Verocay bodies. The histological section of a schwannoma showing Antoni A, Antoni B, and Verocay bodies is given below: Schwannoma Verocay bodies Antoni B Antoni A",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q19_img1_45cd048a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp19_img1_65354454.jpeg",
+      "chapter_heading": "CNS Tumours"
+    },
+    {
+      "q_no": 20,
+      "question": "CSF spread can occur in patients with all of the following tumors, except:",
+      "options": {
+        "A": "Medulloblastoma",
+        "B": "Ependymoma",
+        "C": "Oligodendroglioma",
+        "D": "Meningioma"
+      },
+      "correct_answer": "D",
+      "explanation": "Most of the meningiomas are benign tumors and very rarely metastasize to CSF. The primary intracerebral malignancies that may cause metastases to the subarachnoid space are: Glioblastoma (GBM), Anaplastic astrocytoma, Medulloblastoma, Ependymoma, Pineoblastomas, and Oligodendroglioma. Leptomeningeal metastases, also known as carcinomatous meningitis, refer to the spread of malignant cells through the CSF space. These cells can originate both in primary CNS tumors (e.g., drop-metastases), as well as from distant tumors that have metastasized (hematogenous spread). The most common secondary tumors that spread to CSF are breast cancer > lung cancer > melanoma > GI malignancies. Contrast MRI is the investigation of choice and shows leptomeningeal enhancement and tumors scattered over the brain in a 'sugar-coated' manner.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "CNS Tumours"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "chapter": "Normocytic And Macrocytic Anemia",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 30-year-old woman who is taking OCPs presents with weakness and fatigue. Her laboratoryinvestigations and peripheral smear are given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Megaloblastic anemia",
+        "B": "Aplastic anemia",
+        "C": "Paroxysmal nocturnal hemoglobinuria",
+        "D": "Iron deficiency anaemia"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q1_img1_66ab5fa8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 2,
+      "question": "A 40-year-old man with a history of bowel resection for Crohn's disease developsmegaloblastic anaemia. Which component of the vitamin B12 metabolism is likely to beaffected in this patient?",
+      "options": {
+        "A": "Cubilin",
+        "B": "Haptocorrin",
+        "C": "Transcobalamin",
+        "D": "Intrinsic factor340"
+      },
+      "correct_answer": "A",
+      "explanation": "Ileal resection for Crohn's disease can cause megaloblastic anaemia due to the decrease in cubilinreceptors. They are the vitamin B12 receptors on the ileum.Absorption of vitamin B12 involves the following steps:•.Pepsin in the stomach releases vitamin B12 from the binding proteins in the food•Released B12 binds to haptocorrin, which is a salivary protein• In the duodenum, pancreatic proteases release B12 from haptocorrin•• B12 binds to intrinsic factor to form IF-B12 complex• In the ileum, ileal enterocytes that contain cubulin receptors (IF receptor) endocytose thecomplex• In the ileal cells, B12 is associated with transcobalamin II, which is a carrier protein• B12 is delivered to the liver, bone marrow and GIT348Absorption of vitamin B12ProteinsVitamin BDietary intakeMARDuodenumProteaseslleumPancreasSalivaryglandR-ProteinGastric parietalcellsPepsinR-B₁ complexSplitting ofR-B complexlleal cellBlood - Portal veinTranscobalamin IIOMARROWIntrinsicfactorIF-Bcomplex",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp2_img1_d72ce043.jpeg",
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 3,
+      "question": "In which of the following patients would you not suspect megaloblastic anaemia caused byvitamin B12 deficiency?",
+      "options": {
+        "A": "A 5-year-old child with fish tapeworm infestation",
+        "B": "A 45-year-old man who underwent gastrectomy",
+        "C": "A 38-year-old man with ileitis",
+        "D": "A 23-year-old woman on phenytoin therapy"
+      },
+      "correct_answer": "D",
+      "explanation": "Phenytoin therapy causes folate deficiency leading to megaloblastic anaemia. It does not causevitamin B12 deficiency.Dietary folate is in polyglutamate form, which is then converted into monoglutamates by theintestinal conjugase. Phenytoin acts by inhibiting this enzyme, thereby causing folate deficiency,and thus megaloblastic anaemia.Options A, B and C: They cause megaloblastic anemia due to vitamin B12 deficiciency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 4,
+      "question": "A 20-year-old female with easy fatiguability and pallor presented to the OPD. The image ofher hand is as given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Aplastic anemia",
+        "B": "Vitamin B12 deficiency",
+        "C": "Iron deficiency anemia",
+        "D": "Hypoalbuminemia"
+      },
+      "correct_answer": "B",
+      "explanation": "Skin hyperpigmentation especially on the dorsum of hands involving the knuckles is seen incyanocobalamin or vitamin B12 deficiency which is a causative factor of megaloblastic anaemia.In megaloblastic anaemia, there is impairment of DNA synthesis that leads to ineffectivehematopoiesis. It also causes distinctive morphologic changes, including abnormally largeerythroid precursors and red cells.Clinical features of megaloblastic anaemia (cyanocobalamin and folate deficiency) include:Peripheral smear findings:•Macro-ovalocytes• Most macrocytes lack the central pallor of normal red cells and even appear hyperchromic, butthe MCHC is not elevated.•Reticulocyte count is low• Nucleated red cell progenitors occasionally appear in the circulating blood when anaemia issevere349• Neutrophils are also larger than normal (macro polymorphonuclear) and show nuclearhypersegmentation, having five or more nuclear lobulesThe image given below shows hypersegmented neutrophils seen in megaloblastic anaemia.SystemOralClinical featuresGlossitis Angular cheilosisGastrointestinalAnorexia Weight loss DiarrheaConstipationSkinHematologicalCardiovascularHyperpigmentation (reversible)ThrombocytopeniaLeucopeniaIneffective erythropoiesis and unconjugatedjaundiceAtherosclerosis leading to PVD, CAD (due to elevated homocysteine)Neurological (only B12) Peripheral neuropathySubacPregnancy (only folate)Othersute combined degeneration (degeneration of the posteriorand pyramidal tracts of the spinal cord)Recurrent fetal lossNeural tube defectsMildfeverin severe casesPsychiatric disturbancesBone marrow findings:• Markedly hypercellular as a result of increased hematopoietic precursors.• Sieve-like pattern of chromatin of immature precursors (Megaloblasts)350•Granulocytic precursors also display dysmaturation in the form of giant metamyelocytes andband forms• Megakaryocytes can be abnormally large and have bizarre, multilobate nuclei•The derangement in DNA synthesis causes most precursors to undergo apoptosis in the marrow(ineffective hematopoiesis) and leads to pancytopenia",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q4_img1_3d064563.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 5,
+      "question": "What is your diagnosis with respect to the findings shown in the peripheral smear givenbelow?341",
+      "options": {
+        "A": "Iron deficiency anemia",
+        "B": "B12 deficiency",
+        "C": "Hereditary spherocytosis",
+        "D": "Acute myeloid leukemia"
+      },
+      "correct_answer": "B",
+      "explanation": "The peripheral smear showing macro-ovalocytes and a hypersegmented neutrophil are suggestiveof megaloblastic anaemia. Vitamin B12 deficiency is a cause of megaloblastic anaemia.Peripheral smear findings in megaloblastic anaemia:• Macro-ovalocytes• Most macrocytes lack the central pallor of normal red cells and even appear hyperchromic, butthe MCHC is not elevated.•Reticulocyte count is low• Nucleated red cell progenitors occasionally appear in the circulating blood when anaemia issevereNeutrophils are also larger than normal (macro polymorphonuclear) and show nuclearhypersegmentation, having five or more nuclear lobules",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q5_img1_02140326.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following findings would you not expect to see in patients with megaloblasticanaemia?",
+      "options": {
+        "A": "Increased reticulocyte count",
+        "B": "Raised bilirubin",
+        "C": "Mild splenomegaly",
+        "D": "Nucleated RBC progenitors"
+      },
+      "correct_answer": "A",
+      "explanation": "The reticulocyte count is decreased in megaloblastic anaemia.The reticulocyte count is indicative of bone marrow function and its ability to produce healthyerythrocytes. In megaloblastic anemia, there is intramedullary hemolysis leading to raised indirectbilirubin and impaired erythroid maturation leading to a low reticulocyte count.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient is suspected to have megaloblastic anaemia. Which of the following will not behelpful in differentiating vitamin B12 deficiency from folate deficiency?",
+      "options": {
+        "A": "Increased serum homocysteine levels",
+        "B": "Increased methylmalonate levels",
+        "C": "Neurological changes",
+        "D": "Increased LDH levels342"
+      },
+      "correct_answer": "",
+      "explanation": "Increased serum homocysteine levels are common to both vitamin B12 deficiency and folatedeficiency. Hence, it cannot be used to differentiate between them.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 8,
+      "question": "You are examining the peripheral smear of a patient with anaemia and see the followingfinding. Name the finding and its pathogenesis.",
+      "options": {
+        "A": "Heinz body - oxidative damage",
+        "B": "Basophilic stippling - ribosomal precipitation",
+        "C": "Cabot's rings - ineffective erythropoiesis",
+        "D": "Howell Jolly body - ineffective RBC enucleation"
+      },
+      "correct_answer": "",
+      "explanation": "The marked structure in this peripheral smear showing figure of 8 appearance is a Cabot ring.They are RBC inclusion bodies seen in conditions due to ineffective erythropoiesis. It isconsidered a remnant of microtubules during cell division.351Cabot rings can be seen in the following conditions:•Megaloblastic anaemia.Post-splenectomy patients• Lead poisoning• Hemolytic anemiasOption A: Heinz bodies are due to oxidative damage, seen in G6PD deficiency.Option B: Basophilic stippling is due to ribosomal precipitation, seen in heavy metal poisoning,thalassemia and sickle cell disease.Option D: Howell Jolly bodies are due to ineffective RBC enucleation, characteristic of asplenia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q8_img1_0cb81754.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 9,
+      "question": "Schilling's test can be used for all the following except",
+      "options": {
+        "A": "To differentiate between vitamin B12 and folate deficiency",
+        "B": "To identify the cause of vitamin B12 deficiency",
+        "C": "To identify the extent of megaloblastic anaemia",
+        "D": "To rule out pernicious anaemia"
+      },
+      "correct_answer": "C",
+      "explanation": "Schilling test cannot identify the extent of megaloblastic anaemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following statements is false regarding the antibodies of pernicious anaemia?",
+      "options": {
+        "A": "Type I antibodies are found in both plasma and gastric juice343",
+        "B": "Type I antibody blocks the binding of vitamin B12 to intrinsic factor",
+        "C": "Type II antibodies prevent the binding of the IF-B12 complex to ileal receptors",
+        "D": "Type III antibodies are against haptocorrin"
+      },
+      "correct_answer": "D",
+      "explanation": "Type III antibodies are not against haptocorrin. They recognize the α and ° subunits of the gastricproton pumps.Pernicious anaemia is a specific form of megaloblastic anaemia caused by autoimmune gastritis. Itimpairs the production of intrinsic factor, which is required for vitamin B12 uptake from the gut.Types of antibodies in pernicious anaemia are:•Type I antibodies - block the binding of vitamin B12 to intrinsic factor. They are found in bothplasma and gastric juice• Type II antibodies - prevent binding of the intrinsic factor-vitamin B12 (IF-B12) complex to itsileal receptor• Type III antibodies - recognize the α and ° subunits of the gastric proton pump of parietal cells",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 11,
+      "question": "A 53-year-old woman presents with complaints of light-headedness every time she stands up.She is a known case of rheumatoid arthritis on methotrexate. On examination, she has pallorand brittle nails. Which of the following statements is true regarding her condition?",
+      "options": {
+        "A": "Serum iron and tissue iron levels are normal",
+        "B": "Anemia can be normocytic and normochromic",
+        "C": "Hepcidin levels are low",
+        "D": "Total iron-binding capacity is high"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of anaemia of chronic diseases (ACD). In this condition,the anaemia initially can be normocytic normochromic.ACD occurs in the setting of persistent systemic inflammation. It is associated with•Low serum iron• Reduced total iron-binding capacity•Abundant stored iron in tissue macrophages352Inflammatory mediators like IL-6 stimulate an increase in the production of hepcidin.This inhibits ferroportin function in the macrophages and reduces the transfer of iron from thestorage pool to developing erythroid precursors in the marrow. As a result, erythroid precursorsare starved for iron despite the availability of plenty of iron in tissue macrophages.Absorption of ironHeme ironFOODNonhemeironHeme transporterHepcidinLiver-Ferroportin 1Fe3+Duodenalcytochrome BOFeBloodFe3+Fe2+-Hephaestin-DMT1MucosalferritinPlasmatransferrinMLost by sheddingof epithelial cellsOMARROWErythroidmarrow",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_6366b0d6.jpeg",
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 12,
+      "question": "Identify the cell in the given peripheral blood smear and the likely diagnosis.",
+      "options": {
+        "A": "Acanthocyte in anemia of renal disease",
+        "B": "Acanthocyte in anemia of liver disease",
+        "C": "Echinocyte in anemia of renal disease.",
+        "D": "Echinocyte in anemia of liver disease.344"
+      },
+      "correct_answer": "B",
+      "explanation": "Acanthocyte or spur cells are seen in anaemia of liver disease. These cells are characterized byonly a few spicules of varying sizes that project from the cell surface at irregular intervals.Conditions where acanthocytes can be seen include:• Severe liver disease•Abetalipoproteinemia• Post splenectomy• HyposplenismThe image given below shows a peripheral smear with acanthoctye.353Acanthocytes60000Echinocytes or burr cells are seen in anaemia of renal disease. These cells are characterized bysmaller, regularly spaced projections, smoothly rounded crenulations which are uniform in shapeand distribution compared to acanthocytes.Conditions where echinocytes can be seen include:• Anaemia of renal disease (uremia)• In premature infants, after exchange transfusion•Storage artefactThe image given below shows a peripheral smear with echinocytes.8",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q12_img1_1aafb702.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp12_img1_d6a5dc9e.jpeg",
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is the most common cause of aplastic anemia?",
+      "options": {
+        "A": "Drugs",
+        "B": "Autoimmune",
+        "C": "Infection",
+        "D": "Radiation"
+      },
+      "correct_answer": "",
+      "explanation": "Echinocyte354From the given options, the most common cause of aplastic anemia is drugs.Causes of aplastic anemia:Acquired•Idiopathic most common cause (about 65% of the cases)-• Acquired stem-cell defects• Immune-mediatedChemical agents• Dose-related• Alkylating agents• Antimetabolites• Benzene••Chloramphenicol• Inorganic arsenals• Idiosyncratic•Chloramphenicol⚫ Phenylbutazone•••Organic arsenicalsCarbamazepinePenicillamine• Gold saltsPhysical agents• Whole-body irradiation•• Viral infections - Hepatitis, CMV, EBV, VZInherited• Fanconi anemia• Telomerase defects",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 14,
+      "question": "A 35-year-old woman presents with progressive weakness and fatigue. Her hemogram isgiven below. What is the best investigation to arrive at the diagnosis?",
+      "options": {
+        "A": "Bone marrow aspiration",
+        "B": "Bone marrow biopsy",
+        "C": "Hb electrophoresis",
+        "D": "Flow cytometry"
+      },
+      "correct_answer": "A",
+      "explanation": "The given hemogram is suggestive of pancytopenia. Cause of pancytopenia can be aplasticanaemia (hypocellular bone marrow) or myeloid neoplasms (hypercellular bone marrow). Hence,the best investigation is bone marrow biopsy to differentiate between them.Findings in bone marrow biopsy in aplastic anaemia:• Markedly hypocellular bone marrow largely devoid of hematopoietic cells355• Abundant fat cells• Fibrous stroma, scattered lymphocytes, and plasma cellsBone marrow aspiration often yields a dry tap, so biopsy is preferred.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 15,
+      "question": "Bone marrow biopsy of a patient with pancytopenia is given below. What is the most commoninfectious cause of this condition?",
+      "options": {
+        "A": "Parvovirus B19345",
+        "B": "Cytomegalovirus",
+        "C": "Epstein-Barr virus",
+        "D": "Hepatitis virus"
+      },
+      "correct_answer": "D",
+      "explanation": "The given bone marrow biopsy shows a hypocellular bone marrow with abundant fat cells which issuggestive of aplastic anaemia. In this condition, the most common infectious cause is viralhepatitis of the non-A, Non-B, Non-C, and Non-G type.The images given below show the normal and hypocellular bone marrow.Normal Bone MarrowHypocellular Bone MarrowAbundant fat cellsNote- Viral hepatitis, parvovirus B19, human immunodeficiency virus (HIV), cytomegalovirus andEpstein-Barr virus can cause aplastic anemia. Viral hepatitis is however the most common cause.356",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_ef88410c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_ae788916.jpeg",
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is likely to develop in a patient with aplastic anaemia?",
+      "options": {
+        "A": "2, 3, 4",
+        "B": "1, 2",
+        "C": "1,5",
+        "D": "1, 3, 5"
+      },
+      "correct_answer": "C",
+      "explanation": "Aplastic anaemia can transform into both acute myeloid leukemia (AML) and myelodysplasticsyndrome (MDS).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following causes pure red cell aplasia?",
+      "options": {
+        "A": "1, 2",
+        "B": "2, 3, 5",
+        "C": "1, 4",
+        "D": "1, 2, 4"
+      },
+      "correct_answer": "D",
+      "explanation": "Causes of pure red cell aplasia include:•Neoplasms - thymomas and large granular lymphocytic leukemia• Drug exposure - phenytoin, azathioprine and isoniazid• Auto-immune disorders - neutralizing antibodies against erythropoietin• Parvovirus infection• Hereditary - Diamond Blackfan syndrome",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 18,
+      "question": "What is the most common cause of myelophthisic anaemia?",
+      "options": {
+        "A": "Granulomatous diseases",
+        "B": "Metastatic cancer",
+        "C": "Myeloproliferative neoplasms",
+        "D": "Radiation"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common cause of myelophthisic anaemia is metastatic cancer from the breast, lung, andprostate.Myelophthisic anaemia describes a form of marrow failure in which space-occupying lesionsreplace normal marrow elements. Causes include:•Metastatic cancer• Granulomatous diseases• Myeloproliferative neoplasms.This leads to the release of nucleated erythroid precursors and immature granulocytic forms intoperipheral blood (leukoerythroblastosis) and tear-drop shaped red cells.The image given below shows a peripheral smear with teardrop cells.357B",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp18_img1_114abef3.jpeg",
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 19,
+      "question": "A 70-year-old man presents with progressive weakness and chronic fatigue. Physicalexamination reveals a hard nodule of about 1cm in the prostate. His lab reports reveal low Hband elevated PSA. Peripheral blood smear shows a normocytic normochromic picture. Thereare some occasional myelocytes, a few tear-drop cells and 2 nucleated RBCs per 100 white346cells. What is the most likely diagnosis?",
+      "options": {
+        "A": "Myelodysplastic syndrome",
+        "B": "Myelophthisic anemia",
+        "C": "Myelofibrosis",
+        "D": "Myeloproliferative disorder"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of myelophthisic anaemia. Prostatic mass with elevatedPSA and age suggestive of prostatic carcinoma, which could be the likely cause in this case.It is a form of marrow failure in which space-occupying lesions replace normal marrow elements.The most common cause is metastatic cancer from the breast, lung, and prostate.Lab findings of myelophthisic anaemia include:• Myelocytes + nucleated RBCs = leukoerythroblastic image• Presence of tear-drop cells",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    },
+    {
+      "q_no": 20,
+      "question": "A 52-year-old male patient comes with complaints of abdominal pain, nausea, and vomiting.A peripheral blood smear reveals macrocytes and hypersegmented neutrophils and anendoscopy reveals atrophic gastritis. Which of the following conditions is likely to be seen thispatient?",
+      "options": {
+        "A": "Vitamin B12 deficiency",
+        "B": "Folate deficiency",
+        "C": "Pyridoxine deficiency",
+        "D": "Niacin deficiency"
+      },
+      "correct_answer": "A",
+      "explanation": "The given findings are suggestive of pernicious anemia, which is associated with atrophic gastritisand vitamin B12 deficiency.Anemic patient with a peripheral smear showing macrocytic RBCs and hypersegmentedneutrophils are important characteristic features of megaloblastic anemia. Vitamin B12 and folicacid deficiency are the main causes of megaloblastic anemia.Pernicious anemia is an autoimmune disease characterized by the presence of autoantibodieswhich impairs the production or activity of the intrinsic factor (IF). This is required for the uptakeof vitamin B12. There are three types of autoantibodies namely, type I, II, and III. The action ofeach of these include:• Autoantibody type I prevents the binding of vitamin B12 to the intinsic factor (IF).•Autoantibody type II prevents the binding of vitamin B12-IF complex to the ileal receptors.358• Autoantibody type III acts against the α and ° subunits of the gastric proton pump, whichimpairs the production of intrinsic factor.These patients also develop chronic atrophic gastritis, characterized by loss of parietal cells,infiltration of lymphocytes and plasma cells and megaloblastic changes in mucosal cells.359",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Normocytic And Macrocytic Anemia"
+    }
+  ]
+}

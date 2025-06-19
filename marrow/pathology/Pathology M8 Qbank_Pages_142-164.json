@@ -1,0 +1,380 @@
+{
+  "chapter": "Modes of Inheritance",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following are caused by single-gene mutations?",
+      "options": {
+        "A": "Complex multigenic disorders",
+        "B": "Mendelian disorders",
+        "C": "Structural chromosomal disorders",
+        "D": "Numerical chromosomal disorders"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following diseases is associated with non-sense mutation?○",
+      "options": {
+        "A": "o thalassemia",
+        "B": "Alpha-thalassemia",
+        "C": "Sickle-cell anemia",
+        "D": "Hereditary spherocytosis"
+      },
+      "correct_answer": "C",
+      "explanation": "A non-sense mutation is seen in ° o thalassemia.A point mutation is a change in which a single base is substituted with a different base. The pointmutations within the coding sequences of the DNA are of two types:153• Missense mutations: These involve alteration of a single base in a triplet of bases. It leads to thereplacement of one amino acid by another in the gene product. These mutations alter the meaningof the sequence of the encoded protein. Based on the substituted amino acid coded, the missensemutations are again of two types:• Conservative missense mutation: The substituted amino acid is biochemically similar to theoriginal. It typically causes little change in the function of the protein.• Non-conservative missense mutation: This type of mutation replaces the normal amino acid witha biochemically different one.• Nonsense mutations: It is a point mutation in a sequence of DNA that results in a prematurestop codon.For example, a point mutation affecting the codon for glutamine (CAG) creates a stop codon(UAG) if U is substituted for C. This change leads to premature termination of °-globin genetranslation, and the short peptide that is produced is rapidly degraded. The resulting deficiency of°-globin chains can give rise to a severe form of anemia called ᵒo thalassemia.Option B: α-thalassemias are caused by inherited deletions that result in the reduced or absentsynthesis of α-globin chains.Option C: Sickle-cell anemia is an example of non-conservative missense mutation. It occurs dueto the replacement of the 6th glutamic acid by valine in the beta-globin gene on chromosome 11.Option D: Hereditary spherocytosis (HS) is an inherited disorder caused by intrinsic defects in thered cell membrane skeleton that render red cells spheroid less deformable and vulnerable tosplenic sequestration and destruction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following traits are examples of co-dominance inheritance?",
+      "options": {
+        "A": "2, 3 and 4 only",
+        "B": "1, 2 and 4 only",
+        "C": "1 and 5 only",
+        "D": "3, 4 and 5 only"
+      },
+      "correct_answer": "",
+      "explanation": "ABO blood group and HLA are both examples of codominant inheritance.In a codominant phenotype, alleles of a gene pair in a heterozygote are fully expressed. Therebyresulting in an offspring with a phenotype that is neither dominant nor recessive and both thealleles of a gene pair contributes to the phenotype.Mendelian traits are usually described as dominant or recessive:• A dominant allele produces a dominant phenotype in individuals who have one copy of theallele, which can come from just one parent.•A recessive allele produces a recessive phenotype, in individuals who have two copies of theallele, one from each parent.The illustration below shows the codominant inheritance pattern of the blood group.154Blood type ABlood type BA alleleCodominanceB alleleO allele-RecessiveAOBOAOABBOneBlood type A Blood type AB Blood type B Blood type OHair colour, height, and skin color are polygenic traits.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp3_img1_666446f4.jpeg",
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 4,
+      "question": "What is the term for the phenomenon where a single mutant gene leads to many end-effects?",
+      "options": {
+        "A": "Pleiotropism",
+        "B": "Variable expressivity",
+        "C": "Polymorphism142",
+        "D": "Genetic heterogeneity"
+      },
+      "correct_answer": "A",
+      "explanation": "Pleiotropism is characterized by a single mutant gene, which may lead to many end effects.For example, in sickle-cell anemia, the point mutation in the gene not only predisposes the redblood cells to hemolysis but can also block the vessels. This leads to splenic fibrosis, organinfarcts, and bone changes. The numerous differing end-organ derangements are all related to theprimary defect in hemoglobin synthesis.Option B: In variable expressivity, a trait is seen in all individuals carrying the mutant gene but isexpressed differently among them.Option C: Polymorphisms are caused by interactions between multiple variant forms of genes andenvironmental factors.Option D: Genetic heterogeneity refers to mutations at several genetic loci that may produce thesame trait. An example of this is profound childhood deafness - an apparently homogeneousclinical entity that results from many different types of autosomal recessive mutations.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is autosomal dominant?",
+      "options": {
+        "A": "Cystic fibrosis",
+        "B": "Duchene muscular dystrophy",
+        "C": "Sickle cell anemia",
+        "D": "Achondroplasia"
+      },
+      "correct_answer": "D",
+      "explanation": "Achondroplasia is an autosomal dominant disorder.It is caused by a mutation of the fibroblast growth factor receptor-3 (FGFR-3) gene.The primary defect is abnormal chondrocyte proliferation at the growth plate that causesdevelopment of short and thick bones.Clinical features:155• Short limbs• Normal trunk• Large head• Saddle nose• Exaggerated lumbar lordosis• Severe spinal deformity may lead to cord compression",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp5_img1_d448417d.jpeg",
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 6,
+      "question": "A 46-year-old woman presents with sudden onset chorea and behavioral changes. Geneticinvestigation reveals CAG repeats. What is the mode of inheritance of this disease?",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked dominant",
+        "D": "X-linked recessive"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of Huntington's disease. It is an autosomal-dominantinherited disorder.Huntington disease (HD) also known as Huntington chorea is associated with CAG repeats andanticipation. It has an adult-onset and cell loss within a specific subset of neurons in the basalganglia and cortex is seen. The characteristic features of HD include involuntary movements,dementia, and behavioral changes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 7,
+      "question": "A 28-year-old man is being evaluated for weakness and atrophy of distal limb musculature.Physical examination showing characteristic facies is given below. What is the mode ofinheritance of this disease?143",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked dominant",
+        "D": "X-linked recessive"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario and image showing the characteristic hatchet facies are suggestive of myotonicdystrophy (dystonia myotrophica). It is an autosomal dominant genetic disorder affecting musclefunction.There are mainly two types:• DM1 - In this type, the affected gene is DMPK, which codes for myotonic dystrophy proteinkinase, a protein expressed predominantly in skeletal muscle. The gene is located on the long armof chromosome 19.156•⚫ DM2 - It is caused by a defect of the CNBP gene on chromosome 3.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q7_img1_e7ecb49a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 8,
+      "question": "After evaluation, a patient with the given finding is diagnosed with Bourneville disease. Whatis the mode of inheritance of this condition?",
+      "options": {
+        "A": "Autosomal dominant144",
+        "B": "Autosomal recessive",
+        "C": "X linked dominant",
+        "D": "X linked recessive"
+      },
+      "correct_answer": "A",
+      "explanation": "Tuberous sclerosis complex (TSC)/ Bourneville disease is an autosomal-dominant genetic disorder.TSC affects the differentiation, proliferation, and migration of cells early in development. Thisresults in a variety of hamartomatous lesions that may affect virtually every organ system of thebody. Two distinct genetic loci have been identified which are on chromosome 9 (TSC1) and onchromosome 16 (TSC2).The most common cutaneous manifestation of TSC is hypomelanotic macules (ash-leaf macules)and is observed in most children with tuberous sclerosis. It presents at birth or appears within thefirst few years of life and may fade or disappear in adulthood.The following image shows an ash-leaf macule.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q8_img1_cbecdb54.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp8_img1_ebce71a3.jpeg",
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following diseases have autosomal recessive inheritance?",
+      "options": {
+        "A": "Albinism",
+        "B": "G6PD deficiency",
+        "C": "Marfan's syndrome",
+        "D": "Lesch-Nyhan syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "Albinism is inherited in an autosomal recessive pattern.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 10,
+      "question": "A 55-year-old man presents with a dark tan despite avoiding sun exposure. He was recentlydiagnosed with diabetes mellitus. Physical examination reveals hepatomegaly. His livermicroscopy on Prussian blue staining is given below. What is the mode of inheritance of hisdisease?",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked recessive",
+        "D": "X-linked dominant145"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario is suggestive of hereditary hemochromatosis. It is an autosomal recessivegenetic disorder that involves the HFE gene.Hemochromatosis is characterized by excessive iron accumulation that results in tissue damage.It consists of a triad of:157• Micronodular cirrhosis•Bronzing of the skin●• Diabetes mellitusDiagnosis is by elevated levels of serum ferritin, serum iron, transferrin saturation, andconfirmation by a gene assay.Note: Autosomal recessive disorders include almost all inborn errors of metabolism.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q10_img1_4926396d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following patients has a disease showing the given mode of inheritance?A25% affected50% carriers25% normal",
+      "options": {
+        "A": "A 16-year-old boy with hundreds of adenomatous polyps throughout the colon",
+        "B": "A 15-year-old boy with ataxia, cardiomegaly, scoliosis, and pes cavus",
+        "C": "A 2-year-old-boy with vitamin D-resistant rickets",
+        "D": "A 1-year-old boy with micro-thrombocytopenia, eczema and recurrent infections"
+      },
+      "correct_answer": "B",
+      "explanation": "The given pedigree chart is pointing towards an autosomal recessive mode of inheritance. A boywith cardiomegaly, scoliosis, and pes cavus is suggestive of Friedreich's ataxia. This is anautosomal recessive inherited disease, resulting from a mutation of a gene locus on chromosome9.The condition causes nervous system damage and movement problems. It usually begins inchildhood and leads to impaired muscle coordination (ataxia) that worsens over time. Scoliosis,cardiomegaly, and foot problems may also develop.Option A: Hundreds of adenomatous polyps throughout the colon are suggestive of familialadenomatous polyposis (FAP) which is an autosomal-dominant inherited disorder.Option C: Vitamin D-resistant rickets is an X-linked dominant inherited disorder.Option D: A child with a triad of micro-thrombocytopenia, eczema, and recurrent infectionspoints towards Wiskott-Aldrich syndrome. It is an X-linked recessive inherited disorder.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q11_img1_465f0bf5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 12,
+      "question": "A newborn on routine head-to-toe examination was found to have ambiguous genitalia.Further investigations confirmed a deficiency of the 21-hydroxylase enzyme. What is themode of inheritance of the given condition?",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked dominant",
+        "D": "X-linked recessive"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of congenital adrenal hyperplasia. It includes a group ofautosomal recessive disorders, each of which involves a deficiency of an enzyme involved in thesynthesis of cortisol, aldosterone, or both.The most common form is known to occur due to the deficiency of 21-hydroxylase, resulting frommutations or deletion of CYP21A.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 13,
+      "question": "146A baby is brought to the OPD with a history of vomiting and poor feeding. Examinationreveals a musty odor in the baby's sweat and urine. Guthrie's test is found to be positive.Which of the following is false about this condition?",
+      "options": {
+        "A": "The mode of inheritance is autosomal recessive",
+        "B": "It is due to mutations in the PKU gene",
+        "C": "It is an inborn error of amino acid metabolism",
+        "D": "Enzyme deficient is phenylalanine hydroxylase"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of phenylketonuria (PKU). It is caused by mutations inthe PAH gene which encodes for phenylalanine hydroxylase.Phenylketonuria is the most common inborn error of amino acid metabolism. It is less commonlyknown as phenylalanine hydroxylase (PAH) deficiency. The mode of inheritance is autosomalrecessive.158",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 14,
+      "question": "A 28-year old man presents to the clinic with complaints of lower back pain and passing darkred-colored urine. He was diagnosed with malaria and is on antimalarials for the past 3 days.The peripheral smear of the patient is shown below. What is the mode of inheritance of thiscondition?",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked dominant",
+        "D": "X-linked recessive"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario is suggestive of glucose-6-phosphate dehydrogenase (G6PD) deficiency. It isthe most common enzyme deficiency in humans, inherited as an X-linked recessive disorder. Thegene that codes for G6PD is located in the distal long arm of the X chromosome at the Xq28 locus.The inheritance pattern is similar to that of hemophilia and color blindness, where males usuallymanifest the abnormality and females are carriers. Females may be symptomatic if they arehomozygous or if inactivation of their normal X chromosome occurs.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q14_img1_99dafc31.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 15,
+      "question": "A 4-year-old boy is brought to the pediatrician with delayed developmental milestones. Onexamination, multiple lip lacerations and the given nail findings are noted. Laboratory147reports reveal hyperuricemia. What is the mode of inheritance in this condition?",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked dominant",
+        "D": "X-linked recessive"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario is suggestive of Lesch-Nyhan syndrome. It is an X-linked recessive inheriteddisorder characterized by the deficiency of the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRT).Lesch-Nyhan syndrome and its variants are caused by mutations in the HPRT gene on the Xchromosome.The disorder is associated with 3 major clinical elements:• Overproduction of uric acid (hyperuricemia)•Neurologic disability - intellectual disability and delayed milestonesBehavioral problems - self-mutilation (excessive biting of lips and nails)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_456a915e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 16,
+      "question": "A 6-foot-5-inch man undergoing a routine physical examination was found to have an earlydiastolic murmur. His family pedigree chart is given below. Identify the mode of inheritanceof this condition.☐ ☐ ☐ ☐☐ O☐ ☐ ☐148",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked",
+        "D": "Mitochondrial"
+      },
+      "correct_answer": "",
+      "explanation": "The patient's height and the presence of early diastolic murmur in the given clinical scenario aresuggestive of Marfan syndrome. It is inherited in an autosomal dominant disorder. The familypedigree confirms the mode of inheritance.The following flow chart helps in making out the pattern of inheritance from a given pedigreechart.159Pedigree chart: Determination of mode ofinheritance patternNoNoDoes the affected individual havemultiple generations affected?RecessiveAre all affectedIndividuals male?RRYesYesDominantIs male-maletransmission noted?NoARAutosomalrecessiveXLRX-linkedrecessiveIs father todaughtertransmissionnoted?YesXLDX-linkeddominantOMARROWYesADAutosomaldominantNoPatients with Marfan syndrome have pleiotropic manifestations:• Skeletal systems - Tall and decreased upper to lower segment ratio with long arms,hands, and fingers• Deformities of the chest wall, vertebral column, and foot arches• Cardiovascular abnormalities - mitral valve prolapse leading to mitralregurgitation and dilatation of aortic root leading to aortic regurgitation, aortic dissection, andrupture.• Ocular - superio-temporal lens dislocation",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q16_img1_b4f9fd54.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp16_img1_44bf1048.jpeg",
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 17,
+      "question": "A 16-year-old girl with the given physical findings develops mitral regurgitation due to mitralvalve prolapse. Eye examination reveals bilateral dislocation of the lens. This condition mostcommonly results from an inherited defect in which of the following proteins?",
+      "options": {
+        "A": "Fibrillin 1",
+        "B": "Fibrillin 2",
+        "C": "Collagen 2",
+        "D": "Collagen 4"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of Marfan's syndrome. It is due to the inherited defect ofthe protein fibrillin 1.Fibrillin is a major building block of microfibrils. This constitutes the structural components ofthe suspensory ligament of the ocular lens and serves as substrates for elastin in the aorta andother connective tissues.It occurs in two homologous forms:•• Fibrillin-1: encoded by FBN1, mapped on chromosomes 15q21.1. Mutations cause Marfan'ssyndrome.• Fibrillin-2: encoded by FBN2, mapped on chromosomes 5q23.31. Mutations cause congenitalcontractural arachnodactyly.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q17_img1_9e695066.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 18,
+      "question": "The most striking abnormalities of the Marfan syndrome are seen in which of the followingsystems?",
+      "options": {
+        "A": "Skeletal system",
+        "B": "Muscular system149",
+        "C": "Ocular system",
+        "D": "Cardiovascular system"
+      },
+      "correct_answer": "A",
+      "explanation": "160Skeletal abnormalities are the most striking feature of Marfan syndrome.Skeletal abnormalities include:•Unusually tall, with exceptionally long extremities and long, tapering fingers and toesThe joint ligaments in the hands and feet are lax, suggesting that the patient is double-jointed.Typically, the thumb can be hyper-extended back to the wrist.• The head is commonly dolichocephalic (long-headed) with bossing of the frontal eminences andprominent supraorbital ridgesSpinal deformities include:•• Kyphosis• Scoliosis• Rotation/slipping of the dorsal or lumbar vertebrae•Pectus excavatum (deeply depressed sternum).Pigeon-breast deformityOcular changes include bilateral subluxation or dislocation (outward and upward) of the lens,referred to as ectopia lentis.Cardiovascular lesions are the most life-threatening features of this disorder. The two mostcommon lesions are:•• Mitral valve prolapse•• Dilation of the ascending aorta due to cystic medionecrosisThe images given below show features seen in patients with Marfan's syndrome.161",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 19,
+      "question": "What is the most common cause of death in Marfan syndrome?",
+      "options": {
+        "A": "Cardiac arrhythmias",
+        "B": "Mitral valve prolapse",
+        "C": "Cardiac failure",
+        "D": "Rupture of aortic dissection"
+      },
+      "correct_answer": "D",
+      "explanation": "Cardiovascular lesions, like rupture of aortic dissections, are the most life-threatening features ofthe Marfan syndrome.The weakening of the media predisposes the aorta to an intimal tear. It may initiate an intramuralhematoma that cleaves the layers of the media to produce aortic dissection.After causing the cleavage of the aortic layers for a considerable length, sometimes extending tothe root of the aorta or down to the iliac arteries, the hemorrhage often ruptures through theaortic wall.Although mitral valve lesions are more frequent, they are clinically less important than aorticlesions. Loss of connective tissue support in the mitral valve leaflets makes them soft and billowy,creating a so-called floppy valve.162Valvular lesions, along with the lengthening of the chordae tendineae, frequently give rise tomitral regurgitation. Similar changes may affect the tricuspid and, rarely, the aortic valves.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following mode of inheritances is seen in Ehler-Danlos syndrome?",
+      "options": {
+        "A": "1 and 4",
+        "B": "1 only",
+        "C": "1 and 2",
+        "D": "3 and 5"
+      },
+      "correct_answer": "",
+      "explanation": "The mode of inheritance of Ehler-Danlos syndrome (EDS) encompasses two Mendelian patterns,namely:••• Autosomal dominant• Autosomal recessiveThe biosynthesis of collagen can be disturbed by genetic errors that may affect any one of thenumerous structural collagen genes or enzymes necessary for posttranscriptional modifications ofcollagen. Such molecular heterogeneity results in the expression of EDS as a clinically variabledisorder, with varied patterns of inheritance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 21,
+      "question": "A 20-year-old woman presents with back pain and weakness. On examination, she is found tohave lax skin. X-ray findings are shown below. Lab reports show a deficiency of lysylhydroxylase. What is the most likely diagnosis?150",
+      "options": {
+        "A": "Ehlers-Danlos type III",
+        "B": "Ehlers-Danlos type VI",
+        "C": "Ehlers-Danlos type V",
+        "D": "Ehlers-Danlos type IV442"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario is suggestive of the kyphoscoliotic form of Ehlers-Danlos syndrome (EDS).This was previously known as Type VI EDS.The kyphoscoliotic form of EDS is caused by the deficient activity of the enzymeprocollagen-lysine, 2-oxoglutarate 5-dioxygenase 1 (PLOD1, or lysyl hydroxylase 1).It is a generalized connective tissue disorder characterized by:• Friable hyperextensible skin•Thin scars• Easy bruising• Generalized joint laxity• Severe muscular hypotonia at birth•Progressive scoliosis may be present at birth or may develop within the first year of life",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q21_img1_0c18c670.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 22,
+      "question": "What type of collagen is involved in the classic Ehlers-Danlos syndrome?",
+      "options": {
+        "A": "Type 1",
+        "B": "Type 3",
+        "C": "Type 5",
+        "D": "Type 4"
+      },
+      "correct_answer": "",
+      "explanation": "Classic Ehlers-Danlos syndromes (EDS) type involves type V collagen (defects in genes COL5A1and COL5A2).Types I and II of EDS are termed as classic forms. Type I is severe, while type II is milder.It has an autosomal-dominant type of inheritance. Clinically, this type is characterized by skin andjoint hypermobility, atrophic scars, and easy bruising.163",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 23,
+      "question": "The dermatosparaxis type of Ehlers-Danlos syndrome is classified as:",
+      "options": {
+        "A": "EDS type VII a",
+        "B": "EDS type VII b",
+        "C": "EDS type VII c",
+        "D": "EDS type IV151"
+      },
+      "correct_answer": "C",
+      "explanation": "Dermatosparaxis type of Ehlers-Danlos syndrome (EDS) is type VIIc.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following pair is incorrectly matched?",
+      "options": {
+        "A": "Wilson's disease - Autosomal recessive",
+        "B": "Vitamin D-resistant rickets - X-linked dominant",
+        "C": "Spinal muscular atrophy - Autosomal dominant",
+        "D": "Wiskott-Aldrich syndrome - X-linked recessive"
+      },
+      "correct_answer": "C",
+      "explanation": "Spinal muscular atrophy has an autosomal recessive inheritance, not autosomal dominant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    },
+    {
+      "q_no": 25,
+      "question": "A 1-month-old infant diagnosed with primary adrenal insufficiency presented with failure tothrive, recurrent emesis, and hepatosplenomegaly. Bilateral adrenal calcification was notedradiologically. Which of the following enzyme is deficient in this condition?",
+      "options": {
+        "A": "Sphingomyelinase",
+        "B": "Lysosomal acid phosphatase",
+        "C": "Lysosomal glucosidase",
+        "D": "Lysosomal acid lipase"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario is suggestive of Wolman disease. It is due to a deficiency of the lysosomal acidlipase enzyme. It is an autosomal recessive disease.It leads to the accumulation of cholesterol esters and triglycerides. It presents in the first fewweeks of life with:•Failure to thrive• Vomiting• Abdominal distention• Steatorrhea•Hepatosplenomegaly• Hyperlipidemia• Extensive bilateral calcifications of the adrenal glandsNo specific therapy is available and death usually occurs within 6 months of life.164",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Modes of Inheritance"
+    }
+  ]
+}

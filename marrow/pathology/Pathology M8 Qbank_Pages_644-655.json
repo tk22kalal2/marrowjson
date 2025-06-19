@@ -1,0 +1,170 @@
+{
+  "chapter": "Aneurysm and Dissection",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A pulsating hematoma is associated with which of the following conditions?",
+      "options": {
+        "A": "False aneurysm",
+        "B": "Saccular aneurysm",
+        "C": "Dissection",
+        "D": "Fusiform aneurysm"
+      },
+      "correct_answer": "A",
+      "explanation": "A pulsating hematoma is typically associated with a false aneurysm.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_a65e9e06.jpeg",
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient presented with a severe headache and transient loss of consciousness. On examination, neck rigidity was present and blood pressure was 160/110 mmHg. A CT brain was done as shown below. Which type of aneurysm could have been involved in causing this condition?",
+      "options": {
+        "A": "Saccular aneurysms",
+        "B": "Fusiform aneurysms",
+        "C": "False aneurysms",
+        "D": "Dissecting aneurysms"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of subarachnoid hemorrhage (SAH) in a hypertensive patient. It may occur due to the rupture of Berry aneurysms, which are saccular aneurysms. Aneurysms are classified as: • Saccular aneurysms are spherical outpouchings involving only a portion of the vessel wall. • Fusiform aneurysms are diffuse, circumferential dilations involving long vascular segments. • Both saccular and fusiform aneurysms are true aneurysms because they have an intact vessel wall. • Dissecting aneurysm is produced when a dissection leads to an aneurysm. The image below shows the CT appearance of a SAH. Blood in basal cistern.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q2_img1_d9a08e64.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp2_img1_3a16ec55.jpeg",
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient who is a known case of hypertension was diagnosed with an abdominal aortic aneurysm. What is the likely underlying pathophysiology causing this condition?",
+      "options": {
+        "A": "Obliterative endarteritis of vasa vasorum",
+        "B": "Increased matrix metalloproteinase expression",
+        "C": "Decreased matrix metalloproteinase expression",
+        "D": "Medial hypertrophy of vasa vasorum"
+      },
+      "correct_answer": "B",
+      "explanation": "The likely underlying pathophysiology causing this condition is increased metalloproteinase expression that degrades extracellular matrix and weakens the vessel wall. The two most important causes of aortic aneurysms are atherosclerosis and hypertension. Aneurysms occurring as a consequence of atherosclerosis occur most commonly in the abdominal aorta and common iliac arteries. Option A: Obliterative end-arteritis of vasa-vasorum occurs in late-stage syphilis and can contribute to aneurysms. Option D: Medial hypertrophy of vasa-vasorum occurs in hypertension, which is associated most commonly with ascending aortic aneurysms.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 4,
+      "question": "Arterial aneurysms due to underlying cystic medial degeneration are seen in patients with which of the following conditions?",
+      "options": {
+        "A": "Marfan syndrome",
+        "B": "Friedreich ataxia",
+        "C": "Down syndrome",
+        "D": "Kawasaki syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "Cystic medial degeneration leading to aneurysms is a feature of Marfan syndrome. Cystic medial degeneration refers to the degenerative changes in the media of the vessel wall that lead to aneurysm formation. These include: • Loss of smooth muscle cells • Loss of elastic fibers. Inadequate extracellular matrix synthesis • Increased production of glycosaminoglycans. It can be caused due to: • Medial ischemia, atherosclerosis, hypertension • Defective connective tissue - Marfan syndrome, scurvy. The image below (Movat stain) shows a cross-section of the aortic media from a patient with Marfan's syndrome showing elastin fragmentation (stained black) and loss of smooth muscle cells (cells stained red and nuclei stained violet).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_3fa2860c.jpeg",
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following causes aneurysm formation due to defective elastin?",
+      "options": {
+        "A": "Ehlers-Danlos syndrome",
+        "B": "Loeys-Dietz syndrome",
+        "C": "Marfan syndrome",
+        "D": "Scurvy"
+      },
+      "correct_answer": "B",
+      "explanation": "Loeys-Dietz syndrome leads to aneurysm formation due to defective elastin (due to a defect in the TGF-β signalling pathway). Aneurysms are caused due to structural or functional defects in the connective tissue of the vascular wall. The following conditions cause intrinsic defects in connective tissue leading to aneurysm formation: Loeys-Dietz syndrome, Ehlers-Danlos syndrome, Marfan syndrome. Defect in: synthesis of elastin and collagen types I and III in Loeys-Dietz syndrome, synthesis of type III collagen in some subtypes of Ehlers-Danlos syndrome, synthesis of the protein fibrillin, causing weakening of elastic tissue in Marfan syndrome. Scurvy (vitamin C deficiency) affects collagen cross-linking.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the most common site of syphilitic aneurysms?",
+      "options": {
+        "A": "Ascending aorta",
+        "B": "Circle of Willis",
+        "C": "Iliac arteries",
+        "D": "Abdominal aorta"
+      },
+      "correct_answer": "A",
+      "explanation": "Syphilitic aneurysms most commonly involve the ascending aorta. Late-stage syphilis causes obliterative endarteritis of the vasa vasorum of the aorta. This leads to ischemic injury of the aortic media, resulting in aneurysmal dilation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 7,
+      "question": "A 55-year-old normotensive patient with dyslipidemia is undergoing a regular check-up. He is at an increased risk of developing all of the following except:",
+      "options": {
+        "A": "Ischemic heart disease",
+        "B": "Stroke, Iliac artery aneurysm, Deep vein thrombosis",
+        "C": "Posterior transmural",
+        "D": "Inferior wall"
+      },
+      "correct_answer": "B",
+      "explanation": "Dyslipidemia is not a direct risk factor for deep vein thrombosis. Dyslipidemia is a risk factor for atherosclerosis and its complications, including abdominal aortic aneurysms (AAA). AAA can also be associated with smaller aneurysms of the iliac arteries. Patients with AAA are also likely to have atherosclerotic lesions in other vascular beds that may lead to ischemic heart disease or stroke.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient was diagnosed with an asymptomatic abdominal aortic aneurysm of a diameter of 3.6 cm. On a follow-up visit 1 year later, the diameter was noted to be 3.8 cm. What is the risk of rupture of the aneurysm in this patient at present?",
+      "options": {
+        "A": "Nil",
+        "B": "1%",
+        "C": "11%",
+        "D": "25%"
+      },
+      "correct_answer": "A",
+      "explanation": "Abdominal aortic aneurysms (AAA) of size ≤ 4 cm with slow growth have no risk of rupture. The risk of rupture for AAA is directly related to the size of the aneurysm: ≤ 4 cm - nil, 4–5 cm - 1% per year, 5-6 cm - 11% per year, and > 6 cm - 25% per year. Most aneurysms expand at a rate of 0.2 to 0.3 cm/year. The risk of rupture increases when there is a growth of > 0.5 cm/6 months, as well as in active smokers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 10,
+      "question": "A 55-year-old man presents with sudden onset chest pain radiating to the back between the scapulae. The CT of this patient is given below. What is the major risk factor for developing this condition?",
+      "options": {
+        "A": "Hypertension",
+        "B": "Atherosclerosis",
+        "C": "Congenital weakness",
+        "D": "Trauma"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario with the CT finding of a second column of blood after an intimal tear is the classic presentation of an aortic dissection. The major risk factor for aortic dissection is hypertension. Dissection occurs when blood enters into the media to form a blood-filled channel between the laminar planes of the media. It usually occurs due to a tear in the intima, which allows blood in the lumen to flow into the media. It may also occur due to the rupture of vasa vasorum. It occurs due to: • Hypertension • Connective tissue defects like Marfan syndrome • Iatrogenic trauma during coronary catheterization or cardiopulmonary bypass",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q10_img1_f6d1bcc8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 11,
+      "question": "A 2D echocardiography of a patient who presented with chest pain showed the following appearance of the aorta on suprasternal parasagittal view. Which of the following is incorrect regarding this condition?",
+      "options": {
+        "A": "It has two intimal tears",
+        "B": "It is a severe type of dissection",
+        "C": "It leads to chronic dissection",
+        "D": "It has a false vascular channel"
+      },
+      "correct_answer": "B",
+      "explanation": "The above image shows a double-barreled aorta with a superior and inferior lumen. It is a less severe type of dissection because it is less likely to cause hemorrhage. A double-barreled aorta is seen when there are two intimal tears. Hence, the hematoma enters the media through an intimal tear but re-enters back into the lumen through another intimal tear present distally. As the blood enters the lumen back, this type of dissection does not progress, thus averting hemorrhage. This creates a false vascular channel in the blood vessel which, over time, can be endothelialized to become chronic dissections.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q11_img1_c10cabf1.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_d9069210.jpeg",
+      "chapter_heading": "Aneurysm and Dissection"
+    },
+    {
+      "q_no": 12,
+      "question": "How would you classify the following according to the DeBakey classification?",
+      "options": {
+        "A": "Type II",
+        "B": "Type III",
+        "C": "Type I",
+        "D": "Type IIb"
+      },
+      "correct_answer": "A",
+      "explanation": "The above image shows proximal dissection of only the ascending aorta. This is classified as Type II as per DeBakey's classification. Classification of aortic dissection: • Stanford Type A - proximal lesions. These are more common and dangerous. It may involve: • Both the ascending and descending aorta - DeBakey Type I • Only the ascending aorta - DeBakey Type II. Stanford Type B or DeBakey Type III - distal lesions not involving the ascending part and usually beginning distal to the subclavian artery. Classifications of Aortic Dissection: Type I - DeBakey's Classification, Type II, Type III. Stanford Classification: Type A, Type B.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q12_img1_bc789516.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp12_img1_f4e24af0.jpeg",
+      "chapter_heading": "Aneurysm and Dissection"
+    }
+  ]
+}

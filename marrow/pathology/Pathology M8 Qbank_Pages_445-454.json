@@ -1,0 +1,200 @@
+{
+  "chapter": "Blood Products and Transfusion Reactions",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Choose the correct option regarding the storage temperatures of blood components.",
+      "options": {
+        "A": "RBC 20-22°C, Platelet 2-6°C, FFP -30°C",
+        "B": "RBC 2-6°C, Platelet 20-22°C, FFP -30°C",
+        "C": "RBC -30°C, FFP 2-6 °C, Platelet 20-22°C",
+        "D": "RBC 20-22°C, FFP below -30°C, Platelet 2-6 °C"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following can be used to store blood for up to 35 days?",
+      "options": {
+        "A": "Acid Citrate dextrose",
+        "B": "Citrate phosphate dextrose",
+        "C": "Citrate phosphate 2 dextrose",
+        "D": "Citrate phosphate dextrose adenine - 1"
+      },
+      "correct_answer": "D",
+      "explanation": "Citrate dextrose phosphate adenine-1 (CDPA-1) can be used to store blood for up to 35 days. Ithelps in improving ATP synthesis during storage. Hence, it increases the shelf life.449The disadvantage of using CDPA-1 is that it increases uric acid stone formation.The shelf life of storage with other components are:• Acid Citrate dextrose - 21 daysCitrate-phosphate dextrose - 21 days",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 3,
+      "question": "What is correct regarding transfusion of the blood received from blood bank?",
+      "options": {
+        "A": "It should be started within 4 hours of receiving it from the blood bank.",
+        "B": "It should be completed within 4 hours of receiving from the blood bank.",
+        "C": "No such time restraint and can be done anytime.",
+        "D": "It should be completed within 6 hours of receiving from the blood bank."
+      },
+      "correct_answer": "B",
+      "explanation": "Blood received from blood bank should be completely transfused within 4 hours of receiving.Principles of blood administration:• All blood products should be given through an appropriate blood administration set containing afilter.• A careful aseptic technique should be practised at all times.•⚫ Vital signs should be documented before and after transfusion and as clinically required. For thefirst 15 minutes after the infusion has begun, the patient should be kept under close observationto detect any signs of a serious transfusion reaction. If none is observed, the infusion rate may beincreased.•• One unit of red cells is often given in 1 to 4 hours, depending on the amount to be transfusedand on the patient's cardiovascular status. Infusion of a unit for longer than 4 hours is notrecommended, as there is a risk of bacterial proliferation because the opened unit is at roomtemperature.•No other solution and no medication should be added to or infused through the same tubing as ablood product.• Ringer's lactate or other solutions containing calcium must never be added to a blood productbecause the calcium present leads to coagulation.• After the transfusion has been completed, the transfusion tag or record should become part ofthe patient's chart.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following patients receiving blood transfusions are more prone to developbacterial sepsis?",
+      "options": {
+        "A": "A young women with severe anaemia",
+        "B": "A patient with severe thrombocytopenia445",
+        "C": "A child with hemophilia A",
+        "D": "A patient with von Willebrand disease"
+      },
+      "correct_answer": "B",
+      "explanation": "Patients with thrombocytopenia receiving blood transfusions (platelets) are more prone to developbacterial sepsis.Sepsis is mostly due to significant bacterial contamination of the blood products. Platelets havethe maximum risk of causing this condition when compared to red cell preparations. Sincepatients with thrombocytopenia receive platelet transfusion, they are at an increased risk ofinfections.Platelets (unlike red cells) must be stored at room temperature. This is a condition thatis favourable for bacterial proliferation. Broad-spectrum antibiotics must be started while waitingfor the culture reports.The blood components that are preferred for the other conditions are:450• Anaemia - RBCs•Hemophilia - FFP⚫ von Willebrand disease - cryoprecipitate•",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient has been brought with severe bleeding to your ER. His blood group is unknown.Fresh frozen plasma from which of the following blood groups can be given?",
+      "options": {
+        "A": "O",
+        "B": "AB",
+        "C": "B",
+        "D": "A"
+      },
+      "correct_answer": "B",
+      "explanation": "Fresh Frozen Plasma (FFP) from AB blood group can be given to this patient as it is the universalplasma donor. AB plasma does not contain antibodies against antigens on RBCs of AB bloodgroup.O Rh-negative blood is the universal blood donor. It is used during emergency packed cell bloodtransfusion with an unknown blood group. It is preferred because it lacks the A and B and Rhantigens. Hence, it cannot be hemolyzed by anti-A, anti-B or anti-D antibodies in the recipient'sblood.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the most common reaction occurring in patients undergoing blood transfusions?",
+      "options": {
+        "A": "Febrile hemolytic",
+        "B": "Febrile non-hemolytic",
+        "C": "Non-febrile hemolytic",
+        "D": "Acute hemolytic"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common blood transfusion reaction is the febrile nonhemolytic reaction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 7,
+      "question": "Blood transfusion was started in a patient with severe anaemia. Within a few minutes shedeveloped generalised pruritis, swelling of the tongue and stridor. Which antibody deficiencyin the recipient most commonly causes this condition?",
+      "options": {
+        "A": "Ig E",
+        "B": "Ig A",
+        "C": "Ig M",
+        "D": "Ig G"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of severe, potentially fatal, allergic reactions. These aremost likely to occur in patients with IgA deficiency.Such reactions may occur when blood products containing certain antigens are given to previouslysensitized recipients. It is triggered by recipient IgG antibodies that recognize IgA in the infusedblood product.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 8,
+      "question": "Following blood transfusion in a post-operative patient, the following finding was noted. Which of the following is responsible for this reaction?",
+      "options": {
+        "A": "IgE antibodies of the donor",
+        "B": "IgE antibodies of the recipient",
+        "C": "IgA antibodies of the donor",
+        "D": "IgA antibodies of the recipient"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image, showing a raised and erythematous lesion, is suggestive of urticaria. Such reactions may be triggered by the presence of an allergen in the donated blood product that is recognized by IgE antibodies in the recipient. These are mild reactions occurring more commonly in 1% to 3% of transfusions.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q8_img1_8b5c1e76.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient with thalassemia developed pallor and dizziness 1 week following blood transfusion. His lab reports are given below. Which of the following is seen in this condition?",
+      "options": {
+        "A": "Direct Coombs test negative, IgG mediated",
+        "B": "Direct Coombs test positive, IgG mediated",
+        "C": "Direct Coombs test negative, IgM mediated",
+        "D": "Direct Coombs test positive, IgM mediated"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of a delayed hemolytic reaction following blood transfusion. It is IgG mediated and gives a positive result in the direct Coombs test. These antibodies recognize foreign protein red cell antigens in a previously sensitized recipient (through a prior blood transfusion). They present with laboratory features of hemolysis like a low haptoglobin level and elevated LDH. Acute hemolytic reactions are usually caused by preformed IgM antibodies against donor red cells that fix complement. The direct Coombs test is usually positive. The Coombs test detects RBCs from a patient with hemolytic anemia containing surface antibodies. Coomb's reagent (anti-human antibodies) is added. In the direct Coomb's test, recipient's serum containing antibodies (immunoglobulins) is not necessary; instead, reagent containing washed RBCs is added. Coomb's reagent binds to autoantibodies on RBCs and causes agglutination. In the indirect Coomb's test, recipient immunoglobulins get attached to the surface of these RBCs. Coomb's reagent (anti-human antibodies) is added. Agglutination occurs due to the presence of antibodies.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_aab65fcd.jpeg",
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient who was admitted for blood transfusion developed transfusion-related acute lunginjury. Which of the following statements is false about this condition?",
+      "options": {
+        "A": "Pre-existing lung diseases are a risk factor",
+        "B": "Incidence with platelet transfusion is more than that with whole blood",
+        "C": "Symptoms develop after 2 days of transfusion",
+        "D": "Subsequent transfusions from the same donor increases the incidence447"
+      },
+      "correct_answer": "C",
+      "explanation": "Transfusion-related acute lung injury (TRALI) is sudden-onset respiratory failure that occursduring or soon after the transfusion. It occurs within 6 hours, and not after 2 days followingtransfusion.TRALI is a severe fatal complication of blood transfusion. The incidence of TRALI is low (1 per10,000 transfusions). However, it may occur more frequently in patients with preexisting lungdisease.The pathogenesis involves a two-hit hypothesis:• Priming event - increased sequestration and sensitization of neutrophils in the microvasculatureof the lung-• Second hit the factor (most commonly MHC class I antigens) present in the transfused bloodproduct activates the primed neutrophilsTRALI can occur in transfusions with all plasma-containing blood products. However, it is morelikely to occur following the transfusion of fresh frozen plasma and platelets. This is becausethese products contain high levels of donor antibodies.Note: TRALI is important to recognize because donor products that induce complications in onepatient are much more likely to do so in a second. Indeed, recent measures to excludemultiparous women from plasma donation have resulted in reduced incidence of TRALI.452",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 11,
+      "question": "A 33-year-old man is receiving massive blood transfusion following a fall from height. 4 hoursafter transfusion, he becomes breathless and oxygen saturation decreases. Chest X-ray showsdiffuse bilateral lung infiltrates. Which of the following statements is false regarding thiscondition?",
+      "options": {
+        "A": "Antibodies against MHC are associated",
+        "B": "Treatment involves discontinuation of blood transfusion",
+        "C": "Mortality rate is 5-10%",
+        "D": "It is mediated by macrophages in lung vasculature"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of TRALI (transfusion-related acute lung injury). It ismediated by neutrophils entrapped in the lung vasculature.Features of TRALI are:• Fever• Hypotension•Hypoxemia• Bilateral pulmonary infiltrates - not responsive to diureticsTreatment is mainly supportive and blood transfusions are discontinued. The mortality rate inthis condition is 5-10%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 12,
+      "question": "A CKD patient had to undergo dialysis and his Hb was 5.2gm/dL. So two blood transfusionswere to be given. The first bag was completed in 2 hours. The second was started and in themidway, he developed shortness of breath and hypertension. Vitals were BP - 180/120 mmHgand pulse rate - 110/min. What is the cause?",
+      "options": {
+        "A": "Allergic",
+        "B": "Transfusion related circulatory overload",
+        "C": "Transfusion-related acute lung injury",
+        "D": "Febrile non-hemolytic transfusion reaction"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of transfusion-associated circulatory overload (TACO).TACO is caused by rapid or excess transfusion of red cell preparations or plasma products. Thiscondition is characterized by:• Dyspnea with 02% &lt;90 at room air• Bilateral infiltrates on chest X-ray• Systolic hypertension• Elevation of brain natriuretic peptide, 1.5 times that of pre-transfusion levelsIt can be prevented by administering the transfusion slowly, at the rate of 1 to 2 ml of blood/kg ofbody weight per hour. Diuretics are also used if necessary.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient who receives recurrent transfusions for thalassemia develops fever and chills duringthis time. There is no evidence of hemolysis. Which of the following measures can decreasethe rate of transfusion reactions?",
+      "options": {
+        "A": "Leukoreduced RBCs",
+        "B": "Antibiotics",
+        "C": "Irradiation",
+        "D": "Washed RBCs448"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario is suggestive of febrile non-hemolytic transfusion reaction (FNHTR). Suchreactions can be prevented by using leukoreduced RBCs.Removal of leukocytes from the blood is called leukoreduction. It is done before storage toprevent cytokine formation.FNHTR may occur due to the following:• Sensitization to the WBC antigens by previous blood transfusions or pregnancy• Cytokines produced by the donor leukocytes during storage• Bacterial contaminationNote: Luspatercept is an erythroid maturation agent, a receptor fusion protein consisting of amodified extracellular domain of human activin receptor type-2B linked to the human Ig-G1 Fcdomain. The drug was recently approved by the FDA for the treatment of transfusion-dependent453thalassemia.454",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blood Products and Transfusion Reactions"
+    }
+  ]
+}

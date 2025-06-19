@@ -1,0 +1,125 @@
+{
+  "chapter": "Non Hodgkin Lymphomas: General Considerations",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the areas in the histology of lymph nodes show small, unchallenged B cells surrounding pale-staining germinal centres?",
+      "options": {
+        "A": "Germinal center",
+        "B": "Marginal zone",
+        "C": "Mantle zone",
+        "D": "Paracortical area"
+      },
+      "correct_answer": "C",
+      "explanation": "The mantle zone is the area in the histology of lymph nodes where small, unchallenged B cells surround pale-staining germinal centres.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: General Considerations"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is not a B lymphocyte marker?",
+      "options": {
+        "A": "CD10",
+        "B": "CD20",
+        "C": "CD23",
+        "D": "CD13"
+      },
+      "correct_answer": "",
+      "explanation": "CD13 is an antigen of monocyte/macrophage and not B-cell.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: General Considerations"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is false regarding Non-Hodgkin lymphoma?",
+      "options": {
+        "A": "It involves multiple peripheral lymph nodes",
+        "B": "Mesenteric nodes and Waldeyer ring are rarely involved",
+        "C": "Extra-nodal involvement is common",
+        "D": "Noncontiguous spread occurs"
+      },
+      "correct_answer": "",
+      "explanation": "Mesenteric nodes and Waldeyer ring are commonly involved in non-Hodgkin lymphoma (NHL).503",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: General Considerations"
+    },
+    {
+      "q_no": 4,
+      "question": "Which is the most common non-Hodgkin lymphoma in adults?",
+      "options": {
+        "A": "Burkitt's lymphoma",
+        "B": "Diffuse large B-cell lymphoma501",
+        "C": "MALT lymphoma",
+        "D": "Follicular lymphoma"
+      },
+      "correct_answer": "",
+      "explanation": "Diffuse large B-cell lymphoma (DLBCL) is the most common form of non-Hodgkin lymphoma(NHL) in adults and children over the age of 15 years, worldwide and in India.Burkitt's lymphoma is the most common NHL in children under the age of 15 years.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: General Considerations"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a B-cell neoplasm?",
+      "options": {
+        "A": "Follicular lymphoma",
+        "B": "Burkitt lymphoma",
+        "C": "Anaplastic large-cell Lymphoma",
+        "D": "Mantle cell lymphoma"
+      },
+      "correct_answer": "",
+      "explanation": "Anaplastic large cell lymphoma is a T-cell lymphoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: General Considerations"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is the most common site for primary extranodal lymphoma?",
+      "options": {
+        "A": "Spleen",
+        "B": "Stomach",
+        "C": "Intestine",
+        "D": "Brain"
+      },
+      "correct_answer": "C",
+      "explanation": "The most common site for primary extranodal lymphoma is the stomach.The term primary extranodal non-Hodgkin's lymphoma (PE-NHL) refers to lymphomas thatpresent with the disease at any organ or tissue other than lymph nodes or spleen.Gastrointestinal lymphoma is the most common form of primary extranodal lymphoma,accounting for 30%-40% of cases. The most common site involved is the stomach (60%-75% ofcases), followed by the small bowel, ileum, cecum, colon, and rectum.Note: The most common site for extranodal non-Hodgkin lymphoma (NHL) in AIDS is PrimaryCNS lymphoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: General Considerations"
+    },
+    {
+      "q_no": 7,
+      "question": "Which lymphoid neoplasm is associated with the human herpesvirus 8?",
+      "options": {
+        "A": "Burkitt lymphoma",
+        "B": "Mantle zone lymphoma",
+        "C": "Anaplastic large-cell lymphoma",
+        "D": "Primary effusion lymphoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Primary effusion lymphoma is associated with human herpesvirus 8 (HHV-8).It is a rare type of diffuse large B cell lymphoma with lymphomatous effusions in pleural,pericardial, and abdominal cavities, but no tumor mass.Only one body cavity is typically involved. It is strongly associated with HHV8 and advanced HIVand usually EBV. It can also occurs in non-immunosuppressed patients, often the elderly.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: General Considerations"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is correctly matched with its associated etiological factor?",
+      "options": {
+        "A": "1-b, 2-c, 3-e, 4-a, 5-d",
+        "B": "1-d, 2-e, 3-c, 4-d, 5-b",
+        "C": "1-e, 2-a, 3-d, 4-b, 5-c502",
+        "D": "1-c, 2-d, 3-b, 4-e, 5-a"
+      },
+      "correct_answer": "D",
+      "explanation": "The correctly matched neoplasms with their associated etiological factor:•Extranodal marginal cell lymphoma - H.pylori infection (c).Intestinal T-cell lymphomas - Gluten-sensitive enteropathy (d)•• Anaplastic large cell lymphoma - Breast implants (b)504• Lymphoplasmacytic lymphoma - Hepatitis C infection (e)• Diffuse large B-cell lymphoma - HIV infection (a)505",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: General Considerations"
+    }
+  ]
+}

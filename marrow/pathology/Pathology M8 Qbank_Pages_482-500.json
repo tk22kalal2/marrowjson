@@ -1,0 +1,335 @@
+{
+  "chapter": "Hodgkin's Lymphoma",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which is the most common subtype of Hodgkin's lymphoma?",
+      "options": {
+        "A": "Nodular sclerosis",
+        "B": "Mixed cellularity",
+        "C": "Lymphocyte predominant",
+        "D": "Lymphocyte rich"
+      },
+      "correct_answer": "A",
+      "explanation": "Nodular sclerosis is the most common subtype of Hodgkin's lymphoma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_2ab743d1.jpeg",
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 2,
+      "question": "A lymph node biopsy specimen of a patient shows giant cells with an owl-eyed appearance.Which of the following statements is incorrect with respect to the diagnosis in this case?",
+      "options": {
+        "A": "Single axial group of lymph nodes is affected",
+        "B": "Spleen is the first extranodal tissue to be involved",
+        "C": "Mesenteric nodes are frequently involved",
+        "D": "Extranodal involvement is uncommon"
+      },
+      "correct_answer": "",
+      "explanation": "An owl-eyed appearance of giant cells in lymph nodes is characteristic of Hodgkin's lymphoma(HL). Mesenteric lymph nodes are infrequently involved in HL.Hodgkin's lymphoma is a group of lymphoid neoplasms arising in a single group of lymphnodes. Extranodal involvement is uncommon. However, if it spreads from the nodes, the firstorgan to be involved is the spleen, then the liver, and finally the bone marrow. This pattern ofspread is known as the contiguous spread.This predictable route of spread is important clinically as it aids in staging and prognosis as wellas treatment of HL.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 3,
+      "question": "Activation of which of the following is a common event in classical Hodgkin's lymphoma?",
+      "options": {
+        "A": "TNF alpha",
+        "B": "TGF beta",
+        "C": "NF-kB",
+        "D": "TNFAIP3"
+      },
+      "correct_answer": "C",
+      "explanation": "Activation of the transcription factor NF-κB is a common event in classical Hodgkin's lymphoma (HL). NF-κB may be activated by Epstein-Barr virus (EBV) infection. EBV+ tumor cells express latent membrane protein-1 (LMP-1), which upregulates NF-κB. Activation of NF-κB may occur in EBV tumors as a result of the acquired loss-of-function mutations in TNF alpha-induced protein 3 (TNFAIP3). Activation of NF-κB by EBV rescues crippled germinal center B cells that cannot express Ig's from apoptosis, eventually leading to the formation of Reed-Sternberg cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 4,
+      "question": "Copy-number gains of which proto-oncogene on chromosome 2p are common in Hodgkin's lymphoma?",
+      "options": {
+        "A": "REL",
+        "B": "RET",
+        "C": "MYC",
+        "D": "RAS"
+      },
+      "correct_answer": "A",
+      "explanation": "Copy-number gains in the REL proto-oncogene on chromosome 2p are particularly common in Hodgkin's lymphoma. It may also contribute to increased NF-κB activity. Reed-Sternberg cells are aneuploid and possess diverse clonal chromosomal aberrations. Note: the MYC gene, commonly associated with Burkitt lymphoma, is present on chromosome 8.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 5,
+      "question": "In which of the following lesions can we see the Reed-Sternberg-like cells?",
+      "options": {
+        "A": "1 and 3",
+        "B": "1 and 2",
+        "C": "3 and 4",
+        "D": "2 and 3"
+      },
+      "correct_answer": "",
+      "explanation": "Reed-Sternberg-like cells (RSLC) can be seen in the following:• Infectious mononucleosis• Large-cell non-Hodgkin lymphomas (most common in immunoblastic NHL)• Solid tissue cancersWhile Reed-Sternberg cells (RS cells) are seen in Hodgkin's lymphoma, there can be presence ofReed-Sternberg like cells which that may have morphologic features resembling RS cells.Diagnostic Reed-Sternberg cells are large cells with multiple nuclei or a single nucleus withmultiple nuclear lobes, each with a large inclusion-like nucleolus, about the size of a smalllymphocyte with abundant cytoplasm (owl-eye appearance).The image given below shows the classic Reed Sternberg cells.Classic Reed Sternberg CellGiant cell showingOwl-Eyed Appearance",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp5_img1_34f52384.jpeg",
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is not a variant of the Reed-Sternberg cell?",
+      "options": {
+        "A": "Popcorn",
+        "B": "Classic",
+        "C": "Mononuclear",
+        "D": "Monomorphic"
+      },
+      "correct_answer": "D",
+      "explanation": "Monomorphic is not a variant of the RS cell. The Reed-Sternberg cell (RS cell) is the characteristic tumor giant cell of Hodgkin Lymphoma. It is derived from the germinal center B cell. It has a classic owl-eyed appearance due to the presence of a symmetric or mirror-image bilobed nucleus, with prominent nucleoli surrounded by a clear space. It has the following variants: Lacunar, Classic, L&H Popcorn cells, Pleomorphic, and Mononuclear. RS cells should be present in a background of non-neoplastic inflammatory cells like lymphocytes, plasma cells, and eosinophils, to make a diagnosis of Hodgkin's lymphoma. The image given below shows the diagnostic Reed-Sternberg cell, with two nuclear lobes, large inclusion-like nucleoli, and abundant cytoplasm, surrounded by lymphocytes, macrophages, and an eosinophil. Normally, a lymphocyte and a Reed-Sternberg cell are present. The image below shows a Reed-Sternberg cell, mononuclear variant. The mononuclear variant of the RS cell is shown. The image below shows a Reed-Sternberg cell, lacunar variant. This variant has a folded or multilobated nucleus and lies within an open space, which is an artifact created by disruption of the cytoplasm during tissue sectioning. The lacunar variant of the RS cell is shown. The image below shows the Reed-Sternberg cell, lymphohistiocytic variant. Several such variants with multiple infolded nuclear membranes, small nucleoli, fine chromatin, and abundant pale cytoplasm are present.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp6_img1_9093e2ae.jpeg",
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient with generalized lymphadenopathy and Pel-Ebstein fever is diagnosed with Hodgkin's lymphoma. Which of the following is a characteristic finding seen in this condition?",
+      "options": {
+        "A": "Pain in nodes relieved by alcohol",
+        "B": "Pain in nodes aggravated by alcohol",
+        "C": "Fever relieved by alcohol",
+        "D": "Fever increased by alcohol"
+      },
+      "correct_answer": "B",
+      "explanation": "In the case of Hodgkin's Lymphoma, the pain in the lymph nodes aggravates following the intake of alcohol. Clinical features of HL: Painless enlargement of lymph nodes is the most common presenting symptom. Cyclical fever (Pel-Ebstein fever) - cyclical increase, which then decreases over an average period of one or two weeks, and night sweats in disseminated disease. This cyclical fever may be due to the release of cytokines. A unique paraneoplastic syndrome associated with Hodgkin's lymphoma is the occurrence of pain in the affected lymph nodes during alcohol consumption. This has been attributed to the enlargement of the affected lymph nodes following alcohol consumption, which stretches the capsule of the lymph node and produces pain.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 8,
+      "question": "A lymph node biopsy sample of a patient showed Reed-Sternberg cells that were CD15 &amp;CD30 negative. Which of the variants of Hodgkin lymphoma is the patient most likely tohave?483",
+      "options": {
+        "A": "Mixed cellularity",
+        "B": "Lymphocyte rich",
+        "C": "Lymphocyte depleted",
+        "D": "Lymphocyte predominant"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario with biopsy findings of CD15 and CD30 negative Reed-Sternberg cell issuggestive of nodular lymphocyte-predominant Hodgkin lymphoma.The Reed-Sternberg cells are positive for CD15 and CD30 for most subtypes, except inlymphocyte-predominant HL, in which the neoplastic cells stains for CD20 and BCL-6.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 9,
+      "question": "Which subtype of Hodgkin's lymphoma has an incidence as shown in the graph given below?",
+      "options": {
+        "A": "Mixed cellularity",
+        "B": "Lymphocyte predominant",
+        "C": "Lymphocyte depleted",
+        "D": "Nodular sclerosis"
+      },
+      "correct_answer": "A",
+      "explanation": "The given graph shows a disease with a biphasic incidence, which is characteristically seen in the mixed cellularity type of Hodgkin lymphoma. It has a male predominance, biphasic incidence, peaking in young adults and again in adults older than 55 years. It has more systemic symptoms like night sweats and weight loss. There is diffuse involvement of the entire lymph node. It consists of a mixture of cells composed of T cells, eosinophils, plasma cells, and benign macrophages mixed with Reed-Sternberg cells. The mononuclear variant and diagnostic Reed-Sternberg cells are seen in this type. Reed-Sternberg cells are infected with Epstein-Barr virus in 70% of cases. It has a very good prognosis. The image given below shows the mononuclear variant of the RS cell.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q9_img1_b9881243.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_99c19a93.jpeg",
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 10,
+      "question": "Which subtype of Hodgkin's lymphoma is associated with older age, systemic symptoms, and advanced tumor stage?",
+      "options": {
+        "A": "Mixed cellularity",
+        "B": "Lymphocyte predominant",
+        "C": "Lymphocyte rich",
+        "D": "Nodular sclerosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Mixed-cellularity Hodgkin's lymphoma is associated with older age, systemic symptoms like night sweats and weight loss, and advanced tumor stage. It has a biphasic incidence peaking in young adults and again in adults more than 55 years of age. It also has a strong association with HIV. It is more common in males than females. Nonetheless, the overall prognosis is very good.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 11,
+      "question": "The given histological findings were noted on a lymph node biopsy of a patient with lymphadenopathy. What is the likely diagnosis?",
+      "options": {
+        "A": "Mixed cellularity Hodgkin's lymphoma",
+        "B": "Lymphocyte depletion Hodgkin's lymphoma",
+        "C": "Nodular sclerosis Hodgkin's lymphoma",
+        "D": "Lymphocyte predominant Hodgkin's lymphoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image shows a lacunar variant of Reed-Sternberg cell. These are common in the nodular sclerosis subtype of Hodgkin lymphoma. Subtypes of Hodgkin's lymphoma, along with their characteristic types of RS cells, are given below: Hodgkin lymphoma (subtypes) - Nodular sclerosis, Mixed cellularity, Lymphocyte Rich, Lymphocyte Depletion. Diagnostic cells in histology - Immunophenotype: CD 15+, CD 30 +, Lacunar variant, Mononuclear and Diagnostic RS cells (70% EBV +), Mononuclear and Diagnostic RS cells (40% EBV +), Reticular variant (most EBV+), Lymphocyte predominance - Lymphocytic and histiocytic, CD 15+, CD 30 +, CD 15+, CD 30 +, CD 20+, BCL6+, CD 15 -, CD 3 variant, popcorn cells (EBV -). The image given below shows nodular sclerosis type of HL with lacunar cells. Nodular Sclerosis variant of Hodgkin Lymphoma - Lacunar RS cell.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q11_img1_aa837445.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_9bfa3ef6.jpeg",
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following statements is false regarding the nodular sclerosis variant of Hodgkin lymphoma?",
+      "options": {
+        "A": "Reed-Sternberg cells are positive for PAX 5",
+        "B": "It is uncommonly associated with Epstein Barr Virus",
+        "C": "Prognosis is excellent",
+        "D": "Reed-Sternberg cells are positive for CD45"
+      },
+      "correct_answer": "D",
+      "explanation": "Reed-Sternberg cells in the nodular sclerosis variant of Hodgkin lymphoma (HL) are negative for CD45. It is the most common variant. These are characterized by the presence of lacunar variant Reed-Sternberg cells and the deposition of collagen bands. These bands divide involved lymph nodes into circumscribed nodules. The Reed-Sternberg cells are found in a polymorphous background of T cells, eosinophils, plasma cells, and macrophages. Diagnostic Reed-Sternberg cells are often uncommon. The Reed-Sternberg cells are positive for PAX5 (a B-cell transcription factor), CD15, and CD30, and negative for other B-cell markers, T-cell markers, and CD45 (leukocyte common antigen). This subtype is uncommonly associated with Epstein-Barr virus (EBV). Involvement of the spleen, liver, bone marrow, and other organs and tissues can occur later in the disease. The prognosis is excellent.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 13,
+      "question": "Lymph node biopsy of which of the following variants of Hodgkin lymphoma will show the maximum area of necrosis?",
+      "options": {
+        "A": "Mixed cellularity",
+        "B": "Lymphocyte predominant",
+        "C": "Lymphocyte depleted",
+        "D": "Nodular sclerosis"
+      },
+      "correct_answer": "C",
+      "explanation": "The lymphocyte-depleted subtype of Hodgkin lymphoma is associated with maximum necrosis of the lymph nodes. Lymphocyte-depleted is the least common type (<5%). It is seen in older and HIV-infected individuals and can present with systemic symptoms. There is a paucity of lymphocytes and a relative abundance of Reed-Sternberg (RS) cells or their pleomorphic variants. RS cells are CD15+ and CD30+; RS cells are infected with Epstein-Barr virus (EBV) in 90% of the cases. It has a poor prognosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 14,
+      "question": "Which subtype of Hodgkin's lymphoma is most commonly associated with HIV?",
+      "options": {
+        "A": "Nodular sclerosis",
+        "B": "Lymphocyte depletion",
+        "C": "Mixed cellularity",
+        "D": "Lymphocyte rich"
+      },
+      "correct_answer": "C",
+      "explanation": "The Mixed cellularity subtype of Hodgkin's lymphoma (HL) is most commonly associated with HIV. Note: Although both mixed cellularity and lymphocyte depletion are seen in patients with HIV, mixed cellularity is more commonly associated with HIV.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q14_img1_1f893c67.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 15,
+      "question": "A 15-year-old male patient came to the OPD with cervical lymph node enlargement. The biopsy was examined, which showed a variant of the Reed-Sternberg cell given in the image. Which of the following types of Hodgkin's lymphoma frequently has this cell in its histology?",
+      "options": {
+        "A": "Mixed cellularity",
+        "B": "Lymphocyte predominant",
+        "C": "Lymphocyte rich",
+        "D": "Nodular sclerosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows the lymphohistiocytic variant (L&amp;H) of Reed-Sternberg (RS) cell. It is seen frequently in lymphocyte-predominant Hodgkin's lymphoma. The cell has the following features: • Polypoid nuclei • Inconspicuous nucleoli • Moderately abundant cytoplasm. As it resembles popcorn in its morphology, it is also termed a popcorn cell. Note: A unique paraneoplastic syndrome associated with Hodgkin's lymphoma is the occurrence of pain in the affected lymph nodes during alcohol consumption. This has been attributed to the enlargement of the affected lymph nodes following alcohol consumption, which stretches the capsule of the lymph node and produces pain.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_69edcbd2.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 16,
+      "question": "A young male presented with cervical lymphadenopathy. The biopsy of the lymph nodes showed RS cells with vague nodule formation and a background of reactive T-lymphocytes. The cells were positive for CD20, LCA, EMA and negative for CD15 and CD30. What is the diagnosis?",
+      "options": {
+        "A": "Nodular Sclerosis - Hodgkin Lymphoma",
+        "B": "CLL",
+        "C": "T cell rich B cell lymphoma",
+        "D": "Nodular Lymphocyte predominant Hodgkin Lymphoma (NLPHL)"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of nodular lymphocyte-predominant Hodgkin's lymphoma (NLPHL). Axial group (cervical) lymphadenopathy and along with the L&amp;H variant of Reed-Sternberg cells is characteristic. RS cells are neoplastic giant cells. In NLPHL, the cells have vague nodular formation. Immunophenotyping is positive for CD20 (B cell-associated), LCA (CD45), EMA (epithelial marker), and negative for CD15 (monocyte or macrophage-associated) and CD30 (activation marker).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp16_img1_dce7c17c.jpeg",
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 17,
+      "question": "In a patient with lymphocyte-predominant Hodgkin lymphoma, cells are found to be positivefor which of the following marker?",
+      "options": {
+        "A": "Bcl- 6",
+        "B": "Bcl-2",
+        "C": "Bcl- 5",
+        "D": "Bcl- 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Nodular-lymphocyte predominant Hodgkin Lymphomas have Reed Sternberg cells(aka L&amp;HCELL) that are BCL-6 positive &amp; CD 20 positive and CD 15 &amp; CD 30 negative.Note:•CD30 is the most sensitive marker of Reed-Sternberg cell.• PAX5 is the most specific marker of Reed-Sternberg cell.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is incorrect about lymphocyte-predominant Hodgkin's lymphoma?",
+      "options": {
+        "A": "It can progress to a tumor resembling DLBCL",
+        "B": "The prognosis is excellent",
+        "C": "The bone marrow involvement is rare",
+        "D": "A strong association with EBV is seen"
+      },
+      "correct_answer": "D",
+      "explanation": "Lymphocyte-predominant Hodgkin's lymphoma (HL) is not associated with Epstein-Barr virus (EBV) infection. In 3% to 5% of cases, this type transforms into a tumor resembling diffuse large B-cell lymphoma. A majority of patients are males, usually younger than 35 years of age, who typically present with cervical or axillary lymphadenopathy. Mediastinal and bone marrow involvement is rare. This form of HL is more likely to recur than the classical subtypes, but the prognosis is excellent.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 19,
+      "question": "A 23-year-old man is diagnosed to have Stage II (",
+      "options": {
+        "A": "Hodgkin's lymphoma. What staging system was most likely used to classify the tumor of this patient? a) TNM",
+        "B": "Masaoka",
+        "C": "Durie-Salmon",
+        "D": "Ann-Arbor"
+      },
+      "correct_answer": "D",
+      "explanation": "Clinical staging of both Hodgkin and Non-Hodgkin lymphoma is done by Ann-Arbor classification. Option B: Masaoka staging is used for thymoma. Option C: Modified Durie-Salmon staging is used for multiple myeloma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 20,
+      "question": "Who among the following patients is likely to have the best prognosis?",
+      "options": {
+        "A": "A patient with mononuclear variant of Reed-Sternberg cells on lymph node biopsy",
+        "B": "A patient whose lymph node biopsy showed lacunar Reed-Sternberg cells",
+        "C": "A patient with predominant reticular variant of Reed-Sternberg cells",
+        "D": "A patient with Reed-Sternberg cells amid a mixed variety of background cells"
+      },
+      "correct_answer": "B",
+      "explanation": "The prognosis of the nodular sclerosis (a subtype of classical Hodgkin lymphoma) is excellent compared to the other subtypes mentioned in the options. Lacunar Reed-Sternberg cells are seen in this condition. The nodular sclerosis type occurs with equal frequency in males and females. It has a propensity to involve the lower cervical, supraclavicular, and mediastinal lymph nodes of adolescents or young adults. Subtypes of Hodgkin's lymphoma, along with their characteristic types of RS cells, are given below: Nodular lymphocyte-predominant non-classical Hodgkin lymphoma also has an excellent prognosis. Hodgkin lymphoma (subtypes) - Diagnostic cells in histology - Immunophenotype: Nodular sclerosis - Mixed cellularity - Lymphocyte Rich - Lymphocyte Depletion - Lymphocyte predominance - Lymphocytic and histiocytic - Lacunar variant - Mononuclear and Diagnostic RS cells (70% EBV +) - Mononuclear and Diagnostic RS cells (40% EBV -) - Reticular variant (most EBV -) - CD 15+, CD 30 + - CD 15+, CD 30 + - CD 15+, CD 30 + - CD 15+, CD 30 + - CD 20+, BCL6+ - CD 15-, CD 3 variant, popcorn cells (EBV -)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 21,
+      "question": "Which among the following is incorrect about Hodgkin's lymphoma?",
+      "options": {
+        "A": "Histologic type is the most important prognostic variable.",
+        "B": "The cure rate of patients with stages I and II A is close to 90%.",
+        "C": "Long-term survivors treated with radiotherapy had a much higher incidence of secondary malignancies.",
+        "D": "It most commonly presents as painless lymphadenopathy."
+      },
+      "correct_answer": "A",
+      "explanation": "With current treatment protocols, the tumor stage is the most important prognostic variable, not histologic type. Hodgkin's Lymphoma most commonly presents as painless lymphadenopathy. The cure rate of patients with stages I and II A are close to 90%. Long-term survivors treated with radiotherapy had a much higher incidence of certain malignancies, such as lung cancer, melanoma, and breast cancer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of these parameters would be considered a poor prognostic factor in patients with Hodgkin's lymphoma?",
+      "options": {
+        "A": "Serum albumin level < 5g/dL",
+        "B": "WBC count < 15,000 cells/cumm",
+        "C": "Absolute lymphocyte count < 600 cells/cumm",
+        "D": "Age < 45 years"
+      },
+      "correct_answer": "C",
+      "explanation": "Absolute lymphocyte count < 600 cells/cumm is a poor prognostic factor for Hodgkin lymphoma. Poor prognostic factors for Hodgkin's lymphoma: • Age > 45 years • Male gender • Haemoglobin < 10.5 g/dl • Total WBC count > 15,000 cells/mm3 ⚫ Lymphocytopenia: absolute count < 600/mm3 or lymphocytes < 8% of leukocytes • Serum albumin level: < 4g/dl • Stage IV",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hodgkin's Lymphoma"
+    }
+  ]
+}

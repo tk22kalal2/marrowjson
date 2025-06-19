@@ -1,0 +1,260 @@
+{
+  "chapter": "Degenerative, Toxic & Metabolic CNS disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is a risk factor for Alzheimer's disease?",
+      "options": {
+        "A": "ApoE1",
+        "B": "ApoE2",
+        "C": "ApoE3",
+        "D": "ApoE4"
+      },
+      "correct_answer": "D",
+      "explanation": "ApoE4 is a known risk factor for Alzheimer's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "During the autopsy of a 78-year-old man who had progressive memory loss for 2 years, the following histologic finding was noted in the brain tissue. Which of the following mechanisms is most likely responsible for this condition?",
+      "options": {
+        "A": "Aggregation of Aβ peptide",
+        "B": "Conformational change in the prion protein",
+        "C": "Mutations in the tau gene",
+        "D": "Deposition of Lewy bodies."
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical scenario and the images showing amyloid plaques and neurofibrillary tangles are diagnostic of Alzheimer's disease (AD), complicated by cerebral amyloid angiopathy (CAA). The formation and aggregation of Aβ peptides are responsible for AD. Alzheimer's Disease: Amyloid plaques, Neurofibrillary tangles. Amyloid precursor protein (APP) is neurotrophic and neuroprotective. It is present in astrocytes and neuroglia. This protein is cleaved at 3 sites by secretase enzymes (α, β, and γ), and the products are known as Aβ peptides. In Alzheimer's disease, Aβ peptides get aggregated in the form of amyloid plaques, which stain positive for Congo red. These get deposited within the neural tissue (Aβ 42) and the cerebral arterioles (Aβ 40 protein, causing CAA), which causes neuronal dysfunction, and is the first sign of AD. Normally, tau proteins within the neurons stabilize microtubules; however, in AD, these get hyperphosphorylated and lose their function. Hyperphosphorylated tau proteins combine with cytoplasmic fibrils, to form neurofibrillary tangles (NFTs) and get abnormally accumulated around the neuronal nucleus.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q2_img1_d23bc664.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp2_img1_efbf59a3.jpeg",
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "With respect to Alzheimer's disease, which of the following pairs is incorrectly matched?",
+      "options": {
+        "A": "APP - Chromosome 21",
+        "B": "PS1 - Chromosome 14",
+        "C": "PS2 - Chromosome 9",
+        "D": "Apo E - Chromosome 19"
+      },
+      "correct_answer": "C",
+      "explanation": "In Alzheimer's disease, presenilin-2 (PS2) is present on chromosome 1, not chromosome 9. The following gene loci are seen in Alzheimer's disease: Gene locus - Chromosome - Significance: Amyloid precursor protein - 21 - Down syndrome region, Presenilin-1 - 14 - Early-onset familial AD, Presenilin-2 - 1 - Early-onset familial AD, Apolipoprotein E - 19 - Risk of developing AD",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "Patients with which of the following diseases develop features of androgen insensitivity?",
+      "options": {
+        "A": "Spinal bulbar muscular atrophy",
+        "B": "Amyotrophic lateral sclerosis",
+        "C": "Multiple system atrophy",
+        "D": "Huntington's disease"
+      },
+      "correct_answer": "A",
+      "explanation": "Spinal bulbar muscular atrophy results in androgen insensitivity. It is an X-linked lower motor neuron disorder caused by CAG repeats in the gene encoding the polyglutamine tracts of the androgen receptor. It presents with progressive weakness and wasting of limb and bulbar muscles and features of androgen insensitivity, like gynecomastia and reduced fertility.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "In which of the following conditions can neurofibrillary tangles be found?",
+      "options": {
+        "A": "3, 4 and 5",
+        "B": "1 and 5 only",
+        "C": "2, 3 and 4",
+        "D": "1, 2 and 5"
+      },
+      "correct_answer": "D",
+      "explanation": "Neurofibrillary tangles (NFTs) are found in: Normal aging, Subacute sclerosing panencephalitis, Alzheimer's disease. NFTs are aggregates of hyperphosphorylated tau proteins (microtubule-associated proteins) found in numerous diseases known as tauopathies. NFTs can also be seen in relatively lower numbers in elderly people without dementia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "A 43-year-old man who presented with tremors, bradykinesia, lack of coordination, and progressively declining cognitive functions was diagnosed with punch drunk syndrome. This condition is likely due to the deposition of which of the following in his brain?",
+      "options": {
+        "A": "Alpha synuclein",
+        "B": "Tau proteins",
+        "C": "Poly-glutamate inclusions",
+        "D": "Aβ peptide"
+      },
+      "correct_answer": "B",
+      "explanation": "Punch drunk syndrome is due to the accumulation of tau proteins in the brain. This condition is also called dementia pugilistica or chronic traumatic encephalopathy. It is a dementing illness that develops following repeated head trauma in boxers and other athletes. Affected brains are typically atrophic, with enlarged ventricles. They show accumulation of tau-containing neurofibrillary tangles in a characteristic pattern involving the superficial frontal and temporal lobe cortex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "A 62-year-old man is brought in with tremors of his hands at rest. His son says that he has difficulty initiating movements and seems to be moving very slowly. On examination, shuffling gait, pill-rolling tremors, and rigidity on passive arm movement are noted. Which of the following is not seen in this condition?",
+      "options": {
+        "A": "Pick cells and Pick bodies",
+        "B": "Mutations of alpha-synuclein",
+        "C": "Pallor of the substantia nigra",
+        "D": "Lewy bodies within neurons"
+      },
+      "correct_answer": "A",
+      "explanation": "This clinical scenario is suggestive of Parkinson's disease. This condition is not associated with Pick cells and Pick bodies. They are seen in Pick's disease or frontotemporal dementia. In Parkinson's disease, there is loss of the substantia nigra neurons projecting to the striatum. This leads to pallor of the substantia nigra as well as a decrease or absence of dopamine in the striatum. This leads to slowing of movements and tremors. Lewy bodies are seen within the neurons of affected patients. They are filamentous projections of the protein alpha-synuclein or ubiquitin. They are present in surviving neurons and can be found in the cortex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "LRRK2 mutation is associated with which of the following conditions?",
+      "options": {
+        "A": "Alzheimer disease",
+        "B": "Parkinson's disease",
+        "C": "Frontotemporal dementia",
+        "D": "Multiple system atrophy"
+      },
+      "correct_answer": "B",
+      "explanation": "Mutations in the gene encoding LRRK2 (leucine-rich repeat kinase 2) are a common cause of autosomal dominant Parkinson's disease. They are also found in some sporadic cases of the disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "A wife brings her 52-year-old husband to the OPD with complaints of involuntary, sudden, jerky movements of his hands. She also tells that he has been occasionally forgetting the route to his office. His older brother also developed similar complaints last year. MRI revealed the following findings. Which of the following is incorrect about this condition?",
+      "options": {
+        "A": "It has an X-linked recessive mode of inheritance",
+        "B": "The phenomenon of anticipation is seen",
+        "C": "Severity is related to the length of the CAG repeats",
+        "D": "There is degeneration of GABAergic neurons"
+      },
+      "correct_answer": "A",
+      "explanation": "The MRI shows bilateral atrophy of caudate nuclei with compensatory dilatation of lateral ventricles, also known as boxcar ventricles. Along with the clinical features, it is suggestive of Huntington's disease (HD). It has an autosomal dominant mode of inheritance. It is commonly seen in the 4th and 5th decades of life. It is a degenerative disease of the caudate and putamen (striate neurons) caused by trinucleotide (CAG) repeats in the huntingtin gene on chromosome 4. The severity of the disease depends on the number of repeats. With more repeats, the disease becomes more severe. The disease also manifests at an earlier age, a phenomenon called anticipation. The caudate nucleus is dramatically atrophied, with accompanying atrophy of the putamen, cortex, and hydrocephalus ex vacuo of the 3rd ventricle. The medium-sized GABAergic neurons are especially affected. It causes chorea and dementia. Motor problems like chorea typically precede dementia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q9_img1_12d413db.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "In patients with Huntington's disease, the mutated gene is located on which chromosome?",
+      "options": {
+        "A": "4",
+        "B": "16",
+        "C": "17",
+        "D": "2"
+      },
+      "correct_answer": "A",
+      "explanation": "In Huntington's disease, the affected HTT gene is located on chromosome 4. The coding region has a trinucleotide repeat (CAG/glutamine). The severity and age of onset of the disease depend on the number of repeats increasing. This phenomenon is called anticipation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "A 10-year-old boy was brought to the OPD with difficulty in climbing stairs and walking long distances. His parents say that he has received complaints at school due to progressively worsening handwriting. On examination, pes cavus is noted. Investigations revealed scoliosis and hypertrophic cardiomyopathy. Which of the following is incorrect regarding this condition?",
+      "options": {
+        "A": "Autosomal recessive inheritance",
+        "B": "Presence of extensor plantar reflex",
+        "C": "Expansion of a GAA trinucleotide repeat",
+        "D": "Association with chromosome 19"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of Friedreich's ataxia. It is associated with mutations of genes on chromosome 9q13. It is an autosomal recessive disease caused by the expansion of a GAA trinucleotide repeat in the gene encoding frataxin. The clinical features are given by the mnemonic FRIEDRICHS: • F - Frequent falls (ataxia), foot deformity (pes cavus or overarched foot) • R - Recessive • I - Iron accumulation in mitochondria • E - Eye movements (nystagmus) • D - Dorsal column (loss of fine touch, vibration, position) • R - Reflexes (deep tendon) lost, with extensor plantar reflex • I - Incoordination • C - Cerebellar involvement • H - Hypertrophic cardiomyopathy (HCM) • S - Scoliosis (with kyphosis), staggering gait",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "While studying a spinal cord section, a pathology resident noted that the nuclei of the Schwann cells of the dorsal root ganglia were enlarged nearly 5 times the normal size. This finding is seen in which of the following conditions?",
+      "options": {
+        "A": "Machado-Joseph disease",
+        "B": "Friedreich ataxia",
+        "C": "Ataxia-telangiectasia",
+        "D": "Amyotrophic lateral sclerosis"
+      },
+      "correct_answer": "C",
+      "explanation": "In ataxia-telangiectasia, the nuclei of the Schwann cells of the dorsal root ganglia are enlarged to nearly 2-5 times the normal size. This finding is seen in the Schwann cells of dorsal root ganglia, peripheral nerves, endothelial cells, and pituicytes. These cells are called amphicytes. Ataxia-telangiectasia is due to mutations of the ATM gene, located on chromosome 11q. It predominantly affects the cerebellum with the loss of Purkinje and granule cells. There is also degeneration of the dorsal columns, spinocerebellar tract, anterior horn cells, and peripheral neuropathy. Telangiectatic lesions are found in the CNS as well as in the conjunctiva and skin of the face, neck, and arms. The lymph nodes, thymus, and gonads are hypoplastic.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "Match the following:",
+      "options": {
+        "A": "1-b, 2-d, 3-a, 4-c",
+        "B": "1-c, 2-d, 3-a, 4-b",
+        "C": "1-d, 2-a, 3-b, 4-c",
+        "D": "1-b, 2-c, 3-d, 4-a"
+      },
+      "correct_answer": "B",
+      "explanation": "The given pathological findings are seen in the following conditions: Pathologic finding - Bunina bodies, Pick bodies, Lewy bodies. Conditions - Amyotrophic lateral sclerosis, Frontotemporal dementia, Parkinson's disease, Verocay bodies - Schwannoma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "Bergmann gliosis is due to the loss of which of the following?",
+      "options": {
+        "A": "Purkinje cells",
+        "B": "Pyramidal cells",
+        "C": "Astrocytes",
+        "D": "Oligodendrocytes"
+      },
+      "correct_answer": "A",
+      "explanation": "Bergmann gliosis is due to the loss of Purkinje cells. It occurs in advanced cases of chronic alcoholism. There is a loss of Purkinje cells and proliferation of the adjacent astrocytes between the depleted granular cell layer and the molecular layer of the cerebellum.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 15,
+      "question": "A 5-month-old baby was brought to the OPD with complaints of irritability, stiffness, and weakness of limbs. On examination, there was hypertonia of limbs. After a few months, the baby died due to the rapid progression of the disease. A brain autopsy was done and the following cells were seen. What are these cells?",
+      "options": {
+        "A": "Macrophages",
+        "B": "Adipocytes",
+        "C": "Hepatocytes",
+        "D": "Astrocytes"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical scenario showing motor symptoms and rapid progression to death, an autopsy of the brain showing globoid cells is highly suggestive of Krabbe's disease. The globoid cells are macrophages. Krabbe's Disease, or globoid cell leukodystrophy, is a neurodegenerative disorder with severe myelin destruction due to a deficiency of galactocerebroside-galactosidase. The onset of symptoms is between 3 to 6 months of age, dominated by motor signs such as stiffness and weakness. Survival beyond the age of 2 years is uncommon. The brain shows loss of myelin and oligodendrocytes with a similar process affecting the peripheral nerves.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_c2fdd280.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 16,
+      "question": "A 35-year-old man presented with frequent falls and tingling in his extremities. On examination, an unsteady gait with a positive Romberg sign was noted. Additionally, there was loss of proprioception and vibration sense and deep tendon reflexes in the lower limbs. Blood investigations revealed the following. Deficiency of which of the following vitamins is the likely cause of this condition?",
+      "options": {
+        "A": "Thiamine",
+        "B": "B12 only",
+        "C": "B12 and folic acid",
+        "D": "Vitamin E"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario with involvement of the dorsal column and investigations showing macrocytic anemia is suggestive of subacute combined degeneration (SACD) of the spinal cord. It is due to a deficiency of vitamin B12, which is involved in myelin synthesis. The most severely affected regions are the posterior columns at the cervical and upper thoracic levels. The clinical features include: peripheral nerve and spinal cord involvement, paresthesias in the hands or feet, weakness and unsteadiness of gait, loss of vibration or joint position sense in the legs, mental slowing, depression, confusion, delusions, and hallucinations. MRI spine shows diffuse myelopathy and areas of demyelination. Treatment involves a replacement regimen of vitamin B12 intramuscular daily injections of 1000 µg for the first week, followed by weekly 1000 µg injections for 1 month. Monthly injections are given thereafter. While vitamin E deficiency can also cause SACD, it is rare and is associated with hemolytic anemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    },
+    {
+      "q_no": 17,
+      "question": "Korsakoff syndrome is caused by the deficiency of which vitamin?",
+      "options": {
+        "A": "B1",
+        "B": "B3",
+        "C": "B6",
+        "D": "B12"
+      },
+      "correct_answer": "A",
+      "explanation": "Korsakoff syndrome is caused by the deficiency of thiamine. This syndrome is characterized by pronounced anterograde and retrograde amnesia, along with impairment in visuospatial, abstract, and other types of learning. It is usually completely or partially permanent in about half the patients. Wernicke's encephalopathy refers to the acute form of thiamine deficiency. It is characterized by nystagmus and ophthalmoplegia, mental status changes, and unsteadiness of stance and gait. It is a medical emergency, and IV or IM thiamine should be initiated immediately.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Degenerative, Toxic & Metabolic CNS disorders"
+    }
+  ]
+}

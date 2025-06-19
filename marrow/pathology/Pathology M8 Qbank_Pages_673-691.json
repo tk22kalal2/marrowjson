@@ -1,0 +1,290 @@
+{
+  "chapter": "Vascular Tumors",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following best describes angiosarcoma?",
+      "options": {
+        "A": "Congenital malformation",
+        "B": "Reactive proliferation",
+        "C": "Epithelial tumor",
+        "D": "Malignant neoplasm"
+      },
+      "correct_answer": "D",
+      "explanation": "Angiosarcoma is a rare and aggressive type of cancer that originates from the lining of blood vessels or lymphatic vessels, making it a malignant neoplasm.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following vascular tumors are not derived from endothelial cells?",
+      "options": {
+        "A": "Hemangioma",
+        "B": "Hemangiopericytoma",
+        "C": "Lymphangioma",
+        "D": "Angiosarcoma"
+      },
+      "correct_answer": "B",
+      "explanation": "Hemangiopericytoma is not derived from endothelial cells. It is a malignant vascular tumor derived from supporting cells of the blood vessels. Vascular tumors derived from endothelial cells are: • Hemangioma • Lymphangioma • Angiosarcoma. The endothelial origin of vascular neoplasms can be confirmed using endothelial cell-specific markers such as CD31 or von Willebrand factor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is a true neoplasm?",
+      "options": {
+        "A": "Nevus flammeus",
+        "B": "Port wine stain",
+        "C": "Cystic hygroma",
+        "D": "Bacillary angiomatosis"
+      },
+      "correct_answer": "D",
+      "explanation": "Cystic hygroma/cavernous lymphangioma is a true neoplasm. It is a benign vascular tumor arising from endothelial cells. Options A and B: Nevus flammeus and port wine stain are vascular ectasias, which are not true neoplasms. They are congenital or acquired malformations. Option D: Bacillary angiomatosis is a non-neoplastic reactive vascular proliferation in response to opportunistic bacilli.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is the most common form of vascular ectasia?",
+      "options": {
+        "A": "Nevus flammeus",
+        "B": "Spider telangiectasia",
+        "C": "Port-wine stain",
+        "D": "Hereditary hemorrhagic telangiectasia"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common form of vascular ectasia is Nevus flammeus. Vascular ectasias are conditions involving the dilatation of blood vessels. They can be congenital or acquired malformations or hamartomas. Telangiectasia is the permanent dilation of small blood vessels. They lead to red lesions in the skin or mucous membranes. Various types of vascular ectasias are as follows: \n   • Nevus flammeus (birthmark): Pink/purple flat lesions on the head or neck. They regress spontaneously. \n   Image showing nevus flammeus in a newborn: \n   • Port-wine stain: A special form of nevus flammeus. It thickens the skin surface. It grows during childhood and does not fade with time. \n   Image showing port-wine stain in a child: \n   • Spider telangiectasias: They are pulsatile and blanch with pressure. These commonly occur on the face, neck, or upper chest. They are associated with hyperestrogenic states, such as pregnancy or liver cirrhosis. \n   Spider Telangiectasia: Central core resembling a spider's body, dilated subcutaneous arteries resembling a spider's legs. \n   • Hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu disease) is caused by mutations in genes related to the TGF-β signaling pathway. It is characterized by dilated blood vessels with thin walls that bleed easily. There can be bleeding from the mucous membranes of the nose (epistaxis), tongue, mouth, eyes, and the gastrointestinal tract. \n   The image below shows multiple flat non-pulsating telangiectasias in a patient with Osler-Weber-Rendu disease.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_f080d0ce.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 5,
+      "question": "A young girl presents with recurrent seizures, mental retardation, and a skin lesion as shown in the image below. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Sturge Weber syndrome",
+        "B": "Von Hippel Lindau syndrome",
+        "C": "Osler Weber Rendu syndrome",
+        "D": "Ataxia telangiectasia"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario and the facial port-wine stain as seen in the image is characteristic of Sturge-Weber syndrome. This is characterized by a triad of: • Facial port wine nevus - usually found in the distribution of the ophthalmic division (V1) of the trigeminal nerve • Glaucoma • Ipsilateral leptomeningeal angiomatosis (LAM) - can lead to seizures, mental retardation, or hemiplegia and are seen as intracranial tram-track calcifications on CT as given below.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q5_img1_0aac0649.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp5_img1_1fbb3975.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements about hemangioma is true?",
+      "options": {
+        "A": "Capillary hemangioma is the most common type of hemangioma",
+        "B": "Cavernous hemangioma usually regresses completely by 7 years of age",
+        "C": "Juvenile hemangioma is infiltrative and does not regress spontaneously",
+        "D": "Pyogenic granuloma is most commonly caused by Staphylococcus aureus"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common type of hemangioma is capillary hemangioma. Hemangiomas are benign vascular tumors of infancy and childhood. They are of the following types: • Capillary hemangiomas are the most common type. They occur in the skin, subcutaneous tissues, and mucous membranes of the oral cavities and lips. • Cavernous hemangiomas are composed of large, dilated vascular channels. They are more infiltrative and frequently involve deep structures. They do not spontaneously regress. • Juvenile hemangiomas/strawberry type hemangiomas of the newborn are extremely common. They arise in the skin and grow rapidly for a few months, and usually regress completely by the age of 7 years. • Pyogenic granulomas are capillary hemangiomas that present as rapidly growing red pedunculated lesions on the skin, gingival, or oral mucosa. They bleed easily and are often ulcerated. It is not caused by bacterial infection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 7,
+      "question": "A child is brought by her parents to the OPD with complaints of a swelling on the right thigh. Further evaluation led to the diagnosis of capillary hemangioma in this patient. What is the most appropriate next best step?",
+      "options": {
+        "A": "Explain about the risk of malignant transformation of the tumor",
+        "B": "Test the child for retrovirus infection",
+        "C": "Enquire about history of exposure to polyvinyl chloride",
+        "D": "Assure the parents about spontaneous regression of the tumor"
+      },
+      "correct_answer": "D",
+      "explanation": "Capillary hemangiomas are present from birth and initially increase in size, but many eventually regress spontaneously. They are generally benign. Images show the gross and microscopic pictures of capillary hemangioma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_6591429e.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient with bilateral pheochromocytoma is diagnosed with von Hippel-Lindau disease. This condition is associated with which of the following?",
+      "options": {
+        "A": "Capillary hemangioma",
+        "B": "Cavernous hemangioma",
+        "C": "Strawberry hemangioma",
+        "D": "Hemangioendothelioma"
+      },
+      "correct_answer": "B",
+      "explanation": "Von Hippel-Lindau disease is associated with cavernous hemangiomas. These vascular lesions are commonly found in the cerebellum, brain stem, retina, pancreas, and liver. Cavernous hemangiomas are large, cavernous blood-filled vascular spaces separated by connective tissue stroma. They are infiltrative and involve deep structures. They do not regress spontaneously.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp8_img1_a2d5f179.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following vascular lesions are commonly seen in patients with Turner syndrome?",
+      "options": {
+        "A": "Pyogenic granuloma",
+        "B": "Capillary lymphangioma",
+        "C": "Capillary hemangioma",
+        "D": "Cavernous lymphangioma"
+      },
+      "correct_answer": "D",
+      "explanation": "Blood-filled spaces. The vascular lesions commonly seen in Turner syndrome are cavernous lymphangiomas of the neck. Cavernous lymphangiomas (cystic hygromas) are massively dilated lymphatic spaces lined by endothelial cells and separated by connective tissue stroma. They are typically found in the neck or axilla of children and rarely in the retroperitoneum. They can be enormous, causing gross deformities around the neck. Image shows cavernous lymphangioma of the neck associated with a girl having Turner syndrome.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_239b7d6a.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 10,
+      "question": "A middle-aged male patient presents with a swelling on his left thumb as shown in the image below. Which of the following statements about this swelling is false?",
+      "options": {
+        "A": "It is caused by a bacterial infection",
+        "B": "Lesions bleed easily",
+        "C": "It is a benign tumor",
+        "D": "It is a type of capillary hemangioma"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows a pyogenic granuloma. It is not caused by a bacterial infection. The term pyogenic granuloma is a misnomer as it neither contains pus nor is it a granulomatous lesion. These are capillary hemangiomas that appear as red pedunculated lesions on the skin, gingival, or oral mucosa. They are most commonly benign. They tend to grow rapidly, bleed easily, and are often ulcerated.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q10_img1_fc3f4233.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp10_img1_447970cf.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 11,
+      "question": "Granuloma gravidarum is a type of",
+      "options": {
+        "A": "Juvenile hemangioma",
+        "B": "Cavernous hemangioma",
+        "C": "Pyogenic granuloma",
+        "D": "Capillary hemangioma"
+      },
+      "correct_answer": "C",
+      "explanation": "Pregnancy tumor or granuloma gravidarum is a type of pyogenic granuloma that occurs infrequently in the gingiva of pregnant women. These lesions may spontaneously regress, especially after pregnancy, or they may undergo fibrosis. Occasionally, they require surgical excision.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following vascular tumors arising from arteriovenous structures is involved in thermoregulation?",
+      "options": {
+        "A": "Hemangioendothelioma",
+        "B": "Capillary hemangioma",
+        "C": "Hemangiopericytoma",
+        "D": "Glomus tumor"
+      },
+      "correct_answer": "D",
+      "explanation": "The vascular tumor arising from arteriovenous structures involved in thermoregulation is a glomus tumor. These tumors arise from modified smooth muscle cells of the glomus bodies, which are specialized arteriovenous structures involved in thermoregulation. They are benign but extremely painful due to abundant nerve fibers. Histopathology shows branching vascular channels separated by stroma containing glomus cells in nests.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp12_img1_39fb7ca3.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 13,
+      "question": "What is the most common site of glomus tumors?",
+      "options": {
+        "A": "Retroperitoneum",
+        "B": "Oral cavity",
+        "C": "Middle ear cavity",
+        "D": "Distal portion of digits"
+      },
+      "correct_answer": "D",
+      "explanation": "Glomus tumors are most commonly found in the distal portion of the digits, especially under the fingernails. DAILY ROUNDS",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp13_img1_3223181e.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 14,
+      "question": "A 46-year-old HIV-positive female patient presents with fever, weight loss, and cutaneous lesions as shown in the image. Microscopic examination reveals capillary proliferation and neutrophilic infiltration. Which of the following is the causative organism?",
+      "options": {
+        "A": "Bartonella henselae",
+        "B": "Human Herpes Virus - 6",
+        "C": "Bartonella bacilliformis",
+        "D": "Human Herpes Virus - 8"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical vignette and the microscopic findings suggest the diagnosis of bacillary angiomatosis caused by Bartonella henselae. Bacillary angiomatosis is a vascular proliferation in immunocompromised hosts caused by opportunistic gram-negative bacilli of the Bartonella family, like Bartonella henselae and Bartonella quintana. These lesions can involve the skin, bone, brain, and other organs. They contain stromal neutrophils, nuclear dust, and causal bacteria. Histology shows capillary proliferation with endothelial cells exhibiting nuclear atypia and mitosis. Modified silver (Warthin-Starry) stain is used for demonstrating clusters of tangled bacilli. The given image shows the histologic appearance of bacillary angiomatosis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q14_img1_32bbdf46.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp14_img1_b3e809b4.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 15,
+      "question": "A 50-year-old HIV seropositive male presents with skin lesions over the distal portion of the lower limbs as shown in the image below. Biopsy shows a lesion composed of proliferating spindle cells along with small vessels and spaces containing red cells. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Cavernous hemangioma",
+        "B": "Kaposi sarcoma",
+        "C": "Bacillary angiomatosis",
+        "D": "Angiosarcoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario and the histopathological findings are most suggestive of Kaposi sarcoma. Kaposi sarcoma is a vascular neoplasm caused by human herpesvirus 8 (HHV8) and is highly associated with AIDS (acquired immunodeficiency syndrome). Classic Kaposi sarcoma occurs in older men of Eastern European and Mediterranean descent. It has the following three clinical stages: \n   • Patches - red-purple macules on the distal lower extremities \n   • Plaques - patches progress to large violaceous raised plaques. Lesions spread proximally. \n   • Nodules - Lesions become nodular with more neoplastic features. This stage also progresses to involve nodes and viscera. \n   Diseases caused by HHV-8 infection primarily in patients with HIV infection include: \n   • Kaposi sarcoma \n   • Multicentric Castleman disease (MCD) \n   • Primary effusion lymphoma (PEL). \n   The given image shows sheets of proliferating spindle cells: Kaposi Sarcoma. Sheets of proliferating spindle cells",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_ee02b4da.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_db4849ca.jpeg",
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 16,
+      "question": "Which type of Kaposi sarcoma is most commonly seen in patients with HIV infection?",
+      "options": {
+        "A": "Classical",
+        "B": "Endemic",
+        "C": "Epidemic",
+        "D": "African"
+      },
+      "correct_answer": "C",
+      "explanation": "AIDS-associated or epidemic Kaposi sarcoma (KS) is an AIDS-defining illness, and worldwide, it represents the most common HIV-related malignancy. Four forms of KS are recognized, based on population demographics and risks: AIDS-associated epidemic KS, Type Classic, Endemic, African, and Transplant-associated. Epidemiology: Older men of eastern European and Mediterranean descent, HIV-seronegative individuals, solid organ transplant recipients, and HIV-infected individuals. Clinical features: Skin plaques and nodules, lymph node and visceral involvement, cutaneous, mucosal, and visceral lesions, lymph nodes involved.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 17,
+      "question": "A patient with vague upper abdominal pain is diagnosed with hemangioendothelioma of the liver. What is this classified as?",
+      "options": {
+        "A": "Benign neoplasm",
+        "B": "Intermediate-grade neoplasm",
+        "C": "Malignant neoplasm",
+        "D": "Reactive hyperplasia"
+      },
+      "correct_answer": "B",
+      "explanation": "Hemangioendothelioma is classified as an intermediate-grade neoplasm. It encompasses a spectrum of vascular neoplasms with clinical behavior intermediate between benign, well-differentiated hemangiomas and anaplastic angiosarcomas.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 18,
+      "question": "An elderly male working in a factory manufacturing PVC pipes is at risk of developing which of the following cancers?",
+      "options": {
+        "A": "Hemangioendothelioma",
+        "B": "Angiosarcoma",
+        "C": "Hemangiopericytoma",
+        "D": "Cavernous hemangioma"
+      },
+      "correct_answer": "B",
+      "explanation": "Hepatic angiosarcoma is associated with carcinogenic exposures to polyvinyl chloride. Angiosarcoma is a malignant endothelial neoplasm that primarily affects older adults. The tumor often involves the skin, soft tissue, breast, and liver. Angiosarcomas are locally invasive and can readily metastasize.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular Tumors"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following best describes Milroy disease?",
+      "options": {
+        "A": "Simple congenital primary lymphedema",
+        "B": "Heredofamilial congenital primary lymphedema",
+        "C": "Secondary lymphedema",
+        "D": "Obstructive lymphedema"
+      },
+      "correct_answer": "B",
+      "explanation": "Milroy disease refers to heredofamilial congenital lymphedema. Causes of lymphedema: Primary lymphedema: • Simple congenital lymphedema • Heredofamilial congenital lymphedema (Milroy disease) Secondary or obstructive lymphedema: • Malignant tumors obstructing lymphatic channels • Surgical removal of regional groups of lymph nodes, e.g., radical mastectomy • Post-irradiation fibrosis • Filariasis • Post-inflammatory thrombosis and scarring",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vascular Tumors"
+    }
+  ]
+}

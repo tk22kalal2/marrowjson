@@ -1,0 +1,485 @@
+{
+  "chapter": "Multiple Myeloma and Plasma Cell Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the normal ratio between kappa and lambda light chains?",
+      "options": {
+        "A": "70:30",
+        "B": "60:40",
+        "C": "40:60",
+        "D": "30:70"
+      },
+      "correct_answer": "B",
+      "explanation": "The normal ratio between kappa and lambda light chains is approximately 60:40 or 2:1 in a healthy individual.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "Patients with which of the following can be classified under smoldering multiple myeloma?",
+      "options": {
+        "A": "Lack of symptoms and a high plasma M component with bone marrow plasma cells >10%",
+        "B": "Plasma cells >10% in the bone marrow, no paraprotein in blood and presence of lytic bone lesions",
+        "C": "Plasma cells >10% in bone marrow, abnormal serum free light chain ratio and hypercalcemia",
+        "D": "Presence of symptoms and a low plasma M component with plasma cells <10%"
+      },
+      "correct_answer": "A",
+      "explanation": "Smoldering multiple myeloma refers to an uncommon variant defined by a lack of symptoms and a high plasma M component. The difference between MGUS, smoldering multiple myeloma, and multiple myeloma is given below: MGUS - Asymptomatic, M protein in serum <3g/dL, Bone Marrow (BM) plasma cells <10%. Smoldering multiple Myeloma - Asymptomatic, M-protein in serum: IgG ≥3 g/dL, IgA >1 g/dL, BM plasma cells 10-60%, No other organ or tissue impairment. Multiple Myeloma - Symptomatic, M protein in serum and urine, BM plasma cells ≥60%, Related impairment is seen (CRAB).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "A 76-year-old man presents for a routine health check-up and is found to be mildly anemic. Physical examination reveals no abnormalities. Serum protein electrophoresis with immunofixation demonstrates an IgG-kappa monoclonal protein with markedly reduced IgM and IgA levels. Bone marrow biopsy shows 12% plasma cells. A skeletal survey reveals osteopenia and several punched-out lytic lesions, but no fractures. What is the most likely diagnosis?",
+      "options": {
+        "A": "Plasma cell leukemia",
+        "B": "Multiple myeloma",
+        "C": "Plasmacytoma",
+        "D": "MGUS"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of multiple myeloma. Plasma cell dyscrasias are B-cell proliferations that contain neoplastic plasma cells that secrete a monoclonal Ig or Ig fragment. Multiple myeloma is a malignant neoplasm of plasma cells characterized by the presence of monoclonal immunoglobulin or light chains in the serum and urine. It is a disease of older adults, with a peak age of incidence of 65 to 70 years. Signs and symptoms include: hypercalcemia, pathologic fractures/lytic bone lesions, renal failure, and anemia. Investigations reveal: radiography - punched-out lytic lesions on X-ray; electrophoresis - monoclonal elevation of one immunoglobulin; urinalysis - free kappa and lambda light chains (Bence Jones proteins); bone marrow biopsy - 10 to 20% plasma cells (normal is < 5%); peripheral smear - rouleaux formation. A high level of M proteins in myeloma causes red cells in the peripheral blood smears to stick to one another in linear arrays, a finding referred to as rouleaux formation. Plasma cell tumors are positive for CD138.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "What is the most common cytogenetic abnormality in multiple myeloma?",
+      "options": {
+        "A": "Translocation 14q",
+        "B": "Deletion of 13q",
+        "C": "Translocation 11q",
+        "D": "Deletion of 17p"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common cytogenetic abnormality in multiple myeloma is translocation 14q. Cytogenetic abnormalities in multiple myeloma include: Translocations involving IGH on chromosome 14q - most frequent. Monosomy or partial deletion of chromosome 13 (13q14) - found by FISH (nearly half the cases). Translocation of the IgH occurs frequently with cyclin D1 on chromosome 11q and cyclin D3 on chromosome 6p. Deletions of chromosome 17p involving TP53 tumor-suppressor locus. Translocations with cyclin D1 are associated with a good outcome, whereas deletion of 17p and t(4;14) portend an aggressive course.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "Which cytokine is an important growth factor for plasma cells in multiple myeloma?",
+      "options": {
+        "A": "IL-2",
+        "B": "IL-6",
+        "C": "Interferon gamma",
+        "D": "IL-1"
+      },
+      "correct_answer": "B",
+      "explanation": "The proliferation and survival of plasma cells are dependent on several cytokines, most notably IL-6. It is an important growth factor for plasma cells. It is produced by the tumor cells themselves and by resident marrow stromal cells. IL-6, along with other cytokines, promotes osteoclastic activity and lytic bone lesions. High serum levels of IL-6 are seen in patients with active disease and are associated with a poor prognosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is the most common monoclonal immunoglobulin seen in patients with myeloma?",
+      "options": {
+        "A": "IgM",
+        "B": "IgA",
+        "C": "IgE",
+        "D": "IgG"
+      },
+      "correct_answer": "D",
+      "explanation": "The most common monoclonal Ig (M protein) in myeloma is IgG (approximately 55% of patients), followed by IgA (approximately 25% of cases). The immunosecretory disorders are a diverse group of diseases associated with the proliferation of an abnormal clone of immunoglobulin-synthesizing, terminally differentiated B cells. These disorders include: • Multiple myeloma (MM) and its variants • Plasmacytoma • Waldenström macroglobulinemia • Monoclonal gammopathy of undetermined significance • Monoclonal Ig deposition diseases - includes primary amyloidosis and non-amyloidotic types. The immunoglobulin can be complete or can be composed of either heavy or light chains and is termed M-(monoclonal) protein. Most myelomas are associated with more than 3 gm/dL of serum immunoglobulin. Myelomas expressing IgM, IgD, or IgE occur, but they are rare.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "In patients with multiple myeloma, lytic lesions are most commonly seen in which bone?",
+      "options": {
+        "A": "Skull",
+        "B": "Ribs",
+        "C": "Pelvis",
+        "D": "Vertebrae"
+      },
+      "correct_answer": "D",
+      "explanation": "Lytic bony lesions in myeloma patients are most commonly seen in the vertebrae. Multiple myeloma usually presents as destructive plasma cell tumors involving the axial skeleton. The bones most commonly affected (in descending order of frequency) are: • Vertebral column • Ribs • Skull • Pelvis • Femur • Clavicle • Scapula. Pathologic fractures are common in this condition. The bone lesions appear radiographically as punched-out defects, usually 1 to 4 cm in diameter. The image given below shows osteolytic lesions of vertebra in multiple myeloma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_6ab80396.jpeg",
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "Which substance is responsible for the marked increase in bone resorption and hypercalcemia in patients with multiple myeloma?",
+      "options": {
+        "A": "IL-6",
+        "B": "MIP-1α",
+        "C": "NF-κB",
+        "D": "ALP"
+      },
+      "correct_answer": "B",
+      "explanation": "MIP-1α secreted by myeloma cells is responsible for the marked increase in bone resorption and hypercalcemia. Factors produced by neoplastic plasma cells mediate bone destruction, the major pathologic feature of multiple myeloma. Of particular importance, myeloma-derived macrophage inflammatory protein 1α (MIP-1α) upregulates the expression of the receptor activator of NF-κB ligand (RANKL) by bone marrow stromal cells, which in turn activates osteoclasts. Other factors released from tumor cells, such as modulators of the Wnt pathway, are potent inhibitors of osteoblast function. The net effect is a marked increase in bone resorption, which leads to hypercalcemia and pathological fractures. Serum alkaline phosphatase levels are normal in multiple myeloma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "A pathologist observed the following finding in a peripheral blood smear. In patients with which of the following conditions is this seen?",
+      "options": {
+        "A": "1 and 4 only",
+        "B": "2, 3, and 5",
+        "C": "1, 2, and 5",
+        "D": "3 and 4 only"
+      },
+      "correct_answer": "C",
+      "explanation": "The given peripheral smear shows rouleaux formation. It is seen in patients with early HIV, SLE, and multiple myeloma. Rouleaux formation in peripheral smear. Conditions that cause rouleaux formation are: • Multiple myeloma • Connective tissue disorders like SLE • Early HIV • Infections. Rouleaux formation is retarded by albumin.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q9_img1_f2a46f96.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_0e297edb.jpeg",
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is least likely to be seen in patients with multiple myeloma?",
+      "options": {
+        "A": "Dutcher bodies",
+        "B": "Russell bodies",
+        "C": "Mooser bodies553",
+        "D": "Mott cells"
+      },
+      "correct_answer": "",
+      "explanation": "Mooser bodies are seen in Typhus fever, not in multiple myeloma.•Histopathological findings seen in multiple myeloma:Dutcher bodies - pale-staining intranuclear inclusions within plasma cells containing Ig, whichare more common in IgA myeloma (Image below).Multiple myeloma - Dutcher bodies567Multiple myeloma - Dutcher bodiesDutcher bodies(intranuclearimmunoglobulin)• Russell bodies - Hyaline intracytoplasmic inclusions containing Ig• Mott cells/ morula cells - Plasma cells containing multiple grape-like cytoplasmic inclusionscomprised of Ig• Flame cells - Vermillion-staining, glycogen-rich IgA in cytoplasmic projections• Thesaurocytes - Dilated endoplasmic reticulum cisternae",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp10_img1_ed46f49f.jpeg",
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "The peripheral smear of a patient diagnosed with multiple myeloma is shown below. What does the marked structure contain?",
+      "options": {
+        "A": "Immunoglobulin",
+        "B": "Golgi bodies",
+        "C": "Rough endoplasmic reticulum",
+        "D": "Apoptotic bodies"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows a Mott cell, which is a plasma cell with globular cytoplasmic inclusions containing immunoglobulins called Russell bodies. Inclusions containing Ig are frequently seen in the cytoplasm (Russell bodies) or the nucleus (Dutcher bodies) of some of the plasma cells in myeloma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q11_img1_8c313eea.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_e6a19029.jpeg",
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "The marked finding in plasma cells is due to:554",
+      "options": {
+        "A": "Lysosomes",
+        "B": "Golgi apparatus",
+        "C": "Ig deposits",
+        "D": "Cytoplasmic vacuole"
+      },
+      "correct_answer": "A",
+      "explanation": "The marked finding is perinuclear hof (perinuclear clearing) in plasma cells. It occurs due to aprominent Golgi apparatus.Plasma cell characteristics include:• Eccentric nuclei• Moderate to abundant basophilic cytoplasm• Pale perinuclear hof, representing the Golgi zoneThe image given below shows plasma cells with perinuclear hof.Plasma cellsPerinuclear hof(clearing)569",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q12_img1_30b2d04a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp12_img1_a660dbfd.jpeg",
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "A 60-year-old male presented with a history of intractable diarrhea. Based on the histological image shown below, which of the following is the most appropriate diagnosis:",
+      "options": {
+        "A": "Lymphoma",
+        "B": "Leishmaniasis",
+        "C": "Urate nephropathy",
+        "D": "Multiple myeloma"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario points to the diagnosis of multiple myeloma. The image shows Russell bodies, which are eosinophilic, large, homogeneous immunoglobulin-containing inclusions usually found in a plasma cell undergoing excessive synthesis of immunoglobulins. Russell bodies are distended endoplasmic reticulum. Globular inclusions are Russell bodies (if cytoplasmic) and Dutcher bodies (if nuclear). The below image shows Russell bodies.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q13_img1_aab25c67.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp13_img1_a19b552d.jpeg",
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient with pallor and pathological fracture is diagnosed with multiple myeloma. Which of the following is not a kidney finding of such patients?",
+      "options": {
+        "A": "Tubular casts",
+        "B": "Nephrocalcinosis",
+        "C": "Wire-loop lesions",
+        "D": "Renal tubular necrosis"
+      },
+      "correct_answer": "C",
+      "explanation": "Wire-loop lesions are seen in systemic lupus erythematosus and not in multiple myeloma. Renal insufficiency occurs in half the patients with multiple myeloma and several factors are responsible for it. They develop acute kidney injury with oliguria and chronic kidney disease. Tubular casts, amyloidosis, and renal tubular necrosis are all described in the myeloma kidneys. Features of myeloma kidney: • Bence-Jones proteinuria and cast nephropathy - The main cause of renal dysfunction is related to Bence-Jones (light-chain) proteinuria. Ig light chains are directly toxic to epithelial cells. Bence-Jones proteins form large, histologically distinct tubular casts that obstruct the tubular lumens and induce a characteristic inflammatory reaction (light-chain cast nephropathy). • Amyloidosis of AL type, formed from free light chains (usually of λ type) • Light-chain deposition disease - light chains (usually of κ type) deposit in the glomerular basement membrane and mesangium causing a glomerulopathy and in tubular basement membranes, which may cause tubulointerstitial nephritis. • Hypercalcemia - Nephrocalcinosis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 15,
+      "question": "What do Bence Jones proteins in the urine of multiple myeloma patients represent?",
+      "options": {
+        "A": "Light chains",
+        "B": "Heavy chains",
+        "C": "Intact antibodies",
+        "D": "Part of heavy chains"
+      },
+      "correct_answer": "A",
+      "explanation": "Bence Jones proteins are immunoglobulin light chains (paraproteins) produced by neoplastic plasma cells. They can be kappa (most of the time) or lambda. The light chains can be immunoglobulin fragments or single homogeneous immunoglobulins. In patients with plasma cell tumors, the level of free light chains is usually elevated. One of the light chains is elevated with a reduction in the other. Free light chains are excreted in the urine because they are small in size, where they are referred to as Bence Jones proteins. Tests for Bence Jones protein are: \n   • Heat test\n   • Urine protein electrophoresis\n   • Immunofixation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 16,
+      "question": "Hyperviscosity symptoms in patients with multiple myeloma occur due to which of the following types of M protein?",
+      "options": {
+        "A": "IgG1",
+        "B": "IgG2",
+        "C": "IgM",
+        "D": "IgA"
+      },
+      "correct_answer": "C",
+      "explanation": "Symptoms related to hyperviscosity in multiple myeloma occur due to excessive production of M proteins, usually of IgM or IgA subtype. Waldenström macroglobulinemia (IgM myeloma) is the most common cause for hyperviscosity syndrome due to excess IgM paraprotein. Less commonly, it also occurs in multiple myeloma (with myeloma proteins IgA and IgG3 types) and connective tissue diseases. Normal relative serum viscosity ranges from 1.4 to 1.8 units. Symptoms are not seen at <4, and hyperviscosity syndrome typically requires a viscosity of >5 units. Clinical features include: • Visual impairment • Neurologic problems • Bleeding • Cryoglobulinemia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 17,
+      "question": "Multiple myeloma patients associated with which type of M protein has the highest risk ofrenal insufficiency?556",
+      "options": {
+        "A": "IgM",
+        "B": "IgG",
+        "C": "IgA",
+        "D": "IgD"
+      },
+      "correct_answer": "C",
+      "explanation": "IgD type of multiple myeloma has the highest risk of renal insufficiency.IgG is most commonly involved in multiple myeloma. The higher the level of IgG, the more is therisk of renal failure in patients with multiple myeloma overall. But the rarer IgD predominantmultiple myeloma has the highest risk of renal insufficiency when compared to other types.571IgD type multiple myeloma is a rare type of multiple myeloma. In this condition, there ismonoclonal IgD in serum. On serum electrophoresis, there is no or absent M spike. There is ahigher incidence of extramedullary involvement, amyloidosis, proteinuria, and renal insufficiencyin comparison to IgG or IgA type multiple myeloma. It has a poor prognosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following tumor markers is least likely to be positive in a patient with multiplemyeloma?",
+      "options": {
+        "A": "CD 56",
+        "B": "syndecan-1",
+        "C": "CD 138",
+        "D": "CD 21"
+      },
+      "correct_answer": "D",
+      "explanation": "Plasma-cell tumors are least likely to show positivity for CD 21.They are positive for CD138, an adhesion molecule also known as syndecan-1, CD 38, and oftenexpress CD56.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is not considered as a myeloma-defining event, according to therevised criteria for the diagnosis of multiple myeloma?",
+      "options": {
+        "A": "More than one focal lesionon MRI of 5 mm or more",
+        "B": "60% or more clonal plasma cells on bone marrow examination",
+        "C": "Biopsy proven plasmacytoma",
+        "D": "Serum involved/uninvolved free light-chain ratio of 100 or greater"
+      },
+      "correct_answer": "",
+      "explanation": "Biopsy-proven plasmacytoma is not considered as a myeloma-defining event (MDE).Revised International Myeloma Working Group criteria for the diagnosis of multiple myeloma:Clonal bone marrow plasma cells ≥10% (or) Biopsy-proven bony or extramedullary plasmacytoma.ANDMyeloma defining events (one or more): Evidence of end-organ damage attributable to theunderlying plasma cell proliferative disorder, specifically-• Hypercalcemia: Serum calcium level &gt;1 mg/dL higher than the upper limit of normal or &gt;11mg/dL• Renal insufficiency: Creatinine clearance &lt;40 mL/min or serum creatinine &gt;2 mg/dL•Anemia: Hemoglobin level of &gt;20 g/L (2gm/dl) below the lowest limit of normal, or Hb &lt;10g/dL• Bone lesions: One or more osteolytic lesions on skeletal radiography, computed tomography(CT), or positron emission tomography (PET)/CT.•Any one or more biomarkers of malignancy: Clonal bone marrow plasma cells ≥60%; Seruminvolved/uninvolved free light-chain ratio ≥ 100%; &gt;1 focal lesion on magnetic resonance imaging(MRI) that is ≥ 5 mm in size.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 20,
+      "question": "A 60-year-old lady presents with complaints of pallor, recurrent UTI, and bone pain in the lower limbs. Peripheral smear shows rouleaux formation. X-ray done is given below. Which is the best immunohistochemical marker for this condition?",
+      "options": {
+        "A": "Annexin A1",
+        "B": "CD20",
+        "C": "Cyclin D1",
+        "D": "Hep-par 1"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario and X-ray showing lytic lesions on the bone are suggestive of multiple myeloma. The best immunohistochemical (IHC) marker for this condition is Cyclin D1. Multiple myeloma is associated with diverse translocations involving the IgH locus; overexpression of D cyclins - Cyclin D1 and D3. Plasma cell tumors are positive for CD138 and often express CD56.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q20_img1_dab82ee2.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 21,
+      "question": "A patient diagnosed with multiple myeloma develops features of restrictive cardiomyopathy and macroglossia. Which of the following amyloids is responsible for this?",
+      "options": {
+        "A": "AL",
+        "B": "AA",
+        "C": "A2m",
+        "D": "A Cal"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of amyloidosis. The amyloid of the AL type is produced from free Ig light chains secreted by a monoclonal population of plasma cells, and its deposition is associated with multiple myeloma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 22,
+      "question": "What is the most common cause of death in patients with myeloma?",
+      "options": {
+        "A": "Renal failure",
+        "B": "Infections",
+        "C": "Cardiac failure",
+        "D": "Hypercalcemic crisis558"
+      },
+      "correct_answer": "B",
+      "explanation": "Infections are the most common cause of death in patients with myeloma.Complications of multiple myeloma include:• Infections• Renal failure• Cardiac failure••Hypercalcemia• Anemia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 23,
+      "question": "A 60-year-old man presents with complaints of fatigue, pain over the ribs, and confusion. Labinvestigations reveal anemia, hypercalcemia, and increased serum creatinine. X-ray showslytic lesions on the bones. Which of the following is the most powerful prognostic indicator ofthis condition at the time of diagnosis?",
+      "options": {
+        "A": "Number of myeloma cells in the marrow",
+        "B": "2 microglobulin",
+        "C": "Serum C-reactive protein",
+        "D": "Serum creatinine"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of multiple myeloma. The most powerful prognosticindicator of this condition at the time of diagnosis is serum ° 2 microglobulin.Beta-2 microglobulin is a low-molecular-weight protein found on the surface of all nucleated cells.It is the light chain of the HLA histocompatibility complex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following is not associated with a poor prognosis in a patient with multiple myeloma?",
+      "options": {
+        "A": "t(4;14)",
+        "B": "High serum beta-2 microglobulin",
+        "C": "Low serum albumin",
+        "D": "t(11;14)"
+      },
+      "correct_answer": "D",
+      "explanation": "t(11;14) is associated with a good prognosis in patients with myeloma. t(4;14), high serum beta-2 microglobulin, and low serum albumin are all poor prognostic factors in myeloma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 25,
+      "question": "A 70-year-old man presents with chronic low back pain. On examination, he has pallor and bony tenderness. A skeletal radiographic survey reveals several punched-out lytic lesions. Serum protein electrophoresis shows an M band in the gamma globulin region. Which of the following is not associated with a poor prognosis in this condition?",
+      "options": {
+        "A": "Translocation involving cyclin D1",
+        "B": "t(14;16)",
+        "C": "Deletions of 17p",
+        "D": "t(14;20)"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is highly suggestive of multiple myeloma. Translocations involving cyclin D1 are associated with a good outcome in this condition. t(14;16), deletions of 17p, and t(14;20) are associated with a more aggressive course.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 26,
+      "question": "Which among these is not diagnostic of monoclonal gammopathy of undeterminedsignificance?559",
+      "options": {
+        "A": "Serum M protein level &lt; 3 g/dL",
+        "B": "Bence-Jones proteins in urine",
+        "C": "Bone marrow plasma cells &lt;10%",
+        "D": "Absence of lytic bone lesions"
+      },
+      "correct_answer": "B",
+      "explanation": "Bence-Jones proteinuria is not diagnostic of monoclonal gammopathy of undeterminedsignificance (MGUS) because it is seen in multiple myeloma also.MGUS is the most common monoclonal gammopathy.Diagnostic criteria of MGUS according to International Myeloma Working Group guidelines(2014):• Serum monoclonal protein &lt;3g/dL• Clonal bone marrow plasma cells &lt; 10%• Absence of end-organ damage such as hypercalcemia, renal failure, anemia and bone lesions(CRAB)• No amyloidosisThe three distinct clinical types of MGUS are:••Non-IgM MGUS:Most common subtype of MGUS• Approximately 1% of patients with MGUS develop a symptomatic plasma cell neoplasm, usuallymultiple myeloma, per year•IgM MGUS:• IgM MGUS accounts for approximately 15% of MGUS cases• It can progress to Waldenström macroglobulinemia, but progression to multiple myeloma is rare• Bence-Jones proteinuria has been reported in approximately 20% of these cases•Light chain MGUS (LC-MGUS):•⚫ LC-MGUS is a unique subtype of MGUS in which there is no immunoglobulin heavy-chaincomponent•Urinary M protein &lt;500 mg/24 hour• LC-MGUS may progress to light-chain smoldering multiple myeloma (idiopathic Bence-Jonesproteinuria) and to light-chain multiple myeloma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 27,
+      "question": "A patient with complaints of blurred vision, bleeding gums, and tingling sensation over the extremities is diagnosed with lymphoplasmacytic lymphoma. Which of the following immunoglobulins is this condition associated with?",
+      "options": {
+        "A": "IgG",
+        "B": "IgA",
+        "C": "IgE",
+        "D": "IgM"
+      },
+      "correct_answer": "D",
+      "explanation": "High levels of IgM are seen in lymphoplasmacytic lymphoma. In lymphoplasmacytic lymphoma, high levels of IgM lead to symptoms related to hyperviscosity of the blood. This is known as Waldenstrom's macroglobulinemia. 'M' or monoclonal spike is seen in this condition. Here, it is caused by IgM; in multiple myeloma, it is caused by IgG. It is characterized by the absence of lytic lesions and normal serum calcium levels. IgM greatly increases the viscosity of the blood, giving rise to a hyperviscosity syndrome characterized by the following: visual impairment, neurologic problems, and bleeding. Cryoglobulinemia is also associated with hyperviscosity. The normal relative viscosity of the serum is 1.8. Hyperviscosity is seen in: multiple myeloma, Waldenstrom's macroglobulinemia, cryoglobulinemia, and myeloproliferative disorders.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 28,
+      "question": "A 40-year-old man is diagnosed with lymphoplasmacytic lymphoma. Which of the following genes is mutated in this condition?",
+      "options": {
+        "A": "MYC",
+        "B": "MYD88",
+        "C": "SOX",
+        "D": "RUNX1"
+      },
+      "correct_answer": "B",
+      "explanation": "Virtually all cases of lymphoplasmacytic lymphoma are associated with acquired mutations in MYD88. The most common cytogenetic abnormality associated with lymphoplasmacytic lymphoma is deletion of 6q.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 29,
+      "question": "Which of the following is not seen in patients with Waldenström macroglobulinemia?",
+      "options": {
+        "A": "M spike in serum protein electrophoresis",
+        "B": "Increased serum calcium",
+        "C": "Features due to organ infiltration",
+        "D": "Absence of lytic lesions on imaging"
+      },
+      "correct_answer": "B",
+      "explanation": "Serum calcium levels remain normal in Waldenström macroglobulinemia. Waldenström macroglobulinemia is a syndrome characterised by the following: • Hyperviscosity syndrome due to high levels of IgM • Most commonly occurs in association with lymphoplasmacytic lymphoma • 'M' or monoclonal spike • Absence of lytic lesions • Normal serum calcium levels • Diffuse marrow infiltration by plasma cells, plasmacytoid lymphocytes, and lymphocytes (all from the same clone) • Cells do not form tumor masses or produce lytic lesions ⚫ Lymphocytes commonly contain Dutcher bodies (intranuclear inclusions) • Bence-Jones proteins in 20-30%",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 30,
+      "question": "560Which of the following is the most common site for extramedullary plasmacytoma?",
+      "options": {
+        "A": "Gastrointestinal system",
+        "B": "Upper respiratory tract",
+        "C": "Genitourinary system",
+        "D": "Central nervous system"
+      },
+      "correct_answer": "B",
+      "explanation": "Extramedullary plasmacytomas are seen in the upper respiratory tract. Most of them are seen inthe nasopharynx, oropharynx, sinuses, and larynx.Plasmacytoma is a tumor of plasma cells of bony or soft tissue. It can occur anywhere in the bodywithout evidence of systemic disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 31,
+      "question": "What is Seligmann's disease?",
+      "options": {
+        "A": "α- heavy chain disease",
+        "B": "y- heavy chain disease",
+        "C": "μ- heavy chain disease",
+        "D": "heavy chain disease-"
+      },
+      "correct_answer": "A",
+      "explanation": "α- heavy chain disease (HCD) is known as Seligmann's disease.There are three heavy chain diseases:•α-heavy chain disease - Seligmann's disease••y- heavy chain disease - Franklin's disease⚫ μ- heavy chain disease - Associated with light-chain secretion (Bence-Jones proteinuria) in a fewcases",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    },
+    {
+      "q_no": 32,
+      "question": "A 60-year-old man presents with a history of bone pain, weakness, and loss of weight for 3years. On examination, enlarged lymph nodes and organomegaly are noted. Peripheral smearshows 22% plasma cells, which are λ-chain restricted. Serum IgE level is elevated. X-rayimage of the lumbar vertebra shows lytic punched-out lesions. What is the diagnosis?",
+      "options": {
+        "A": "Multiple myeloma",
+        "B": "Plasmacytoma",
+        "C": "Lymphoplasmacytic lymphoma",
+        "D": "Plasma cell leukemia"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario points to the diagnosis of plasma cell leukemia. In this case, theperipheral blood smear shows 22% of plasma cells and presents with organomegaly.Plasma cell leukemia is defined by the observation in blood of more than 20% clonal plasma cellsby differential count of the leucocytes or by counting more than 2 × 109 per liter circulating clonalplasma cells. Plasma cell leukemia (PCL) is a rare and aggressive form of leukemia and plasma celldyscrasia. PCL can be divided into primary PCL (PCL) and secondary PCL (SPCL) followingpreviously diagnosed multiple myeloma (MM); the latter typically occurring at a late andadvanced stage of MM.Patients with plasma cell leukemia are more likely to have extramedullary involvement of liverand spleen, causing organomegaly than in multiple myeloma. (Option A)576",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Multiple Myeloma and Plasma Cell Disorders"
+    }
+  ]
+}

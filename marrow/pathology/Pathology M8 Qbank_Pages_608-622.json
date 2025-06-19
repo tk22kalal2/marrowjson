@@ -1,0 +1,260 @@
+{
+  "chapter": "Leukopenia, Leukocytosis and Lymphadenitis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "From which period of embryogenesis does the liver become the chief site of hematopoesis?",
+      "options": {
+        "A": "3rd week",
+        "B": "2nd to 3rd month",
+        "C": "4th month",
+        "D": "1st month"
+      },
+      "correct_answer": "B",
+      "explanation": "The liver becomes the chief site of hematopoiesis from the 2nd to 3rd month of embryogenesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 2,
+      "question": "Which cells in the bone marrow are referred to as nurse cells?",
+      "options": {
+        "A": "Megakaryocytes",
+        "B": "Macrophages",
+        "C": "Parasite-infected progenitors",
+        "D": "Fat cells"
+      },
+      "correct_answer": "B",
+      "explanation": "Nurse cells are specialized macrophages in the bone marrow that assist in the development of red blood cells (RBCs).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 3,
+      "question": "Bone marrow biopsy of a normal adult is given below. What is the ratio of structures marked A and B?",
+      "options": {
+        "A": "2:1",
+        "B": "1:1",
+        "C": "1:2",
+        "D": "1:3"
+      },
+      "correct_answer": "B",
+      "explanation": "The structures marked A are fat cells and B are hematopoietic elements. The normal ratio of fat cells to hematopoietic elements in a normal adult is 1:1. Normal bone marrow consists of fat cells and hematopoietic elements. In hypoplastic states (like aplastic anemia), the proportion of fat cells is greatly increased (increased fat-to-cell ratio). Conversely, fat cells often disappear in conditions like hematopoietic tumors and in diseases with compensatory hyperplasias (like hemolytic anemias) and neoplastic proliferations such as leukemias (decreased fat-to-cell ratio).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q3_img1_d9963b12.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp3_img1_50b7fb14.jpeg",
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is a marker for pluripotent hematopoietic stem cells?",
+      "options": {
+        "A": "CD1",
+        "B": "CD34",
+        "C": "CD79",
+        "D": "CD45"
+      },
+      "correct_answer": "B",
+      "explanation": "614CD34 is an antigen of pluripotent hematopoietic stem cells and progenitor cells of many lineages.Common myeloid progenitorMultipotential hematopoieticstem cell(Hemocytoblast)Common lymphoid progenitorErythrocyte Mast cellSmall lymphocyteMyeloblastNatural killer cell(Large granular lymphocyte)T lymphocyte B lymphocyteMegakaryocyteBasophilNeutrophil EosinophilMonocyteThrombocytesMacrophagePlasma cell",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_d6721cac.jpeg",
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is called leukocyte common antigen?",
+      "options": {
+        "A": "CD10",
+        "B": "CD45",
+        "C": "CD3",
+        "D": "CD1"
+      },
+      "correct_answer": "B",
+      "explanation": "CD45 is called leukocyte common antigen because it is found in all leukocytes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is a characteristic feature of Kostmann syndrome?",
+      "options": {
+        "A": "Neutrophilia",
+        "B": "Neutropenia",
+        "C": "Thrombocytopenia",
+        "D": "Lymphopenia"
+      },
+      "correct_answer": "B",
+      "explanation": "Kostmann syndrome is characterized by neutropenia. It is a rare congenital condition in which inherited defects in specific genes impair granulocytic differentiation. This results in severe congenital neutropenia. It presents in young children as recurrent bacterial infections (such as otitis media, cellulitis) and oral ulcers. It is associated with an increased risk of acute myeloid leukemia (AML).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the most common cause of agranulocytosis?609",
+      "options": {
+        "A": "Marrow infiltration",
+        "B": "Autoimmune",
+        "C": "Drug toxicity",
+        "D": "Radiation exposure"
+      },
+      "correct_answer": "",
+      "explanation": "The most common cause of agranulocytosis is drug toxicity.Causes of agranulocytosis include:• Inadequate or ineffective granulopoiesis -•Suppression of hematopoietic stem cells - aplastic anemia, infiltrative marrow disorders•Suppression of committed granulocytic precursors• Ineffective hematopoiesis - megaloblastic anemia, myelodysplastic syndromes•· Congenital conditions - Kostmann syndrome615• Increased destruction or sequestration of neutrophils -•Immunological injury to neutrophils - idiopathic, systemic lupus erythematosus, drug exposure•Increased peripheral utilization - bacterial, fungal, or rickettsial infections• Splenomegaly",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient who was started on chemotherapy 2 weeks ago is found to have a neutrophil count of 2000/mm^3. Below what neutrophil count is he at risk of developing serious infections?",
+      "options": {
+        "A": "1500/mm^3",
+        "B": "1000/mm^3",
+        "C": "500/mm^3",
+        "D": "100/mm^3"
+      },
+      "correct_answer": "C",
+      "explanation": "Serious infections are most likely when the neutrophil count falls below 500/mm^3.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 9,
+      "question": "A 5-year-old boy is brought with complaints of episodes of severe, violent coughs, followed by a high-pitch intake of breath that sounds like a whoop. These coughing episodes are usually followed by vomiting. He and his family are refugees, and his prior vaccination records are not available. Lab investigations of this child will likely reveal which of the following?",
+      "options": {
+        "A": "Neutrophilia",
+        "B": "Eosinophilia",
+        "C": "Monocytosis",
+        "D": "Lymphocytosis"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of whooping cough or pertussis. It is due to Bordetella pertussis infection and results in lymphocytosis. Causes of lymphocytosis include: • Pertussis • Tuberculosis • Brucellosis • Hepatitis A • Cytomegalovirus • Epstein-Barr virus",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 10,
+      "question": "A 50-year-old man admitted to the ICU develops sepsis 3 days after the insertion of a central venous catheter. A peripheral blood smear reveals the following. What does the structure marked by the arrow indicate?",
+      "options": {
+        "A": "Toxic granule",
+        "B": "Döhle body",
+        "C": "Chédiak-Higashi body",
+        "D": "Toxic vacuolation"
+      },
+      "correct_answer": "B",
+      "explanation": "The given peripheral smear, prepared from an individual with bacterial sepsis, shows reactive changes in neutrophils. The arrow-marked structure is a Döhle body. Reactive changes in neutrophils associated with leukocytosis in severe inflammatory disorders are: \n      • Toxic granules, which are coarser and darker than the normal neutrophilic granules, represent abnormal azurophilic (primary) granules.\n      • Döhle bodies are patches of the dilated endoplasmic reticulum that appear as sky-blue cytoplasmic puddles.\n      • Toxic cytoplasmic vacuoles.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q10_img1_98a9a01e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp10_img1_c7364dde.jpeg",
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following does not cause follicular hyperplasia of the lymph nodes?",
+      "options": {
+        "A": "Rheumatoid arthritis",
+        "B": "Toxoplasmosis",
+        "C": "Early stage of HIV infection",
+        "D": "B cell lymphoma"
+      },
+      "correct_answer": "D",
+      "explanation": "B-cell lymphoma results in malignant proliferation within the lymph node, not follicular hyperplasia. Follicular hyperplasia is a benign condition caused by stimuli that activate humoral immune responses. It may occur in: • Rheumatoid arthritis • Toxoplasmosis • Early stages of HIV infection. It is defined by the presence of large oblong germinal centres (secondary follicles), which are surrounded by a collar of small, resting naive B cells (mantle zone).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_44edd94e.jpeg",
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is not a feature of reactive lymphoid hyperplasia?",
+      "options": {
+        "A": "Recognizable light and dark zones",
+        "B": "Presence of frequent mitotic figures",
+        "C": "No variation in shape and size of the follicles",
+        "D": "Preservation of lymph node architecture"
+      },
+      "correct_answer": "C",
+      "explanation": "In reactive lymphoid hyperplasia, there is marked variation in the shape and size of follicles. Features favoring reactive lymphoid hyperplasia, which are absent in neoplastic follicles, are: preservation of the lymph node architecture, including the interfollicular T-cell zones and the sinusoids; marked variation in the shape and size of the follicles; presence of frequent mitotic figures and phagocytic macrophages; recognizable light and dark zones.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 13,
+      "question": "In which of the following organs are tingible body macrophages found?",
+      "options": {
+        "A": "Bone marrow",
+        "B": "Spleen",
+        "C": "Lymph node",
+        "D": "Thymus"
+      },
+      "correct_answer": "C",
+      "explanation": "Tingible-body macrophages are found in lymph nodes. A tingible-body macrophage is a type of macrophage predominantly found in germinal centers containing many phagocytosed apoptotic cell debris. This debris is referred to as tingible bodies (tingible meaning stainable). The presence of these macrophages suggests non-neoplastic reactive hyperplasia of the lymph node, or can be seen as the stars in the starry sky appearance of Burkitt lymphoma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp13_img1_a5c1bd47.jpeg",
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 14,
+      "question": "A 16-year-old boy presented with complaints of fever, sore throat, and enlarged lymph nodes.Paul Bunnell's test was done and found to be positive. What type of lymphoid hyperplasia isseen in this condition?",
+      "options": {
+        "A": "Follicular hyperplasia",
+        "B": "Paracortical hyperplasia",
+        "C": "Reticular hyperplasia",
+        "D": "Sinus histiocytosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of infectious mononucleosis. Acute viral infections, likeinfectious mononucleosis, produce paracortical hyperplasia.There are three types of lymph node hyperplasia. They are:• Follicular hyperplasia• Paracortical hyperplasia• Sinus histiocytosis (reticular hyperplasia)Paracortical hyperplasia is seen in the T-cell-containing paracortical region of the lymph node. Itis caused by stimuli that trigger T-cell-mediated immune responses. The involved regionstypically contain:620• Immunoblasts• Activated T-cells 3-4 times the size of resting lymphocytes t• Round nuclei• Open chromatin• Several prominent nucleoli• Moderate amounts of pale cytoplasm• Hypertrophy of sinusoidal and vascular endothelial cells, with infiltrating macrophages andeosinophils",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 15,
+      "question": "In patients with breast cancer with lymph node metastases, which of the following changes is seen in affected lymph nodes?",
+      "options": {
+        "A": "Follicular hyperplasia",
+        "B": "Paracortical hyperplasia",
+        "C": "Reticular hyperplasia",
+        "D": "Cortical hyperplasia"
+      },
+      "correct_answer": "C",
+      "explanation": "In the case of lymph node metastases, there is prominent reticular hyperplasia. Reticular hyperplasia or sinus histiocytosis refers to an increase in the number and size of the cells that line lymphatic sinusoids. Although nonspecific, this form of hyperplasia may be particularly prominent in lymph nodes draining cancers such as carcinoma of the breast. The lining lymphatic endothelial cells are markedly hypertrophied and macrophages are greatly increased in numbers, resulting in the expansion and distension of the sinuses. The image given below shows reticular hyperplasia in the lymph node. Lymph node reticular hyperplasia",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_41d27d2c.jpeg",
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following statements about hemophagocytic lymphohistiocytosis is false?",
+      "options": {
+        "A": "There is systemic activation of macrophages and CD8+ T cells",
+        "B": "The most common trigger is infection with Epstein-Barr virus",
+        "C": "It presents as an acute febrile illness with hepatosplenomegaly",
+        "D": "Hemophagocytosis seen in bone marrow is sufficient for diagnosis612"
+      },
+      "correct_answer": "D",
+      "explanation": "Hemophagocytosis is usually seen on bone marrow examination, but it is neither sufficient norrequired to make the diagnosis of hemophagocytic lymphohistiocytosis (HLH).621HLH is a reactive condition also known as macrophage-activation syndrome. The common featureof all forms of HLH is the systemic activation of macrophages and CD8+ T-cells.The most common trigger for HLH is an infection, particularly with EBV (Epstein-Barr virus). It ischaracterized by acute febrile illness associated with splenomegaly, hepatomegaly, and cytopenias.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is not a feature in patients with hemophagocytic lymphohistiocytosis?",
+      "options": {
+        "A": "Disseminated intravascular coagulation",
+        "B": "High serum triglycerides",
+        "C": "Low serum ferritin",
+        "D": "High plasma IL-2 receptor"
+      },
+      "correct_answer": "C",
+      "explanation": "Hemophagocytic lymphohistiocytosis (HLH) is associated with very high serum ferritin levels. Laboratory findings in HLH include: Anemia, Thrombocytopenia, High serum ferritin, High plasma IL-2 receptor levels, Elevated liver enzyme levels, High triglyceride levels, and Features of disseminated intravascular coagulation (DIC).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Leukopenia, Leukocytosis and Lymphadenitis"
+    }
+  ]
+}

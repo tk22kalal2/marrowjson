@@ -1,0 +1,320 @@
+{
+  "chapter": "Skin pathology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A child was brought with complaints of an eczematous lesion on the scalp. A biopsy from the lesion was taken. The cells stained positively for CD1a and CD207. What are these cells?",
+      "options": {
+        "A": "Dendritic cell",
+        "B": "T-lymphocyte",
+        "C": "Keratinocyte",
+        "D": "Neuroendocrine cell"
+      },
+      "correct_answer": "A",
+      "explanation": "The cells stained positively for CD1a and CD207, which are markers for Langerhans cells, a type of dendritic cell.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q1_img1_508147cd.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_142141fe.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 2,
+      "question": "An elderly man presented with a rapidly growing lesion as shown below. A biopsy from this lesion showed malignant cells. The immunohistochemical staining was positive for CK-20. The tumor cells in this condition originated from which of the following cells?",
+      "options": {
+        "A": "T-lymphocytes",
+        "B": "Melanocytes",
+        "C": "Langerhans cells",
+        "D": "Merkel cells"
+      },
+      "correct_answer": "D",
+      "explanation": "The above scenario is suggestive of Merkel cell carcinoma. It arises from Merkel cells. These cells are located in the epithelial basal cell layer and have neuroendocrine and mechanoreceptor functions. Merkel cell carcinoma is a rare and aggressive neuroendocrine tumor of the skin, most commonly found in white men and diagnosed at a mean age of 70 years. A rapidly growing, flesh-colored papule or plaque characterizes the disease. About 80% of the cases are seen associated with Merkel cell polyomavirus. Regional lymph nodes are involved in 30% of the patients and 50% will develop systemic disease. CK-20 is a specific marker for Merkel cell carcinoma. Wide local excision is usually necessary. The image below shows Merkel cell carcinoma composed of uniform small round cells having granular chromatin and scant cytoplasm.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q2_img1_a62503fb.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp2_img1_fb2af36c.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 3,
+      "question": "A histopathological examination of melanocytic nevus in a patient showed nests of larger, round pigmented cells superficially. At the deeper extent of the lesion, it showed fascicles of non-pigmented cells resembling neural tissue. What does this signify?",
+      "options": {
+        "A": "Benign nature of nevus",
+        "B": "Coexisting nerve tumor",
+        "C": "Risk of malignant transformation into melanoma",
+        "D": "Neural invasion of tumor cells"
+      },
+      "correct_answer": "A",
+      "explanation": "Nevus cells often become non-pigmented and resemble neural tissue as they grow deep into the dermis. This change is called neurotization and suggests the benign nature of the nevus. This morphological change in nevus cells occurs due to progressive loss of tyrosinase activity and acquisition of cholinesterase activity in deeper 'nerve-like' nevus cells. Melanocytic nevi (moles) are common benign neoplasms caused by acquired activating mutations in components of the RAS signaling pathway. Based on the location, it may be junctional nevi, intradermal nevi, or compound nevi. Melanocytic nevi are thought to progress through a series of morphologic changes over time. Superficial nevus cells are larger, tend to produce melanin, and grow in nests. Deeper nevus cells are smaller, produce little or no pigment, and appear as cords and single cells. At the deepest extent of the lesions, these cells often acquire fusiform contours and grow in fascicles resembling neural tissue (neurotization). Melanocytic nevi with neurotization indicate normal maturation change and help in differentiating benign nevi from melanomas (which lack such features).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp3_img1_a1c9d210.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following driver mutations is not associated with the given skin malignancy?",
+      "options": {
+        "A": "Mutations in cell cycle regulators",
+        "B": "Mutations in receptor tyrosine kinase signalling pathway",
+        "C": "Mutations that activate telomerase",
+        "D": "Mutations in hedgehog signalling pathway"
+      },
+      "correct_answer": "D",
+      "explanation": "The above image is suggestive of melanoma. Mutations in the hedgehog signalling pathway are associated with basal cell carcinoma. All other mutations are associated with melanoma. Melanoma is a highly aggressive malignancy linked to UV exposure. Most sporadic melanomas are associated with mutations in cell cycle regulators (p16/INK4a, CDK4), proteins in receptor tyrosine kinase signalling pathway (KIT, RAS, BRAF), and telomerase (TERT mutation). Dysplastic nevus syndrome is an autosomal dominant condition with an inherited CDKN2A mutation that can lead to familial melanoma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q4_img1_5438db69.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the most common type of melanoma?",
+      "options": {
+        "A": "Nodular melanoma",
+        "B": "Acral lentiginous melanoma",
+        "C": "Lentigo maligna melanoma",
+        "D": "Superficial spreading melanoma"
+      },
+      "correct_answer": "D",
+      "explanation": "The superficial spreading type of melanoma is the most common type of melanoma. The progression of melanoma may be described as: • Radial growth phase: the horizontal spread of melanoma within the epidermis and superficial dermis. • Acral lentiginous - unrelated to sun exposure. • Lentigo maligna (Hutchinson freckle) - sun-exposed regions. • Superficial spreading (most common). • Vertical growth phase: the tumor cells invade downward into the deeper dermal layers as an expansile mass (nodular). The image below shows melanoma in the radial growth phase. It shows the irregular nested and single-cell growth of melanoma cells within the epidermis and an underlying inflammatory response within the dermis. The image below shows melanoma cells that have large nuclei with irregular contours. The chromatin is characteristically clumped at the periphery of the nuclear membrane with prominent red (eosinophilic) nucleoli.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 6,
+      "question": "An elderly European man presented with a slowly progressing lesion on his scalp for 2 years. Immunohistochemistry revealed tumor cells that were positive for the S-100 marker. All are favorable prognostic factors for his condition except:",
+      "options": {
+        "A": "Thin tumor depth",
+        "B": "Few mitoses (< 1 per mm2)",
+        "C": "Brisk tumor-infiltrating lymphocyte response",
+        "D": "Regression"
+      },
+      "correct_answer": "D",
+      "explanation": "The above image is suggestive of melanoma. The absence of regression is a favorable prognostic factor in melanomas. Immunohistochemistry markers for melanoma are: S-100, HMB (Human Melanoma Black)-45, and LDH-MELAN-A. Regression is defined as partial or complete disappearance of a previously documented tumor in the absence of therapeutic interventions or physical trauma. Microscopically, it is characterized by the replacement of melanoma cells by dense inflammatory cell infiltrate or dermal fibrosis. This phenomenon explains some apparent discrepancies between expected and observed prognosis based on tumor thickness and also the cases of metastatic melanoma with occult primary. Determinants of a more favorable prognosis in melanoma include: thinner tumor depth, no or very few mitoses (< 1 per mm2), a brisk tumor-infiltrating lymphocyte response, the absence of regression, lack of ulceration, and absence of metastases in the sentinel lymph node.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q6_img1_9281a7b7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following conditions is not associated with FGFR3 mutations?",
+      "options": {
+        "A": "Seborrheic keratosis",
+        "B": "Acanthosis nigricans",
+        "C": "Thanatophoric dwarfism",
+        "D": "Melanomas"
+      },
+      "correct_answer": "D",
+      "explanation": "Mutations in the FGFR3 gene are not described in melanomas. Fibroblast growth factor receptor-3 (FGFR3) is a receptor tyrosine kinase. Defects in the FGFR3 gene have been associated with several conditions: Hypochondroplasia, Thanatophoric dwarfism, Seborrheic keratosis, Acanthosis nigricans, bladder cancer, craniosynostosis, and severe achondroplasia with developmental delay and acanthosis nigricans (SADDAN).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient presented with multiple, small, pink nodular growths on the temples. A biopsy from the lesion showed the following. What is the likely diagnosis?",
+      "options": {
+        "A": "Trichilemmoma",
+        "B": "Cylindroma",
+        "C": "Familial benign pemphigus",
+        "D": "Actinic keratosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The above image shows a jigsaw puzzle appearance, which is seen in cylindroma (turban tumor/Spiegler's tumor). Cylindroma is a familial autosomal dominant disorder. It is due to the loss of the cylindromatosis gene, CYLD, on chromosome 16q12-13. It has also been reported to follow radiotherapy epilation of the scalp. The lesions are frequently multiple, smooth, firm, pink to red, and somewhat pedunculated. They are mostly seen on the scalp. Histologically, it contains mosaic-like masses - a jigsaw appearance. Malignant transformation is very rare. Surgery is the treatment of choice. Note: Genetic syndromes associated with adnexal tumors include germline mutations in CYLD - familial cylindromatosis, familial trichoepithelioma; Brooke-Spiegler syndrome - associated with trichoepithelioma, cylindroma, spiradenoma; Muir-Torre syndrome - sebaceous adenomas; Cowden syndrome - multiple trichilemmomas.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q8_img1_795a6700.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp8_img1_802523e4.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 10,
+      "question": "A biopsy from a chronic oropharyngeal lesion of a patient showed the following. Which of the following is not a risk factor for developing this condition?",
+      "options": {
+        "A": "Exposure to UV light",
+        "B": "Chronic ulcers",
+        "C": "Ionising radiation",
+        "D": "Epstein-Barr virus"
+      },
+      "correct_answer": "D",
+      "explanation": "The above image shows keratinous pearls and atypical tumor cells suggestive of squamous cell carcinoma. Human papillomavirus (HPV) subtypes 5 and 8 may predispose to squamous cell carcinoma, but not Epstein-Barr virus (EBV). Risk factors for squamous cell carcinoma include: Exposure to UV light, HPV subtypes 5 and 8, Epidermodysplasia verruciformis, Industrial carcinogens (tars and oils), Chronic ulcers and draining osteomyelitis, Old burn scars (Marjolin ulcers), Ingestion of arsenicals, Ionizing radiation, Tobacco and betel nut chewing (in the oral cavity), and Precursor lesions: Actinic keratosis, Xeroderma pigmentosum. Squamous Cell Carcinoma is characterized by atypical tumor cells and keratinous pearls.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q10_img1_f992bba4.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp10_img1_7bea03d9.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 11,
+      "question": "A 60-year-old man presents with a pearly papule over the face containing prominent dilated subepidermal blood vessels and surface ulceration. A histological picture of the tumor is shown below. All are true about the tumor except:",
+      "options": {
+        "A": "Incidence is increased in xeroderma pigmentosum",
+        "B": "Presence of multiple such tumors is seen in Gorlin syndrome",
+        "C": "It may be multifocal",
+        "D": "Metastasis is common"
+      },
+      "correct_answer": "D",
+      "explanation": "The clinical presentation and histology are suggestive of basal cell carcinoma (BCC). It is a locally aggressive cutaneous tumor, and metastasis is very rare. It occurs in sun-exposed areas with increased incidence in the setting of immunosuppression and in disorders of DNA repair, such as xeroderma pigmentosum. BCCs usually present as pearly papules and locally invasive ulcers (rodent ulcers). Histologically, the tumor cells resemble those in the normal basal cell layer of the epidermis with peripheral palisading and retraction cleft. It is associated with mutations that activate the hedgehog pathway signaling. Gorlin syndrome is an autosomal-dominant disorder with multiple basal cell carcinomas, medulloblastomas, ovarian fibromas, and odontogenic keratocysts, pits of the palms, and soles.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q11_img1_503f4cfb.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_dbaed9d4.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 12,
+      "question": "The clinical picture and a biopsy from the skin lesion of a patient are shown below. This condition is associated with which of the following?",
+      "options": {
+        "A": "Langerhans cell histiocytosis",
+        "B": "Benign fibrous histiocytoma",
+        "C": "Mycosis fungoides",
+        "D": "Mastocytosis"
+      },
+      "correct_answer": "C",
+      "explanation": "The clinical image shows diffuse erythema and scaling of the entire body surface (erythroderma) and histopathology shows the presence of lymphocytes in the epidermal cell layer (epidermotropism). This is suggestive of Sézary syndrome, which is a disseminated and severe form of mycosis fungoides (cutaneous T-cell lymphoma). Mycosis fungoides is a cutaneous T-cell lymphoma (CD4+ T-cells) that presents in the skin. It remains localized to the skin for many years, but it may eventually evolve into a systemic lymphoma. The image of mycosis fungoides shows hallmark features - Sézary-Lutzner cells showing epidermal infiltration (epidermotropism); typical epidermotropism - the presence of lymphocytes in the epidermal cells seen.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q12_img1_5a6799eb.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp12_img1_1f78caf1.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 13,
+      "question": "A child was brought with urticarial lesions on the forearm. On examination, Darier's sign was positive. The cells responsible for this condition can be stained with all of the following except:",
+      "options": {
+        "A": "Masson-Fontana stain",
+        "B": "Toluidine blue",
+        "C": "Leder stain",
+        "D": "CD117"
+      },
+      "correct_answer": "A",
+      "explanation": "The above scenario is suggestive of urticaria pigmentosa caused by cutaneous mastocytosis. The Masson-Fontana stain is used to demonstrate melanin in a nevus and malignant melanoma. Darier's sign is seen in urticaria pigmentosa. It refers to the development of urticaria and erythema around the lesions after mild trauma, including scratching or rubbing of the lesion. Mast cells may be difficult to differentiate from lymphocytes in routine, hematoxylin, and eosin (H&E)-stained sections. Special metachromatic stains (toluidine blue or Giemsa) are used to visualize their granules. Stains for mast cells: • Toluidine blue • Giemsa • Tryptase • Leder stain (Chloroacetate esterase) • CD117. The image below shows mast cells stained with toluidine blue. Positive Darier's sign in a nodule of urticaria pigmentosa in a young child. Presence of a papular lesion → Linear wheal after stroking.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp13_img1_704e76a4.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 14,
+      "question": "A 40-year-old woman presents with oral ulcers and bullae over the mucosa and skin. On examination, the bullae are flaccid and filled with clear fluid. Histopathology of the lesion shows the following. What is the most likely diagnosis?",
+      "options": {
+        "A": "Pemphigus vulgaris",
+        "B": "Bullous pemphigoid",
+        "C": "Dermatitis herpetiformis",
+        "D": "Pemphigus foliaceus"
+      },
+      "correct_answer": "A",
+      "explanation": "The above image shows the suprabasal splitting of the epidermis (acantholysis) giving rise to the row of tombstones appearance. This is suggestive of Pemphigus vulgaris. Pemphigus vulgaris is the most common type of pemphigus. It involves the mucosa and skin. Autoantibodies against desmoglein 1 and 3 are present. Pemphigus is a blistering disorder caused by autoantibodies that result in the dissolution of intercellular attachments within the epidermis and mucosal epithelium. Variants of pemphigus: Pemphigus vulgaris, Pemphigus vegetans, Pemphigus foliaceus - autoantibodies are against desmoglein 1 alone, leading to superficial, subcorneal blisters. Pemphigus erythematosus, Paraneoplastic pemphigus - in association with various malignancies, most commonly non-Hodgkin lymphoma. Pemphigus Vulgaris - row of tombstones appearance.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q14_img1_e5eccb3a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp14_img1_3df42289.png",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 15,
+      "question": "A 30-year-old woman presented with painful blisters on the skin and oral mucosa. Direct immunofluorescence is given below. Which of the following is false regarding the same?",
+      "options": {
+        "A": "Antibodies against desmoglein 3",
+        "B": "Antibodies against desmoglein 1",
+        "C": "Suprabasal acantholytic blister is a characteristic feature",
+        "D": "Antibodies against hemidesmosomes"
+      },
+      "correct_answer": "D",
+      "explanation": "Antibodies against hemidesmosomes is the false statement as the given image shows a characteristic fish-net appearance on direct immunofluorescence, which is diagnostic of pemphigus vulgaris. The antibodies are against the desmosomal adhesion proteins such as desmogleins 1 and 3. This pattern is due to intraepidermal intercellular deposition of IgG and C3. The first-line investigation in pemphigus vulgaris is the Tzanck smear. It allows us to visualize the histology by collecting material from the floor of a fresh blister that is stained with Giemsa or any Romanowsky stain. Tzanck cells are seen on microscopy. Direct immunofluorescence microscopy (DIF) is the most accurate test. Antibodies against hemidesmosomes that link basal keratinocytes to the underlying basement membrane are seen in bullous pemphigoid.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_a53f1320.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_6b8f0f6f.png",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 16,
+      "question": "A 70-year-old woman presents with multiple tense, itchy blisters on the trunk and thigh region. Histopathology demonstrates subepidermal, non-acantholytic blisters. Direct immunofluorescence for IgG and C3 shows the following. What is the most likely diagnosis?",
+      "options": {
+        "A": "Pemphigus vulgaris",
+        "B": "Dermatitis herpetiformis",
+        "C": "Bullous pemphigoid",
+        "D": "Pemphigus foliaceus"
+      },
+      "correct_answer": "C",
+      "explanation": "The above image showing linear IgG and C3 deposits on direct immunofluorescence (DIF) microscopy is characteristic of bullous pemphigoid. Bullous pemphigoid is characterized by tense, itchy bullae in the flexor areas and trunk, which do not rupture easily. In bullous pemphigoid, the antibodies are formed against bullous pemphigoid antigens (BPAGs) - BP 180 and BP 230, which are components of hemidesmosomes. The separation of bullous pemphigoid from pemphigus is based on the identification of subepidermal, non-acantholytic blisters that are Nikolsky negative. Nikolsky's sign is elicited by applying firm tangential sliding pressure with a finger on lesional or perilesional skin. If the lesion is opened (i.e., skin sloughed off), then Nikolsky's sign is present/positive. Direct Immunofluorescence in Bullous Pemphigoid: Linear IgG deposit.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q16_img1_100bf65d.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp16_img1_db9ce35e.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 17,
+      "question": "A 28-year-old man with gluten sensitivity presents with severely itchy papulovesicular lesions on extremities, knees, elbows, and buttocks for one year. Direct immunofluorescence staining of the lesions showed IgA deposition as follows. What is the most probable diagnosis?",
+      "options": {
+        "A": "Bullous pemphigoid",
+        "B": "Pemphigus vulgaris",
+        "C": "Dermatitis herpetiformis",
+        "D": "Epidermolysis bullosa acquisita"
+      },
+      "correct_answer": "C",
+      "explanation": "The above image showing granular deposits of IgA on direct immunofluorescence is suggestive of dermatitis herpetiformis or Duhring's disease. These deposits localize in the tips of dermal papillae. Dermatitis herpetiformis presents as grouped vesicles and papules. These lesions are commonly located over the extensor aspects of knees, elbows, buttocks, back, scalp, which are associated with intense pruritus. It is associated with gluten-sensitive enteropathy or celiac disease. It is also associated with HLA DQ2/DQ8/B8. Deposition of IgA antitransglutaminase antibodies in the dermal papillae results in true subepidermal blisters and vesicles. The characteristic microscopic feature is subepidermal blisters with papillary tip microabscesses containing neutrophils. The initial treatment of choice for dermatitis herpetiformis is a gluten-free diet. The image below shows subepidermal vesicles, with papillary neutrophil microabscesses, with neutrophil, eosinophil, and lymphocytes infiltrates in the superficial dermis in cases of dermatitis herpetiformis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q17_img1_8fda446d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 18,
+      "question": "A 36-year-old male with skin-colored umbilicated papules. Microscopy is as shown below. The most likely diagnosis is",
+      "options": {
+        "A": "Herpes virus",
+        "B": "Verruca vulgaris",
+        "C": "Molluscum contagiosum",
+        "D": "Lichen planus"
+      },
+      "correct_answer": "C",
+      "explanation": "The given microscopic image shows large, ellipsoid, homogeneous, cytoplasmic inclusion in cells of the stratum granulosum and the stratum corneum, classically seen in molluscum contagiosum. Molluscum contagiosum is a common, self-limited viral disease of the skin caused by a poxvirus. Poxvirus is brick-shaped and is about 300 nm in size, the largest pathogenic poxvirus in humans. Tzanck smear shows intracytoplasmic molluscum bodies (Henderson-Patterson bodies), the largest known inclusion bodies (30-35 μm). Individual lesions are firm, pruritic, pink to skin-colored umbilicated papules. A curd-like material can be expressed from the central umbilication. Molluscum contagiosum: Enlarged keratinocytes of stratum malpighii with eosinophilic inclusion bodies - Henderson-Patterson bodies or molluscum bodies containing virus particles.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q18_img1_7caa05fd.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp18_img1_e6cc48a8.jpeg",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 19,
+      "question": "A pathology resident notes the following cells while examining a histopathological section. It may be seen in all of the following conditions except:",
+      "options": {
+        "A": "Xanthoma",
+        "B": "Fat necrosis",
+        "C": "Dermatofibroma",
+        "D": "Sarcoidosis"
+      },
+      "correct_answer": "D",
+      "explanation": "The image above shows Touton giant cells having a central ring of nuclei while the peripheral cytoplasm is clear due to accumulated lipid. These cells are formed by the fusion of lipid-containing macrophages. They are not seen in sarcoidosis. These cells are seen in: • Fat necrosis • Xanthoma • Xanthogranulomas • Dermatofibroma. The cardinal histopathologic feature of sarcoidosis is the non-caseating epithelioid granuloma with occasional other microscopic features: • Schaumann bodies - laminated concretions composed of calcium and proteins • Asteroid bodies - stellate inclusions enclosed within giant cells.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q19_img1_a91c2d66.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 20,
+      "question": "A 35-year-old man presented with a single hypoesthetic and hypopigmented patch on the lateral aspect of the forearm. Microscopy of a biopsy sample from the lesion revealed granulomatous inflammation, but acid-fast bacilli were not identified. What is the likely diagnosis?",
+      "options": {
+        "A": "Tuberculoid leprosy",
+        "B": "Lepromatous leprosy",
+        "C": "Histioid leprosy",
+        "D": "Primary syphilis"
+      },
+      "correct_answer": "A",
+      "explanation": "The most likely diagnosis is tuberculoid leprosy. On microscopic examination, tuberculoid leprosy has granulomatous lesions closely resembling those found in tuberculosis. Because of the strong host defense, bacilli are almost never found, hence the name paucibacillary leprosy. Leprosy, or Hansen disease, is a slowly progressive infection caused by Mycobacterium leprae, mainly affecting the skin and peripheral nerves.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 22,
+      "question": "Max Joseph's space is a histopathological feature of which of the following conditions?",
+      "options": {
+        "A": "Psoriasis vulgaris",
+        "B": "Lichen planus",
+        "C": "Erythema multiforme",
+        "D": "Mastocytosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Max Joseph's space is a histopathological feature of lichen planus. Histological features of lichen planus: • Orthokeratosis, parakeratosis, thickening of the stratum granulosum. • Acanthosis with the formation of colloid bodies (also known as Civatte bodies/Sabouraud bodies) • Liquefactive degeneration of the stratum basale, with separation from the underlying lamina propria, as a result of desmosome loss, creating small spaces (Max Joseph spaces) • Infiltration of T cells in a band-like pattern into the dermis, 'hugging' the basal layer (interface dermatitis).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp22_img1_ce98f6bc.png",
+      "chapter_heading": "Skin pathology"
+    },
+    {
+      "q_no": 23,
+      "question": "A 35-year-old man presents with the following lesions. Which of the following findings is likely to be seen in histopathology?",
+      "options": {
+        "A": "Papillary tip microabscess",
+        "B": "Munro microabscess",
+        "C": "Pautrier's microabscess",
+        "D": "Eosinophilic microabscess"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows silvery-white scaly lesions on the extensor aspect of the knees, suggestive of psoriasis. Munro microabscesses are seen in psoriasis. Psoriasis is a chronic inflammatory dermatosis that appears to have an autoimmune basis. The lesions are pink to salmon-colored plaques covered by loosely adherent silver-white scales. Auspitz sign and Koebner phenomenon can be demonstrated. Nail changes include pitting, dimpling, separation of the nail plate, onycholysis, thickening, and crumbling. Microscopy shows thinning of the stratum granulosum, suprapapillary plates, and neutrophils forming small aggregates within the superficial epidermis (spongiform pustules) and within the stratum corneum (Munro microabscesses). Psoriasis: Epidermis shows psoriasiform hyperplasia with markedly elongated rete ridges, clubbing of rete ridges at the base, and thinning of suprapapillary epidermal plates. The dermis shows dilated blood vessels and edema. Some types of microabscesses and their examples are given below: Predominant cell - Name of microabscess - Disease: Neutrophilic microabscess - Papillary tip microabscess - Mu; Lymphocytic microabscess - Pautrier's microabscess - Mycosis fungoides; Eosinophilic microabscess - not specified - Pemphigus vegetans; Munro microabscess (superficial) - Spongiform pustules of Kogoj (deep) - Psoriasis; Dermatitis herpetiformis - not specified.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q23_img1_ca1b9f8a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp23_img1_8125b6a7.jpeg",
+      "chapter_heading": "Skin pathology"
+    }
+  ]
+}

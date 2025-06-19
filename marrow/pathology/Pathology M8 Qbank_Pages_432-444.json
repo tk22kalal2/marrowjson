@@ -1,0 +1,230 @@
+{
+  "chapter": "Coagulation Pathway Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common hereditary disease associated with life-threatening bleeding?",
+      "options": {
+        "A": "Hemophilia A",
+        "B": "Immune thrombocytopenic purpura",
+        "C": "Thrombotic thrombocytopenic purpura",
+        "D": "von Willebrand disease"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "A 12-year-old boy presents with the following finding after a trivial fall. His lab investigationsare given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Immune thrombocytopenic purpura",
+        "B": "Bernard Soulier syndrome",
+        "C": "Hemophilia",
+        "D": "Vitamin K deficiency"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario showing hemarthrosis and elevated aPTT is suggestive of hemophilia.Specific tests for measuring levels of factor VIII and factor IX can determine whether it ishemophilia A or hemophilia B respectively.Clinical features of hemophilia:• Hemarthroses - joint hemorrhages, later causing progressive deformities••Recurrent bleedingPseudotumour syndrome - fascial hemorrhages that occur as blood-filled cysts with calcificationand proliferation of fibroblasts, giving the appearance of the tumorIt is associated with elevated aPTT and normal platelet count, bleeding time, and PT.Option A: In ITP, the platelet count is low and bleeding time is prolonged.Option B: In functional platelet disorders, like Bernard Soulier syndrome, the platelet count isnormal and bleeding time is prolonged.Option D: In vitamin K deficiency, both PT and aPTT are prolonged. PT is relatively moreprolonged than is the aPTT.437",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q2_img1_cd004143.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "432A 7-year-old boy was found to have excessive bleeding following tooth extraction. Labinvestigations revealed prolonged aPTT, decreased serum factor VIII levels and normal VwFactivity. What is the mode of inheritance of this condition?",
+      "options": {
+        "A": "X-linked recessive",
+        "B": "X-linked dominant",
+        "C": "Autosomal dominant",
+        "D": "Autosomal recessive"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of Hemophilia A (factor VIII deficiency). It is inherited asan X-linked recessive trait. Hence, it affects mainly males and homozygous females.Hemophilia B is also inherited as X-linked recessive trait.Hemophilia C is inherited as an autosomal-recessive trait.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements is false about hemophilia?",
+      "options": {
+        "A": "Hemophilia B never affects females",
+        "B": "Hemophilia C can affect females",
+        "C": "Hemophilia A in female may indicate unfavourable lyonization",
+        "D": "Hemophilia A can occur without any family history"
+      },
+      "correct_answer": "A",
+      "explanation": "Hemophilia A and B mostly affect males, but rarely can affect females also.Hemophilia A is an X-linked recessive disorder, affecting mainly males and homozygousfemales. Rarely, excessive bleeding occurs in heterozygous females. It is due to the inactivation ofthe X chromosome bearing the normal factor VIII allele by chance in most cells(unfavourable lyonization). About 30% of patients have no family history and the disorder iscaused due to new mutations.Hemophilia B is inherited as X-linked recessive trait. There is a deficiency of factor IX.Hemophilia C is an autosomal-recessive condition and hence can occur in females. There isa deficiency of factor XI.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "A 10-year-old child with easy bruising was diagnosed to have moderate hemophilia A. Whatwill be the percentage of normal factor VIII in her?",
+      "options": {
+        "A": "5-15%",
+        "B": "2-5%",
+        "C": "15-30%",
+        "D": "40-60%"
+      },
+      "correct_answer": "B",
+      "explanation": "Patients with moderate hemophilia A have 2% - 5% of normal levels of factor VIII.The clinical manifestations of Hemophilia A vary in severity, corresponding to the level of factorVIII present. They can be classified as:SeverityLevels of factor VIIIMild6-50%Mode2-5%rateSever<1%e",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following lab findings are seen in patients with hemophilia A?",
+      "options": {
+        "A": "Option 1",
+        "B": "Option 2",
+        "C": "Option 3",
+        "D": "Option 4433"
+      },
+      "correct_answer": "",
+      "explanation": "Patients with hemophilia A have:• Prolonged partial thromboplastin time (aPTT) - intrinsic pathway abnormality• Normal prothrombin time (PT)438• Normal bleeding time• Normal platelet count",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "A newborn baby develops severe umbilical cord bleeding soon after birth. Lab investigationsare given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Vitamin K deficiency",
+        "B": "von Willebrand disease",
+        "C": "Hemorrhagic disease of newborn",
+        "D": "Factor XIII deficiency"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario is suggestive of factor XIII deficiency. A positive urea lysis test confirms thediagnosis.Factor XIII is also known as clot-stabilizing factor that converts unstable fibrin clot into a stableclot. Its deficiency typically presents as excessive umbilical cord bleeding in the newborn.Laboratory findings in this condition are:• Normal levels of bleeding time (BT), platelet count, prothrombin time (PT), activated partialthromboplastin time (aPTT), and thrombin time (TT)• Positive urea lysis test - confirmatory test which demonstrates lysis of clot by hyperosmolar ureain affected individualsThe parameters for the given diseases:ConditionPTaPTTBTTTPlatelet countUrea lysis testVitamin K deficiencyincreasedincreasedincreasednormal/increnormal/decrenegativeVon Willebrand diseasenormanormal/incre1asedincreasedasednormalasednormalnegativeHemorrhagic disease of newbornincreasedincreasedincreanormal/increnormal/decre negativesedasedasedFactor XIII deficiencynormanormalnormanormalnormalpositive11",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "A Hemogram of a 23-year-old patient with a bleeding disorder is given below. Which of thefollowing would you use to differentiate between heparin-induced thrombocytopenia andafibrinogenemia in this patient?",
+      "options": {
+        "A": "Reptilase",
+        "B": "Ristocetin",
+        "C": "Russel viper venom",
+        "D": "Hyperosmolar urea"
+      },
+      "correct_answer": "A",
+      "explanation": "Reptilase is a thrombin agonist which is used to differentiate heparin-induced thrombocytopenia(HIT) and afibrinogenemia. It is resistant to the action of heparin.The differential diagnosis for normal platelet count with elevated PT, aPTT and TT are HITand afibrinogenemia. After adding reptilase, if the TT is corrected, it points to HIT.In afibrinogenemia, since there is an absence of fibrin, there is no change in the TT.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "A 1-year-old child was diagnosed to have Kasabach-Merritt syndrome. What is this conditionassociated with?",
+      "options": {
+        "A": "Thrombotic thrombocytopenic purpura",
+        "B": "Disseminated intravascular coagulationImmune thrombocytopenic purpurad) Hemolytic uremic syndromeQuestion 10:Which of the following clotting factor deficiency will not affect clotting in vivo?a) Factor VIIb) Factor V",
+        "C": "Factor XII434",
+        "D": "Factor IX"
+      },
+      "correct_answer": "B",
+      "explanation": "439Kasabach-Merritt syndrome is associated with DIC (disseminated intravascular coagulation). Thissyndrome is characterised by the following features:• Rapidly growing vascular tumour• Thrombocytopenia•Microangiopathic haemolytic anaemia•Consumptive coagulopathyAn unusual form of DIC occurs in association with giant hemangiomas. In this type, stasis andrecurrent trauma to the fragile blood vessels cause thrombi to form within the neoplasm.The image given below shows a reddish-blue lesion covering the lower part of the abdomen. Itis a caverno-capillary haemangioma seen in Kasabach-Merritt syndrome.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_1590668d.jpeg",
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "Which test evaluates the extrinsic pathway?",
+      "options": {
+        "A": "APTT",
+        "B": "PT",
+        "C": "TT",
+        "D": "Bleeding time"
+      },
+      "correct_answer": "B",
+      "explanation": "Prothrombin time (PT) evaluates the extrinsic pathway of coagulation.PT measures the clotting time of plasma in the presence of an optimal concentration of tissueextract (thromboplastin). This indicates the overall efficiency of the extrinsic clotting system.Causes of prolonged PT:•Administration of oral anticoagulant drugs - vitamin K antagonists• Liver disease obstructive jaundice• Vitamin K deficiency• Disseminated intravascular coagulation.•Previously undiagnosed factor VII, X, V or prothrombin deficiency or defect (rare)Activated partial thromboplastin time (APTT) measures the clotting time of plasma after theactivation of contact factors and the addition of phospholipid and CaCl2, but without added tissuethromboplastin. It indicates the overall efficiency of the intrinsic pathway.Causes of prolonged APTT:•Disseminated intravascular coagulation• Liver disease• Massive transfusion with plasma-depleted red blood cells• Administration of or contamination with heparin or other anticoagulants• A circulating anticoagulant (inhibitor)• Deficiency of a coagulation factor other than factor VII441• Intake of oral anticoagulant drugs• Vitamin K deficiency",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "You are collecting a blood sample to send for prothrombin time in a patient in the ward.Which of the following is true about this investigation?",
+      "options": {
+        "A": "Sample must be immediately refrigerated",
+        "B": "Sample must contain platelet-rich plasma",
+        "C": "Test must be done within 2 hours of sample collection",
+        "D": "Sample is activated with kaolin"
+      },
+      "correct_answer": "",
+      "explanation": "The test for prothrombin time is done within 2 hours.The differences between PT and aPTT are:FeatureCoagulation pathway testedNormal valuePTaPTTExtrinsic and comIntrinsic and commonmon11-13 seconds25-35 secondsSamplePlatelet-poor plasm Platelet-poor plasmaaActivating agentThomboplastinKaolinSilicaEllagic acid",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "At what temperature should you store the sample for antiphospholipid antibody factorassays?",
+      "options": {
+        "A": "Room temperature",
+        "B": "4 to 8 degrees",
+        "C": "&lt;4 degree",
+        "D": "-8 degree"
+      },
+      "correct_answer": "",
+      "explanation": "The sample for antiphospholipid antibody assay must be stored at &lt;4°.Samples for coagulation studies should be stored always at room temperature (20 to 25 degrees).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "A 50-year-old male patient presents to the casualty with severe bleeding following a roadtraffic accident. He is a known cardiac disease patient on anticoagulant therapy. As an intern,you were asked to collect blood for coagulation studies. Which colour vacutainer will youpick?435",
+      "options": {
+        "A": "Lavender",
+        "B": "Green",
+        "C": "Red",
+        "D": "Blue"
+      },
+      "correct_answer": "",
+      "explanation": "The most commonly used vacutainer for coagulation studies is a blue vacutainer containingtrisodium citrate.The benefits of trisodium citrate are that the calcium ion is neutralized more rapidly in citrate.Other anticoagulants are unacceptable for coagulation studies. The labile factors (factors Vand VIII) are unstable in oxalate (grey), whereas heparin (green) and EDTA (lavender) directlyinhibit the coagulation process and interfere with end-point determinations. Also, activatedpartial thromboplastin time (aPTT) tests are more sensitive to the presence of heparin (green).The image given below shows colour coding of vacutainers with the anticoagulant used and theirpractical uses.442Cap colourColor coding of vacutainersAdditiveEDTASodium citrateUseCBCCoagulationstudiesESR by WestergrenmethodPotassium oxalate orSodium fluorideBlood glucose oralcoholNo additiveAcid citrate dextroseHeparinOMARROWCollection of serumPreservation of RBCsfor bloodbanking and HLA typingOsmotic fragilityABGLeukocyte function testImmunophenotypingNote: Heparin is used for blood sample collection for electrolyte estimation.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp14_img1_c71242b6.jpeg",
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is the color of vacutainer containing sodium fluoride as a content?",
+      "options": {
+        "A": "Red",
+        "B": "Grey",
+        "C": "Blue",
+        "D": "Yellow"
+      },
+      "correct_answer": "",
+      "explanation": "Sodium fluoride is present in the grey coloured tube.Sodium fluoride inhibits glycolysis. Hence, is used for the estimation of blood glucose and alcohol.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    },
+    {
+      "q_no": 16,
+      "question": "A child was brought to the emergency department with a big lesion on his forearm. As asurgery resident you decide to excise the lesion in the emergency operation theatre. Which ofthe following investigations will test the entire coagulation pathway?",
+      "options": {
+        "A": "Activated partial thromboplastin time",
+        "B": "Prothrombin time",
+        "C": "Thromboelastography",
+        "D": "Bleeding time"
+      },
+      "correct_answer": "",
+      "explanation": "Thromboelastography (TEG) tests the entire coagulation pathway. It measures coagulationcascade, platelet function, and fibrinolysis.It is a test that quantitatively measures the ability of whole blood to form a clot. The advantagesare:Global assessment of blood coagulability, including coagulation cascade, platelet function, andfibrinolysisRapid real-time bedside test with a simple methodology (point-of-care testing)Diagnosis of coagulopathic bleedingGuide transfusion therapy and decrease the use of blood products443Detect dynamic changes in blood coagulation during resuscitationPredict the clinical efficacy of therapeutic agents affecting blood coagulability444",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Coagulation Pathway Disorders"
+    }
+  ]
+}

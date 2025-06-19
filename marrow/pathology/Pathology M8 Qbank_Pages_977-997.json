@@ -1,0 +1,305 @@
+{
+  "chapter": "Esophagus",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common site of fistulization in GIT?",
+      "options": {
+        "A": "Esophagus",
+        "B": "Rectum",
+        "C": "Anal canal",
+        "D": "Ileum"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the most frequent site of ectopic gastric mucosa?",
+      "options": {
+        "A": "Upper esophagus",
+        "B": "Lower esophagus",
+        "C": "Pancreas",
+        "D": "Meckel's diverticulum"
+      },
+      "correct_answer": "A",
+      "explanation": "986The most frequent site of the ectopic gastric mucosa is the upper third of the esophagus, where itis referred to as an inlet patch.It is congenital and mostly asymptomatic. Occasionally, it can release acid, which can result indysphagia, esophagitis, Barrett esophagus, or, rarely, adenocarcinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 3,
+      "question": "A 57-year-old man came with complaints of difficulty in swallowing and a persistent feeling ofsomething stuck in his throat. He also reports bad breath and regurgitation of food particles.Barium swallow revealed the following. This condition occurs due to a defect in which of thefollowing?977",
+      "options": {
+        "A": "Laimer-Hackermann's triangle",
+        "B": "Killian-Jamieson area",
+        "C": "Zenker's triangle",
+        "D": "Killian's triangle"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario and barium swallow image are diagnostic of Zenker's diverticulum. Itoccurs due to a defect in the Killian's triangle (Killian's dehiscence).Killian's triangle is an anatomical triangular area bordered superiorly by the firm oblique fibers ofthe thyropharyngeus muscle and inferiorly by the horizontal fibers of the cricopharyngeus muscle.It is located immediately above the upper esophageal sphincter.Although the Killian-Jamieson diverticulum is an anterolateral defect, it is rarely symptomatic.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q3_img1_44287fb1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 4,
+      "question": "All of the following may be seen in patients with Plummer-Vinson syndrome except:",
+      "options": {
+        "A": "Cheilosis",
+        "B": "Iron-deficiency anemia",
+        "C": "Glossitis",
+        "D": "Progressive dysphagia"
+      },
+      "correct_answer": "D",
+      "explanation": "Paterson-Brown-Kelly or Plummer-Vinson syndrome is associated with non-progressivedysphagia, especially with incompletely chewed food.This syndrome is common in women aged &gt;40 years. The other components of this syndromeare:•• Post-cricoid webs in the upper esophagus• Iron-deficiency anemia• Glossitis• CheilosisEsophageal webs are idiopathic, semi-circumferential lesions composed of fibrovascularconnective tissue and overlying epithelium. They are usually limited to the proximalesophagus and may cause obstruction. They are associated with:• Plummer-Vinson syndrome•●Gastroesophageal reflux diseaseChronic graft-versus-host disease• Blistering skin diseasesThe images below show endoscopic and barium swallow appearances of esophageal webs.987",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_3f846d9e.jpeg",
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 5,
+      "question": "A 45-year-old woman presented with complaints of difficulty in swallowing solid foods. Anupper GI endoscopy revealed the following finding just above the gastroesophageal junction.What is the likely diagnosis?978",
+      "options": {
+        "A": "Type A ring",
+        "B": "Type C ring",
+        "C": "Type D ring",
+        "D": "Type B ring"
+      },
+      "correct_answer": "",
+      "explanation": "The given image shows an esophageal ring. Rings located above the gastroesophageal junction areclassified as type A esophageal rings.Esophageal rings are circumferential and thick. They include mucosa, submucosa, andoccasionally, hypertrophic muscularis propria. There are 3 types:Steakhouse syndrome refers to intermittent food impaction causing complete obstruction due tothe presence of Schatzki rings.988Type A ringsCaused by normal physiologic smooth muscle contractionSSeenabovethe gastroesophageal junction (GEJ) in the distal esophagusCovered by squamous mucosaType BorSchatzki ringsMost common typeAssociated with hiatus herniaLocated at thesquamocolumnarjunctionCovered by gastriccardia-type mucosaType C ringsRare findingsIndentations onradiographic studies due todiaphragmatic crural pressureFound in the mostdistalportion of the esophagus",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q5_img1_c364d755.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 6,
+      "question": "A 52-year-old woman is being evaluated for dysphagia and chest pain. She traveled to Brazilon a business trip 5 months ago. Barium swallow reveals the following finding. Which of thefollowing could have caused this condition?",
+      "options": {
+        "A": "Leishmania donovani979",
+        "B": "Trypanosoma cruzi",
+        "C": "Trypanosoma brucei",
+        "D": "Schistosoma haematobium"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario and barium swallow showing the bird-beak appearance are suggestiveof achalasia cardia. With respect to this patient's travel history, Chagas' disease due to infectionwith Trypanosoma cruzi must be suspected.The infection destroys the myenteric plexus which results in failure of peristalsis and esophagealdilatation. Duodenal, colonic, and ureteric myenteric plexuses can also be affected by Chagas'disease.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q6_img1_71d736a0.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following statements is true about the pathology of achalasia cardia?",
+      "options": {
+        "A": "Relaxation of lower esophageal sphincter",
+        "B": "Defective peristalsis",
+        "C": "Decreased release of NO and VIP in the distal part of esophagus",
+        "D": "Decreased tone of the lower esophageal sphincter"
+      },
+      "correct_answer": "",
+      "explanation": "Achalasia cardia is characterized by decreased release of NO(nitric oxide) and VIP(vasoactiveintestinal polypeptide) in the distal part of esophagus.Normally, NO and VIP are secreted by the inhibitory neurons of the Auerbach's plexus in thedistal esophagus. This leads to relaxation of the lower esophageal sphincter (LES). In achalasiacardia, these inhibitory neurons degenerate leading to decreased release of NO and VIP. Thiscauses increased LES tone.The triad of achalasia cardia is as follows:• Incomplete relaxation of LES• Increased tone of LES• Absent peristalsis (aperistalisis)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 8,
+      "question": "A mother brought her 8-year-old son to the OPD with complaints of refusal to eat and poorweight gain. The child complained that food often gets stuck in his throat. Endoscopyrevealed the following finding. What is the likely diagnosis?GROVER",
+      "options": {
+        "A": "Gastroesophageal reflux disease",
+        "B": "Eosinophilic esophagitis",
+        "C": "Achalasia cardia",
+        "D": "Plummer-Vinson syndrome980"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario and image showing multiple stacked esophageal rings arecharacteristic of eosinophilic esophagitis.Differentiating features between eosinophilic esophagitis and GERD:989FactorsDominant symptomsFood impactionGenderAgeEsophageal findings on endoscopyAmbulatory pH testingHistologyEtiologyPrimary treatmentEosinophilic esophagitisDysphagiaCommonMale predominanceChildren, young adultsEdema Multiple stacked rings(feline esophagus) and longitudinal furrowsPunctate exudatesStrictures and narrow-caliber esophagusCrepe-paper esophagusNormalfindings in<10%patientsNegative or positive≥15 eosinophils/hpfAtopic or immune-mediated,acid reflux is not prominentProton-pump inhibitors (PPIs)Steroids (topical) Elimination dietGERDHeartburn and regurgitationUncommon=Male femaleMiddle ageErosions and ulcersStricturesBarrett's esophagus and adenocarcinomaNormalfindings on endoscopy inmajorityof patientsPositive<7 eosinophils/hpfAcid refluxAntacids H2receptor blockersProton-pump inhibitors (PPIs)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q8_img1_45621611.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is incorrect about eosinophilic esophagitis?",
+      "options": {
+        "A": "Majority of patients have associated atopic conditions",
+        "B": "Feline esophagus is an endoscopic finding",
+        "C": "Treatment of choice is systemic steroids",
+        "D": "May be associated with food products like cow's milk and soy products"
+      },
+      "correct_answer": "",
+      "explanation": "Treatment of choice are proton pump inhibitors, which when started as primary therapy iseffective in 30 - 50 % of affected individuals.Additionally, elimination of allergenic proteins from diet as it is is associated with atopy andexposure to food allergens like cow's milk and soy products.Swallowed topical steroids are used as well.Immunocompromised patients are treated with acyclovir, famciclovir or valacyclovir.FactorsDominant symptomsFood impactionGenderAgeEsophageal findings on endoscopyAmbulatory pH testingEosinophilic esophagitisDysphagiaCommonMale predominanceChildren, young adultsEdemaMultiple stacked rings(feline esophagus) and longitudinal furrows Punctate exudatesStrictures and narrow-caliber esophagusCrepe-paper esophagusNormal findings in<10% patientsNegative or positiveGERDHeartburn and regurgitationUncommonMale female=Middle ageErosions and ulcersStricturesBarrett's esophagus and adenocarcinomaNormal findingson endoscopy in majority ofpatientsPositive990FactorsHistologyEtiologyPrimary treatmentEosinophilic esophagitis≥15 eosinophils/hpfAtopic or immune-mediated,acid reflux is not prominentProton-pump inhibitors (PPIs) Eliminationofallergensin dietSteroids (topical)GERD<7 eosinophils/hpfAcid refluxAntacids H2receptor blockersProton-pump inhibitors (PPIs)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 10,
+      "question": "A 47-year-old woman comes to you with progressive heartburn and difficulty in swallowing.She also describes episodes of painful blanching and bluish discoloration of her fingers andtoes on exposure to cold. The following findings are noted on examination. Antibodies towhich of the following are most likely to be seen in this patient?",
+      "options": {
+        "A": "Centromeric proteins",
+        "B": "Histidyl-tRNA synthetase (Jo-1)",
+        "C": "Ribonucleoprotiens",
+        "D": "Histones"
+      },
+      "correct_answer": "B",
+      "explanation": "The symptoms of the patient in the above case scenario and the image showing calcinosis are thecharacteristic findings of the CREST syndrome or limited scleroderma. Patients with thiscondition characteristically have antibodies directed against centromeric proteins(anti-centromere antibodies).CREST syndrome is characterized by the following:• Calcinosis•Raynaud phenomenon• Esophageal dysmotility• Sclerodactyly• TelangiectasiaIn the esophagus, progressive atrophy and fibrous replacement of the muscularis propria leads tohypomotility and dysphagia. The lower 2/3 of the esophagus develops arubber-hose-like inflexibility. The associated dysfunction of the lower esophageal sphincter givesrise to gastroesophageal reflux, Barrett metaplasia, and stricture.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q10_img1_5ea199a4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 11,
+      "question": "A 50-year-old man presented with blood in his vomitus. He gives a history of binge drinkingfollowed by multiple episodes of vomiting the prior night. He is hemodynamically stable.981Which of the following is incorrect about this condition?",
+      "options": {
+        "A": "It is due to longitudinal mucosal tears",
+        "B": "The gastroesophageal musculature fails to relax",
+        "C": "The tears cross the gastroesophageal junction",
+        "D": "It requires surgical intervention"
+      },
+      "correct_answer": "D",
+      "explanation": "This clinical scenario is suggestive of a Mallory-Weiss tear. They require only conservativemanagement and healing tends to be rapid and complete.They are longitudinal mucosal tears that may cross the gastroesophageal junction (GEJ).Forceful retching or vomiting along with failure of reflex relaxation of the gastroesophagealmusculature results in tears involving the mucosa and submucosa. It usually occurs secondary toconditions like acute alcohol intoxication or hyperemesis gravidarum.Boerhaave syndrome is a much more serious disorder characterized by transmural rupture of thedistal esophagus. This results in acute mediastinitis with severe chest pain, tachypnea, and shock.Such patients generally require urgent surgical intervention.991",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 12,
+      "question": "What is the most frequent cause of esophagitis?",
+      "options": {
+        "A": "Pill esophagitis",
+        "B": "Eosinophilic esophagitis",
+        "C": "Infectious esophagitis",
+        "D": "Reflux esophagitis"
+      },
+      "correct_answer": "D",
+      "explanation": "The most frequent cause of esophagitis is reflux of gastric acid into the lower esophagus.The most common cause of gastroesophageal reflux is transient lower esophageal sphincterrelaxation. Reflux esophagitis leads to chronic gastroesophageal reflux disease (GERD). This cancause Barrett's esophagus and eventually can cause adenocarcinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 13,
+      "question": "Which organism can cause esophageal infections in healthy individuals?",
+      "options": {
+        "A": "Cytomegalovirus",
+        "B": "Herpes-simplex virus",
+        "C": "Candida",
+        "D": "Aspergillus"
+      },
+      "correct_answer": "B",
+      "explanation": "Esophagitis in healthy individuals can be caused by the Herpes simplex virus. However, it isrelatively uncommon.In immunosuppressed individuals, infections can be caused by:• Herpes simplex virusCytomegalovirus• Candida",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 14,
+      "question": "Punched-out ulcers in the esophagus are caused by:",
+      "options": {
+        "A": "Herpes-simplex virus",
+        "B": "Cytomegalovirus",
+        "C": "Candida",
+        "D": "Acid"
+      },
+      "correct_answer": "A",
+      "explanation": "Infection with Herpes simplex virus (HSV) typically results in punched-out ulcers in theesophagus.HSV esophagitis commonly occurs in immunocompromised patients. For diagnosis, the biopsysample should be taken from the edge of the ulcer. The following microscopic findings are noted:Ballooning degeneration••Ground-glass changes in nuclei• Cowdry type A intranuclear inclusion bodiesHerpes simplex virus infectionLarge multinucleatedvirus infected cellsEosinophilic CowdryType A inclusions992Note: CMV esophagitis causes shallow ulcerations. The biopsy is taken from the base of the ulcerand shows characteristic nuclear and cytoplasmic inclusions bodies.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp14_img1_ceec6c49.jpeg",
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 15,
+      "question": "982A 28-year-old patient with haematemesis is found to have the following finding on upper GIendoscopy. He has traveled to Zambia several times over the past 3 years. What could be thelikely cause of this condition?7/20050:37:A2/4Cr: Nician:nent:",
+      "options": {
+        "A": "Fascioliasis",
+        "B": "Schistosomiasis",
+        "C": "Ecchinococcosis",
+        "D": "Leishmaniasis"
+      },
+      "correct_answer": "B",
+      "explanation": "This clinical scenario and image showing bleeding esophageal varices are suggestive of hepaticschistosomiasis. It is the second most common cause of varices worldwide.Liver cirrhosis, mostly in association with alcoholic liver disease, is the most common cause ofvarices.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_769523c9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 16,
+      "question": "All are true about Barrett oesophagus except:",
+      "options": {
+        "A": "Complication of chronic GERD",
+        "B": "Seen in 10% of individuals with symptomatic GERD",
+        "C": "Increases risk of squamous cell carcinoma",
+        "D": "Intestinal metaplasia"
+      },
+      "correct_answer": "C",
+      "explanation": "Barrett's esophagus increases the risk of esophageal adenocarcinoma, not squamous cellcarcinoma.Barrett's esophagus is a complication of GERD and it is estimated to occur in as many as 10% ofindividuals with symptomatic GERD. Microscopically, it is seen as the replacement of thesquamous esophageal epithelium with goblet cells (intestinal metaplasia).Management of Barrett's Esophagus(Seattle Protocol)Seattle protocolBarrett's onlyMetaplasiaContinue2 yearly protocolDysplasiaCancerAblation ofabnormalmucosa- RFASurgery(esophagectomy)- APCLow grade dysplasiaHigh grade dysplasia6 month protocolRFAAPC3 month protocolRadiofrequency ablationArgon photocoagulationOMARROWThe following images show endoscopic and microscopic images of Barrett's esophagus:993Barrett's EsophagusGoblet cells(intestinal metaplasia)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp16_img1_a53a53fb.jpeg",
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 17,
+      "question": "A 60-year-old man with chronic dyspepsia underwent upper GI endoscopy. The biopsyfindings are shown below. What is the special stain that has been used?983",
+      "options": {
+        "A": "Periodic acid Schiff",
+        "B": "Alcian blue",
+        "C": "Combined Alcian blue-PAS",
+        "D": "Mucicarmine"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image is of Barrett's esophagus showing intestinal metaplasia. The special stain usedhere is Alcian blue, which stains the acid mucin present in the goblet cells.The following stains are used for mucin:StainPeriodic acid Schiff (PAS)Alcian blueType of mucinNeutral mucinAcid mucinColor stainedMagenta pinkBlueCombined Alcian blue-PAAcid mucinNeutral muBlueMagenta pScinink994StainMucicarmineType of mucinAcid mucinColor stainedRose-red",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q17_img1_ce5f9869.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following statements is false?",
+      "options": {
+        "A": "The most common site of extranodal lymphoma in GIT is the esophagus",
+        "B": "The most common benign tumour of esophagus is leimyoma",
+        "C": "The most common esophageal cancer overall is squamous cell carcinoma",
+        "D": "The most common esophageal cancer in Western countries is adenocarcinoma"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common site of extranodal lymphoma in GIT is the stomach, not the esophagus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is not a predisposing factor for esophageal cancer?Mediastinal fibrosisb) Diverticulac) Caustic alkali burnd) HPV984Question 20:A patient with recurrent gastritis has been diagnosed with Helicobacter pylori infection.Which of the following is true in this patient?",
+      "options": {
+        "A": "Increased risk of adenocarcinoma of esophagus",
+        "B": "Decreased risk of adenocarcinoma of esophagus",
+        "C": "Increased risk of squamous cell carcinoma of esophagus",
+        "D": "Decreased risk of squamous cell carcinoma of esophagus"
+      },
+      "correct_answer": "A",
+      "explanation": "Mediastinal fibrosis does not predispose to esophageal carcinoma. Risk factors for esophagealcarcinoma include the following:• Alcohol and tobacco use•• Poverty•Caustic alkali burns• Diverticula• Achalasia• Tylosis• Plummer-Vinson syndrome• Frequent consumption of very hot beverages• Radiation exposure to the mediastinum• Human papillomavirus (HPV) infection - squamous cell carcinomas",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    },
+    {
+      "q_no": 21,
+      "question": "Endoscopic and barium swallow images of a lesion in the oesophagus of a patient are asshown below. What is the expected histopathological finding?",
+      "options": {
+        "A": "Image 2",
+        "B": "Image 1",
+        "C": "Image 4",
+        "D": "Image 324"
+      },
+      "correct_answer": "C",
+      "explanation": "The given images showing an esophageal exophytic growth on endoscopy and apple coreappearance in the middle 1/3 of the esophagus on barium swallow are suggestive of squamous cellcarcinoma. The characteristic histopathological finding in this condition are nests of stratified995malignant cells and keratin pearls, which are noted in image 4.Squamous cell carcinomaNests ofmailgnant cellsKeratin pearlNormal Esophagus99620 μmBarrett's EsophagusGoblet cells(intestinal metaplasia)Adenocarcinoma997",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q21_img1_52bcb198.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Esophagus"
+    }
+  ]
+}

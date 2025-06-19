@@ -1,0 +1,410 @@
+{
+  "chapter": "Molecular Basis of Cancer and Tumor Immunity",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is overexpressed in patients diagnosed with glioma?",
+      "options": {
+        "A": "PDGF-α",
+        "B": "ERBB-1",
+        "C": "RET",
+        "D": "NGF"
+      },
+      "correct_answer": "A",
+      "explanation": "PDGF-α is overexpressed in patients diagnosed with glioma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is associated with loss of function mutation in the RET proto-oncogene?",
+      "options": {
+        "A": "Medullary carcinoma of the thyroid",
+        "B": "Pheochromocytoma",
+        "C": "Hirschsprung disease",
+        "D": "Pituitary adenoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Loss of function mutation in the RET proto-oncogene is associated with Hirschsprung's disease. Hirschsprung's disease is caused by mutations in other genes encoding proteins involved in enteric neurodevelopment. These include: • RET ligand glial-derived neurotrophic factor • Endothelin • Endothelin receptor. Note: Medullary thyroid carcinoma and multiple endocrine neoplasias, types 2A and 2B, are usually due to gain of function mutations in the RET proto-oncogene.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following tumors is associated with a mutation of the ALK receptor?",
+      "options": {
+        "A": "Colon carcinoma",
+        "B": "Pancreatic carcinoma",
+        "C": "Glioma",
+        "D": "Neuroblastoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Anaplastic lymphoma kinase (ALK) is a membrane-bound receptor tyrosine kinase. When aberrantly expressed, it is associated with neuroblastoma pathogenesis. It serves as a therapeutic target. Neuroblastoma is one of the most common solid cancers among children.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 4,
+      "question": "A 60-year-old man presents with a painless loss of vision. Fundus examination reveals the lesion shown in the image. Which of the following GTP-binding proteins show point mutations in this condition?",
+      "options": {
+        "A": "NRAS",
+        "B": "KRAS",
+        "C": "GNAQ",
+        "D": "GNAS"
+      },
+      "correct_answer": "C",
+      "explanation": "The given scenario and fundus examination are suggestive of uveal melanoma, which is associated with a point mutation of the GNAQ protein or GNA11 genes. Uveal melanomas (UM) originate from melanocytes in the interior wall of the eye, including the iris, ciliary body, and the choroid, with marked differences in light exposure (from dark anterior to illuminated posterior). GNAS mutation causes pituitary adenoma and other endocrine tumors. The three RAS genes in humans (H-RAS, K-RAS, and N-RAS) are the most common oncogenes in human cancer. They code for a family of proteins called GTP-binding (G) proteins, which are involved in transmitting signals within cells (cellular signal transduction). When RAS is 'switched on' by incoming signals, it subsequently switches on other proteins, which ultimately results in cell growth, differentiation, and survival. Mutations in RAS genes can lead to the production of permanently activated RAS proteins. As a result, this can cause unintended and overactive signaling inside the cell, even in the absence of incoming signals. Because these signals result in cell growth and division, overactive RAS signaling can ultimately lead to cancer.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q4_img1_e8c6897a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following are coded by the MYC genes?",
+      "options": {
+        "A": "Cell cycle regulators",
+        "B": "Nuclear regulatory proteins",
+        "C": "Signal transduction proteins",
+        "D": "Growth factor receptors"
+      },
+      "correct_answer": "B",
+      "explanation": "MYC oncogene codes for nuclear regulatory proteins. It is the most commonly involved transcription factor in tumors. The MYC proto-oncogene MYC activates the expression of many genes that are involved in cell growth. It upregulates the expression of telomerase and reprograms somatic cells into pluripotent stem cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is associated with the translocation of cyclin D1?",
+      "options": {
+        "A": "Chronic myeloid leukemia",
+        "B": "Non-Hodgkin's lymphoma",
+        "C": "Acute lymphoblastic leukemia",
+        "D": "Mantle cell lymphoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Translocation of cyclin D1 is seen in mantle cell lymphoma. Mantle cell lymphoma is an uncommon lymphoid neoplasm that is characterized by overexpression of cyclin D1. It is a type of non-Hodgkin's lymphoma that involves (11;14) translocation, i.e., between the IgH locus on chromosome 14 and the cyclin D1 locus on chromosome 11.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is false about Knudson's two-hit hypothesis theory on retinoblastoma?",
+      "options": {
+        "A": "Familial type is inherited as an autosomal recessive trait",
+        "B": "It involves both alleles of RB at chromosome locus 13q14",
+        "C": "In sporadic cases, both normal RB alleles must undergo somatic mutation in the same retinoblast",
+        "D": "In familial cases, children inherit one defective copy of the RB gene and the other copy is normal"
+      },
+      "correct_answer": "A",
+      "explanation": "Retinoblastoma is inherited as an autosomal dominant trait. Knudson's hypothesis, also known as the two-hit hypothesis or multiple-hit hypothesis, states that cancer is the result of accumulated mutations in a cell's DNA. Two mutations (hits), involving both alleles of RB at chromosome locus 13q14, are required to produce retinoblastoma. In familial cases, children inherit one defective copy of the RB gene in the germline (the first hit), and the other copy is normal. Retinoblastoma develops when the normal RB allele is mutated in retinoblasts as a result of a spontaneous somatic mutation (the second hit). Most individuals inheriting a germline defect in one RB allele develop unilateral or bilateral retinoblastoma as it is an autosomal dominant disease. Sporadic cases are comparatively rare. In sporadic cases, both normal RB alleles must undergo somatic mutation in the same retinoblast (two hits).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_c0bf9dd7.png",
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 8,
+      "question": "If the RB gene is hypophosphorylated, which of the following will happen?",
+      "options": {
+        "A": "Cell cycle will stop at G2",
+        "B": "Cell cycle will stop at G1",
+        "C": "There will be no effect on cell cycle as RB gene phosphorylation is not needed",
+        "D": "The cell cycle progresses and cell divides"
+      },
+      "correct_answer": "B",
+      "explanation": "If the retinoblastoma (RB) gene is hypophosphorylated, it is active and the cell cycle will stop at G1. RB is a cell-cycle regulator because it binds to and inactivates a transcription factor (E2F). This is necessary for the transcription of certain genes necessary for the progression from the G1 to S phase. The phosphorylation of RB results in the release of E2F. This activates gene transcription and cell-cycle progression occurs. The image given below shows the cell cycle regulation by RB gene. Rb Regulation of the Cell E2F. Rb. Cell growth. Rb. More ATP ADP. Unphosphorylated Rb binds transcription factor E2F. E2F cannot bind the DNA, and transcription is blocked. Cell growth triggers the phosphorylation of Rb. Phosphorylated Rb releases E2F, which binds the DNA and turns on gene expression, thus advancing the cell cycle.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp8_img1_592fc680.jpeg",
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements is false about p53?",
+      "options": {
+        "A": "It regulates cellular senescence",
+        "B": "P53 inactivation causes cell cycle arrest at G2-M",
+        "C": "Cancers demonstrate biallelic loss of function mutations in TP53",
+        "D": "p53 can be inactivated by E6 protein of HPV"
+      },
+      "correct_answer": "B",
+      "explanation": "P53 is the tumor suppressor gene and activation (not inactivation) causes cell cycle arrest at the G1-S and G2-M phase of the cell cycle. P53 regulates: cell cycle progression, DNA repair, cellular senescence, and apoptosis. It is activated by anoxia, inappropriate signaling by mutated oncoproteins, and DNA damage. It is the most frequently mutated gene in cancers. It upregulates the expression of proteins such as the cyclin-dependent kinase inhibitor p21, thereby causing cell-cycle arrest at the G1-S. It also transactivates and transrepresses target genes to induce G2/M arrest. Mutation in the p53 gene causes resistance in tumors to radiation and chemotherapy. The E6 protein of human papillomavirus (HPV) binds to and helps in the degradation of p53 and stimulates the expression of telomerase reverse transcriptase (TERT), which is the catalytic subunit of telomerase, thereby helping in the longevity of the cells. E6 from high-risk HPV types has a higher affinity for p53 than E6 from low-risk types. Li-Fraumeni syndrome is an autosomal dominant disorder due to a defect in the tumor suppressor gene P53 located on chromosome 17.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is essential for the differentiation of stratified squamous epithelia?",
+      "options": {
+        "A": "p53",
+        "B": "p63",
+        "C": "p53 and p63",
+        "D": "p63 and p73"
+      },
+      "correct_answer": "C",
+      "explanation": "p63 is essential for the differentiation of stratified squamous epithelia. p53 is ubiquitously expressed, while p63 and p73 show more tissue specificity. p73 has strong pro-apoptotic effects after DNA damage induced by chemotherapeutic agents.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 11,
+      "question": "A 22-year-old man was found to have multiple GI polyps. He was operated on for thyroid cancer 2 years back. His family history is significant for breast cancer in his mother and endometrial cancer in his aunt. Germline loss-of-function mutations of which gene are associated with this condition?",
+      "options": {
+        "A": "CDKN2A",
+        "B": "SMAD2",
+        "C": "APC",
+        "D": "PTEN"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario is suggestive of Cowden syndrome. This condition is caused due to germline loss of function mutation in PTEN (phosphatase and tensin homolog) gene. PTEN is a membrane-associated phosphatase encoded by a gene on chromosome 10q23 that is mutated. Cowden syndrome is characterized by skin appendage tumors and an increased incidence of epithelial cancers, particularly of the breast, endometrium, and thyroid.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 12,
+      "question": "A 24-year-old woman presented with hearing loss and tinnitus. MRI was done and showed the presence of bilateral acoustic schwannomas. Which protein involved in cytoskeletal stability is mutated in this condition? Neurofibromin b) Merlin c) PATCHED d) RB protein. Question 13: Germline loss-of-function mutation of which gene causes Gorlin syndrome?",
+      "options": {
+        "A": "STK11",
+        "B": "SDHB",
+        "C": "WT1",
+        "D": "PTCH1"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario and MRI findings are suggestive of neurofibromatosis type 2 (NF-2). Merlin protein is mutated in NF-2, sporadic schwannomas, and meningiomas. Cells lacking Merlin do not establish stable cell-to-cell junctions. They are insensitive to normal growth arrest signals generated by cell-to-cell contact.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 14,
+      "question": "A 25-year-old male patient presents with anemia and abdominal pain. On examination, he has pigmented macules over the palms, soles, and oral mucosa. Further investigations reveal loss-of-function mutations of the STK11 gene. What is the most probable diagnosis?",
+      "options": {
+        "A": "HNPCC",
+        "B": "Gorlin syndrome",
+        "C": "Von Hippel-Lindau syndrome",
+        "D": "Peutz-Jeghers syndrome"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario is suggestive of Peutz-Jeghers syndrome. Loss-of-function mutations of the STK11 gene cause Peutz-Jeghers syndrome. The STK11 gene, also known as LKB1, encodes a serine/threonine kinase that is an important regulator of cellular metabolism. Peutz-Jeghers syndrome is an autosomal-dominant disorder. It is associated with arborizing polyps of the gastrointestinal tract (small intestine > colon > stomach). It increases the risk of multiple epithelial cancers, particularly of the colon, breast, lung, pancreas, and thyroid.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 15,
+      "question": "A 38-year-old woman presents with complaints of a palpable mass in both breasts.Histopathology examination shows the following finding. Immunohistochemistry showedestrogen receptor positivity. Which protein that maintains cell adhesion, and thereby inhibitscell motility, is mutated in this condition?",
+      "options": {
+        "A": "pб3",
+        "B": "p53",
+        "C": "E Cadherin",
+        "D": "Integrin"
+      },
+      "correct_answer": "C",
+      "explanation": "229The given scenario is suggestive of lobular carcinoma of the breast which involvesmutated E-cadherin protein. In this condition, the histopathological examinationshows infiltrating small monomorphic discohesive tumor cells arranged inan Indian-file or single-file pattern.The image below shows the single file pattern seen in lobular carcinoma of the breast.Lobular carcinoma of breastIndian file patternReduced cell surface expression of E-cadherin is seen in carcinomas of:•• Breast• Esophagus•• Colon• Ovary•• ProstateE-cadherin is a cell-surface protein that maintains intercellular adhesiveness. Loss of E-cadherincauses disaggregation of cells, which can then invade locally or metastasize.Germline loss-of-function mutations of the E-cadherin gene lead to familial gastriccarcinoma. Sporadic gastric carcinomas are also associated with the loss of E-cadherin expression.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_1ce1281c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_ae10f681.jpeg",
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is incorrect regarding the BRCA genes?",
+      "options": {
+        "A": "BRCA1 is located on the long arm of chromosome 17",
+        "B": "BRCA1 mutation causes well-differentiated cancer",
+        "C": "BRCA2 carcinomas are ER/PR-positive",
+        "D": "BRCA2 mutation is associated with male breast carcinoma"
+      },
+      "correct_answer": "B",
+      "explanation": "BRCA1 (not BRCA2) mutation typically causes poorly differentiated cancer, whereas BRCA2 mutation is more often associated with well-differentiated cancer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is incorrect regarding apoptosis?",
+      "options": {
+        "A": "p53 induces apoptosis in cells with DNA damage",
+        "B": "Extrinsic apoptotic pathway is more frequently disabled in cancer cells",
+        "C": "Chemoradiation induces apoptosis in cancer cells",
+        "D": "BCL2 is over-expressed in follicular lymphomas"
+      },
+      "correct_answer": "B",
+      "explanation": "The intrinsic apoptotic pathway is most frequently disabled in cancer cells to evade cell death.230p53 is an important pro-apoptotic protein that induces apoptosis in cells that are unable to repairDNA damage.Chemotherapy and radiation therapy kills cancer cells mainly by inducing apoptosis via theintrinsic pathway.In greater than 85% of follicular B-cell lymphomas, the anti-apoptotic gene BCL2 is overexpresseddue to a (14;18) translocation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following genes promote epithelial-mesenchymal transition in epithelialtumors?",
+      "options": {
+        "A": "1, 2 and 3 only",
+        "B": "2, 3, and 5 only",
+        "C": "4 and 5 only",
+        "D": "2 and 3 only"
+      },
+      "correct_answer": "D",
+      "explanation": "SNAIL and TWIST, which encode transcription factors, promote epithelial-to-mesenchymaltransition (EMT).In EMT, carcinoma cells downregulate certain epithelial markers (e.g., E-cadherin) and upregulatecertain mesenchymal markers (e.g. vimentin and smooth muscle actin). This favors thedevelopment of a promigratory phenotype that is essential for metastasis. EMT has beendocumented mainly in breast carcinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is a non-receptor tyrosine kinase?",
+      "options": {
+        "A": "ABL",
+        "B": "RET",
+        "C": "KIT",
+        "D": "ALK"
+      },
+      "correct_answer": "A",
+      "explanation": "ABL is a non-receptor tyrosine kinase.Tyrosine kinases may be receptors and non-receptors.Nonreceptor tyrosine kinases normally localize to the cytoplasm or the nucleus. These are:• ABL - translocation causes CML and point mutation causes ALL• JAK mutation - seen in polycythemia vera, essential thrombocythemia, and myelofibrosis as wellas other myeloproliferative disordersReceptor tyrosine kinases:• VEGFR• PDGFR• EGFRIn chronic myelogenous leukemia (CML) and some acute lymphoblastic leukemia (ALL), the ABLgene is translocated from its normal abode on chromosome 9 to chromosome 22 where it fuseswith the BCR gene forming the Philadelphia chromosome. The resultant chimeric gene encodes aconstitutively active, oncogenic BCR-ABL tyrosine kinase.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 20,
+      "question": "The mutations/changes that convert proto-oncogene to oncogene include all except:",
+      "options": {
+        "A": "Promoter insertion",
+        "B": "Enhancer deletion",
+        "C": "Gene amplification",
+        "D": "Point mutation221"
+      },
+      "correct_answer": "B",
+      "explanation": "Enhancer deletion does not convert a proto-oncogene to an oncogene.Mechanisms of activating oncogenes:231MechanismMutationPromoter insertionEnhancer insertionChromosomal translocationGene amplificationActivation of oncogenesMutation activates the gene.A classic example is the pointmutation of the RAS oncogene.Insertion of a viral promoterregion near a gene activates it.Insertion of a viral enhancerregion near a gene activates it.One chromosome is split offand joined to another. An example is the Philadelphia chromosome.Abnormal multiplication of agene resulting in many copies. This can occur with oncogenes and genes involved in tumor drug resistance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 21,
+      "question": "Mutation in which of the following oncogenes can serve as a tumor antigen?",
+      "options": {
+        "A": "EBNA",
+        "B": "MUC-1",
+        "C": "p53",
+        "D": "RAS"
+      },
+      "correct_answer": "D",
+      "explanation": "RAS is an oncogene that undergoes mutation and serves as a tumor antigen. Tumor cells express antigenic molecules on their surface that elicit an immune response. These are called tumor antigens. Some tumor cells evade the immune response, which results in the growth of the tumor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following mechanisms does not lead to immune evasion by the tumor cells?",
+      "options": {
+        "A": "Inhibition of PD-1 receptor on T-cells",
+        "B": "Upregulation of expression of PD-L1",
+        "C": "Induction of galactin",
+        "D": "Induction of regulatory T-cells"
+      },
+      "correct_answer": "A",
+      "explanation": "Inhibition of PD-1 receptor (programmed death -1 receptor) on T cells causes activation ofimmunity against the tumor cells, not evasion.PD-1 receptors present on T cells inhibit T-cell activation. This allows tumors to evade the hostimmunity by the upregulation of the expression of factors like PD-L1 and PD-L2, which act onPD-1 receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 23,
+      "question": "An 8-year-old girl is referred with recurrent blistering rashes over the face and upper limbswhich worsened following exposure to sunlight. There is a history of similar skin lesions inher family and 2 of her uncles were diagnosed with skin cancers at young ages. Examinationreveals the presence of multiple lentigos and xerosis. What is the likely pathologicalmechanism of this condition?",
+      "options": {
+        "A": "Defective base excision repair",
+        "B": "Defective DNA nucleotide excision repair",
+        "C": "Defective mismatch repair",
+        "D": "Defective non-homologous end joining repair"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of xeroderma pigmentosum. It is caused by a defect in theDNA nucleotide excision repair pathway resulting in inability to repair pyrimidine dimers.232Clinical features of xeroderma pigmentosum:⚫ Actinic keratosis•••Hyperkeratotic lesionsMultiple lentigos• Xerosis• Corneal scarringThe image of a child with xeroderma pigmentosum is given below.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp23_img1_7766d814.jpeg",
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following disorders is not associated with defective homologous recombination DNA repair mechanism?",
+      "options": {
+        "A": "Familial breast cancer",
+        "B": "Fanconi anemia",
+        "C": "Fanconi syndrome",
+        "D": "Ataxia-telangiectasia"
+      },
+      "correct_answer": "C",
+      "explanation": "Fanconi syndrome is not associated with defective homologous recombination DNA repair mechanism. It is a rare disorder of kidney tubule function. Diseases with defects in DNA repair by homologous recombination: • Bloom syndrome and ataxia-telangiectasia are triggered by DNA-damaging agents such as ionizing radiation. Fanconi anemia is an autosomal recessive disease caused by mutations in multiple genes responsible for coding for proteins that participate in DNA repair pathways and are triggered by DNA-crosslinking agents like chemotherapeutic drugs. • Familial breast cancer is due to inherited gene defects in BRCA1 and BRCA2 genes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 25,
+      "question": "A 30-year-old patient presents with right iliac fossa pain. Imaging shows the presence of anileocaecal mass. Biopsy of the mass shows a starry sky pattern. What is the translocationinvolved in this tumor?",
+      "options": {
+        "A": "t(8;14)",
+        "B": "t(15;17)",
+        "C": "t(9;22)",
+        "D": "t(11;14)"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical history and biopsy findings are suggestive of Burkitt lymphoma and thetranslocation involved is t(8;14).233Burkitt lymphoma, also known as small non-cleaved-cell lymphoma, is a highly aggressive B-cellnon-Hodgkin lymphoma. It is characterized by the translocation and deregulation of the c-mycgene on chromosome 8.The classic t(8;14)(q24;q32) reciprocal translocation results in the transposition of the c-mycproto-oncogene on chromosome 8 with one of the immunoglobulin heavy chain (IGH) genes onchromosome 14. This results in activation of the c-myc gene and is considered responsible fortumor proliferation.Chromosome Translocation in Burkitt's Lymphoma;Tumor Cells are B-lymphocytesShort ArmChromosomeLong ArmChromosome9--Break PointsNormalChromosome 8NormalChromosome 14TranslocationChromosome 8q-TranslocationChromosome 14q+",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 26,
+      "question": "Which epigenomic regulatory gene is mutated in most of the follicular lymphomas?",
+      "options": {
+        "A": "MLL1",
+        "B": "MLL2",
+        "C": "ARID1A",
+        "D": "SNF5"
+      },
+      "correct_answer": "",
+      "explanation": "MLL2 is an epigenomic regulatory gene that is mutated in most follicular lymphomas. It results inhistone methylation.Epigenetics refers to factors other than the sequence of DNA that regulate gene expression. Thesefactors involved in epigenetics are:• Histone modifications• DNA methylation• Nucleosome positioning/ chromatin remodeling",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 27,
+      "question": "The loss of which of the following micro RNAs leads to upregulation of BCL-2?",
+      "options": {
+        "A": "miR-200",
+        "B": "miR-15",
+        "C": "miR-155",
+        "D": "miR-25"
+      },
+      "correct_answer": "B",
+      "explanation": "The loss of miR-15 leads to upregulation of the anti-apoptotic protein BCL-2.miR-15 and miR-16 are tumor-suppressive miRNAs involved in chronic lymphocytic leukemia(CLL).Onco-miRNAs include:234• miR200 - promotes epithelial-mesenchymal transitions that promote tumor invasion andmetastasis•⚫ miR155 - involved in human B-cell lymphomas",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    },
+    {
+      "q_no": 28,
+      "question": "Identify the correct statement regarding immune surveillance.223",
+      "options": {
+        "A": "Anti CTLA 4 Ab is a new modality in the treatment of advanced cancers",
+        "B": "Mutation of tumor supressor genes decreases antigen toxicity",
+        "C": "PD1/ PDL1 activation leading to tumor supression",
+        "D": "Binding of CD28 leads to immune tolerance"
+      },
+      "correct_answer": "A",
+      "explanation": "Anti-CTLA-4 antibody ipilimumab was the first drug to achieve a significant improvement insurvival of advanced-stage melanoma. Cytotoxic T lymphocyte antigen 4 (CTLA-4) plays animportant inhibitory role in the control of T-cell activation.Ipilimumab is a fully-humanized IgG1 monoclonal antibody that inhibits cytotoxic T lymphocyteantigen-4 (CTLA-4).It has been postulated that anti-CTLA-4 antibodies act by blocking inhibitory signals from effectorT-cells, allowing costimulatory signaling and generation of antitumor T-cell responses. In vitrostudies demonstrated also that the antitumor activity of CTLA-4 blockade is mediated by Fcgamma receptor-expressing macrophage and hypothesized a possible role of regulatory T-celldepletion in the tumor microenvironment.Option B - Mutation of tumor supressor genes is associated with increased risk of cancer. Antigentoxicity is when the immune response to an antigen is excessive or misdirected, causing damage totissues or organs.Option CPD1/PDL1 is an immune checkpoint whose activation inhibits T-cell function and helpswith immune tolerance. Blocking PD-1/PD-L1 interaction using immune checkpoint inhibitorsreactivates T cells and enhances immune responses against tumors.Option D-CD28 is primarily involved in providing the second signal required for T cellactivation. The first signal comes from the interaction between the T cell receptor (TCR) and theantigen presented by the major histocompatibility complex (MHC) on antigen-presenting cells(APCs). Without CD28-mediated costimulation, T cells that only receive the TCR signal (withoutthe second signal) can become anergic.235",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Molecular Basis of Cancer and Tumor Immunity"
+    }
+  ]
+}

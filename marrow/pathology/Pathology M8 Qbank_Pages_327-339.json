@@ -1,0 +1,245 @@
+{
+  "chapter": "Microcytic Anemia",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which is the most common type of anemia worldwide?",
+      "options": {
+        "A": "Aplastic anemia",
+        "B": "Megaloblastic anemia",
+        "C": "Iron deficiency anemia",
+        "D": "Anemia of chronic diseases"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the most common hematologic manifestation seen in patients with HIV infection?",
+      "options": {
+        "A": "Thrombocytopenia",
+        "B": "Neutropenia",
+        "C": "Lymphocytosis",
+        "D": "Anemia"
+      },
+      "correct_answer": "D",
+      "explanation": "Anaemia is the most common hematologic abnormality associated with HIV infection. It affects60-80% of patients during the late stage.In most cases, the cause of anaemia in HIV-infected patients is multifactorial. It is oftenassociated with infection, inflammation, malignancy, malnutrition, and polypharmacy.332Note: Prior to the use of potent antiretroviral therapy (ART), thrombocytopenia was a commonfinding in individuals infected with HIV. With use of potent ART, the incidence ofthrombocytopenia is far lower.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following anemia is not due to diminished erythropoiesis?",
+      "options": {
+        "A": "Iron deficiency anemia",
+        "B": "Hereditary spherocytosis",
+        "C": "Megaloblastic anemia",
+        "D": "Aplastic anemia"
+      },
+      "correct_answer": "B",
+      "explanation": "Hereditary spherocytosis is not due to diminished erythropoiesis. It is a type of hemolytic anemia.Classification of anemia according to underlying mechanism:• Anemias of diminished erythropoiesis - decreased red cell production•Hemolytic anemias - increased red cell destruction• Anemia due to blood lossAnemias due to diminished erythropoiesis:• Iron deficiency anemia•Megaloblastic anemia• Anemia of chronic diseases•Aplastic anemia•Myelophthisic anemia• Fanconi's anemia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 4,
+      "question": "In a patient with MCV of 109 fl, which of the following is least likely?",
+      "options": {
+        "A": "Hypothyroidism",
+        "B": "Thiamine deficiency",
+        "C": "Orotic aciduria327",
+        "D": "Anemia of chronic disease"
+      },
+      "correct_answer": "D",
+      "explanation": "MCV &gt;100 fl indicates macrocytic anaemia which is not seen in anaemia of chronic disease.RBCs in anemia of chronic disease are initially normocytic and normochromic, becomingmicrocytic and hypochromic over time.Vitamin B12 deficiency, thiamine deficiency, and orotic aciduria cause macrocytic anaemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 5,
+      "question": "A 30-year-old woman with iron deficiency anaemia is prescribed oral iron supplements.Foods containing which of the following can she take to increase its absorption?",
+      "options": {
+        "A": "Phosphate",
+        "B": "Oxalate",
+        "C": "Carbonate",
+        "D": "Ascorbate"
+      },
+      "correct_answer": "D",
+      "explanation": "Absorption of iron is increased by ascorbic acid. It is decreased by phosphates, oxalates, andcarbonates.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following contains most of the functional iron in the body?",
+      "options": {
+        "A": "Hemoglobin",
+        "B": "Myoglobin",
+        "C": "Transferrin",
+        "D": "Ferritin"
+      },
+      "correct_answer": "A",
+      "explanation": "Most of the functional iron (80%) in the body is found in hemoglobin.333The storage pool represented by hemosiderin, and ferritin contains about 15% to 20% of totalbody iron. Myoglobin and iron-containing enzymes such as catalase and the cytochromes containthe rest.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 7,
+      "question": "Which transporter is required for the transport of iron into the enterocyte?",
+      "options": {
+        "A": "Ferroportin",
+        "B": "Divalent metal transporter 1",
+        "C": "Divalent metal transporter 2",
+        "D": "Haptocorrin"
+      },
+      "correct_answer": "B",
+      "explanation": "DMT1 (divalent metal transporter 1) is required for the transport of iron into the enterocyte.Dietary iron is mostly in Fe3+ (ferric state) and must be reduced to Fe2+ (ferrous state) byferrireductases. Fe2+ iron destined for circulation is transported from the cytoplasm across thebasolateral enterocyte membrane by ferroportin 1.Hephaestin is an iron oxidase that converts Fe2+ to Fe3+Iron absorptionHepcidinHeme ironHemetransporterFe2+Ferroportin 1LiverDMT-1Fe2+FoodFe2+Fe2+HephaestinFe3+Duodenalcytochrome BNonhemeironLost by sheddingof epithelial cellsOMARROWFe3+PlasmatransferrinBloodErythroidmarrow",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_2df74371.jpeg",
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is involved in iron metabolism?",
+      "options": {
+        "A": "Haptocorrin",
+        "B": "Cubulin",
+        "C": "Selenoprotein328",
+        "D": "Ceruloplasmin"
+      },
+      "correct_answer": "D",
+      "explanation": "Ceruloplasmin is involved in iron metabolism.Ferritin is the storage form of iron in the body. Ceruloplasmin and hephaestin help in oxidation ofFe2+ to Fe3+ at the basolateral border of enterocytes. This is coupled with transport throughferroportin. In plasma, iron is transported by transferrin.Haptocorrin and cubulin are involved in vitamin B12 absorption. Selenoprotein is involved inselenium metabolism.334Iron absorptionHepcidinHeme ironHemetransporterFe2+Ferroportin 1LiverDMT-1Fe2+FoodFe2+Fe²+HephaestinFe3+Duodenalcytochrome BNonhemeironLost by sheddingof epithelial cellsOMARROWFe3+PlasmatransferrinBloodErythroidmarrow",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp8_img1_969a5c33.jpeg",
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 9,
+      "question": "Hepcidin inhibits iron transfer from the enterocyte to the plasma by binding to",
+      "options": {
+        "A": "Transferrin",
+        "B": "Ferroportin",
+        "C": "Ferritin",
+        "D": "Divalent metal transporter 1"
+      },
+      "correct_answer": "B",
+      "explanation": "Hepcidin inhibits iron transfer from the enterocytes into the plasma by binding to ferroportin,which is an iron efflux channel in the enterocyte.Iron metabolism is regulated by hepcidin, a protein and acute phase reactant produced by theliver. It binds to ferroportin and degrades it. This inhibits the transfer of iron from the enterocyteto the plasma via ferroportin. As a result, iron becomes trapped within the duodenal cells(enterocytes) in the form of mucosal ferritin and is lost in feces when these cells are shed off.Transcription of hepcidin is increased by the following factors:• Increased levels of iron• Inflammatory cytokinesTranscription of hepcidin is decreased by the following factors:• Iron deficiency.Hypoxia• Ineffective erythropoiesisHepcidin is encoded by the HAMP gene and its mutations are associated with hereditaryhemochromatosis.335Iron absorptionHepcidinHeme ironHemetransporterFe2+Ferroportin 1LiverDMT-1Fe2+FoodFe2+Fe²+HephaestinFe3+Duodenalcytochrome BNonhemeironLost by sheddingof epithelial cellsOMARROWFe3+PlasmatransferrinBloodErythroid",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_beb19dc5.jpeg",
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 10,
+      "question": "What is the main site of iron absorption?",
+      "options": {
+        "A": "Duodenum",
+        "B": "Stomach",
+        "C": "Jejunum",
+        "D": "Ileum"
+      },
+      "correct_answer": "A",
+      "explanation": "Absorption of iron mainly occurs in the proximal duodenum.marrow",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is true regarding the internal iron homeostasis in iron-deficiencyanaemia?",
+      "options": {
+        "A": "Ferritin mRNA concentration iron-responsive element increases and ferritin synthesisdecreases",
+        "B": "Transferrin receptor 1 iron-responsive elements increases transferrin receptor mRNAconcentration and synthesis",
+        "C": "Transferrin receptor 1 iron responsive elements decreases transferrin receptor mRNAconcentration and synthesis",
+        "D": "Ferritin mRNA concentration iron responsive element decreases and ferritin synthesisincreases"
+      },
+      "correct_answer": "B",
+      "explanation": "In iron deficiency anaemia, there is an increase in transferrin receptor mRNA concentration andsynthesis.Iron absorbed through diet or which is released from circulation is bound to transferrin (irontransfer protein). When erythropoiesis is stimulated, iron-transferrin complexes act as transferrinreceptors on the surface of bone marrow erythroid cells. Through receptor-mediated endocytosis,this complex is internalised.This iron is then made available for heme synthesis while the transferrin-receptor complex isrecycled to the surface of the cell, from where the transferrin is released back into circulation andthe transferrin receptor re-anchors into the cell membrane. The excess iron after hemoglobinsynthesis binds to apoferritin (storage protein), forming ferritin.Senescent RBCs undergo phagocytosis in the cells of the reticuloendothelial system. Thehemoglobin is broken down, the globin and other proteins are returned to the amino acid pool,and the iron is shuttled back to the surface of the reticuloendothelial cell, where it is taken up bytransferrin via ferroportin (iron export channel).There is no regulated excretory pathway for iron, and the only mechanisms by which iron is lostare blood loss (via gastrointestinal bleeding, menstruation, or other forms of bleeding) and theloss of epithelial cells from the skin, gut, and genitourinary tract. The normal daily iron loss fromthe body is 1-2 mg.336VariablesIron-deficient stateIron-excess state↓Iron uptake↑Transferrin receptor synthesi↑↓STransferrin receptor mRNA c↑↓oncentrationIron storage↓↑Ferritin synthesis↓↑Ferritin mRNA concentrationNo changeNo change",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 12,
+      "question": "Peripheral smear of a patient with koilonychia is given below. Which of the following labfindings is consistent with her likely diagnosis?329",
+      "options": {
+        "A": "Option 1",
+        "B": "Option 2",
+        "C": "Option 3",
+        "D": "Option 400"
+      },
+      "correct_answer": "C",
+      "explanation": "The given peripheral smear showing microcytic and hypochromic picture with pencil cells issuggestive of iron-deficiency anaemia. In this condition, TIBC is increased, transferrin saturationis decreased, and ferritin is decreased.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q12_img1_997d8cbd.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 13,
+      "question": "You would expect iron-deficiency anaemia in all of the following patients except:",
+      "options": {
+        "A": "A 5-year-old boy with hookworm infestation",
+        "B": "A 60-year-old man with carcinoma cecum",
+        "C": "A 54-year-old woman after Billroth II operation",
+        "D": "A 25-year-old woman with maize-rich diet"
+      },
+      "correct_answer": "D",
+      "explanation": "Maize rich diet is not one of the causes of iron deficiency anaemia. It can cause pellagra.Iron deficiency anaemia can be caused by hookworm infestation, carcinoma of the cecum and inBillroth II operation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following laboratory findings is seen in a patient with sideroblastic anaemia?",
+      "options": {
+        "A": "Increased total iron binding capacity",
+        "B": "Increased transferrin saturation",
+        "C": "Decreased serum ferritin",
+        "D": "Low serum iron330"
+      },
+      "correct_answer": "B",
+      "explanation": "In sideroblastic anemia, the transferrin saturation is increased.Serum iron and serum ferritin are also elevated.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is not included in the triad of the Plummer-Vinson syndrome?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "413P0042"
+      },
+      "correct_answer": "B",
+      "explanation": "The triad of the Plummer-Vinson syndrome does not include koilonychia (marked as 2).Triad of Plummer-Vinson syndrome:•Esophageal webs•Microcytic hypochromic anaemia•Atrophic glossitis337Triad of Plummer Vinson SyndromeEsophageal webGlossitis98000Microcytic hypochromic anaemiaKoilonychia is a symptom of iron deficiency anaemia. It may or may not be present in PlummerVinson syndrome. Hence, it is not a part of the triad.Koilonychia",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_7472f0a1.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_b6e1f995.jpeg",
+      "chapter_heading": "Microcytic Anemia"
+    },
+    {
+      "q_no": 16,
+      "question": "A 34-year-old woman with severe anaemia was started on parenteral iron. Which of thefollowing would occur first in this patient as a response to therapy?",
+      "options": {
+        "A": "Increase in serum iron level",
+        "B": "Increase in serum ferritin level",
+        "C": "Increase in MCV",
+        "D": "Increase in reticulocyte count"
+      },
+      "correct_answer": "A",
+      "explanation": "One of the earliest responses to the correction of iron deficiency anaemia is increase in serumiron.Responses after initiation of treatment:• 12 to 24 hours - Replenishment of intracellular iron enzymes; decreased irritability; increasedappetite; increase in serum iron.• 36 to 48 hours - Erythroid hyperplasia in bone marrow• 48 to 72 hours - Reticulocytosis, peaking at 5-7 days338• 4 to 30 days - Increase in hemoglobin level, increase in ferritin, increase in MCV• 1 to 3 months - Repletion of stores339",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Microcytic Anemia"
+    }
+  ]
+}

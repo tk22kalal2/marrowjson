@@ -1,0 +1,245 @@
+{
+  "chapter": "Basics of Hemolysis and Intravascular Hemolysis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Match the types of hemoglobin with their globin chains.",
+      "options": {
+        "A": "1-B, 2-A, 3-C",
+        "B": "1-C, 2-A, 3-B",
+        "C": "1-C, 2-B, 3-A",
+        "D": "1-A, 2-B, 3-C"
+      },
+      "correct_answer": "C",
+      "explanation": "Hemoglobin is composed of four polypeptide chains: two alpha chains and two other chains that vary depending on the type of hemoglobin. The main types of hemoglobin are: Hemoglobin A (HbA), which is the most common form in adults and consists of two alpha chains and two beta chains; Hemoglobin A2 (HbA2), which consists of two alpha chains and two delta chains; and Hemoglobin F (HbF), which consists of two alpha chains and two gamma chains. Therefore, the correct match is 1-C, 2-B, 3-A, which corresponds to option C.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_9f1deb27.jpeg",
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 2,
+      "question": "Enzyme deficiency in which of the following pathways can cause hemolysis?",
+      "options": {
+        "A": "Orotic acid pathway",
+        "B": "Glycolysis",
+        "C": "Fatty acid synthesis",
+        "D": "Polyol pathway"
+      },
+      "correct_answer": "B",
+      "explanation": "Enzyme deficiency in the glycolytic pathway can cause hemolysis.The following enzyme deficiencies can cause hemolysis:In the glycolytic pathway:• Pyruvate kinase deficiency• Hexokinase deficiencyIn the HMP shunt pathway:365• G6PD deficiency• Glutathione synthetase deficiencyNote: Orotic aciduria causes megaloblastic anaemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the normal reticulocyte count?",
+      "options": {
+        "A": "0.5-1.5%",
+        "B": "2.5-5%",
+        "C": "5-10%",
+        "D": "1.5-2.5%"
+      },
+      "correct_answer": "A",
+      "explanation": "Normal reticulocyte count is 0.5-1.5% of total red cells.Causes of increased reticulocyte count:• Hemolytic anaemia• Acute and chronic blood lossCauses of decreased reticulocyte count:• Iron deficiency anaemia••Megaloblastic anaemiaAplastic anaemia• Anaemia of chronic diseases• Myelodysplastic syndromes",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements is false about reticulocytes?",
+      "options": {
+        "A": "They are nucleated",
+        "B": "They contain ribosomal RNA",
+        "C": "They are larger in size than red cell360",
+        "D": "Their normal count is 0.5-1.5%"
+      },
+      "correct_answer": "A",
+      "explanation": "Reticulocytes are red cell precursors, which are non-nucleated.They have blue-red polychromatophilic cytoplasm due to the presence of a reticular (mesh-like)network of ribosomal RNA. They can be visualized using supravital stains like methylene blueand brilliant cresyl blue, which stain the ribosomal RNA.Reticulocytosis (increased reticulocytes) indicates effective erythropoiesis i.e. good bone marrowresponse to anaemia. It is seen in:• Hemolytic anaemias• Acute blood loss.Reticulocytopenia (decreased reticulocytes) indicates ineffective erythropoiesis i.e. poor bonemarrow response to anaemia. It is seen in:•Chemotherapy• Aplastic anaemia• Bone marrow malignancy•• Anaemia of chronic disease• Iron-deficiency anaemia•Vitamin B12 and folate deficiency366The peripheral smear shows reticulocytosis and spherocytosis seen in non-Hodgkin lymphoma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_da664345.jpeg",
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 5,
+      "question": "A 25-year-old woman had severe blood loss during delivery 2-days ago. Her currenthemoglobin is 5 gm/dL and reticulocyte count is 9%. What is her corrected reticulocytecount?",
+      "options": {
+        "A": "6",
+        "B": "4.5",
+        "C": "3",
+        "D": "0.5"
+      },
+      "correct_answer": "C",
+      "explanation": "In the given scenario, the corrected reticulocyte count is 3.It is given by the following formula:Corrected reticulocyte count = Reticulocyte count × (patient's hemoglobin or hematocrit/standardhemoglobin or hematocrit)So, in this case, the corrected reticulocyte count = 9×5/15 = 9/3 = 3This formula corrects for hemoglobin. It will show you if the patient is making enoughreticulocytes for the degree of anemia present. As the hemoglobin drops, reticulocytes increasefrom the normal range of 0.5–2.0%.The standard reference range of hemoglobin concentration in females is 12-15 g/dl. Accordingly, inthis scenario, corrected reticulocyte count would range between 3-3.75%. So, the best answer tothis question remains option C.Absolute reticulocyte count is the percentage of red cells that are reticulocytes (normal is about0.5 – 2.0%). However, it does not reflect the fact that as the hemoglobin drops, there should bemore reticulocytes, percentage-wise (for example, at a hemoglobin of 5, you should have a muchhigher percentage of reticulocytes than you should at a hemoglobin of 10). To take this intoaccount, we use corrected reticulocyte count.Reticulocyte Index = Corrected reticulocyte count / maturation factorThis corrects for the longer life span of prematurely released reticulocytes in the blood which is aphenomenon of increased red blood cell production.367HematocritMaturation factor≥ 35%1.035% > Hct >1.525%25% > Hct >2.020%< 20%2.5",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 6,
+      "question": "In a patient with microcytic hypochromic anemia, red cell distribution width was measured. What is this parameter used to identify?",
+      "options": {
+        "A": "Anisocytosis",
+        "B": "Poikilocytosis",
+        "C": "Anisochromia",
+        "D": "Biconcavity"
+      },
+      "correct_answer": "A",
+      "explanation": "Red cell distribution width (RDW) deals with anisocytosis of RBCs. It refers to the unequal size of the RBCs. Normal values are: • RDW-SD (Standard deviation) - 39-46 fL • RDW-CV (Coefficient of variation) - 11.6-14.6%. RDW is of great use in two clinical situations. They are: • To differentiate between thalassemia and iron deficiency anemia (IDA) • Thalassemia - the RBCs are small (low MCV) and of uniform size (normal RDW). • IDA - the RBCs are small (low MCV) but vary greatly in size (high RDW). • To diagnose dimorphic anemia (anemia due to both iron and vitamin B12 deficiency) • High RDW • Normal MCV",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is not increased in intravascular hemolysis?",
+      "options": {
+        "A": "Lactate dehydrogenase",
+        "B": "Free hemoglobin",
+        "C": "Methemoglobin",
+        "D": "Haptoglobin"
+      },
+      "correct_answer": "D",
+      "explanation": "Haptoglobin is decreased in intravascular hemolysis.Types of hemolysis based on location:•Intravascular hemolysis - hemolysis that occurs mainly within the blood vessels• Extravascular hemolysis - hemolysis that occurs via macrophages of the reticuloendothelialsystem in the spleen, liver, bone marrow, and lymph nodesFeatures of intravascular hemolysis are:• Decreased haptoglobin• Increased lactate dehydrogenase• Hemoglobinemia368• Hemoglobinuria• Hemosiderinuria• Methemoglobinemia• Methemoglobinuria• Indirect hyperbilirubinemiaIntravascular HemolysisBlood vesselHemolysisHemoglobin (Hb)HaptoglobinHaptoglobin rapidlybinds to HbMHb-HaptogoblincomplexRapid haptoglobinUnbound freehemoglobinOxidisedMethemoglobunemiaMethemoglobinuriaOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_53186a8b.jpeg",
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following does not cause intravascular hemolysis?",
+      "options": {
+        "A": "Paroxysmal nocturnal hemoglobinuria",
+        "B": "Thrombotic thrombocytopenic purpura361",
+        "C": "Infection",
+        "D": "Thalassemia"
+      },
+      "correct_answer": "D",
+      "explanation": "Thalassemia causes extravascular hemolysis.Causes of intravascular hemolysis:•Mechanical injury•Trauma caused by cardiac valvesTLDHUptake by mononuclearphagocytic systemIndirect BilrubinHemoglobinemiaHemoglobinuriaRenal tubulardamage• Microangiopathic hemolytic anaemias (hemolytic uremic syndrome, disseminated intravascularcoagulation, thrombotic thrombocytopenic purpura)•Repetitive physical trauma• Complement fixation (antibody-mediated destruction)• Hemolytic disease of the newborn• Transfusion reaction• Drug-induced• Infections of red blood cells• Malaria• Babesiosis• Exogenous toxic factors - Clostridial sepsis.369Causes of extravascular hemolysis:•Hereditary spherocytosis• Thalassemia• Sickle cell anaemiaCauses of both intravascular and extravascular:• G6PD deficiency• Autoimmune hemolytic anaemia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following pairs of mutation and involved genes describes paroxysmal nocturnalhemoglobinuria?",
+      "options": {
+        "A": "AD inheritance - UMOD",
+        "B": "Acquired genetic mutation - PIGA",
+        "C": "AR inheritance - MUC1",
+        "D": "Acquired genetic mutation - GPI"
+      },
+      "correct_answer": "B",
+      "explanation": "Paroxysmal nocturnal hemoglobinuria (PNH) is a disease that results from acquired mutations inthe phosphatidylinositol glycan complementation group A gene (PIGA).This gene codes for an enzyme that is essential for the synthesis of certain membrane-associatedcomplement regulatory proteins. It is the only hemolytic anaemia caused by an acquired geneticdefect.PNH blood cells are deficient in 3 GPI-linked proteins that regulate complement activity:• Decay Accelerating Factor or CD55• Membrane Inhibitor of Reactive Lysis or CD59•⚫ C8-binding proteinCD59, a potent inhibitor of C3 convertase, prevents the spontaneous activation of the alternativecomplement pathway. Red cells deficient in these GPI-linked factors are abnormally susceptible tolysis or injury by C5b-C9 membrane attack complex of the complement system.Complement pathwaysClassicalpathwayAntigen-AntibodycomplexInitiatorsActivated C1C4MAC3LectinpathwayMicrobialsurfacesAlternativepathwayMicrobialsurfacesMannose-binding lectinC3Factor BFactor D[C4b2a)[C3bBb]ProperdinC3 convertasesC3bC3aOpsonization[C4b2ac3b][C3bBbCbC5 convertasesC5Lytic pathwayC5bC5aC6.CZ.CB.C9C5b-C9Membrane attack complex (MAC)↓Cell lysis and activationMARROWInflammation370",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_63b8aeda.jpeg",
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following cells are involved in paroxysmal nocturnal hemoglobinuria?",
+      "options": {
+        "A": "RBCs",
+        "B": "RBCs and WBCs",
+        "C": "WBCs and platelets",
+        "D": "RBCs, WBCs and platelets"
+      },
+      "correct_answer": "D",
+      "explanation": "All three cell lines, RBCs, WBCs, and platelets are affected in paroxysmal nocturnalhemoglobinuria (PNH).PNH occurs from acquired mutations in the gene PIGA which affect GPI-linked proteins.These causative mutations occur in a hematopoietic stem cell. Hence, all of its clonal progeny, i.e.,red cells, white cells, and platelets, are deficient in GPI-linked proteins.Clinical features of PNH include:• Intravascular hemoglobinuria - cola-colored urine• Pancytopenia + hypercellular bone marrow•Thrombosis (if hepatic vein involved → Budd-Chiari syndrome)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 11,
+      "question": "A 23-year-old man with pancytopenia is suspected to have PNH. Which of the followingfindings is inconsistent with this condition?",
+      "options": {
+        "A": "Increased LAP score",
+        "B": "Thrombosis",
+        "C": "Thrombocytopenia",
+        "D": "Increased methemoglobin"
+      },
+      "correct_answer": "A",
+      "explanation": "In PNH, the leukocyte alkaline phosphatase (LAP) score is decreased.Alkaline phosphatase activity is found predominantly in mature segmented neutrophils. LAPscore is obtained by assessing the staining intensity in 100 consecutive neutrophils, with eachneutrophil scored on a scale of 1-4. Conditions that result in an increase in leukocytes in all stagesof maturity will reflect a corresponding increase in LAP.Increased LAPLeukemoid reactionPregnancyPolycythemia veraHodgkin'sdiseaseDecreased LAPCMLPNHSickle cell anemia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is most likely the cause of death in a patient with paroxysmalnocturnal hemoglobinuria?",
+      "options": {
+        "A": "Sepsis362",
+        "B": "Budd-Chiari syndrome",
+        "C": "Renal failure",
+        "D": "Hemorrhage"
+      },
+      "correct_answer": "B",
+      "explanation": "Among the following, Budd-Chiari Syndrome is the most likely the cause of death in a patient withparoxysmal nocturnal hemoglobinuria (PNH).Thrombosis (particularly venous thrombosis) is the leading cause of disease-related death inpatients with PNH. 40% of PNH patients suffer from venous thrombosis, which commonly affectsthe hepatic, portal, or cerebral veins.The pathophysiology of thrombosis in PNH is not completely understood, but two mainmechanisms may be responsible:• Nitric oxide (NO) is absorbed by free hemoglobin (which is released during hemolysis).• Endothelial damage caused by the C5-9 membrane attack complex (due to deficiency of CD59).371",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 13,
+      "question": "Flow cytometric analysis in a patient with pancytopenia shows a deficiency of GPI-linkedproteins on blood cells. Which of the following is not a complication of this condition?",
+      "options": {
+        "A": "Deep vein thrombosis",
+        "B": "Cryoglobulinemia",
+        "C": "Acute myeloid leukemia",
+        "D": "Myelodysplastic syndrome"
+      },
+      "correct_answer": "",
+      "explanation": "The deficiency of GPI linked proteins on blood cells is seen in paroxysmal nocturnalhemoglobinuria (PNH). Cryoglobulinemia is not a complication of this condition.Thrombosis is the leading cause of disease-related death in individuals with paroxysmal nocturnalhemoglobinuria (PNH). About 5% to 10% of patients eventually develop acute myeloidleukemia (AML) or myelodysplastic syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 14,
+      "question": "What is the gold standard for the diagnosis of paroxysmal nocturnal hemoglobinuria?",
+      "options": {
+        "A": "Ham test",
+        "B": "Bone marrow biopsy",
+        "C": "HPLC",
+        "D": "Flow cytometry"
+      },
+      "correct_answer": "B",
+      "explanation": "The gold standard for the diagnosis of PNH is flow cytometry. It provides a sensitive means fordetecting red cells that are deficient in GPI-linked proteins such as CD59.Investigations in PNH include:•Flow cytometry (gold standard) - deficiency of CD59 and CD55• Ham test (acidified serum lysis) - lysis of RBCs in a mildly acidic pH due to complement fixation••• Bone marrow biopsy -Hypercellularity with erythroid hyperplasia is seen in classical presentations• Patients who develop pancytopenia will have hypocellular bone marrow• Imaging - to evaluate venous thrombosis",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q14_img1_ea92a59a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 15,
+      "question": "A 37-year-old man presents with a history of dark-colored urine in the morning for 2 months. His lab investigations and flow cytometry are given below. What is the curative therapy for this condition?",
+      "options": {
+        "A": "Eculizumab",
+        "B": "Immunosuppressants",
+        "C": "Blood transfusion",
+        "D": "Hematopoietic stem cell transplant"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of PNH (paroxysmal nocturnal hemoglobinuria). The curative therapy for this condition is a hematopoietic stem cell transplant. Pancytopenia is seen in this condition. Flow cytometry shows 2 populations of red cells: \n   • Marked red in the left lower quadrant - deficient in both CD55 and CD59, characteristic of PNH.\n   • Marked black in the right upper quadrant - CD55+ and CD59+ cells from the residual normal hematopoietic cells\n   Eculizumab is a monoclonal antibody that can be used in PNH. It prevents the conversion of C5 to C5a and reduces hemolysis.\n   Immunosuppressive drugs are sometimes beneficial for those with evidence of marrow aplasia.\n   Note: FDA has approved the following drugs for treatment of adults with PNH: \n   • Ravulizumab injection, a long-acting C-5 complement inhibitor\n   • Pegcetacoplan, which acts by binding to complement protein C3 and increasing hemoglobin concentration",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsThe types of hemoglobin along with their globin chains are:The image given below shows the graphical representation of the globin chain synthesis.HemoglobinComponents% of total globin synthesis5040HbFα2y2HbAα2°2HbA2α282Globin Chains Synthesis3020AR10-aBW36Birth36Post-natal age (months)OMARROWSolution to Question 2:Enzyme deficiency in the glycolytic pathway can cause hemolysis.The following enzyme deficiencies can cause hemolysis:In the glycolytic pathway:• Pyruvate kinase deficiency• Hexokinase deficiencyIn the HMP shunt pathway:365• G6PD deficiency• Glutathione synthetase deficiencyNote: Orotic aciduria causes megaloblastic anaemia.Solution to Question 3:Normal reticulocyte count is 0.5-1.5% of total red cells.Causes of increased reticulocyte count:• Hemolytic anaemia• Acute and chronic blood lossCauses of decreased reticulocyte count:• Iron deficiency anaemia••Megaloblastic anaemiaAplastic anaemia• Anaemia of chronic diseases• Myelodysplastic syndromesSolution to Question 4:Reticulocytes are red cell precursors, which are non-nucleated.They have blue-red polychromatophilic cytoplasm due to the presence of a reticular (mesh-like)network of ribosomal RNA. They can be visualized using supravital stains like methylene blueand brilliant cresyl blue, which stain the ribosomal RNA.Reticulocytosis (increased reticulocytes) indicates effective erythropoiesis i.e. good bone marrowresponse to anaemia. It is seen in:• Hemolytic anaemias• Acute blood loss.Reticulocytopenia (decreased reticulocytes) indicates ineffective erythropoiesis i.e. poor bonemarrow response to anaemia. It is seen in:•Chemotherapy• Aplastic anaemia• Bone marrow malignancy•• Anaemia of chronic disease• Iron-deficiency anaemia•Vitamin B12 and folate deficiency366The peripheral smear shows reticulocytosis and spherocytosis seen in non-Hodgkin lymphoma.Solution to Question 5:In the given scenario, the corrected reticulocyte count is 3.It is given by the following formula:Corrected reticulocyte count = Reticulocyte count × (patient's hemoglobin or hematocrit/standardhemoglobin or hematocrit)So, in this case, the corrected reticulocyte count = 9×5/15 = 9/3 = 3This formula corrects for hemoglobin. It will show you if the patient is making enoughreticulocytes for the degree of anemia present. As the hemoglobin drops, reticulocytes increasefrom the normal range of 0.5–2.0%.The standard reference range of hemoglobin concentration in females is 12-15 g/dl. Accordingly, inthis scenario, corrected reticulocyte count would range between 3-3.75%. So, the best answer tothis question remains option C.Absolute reticulocyte count is the percentage of red cells that are reticulocytes (normal is about0.5 – 2.0%). However, it does not reflect the fact that as the hemoglobin drops, there should bemore reticulocytes, percentage-wise (for example, at a hemoglobin of 5, you should have a muchhigher percentage of reticulocytes than you should at a hemoglobin of 10). To take this intoaccount, we use corrected reticulocyte count.Reticulocyte Index = Corrected reticulocyte count / maturation factorThis corrects for the longer life span of prematurely released reticulocytes in the blood which is aphenomenon of increased red blood cell production.367HematocritMaturation factor≥ 35%1.035% > Hct >1.525%25% > Hct >2.020%< 20%2.5Solution to Question 6:Red cell distribution width (RDW) deals with anisocytosis of RBCs. It refers to the unequal size ofthe RBCs.Normal values are:• RDW-SD (Standard deviation) - 39-46 fL•RDW-CV (Coefficient of variation) - 11.6-14.6%RDW is of great use in two clinical situations. They are:•To differentiate between thalassemia and iron deficiency anaemia (ID",
+      "options": {
+        "A": "•Thalassemia the RBCs are small (low MCV) and of uniform size (normal RDW)-• IDA - the RBCs are small (low MCV) but vary greatly in size (high RDW).• To diagnose dimorphic anaemia (anaemia due to both iron and vitamin B12 deficiency)•High RDW• Normal MCVSolution to Question 7:Haptoglobin is decreased in intravascular hemolysis.Types of hemolysis based on location:•Intravascular hemolysis - hemolysis that occurs mainly within the blood vessels• Extravascular hemolysis - hemolysis that occurs via macrophages of the reticuloendothelialsystem in the spleen, liver, bone marrow, and lymph nodesFeatures of intravascular hemolysis are:• Decreased haptoglobin• Increased lactate dehydrogenase• Hemoglobinemia368• Hemoglobinuria• Hemosiderinuria• Methemoglobinemia• Methemoglobinuria• Indirect hyperbilirubinemiaIntravascular HemolysisBlood vesselHemolysisHemoglobin (H",
+        "B": "HaptoglobinHaptoglobin rapidlybinds to HbMHb-HaptogoblincomplexRapid haptoglobinUnbound freehemoglobinOxidisedMethemoglobunemiaMethemoglobinuriaOMARROWSolution to Question 8:Thalassemia causes extravascular hemolysis.Causes of intravascular hemolysis:•Mechanical injury•Trauma caused by cardiac valvesTLDHUptake by mononuclearphagocytic systemIndirect BilrubinHemoglobinemiaHemoglobinuriaRenal tubulardamage• Microangiopathic hemolytic anaemias (hemolytic uremic syndrome, disseminated intravascularcoagulation, thrombotic thrombocytopenic purpura)•Repetitive physical trauma• Complement fixation (antibody-mediated destruction)• Hemolytic disease of the newborn• Transfusion reaction• Drug-induced• Infections of red blood cells• Malaria• Babesiosis• Exogenous toxic factors - Clostridial sepsis.369Causes of extravascular hemolysis:•Hereditary spherocytosis• Thalassemia• Sickle cell anaemiaCauses of both intravascular and extravascular:• G6PD deficiency• Autoimmune hemolytic anaemiaSolution to Question 9:Paroxysmal nocturnal hemoglobinuria (PNH) is a disease that results from acquired mutations inthe phosphatidylinositol glycan complementation group A gene (PIGA).This gene codes for an enzyme that is essential for the synthesis of certain membrane-associatedcomplement regulatory proteins. It is the only hemolytic anaemia caused by an acquired geneticdefect.PNH blood cells are deficient in 3 GPI-linked proteins that regulate complement activity:• Decay Accelerating Factor or CD55• Membrane Inhibitor of Reactive Lysis or CD59•⚫ C8-binding proteinCD59, a potent inhibitor of C3 convertase, prevents the spontaneous activation of the alternativecomplement pathway. Red cells deficient in these GPI-linked factors are abnormally susceptible tolysis or injury by C5b-C9 membrane attack complex of the complement system.Complement pathwaysClassicalpathwayAntigen-AntibodycomplexInitiatorsActivated C1C4MAC3LectinpathwayMicrobialsurfacesAlternativepathwayMicrobialsurfacesMannose-binding lectinC3Factor BFactor D[C4b2a)[C3bBb]ProperdinC3 convertasesC3bC3aOpsonization[C4b2ac3b][C3bBbCbC5 convertasesC5Lytic pathwayC5bC5aC6.CZ.CB.C9C5b-C9Membrane attack complex (MA",
+        "C": "↓Cell lysis and activationMARROWInflammation370Solution to Question 10:All three cell lines, RBCs, WBCs, and platelets are affected in paroxysmal nocturnalhemoglobinuria (PNH).PNH occurs from acquired mutations in the gene PIGA which affect GPI-linked proteins.These causative mutations occur in a hematopoietic stem cell. Hence, all of its clonal progeny, i.e.,red cells, white cells, and platelets, are deficient in GPI-linked proteins.Clinical features of PNH include:• Intravascular hemoglobinuria - cola-colored urine• Pancytopenia + hypercellular bone marrow•Thrombosis (if hepatic vein involved → Budd-Chiari syndrome)Solution to Question 11:In PNH, the leukocyte alkaline phosphatase (LAP) score is decreased.Alkaline phosphatase activity is found predominantly in mature segmented neutrophils. LAPscore is obtained by assessing the staining intensity in 100 consecutive neutrophils, with eachneutrophil scored on a scale of 1-4. Conditions that result in an increase in leukocytes in all stagesof maturity will reflect a corresponding increase in LAP.Increased LAPLeukemoid reactionPregnancyPolycythemia veraHodgkin'sdiseaseDecreased LAPCMLPNHSickle cell anemiaSolution to Question 12:Among the following, Budd-Chiari Syndrome is the most likely the cause of death in a patient withparoxysmal nocturnal hemoglobinuria (PNH).Thrombosis (particularly venous thrombosis) is the leading cause of disease-related death inpatients with PNH. 40% of PNH patients suffer from venous thrombosis, which commonly affectsthe hepatic, portal, or cerebral veins.The pathophysiology of thrombosis in PNH is not completely understood, but two mainmechanisms may be responsible:• Nitric oxide (NO) is absorbed by free hemoglobin (which is released during hemolysis).• Endothelial damage caused by the C5-9 membrane attack complex (due to deficiency of CD59).371Solution to Question 13:The deficiency of GPI linked proteins on blood cells is seen in paroxysmal nocturnalhemoglobinuria (PNH). Cryoglobulinemia is not a complication of this condition.Thrombosis is the leading cause of disease-related death in individuals with paroxysmal nocturnalhemoglobinuria (PNH). About 5% to 10% of patients eventually develop acute myeloidleukemia (AML) or myelodysplastic syndrome.Solution to Question 14:The gold standard for the diagnosis of PNH is flow cytometry. It provides a sensitive means fordetecting red cells that are deficient in GPI-linked proteins such as CD59.Investigations in PNH include:•Flow cytometry (gold standar",
+        "D": "- deficiency of CD59 and CD55• Ham test (acidified serum lysis) - lysis of RBCs in a mildly acidic pH due to complement fixation••• Bone marrow biopsy -Hypercellularity with erythroid hyperplasia is seen in classical presentations• Patients who develop pancytopenia will have hypocellular bone marrow• Imaging - to evaluate venous thrombosisSolution to"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_dd416c3c.jpeg",
+      "chapter_heading": "Basics of Hemolysis and Intravascular Hemolysis"
+    }
+  ]
+}

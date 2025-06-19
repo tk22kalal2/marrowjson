@@ -1,0 +1,245 @@
+{
+  "chapter": "Non Hodgkin Lymphomas: High Grade",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 5-year-old boy presents with weight loss, fever, and a painless swelling in the area of his jaw. CBC reveals anemia and lymphocytosis. Biopsy findings from the swelling are shown in the image below. Which of the following is not true about this patient's condition?",
+      "options": {
+        "A": "All forms of this tumor are associated with translocations of the MYC gene",
+        "B": "Endemic forms are latently infected with EBV",
+        "C": "The tumor exhibits a high mitotic index",
+        "D": "Neoplastic cells are usually BCL2 positive"
+      },
+      "correct_answer": "D",
+      "explanation": "Neoplastic cells in this condition are usually BCL2 negative, as the tumor in question is likely Burkitt lymphoma, which is known for being BCL2 negative.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q1_img1_6e27bf07.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_09607d90.jpeg",
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 2,
+      "question": "A 7-year-old boy who presented with the following finding was diagnosed with Burkitt's lymphoma. Which of the following translocations is most likely to be seen in this condition?",
+      "options": {
+        "A": "t(8;14)",
+        "B": "t(11;18)",
+        "C": "t(14;18)",
+        "D": "t(11;14)"
+      },
+      "correct_answer": "A",
+      "explanation": "The translocation seen in Burkitt's lymphoma is t(8;14), causing translocation of the MYC gene. It is the most common translocation and is seen in 70% of the cases. Other translocations that may be present include t(2;8) and t(8;22).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q2_img1_a2418bf5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 3,
+      "question": "Translocations of which of the following proto-oncogenes is most likely present in patients with Burkitt lymphoma?",
+      "options": {
+        "A": "ABL",
+        "B": "BRAF",
+        "C": "RAS",
+        "D": "MYC"
+      },
+      "correct_answer": "D",
+      "explanation": "All forms of Burkitt lymphoma are highly associated with translocations of the MYC gene on chromosome 8 that lead to increased MYC protein levels. In addition to the MYC translocations in Burkitt lymphoma and a subset of other B and T cell tumors, MYC is amplified in some breast, colon, lung, and many other carcinomas. The functionally identical NMYC and LMYC genes are also amplified in neuroblastomas and small-cell cancers of the lung, respectively.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 4,
+      "question": "What is the most common site for sporadic Burkitt's lymphoma?",
+      "options": {
+        "A": "Jaw",
+        "B": "Ileocecum",
+        "C": "CNS",
+        "D": "Liver"
+      },
+      "correct_answer": "B",
+      "explanation": "Sporadic Burkitt's lymphoma most often presents as a mass involving the ileocecum and peritoneum. About 15 to 20% of these are associated with Epstein-Barr virus (EBV). Endemic Burkitt's lymphoma, in contrast, presents as a mass involving the mandible. It shows an unusual predilection for the involvement of abdominal viscera, particularly kidneys, ovaries, and adrenal glands. Involvement of the bone marrow and peripheral blood is uncommon. Immunodeficiency-associated Burkitt's lymphoma commonly involves the gastrointestinal tract (GIT) and central nervous system (CNS).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 5,
+      "question": "Which lymphoma has a Ki-67 index near 100%?",
+      "options": {
+        "A": "Mantle-cell lymphoma",
+        "B": "Diffuse large B-cell lymphoma",
+        "C": "Burkitt's lymphoma",
+        "D": "Extranodal NK cell lymphoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Burkitt's lymphoma is a very aggressive tumor, having a very high mitotic index and a Ki-67 index of about 100%. Ki-67 is a proliferation marker used to assess the mitotic index of the tumor. It is high in high-grade tumors and low in low-grade tumors. Both mantle-cell lymphoma and DLBCL also have a high Ki-67 index, but it is not as high as that seen in Burkitt's. Follicular lymphoma is a low-grade tumor, and hence, it has a low Ki-67 index.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp5_img1_7d4ea3f7.jpeg",
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 6,
+      "question": "A 35-year-old presented with fever and ulcerated tonsils. His peripheral smear showed lymphocytosis. The Monospot test was negative. Tonsillectomy was done, and the biopsy showed the following picture. The larger cells were positive for CD20, EBV LMP1, MUM1, and CD79a and negative for CD15. Background cells were positive for CD3. What is the most probable diagnosis?",
+      "options": {
+        "A": "Infectious mononucleosis",
+        "B": "Hodgkin lymphoma",
+        "C": "EBV-positive DLBCL",
+        "D": "EBV-positive mucocutaneous ulcer"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of Epstein-Barr virus (EBV) positive diffuse large B-cell lymphoma (DLBCL). The histopathological findings show large cells with multilobed irregular nuclei. These cells are positive for CD20, CD79a, IRF4/MUM1, EBV LMP1. The smaller cells in the background are CD3+, which is a T-cell marker. It is seen in the elderly (over 50 years) and without immunodeficiency or prior lymphoma. 70% of the cases are extranodal and mainly affect skin, lung, tonsil, and stomach with or without lymph node involvement. 30% of the cases have lymph node disease alone. Option A: This is not infectious mononucleosis as the Monospot test is negative. Option B: It is not Hodgkin lymphoma because it is positive for CD20 and CD79a and negative for CD15. Option D: It is not EBV-positive mucocutaneous ulcer as the patient is immunocompetent and it is strongly positive for CD20. Note: EBV-positive mucocutaneous ulcer occurs in immunocompromised patients and reverts to treating the immunocompromised state. It shows polymorphous infiltrate and atypical large B cells with RS cell-like morphology admixed with abundant T cells. There is a uniform expression of CD30, MUM1, PAX5, OCT2. There is variable expression of CD20, CD45, CD15, CD79a, BCL6.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q6_img1_073e7984.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 7,
+      "question": "537A lymph node biopsy of a patient suffering from follicular lymphoma shows the presence oflarge cells with prominent multilobulated nuclei and abundant basophilic cytoplasm. Whichof the following will test positive in this condition?",
+      "options": {
+        "A": "1,3",
+        "B": "2,4,5",
+        "C": "3, 4",
+        "D": "1, 2, 5"
+      },
+      "correct_answer": "",
+      "explanation": "The given history and histopathological examination point towards the diagnosis of diffuse largeB-cell lymphoma (DLBCL).It is molecularly heterogeneous and can show the given abnormalities:• BCL6 (transcription factor) overexpression is most common• 10 to 20% cases have t(14;18) leading to overexpression of BCL2 (a proto-oncogene)• 5% are associated with MYC translocations (like Burkitt's lymphoma)•Mutations in gene encoding histone acetyltransferasesDLBCL and follicular lymphoma, both are positive for CD19, CD20, CD10, and BCL6(germinal-center B-cell origin). While BCL2 is positive in &gt;90% of the cases of follicularlymphoma, it can also be positive in DLBCL.To differentiate DLBCL from follicular lymphoma, the ki67 index is used. If ki67 &gt;40% (high) itsuggests DLBCL.546",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 8,
+      "question": "You have been asked to use the International Prognostic Index for lymphomas to predict the prognosis of a patient suffering from DLBCL. Which of the following is not a component of this index?",
+      "options": {
+        "A": "Stage of the disease",
+        "B": "Number of extra-lymphatic sites involved",
+        "C": "Lactate dehydrogenase levels",
+        "D": "Hemoglobin levels"
+      },
+      "correct_answer": "D",
+      "explanation": "Hemoglobin levels are not a part of the International Prognostic Index (IPI) score. IPI is based on the presence or absence of five adverse prognostic factors: Age >60 years, Raised serum lactate dehydrogenase (LDH), Performance status >2 (ECOG) or <70 (Karnofsky), >1 site of extranodal (extra-lymphatic) involvement, and Ann Arbor stage III or IV",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 9,
+      "question": "A 55-year-old woman, on treatment for chronic lymphocytic leukemia, notices rapidly growing swellings in her neck and axilla. She also complains of fever and weight loss. The physician suspects a transformation to diffuse large B-cell lymphoma. What is this condition called?",
+      "options": {
+        "A": "Richter syndrome",
+        "B": "Chédiak-Higashi syndrome",
+        "C": "Sézary syndrome",
+        "D": "Kostmann's syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "The transformation of chronic lymphocytic leukemia (CLL)/small lymphocytic leukemia (SLL) to diffuse large B-cell lymphoma is called Richter syndrome. It is seen in approximately 5% to 10% of the cases. Option B: Chédiak-Higashi syndrome is an autosomal-recessive disorder that arises from a mutation of a lysosomal trafficking regulator protein. It leads to a decrease in phagocytosis, recurrent pyogenic infections, albinism, and peripheral neuropathy. Sézary syndrome (SS) is a triad of erythroderma, generalized lymphadenopathy, and the presence of clonally related neoplastic T cells. These cells have cerebriform nuclei (Sézary cells) and are seen in the skin, lymph nodes, and peripheral blood. Kostmann's syndrome is an autosomal recessive disorder characterized by severe neutropenia. It is associated with mutations in G-CSF.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 10,
+      "question": "A 58-year-old woman came with complaints of swelling in her hard palate. Biopsy from the swelling showed the following picture. What is the most probable diagnosis?",
+      "options": {
+        "A": "Hodgkin lymphoma",
+        "B": "Hairy cell leukemia",
+        "C": "Large granular lymphocytic leukemia",
+        "D": "Anaplastic large cell lymphoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario and histopathological image point towards a diagnosis of anaplastic large cell lymphoma. The biopsy shows characteristic large anaplastic cells, some containing horseshoe-shaped nuclei and voluminous cytoplasm called hallmark cells. Biopsy of anaplastic large cell lymphoma is a type of T-cell lymphoma that consists of large lymphoid cells. This occurs due to rearrangements in the ALK gene and usually affects children and young adults. It frequently involves soft tissue and carries a good prognosis. T-cell lymphomas with similar morphology without ALK positivity occur in older adults and have a bad prognosis. CD markers: T cell markers (CD3, CD4, CD8 etc) +, CD30+.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q10_img1_da2a21b1.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp10_img1_44ff4144.jpeg",
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 11,
+      "question": "Which is an aggressive lymphoid neoplasm that classically occurs in the oral cavity of immunosuppressed patients?",
+      "options": {
+        "A": "Plasmablastic lymphoma",
+        "B": "Hairy-cell leukemia",
+        "C": "Anaplastic large-cell lymphoma",
+        "D": "Extranodal NK/T-Cell Lymphoma"
+      },
+      "correct_answer": "A",
+      "explanation": "Plasmablastic lymphoma is an aggressive lymphoid neoplasm that classically occurs in the oral cavity in immunosuppressed patients. Plasmablastic lymphoma usually occurs in HIV+ patients (73%), immunosuppressed or elderly patients without known immunodeficiency, and EBV+ patients. Lymphomas more specific to HIV+ patients: • Primary effusion lymphoma • Plasmablastic lymphoma • Primary CNS lymphoma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 12,
+      "question": "A 44-year-old man with nasal obstruction, nasal secretion, and facial erythema was diagnosed with facial cellulitis. When his condition did not improve on antibiotics, a CT scan was performed. It showed a destructive mass in the right nasal cavity extending into the nasopharynx. Which of the following is most likely to present this way?",
+      "options": {
+        "A": "Anaplastic large cell lymphoma",
+        "B": "Extranodal NK/T-cell Lymphoma",
+        "C": "Adult T-cell lymphoma",
+        "D": "Mycosis fungoides"
+      },
+      "correct_answer": "B",
+      "explanation": "Extranodal NK/T-Cell Lymphoma is most likely to present as a destructive nasopharyngeal mass. Less common sites of presentation include the testis and the skin. It accounts for 3% of all non-Hodgkin lymphomas (NHLs) in Asia. Extranodal NK/T-cell lymphoma is highly associated with EBV. The tumor cells typically surround and invade the small vessels, leading to extensive ischemic necrosis. In touch preparations, large azurophilic granules are seen in the cytoplasm of the tumor cells. They express NK-cell markers (CD16, CD56), supporting an NK-cell origin. Most extranodal NK/T-cell lymphomas are highly aggressive neoplasms that respond well to radiation therapy but are resistant to chemotherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 13,
+      "question": "A 63-year-old man presented with severe pallor and giddiness. Clinical examination revealed bilateral cervical lymphadenopathy. Peripheral blood examination showed lymphocytosis and the following findings. What is the most likely diagnosis?",
+      "options": {
+        "A": "Large granular lymphocytic leukemia",
+        "B": "Peripheral T-cell lymphoma",
+        "C": "Anaplastic large-cell lymphoma",
+        "D": "Adult T-cell leukemia/lymphoma"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario and peripheral smear findings showing cloverleaf cells, point towards a diagnosis of adult T-cell leukemia/lymphoma. Adult T-cell leukemia/lymphoma occurs in adults infected by human T-cell leukemia retrovirus type 1 (HTLV-1). Common findings include skin lesions, generalized lymphadenopathy, hepatosplenomegaly, and hypercalcemia. Peripheral smear blood shows characteristic cloverleaf cells or flower cells, which are tumor cells with multilobulated nuclei. Lymphocytosis is also observed. It is a rapidly progressive disease that is fatal within months to 1 year. The image given below shows peripheral blood smear findings in adult T-cell leukemia/lymphoma. Peripheral smear of Adult T-cell leukemia: Cloverleaf cells. Note: Apart from adult T-cell leukemia, HTLV-1 may also give rise to a progressive demyelinating disease of the CNS and spinal cord.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q13_img1_5505cd63.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp13_img1_4d202976.jpeg",
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 14,
+      "question": "A 35-year-old man presents with weight loss and abdominal pain. He is a known case of celiac disease on a strict gluten-free diet. CT of the abdomen revealed a thickened loop of small bowel with stricture and associated lymphadenopathy. A lymphoid neoplasm is suspected. What is the most probable diagnosis?",
+      "options": {
+        "A": "Marginal zone lymphoma",
+        "B": "Peripheral T-cell lymphoma",
+        "C": "High-grade B-cell lymphoma",
+        "D": "Enteropathy-associated T-cell lymphoma"
+      },
+      "correct_answer": "D",
+      "explanation": "The most probable diagnosis in this patient is enteropathy-associated T-cell lymphoma. Individuals with celiac disease have a higher than normal rate of malignancy. The most common cancer associated with celiac disease is enteropathy-associated T-cell lymphoma. It is an aggressive lymphoma of intraepithelial T lymphocytes. When the symptoms in a celiac disease patient deteriorate, even while being on a strict gluten-free diet, cancer must be considered. Note: Small intestinal adenocarcinoma is also more frequent in individuals with celiac disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 15,
+      "question": "A 56-year-old woman came with complaints of pain and swelling in the left side of the abdomen. Investigations revealed multiple polyps in the rectum and sigmoid colon. A preliminary biopsy report was suggestive of a lymphoid neoplasm. Which of the following is the most probable diagnosis?",
+      "options": {
+        "A": "Mantle cell lymphoma",
+        "B": "Marginal zone lymphoma",
+        "C": "Burkitt lymphoma",
+        "D": "Follicular lymphoma"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario points towards the diagnosis of lymphomatoid polyposis. The most common among the non-Hodgkin's lymphoma to present like this is mantle cell lymphoma. Lymphomatoid polyposis is characterized by multifocal mucosal involvement of the proliferating lymphocytes. It has aggressive behavior and a relatively poor prognosis. It must be treated accordingly as a high-grade lymphoma with systemic chemotherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    },
+    {
+      "q_no": 16,
+      "question": "BRAF V600E mutation is not seen in which of the following conditions?",
+      "options": {
+        "A": "Hairy cell leukemia",
+        "B": "Malignant melanoma",
+        "C": "Langerhans cell histiocytosis",
+        "D": "Glioblastoma multiforme"
+      },
+      "correct_answer": "D",
+      "explanation": "BRAF V600E (valine to glutamate substitution at residue 600) mutation is not seen in glioblastoma multiforme. BRAF is a serine/threonine kinase positioned immediately downstream of RAS in the MAPK signalling cascade. It is seen in the following conditions: Hairy cell leukemia, Malignant melanoma, Langerhans cell histiocytosis, Papillary carcinoma thyroid, Pilocytic astrocytoma, and Erdheim-Chester disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Hodgkin Lymphomas: High Grade"
+    }
+  ]
+}

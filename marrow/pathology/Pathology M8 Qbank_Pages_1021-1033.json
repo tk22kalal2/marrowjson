@@ -1,0 +1,185 @@
+{
+  "chapter": "Small Intestine",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common cause of intestinal obstruction in children younger than 2 yearsage?",
+      "options": {
+        "A": "Adhesions",
+        "B": "Congenital hernia",
+        "C": "Volvulus",
+        "D": "Intussusception"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_e6f343f8.jpeg",
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 2,
+      "question": "A 30-year-old man presented with a history of long-standing diarrhea. Serologic evaluationshowed positive anti-tissue transglutaminase antibodies. Duodenal biopsy showed crypthyperplasia, villi atrophy, and CD8+ cells in lamina propria. Which of the following HLAalleles is associated with this condition?",
+      "options": {
+        "A": "HLA-DR3",
+        "B": "HLA-DR4",
+        "C": "HLA-DQ8",
+        "D": "HLA-DQ4of"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario is suggestive of celiac disease or gluten-sensitive enteropathy. It is associatedwith HLA-DQ2 and HLA-DQ8 alleles.It is an immune-mediated enteropathy triggered by the ingestion of gluten-containing foods suchas barley, rye, oats, and wheat (mnemonic: BROW) in genetically predisposed individuals.In these individuals, digestion of the gluten-containing diet leads to the formation of gliadinpeptides. These peptides result in the following immune reactions:•They can activate the epithelial cells to express certain cytokines (IL-15), which result in CD8+ Tcell proliferation• They undergo deamidation and interact with HLA-DQ2 or HLA-DQ8 on the antigen-presentingcells. This leads to CD4+ T cell stimulation and further cytokine productionThese mechanisms result in epithelial tissue damage.Antibodies associated with celiac disease are:•.Anti-gliadin antibodies• Anti-tissue transglutaminase antibodies (anti-ttG)• Anti-endomysial antibodies.Microscopic findings include:.• Villi atrophy and flattening••Crypt hyperplasia• Increased intraepithelial T cells",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 3,
+      "question": "A 34-year-old male patient presented to the clinic with a history of diarrhea and poorappetite. He has been having 4-5 episodes of non-bloody, loose stools per day for the last 3months. A duodenal biopsy is taken and the histopathology is as shown below. Which of thefollowing is the most common cancer associated with this condition?1021",
+      "options": {
+        "A": "B cell lymphoma",
+        "B": "Carcinoid",
+        "C": "T cell lymphoma",
+        "D": "Small intestinal adenocarcinoma"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario and histopathology findings are suggestive of celiac disease.Enteropathy-associated T-cell lymphoma is the most common cancer associated with celiacdisease.1027Celiac diseaseIntraepitheliallymphocytesCeliac diseaseVillousCryptatrophy hyperplasiaSmall intestinal adenocarcinoma is also associated with celiac disease.Celiac disease or celiac sprue or gluten-sensitive enteropathy is triggered by the ingestion ofgluten, which is the major storage protein of wheat and similar grains. It usually affects the 2ndpart of the duodenum or proximal jejunum.Antibodies associated with celiac disease are:●Anti-gliadin antibodies• Anti tissue transglutaminase antibodiesAnti endomysial antibodiesMARSH's score is used to assess celiac disease histologically.Dermatitis herpetiformis occurs in about 10% of patients with celiac disease.1028",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q3_img1_b8486dc4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 4,
+      "question": "Malabsorption is not due to intestinal mucosal defects in which of the following disorders?",
+      "options": {
+        "A": "Tropical sprue",
+        "B": "Whipple disease",
+        "C": "Cystic fibrosis",
+        "D": "Crohn disease"
+      },
+      "correct_answer": "",
+      "explanation": "In cystic fibrosis, malabsorption occurs due to exocrine pancreatic insufficiency, not intestinalmucosal defects.Cystic fibrosis is caused by pathogenic mutations in the CFTR gene on chromosome 7 thatencodes the cystic fibrosis transmembrane conductance regulator (CFTR) protein.The absence of CFTR protein interferes with Na+, HCO3-, and water secretion resulting indefective luminal hydration. This causes the formation of pancreatic intraductal concretions andcauses exocrine pancreatic insufficiency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 5,
+      "question": "A 33-year-old man presented to the ER with severe abdominal pain. He gives a history offever for the past 2 weeks. On examination, faint salmon-colored macules were noted on thetrunk and abdomen. Which of the following diseases would you suspect?",
+      "options": {
+        "A": "Typhoid",
+        "B": "Infective endocarditis",
+        "C": "Amoebiasis",
+        "D": "Leishmaniasis1022"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario of faint salmon-colored macules is suggestive of rose spots that areseen in typhoid fever.Rose spots are small erythematous maculopapular lesions that are seen on the chest andabdomen. In the second week of illness, abdominal pain develops and rose spots may be seen, asshown in the following image.Note: Typhoid ulcers are oval ulcers oriented along the axis of the ileum and carry the risk ofperforation. They usually develop in the 3rd week of typhoid.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp5_img1_aed5a52e.jpeg",
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following phases is impaired in patients diagnosed with Whipple's disease?",
+      "options": {
+        "A": "Lymphatic transport",
+        "B": "Terminal digestion",
+        "C": "Intraluminal digestion",
+        "D": "Transepithelial transport"
+      },
+      "correct_answer": "",
+      "explanation": "In Whipple's disease, the cause of malabsorption is impaired lymphatic transport.In Whipple disease, clinical symptoms occur because organism-laden macrophages accumulatewithin the small intestinal lamina propria and mesenteric lymph nodes, causing lymphaticobstruction. These bacteria-laden macrophages also accumulate within mesenteric lymph nodes,1029synovial membranes of affected joints, cardiac valves, brain.The clinical presentation of Whipple disease is usually a triad of diarrhea, weight loss, andarthralgia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 7,
+      "question": "A 35-year-old HIV-positive man is referred for evaluation of malabsorption. A duodenalbiopsy shows the following finding. Which special stain can be used further to confirm thediagnosis?",
+      "options": {
+        "A": "PAS stain",
+        "B": "Acid fast stain",
+        "C": "Alcian blue stain",
+        "D": "Mucicarmine stain"
+      },
+      "correct_answer": "A",
+      "explanation": "This clinical scenario and image showing distended foamy macrophages inside the lamina propriaare characteristic of Whipple's disease. The diagnosis can be confirmed by acid-fast staining.Whipple's DiseaseFoamy macrophagesDistended foamy macrophages inside the lamina propria of the duodenum can be seen in:• Whipple's disease• Intestinal tuberculosis, particularly in immunocompromised hostsAs both organisms are PAS-positive, PAS staining cannot differentiate between the two diseases.On the other hand, acid-fast staining can be used to confirm the diagnosis, as only mycobacteriaare acid fast, whereas Tropheryma whipplei is not.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q7_img1_a0682870.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_e6f6f34c.jpeg",
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 8,
+      "question": "1023A 2-year-old boy was brought by his parents with complaints of vomiting, watery diarrhea,and fever. A rapid ELISA test for rotavirus was positive. Which of the following viral proteinscauses damage to the intestinal epithelium?",
+      "options": {
+        "A": "NSP1",
+        "B": "NSP2",
+        "C": "NSP3",
+        "D": "NSP4"
+      },
+      "correct_answer": "D",
+      "explanation": "Rotavirus damages the intestinal epithelium by a viral factor called non-structural protein 4(NSP4), which can induce epithelial apoptosis.Rotavirus is a common cause of severe childhood diarrhea and diarrheal mortality worldwide.Rotavirus selectively infects and destroys mature enterocytes in the small intestine. This causesrepopulation of the villus surface by immature secretory cells.1030",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is the most common parasitic pathogen in humans?",
+      "options": {
+        "A": "Roundworm",
+        "B": "Hookworm",
+        "C": "Plasmodium",
+        "D": "Giardia"
+      },
+      "correct_answer": "D",
+      "explanation": "Giardia lamblia is the most common parasitic pathogen in humans.The following image shows teardrop (pear)-shaped Giardia with paired nuclei:7",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_327d6897.jpeg",
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 10,
+      "question": "A 55-year-old man who presented with diarrhea and flushing was found to have an ilealtumor. The histological image of the resected specimen is given below. Which of the followingmarkers will these cells be positive for?",
+      "options": {
+        "A": "C-KIT1024",
+        "B": "S-100",
+        "C": "Synaptophysin",
+        "D": "DOG1"
+      },
+      "correct_answer": "C",
+      "explanation": "The given history and histological image are diagnostic of ileal carcinoid. The tumor cells aretypically positive for synaptophysin on immunohistochemistry.Histology of carcinoid typically reveals islands and nests of uniform cells with scant, pink granularcytoplasm and salt and pepper chromatin. Electron microscopy reveals cytoplasmic dense-coreneurosecretory granules.Carcinoid tumor1031Carcinoid tumorSalt and pepperchromatinPink granularcytoplasmCarcinoid tumors most commonly occur in the gastrointestinal tract. The most common sites indecreasing order of frequency are the appendix, ileum, and rectum. These tumors may causecarcinoid syndrome, which is characterized by cutaneous flushing, sweating, bronchospasm,colicky abdominal pain, diarrhea, and right-sided cardiac valvular fibrosis.Immunohistochemical (IHC) markers for carcinoid tumors are:•Neuron-specific enolase•Synaptophysin• Chromogranin A• Leu 7",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q10_img1_707cfd2d.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp10_img1_f8793226.jpeg",
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 11,
+      "question": "A 10 month old infant is brought to the OPD with complaints of intractable diarrhea. His pasthistory is significant for autoimmune thyroiditis. On examination, eczematous rashes wereseen on the chest and back. Sequencing of which of the following genes would help to arriveat a definitive diagnosis?",
+      "options": {
+        "A": "PTPN22",
+        "B": "FOXP3",
+        "C": "MTP",
+        "D": "CETP"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario is suggestive of autoimmune enteropathy or IPEX syndrome. Definitivediagnosis requires gene sequencing to identify mutations in the FOXP3 gene.FOXP3 is a transcription factor expressed in CD4+ regulatory T cells.Autoimmune enteropathy is an X-linked disorder characterized by severe persistent diarrhea andautoimmune disease in young children. A particularly severe familial form is termed IPEX anacronym denoting immune dysregulation, polyendocrinopathy, enteropathy, and X-linkedinheritance.The classic presentation of IPEX is a triad of:• Failure to thrive with severe chronic diarrhea due to an autoimmune enteropathyAutoimmune endocrinopathy (neonatal type 1 diabetes or thyroiditis)• Dermatitis (usually eczematous)1032",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Small Intestine"
+    },
+    {
+      "q_no": 12,
+      "question": "A 7-day-old infant was brought with complaints of profuse watery diarrhea and severedehydration. On detailed evaluation, labs showed metabolic acidosis and electron microscopyof small bowel biopsy showed characteristic intracellular microvillus inclusions. Mutations inwhich of the following genes is associated with this condition?",
+      "options": {
+        "A": "Microsomal triglyceride transfer protein",
+        "B": "MYO5B",
+        "C": "SMAD4",
+        "D": "FOXP3"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario is suggestive of microvillus inclusion disease (MVID) which is associated withMYO5B gene mutations.Microvillus inclusion disease or Davidson disease is an autosomal recessive disorder due tomutations of MYO5B gene. This gene encodes a motor protein that is required for the transport ofnormal nutrients, ions, water, and plasma membrane components. Hence, it leads to defectivevesicular transport that causes deficient brush-border assembly.Clinical features of MVID are:•Profuse watery, secretory diarrhea - before 3 months of age (often in the first few days of life)• Metabolic acidosis.• Hypotonic dehydrationDiagnosis of MVID include:• Electron microscopy -• Inclusion containing microvilli in the apical cytoplasm of the intestinal cells.• Brush border microvilli are poorly developed with only a few/blunted microvilli•• Immunostaining of villin (the brush border protein)⚫ CD10 immunohistochemistry to detect microvillus inclusions•Treatment is total parenteral nutrition and small bowel transplantation.The following electron microscopy image shows characteristic intracytoplasmic inclusions that arelined by intact microvilli along the absorptive surfaces of the intestinal cells.Inclusion containingmicrovilli, withinapical cytoplasmof the cellApical surface withfew/bluntedmicrovilli1033",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp12_img1_17c1dca4.jpeg",
+      "chapter_heading": "Small Intestine"
+    }
+  ]
+}

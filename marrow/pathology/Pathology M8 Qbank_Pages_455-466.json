@@ -1,0 +1,245 @@
+{
+  "chapter": "Acute Lymphocytic Leukemia (ALL)",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of these is not a pre-leukemic condition?",
+      "options": {
+        "A": "Paroxysmal nocturnal hemoglobinuria",
+        "B": "Aplastic anemia",
+        "C": "Myelodysplastic syndrome",
+        "D": "Paroxysmal cold hemoglobinuria"
+      },
+      "correct_answer": "C",
+      "explanation": "Paroxysmal cold hemoglobinuria is not a preleukemic condition.It is an autoimmune hemolytic anemia due to IgG autoantibodies that bind to the P blood groupantigen and cause intravascular hemolysis and hemoglobinuria. Most cases are seen in childrenand show recovery within a month.Option A: Few patients with paroxysmal nocturnal hemoglobinuria (PNH) develop acutenon-lymphocytic leukemia. This is thought to arise from the injured marrow as a secondaryhematopoietic disorder.Option B: Bone marrow aplasia preceding acute lymphoblastic leukemia (ALL) is a rare conditionthat usually affects children. It generally follows the recovery of normal blood counts and mostcommonly occurs within 6 months of the onset of aplasia.Option C: Acute myeloid leukemia (AML) occurs in 10% to 40% of individuals withmyelodysplastic syndromes (MDS). It is usually accompanied by the appearance of additionalcytogenetic abnormalities.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is true about the pathogenesis of acute leukemia?",
+      "options": {
+        "A": "Arrest in differentiation and increased apoptosis",
+        "B": "Enhanced differentiation and decreased apoptosis",
+        "C": "Enhanced differentiation and increased apoptosis",
+        "D": "Arrest in differentiation and decreased apoptosis"
+      },
+      "correct_answer": "D",
+      "explanation": "In acute leukemia, there is an arrest in differentiation and decreased apoptosis.Genomic aberrations create oncoproteins. They arrest normal maturation, turn on pro-growthsignaling pathways, or protect cells from apoptotic death.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 3,
+      "question": "As per WHO classification, what percentage of blast cells in bone marrow biopsy is required to diagnose a patient with acute leukemia?",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "25",
+        "D": "30"
+      },
+      "correct_answer": "B",
+      "explanation": "As per WHO classification, 20% of blast cells must be present in the bone marrow and/or peripheral smear for the diagnosis of acute leukemia. In FAB criteria, the cut-off is more than 30%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following conditions does not increase the risk of acute lymphoblastic leukemia?",
+      "options": {
+        "A": "Bloom syndrome",
+        "B": "Li-Fraumeni syndrome455",
+        "C": "Fanconi anemia",
+        "D": "Polycythemia vera"
+      },
+      "correct_answer": "D",
+      "explanation": "Polycythemia vera increases the risk of developing AML, not ALL.Inherited diseases that are associated with a higher risk of developing leukemias are:• Bloom syndrome• Fanconi anemia•Ataxia-telangiectasia• Down syndrome• Type-1 neurofibromatosis461Other germline risk factors for the development of ALL:• Li-Fraumeni syndrome• Familial ALL syndromeNote: AML has a higher incidence during the neonatal period than ALL among children withFanconi anemia, Bloom syndrome, and Down syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is the most common type of acute lymphoblastic leukemia?",
+      "options": {
+        "A": "Pre B cell",
+        "B": "B cell",
+        "C": "T cell",
+        "D": "Pre T cell"
+      },
+      "correct_answer": "A",
+      "explanation": "Precursor B-cell or pre B cell (previously classified as L1) type is the most common subtype ofacute lymphoblastic leukemia (ALL).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is not a primary T-cell marker?",
+      "options": {
+        "A": "CD1",
+        "B": "CD5",
+        "C": "CD8",
+        "D": "CD10"
+      },
+      "correct_answer": "D",
+      "explanation": "CD10 is not a primary marker of T cells. It is a marker of pre-B cells and germinal-center B cells.Note: Although CD10/ Common ALL antigen (CALLA) can be found in B-ALL and T-ALL, it isprimarily expressed by pre-B cells and germinal centre B cells. Lymphoblasts of both B and T celllineages, express CD10 that is lost upon progression to a mature phenotype. It is variablyexpressed by a few mature B cell tumours. However, the expression of CD10 by mature T cells hasnot been well established.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 7,
+      "question": "Block-like positivity for PAS on immunohistochemistry of a bone marrow sample is seen.Which of the following cells show this finding?",
+      "options": {
+        "A": "Lymphoblast",
+        "B": "Myeloblast",
+        "C": "Monoblast",
+        "D": "Erythroblast"
+      },
+      "correct_answer": "A",
+      "explanation": "Lymphoblasts in acute lymphocytic leukemia (ALL) show block-like or dot-like PAS positivity.Erythroblasts in acute myeloid leukemia-M6 (AML-M6) show diffuse periodic acid-Schiff (PAS)positivity.The image given below shows dot-like positivity for periodic acid-Schiff (PAS) in lymphoblasts.462",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_36ee4cff.jpeg",
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following cells does not stain positively with Sudan black?",
+      "options": {
+        "A": "Lymphocytes",
+        "B": "Myeloblasts456",
+        "C": "Eosinophils",
+        "D": "Promyelocytes"
+      },
+      "correct_answer": "A",
+      "explanation": "Lymphocytes do not stain positively with Sudan black dye. Although some positivity may be seenin azurophilic granules of lymphoblasts.Sudan Black B (SBB) is a lipophilic dye that binds irreversibly to an undefined granule componentin granulocytes, eosinophils, and some monocytes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the most commonly affected gene in patients with T-cell acute lymphoblasticleukemia?",
+      "options": {
+        "A": "NOTCH1",
+        "B": "PAX5",
+        "C": "ETV6",
+        "D": "RUNX1"
+      },
+      "correct_answer": "A",
+      "explanation": "The most commonly affected gene in T-cell acute lymphoblastic leukemia (T-ALL) is NOTCH1.B-cell acute lymphoblastic leukemia is associated with mutations of genes such as PAX5, E2A, andEBF. It may be associated with balanced t(12;21) involving the genes ETV6 and RUNX1.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient with acute lymphoblastic leukemia is found to have t(9;22). What will be the size ofBCR-ABL fusion protein produced?",
+      "options": {
+        "A": "210 kDa",
+        "B": "190 kDa",
+        "C": "230 kDa",
+        "D": "170 kDa"
+      },
+      "correct_answer": "B",
+      "explanation": "The size of BCR-ABL protein in t(9;22) associated with acute lymphoblastic leukemia (ALL) is 190kDa.BCR-ABL fusion transcript protein with t(9;22):• Major BCR (M-BCR) 210 kDa size in chronic myeloid leukemia (CML) with weaker tyrosinekinase activity•Minor BCR (m-BCR) 190 kDa size in acute lymphoblastic leukemia (ALL) with stronger tyrosinekinase activity463• Micro BCR (μ-BCR) 230 kDa size in myeloproliferative neoplasm (MPN) withexuberant neutrophilia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 11,
+      "question": "On immunophenotyping of a patient with early pre-B acute leukemia, which of the followingmarker will be negative?",
+      "options": {
+        "A": "TdT",
+        "B": "DR",
+        "C": "CD19",
+        "D": "Cytoplasmic immunoglobulin"
+      },
+      "correct_answer": "D",
+      "explanation": "Cytoplasmic immunoglobulins and CD10 are negative in early pre-B acute leukemia but becomepositive in pre-B ALL.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is not usually involved in the immunohistochemistry of acutelymphoblastic leukemia?457",
+      "options": {
+        "A": "Tdt",
+        "B": "CD1a",
+        "C": "CD3",
+        "D": "Cytokeratin"
+      },
+      "correct_answer": "D",
+      "explanation": "Cytokeratin is not a marker of acute lymphoblastic leukemia (ALL). It is an epithelial cell markerfor thymoma.Tdt, CD1a, and CD3 are markers of ALL.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 13,
+      "question": "A 10-year-old boy with fever, weight loss came to the hospital. On examination, he was paleand had significant lymphadenopathy. The bone marrow histology of the person is as givenbelow. Your diagnosis is?",
+      "options": {
+        "A": "Acute monocytic leukemia",
+        "B": "Acute myelomonocytic leukemiaAcute lymphoblastic leukemiad) Juvenile myelomonocytic leukemiaQuestion 14:An adolescent male patient presents with fatigue. His total leucocyte count is 138 x 10^9 / Lwith 80% blasts on the peripheral smear. Chest X-ray shows a large mediastinal mass. Thebone marrow aspirate is as shown below. What would the immunophenotyping of thispatient's blasts most likely demonstrate?458a) Pre B-cell phenotypeb) Immature T-cell phenotype",
+        "C": "Myeloid phenotype",
+        "D": "Mature B-cell phenotype09"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario with bone marrow histology showing lymphoblasts (condensed nuclearchromatin, small nucleoli, scanty agranular cytoplasm) is suggestive of acute lymphoblasticleukemia.ALL is more common in childhood. Clinical features of ALL include:• Bone marrow failure anemia, fever, infections, bleeding-• Mass effects due to neoplastic infiltration - bone pain, generalized lymphadenopathy,splenomegaly, hepatomegaly, and testicular enlargement• CNS manifestations - headache, vomiting, and nerve palsies• B-ALL - Pancytopenia due to marrow involvement⚫T-ALL - Mediastinal mass, compression of large vessels and airways in the mediastinum,lymphadenopathy, splenomegaly",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q13_img1_c76a6c8b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 15,
+      "question": "In a patient with acute leukemia, the immunophenotype pattern of the blasts is positive forCD10, CD13, CD19, and CD33. What is the most probable diagnosis?",
+      "options": {
+        "A": "Acute lymphoblastic leukemia",
+        "B": "Biphenotypic leukemia",
+        "C": "Acute myeloid leukemia - M1",
+        "D": "Acute myeloid leukemia - M3"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario points to the diagnosis of acute lymphoblastic leukemia (ALL) based onimmunophenotyping.CD10 and CD19 are markers for B-cell lineage and this patient most probably have B-ALL.Although CD13 and CD33 are myeloid antigens, their expression does not exclude the diagnosis ofB- ALL.Option B: The diagnosis of mixed phenotypic acute leukemia (MPAL)/ acute leukemia ofambiguous lineage (ALAL) (previously known as biphenotypic leukemia) requires a demonstrationof multiple lineages in blast cells. According to WHO's latest update (2022), the requirements forassigning more than one lineage to blast cells are:In the absence of MPO or evidence of monocytic differentiation, expression of CD13 and CD33 isnot sufficient for a diagnosis of MPAL. Hence, biphenotypic leukemia is not the answer here.B cell lineageT cell lineageMyeloid lineageCD19 strong:≥1 expressed CD10, CD22, CD79aCD 19 weak:≥ 2 or more strongly expressed CD10, CD22, CD79aCD3 positiveMyeloperoxidase (MPO)ORMonocyte differentiation (non-specific esterase, CD11c, CD14, CD64, lysozyme)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient with weight loss and fever is diagnosed with acute lymphoblastic leukemia. Whichof the following is a good prognostic indicator of this condition?",
+      "options": {
+        "A": "MLL gene translocation",
+        "B": "t (12;21)",
+        "C": "t(9;22)",
+        "D": "Hypodiploidy459"
+      },
+      "correct_answer": "B",
+      "explanation": "The presence of t (12;21) indicates a good prognosis in acute lymphoblastic leukemia (ALL). Itinvolves genes ETV6 and RUNX1.Conversely, a translocation involving the MLL gene, t(9;22), and hypodiploidy are associated witha bad prognosis.465",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    },
+    {
+      "q_no": 17,
+      "question": "Bone marrow biopsy of a patient shows &gt; 20% immature blasts with scanty cytoplasm, nogranules, and inconspicuous nucleoli. They also stain positive with PAS. Which of thefollowing are good prognostic markers of this condition?",
+      "options": {
+        "A": "2, 3, and 5",
+        "B": "1, 3, and 4",
+        "C": "2, 4, and 5",
+        "D": "1, 2, and 5"
+      },
+      "correct_answer": "D",
+      "explanation": "The given bone marrow biopsy report is suggestive of acute lymphoblastic leukemia (ALL). Thegood prognostic markers of ALL include trisomy 7, hyperdiploidy, and age of 5 years.466",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Lymphocytic Leukemia (ALL)"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "chapter": "Vasculitis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is a large vessel vasculitis?",
+      "options": {
+        "A": "Giant cell arteritis",
+        "B": "Behcet's syndrome",
+        "C": "Cogan's syndrome",
+        "D": "Cryoglobulinemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Giant cell arteritis is a large vessel vasculitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 2,
+      "question": "All of the following vasculitides involve veins except?",
+      "options": {
+        "A": "Thromboangiitis obliterans",
+        "B": "Behcet's disease",
+        "C": "Leukocytoclastic vasculitis",
+        "D": "Giant cell arteritis"
+      },
+      "correct_answer": "D",
+      "explanation": "Giant cell arteritis does not involve the veins. Vasculitides affecting the veins are as follows: • Leukocytoclastic vasculitis • Behcet's disease • Buerger disease (Thromboangiitis obliterans)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 3,
+      "question": "A 60-year-old man presents with sudden onset blindness. He gives a history of frequent headaches along the sides of his scalp. What is the most probable diagnosis?",
+      "options": {
+        "A": "Thromboangiitis obliterans",
+        "B": "Granulomatosis with polyangiitis",
+        "C": "Takayasu arteritis",
+        "D": "Giant cell arteritis"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of giant cell arteritis. Giant cell temporal arteritis is a chronic inflammatory disorder of large to small-sized arteries that especially affects the temporal arteries. It is seen in people over 50 years of age. It usually presents with facial pain or headache along the course of the superficial temporal artery. It can also affect: • Ophthalmic arteries - leading to sudden onset diplopia or blindness • Aorta - leading to giant-cell aortitis • Vertebral arteries. A biopsy is needed to confirm the diagnosis. Giant cell arteritis needs to be promptly diagnosed and treated with steroids to prevent permanent blindness.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 4,
+      "question": "An elderly patient presented with temporal headache and jaw claudication. She was diagnosed to be a case of Giant cell arteritis. Which of the following statements about giant cell arteritis is incorrect?",
+      "options": {
+        "A": "Inflammatory lesions are focally distributed",
+        "B": "A negative biopsy excludes the diagnosis",
+        "C": "The classic lesions are medial granulomas",
+        "D": "Fragmentation is seen in the internal elastic lamina"
+      },
+      "correct_answer": "B",
+      "explanation": "A negative biopsy cannot exclude the diagnosis of giant cell arteritis. It is because the lesions are focally distributed. A biopsy sample may be taken from the normal part of the artery leading to a false-negative report. An adequate biopsy requires at least a 1-cm segment. Biopsy findings: • Giant cell arteritis is primarily medial granulomatous inflammation. • These lesions involve the internal elastic lamina leading to elastic lamina fragmentation. • There is intimal thickening that reduces the luminal diameter. Granulomas with multinucleated giant cells, infiltrate of T cells (CD4+ > CD8+), and macrophages. Note: According to the 21st edition of Harrison's Medicine, as involvement of the vessel may be segmental, getting a biopsy segment of 3-5 cm together with serial sectioning of biopsy specimens would help to increase a positive yield. And Robbin's 10th edition mentions that an adequate biopsy requires at least a 1-cm segment.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_12a6402d.jpeg",
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 5,
+      "question": "A 30-year-old lady presents with weakness of the left upper limb. On examination, the blood pressure recorded on the left upper limb was found to be lower than that of the right upper limb. Her aortic arch angiogram showed narrowing of the arch of the aorta and subclavian artery. What is the likely diagnosis?",
+      "options": {
+        "A": "Giant-cell arteritis",
+        "B": "Takayasu arteritis",
+        "C": "Thromboangiitis obliterans",
+        "D": "Behcet's Disease"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario and radiological findings are suggestive of Takayasu arteritis. Takayasu's arteritis is a granulomatous vasculitis affecting medium and large-sized arteries, in this case, the aortic arch and its branches. Clinical manifestations include vision disturbances and profound weakening of the pulses, especially in the upper extremities. Histopathology: • Irregular thickening of the vessel wall is seen with associated intimal hyperplasia. • Characteristic granulomatous inflammation, with the presence of giant cells and patchy medial necrosis. • Disease progression is associated with collagenous scarring and chronic inflammatory infiltrates across all layers of the vessel wall. Other options - Option A: Giant cell arteritis (GCA), also known as temporal arteritis, is an inflammation of medium and large-sized vessels. It is more common in women and people aged >50 years. The clinical features include headache associated with scalp pain and jaw claudication, fever, fatigue, malaise, and weight loss. Half of the patients have temporal artery abnormalities such as enlargement, tenderness, nodular swelling, and loss of pulse of the temporal artery, either unilateral or bilateral. Gentle pressure on the scalp may elicit focal or generalized tenderness. Though the arch of the aorta may also be involved in giant cell arteritis (known as giant cell aortitis), it is seen in people more than 50 years of age. Whereas, Takayasu arteritis is seen more commonly in adolescents and young women. Option C: Thromboangiitis obliterans, also known as Buerger's disease, is an inflammatory occlusive vascular disorder involving medium- and small-sized vessels in the distal extremities. It is most frequently seen in male smokers less than 40 years of age. Option D: Behcet's disease is a neutrophilic vasculitis affecting small- to medium-sized vessels that classically presents as a clinical triad of recurrent oral aphthous ulcers, genital ulcers, and uveitis. There can also be gastrointestinal and pulmonary manifestations, with disease mortality related to severe neurologic involvement or rupture of vascular aneurysms.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 6,
+      "question": "A young girl with bilaterally unequal pulses is diagnosed with Takayasu Arteritis. Which of the following is the most commonly involved site in Takayasu arteritis?",
+      "options": {
+        "A": "Pulmonary artery",
+        "B": "Coronary arteries",
+        "C": "Abdominal aorta",
+        "D": "Subclavian artery"
+      },
+      "correct_answer": "D",
+      "explanation": "The most commonly involved blood vessel in Takayasu arteritis is the subclavian artery. Takayasu arteritis is an inflammatory and stenotic disease of medium and large-sized arteries characterized by a strong predilection for the aortic arch and its branches. It is also known as aortic arch syndrome. The order of arteries affected in Takayasu arteritis is subclavian artery > common carotid artery > abdominal aorta > renal artery > aortic arch = vertebral > coeliac axis > iliac > pulmonary > coronary artery. Takayasu arteritis causes irregular thickening of the vessel wall with intimal hyperplasia leading to narrowing of the lumen and organ ischemia. It may have various clinical presentations depending on the vessel involved: Arch of aorta and its branches: Subclavian artery - leads to weak pulses in the upper extremities. Hence, it is also known as pulseless disease. Carotid arteries - lead to weak pulses, blindness, neurological deficits. Distal aorta - leads to claudication of the legs. Pulmonary artery - leads to pulmonary hypertension. Coronary arteries - lead to myocardial infarction. Renal arteries - lead to systemic hypertension.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 7,
+      "question": "A young male presents to the emergency room with severe abdominal pain. The small bowel is found to have a small infarcted area which is surgically removed. Histopathological examination of the biopsy specimen is given below. Which of the following is the most likely cause of the small bowel infarction?",
+      "options": {
+        "A": "Hyperplastic arteriosclerosis",
+        "B": "Cystic medial degeneration",
+        "C": "Mönckeberg's arteriosclerosis",
+        "D": "Polyarteritis nodosa"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario and the histopathological findings are suggestive of polyarteritis nodosa (PAN). PAN affects small or medium-sized muscular arteries. It typically affects young adults. The patient may present with rapidly accelerating hypertension due to renal artery involvement (most common) or abdominal pain and bloody stools caused by involvement of gastrointestinal vessels. Option A: Hyperplastic arteriosclerosis is a vascular pathology seen in severe hypertension. Option B: Cystic medial degeneration leads to dissecting aortic aneurysm. Option C: Mönckeberg's arteriosclerosis does not cause infarction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q7_img1_b64b69c3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is characteristically spared in polyarteritis nodosa?",
+      "options": {
+        "A": "Coronary circulation",
+        "B": "Gastrointestinal circulation",
+        "C": "Renal circulation",
+        "D": "Pulmonary circulation"
+      },
+      "correct_answer": "D",
+      "explanation": "Polyarteritis nodosa (PAN) characteristically spares the pulmonary circulation. PAN is a systemic vasculitis of small or medium-sized muscular arteries. It typically involves the renal (most commonly involved) and visceral vessels. It has no association with ANCA, but about 30% of patients have chronic hepatitis B.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 9,
+      "question": "A 3-year-old child was brought to the hospital with complaints of fever, rash, and swelling of her hands and feet since the past 5 days. There is desquamative skin rash, edema of hands and feet, erythema of palms and soles, oral erythema, and cervical lymphadenopathy. What is the likely condition?",
+      "options": {
+        "A": "Kawasaki disease",
+        "B": "Measles",
+        "C": "Scarlet fever",
+        "D": "Henoch-Schönlein Purpura"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of Kawasaki disease or mucocutaneous lymph node syndrome. Kawasaki disease is an acute febrile illness associated with arteritis of medium to large-sized vessels. It is commonly seen in infants and children <4 years of age. Clinical features include: • Fever • Conjunctival and oral erythema • Blistering, edema of hands and feet • Erythema of palms and soles • Desquamative rash • Cervical lymphadenopathy. The disease is usually self-limiting. In some cases, the disease may involve the coronary artery leading to thrombosis and acute myocardial infarction. Intravenous immunoglobulin and aspirin may be given to reduce the risk of coronary artery disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following antibodies is associated with vasculitis seen in patients with Kawasaki disease?",
+      "options": {
+        "A": "Immune complex deposition",
+        "B": "Antineutrophil cytoplasmic antibodies",
+        "C": "Antiendothelial cell antibodies",
+        "D": "Autoreactive T cells"
+      },
+      "correct_answer": "C",
+      "explanation": "Antibodies to endothelial cells are associated with vasculitis in Kawasaki disease. Option A: Immune complex deposition is characteristic of vasculitis due to systemic immunologic disorders such as SLE. Option B: ANCA-associated vasculitis is seen in microscopic polyangiitis, Churg-Strauss syndrome, and granulomatosis with polyangiitis. Option D: Autoreactive T cells are seen in giant cell arteritis. Reports have been described in children with a multisystem inflammatory condition (MIS-C) linked to COVID-19 infection with some features similar to Kawasaki disease and toxic shock syndrome. Although shock is rarely associated with Kawasaki disease, many children with the inflammatory syndrome related to COVID show signs of shock.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is known as mucocutaneous lymph node syndrome?",
+      "options": {
+        "A": "Behcet disease",
+        "B": "Kawasaki disease",
+        "C": "Espundia",
+        "D": "Tubercular lymphadenitis"
+      },
+      "correct_answer": "B",
+      "explanation": "Kawasaki disease is also known as mucocutaneous lymph node syndrome. Kawasaki disease is an acute febrile illness occurring in children aged 4 years or younger. It is usually self-limiting. This vasculitis affects large to medium-sized vessels and even small vessels. It is also known as mucocutaneous lymph node syndrome because it can present with non-purulent conjunctivitis, oral erythema, edema of the hands and feet, desquamative rash, and cervical lymph node enlargement. It has a predilection for coronary artery involvement and is the leading cause of acquired heart disease in children. Untreated patients may develop coronary artery ectasia or aneurysms, leading to rupture or thrombosis, myocardial infarction, and sudden death. Espundia is the mucocutaneous variant of Leishmaniasis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 12,
+      "question": "A 27-year-old woman, presented to the OPD with complaints of joint pain and photosensitivity. On examination, you see a butterfly rash on the face and petechial hemorrhages on the lower limbs. On serology, ANA turns out to be positive. Which of the following is the most likely cause of vasculitis in this patient?",
+      "options": {
+        "A": "Autoreactive T cells",
+        "B": "Anti-endothelial cell antibodies",
+        "C": "Antineutrophil cytoplasmic antibodies",
+        "D": "Immune complex deposition"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of systemic lupus erythematosus. The vasculitis occurring in a patient with systemic lupus erythematosus is due to immune complex deposition. Vasculitis is the inflammation of the vessel wall. The various mechanisms that cause vasculitis are: immune-mediated inflammation - vasculitis caused by immune-mediated inflammation may occur due to the following factors: immune complex deposition, seen in systemic immunological disorders like systemic lupus erythematosus (SLE); antineutrophil cytoplasmic antibodies (ANCA), seen in Wegener's granulomatosis, Churg-Strauss disease, etc.; anti-endothelial cell antibodies, implicated in Kawasaki disease; autoreactive T cells; infectious pathogens, by direct invasion, generating immune complexes or triggering cross-reactivity; physical or chemical injury, from irradiation, trauma, toxins, etc.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 13,
+      "question": "A 43-year-old male patient came to the clinic with complaints of occasional hematuria and recurrent upper respiratory tract infections. Examination revealed tiny petechial hemorrhages over his lower limbs. The patient tests positive for the anti-proteinase-3 antibody. Which of the following is true about this major antibody?",
+      "options": {
+        "A": "It is also known as p-ANCA",
+        "B": "It is induced by propylthiouracil",
+        "C": "It is triggered by infections",
+        "D": "It shows perinuclear staining on immunofluorescence"
+      },
+      "correct_answer": "C",
+      "explanation": "Anti-proteinase-3/PR3-ANCA / c-ANCA is triggered by certain infections as proteinase 3 shares similarities with many microbial peptides. This is the major antibody responsible for Granulomatosis with Polyangiitis (GPA). Antineutrophil cytoplasmic antibodies (ANCA) are a heterogeneous group of autoantibodies directed against the constituents of neutrophils or monocytes. Many patients with vasculitis have circulating antibodies that react with neutrophil cytoplasmic antigens. The two most important ANCAs related to vasculitis are: \n   • Anti-proteinase-3/PR3-ANCA/c-ANCA - Directed against PR3, which is a neutrophil azurophilic granule constituent.\n   • Anti-myeloperoxidase/MPO-ANCA/p-ANCA - Directed against MPO, which is a lysosomal granule constituent involved in oxygen free-radical generation. MPO-ANCAs are induced by several therapeutic agents, particularly propylthiouracil.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following is a pauci-immune rapidly progressive glomerulonephritis?",
+      "options": {
+        "A": "Lupus nephritis",
+        "B": "Microscopic polyangiitis",
+        "C": "IgA nephropathy",
+        "D": "Goodpasture syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Type III or pauci-immune-type of rapidly progressive glomerulonephritis (RPGN) may be a component of systemic vasculitis such as Wegener granulomatosis or microscopic polyangiitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following statements about microscopic polyangiitis is not true?",
+      "options": {
+        "A": "It affects capillaries, small arterioles, and venules",
+        "B": "MPO-ANCA positivity is seen",
+        "C": "It is also known as leukocytoclastic vasculitis",
+        "D": "Lesions of different stages of activity coexist in the same vessel"
+      },
+      "correct_answer": "D",
+      "explanation": "All lesions of microscopic polyangiitis tend to be of the same age in any given patient, unlike polyarteritis nodosa where all stages of activity from early to late may coexist in different vessels or even within the same vessel. Microscopic polyangiitis is a necrotizing vasculitis that affects capillaries, small arterioles, and venules. It is associated with MPO-ANCA. It is also called leukocytoclastic vasculitis because of apoptotic neutrophils. It may involve the skin, mucous membranes, lungs, brain, heart, gastrointestinal tract, kidneys, and muscle. Therefore, the patient may present with hemoptysis, hematuria, proteinuria, bowel pain or bleeding, muscle pain or weakness, and palpable cutaneous purpura. Necrotizing glomerulonephritis (90% of patients) and pulmonary capillaritis are particularly common.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 16,
+      "question": "A 21-year-old boy, who is a known case of asthma, presents with wheezing and rhinitis. Laboratory results show peripheral eosinophilia and antibodies against neutrophil myeloperoxidase. What is the most likely diagnosis?",
+      "options": {
+        "A": "Churg-Strauss syndrome",
+        "B": "Granulomatosis with polyangiitis",
+        "C": "Goodpasture syndrome",
+        "D": "Wegener granulomatosis"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario and the lab findings are suggestive of Churg-Strauss syndrome. Churg-Strauss Syndrome / Allergic granulomatosis and angiitis is a small-vessel necrotizing vasculitis classically associated with: asthma, allergic rhinitis, asymmetric mono neuritis multiplex, lung infiltrates, peripheral hypereosinophilia, and extravascular necrotizing granulomata. It is a multisystem disease with cutaneous involvement (palpable purpura), gastrointestinal tract bleeding, and renal disease. Eosinophilic infiltrates may also be seen in the myocardium giving rise to cardiomyopathy. p-ANCA (MPO-ANCA) is positive in about 50% of cases. Histological features are similar to those observed in polyarteritis nodosa (PAN) or microscopic polyangiitis but characteristically accompanied by granulomas and eosinophils. Eosinophilic vasculitis seen in Churg-Strauss syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 17,
+      "question": "A 45-year-old man presents with hematuria, intermittent hemoptysis, and chronic sinusitis. His chest radiograph shows multiple opacities and cavities. Renal biopsy suggests focal necrotizing glomerulonephritis. Which of the following is not seen in this condition?",
+      "options": {
+        "A": "Necrotizing granulomas of the upper respiratory tract",
+        "B": "Small to medium-sized vessel vasculitis",
+        "C": "Associated predominantly with MPO-ANCA",
+        "D": "Crescentic glomerulonephritis"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario suggests a diagnosis of Wegener's granulomatosis. It is associated with PR3-ANCA (and not MPO-ANCA) in about 95% of cases. Granulomatosis with Polyangiitis/Wegener granulomatosis is a necrotizing vasculitis characterized by a triad of necrotizing inflammation: • Necrotizing granulomas of the upper respiratory tract or the lung • Necrotizing or granulomatous vasculitis affecting small to medium-sized vessels, most prominently in the lungs • Focal necrotizing crescentic glomerulonephritis. Males are affected more often than females. The most common clinical features include persistent pneumonitis with bilateral nodular and cavitary infiltrates, chronic sinusitis, mucosal ulcers of the nasopharynx, and evidence of renal disease.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp17_img1_2edaa0e6.jpeg",
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 18,
+      "question": "A 15-year-old boy comes to the clinic complaining about recurrent painful oral ulcers. He also experiences repeated episodes of eye redness and pain which subside with medication. On examination, ulcers are seen on his genitals. Which of the following features would you not expect to see in this patient? a) Dural sinus thrombosis b) Pulmonary aneurysms c) Nailfold capillary abnormalities d) Uveitis",
+      "options": {
+        "A": "Dural sinus thrombosis",
+        "B": "Pulmonary aneurysms",
+        "C": "Nailfold capillary abnormalities",
+        "D": "Uveitis"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of Behçet disease. Nail fold capillary abnormalities are typically seen in systemic sclerosis. Behcet disease is a neutrophilic vasculitis affecting small- to medium-sized vessels that classically presents as a clinical triad of recurrent oral aphthous ulcers, genital ulcers, and uveitis. Other skin findings include erythema nodosa (red tender nodules on legs) and positive pathergy test (pustular reaction 24-48 hrs after sterile needle puncture or normal saline injection). There can also be gastrointestinal and pulmonary manifestations, with disease mortality related to severe neurologic involvement or rupture of vascular aneurysms. Dural sinus thrombosis is the most common CNS manifestation in children. Pulmonary aneurysms are the most severe feature of pediatric BD. It is associated with HLA subtype B51. T helper 17 (Th17) cells play an important contribution in the recruitment of neutrophils, which will later infiltrate into the vessel wall.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following structures are involved in Buerger's disease?",
+      "options": {
+        "A": "Arteries only",
+        "B": "Veins only",
+        "C": "Arteries and veins",
+        "D": "Arteries, nerves, and veins"
+      },
+      "correct_answer": "D",
+      "explanation": "Arteries, veins, and nerves can be involved in thrombangiitis obliterans (Buerger's disease). It is a vasculitis of small and medium-sized arteries and secondarily extends into contiguous veins and nerves. With time, all three structures can be encased in fibrous tissue.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 21,
+      "question": "A 32-year-old male smoker presents with intermittent claudication and gangrene of the lower extremities. Biopsy of the blood vessels supplying this area shows acute and chronic inflammation, with luminal thrombosis containing small neutrophilic microabscesses. Granulomatous inflammation appears to extend into the contiguous veins and nerves. What is the most likely diagnosis?",
+      "options": {
+        "A": "Thromboangiitis obliterans",
+        "B": "Churg-Strauss syndrome",
+        "C": "Wegener's granulomatosis",
+        "D": "Berger disease"
+      },
+      "correct_answer": "A",
+      "explanation": "The most likely diagnosis is thromboangiitis obliterans/Buerger disease. It is the segmental, thrombosing, acute and chronic inflammation of medium-sized and small arteries. It principally involves the tibial and radial arteries. It is seen in heavy cigarette smokers, usually before the age of 35 years. HLA-A9 and HLA-B5 are associated with a high risk of TAO. The patients present with intermittent claudication, chronic ulcerations of the extremity, and later progress to frank gangrene. The microscopy findings include luminal thrombosis (thromboangiitis), that is, thrombus containing microabscesses that occlude the lumen (obliterans). They contain small microabscesses composed of neutrophils. Berger disease refers to IgA nephropathy. It is seen within 3-5 days of a sore throat. It is associated with a purpuric rash in the lower limbs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following histologic findings would be most suggestive of Buerger's disease in a patient?",
+      "options": {
+        "A": "Mononuclear infiltrates with perivascular cuffing of the vasa vasorum",
+        "B": "Fragmentation of neutrophils",
+        "C": "Thrombosis with microabscesses",
+        "D": "Fibrinoid necrosis"
+      },
+      "correct_answer": "C",
+      "explanation": "Luminal thrombosis containing small microabscesses composed of neutrophils is seen in thromboangiitis obliterans or Buerger disease. Option A: Adventitial mononuclear infiltrates with perivascular cuffing of the vasa vasorum has been described in Takayasu arteritis. Option B: Fragmented neutrophils undergoing apoptosis infiltrating blood vessels termed leukocytoclastic vasculitis are seen in small vessel vasculitis. Option D: Fibrinoid necrosis is seen in immune reactions involving blood vessels seen in immunologically mediated vasculitis syndromes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vasculitis"
+    }
+  ]
+}

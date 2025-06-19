@@ -1,0 +1,170 @@
+{
+  "chapter": "Congenital and Valvular Heart Disease",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Most congenital heart diseases arise between what weeks of embryogenesis?",
+      "options": {
+        "A": "1 to 4",
+        "B": "3 to 8",
+        "C": "8 to 12",
+        "D": "10 to 14"
+      },
+      "correct_answer": "B",
+      "explanation": "Most congenital heart diseases arise between 3 to 8 weeks of embryogenesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 2,
+      "question": "What congenital heart defect is associated with Char syndrome?",
+      "options": {
+        "A": "Patent ductus arteriosus (PDA)",
+        "B": "Atrial septal defect (ASD)",
+        "C": "Ventricular septal defect (VSD)",
+        "D": "Tetralogy of Fallot (TOF)"
+      },
+      "correct_answer": "A",
+      "explanation": "Char syndrome is associated with patent ductus arteriosus (PDA). The clinical presentation of this syndrome includes PDA with facial dysmorphism and abnormal fifth digits. The following images show the facial dysmorphism associated with Char syndrome.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp2_img1_d9c23a3e.jpeg",
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following cardiac defects is not associated with Down's syndrome?",
+      "options": {
+        "A": "Coarctation of the aorta",
+        "B": "Ventricular septal defect",
+        "C": "Patent ductus arteriosus",
+        "D": "Atrial septal defect"
+      },
+      "correct_answer": "A",
+      "explanation": "Coarctation of the aorta is a feature of Turner's syndrome, not Down's syndrome. Down's syndrome (trisomy 21) is the most common cause of congenital heart disease (CHD). Cardiac defects in Down's syndrome are due to endocardial cushion defects. Cardiac defects in various chromosomal anomalies are as follows: Syndrome: Down's syndrome (Trisomy 21), Cardiac defects: Ventricular septal defect, Patent ductus arteriosus, Atrial septal defect. Patau syndrome (Trisomy 13): Ventricular septal defect, Patent ductus arteriosus, Atrial septal defect. Edward's syndrome (Trisomy 18): Ventricular septal defect. Turner syndrome (Monosomy X): Patent ductus arteriosus, Atrial septal defect, Dextroposition, Bicuspid aortic valve, Coarctation of the aorta, Dilated ascending aorta.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 4,
+      "question": "What is the most common type of atrial septal defect?",
+      "options": {
+        "A": "Primum anomalies",
+        "B": "Secundum ASD",
+        "C": "Sinus venosus defect",
+        "D": "Membranous type"
+      },
+      "correct_answer": "B",
+      "explanation": "Secundum atrial septal defect (ASD) is the most common type of ASD. ASDs are abnormal, fixed openings in the atrial septum caused by incomplete tissue formation that allows communication of blood between the left and right atria. It results in a left-to-right shunt. Excess blood flow through the ASD and/or the pulmonary valve results in a murmur. They are generally well-tolerated and usually do not become symptomatic before the age of 30 years. ASDs are classified according to their location: Secundum ASD (90%) - usually isolated defects, can be of any size, multiple or fenestrated; Primum anomalies (5%) - occur adjacent to the AV valves, often associated with AV valve defects and/or VSD; Sinus venosus defects (5%) - located near SVC entrance and can be associated with anomalous pulmonary venous return to the right atrium.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_eec807d5.jpeg",
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a feature of tetralogy of Fallot?",
+      "options": {
+        "A": "Left ventricular hypertrophy",
+        "B": "Subpulmonary stenosis",
+        "C": "Overriding aorta",
+        "D": "Ventricular Septal Defect"
+      },
+      "correct_answer": "A",
+      "explanation": "Right ventricular hypertrophy (RVH) is a feature of the tetralogy of Fallot (TOF), not left ventricular hypertrophy. The four cardinal features of tetralogy of Fallot are as follows: • Ventricular septal defect (VSD) • Obstruction of the right ventricular outflow tract (subpulmonary stenosis) • An aorta that overrides the VSD. Right ventricular hypertrophy. It is the most common type of cyanotic congenital heart disease (CHD). The heart is typically enlarged and is classically boot-shaped due to marked right ventricular hypertrophy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp5_img1_4787d53f.jpeg",
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 6,
+      "question": "A 5-year-old child was brought to the OPD for evaluation of cognitive impairment. Parents report that the child is overly friendly with strangers. On examination, elfin facies and hypotonia are noted. Investigations reveal hypercalcemia. Which of the following cardiac defects is associated with this syndrome?",
+      "options": {
+        "A": "Ventricular septal defect",
+        "B": "Atrial septal defect",
+        "C": "Aortic stenosis",
+        "D": "Hypoplastic ventricles"
+      },
+      "correct_answer": "C",
+      "explanation": "The given features are suggestive of Williams (Williams-Beuren) syndrome. It is associated with supravalvular aortic stenosis. This condition is due to deletions on chromosome 7, which includes the gene for elastin. These mutations may cause supravalvular stenosis by disrupting elastin-smooth muscle cell interactions during aortic morphogenesis. There is thickening of the ascending aortic wall and consequent luminal constriction. Other features of the syndrome include: • Elfin facies - wide mouth, chubby cheeks, long philtrum, small nose, and delicate chin • Cognitive abnormalities • Intellectual disability (usually mild) • Personality changes - over-friendliness to strangers • Hypotonia • Connective tissue abnormalities • Endocrine abnormalities (hypercalcemia, hypercalciuria, hypothyroidism, early puberty)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp6_img1_a2cc5664.jpeg",
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is the most common cause of mitral stenosis?",
+      "options": {
+        "A": "Rheumatic heart disease",
+        "B": "Calcification",
+        "C": "Atherosclerotic damage",
+        "D": "Infective endocarditis"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common cause of mitral stenosis is rheumatic heart disease. Mitral stenosis is the most common lesion in rheumatic heart disease. In rheumatic mitral stenosis, calcification and fibrous bridging across the valvular commissures create fish mouth or buttonhole stenosis. Rheumatic mitral stenosis is associated with a loud S1. The most common causes of various valvular diseases are: \n   • Aortic stenosis (AS) - calcification due to normal aging or congenitally bicuspid aortic valves\n   • Aortic regurgitation (AR) - dilatation of the ascending aorta, often secondary to hypertension and/or aging\n   • Mitral regurgitation (MR) - myxomatous degeneration (mitral valve prolapse)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 8,
+      "question": "A 42-year-old man presented with chest pain and exertional dyspnea for the past 2 months. He has no history of cardiac disease. Examination revealed an ejection systolic murmur. Transesophageal echocardiography was done, which revealed an aortic valve with 2 functional cusps and a valve area of 0.8 sq. cm. Which of the following is false regarding this condition?",
+      "options": {
+        "A": "Chromosomes 18q, 5q, and 13q are linked",
+        "B": "Loss-of-function mutations in NOTCH1",
+        "C": "It is due to abnormal fusion of valve commissures",
+        "D": "Midline of larger cusp is major site of calcification"
+      },
+      "correct_answer": "C",
+      "explanation": "The clinical scenario and echo findings are suggestive of calcific aortic stenosis secondary to bicuspid aortic valve (2 functional cusps). It is due to incomplete separation of valve commissures during development, not abnormal fusion. In a congenitally bicuspid aortic valve, the 2 functional cusps are usually of unequal size. The larger cusp has a midline raphe that results from incomplete commissural separation during development. The raphe is frequently a major site of calcific deposits. This condition is associated with mutations in the following areas: Chromosomes 18q, 5q, and 13q; Chromosome 9q - loss-of-function mutations in NOTCH1 gene. Late complications include: aortic stenosis or regurgitation, infective endocarditis, aortic dilation and/or dissection, and predisposed to progressive calcification - approximately 50% of cases of aortic stenosis in adults. Note: Acquired bicuspid valves result from abnormal fusion of valve commissures because of an acquired deformity (rheumatic valve disease). It produces a conjoined cusp that is generally twice the size of the nonconjoined cusp.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 9,
+      "question": "A 45-year-old woman who came for a routine check-up was incidentally found to have a late-systolic murmur with a mid-systolic click. Echocardiography revealed thickening and redundancy of mitral leaflets with bulging into the left atrium. Which of the following is not a feature of this condition?",
+      "options": {
+        "A": "Annular dilation",
+        "B": "Myxomatous degeneration",
+        "C": "Degenerative calcified deposits",
+        "D": "Thickening of mural endocardium"
+      },
+      "correct_answer": "D",
+      "explanation": "The clinical features and echocardiography findings are suggestive of mitral valve prolapse (MVP) or Barlow syndrome. It is not associated with thickening of mural endocardium, but rather with degenerative calcified deposits (seen in calcific valvular degeneration, not MVP). Barlow syndrome is more common in females. It may be an isolated condition or less commonly can be associated with connective tissue disorders like Marfan's syndrome. In this condition, there is mitral annular dilatation with floppy mitral valve leaflets. They prolapse or balloon back into the left atrium during systole. The following pathological changes are seen: • Interchordal ballooning (hooding) of the mitral leaflets • Thick, rubbery, redundant leaflets • Thickened spongiosa layer. The main histologic change is marked thickening of the spongiosa layer with deposition of mucoid called myxomatous degeneration. Most individuals diagnosed with MVP are asymptomatic. On auscultation, a mid-systolic click, sometimes followed by a mid to late systolic murmur is heard. Chest pain mimicking angina and dyspnea occur rarely. The complications include: • Infective endocarditis • Mitral insufficiency • Stroke or other systemic infarcts • Arrhythmias • Sudden cardiac death (rarely)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 10,
+      "question": "A 48-year-old man presented with dull aching abdominal pain and diarrhea for the past 2 months. On examination, his face and chest appeared flushed. In a 24-hour urine sample, 5HIAA levels were elevated. CT scan of the abdomen revealed a mass in the terminal ileum. Cardiac involvement in this syndrome is characterized by all of the following except:",
+      "options": {
+        "A": "Endocardial fibrosis",
+        "B": "Tricuspid insufficiency",
+        "C": "Pulmonary stenosis",
+        "D": "Mitral stenosis"
+      },
+      "correct_answer": "D",
+      "explanation": "The clinical scenario is suggestive of carcinoid syndrome. Mitral stenosis is not a feature of cardiac involvement in this condition. Carcinoid heart disease refers to the cardiac manifestations caused by the bioactive compounds released by carcinoid tumors. Classically, the endocardium and valves of the right heart are primarily affected. Findings in carcinoid heart syndrome: • Endocardial plaque-like thickening and fibrosis • Tricuspid insufficiency • Pulmonary stenosis • No valve destruction • Myocardium not involved. The left side of the heart is less commonly affected because the pulmonary vascular bed degrades the mediators. However, left heart carcinoid lesions can occur in the setting of ASD or VSD, or in the case of primary pulmonary carcinoid tumors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    },
+    {
+      "q_no": 11,
+      "question": "Which is the most commonly involved valve in carcinoid heart disease?",
+      "options": {
+        "A": "Mitral",
+        "B": "Tricuspid",
+        "C": "Aortic",
+        "D": "Pulmonary"
+      },
+      "correct_answer": "B",
+      "explanation": "Carcinoid heart disease most commonly affects the tricuspid valve. It usually affects right heart structures. The most common features are tricuspid regurgitation and pulmonary stenosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Congenital and Valvular Heart Disease"
+    }
+  ]
+}

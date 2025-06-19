@@ -1,0 +1,425 @@
+{
+  "chapter": "Syndromes and Histiocytosis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 73-year-old woman presents with chronic fatigue and easy bruising. She has had surgery for ovarian cancer 7 years ago, along with chemoradiation. Her lab reports reveal pancytopenia, and bone marrow biopsy shows the following finding. What is the most probable diagnosis?",
+      "options": {
+        "A": "Aplastic anemia",
+        "B": "Myelodysplastic syndrome",
+        "C": "Acute lymphoblastic leukemia",
+        "D": "Myelophthisic anemia"
+      },
+      "correct_answer": "B",
+      "explanation": "The patient's history of chemotherapy and radiation, combined with the presence of pancytopenia, suggests a diagnosis of myelodysplastic syndrome, which is a condition often associated with prior exposure to chemoradiation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q1_img1_5aa6b651.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_cc621361.jpeg",
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the most common cytogenetic change in children with myelodysplastic syndrome?",
+      "options": {
+        "A": "5q deletion",
+        "B": "Monosomy 5",
+        "C": "7q deletion",
+        "D": "Monosomy 7577"
+      },
+      "correct_answer": "D",
+      "explanation": "588Monosomy 7 is the most common cytogenetic change seen in myelodysplastic syndrome (MDS) inchildren.5q deletion is the most common cytogenetic change seen in MDS in adults.The del(5q) abnormality is the dominant clone in most cases of MDS. This involves the stem-cellcompartment and hence occurs as an early or initiating event in disease pathogenesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of these histopathological findings would you not expect to see in patients with myelodysplastic syndrome?",
+      "options": {
+        "A": "Ringed sideroblast",
+        "B": "Pawn-ball megakaryocyte, Dohle bodies, Pelger-Huet cells",
+        "C": "Image 3",
+        "D": "Image 4"
+      },
+      "correct_answer": "D",
+      "explanation": "Pseudo-Pelger-Huet cells are seen in myelodysplastic syndrome (MDS) and not Pelger-Huet cells. Pelger-Huet cells are seen in Pelger-Huet syndrome, which is due to mutations in the lamin B-receptor gene. It is a neutrophil differentiation disorder with leukocyte appearance as: dumbbell-shaped bilobed nuclei, reduced number of nuclear segments, coarse clumping of the nuclear chromatin. In MDS, pseudo-Pelger Huet cells are seen due to abnormal nuclear budding, i.e., neutrophils with only 2 nuclear lobes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 5,
+      "question": "A 60-year-old man presents with complaints of fatigue, weight loss, and heaviness in the left hypochondrium for 6 months. His hemogram and peripheral smear are given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Chronic lymphocytic leukemia",
+        "B": "Chronic myeloid leukemia",
+        "C": "Acute lymphoblastic leukemia",
+        "D": "Acute myeloid leukemia"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of chronic myelogenous leukemia (CML). In this condition, the peripheral smear contains neutrophils and their precursors of various sizes and configurations, like band cells, myelocytes, metamyelocytes, and blasts. Hence, the histological picture is described as having a 'garden party' or 'college girl' appearance. Chronic myeloid leukemia is a myeloproliferative disorder with peak incidence in the 5th to 6th decades of life. It occurs due to the chimeric BCR-ABL gene. Clinical features of CML include hypermetabolism, fatigability, weakness, weight loss, and anorexia, as well as extensive extramedullary hematopoiesis causing splenomegaly, mild hepatomegaly, and lymphadenopathy. Hematological findings include mild-to-moderate anemia, leukocytosis, and usually increased platelets. The DLC shows predominantly neutrophils, band forms, metamyelocytes, myelocytes, eosinophils, basophils, and blasts (>10%). Note: A 'convent girl' appearance is seen in CLL.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q5_img1_cebd31d5.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp5_img1_dc7d4fab.jpeg",
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 6,
+      "question": "What mutation results in the Philadelphia chromosome?",
+      "options": {
+        "A": "t(9;22)(q11;q34)",
+        "B": "t(22;9)(q11;q34)",
+        "C": "t(22;9)(q34;q11)",
+        "D": "t(9;22)(q34;q11)"
+      },
+      "correct_answer": "D",
+      "explanation": "Philadelphia chromosome results from t(9;22)(q34;q11). It is most commonly seen in chronic myeloid leukemia (CML). CML is due to the formation of a chimeric BCR-ABL gene or Philadelphia chromosome. This gene is derived from a reciprocal translocation (9;22)(q34;q11). The image given below shows the formation of the Philadelphia chromosome. Formation of Philadelphia chromosome: Normal chromosome 9, Changed chromosome 9, ABL, Normal BCR chromosome 22, Chromosomes break, Changed BCR-ABL chromosome 22 (Philadelphia chromosome). This translocation can be identified on fluorescence in situ hybridisation (FISH).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp6_img1_e4e4ff11.jpeg",
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 7,
+      "question": "Bone marrow biopsy in a patient shows pseudo-Gaucher cells. What is the most probable diagnosis?",
+      "options": {
+        "A": "Primary myelofibrosis",
+        "B": "Chronic myeloid leukemia",
+        "C": "Essential thrombocythemia",
+        "D": "Chronic Lymphocytic leukemia"
+      },
+      "correct_answer": "B",
+      "explanation": "Pseudo-Gaucher cells are characteristic of chronic myeloid leukemia (CML). These cells are scattered macrophages with abundant wrinkled, green-blue cytoplasm. Their presence indicates a good prognosis. Bone marrow findings in CML: • Markedly hypercellular marrow - increased maturing granulocytic precursors • Elevated eosinophils and basophils • Increased megakaryocytes - include small, dysplastic forms • Erythroid progenitors - normal or mildly decreased • Increased reticulin deposition • Overt marrow fibrosis - rare early in the course • Pseudo-Gaucher cells • Sea blue histiocytes",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_7ea56aca.jpeg",
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 8,
+      "question": "A 60-year-old woman with fever and splenomegaly was diagnosed with chronic myeloid leukemia. She was started on imatinib therapy. After a few months of therapy, she had persistent progressive splenomegaly and fatigue. Which of the following will not be seen in this phase?",
+      "options": {
+        "A": ">20% blasts in blood or marrow",
+        "B": ">20% basophils in blood",
+        "C": "Platelet count of <100 × 10^9/L",
+        "D": "WBC count >10 × 10^9/L"
+      },
+      "correct_answer": "A",
+      "explanation": "In a patient with chronic myeloid leukemia (CML), progressive splenomegaly not responsive to therapy is suggestive of an accelerated phase. In this phase, blasts are <20% in blood or marrow. Diagnosis of an accelerated phase of CML requires one of the following criteria: • Persistent or increasing WBC (>10 × 10^9/L), unresponsive to therapy • Persistent or increasing splenomegaly, unresponsive to therapy • Persistent thrombocytosis (>1000 × 10^9/L), unresponsive to therapy • Persistent thrombocytopenia (<100 × 10^9/L) unrelated to therapy • 20% or more basophils in the peripheral blood • 10%-19% blasts in the peripheral blood or bone marrow • Additional clonal chromosomal abnormalities in Ph+ cells at diagnosis that include 'major route' abnormalities (second Ph, trisomy 8, isochromosome 17q, trisomy 19), complex karyotype, or abnormalities of 3q26.2. Any new clonal chromosomal abnormality in Ph+ cells that occurs during therapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the percentage of blast cells in the blast phase of CML?",
+      "options": {
+        "A": "<10%",
+        "B": "10-15%",
+        "C": ">20%",
+        "D": "15-20%"
+      },
+      "correct_answer": "C",
+      "explanation": "In the blast phase of chronic myeloid leukemia, there are >20% blasts in the bone marrow. The 3 phases of CML are: \n   • Chronic phase is the most common presentation. It is characterized by: \n   • Leukocytosis - bimodal distribution with higher proportions of mature segmented neutrophils and myelocytes \n   • Blast cells <10% \n   • Increased basophils and eosinophils \n   • Monocytosis <3% \n   • Accelerated phase occurs in 50% of the patients who present with increasing anemia, thrombocytopenia, and splenomegaly. It is characterized by: \n   • Blast count 10-19% \n   • Basophilia >20% \n   • Blast phase in CML occurs in an average of 3 years after the diagnosis. It is characterized by: \n   • Large foci or clusters of blasts on the bone marrow biopsy >20%. \n   • Presence of extramedullary blastic infiltrates (e.g., myeloid sarcoma or chloroma)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not seen in a patient with Myelodysplastic/Myeloproliferative syndrome (MDS/MPN) with neutrophilia?",
+      "options": {
+        "A": "Philadelphia chromosome negative",
+        "B": "Basophilia >10%",
+        "C": "Blasts <20%",
+        "D": "Neutrophil precursors >10%"
+      },
+      "correct_answer": "B",
+      "explanation": "Myelodysplastic/Myeloproliferative syndrome (MDS/MPN) with neutrophilia (previously named as atypical chronic myeloid leukemia) shows minimal absolute basophilia, i.e., <2% of total WBCs. Myelodysplastic/Myeloproliferative syndrome (MDS/MPN) with neutrophilia is a leukemic disorder having features of both myelodysplastic and myeloproliferative features at the time of diagnosis. It is classified under the WHO 5th edition (2022) MDS/MPN category. Characteristics of myelodysplastic/myeloproliferative syndrome (MDS/MPN) with neutrophilia: Peripheral blood leukocytosis with an increased number of mature and immature neutrophils, prominent dysgranulopoiesis, Philadelphia chromosome-negative, Neutrophil precursors (promyelocytes, myelocytes, metamyelocytes) >10% of WBCs, minimal absolute basophilia <2% of WBCs, absolute monocytosis <10% of WBCs, hypercellular bone marrow, <20% blasts in blood and bone marrow, and thrombocytopenia. Differences between CML and myelodysplastic/myeloproliferative syndrome (MDS/MPN) with neutrophilia: Feature - CML: BCR-ABL gene present, basophilia present; Myelodysplastic/Myeloproliferative syndrome (MDS/MPN) with neutrophilia: BCR-ABL gene absent, basophilia <2%. Myeloblasts in peripheral blood and bone marrow are <20% in both.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following patients will have a decreased leukocyte alkaline phosphatase score?",
+      "options": {
+        "A": "A 65-year-old man with a garden party appearance on peripheral smear",
+        "B": "A 50-year-old man with Reed-Sternberg cells on LN biopsy",
+        "C": "A 35-year-old woman with an Hb level of 23 g/dL",
+        "D": "A 43-year-old woman with smudge cells on peripheral smear"
+      },
+      "correct_answer": "A",
+      "explanation": "Leukocyte alkaline phosphatase (LAP) score is decreased in chronic myeloid leukemia (CML), i.e., garden party appearance on peripheral smear.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following does not cause relative polycythemia?",
+      "options": {
+        "A": "Dehydration",
+        "B": "Dengue hemorrhagic fever",
+        "C": "Gaisbock syndrome",
+        "D": "High altitude"
+      },
+      "correct_answer": "D",
+      "explanation": "High altitude produces absolute polycythemia and not relative polycythemia. Polycythemia denotes an abnormally high red cell count, usually with a corresponding increase in the hemoglobin level (> 16 ±2 g/dL). It is of two types: relative hemoconcentration due to decreased plasma volume, and an absolute increase in the total red cell mass. Causes of relative polycythemia include: dehydration - deprivation of water, prolonged vomiting or diarrhea, excessive use of diuretics; Gaisböck syndrome - stress polycythemia where affected individuals are usually hypertensive, obese, and anxious. Causes of absolute polycythemia include: primary - intrinsic abnormality of hematopoietic precursors; polycythemia vera; inherited erythropoietin receptor mutations; secondary red cell progenitors responding to increased levels of erythropoietin; compensatory due to cyanotic heart and lung disease, high altitude; paraneoplastic erythropoietin-secreting tumors. Note: In dengue hemorrhagic fever, increased vascular permeability causes plasma leakage and volume loss. Hence, relative polycythemia is seen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 13,
+      "question": "A young boy from high altitude came with fever and weakness and had the following reports: Hemoglobin 17 g%, TLC is 21,000 with neutrophils 25, lymphocytes 30, eosinophils 5, myelocytes and metamyelocytes 40 in peripheral smear. Next step in the investigation should be:",
+      "options": {
+        "A": "Philadelphia chromosome",
+        "B": "JAK mutation",
+        "C": "Erythropoietin levels",
+        "D": "Bone Marrow biopsy with reticulin stain"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of polycythemia (Hb > 16 g/dL). Hence, erythropoietin levels (EPO) are estimated next, to differentiate between primary or secondary polycythemia. Based on EPO levels: • Primary polycythemia - normal/decreased • Secondary polycythemia - increased. Options A and B: JAK 2 mutation and Philadelphia chromosome analysis is only done as a last resort. Option D: Bone marrow estimation with reticulin is done for myelofibrosis, which can be seen in the spent/late stage of the disease. However, peripheral smear findings are not suggestive of primary myelofibrosis. Leukoerythroblastic reaction with dacrocytes is seen in myelofibrosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 14,
+      "question": "A 24-year-old woman who presented with aquagenic pruritus had an Hb level of 20 g/dL. Her laboratory investigations are given below. Which of the following is not seen in this condition?",
+      "options": {
+        "A": "Acute myeloid leukemia",
+        "B": "Budd-Chiari syndrome",
+        "C": "Myelofibrosis",
+        "D": "Hepatic failure"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of polycythemia vera. Hepatic failure is not seen in this condition. Polycythemia vera is strongly associated with activating point mutations in the tyrosine kinase JAK2. In this condition, clonal erythrocytosis occurs autonomously, i.e., independent of erythropoietin. Clinical features of polycythemia vera: • Headache • Hypertension • Dizziness • Intense pruritus, aquagenic pruritus • Peptic ulcer • Venous thrombosis - Budd-Chiari syndrome (hepatic vein thrombosis), bowel infarction, stroke, myocardial infarction • Minor hemorrhages - epistaxis, gum bleeding. Laboratory findings in polycythemia vera: • Panmyelosis - increased marrow production of red cells, granulocytes, and platelets • Low erythropoietin • Elevated hematocrit. • Hyperuricemia. Complications of polycythemia vera: • Myelofibrosis and extensive extramedullary hematopoiesis - spent/late phase • Acute myeloid leukemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 15,
+      "question": "A 63-year-old woman complains about throbbing pain over both palms. Her examination findings and lab reports are given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Polycythemia vera",
+        "B": "Essential thrombocythemia",
+        "C": "Myelofibrosis",
+        "D": "Leukemoid reaction"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of essential thrombocythemia (ET). The image showing erythematous hands is suggestive of erythromelalgia. Essential thrombocythemia (essential thrombocytosis) is a myeloproliferative neoplasm. It is associated with mutations that increase JAK-STAT signaling. WHO criteria for diagnosis of essential thrombocythemia: Major criteria include platelet count ≥450 × 10^9/L, bone marrow biopsy showing proliferation mainly of the megakaryocyte lineage with increased numbers of enlarged, mature megakaryocytes with hyperlobulated nuclei, not meeting WHO criteria for BCR-ABL1 chronic myeloid leukemia, PV, PMF, myelodysplastic syndromes, or other myeloid neoplasms, and presence of JAK2, CALR, or MPL mutation. Minor criteria include the presence of a clonal marker or absence of evidence for reactive thrombocytosis. Diagnosis of ET requires meeting all four major criteria or the first three major criteria and the minor criterion. Option A: Polycythemia vera can also present with erythromelalgia; however, it also presents with increased Hb levels. Option C: Fibrosis (not reticulin fibrils) is seen in bone marrow biopsy of primary myelofibrosis. Option D: WBC counts are increased in leukemoid reactions.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_26791d68.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 16,
+      "question": "Patients with which of the following conditions do not have a leukoerythroblastic picture onperipheral smear?",
+      "options": {
+        "A": "Myelofibrosis",
+        "B": "Myelophthisic anemia",
+        "C": "Thalassemia",
+        "D": "Gaucher disease"
+      },
+      "correct_answer": "C",
+      "explanation": "Leukoerythroblastic picture is not seen in patients with thalassemia as it is a hemoglobinopathyand does not involve myeloid precursors.Abnormal presence of immature precursors of blood in the peripheral blood smear is calledleukoerythroblastosis. Findings include:•Nucleated red cells• Dacryocytes (or teardrop RBC) - formed due to damage to red cell membrane caused by fibroustissue in the marrow• Immature cells of granulocytic seriesIt occurs due to conditions causing marrow replacement like:••Primary myelofibrosis - fibrosis of bone marrowMyelophthisic anemia - space occupying lesions of bone marrow597• Gauchers disease•Spent phase of polycythemia veraThe image given below shows a leukoerythroblastic blood picture with nucleated RBCs, tear-dropcells, and immature myeloid cells.LeukoerythroblastosisDacrocytesNucleated RBCMicromegakaryocyteBlast",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp16_img1_14e96da1.jpeg",
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is not included under MDS/MPN overlap syndromes?",
+      "options": {
+        "A": "MDS/MPN with neutrophilia",
+        "B": "Chronic myelomonocytic leukemia",
+        "C": "MDS/MPN with SF3B1 mutation and thrombocytosis",
+        "D": "MDS with excess blasts"
+      },
+      "correct_answer": "D",
+      "explanation": "Myelodysplastic syndrome/myeloproliferative neoplasm (MDS/MPN) overlap syndromes are a group of chronic clonal myeloid malignancies in which there are features of both MDS and MPN at the time of presentation. According to the 5th edition WHO classification (2022), it includes: • Chronic myelomonocytic leukemia • MDS/MPN with neutrophilia (previously atypical chronic myeloid leukemia) • MDS/MPN with SF3B1 mutation and thrombocytosis • MDS/MPN not otherwise specified",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is not compatible with a diagnosis of chronic myelomonocytic leukemia?",
+      "options": {
+        "A": "Peripheral blood monocytosis more than 1×10^9/L",
+        "B": "Absence of Philadelphia chromosome",
+        "C": "More than 20% blasts in blood or bone marrow",
+        "D": "Absent or minimal dysplasia in myeloid lineages"
+      },
+      "correct_answer": "C",
+      "explanation": "More than 20% of blasts in the blood or bone marrow are not compatible with a diagnosis of chronic myelomonocytic leukemia (CMML). In this condition, blasts are less than 20%. The WHO 5th edition diagnostic criteria (2022) for chronic myelomonocytic leukemia (CMML) include: Prerequisite criteria: 1. Persistent absolute (≥0.5 × 10^9/L) and relative (≥10%) peripheral blood monocytosis. 2. Blasts constitute <20% of the cells in the peripheral blood and bone marrow. 3. Not meeting diagnostic criteria of chronic myeloid leukemia or other myeloproliferative neoplasms (MPN). 4. Not meeting diagnostic criteria of myeloid/lymphoid neoplasms with tyrosine kinase fusions. Supporting criteria: 1. Dysplasia involving ≥1 myeloid lineage. 2. Acquired clonal cytogenetic or molecular abnormality. 3. Abnormal partitioning of peripheral blood monocyte subsets. Pre-requisite criteria must be present in all cases: If monocytosis is ≥1 × 10^9/L: one or more supporting criteria must be met. If monocytosis is ≥0.5 and <1 × 10^9/L: supporting criteria 1 and 2 must be met. Subtype criteria: Myelodysplastic CMML (MD-CMML): WBC < 13 × 10^9/L. Myeloproliferative CMML (MP-CMML): WBC ≥ 13 × 10^9/L. Blasts and blast equivalents include myeloblasts, monoblasts, and promonocytes. MPN with monocytosis can mimic CMML. In these instances, a documented history of MPN excludes CMML. The presence of MPN features in the bone marrow and/or a high burden of MPN-associated mutations (JAK2, CALR, or MPL) tends to support MPN with monocytosis rather than CMML. Criteria for myeloid/lymphoid neoplasms with tyrosine kinase fusions should be specifically excluded in cases with eosinophilia. Morphologic dysplasia should be present in ≥10% of cells of a hematopoietic lineage in the bone marrow. Based on the detection of increased classical monocytes (>94%) in the absence of known active autoimmune diseases and/or systemic inflammatory syndromes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 19,
+      "question": "A 2-year-old boy with Noonan syndrome presents with hepatosplenomegaly and lymphadenopathy. You are suspecting juvenile myelomonocytic leukemia. Which of the following is not seen in this condition?",
+      "options": {
+        "A": "GM-CSF hypersensitivity",
+        "B": "Absence of Philadelphia chromosome",
+        "C": "Poor prognosis",
+        "D": "Increased Hb A2 level"
+      },
+      "correct_answer": "D",
+      "explanation": "HbF levels are increased in juvenile myelomonocytic leukemia (JMML), not Hb A2. JMML is a hematopoietic stem cell-derived myeloproliferative neoplasm of early childhood. It is one of the myeloproliferative neoplasms. It is associated with mutations in the RAS pathway. Neurofibromatosis 1, Noonan syndrome, and trisomy 8 mosaicism can predispose to this condition. Aggressive types include PTPN11 mutation and neurofibromatosis type 1. WHO diagnostic guidelines of JMML: *Germline mutation (indicating Noonan syndrome) needs to be excluded. It is associated with a poor prognosis and only a few patients undergo spontaneous regression. Category I (Mandatory): Clinical and hematologic features - Splenomegaly, Peripheral blood monocyte count ≥1 × 10^9/L, Blast percentage in peripheral blood and bone marrow <20%, No Philadelphia chromosome (BCR/ABL1 rearrangement), Exclusion of KMT2A mutation. Category II: Genetic (only 1 required) *Somatic mutation in PTPN11 or KRAS or NRAS, Clinical diagnosis of Neurofibromatosis type 1 or NF1 mutation, Germline CBL mutation. Category III: Category I + these findings: Hemoglobin F increased for age, Myeloid or erythroid precursors on the peripheral blood smear, Hypersensitivity to GM-CSF by colony assay and STAT5 hyperphosphorylation, Thrombocytopenia with hypercellular bone marrow.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 20,
+      "question": "JAK2 mutation is most commonly associated with",
+      "options": {
+        "A": "Polycythemia vera",
+        "B": "Essential thrombocytosis",
+        "C": "CML",
+        "D": "PMF"
+      },
+      "correct_answer": "A",
+      "explanation": "Polycythemia vera is strongly associated with activating point mutations in the tyrosine kinase JAK2. A mutation in JAK2, a key member of the cytokine intracellular signaling pathway, can be found in 90-95% of patients with polycythemia vera. It is characterized by: \n   • Increased marrow production of red cells, granulocytes, and platelets (panmyelosis) \n   • Low erythropoietin levels and elevated hematocrit. \n   Blood viscosity and sludging lead to both thrombosis and bleeding. \n   • Headache, dizziness, hypertension, dizziness, venous thrombosis (Budd-Chiari syndrome due to hepatic vein thrombosis), bowel infarction, and stroke. \n   • Intense pruritus, especially aquagenic pruritus. \n   • Peptic ulceration, hyperuricemia. \n   15% to 20% of patients after an average period of 10 years → Myelofibrosis and extensive extramedullary hematopoiesis, \n   • PCV transforms into AML in 2% of patients. \n   Primary myelofibrosis \n   • Marrow fibrosis associated with extramedullary hemopoiesis in the spleen. \n   • Activating mutation in JAK2 (more commonly) or MPL. \n   • Presence of neoplastic megakaryocytes, which are responsible for the release of fibrogenic factors like PDGF (platelet-derived growth factor) and TGF-β. \n   • Bone marrow aspiration yields dry tap due to fibrosis of the bone marrow. \n   • So, bone marrow biopsy is the investigation of choice, which shows the presence of hypocellularity with increased deposition of reticulin inside the marrow, abnormal megakaryocytes, and the characteristic finding of dilated marrow sinusoids. \n   • Blood shows mild leukocytosis, decreased Hb and hematocrit levels, and elevated LAP scores. \n   • Acute myeloid leukemia (AML) occurs in 5% to 20% of cases. \n   Essential thrombocytosis (ET) may also be associated with JAK2, MPL, or CALR mutations. \n   Essential thrombocytosis (ET) is often associated with activating point mutations in JAK2 (50% of cases) or MPL (5% to 10% of cases), a receptor tyrosine kinase that is normally activated by thrombopoietin. \n   In addition, recent DNA sequencing studies have revealed that most of the remaining cases have mutations in calreticulin (CALR), a protein with several functions in the endoplasmic reticulum and the cytoplasm. \n   Since JAK2 and calreticulin mutations are mutually exclusive, it is hypothesized that the calreticulin mutations also increase JAK-STAT signaling through mechanisms that are currently unknown. \n   CML is the consequence of the balanced translocation between chromosomes 9 and 22 (t[9;22]). \n   PV, PMF, and ET are characterized by driver mutations that directly or indirectly constitutively activate JAK2, a tyrosine kinase essential for the function of the erythropoietin and thrombopoietin receptors and also utilized by granulocyte colony-stimulating factor receptor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following patients is least likely to have leukemoid reaction?",
+      "options": {
+        "A": "A patient with severe meningitis",
+        "B": "A child with Down syndrome",
+        "C": "A patient with hemorrhagic shock",
+        "D": "A patient with acute myocardial infarction583"
+      },
+      "correct_answer": "D",
+      "explanation": "Myocardial infarction does not cause leukemoid reaction.Leukemoid reaction is defined as persistent leukocytosis above 50000 cells/mm3, where thecause is other than leukemia.Causes of leukemoid reaction include:•Severe infections•Malignancy• Severe hemorrhage• Acute hemolysis• Trisomy 21 (Down syndrome)•• Asplenia• Diabetic ketoacidosis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 22,
+      "question": "Electron microscopic picture of which of the following conditions is shown below? Vesicles",
+      "options": {
+        "A": "Bernard-Soulier syndrome",
+        "B": "Mycosis fungoides",
+        "C": "Glanzmann thrombasthenia",
+        "D": "Langerhans cell histiocytosis"
+      },
+      "correct_answer": "D",
+      "explanation": "The given electron microscopy image shows tennis racket-shaped Birbeck granules. These granules are characteristic of Langerhans cell histiocytosis. These granules are pentalaminar tubules with dilated terminal ends. This gives a characteristic tennis racket appearance on electron microscopy. They contain the protein langerin (CD207). The image given below shows the Birbeck granules as seen on electron microscopy. Birbeck Granules - Langerhans Cell Histiocytosis. Vesicles. On peripheral smear, the proliferating Langerhans cells are characterized by: • Abundant vacuolated cytoplasm • Vesicular nuclei containing linear grooves or folds - coffee bean nuclei. The image given below shows Langerhans cells with coffee bean nuclei and moderately abundant pale cytoplasm mixed with a few eosinophils. Coffee Bean Nuclei - Langerhans Cell Histiocytosis. Note: Tennis racket cells in light microscopy are seen in sarcoma botryoides.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q22_img1_65835e61.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp22_img1_69a4e14e.jpeg",
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following is not a histiocytic neoplasm?",
+      "options": {
+        "A": "Langerhans cell histiocytosis",
+        "B": "Rosai-Dorfman disease",
+        "C": "Erdheim-Chester disease",
+        "D": "Disseminated juvenile xanthogranuloma"
+      },
+      "correct_answer": "B",
+      "explanation": "Rosai-Dorfman disease is not a histiocytic neoplasm. It is sinus histiocytosis with massivelymphadenopathy.602WHO classification of histiocytic/ hematolymphoid neoplasm 2016 includes the following:•Histiocytic sarcoma• Langerhans cell histiocytosis•• Langerhans cell sarcoma•Indeterminate dendritic cell tumour• Interdigitating dendritic cell sarcoma•Follicular dendritic cell sarcoma• Fibroblastic reticular cell tumour•Disseminated juvenile xanthogranuloma• Erdheim-Chester disease",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 24,
+      "question": "You are suspecting Langerhans cell histiocytosis in a child with an enlarging scalp lesion. Which of the following markers will you test to confirm your diagnosis?",
+      "options": {
+        "A": "CD11a",
+        "B": "HLA-DR",
+        "C": "CD107",
+        "D": "S-100"
+      },
+      "correct_answer": "C",
+      "explanation": "S-100 is a marker for Langerhans cell histiocytosis. Tumor cells in this condition typically express the following: • HLA-DR • S-100 • CD1a",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 25,
+      "question": "A 5-year-old girl is brought to you by her father, who states that the girl is drinking a lot of water lately. Physical examination reveals exophthalmos. Further workup shows the presence of multiple lytic bone lesions involving her calvarium and the base of her skull. What is the most likely diagnosis?",
+      "options": {
+        "A": "Letterer-Siwe disease",
+        "B": "Hand-Schüller-Christian disease",
+        "C": "Eosinophilic granuloma",
+        "D": "Unifocal Langerhans cell histiocytosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of Hand-Schüller-Christian disease. Langerhans cell histiocytosis presents as multiple clinicopathological entities: 1. Hand-Schüller-Christian disease is a multifocal unisystem Langerhans cell histiocytosis. It usually affects young children. It is characterized by the triad of: • Diabetes insipidus (excessive thirst) - involvement of the posterior pituitary stalk of the hypothalamus • Exophthalmos • Multiple lytic bone lesions. It usually undergoes spontaneous regression. It is treated with local excision or irradiation. 2. Letterer-Siwe disease is a multifocal multisystem Langerhans cell histiocytosis. It occurs most frequently before 2 years of age, but occasionally affects adults. • It is characterized by the following features: Cutaneous lesions, resembling a seborrheic eruption - caused by infiltrates of Langerhans cells over the front and back of the trunk and on the scalp. • Hepatosplenomegaly • Lymphadenopathy • Pulmonary lesions • Destructive osteolytic bone lesions • Due to marrow infiltration - anemia, thrombocytopenia, predisposition to recurrent infections (otitis media and mastoiditis). Treatment involves intensive chemotherapy. This condition is fatal if left untreated. 3. Eosinophilic granuloma is a unifocal unisystem Langerhans cell histiocytosis. It is characterized by the proliferation of Langerhans cells admixed with variable numbers of eosinophils, lymphocytes, plasma cells, and neutrophils. These lesions occur in the following sites: • Medullary cavities of bones - most commonly the calvarium, ribs, and femur • Skin • Lungs • Stomach. Bone lesions can manifest as: Asymptomatic • Pain • Tenderness • Pathologic fractures. Treatment is by local excision or irradiation. 4. Pulmonary Langerhans cell histiocytosis is most often seen in adult smokers. It regresses spontaneously upon cessation of smoking.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 26,
+      "question": "The X-ray of a 65-year-old man is given below. Clinical examination, and hematological andurinary tests were normal. Which of the following is the probable diagnosis?",
+      "options": {
+        "A": "Multiple myeloma",
+        "B": "Langerhans cell histiocytosis",
+        "C": "Metastasis",
+        "D": "Hyperparathyroidism585"
+      },
+      "correct_answer": "",
+      "explanation": "The given image showing a solitary punched-out lytic lesion without a sclerotic rimwith a beveled edge appearance, along with the age of the patient with history of normalhematological and urinary tests is suggestive of Langerhans cell histiocytosis.Langerhans cell histiocytosis occurs due to the proliferation of a special type of immaturedendritic cells, called Langerhans cells. Their normal function is to present antigens.It is characterized by single or multiple osteolytic bone lesions. It can also infiltrate the skin (ofthe scalp), lungs, liver, spleen, bone marrow, or the central nervous system.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q26_img1_5c154a83.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following is not true regarding the procedure done using the instrument given inthe image below?",
+      "options": {
+        "A": "Contraindicated if platelet count &lt;40,000",
+        "B": "Breath holding is required",
+        "C": "Procedure can be done in both lateral &amp; prone position",
+        "D": "Diagnosing an infiltrative or granulomatous disease"
+      },
+      "correct_answer": "B",
+      "explanation": "604The image shows a bone marrow biopsy needle. Thrombocytopenia is not in itself acontraindication for bone marrow biopsy. However, a platelet count &gt;20,000 is ensured forsafety purposes.Indications of bone marrow biopsy:• Evaluation of unexplained anemia, leukopenia, thrombocytopenia, pancytopenia• Evaluation of polycythemia, thrombocytosis, leukocytosis• Diagnosis and staging of lymphoma or solid tumors•Diagnosis and evaluation of plasma cell disorders and leukemias••• Evaluation of suspected infiltrative and storage diseasesEvaluation of fever of unknown origin, suspected mycobacterial, fungal, or parasitic infections,or granulomatous diseasesContraindications of bone marrow biopsy:• Severe hemophilia• Severe disseminated intravascular coagulopathy•Severe bleeding disordersProcedure for bone marrow biopsy:Prone or lateral position is chosen for the procedure. Posterior superior iliac spine is identified.After disinfection and local anaesthesia, the patient is asked to inhale slowly through the nose andexhale slowly through the mouth to relieve anxiety .The needle is inserted and rotated on its axis.On reaching the desired depth, the stylet is removed and needle is advanced. The needle is rotatedin the opposite direction to loosen the specimen. It is then withdrawn using the same rotationalmovement.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q27_img1_63cf280c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp27_img1_4ebe70b7.jpeg",
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 28,
+      "question": "Blood examination shows pancytopenia, which can be correct?",
+      "options": {
+        "A": "B, D",
+        "B": "A, B, C",
+        "C": "B, C, D",
+        "D": "A, B, D"
+      },
+      "correct_answer": "B",
+      "explanation": "Bone Marrow Aspiration and Biopsy. Bone marrow needle. Bone marrow skin. Hip bone. 2007 Terese Winslow. U.S. Govt. has certain rights. 605. Megaloblastic anemia (hypocellular phase), hairy cell leukemia, and hypocellular MDS can show pancytopenia. Acute promyelocytic leukemia is not associated with pancytopenia. Causes of pancytopenia with hypocellular bone marrow: Acquired aplastic anemia, hypocellular myelodysplastic syndrome, rare aleukemic leukemia, some acute lymphoid leukemia, and rare lymphomas of bone marrow. Copper deficiency. Causes of pancytopenia with cellular bone marrow: Myelodysplastic syndromes, systemic lupus erythematosus, paroxysmal nocturnal hemoglobinuria (PNH), hypersplenism, B12, folate deficiency, copper deficiency, myelofibrosis, aleukemic leukemia, HIV, brucellosis, leishmaniasis, tuberculosis, sepsis, myelophthisis, bone marrow lymphoma, sarcoidosis, and hairy cell leukemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    },
+    {
+      "q_no": 29,
+      "question": "Which of the following conditions will have the least chances of a dry tap on bone marrow aspiration?",
+      "options": {
+        "A": "Hairy cell leukemia",
+        "B": "Follicular lymphoma",
+        "C": "AML M7",
+        "D": "Myelodysplastic syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Follicular lymphoma is the least likely cause of a dry tap on bone marrow aspiration. Causes of dry tap are: Metastatic carcinoma infiltration, Chronic myeloid leukemia, Myelofibrosis, Hairy cell leukemia, Acute leukemia, Hodgkin's lymphoma, and AML-M7. Causes of pancytopenia with cellular marrow are: Primary disease of marrow - Myelodysplastic syndrome, Paroxysmal nocturnal hemoglobinuria (PNH), Myelofibrosis, Aleukemic leukemia, Myelophthisis, Bone marrow lymphoma, and Hairy cell leukemia. Secondary to systemic disease - SLE, sarcoidosis, B12, folate deficiency, Copper deficiency, Hypersplenism, Alcohol, HIV infection, TB, Brucellosis, and leishmaniasis. Note: Although marrow is hypercellular in CML, MDS, etc., extensive marrow fibrosis (rare) has been proposed to account for a dry tap on bone marrow biopsy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Syndromes and Histiocytosis"
+    }
+  ]
+}

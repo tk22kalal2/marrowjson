@@ -1,0 +1,320 @@
+{
+  "chapter": "Acute Myeloid Leukemia (AML)",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a myeloid marker?",
+      "options": {
+        "A": "CD64",
+        "B": "CD3",
+        "C": "CD11b",
+        "D": "CD117"
+      },
+      "correct_answer": "B",
+      "explanation": "CD3 is a lymphoid marker, not a myeloid marker.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is the most common type of acute myeloid leukemia?",
+      "options": {
+        "A": "AML M1",
+        "B": "AML M2",
+        "C": "AML M3",
+        "D": "AML M7"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common type of acute myeloid leukemia (AML) is AML - M2 or AML with maturation. The least common type of AML is AML M7 or megakaryocytic.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the most common subtype of acute myeloid leukemia seen in patients with Down's syndrome?",
+      "options": {
+        "A": "AML M3",
+        "B": "AML M4",
+        "C": "AML M6",
+        "D": "AML M7"
+      },
+      "correct_answer": "D",
+      "explanation": "The most common subtype of AML seen in Down's syndrome is acute myeloid leukemia-M7 (AML-M7) or acute megakaryocytic leukemia. Myeloid proliferations of Down's syndrome are usually megakaryoblastic. It includes: • Transient abnormal myelopoiesis (TAM) - occurs at birth or within days of birth and resolves in 1 to 2 months • Myeloid leukemia associated with Down syndrome - occurs later, but usually in the first 3 years of life. Both are characterized by GATA1 mutations and mutations of the JAK-STAT pathway.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 4,
+      "question": "A 35-year-old man presents with nosebleeds, bleeding gums, and multiple ecchymoses. Laboratory investigations show the following findings. The blasts are positive for CD33. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acute myeloid leukemia",
+        "B": "Acute lymphoblastic leukemia",
+        "C": "Small Lymphocytic lymphoma",
+        "D": "Myelodysplastic syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of acute myeloid leukemia (AML). AML is a tumor of hematopoietic progenitors caused by acquired oncogenic mutations that impede differentiation, leading to the accumulation of immature myeloid blasts in the marrow. It occurs at all ages, but the incidence rises throughout life, peaking after 60 years of age. The peripheral smear shows blasts with abundant cytoplasm, fine azurophilic granules, Auer rods, and delicate nuclear chromatin with 1-4 prominent nucleoli. The blasts are positive for CD33. Occasionally, blasts are entirely absent from the blood (aleukemic leukemia). Bone marrow examination is essential to exclude acute leukemia in pancytopenic patients.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q4_img1_f48b05e8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 5,
+      "question": "Peripheral smear of a patient with acute promyelocytic leukemia shows myeloblasts with the following finding. What are these made of?",
+      "options": {
+        "A": "Lysosomes",
+        "B": "Golgi apparatus",
+        "C": "Endoplasmic reticulum",
+        "D": "Ribosomes"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows Auer rods in myeloblasts. These are needle-shaped azurophilic intracytoplasmic inclusion bodies formed by the fusion of lysosomes. Auer rods contain peroxidase and lysosomal enzymes. Myeloblasts with bundles of Auer rods are called faggot cells and are seen in acute promyelocytic leukemia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q5_img1_3af8012b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 6,
+      "question": "In which of the following conditions are Auer rods seen?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "3, 4, and 5",
+        "C": "1, 2, 3, 4, and 5",
+        "D": "1, 3, and 4"
+      },
+      "correct_answer": "C",
+      "explanation": "Auer rods are seen in: Acute promyelocytic leukemia, Myelodysplastic syndromes, and Chronic myelomonocytic leukemia. These are not seen in acute monocytic leukemia and acute lymphoblastic leukemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 7,
+      "question": "A 20-year-old male patient is diagnosed with acute myeloid leukemia. The peripheral blood smear picture is given in the image. The cell indicated by the arrow is best described as:",
+      "options": {
+        "A": "Auer rod",
+        "B": "Flaming promyelocyte",
+        "C": "Faggot cell",
+        "D": "Dusky promyelocyte"
+      },
+      "correct_answer": "C",
+      "explanation": "The given cell shows multiple Auer rods clustered together within a single cell, resembling a bundle of sticks. Such cells have been termed as faggot cells (faggot in French means bundle of sticks). Since the question specifically asks about the cell, the best answer is faggot cell (not Auer rods). Option A: Auer rods are distinctive needle-like azurophilic granules present in many cases, but particularly numerous in AML with the t(15;17) aberration (acute promyelocytic leukemia). Option B: The term flaming promyelocyte refers to cells that appear to be breaking apart, taking on a vibrant reddish-purple hue with the apparent liberation of granules into the surrounding cellular matrix. Option C: Promyelocytes containing fine granules appear dusky or hazy and are referred to as dusky promyelocytes.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q7_img1_9612c8bc.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 8,
+      "question": "Increased levels of serum muramidase are seen in patients with which of the following conditions?",
+      "options": {
+        "A": "Acute myeloid leukemia - M4",
+        "B": "Acute myeloid leukemia - M2",
+        "C": "Acute myeloid leukemia - M6",
+        "D": "Acute myeloid leukemia - M3"
+      },
+      "correct_answer": "D",
+      "explanation": "Serum muramidase or lysozyme levels are seen to be increased in patients with acute myelomonocytic leukemia (AML-M4). It is also increased in chronic myelomonocytic leukemia and chronic myeloid leukemia (CML).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 9,
+      "question": "Which type of AML is known as Di Guglielmo disease?",
+      "options": {
+        "A": "Acute myeloid leukemia - M2",
+        "B": "Acute myeloid leukemia - M5",
+        "C": "Acute myeloid leukemia - M6",
+        "D": "Acute myeloid leukemia - M7"
+      },
+      "correct_answer": "C",
+      "explanation": "Acute myeloid leukemia-M6 (AML-M6) or acute erythroid leukemia is known as Di Guglielmo disease. AML-M6 accounts for 1% of AML cases. It has two subtypes: Erythroid/myeloid leukemia (M6a, more common) - Dyserythropoiesis is prominent; Pure erythroid leukemia/erythemic myelosis/Di Guglielmo disease (M6b, rare) - >80% erythroid precursors. Clinical findings include anemia, thrombocytopenia, and variable neutropenia. Positive stains for erythroid cells are glycophorin A, hemoglobin A, CD36, CD71, CD117, and PAS.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 10,
+      "question": "In patients with which of the following conditions, a dry tap may be seen on bone marrow aspiration?",
+      "options": {
+        "A": "Burkitt lymphoma",
+        "B": "Acute myeloid leukemia - M6",
+        "C": "Acute myeloid leukemia - M7",
+        "D": "Undifferentiated leukemia"
+      },
+      "correct_answer": "C",
+      "explanation": "Acute megakaryocytic leukemia (AML M7) may yield a dry tap on marrow aspiration. It may be associated with extensive bone marrow fibrosis as a result of the stimulation of the normal fibroblasts by the local secretion of platelet-derived growth factor (PDGF) by the leukemic cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 11,
+      "question": "Bone marrow aspirate of a patient diagnosed with acute myeloid leukemia shows the presence of faggot cells. What is the most likely subtype of acute myeloid leukemia the patient is suffering from?",
+      "options": {
+        "A": "Acute myeloid leukemia - M5",
+        "B": "Acute myeloid leukemia - M4",
+        "C": "Acute myeloid leukemia - M3",
+        "D": "Acute myeloid leukemia - M2"
+      },
+      "correct_answer": "C",
+      "explanation": "The presence of faggot cells is highly suggestive of acute myeloid leukemia - M3 (AML-M3) or acute promyelocytic leukemia. A cluster of Auer rods is known as a faggot cell. It is characteristic of acute myeloid leukemia (AML) M3.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_4c91f179.jpeg",
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient diagnosed with acute myeloid leukemia presents with a one-day history of bleeding gums, subconjunctival bleed, and purpuric rash. Investigations done are given below. Which of the following genetic abnormalities is most likely to be detected?",
+      "options": {
+        "A": "Inversion 16",
+        "B": "t(8;21)",
+        "C": "Inversion 3",
+        "D": "t(15;17)"
+      },
+      "correct_answer": "D",
+      "explanation": "The patient shows features of disseminated intravascular coagulation (DIC). It is most likely to be associated with acute myeloid leukemia - M3 or acute promyelocytic leukemia. The pathogenesis behind this is t(15,17) or PML-RARA fusion gene. Option A: Inversion 16 is seen in acute myelomonocytic leukemia or AML - M4. Option B: t(8;21) is seen in AML with differentiation or AML - M2. Option C: Inversion 3 is seen in AML - M7 (megakaryoblastic) which shows normal or increased platelet count. It has a poor prognosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 13,
+      "question": "Which type of acute myeloid leukemia is myeloperoxidase negative?",
+      "options": {
+        "A": "Acute myeloid leukemia - M0",
+        "B": "Acute myeloid leukemia - M1",
+        "C": "Acute myeloid leukemia - M2",
+        "D": "Acute myeloid leukemia - M4"
+      },
+      "correct_answer": "A",
+      "explanation": "AML M0 is negative for myeloperoxidase (MPO). AML-M5 (monocytic), AML-M6 (erythroid), and AML-M7 (megakaryocytic) are also negative for MPO. Myeloperoxidase (MPO) is located in the primary granules of neutrophils and their precursors, in eosinophil granules, and in the azurophilic granules of monocytes. The most primitive myeloblasts are negative, with granular positivity appearing progressively as they mature toward the promyelocyte stage. Promyelocytes and myelocytes are the most strongly staining cells in the granulocyte series. Monoblasts and monocytes may be negative or positive. AML-M4 shows both myelocytic and monocytic differentiation. Hence, it shows both MPO and non-specific esterase (marker for monocytes) positivity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient with fatigue and recurrent infections undergoes bone marrow evaluation. It shows > 20% myeloblasts, which stain positive for CD61. What is the likely diagnosis?",
+      "options": {
+        "A": "Acute promyelocytic leukemia",
+        "B": "Acute megakaryocytic leukemia",
+        "C": "Acute myelomonocytic leukemia",
+        "D": "Acute monocytic leukemia"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario with myeloblasts that stain positive for CD61 is suggestive of acute megakaryocytic leukemia (AML-M7). AML M7 is the least common type of AML. Blasts of megakaryocytic lineage predominate and are associated with marrow fibrosis. There is also frequent budding of cytoplasmic margins. They are CD41+ and CD61+. They stain negatively with Sudan black B (SBB) and myeloperoxidase (MPO). Blasts are reactive with PAS and acid phosphatase. The prognosis for this type of acute leukemia is poor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient who developed the following lesions over the body was diagnosed with acute myeloid leukemia. Which subtype of AML does this patient most likely have?",
+      "options": {
+        "A": "Acute myeloid leukemia - M5",
+        "B": "Acute myeloid leukemia - M3",
+        "C": "Acute myeloid leukemia - M6",
+        "D": "Acute myeloid leukemia - M2"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows leukemia cutis. It is seen in acute myeloid leukemia - M4 and acute myeloid leukemia - M5. It refers to leukemic cells infiltrating the skin. Signs and symptoms related to the involvement of tissues other than the marrow are usually less striking in AML than in acute lymphocytic leukemia (ALL). But tumors with monocytic differentiation (AML M4, M5) often infiltrate the skin (leukemia cutis) and the gingiva. This probably reflects the normal tendency of monocytes to extravasate into tissues.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_cf10e51b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 16,
+      "question": "A 38-year-old man presents with bleeding gums for 20 days. He has gingival hyperplasia, hepatosplenomegaly, and lymphadenopathy. Investigations done are given below. Bone marrow biopsy shows 100% cellularity with many blast cells that are peroxidase negative and non-specific esterase positive. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acute myeloid leukemia - M2",
+        "B": "Acute myeloid leukemia - Mo",
+        "C": "Acute myeloid leukemia - M5",
+        "D": "Acute myeloid leukemia - M7"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of acute myeloid leukemia-M5 (AML-M5) or acute monocytic leukemia. The patients with AML - M5 develop organomegaly, lymphadenopathy, gingival hyperplasia, CNS involvement, and other tissue infiltration. The bone marrow aspirate shows 20% or more blasts. Monoblasts have folded or lobulated nuclei, lack Auer rods, and are non-specific esterase positive. Myeloperoxidase is present in the azurophilic granules of neutrophils and their precursors. It is positive in AML M1, M2, M3, M4 and negative in AML Mo. Monoblasts and monocytes may be negative or positive. When positive, the granules are smaller than in neutrophils and diffusely scattered throughout the cytoplasm.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp16_img1_b6688a9f.jpeg",
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 17,
+      "question": "A child presents with bilateral proptosis. After evaluation, he is diagnosed with chloroma. Which of the following is not a marker for this condition?",
+      "options": {
+        "A": "Lysozyme",
+        "B": "CD43",
+        "C": "CD45",
+        "D": "CD61"
+      },
+      "correct_answer": "D",
+      "explanation": "CD61 is a marker of acute megakaryoblastic leukemia, not chloroma. Lysozyme, CD43, CD45, CD117, and MPO are positive markers of chloroma. Chloroma, also called myeloid sarcoma, granulocytic sarcoma, or myeloblastoma, is an extramedullary tumor that occurs in 2% to 14% of patients with AML. Frequent sites of involvement are: skin, lymph nodes, gastrointestinal tract, bone, soft tissue, testis, and peritoneum. Orbital involvement of myeloid sarcoma is rare without any evidence of systemic involvement. Proptosis is the most common presentation. Other symptoms include lacrimal swelling, conjunctival mass lesion, retinal hemorrhages, ptosis, and dystopia. Decreased visual acuity and ocular movement restriction have also been reported.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 18,
+      "question": "In which of the following conditions are Arbiskov cells seen?",
+      "options": {
+        "A": "Leukemia cutis",
+        "B": "Myeloblastoma",
+        "C": "Di Guglielmo disease",
+        "D": "Richter's syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Arbiskov cells are monocytes seen in myeloblastoma or chloroma. Chloroma, also known as granulocytic sarcoma, is a hematopoietic stem cell tumor, where myeloblasts are located at extramedullary sites. The orbit is one of the most common sites of occurrence in the pediatric population. It is seen in AML - M2 most commonly. Other conditions associated are myelodysplastic and myeloproliferative syndromes. The image given below shows Arbiskov cells in chloroma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp18_img1_9936e1f2.jpeg",
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 19,
+      "question": "All-trans retinoic acid is used in the treatment of a tumor that is associated with which of the following genetic aberrations?",
+      "options": {
+        "A": "PML-RARA",
+        "B": "BCR-ABL",
+        "C": "CMYC",
+        "D": "RUNX1-ETO"
+      },
+      "correct_answer": "A",
+      "explanation": "All-trans retinoic acid (ATRA) is used in the treatment of acute promyelocytic leukemia (APL), which is associated with the PML-RARA fusion gene. Acute promyelocytic leukemia (APL) is associated with a reciprocal translocation between chromosomes 15 and 17, producing a PML-RARA fusion gene. This fusion gene encodes for a chimeric protein, which consists of a part of the PML protein and a part of the retinoic acid receptor-α (RARα). The normal RARα binds to DNA and activates transcription in the presence of retinoids. However, the chimeric protein produced by PML-RARA has reduced affinity for retinoids. This causes inhibition of transcription, thereby preventing gene expression for cellular differentiation. This leads to the accumulation of myeloid progenitor cells. The condition is treated with all-trans retinoic acid, which binds to the PML-RARA chimeric protein, causing a conformational change such that the protein regains its normal function and activates DNA transcription.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following cytogenetic changes suggest a favorable prognosis in patients withacute myeloid leukemia?",
+      "options": {
+        "A": "t (11q23;v) with diverse MLL fusion genes",
+        "B": "Normal karyotyping with mutated NPM",
+        "C": "Activating mutations in FLT3",
+        "D": "Inversion (3)"
+      },
+      "correct_answer": "B",
+      "explanation": "Normal karyotyping with mutated NPM indicates a favorable prognosis in acute myeloid leukemia(AML).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "q_no": 21,
+      "question": "Which among the following patients with acute myeloid leukemia has a good prognosis?",
+      "options": {
+        "A": "A 56-year-old patient who developed post-chemotherapy AML",
+        "B": "An infant with AML having complex karyotype473",
+        "C": "A 60-year-old patient diagnosed with AML-Mo type",
+        "D": "A patient with AML having Inversion 16"
+      },
+      "correct_answer": "D",
+      "explanation": "Inversion 16 is associated with a good prognosis in acute myeloid leukemia (AML).481",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acute Myeloid Leukemia (AML)"
+    }
+  ]
+}

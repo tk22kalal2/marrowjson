@@ -1,0 +1,185 @@
+{
+  "chapter": "Lung tumors",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following statements is incorrect?",
+      "options": {
+        "A": "The most common cancer worldwide is lung cancer",
+        "B": "The most common malignant tumors of the lung are metastases",
+        "C": "The most common cause of cancer mortality worldwide is lung cancer",
+        "D": "The lung is the most common site of metastatic neoplasms"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_6cef55fe.jpeg",
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is the most common symptom seen in patients with lung cancer?",
+      "options": {
+        "A": "Cough",
+        "B": "Dyspnea",
+        "C": "Weight loss",
+        "D": "Chest pain"
+      },
+      "correct_answer": "A",
+      "explanation": "The major presenting complaints of lung cancer patients are cough (75%), weight loss (40%),chest pain (40%), and dyspnea (20%).Paraneoplastic syndromes associated with lung cancer:SIADH: Syndrome of inappropriate antidiuretic hormone secretionADH: Antidiuretic hormoneACTH: Adrenocorticotropic hormoneParaneoplastic syndromeCausal mechanismType of cancerSIADHInappropriate ADH secretionSmall-cell carcinomaCushing syndromeACTH or ACTH like substancSmall-cell carcinomaeCarcinoid syndromeHypercalcemiaLambert-Eaton myasthenic syndromeAcanthosis nigricansHypertrophic pulmonary osteoarthropathySerotonin and BradykininParathyroid hormone-relatedpeptideAuto-antibodies directed to the neuronal calcium channel(possibly elicited by tumor ionic channels)secretion of epidermal growth factorUnknownSmall-cell carcinomaSquamous cell carcinomaSmall-cell carcinoma (rarely iIn other lung cancers)Lung carcinomaLung carcinoma1118",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 3,
+      "question": "Histopathological findings of a lung tumor biopsy are shown below. Which of the following isthe most sensitive and specific marker of this tumor?[Image unavailable]",
+      "options": {
+        "A": "P40",
+        "B": "P63",
+        "C": "P53",
+        "D": "TTF-1"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows keratin pearls and islands of large polygonal malignant cells. These asseen in squamous cell carcinoma of the lungs. P40 is the most sensitive and specific marker forsquamous cell carcinoma (SCC) of the lungs.Other markers include cytokeratin 5/6 and P63.TTF-1 and napsin-A are the markers for adenocarcinoma.Chromogranin, synaptophysin, and CD56 are the markers for small cell lung carcinoma.Note: The 2015 World Health Organization Classification of Lung Tumors has madea recommendation that at least one antibody each for squamous (P40 or P63) and glandular (e.g.TTF-1) differentiation should be used for an initial workup. Thus a simple panel of TTF-1 and p40may be able to classify most non-small cell carcinoma-not otherwise specified cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 4,
+      "question": "Which is the most aggressive type of lung cancer?",
+      "options": {
+        "A": "Small cell carcinoma.",
+        "B": "Squamous cell carcinoma1113",
+        "C": "Adenocarcinoma",
+        "D": "Broncho alveolar carcinoma"
+      },
+      "correct_answer": "A",
+      "explanation": "Small-cell carcinoma of the lung is the most aggressive type of lung cancer.This tumor originates from neuroendocrine progenitor cells (Kulchitsky cells), which are presentin the lining bronchial epithelium.Histopathological examination of small cell lung carcinoma shows:• Clusters of small cells with scant cytoplasm•Ill-defined cell borders•Finely granular nuclear chromatin (salt and pepper pattern)• Absent or inconspicuous nucleoliThe cells are round, oval, or spindle-shaped, and nuclear molding is prominent.The image below shows the histopathological findings of small cell lung carcinoma.1119",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_fae22837.jpeg",
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 5,
+      "question": "A 53-year-old man who is a chronic smoker is diagnosed with lung carcinoma. Histopathology of the lung tissue is shown in the image below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Small-cell carcinoma",
+        "B": "Squamous cell carcinoma",
+        "C": "Adenocarcinoma",
+        "D": "Bronchoalveolar carcinoma"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical features and the histopathology showing the Azzopardi effect are suggestive of a small cell carcinoma of the lung. Azzopardi effect is described as basophilic staining of vascular walls due to encrustation by DNA from necrotic tumor cells.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q5_img1_cc7124dd.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 6,
+      "question": "Non-smoker patients with lung carcinoma are most likely to have a mutation in which of the following genes?",
+      "options": {
+        "A": "KRAS",
+        "B": "EGFR",
+        "C": "TP53",
+        "D": "ALK"
+      },
+      "correct_answer": "B",
+      "explanation": "Non-smoker patients with lung carcinoma are most likely to have a mutation in the EGFR gene. Molecular genetics of lung cancer: Histological type - Adenocarcinoma, Squamous cell carcinoma, Small cell carcinoma. Mutated genes - Tyrosine kinase genes (EGFR, ALK, ROS, MET, RET) or KRAS gene, TP53, CDKN2A/p16, FGFR1 gene amplification, Loss of RB gene, TP53, Loss of RB gene, 3p deletion, MYC amplification.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 7,
+      "question": "A woman presents to the OPD with complaints of bloody cough, dyspnea, and weight loss. During the evaluation, a CT-guided lung biopsy reveals the following picture. What is the most likely diagnosis?",
+      "options": {
+        "A": "Squamous cell cancer",
+        "B": "Small-cell cancer",
+        "C": "Adenocarcinoma",
+        "D": "Carcinoid"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of adenocarcinoma of the lung. It is the most common form of lung cancer. It is an invasive malignant epithelial tumor with glandular differentiation. The tumor cells produce mucin. It is usually located peripherally (it arises from the terminal bronchiole). Molecular genetics show frequent mutations in EGFR, ALK, ROS, MET, and RET (receptor tyrosine kinase genes) or KRAS mutations. Histologically, lepidic growth patterns are seen. It refers to the pattern of spread of the tumor in which the tumor cells 'crawl' along normal-appearing alveolar septae and resembles butterflies resting on a fence. Adenocarcinomas grow in various patterns, including acinar, lepidic, papillary, micropapillary, and solid with mucin formation. Tumor cells are positive for mucin and thyroid transcription factor-1 (TTF-1). Tumors 3 cm or less in diameter characterized by lepidic growth pattern without stromal invasion are now called adenocarcinoma in situ (formerly called bronchoalveolar carcinoma).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q7_img1_55f0e9f7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_c4398e88.jpeg",
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following immunohistochemical markers would be positive in a patient withadenocarcinoma lung?",
+      "options": {
+        "A": "Fibrillary protein",
+        "B": "Chromogranin",
+        "C": "Synaptophysin",
+        "D": "Thyroid transcription factor"
+      },
+      "correct_answer": "D",
+      "explanation": "Thyroid transcription factor-1 (TTF-1), mucin, and napsin-A are positive in adenocarcinoma lung.TTF-1 is required for normal lung development. It can be used to distinguish primaryadenocarcinoma of the lungs (TTF-1 positive) from other histological types of lung cancers,metastatic adenocarcinoma, and mesothelioma (TTF-1 negative).P40 and P63 are the markers for squamous cell carcinoma.Chromogranin, synaptophysin, and CD56 are the markers for small cell lung carcinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 9,
+      "question": "A 75-year-old man presents with a cough and shortness of breath. He has been working in ashipping factory for 30 years. On x-ray, a mass is seen in the right apical region of the lung. Abiopsy sample is taken from the mass. Which of the following tumor markers is likely to bepositive in this tumor?1115",
+      "options": {
+        "A": "Calretinin",
+        "B": "Napsin A",
+        "C": "PSA",
+        "D": "CA-19-9"
+      },
+      "correct_answer": "A",
+      "explanation": "Calretinin is most likely to be positive in this tumour as the given clinical scenario points to thediagnosis of malignant mesothelioma.Malignant mesothelioma is a rare malignant tumour of the pleura, associated with heavy asbestosexposure (shipping factory). The lifetime risk of developing mesothelioma in heavily exposedindividuals is as high as 7% to 10%.It has strong male predilection (3:1). There is a long latent period of 25 to 45 years for thedevelopment of asbestos-related mesothelioma.The image below shows a lung autopsy sample with mesothelioma.1121Grossly, it appears as a diffuse lesion arising either from the visceral or parietal pleura. Theaffected lung becomes ensheathed by a thick layer of soft, gelatinous, grayish pink tumor tissue.Microscopically, they are of three types: epithelioid (60%), sarcomatoid (20%), and mixed (20%).Electron microscopy in mesothelioma will show numerous long, slender microvilli and abundantmonofilaments but absent microvillous rootlets and lamellar bodies.The image below shows the epithelioid type of mesothelioma showing cuboidal, columnar, orflattened cells forming tubular or papillary structures resembling adenocarcinoma. Inset showsstrong positivity for Calretinin immunostain.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_df04e21e.jpeg",
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 10,
+      "question": "A 59-year old man presented with persistent wheezing, episodes of hemoptysis, and drycough. Bronchoscopy revealed a mass occluding the left bronchus. Biopsy of the specimenrevealed polygonal cells with fine stippled chromatin and eosinophilic cytoplasm arranged innests. The tumor was positive for CD 56, synaptophysin, and chromogranin. What is the cellof origin of this tumor?",
+      "options": {
+        "A": "Type 2 pneumocyte",
+        "B": "Clara cell",
+        "C": "Paneth cells",
+        "D": "Kulchitsky cell"
+      },
+      "correct_answer": "D",
+      "explanation": "1122The given clinical scenario is suggestive of bronchial carcinoid. Bronchial neuroendocrine tumors(NETs) arise from Kulchitsky cells.WHO divides neuroendocrine neoplasms into four categories:• Typical carcinoid•Atypical carcinoid•Large-cell neuroendocrine carcinoma• Small-cell carcinoma.Carcinoid tumors are low-grade malignant epithelial neoplasms that represent 1% to 5% of alllung tumors. It is not related to smoking. Carcinoids may occur in patients with multipleendocrine neoplasia type 1.On gross examination, these tumors grow as fingerlike or spherical polypoid masses that projectinto the lumen of the bronchus or as collar button lesions, penetrating the bronchial wall to fanout in the peribronchial tissue.Histologically, the tumor is composed of organoid, trabecular, palisading, ribbon, or rosette-likearrangements of cells separated by a delicate fibrovascular stroma. On electron microscopy, thecells exhibit the dense-core neurosecretory granules.Immunohistochemistry shows positivity for serotonin, neuron-specific enolase, bombesin,calcitonin, or other peptides.10% of the cases may produce carcinoid syndrome.Most carcinoids follow a relatively benign course and have good prognosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 11,
+      "question": "What percentage of patients with bronchial carcinoids present with carcinoid syndrome?",
+      "options": {
+        "A": "10%",
+        "B": "30%",
+        "C": "70%",
+        "D": "20%"
+      },
+      "correct_answer": "A",
+      "explanation": "Approximately, 10% of bronchial carcinoids give rise to the carcinoid syndrome.Most bronchial carcinoids follow a relatively benign course, do not have secretory activity and donot metastasize to distant sites.Classic carcinoid syndrome is characterized by intermittent attacks of diarrhea, flushing,bronchospasm and cyanosis.Carcinoid syndrome is due to excessive production of serotonin, a specialised product oftryptophan metabolism by argentaffin cells (cells in the carcinoid tumor). It is then metabolisedand excreted in urine.If urinary levels of 5-HIAA exceed 25 mg/day, a diagnosis of carcinoid syndrome can be made.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung tumors"
+    },
+    {
+      "q_no": 12,
+      "question": "A solitary coin lesion was seen on a routine X-ray of a patient. After evaluation, he wasdiagnosed with lung hamartoma. Which of the following is the most common tissue seen inthese lesions?",
+      "options": {
+        "A": "Bone",
+        "B": "Cartilage",
+        "C": "Fat",
+        "D": "Smooth muscle1116"
+      },
+      "correct_answer": "B",
+      "explanation": "Cartilage is the most common connective tissue in lung hamartoma.Pulmonary hamartoma consists of nodules of connective tissue intersected by epithelial clefts.There are islands of cartilage, fat, smooth muscle, and entrapped respiratory epithelium in1123pulmonary hamartoma.It is a benign clonal neoplasm associated with chromosomal aberrations involving either 6p21 or12q14-q15.Lung hamartoma is usually discovered as an incidental coin lesion on a routine chest radiograph.The given below is an image of lung hamartoma.1124",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung tumors"
+    }
+  ]
+}

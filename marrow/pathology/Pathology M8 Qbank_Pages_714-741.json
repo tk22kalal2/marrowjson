@@ -1,0 +1,380 @@
+{
+  "chapter": "Tumors",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common type of cardiomyopathy?",
+      "options": {
+        "A": "Dilated cardiomyopathy",
+        "B": "Arrhythmogenic right ventricular cardiomyopathy",
+        "C": "Hypertrophic cardiomyopathy",
+        "D": "Restrictive cardiomyopathy"
+      },
+      "correct_answer": "A",
+      "explanation": "Dilated cardiomyopathy is the most common type of cardiomyopathy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 2,
+      "question": "Alcohol abuse is strongly associated with the development of:",
+      "options": {
+        "A": "Pericarditis",
+        "B": "Hypertrophic cardiomyopathy",
+        "C": "Dilated cardiomyopathy",
+        "D": "Myocarditis"
+      },
+      "correct_answer": "C",
+      "explanation": "Alcohol abuse is strongly associated with the development of dilated cardiomyopathy. Alcohol and its metabolites, especially acetaldehyde, have a direct toxic effect on the myocardium, which leads to the development of dilated cardiomyopathy. Causes of dilated cardiomyopathy: Acquired causes include infectious and non-infectious myocarditis, which is the most common cause globally. Alcohol is the most common cause in India. Other causes include pregnancy-associated cardiomyopathy (PACM) and peripartum cardiomyopathy (PPCM), stress-induced Takotsubo cardiomyopathy, drug-induced causes such as doxorubicin (anthracycline), trastuzumab, cyclophosphamide, nutritional deficiencies like beriberi (thiamine), Keshan disease (selenium), and carnitine deficiency. Endocrine causes include hypo- and hyperthyroidism, acromegaly, and diabetes mellitus. Other causes are cobalt toxicity and heavy metals (lead, mercury, arsenic, lithium). Familial causes (50%) include mutation in the cardiac myocyte titin gene, haemochromatosis, and syndromes like Duchenne muscular dystrophy and Becker's muscular dystrophy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is the largest protein expressed in humans?",
+      "options": {
+        "A": "Myosin",
+        "B": "Collagen",
+        "C": "Titin",
+        "D": "Dystrophin"
+      },
+      "correct_answer": "C",
+      "explanation": "Titin is the largest protein expressed in humans. Titin is the third myofilament of cardiac muscle. It has a single giant polypeptide spanning from the Z-disk to the M-band region of the sarcomere. Mutation in TTN, the gene encoding titin, is responsible for 20% of all cases of dilated cardiomyopathy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 4,
+      "question": "Two brothers were arguing over a property dispute when the elder of the two complained of chest pain and collapsed. He was taken to the hospital but was declared brought dead. The condition responsible for the death of the patient is grouped under which of the following?",
+      "options": {
+        "A": "Dilated cardiomyopathy",
+        "B": "Constrictive cardiomyopathy",
+        "C": "Restrictive cardiomyopathy",
+        "D": "Arrhythmogenic cardiomyopathy"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario of sudden cardiac death in a previously healthy man, under a stressful situation, is suggestive of takotsubo cardiomyopathy. It is a type of dilated cardiomyopathy. Takotsubo cardiomyopathy is also called broken heart syndrome, apical ballooning syndrome, or stress-induced cardiomyopathy. During extreme psychological stress, there is a catecholamine surge. This causes microcirculation spasms which lead to a transient myocardial stunning. It is usually seen in middle-aged women. It leads to left ventricular contractile dysfunction. The left ventricular apex is most often affected, which leads to apical ballooning. This resembles a 'takotsubo,' which is Japanese for 'fishing pot for trapping octopus.' Histologically, acute cases may show microscopic areas of necrosis characterized by myocyte hypercontraction known as contraction band necrosis. Chronic cases may exhibit microscopic foci of granulation tissue.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_76f47df0.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient is admitted to the hospital with heart failure due to dilated cardiomyopathy. Toxicity by which of the following does not cause this?",
+      "options": {
+        "A": "Lead",
+        "B": "Mercury",
+        "C": "Selenium",
+        "D": "Cobalt"
+      },
+      "correct_answer": "C",
+      "explanation": "Selenium deficiency (Keshan's disease) is known to produce dilated cardiomyopathy, and not its toxicity. Causes of dilated cardiomyopathy: Acquired causes: Infectious and non-infectious myocarditis is the most common cause globally. Alcohol is the most common cause in India. Pregnancy: Pregnancy-associated cardiomyopathy (PACM), Peripartum cardiomyopathy (PPCM). Stress-induced: Takotsubo cardiomyopathy. Drug-induced: Doxorubicin: anthracyclines, Trastuzumab, Cyclophosphamide. Nutritional deficiency: Beriberi (thiamine), Keshan disease (selenium), Carnitine deficiency. Endocrine: Hypo- and hyperthyroidism, acromegaly, diabetes mellitus. Others: Cobalt toxicity, Heavy metals (lead, mercury, arsenic, lithium). Familial causes (50%): Mutation in the cardiac myocyte titin gene, Haemochromatosis, Syndromes: Duchenne muscular dystrophy, Becker's muscular dystrophy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 6,
+      "question": "A 55-year-old man is found to have hepatomegaly on physical examination. He also complains of a dark tan despite avoiding sun exposure. His liver microscopy is given on the slide below. Which type of cardiomyopathy is usually seen in this condition?",
+      "options": {
+        "A": "Dilated cardiomyopathy",
+        "B": "Hypertrophic cardiomyopathy",
+        "C": "Restrictive cardiomyopathy",
+        "D": "Left ventricular non-compaction cardiomyopathy"
+      },
+      "correct_answer": "A",
+      "explanation": "In the given scenario, liver microscopy shows hepatocellular iron, stained blue with Perl's Prussian blue stain. The patient most likely suffers from hemochromatosis. Dilated cardiomyopathy (DCM) is the predominant type of cardiomyopathy seen in hemochromatosis. Hemochromatosis can also produce restrictive cardiomyopathy, but it is less common than DCM. The image below shows hemochromatosis. There is hepatocellular iron, stained with Perl's Prussian blue. Hemochromatosis - Prussian blue staining: Iron accumulation in hepatocytes.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q6_img1_68bc8c90.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp6_img1_947aef78.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 7,
+      "question": "The histological examination of the heart of a patient who died due to heart failure is given below. What underlying condition did the patient most likely have?",
+      "options": {
+        "A": "Hypertrophic cardiomyopathy",
+        "B": "Restrictive cardiomyopathy",
+        "C": "Arrhythmogenic cardiomyopathy",
+        "D": "Dilated cardiomyopathy"
+      },
+      "correct_answer": "D",
+      "explanation": "In the given scenario, the histology image shows ninja-star-like nuclei in myocytes. This is suggestive of dilated cardiomyopathy (DCM). These are non-specific findings, but the presence of ≥ 5% myocytes with ninja star-like nuclei are suggestive of DCM. Here, DCM is due to titin-truncating mutations. Truncating mutations are those which shorten the coding sequence of the genes. Histologically, they appear as variable myocyte hypertrophy and interstitial fibrosis. The nuclei are enlarged, bizarre, and hyperchromatic, exhibiting a ninja-star-like appearance. The image given below explains the ninja star-like nuclei in the myocytes. Histologic appearance of ninja-stars-like nuclei in dilated cardiomyopathy: Ninja-stars.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q7_img1_10428ded.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp7_img1_2bfc2c04.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 8,
+      "question": "A 14-year-old boy who collapsed while playing basketball was brought to the emergency room and was resuscitated. On evaluation, he was found to have sustained ventricular tachycardia secondary to arrhythmogenic right ventricular cardiomyopathy. Which syndrome is associated with this?",
+      "options": {
+        "A": "Naxos syndrome",
+        "B": "Nelson syndrome",
+        "C": "Carvajal syndrome",
+        "D": "Takotsubo syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "In the given scenario, the patient suffered from sustained ventricular tachycardia secondary to arrhythmogenic right ventricular cardiomyopathy (ARVC). ARVC is associated with Naxos syndrome. ARVC is an autosomal dominant cardiomyopathy characterized by fibrofatty replacement in the myocardium of the ventricles. It most commonly affects the right ventricle. It is due to mutations in the gene encoding desmosome-associated protein plakophilin 2. This leads to defective cell-adhesion proteins in the desmosomes that link adjacent cardiac myocytes. As shown in the image below, Naxos syndrome is characterized by woolly hair and palmoplantar hyperkeratosis. Morphology shows severe thinning of the right ventricular wall due to loss of myocytes, accompanied by extensive fatty infiltration and fibrosis. The image given below is a gross photograph of the heart showing a dilated right ventricle and near-transmural replacement of its free wall with fat and fibrosis. Carvajal syndrome is a variant of Naxos disease but is associated with dilated cardiomyopathy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp8_img1_8f9779da.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 9,
+      "question": "An autopsy was done for a young patient who had a sudden cardiac death. It revealed massive myocardial hypertrophy without ventricular dilation. The image obtained on microscopy is given below. What is the most likely diagnosis? 200 μm",
+      "options": {
+        "A": "Ischemic cardiomyopathy",
+        "B": "Arrhythmogenic right ventricular dysplasia",
+        "C": "Hypertrophic cardiomyopathy",
+        "D": "Takotsubo cardiomyopathy"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario and autopsy findings are suggestive of hypertrophic cardiomyopathy (HCM). The image given is a histologic section of cardiac muscle showing myocyte disarray and extreme hypertrophy as seen in HCM. HCM is the leading cause of sudden cardiac death in young adults. It is defined as left ventricular hypertrophy of >15mm on ECHO. The left ventricular myocardium is poorly compliant. This leads to abnormal diastolic filling and intermittent ventricular outflow obstruction, i.e., primarily diastolic dysfunction. The gross features of HCM are: • Massive myocardial hypertrophy usually without ventricular dilation. Asymmetric septal hypertrophy - disproportionate thickening of the ventricular septum relative to the left ventricle free wall • Banana-shaped left ventricle - due to bulging of the ventricular septum into the lumen. The image given below shows changes in hypertrophic cardiomyopathy compared to a normal heart. HCM shows asymmetric septal hypertrophy and thickened left ventricle wall. Aortic valve, Right atrium, Tricuspid valve, Right ventricle, Hypertrophic cardiomyopathy, Normal, Arch of aorta, Left atrium, Mitral valve, Left ventricle, Interventricular septum, Turbulent blood flow, Increased approximation of the interventricular septum with the mitral valve, Hypertrophic cardiomyopathy, Small left ventricle, Thickened interventricular septum. Histologic features of the HCM are: • Massive myocyte hypertrophy - with transverse myocyte diameters frequently greater than 40um, normal is approximately 15 µm. • Myofiber disarray - haphazard disarray of bundles of myocytes, individual myocytes, and contractile elements in sarcomeres within cells • Interstitial fibrosis and replacement fibrosis. The image given below is a histologic section of cardiac muscle showing myocyte disarray and extreme hypertrophy seen in an abnormal HCM septum. Hypertrophic cardiomyopathy - Myocyte hypertrophy and disarray, 200 μm",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q9_img1_da2e29d9.png",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_4e648ed8.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 10,
+      "question": "Mutations causing hypertrophic cardiomyopathy are most commonly seen in the gene encoding which of the following?",
+      "options": {
+        "A": "Titin",
+        "B": "Myosin heavy chain",
+        "C": "α-tropomyosin",
+        "D": "Cardiac Troponin I"
+      },
+      "correct_answer": "B",
+      "explanation": "Mutations causing hypertrophic cardiomyopathy are most commonly seen in the genes encoding myosin heavy chain (β-myosin heavy chain). Hypertrophic cardiomyopathy (HCM) is an autosomal dominant disease. In the majority of cases, it is due to missense mutations in the following two sarcomeric protein genes: • Myosin binding protein C (MYBPC) • Beta myosin heavy chain (MYH7)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following can cause restrictive cardiomyopathy?",
+      "options": {
+        "A": "1 and 4",
+        "B": "2, 3 and 5",
+        "C": "1, 2 and 3",
+        "D": "1, 2, 4 and 5"
+      },
+      "correct_answer": "D",
+      "explanation": "Restrictive cardiomyopathy is caused by hemochromatosis, ergotamine, amyloidosis, and carcinoid syndrome. Trastuzumab causes dilated cardiomyopathy. Restrictive cardiomyopathy (RCM) is characterized by increased ventricular stiffness causing impaired diastolic filling of the ventricles. The stiffness is secondary to an underlying disease causing accumulation of intra- and intercellular substances in the myocardium. Causes of RCM: • Infiltration disorders • Amyloidosis (most common) • Sarcoidosis. Storage disorders • Fabry's disease • Glycogen storage disease (type II > III). • Hemochromatosis (DCM > RCM) • Fibrotic disorders • Scleroderma • Endomyocardial fibrosis • Radiation • Ergotamine • Serotonin • Tropical Endomyocardial fibrosis • Carcinoid syndrome • Miscellaneous: post-open heart surgery, diabetes. Morphology of RCM: • Ventricles are of almost normal size or slightly enlarged • The myocardium is non-compliant • Biatrial dilation is commonly observed • Patchy or diffuse interstitial fibrosis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 12,
+      "question": "A 35-year-old female presents with progressive dyspnea on exertion for one week along with a diffuse rash. Blood investigations are significant for an absolute eosinophil count of 4600/mm³. Which of the following is caused by the patient's condition?",
+      "options": {
+        "A": "Hypertrophic cardiomyopathy",
+        "B": "Dilated cardiomyopathy",
+        "C": "Both hypertrophic and dilated cardiomyopathy",
+        "D": "Restrictive cardiomyopathy"
+      },
+      "correct_answer": "D",
+      "explanation": "In the given scenario, the patient has progressive dyspnea along with hypereosinophilia. This is suggestive of Loeffler's endocarditis. It leads to restrictive cardiomyopathy. There is peripheral eosinophilia and eosinophilic infiltrates in multiple organs, including the heart. Major basic protein (MBP) is a toxic product released from eosinophils. This initiates endomyocardial necrosis followed by scarring. It leads to endomyocardial fibrosis, typically with large mural thrombi. Many patients with Loeffler's endocarditis have a myeloproliferative disorder. This is associated with chromosomal rearrangements involving platelet-derived growth factor receptor (PDGF)-α or -β genes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 13,
+      "question": "A 2-year-old girl was brought to the outpatient department with complaints of difficulty in breathing and fatigue. The child had a history of intrauterine exposure to mumps. The cardiac evaluation showed a decrease in ventricular compliance. Which of the following would be the cause of the child's symptoms?",
+      "options": {
+        "A": "Endomyocardial fibrosis",
+        "B": "Loeffler endomyocarditis",
+        "C": "Endocardial fibroelastosis",
+        "D": "Arrhythmogenic right ventricular cardiomyopathy"
+      },
+      "correct_answer": "C",
+      "explanation": "In this scenario, the decrease in ventricular compliance indicates restrictive cardiomyopathy. Endocardial fibroelastosis is an uncommon restrictive heart condition characterized by fibroelastic thickening that typically involves the left ventricular endocardium. It is most common in the first 2 years of life. It results from several different insults, including viral infections (e.g., intrauterine exposure to mumps) or mutations in the gene for tafazzin. These mutations affect mitochondrial inner membrane integrity. Endomyocardial fibrosis is a disease of children and young adults in Africa and other tropical areas. It is characterized by fibrosis of the ventricular endocardium and subendocardium that extends from the apex upward. The etiology is unknown. Loeffler endomyocarditis results in endomyocardial fibrosis, typically with large mural thrombi. The overall morphology is similar to the tropical disease. In addition to the cardiac changes, there is often peripheral eosinophilia and eosinophilic infiltrates in multiple organs, including the heart.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 14,
+      "question": "Myocarditis is most commonly caused by which of the following viral infections?",
+      "options": {
+        "A": "Influenza virus",
+        "B": "Cytomegalovirus",
+        "C": "Coxsackie virus",
+        "D": "Epstein-Barr virus"
+      },
+      "correct_answer": "C",
+      "explanation": "Viral infections are the most common cause of myocarditis. Coxsackie viruses A and B and other enteroviruses account for most of the cases. Myocarditis is a diverse group of pathologic entities in which infectious microorganisms and/or a primary inflammatory process cause myocardial injury.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 15,
+      "question": "Which serum protein is the major component of senile cardiac amyloid deposits?",
+      "options": {
+        "A": "Haptoglobin",
+        "B": "Transthyretin",
+        "C": "Fibronectin",
+        "D": "Amylin"
+      },
+      "correct_answer": "B",
+      "explanation": "Transthyretin is the major component of senile cardiac amyloid deposits. It is a normal serum protein synthesized in the liver that transports thyroxine and retinol-binding protein. Amyloidosis of the heart can develop as a consequence of systemic amyloidosis or it may be localized. This is particularly seen in the elderly (senile cardiac amyloidosis). It has a far better prognosis than systemic amyloidosis. Presentation of cardiac amyloidosis: • Restrictive cardiomyopathy - most common • Asymptomatic • Dilation • Arrhythmias • Ischemic disease • Valvular disease. The chambers are usually of normal size, but can be dilated and have thickened walls. Small, semitranslucent nodules resembling drips of wax may be seen on the atrial endocardial surface, particularly on the left. Histologically, hyaline eosinophilic deposits of amyloid are found in: • Interstitium • Conduction tissue • Valves, endocardium • Pericardium • Small intramural coronary arteries.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_93e9f8da.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 16,
+      "question": "One week following a diagnosis of myocardial infarction, a patient experiences precordial pain and develops a fever of 101.5°F. Physical examination is remarkable for a loud friction rub. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Caseous pericarditis",
+        "B": "Fibrinous pericarditis",
+        "C": "Hemorrhagic pericarditis",
+        "D": "Purulent pericarditis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario suggests post-myocardial infarction fibrinous pericarditis. It is the most common type of pericarditis. Clinically, there is a loud pericardial friction rub. There is a rubbery fibrin mass loosely gluing the parietal and visceral pericardium together (bread and butter). It may resolve or become organized to produce adhesive pericarditis. It is usually seen following: Myocardial infarction, Rheumatic fever, Trauma, Uremia, Radiation, Systemic lupus erythematosus (SLE), and Severe pneumonia. Types of acute pericarditis: Serous pericarditis: There is a mild inflammation of epicardial and pericardial surfaces. Both acute and chronic inflammatory cells are present. There is exudative serous fluid, usually 50–200 mL. Thus, it develops slowly and rarely alters cardiac function. It is caused by: Rheumatic fever, SLE, Systemic scleroderma, Tumors, Uremia, Viral infection, Tuberculosis. Suppurative/purulent pericarditis: It may be due to bacterial, mycotic, or parasitic invasion. The inflammation may extend into the surrounding mediastinum. It usually results in organization and, therefore, constrictive pericarditis with clinical sequelae. The entry of the pathogen into the pericardium may be by: direct extension, seeding from blood, lymphatic spread, or seeding by instrumentation. Hemorrhagic pericarditis: It can be due to tuberculosis or a malignant neoplasm (from lung or breast). It can also be seen following cardiac surgery. Caseous pericarditis is almost always tubercular in origin.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q16_img1_8d795d1b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 17,
+      "question": "A 52-year-old man with a history of myocardial infarction 4 weeks back, develops fever, pericardial chest pain and pericardial effusion. What is the etiology behind the patient's present condition?",
+      "options": {
+        "A": "Viral",
+        "B": "Bacterial",
+        "C": "Free radical",
+        "D": "Autoimmune"
+      },
+      "correct_answer": "D",
+      "explanation": "In the given scenario, fever, pericardial pain, and effusion 4 weeks after MI, is suggestive of Dressler's syndrome. The etiology of Dressler's syndrome is autoimmune. It is also known as post-myocardial infarction (post-MI) cardiac injury syndrome. It occurs one week to as long as two to three months after MI. A fibrinous or fibrinohemorrhagic pericarditis usually develops around the second or third day following a transmural infarct. It is a result of the underlying myocardial inflammation. Dressler's syndrome is believed to have an autoimmune etiology. There is an inflammatory reaction to myocardial neo-antigens formed as a result of MI.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 18,
+      "question": "The autopsy of a patient who died due to heart failure revealed concretio cordis. Which of the following is this condition associated with?",
+      "options": {
+        "A": "Blunt trauma to the heart",
+        "B": "Penetrating trauma to the heart",
+        "C": "Constrictive pericarditis",
+        "D": "Acute fibrinous pericarditis"
+      },
+      "correct_answer": "C",
+      "explanation": "Concretio cordis occurs in advanced cases of constrictive pericarditis. In constrictive pericarditis, a thick, 0.5-1cm, fibrous scar tissue is formed. This can obliterate the pericardial space and sometimes calcify. In extreme cases, it can resemble a plaster mold and is known as concretio cordis. Constrictive pericarditis may be idiopathic or can occur following: pericarditis - serous or caseous, cardiac surgery, or heavy irradiation. Adhesive mediastinopericarditis occurs when adhesion and fibrosis extend from the parietal pericardium into the mediastinum. Soldier's plaque is a focal, pearly, thickened epicardial plaque, indicative of healed pericarditis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is the most common primary tumour of the adult heart?",
+      "options": {
+        "A": "Haemangioma",
+        "B": "Myxoma",
+        "C": "Rhabdomyoma",
+        "D": "Fibroma"
+      },
+      "correct_answer": "B",
+      "explanation": "Myxomas are the most common primary tumours of the heart in adults. 90% of myxomas are located in the atria. The left-to-right ratio of the myxoma is approximately 4:1. The region of the fossa ovalis in the atrial septum is the favoured site of origin. Histopathological examination shows stellate or globular myxoma, 'lepidic,' cells. Peculiar vessel-like or gland-like structures are characteristic. Major clinical manifestations are fever and malaise (due to IL-6). Valvular 'ball-valve' obstruction or embolization can occur. Important points on cardiac tumours: • Most common cardiac tumour: metastasis • Most common benign cardiac tumour: atrial myxoma • Most common primary cardiac tumour in adults: atrial myxoma • Most common primary cardiac tumour in children: rhabdomyoma The image given below shows an abundant amorphous extracellular matrix. It contains scattered multinucleate myxoma cells in various groupings, including abnormal vessel-like formations.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp19_img1_ca40eeef.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following conditions is commonly seen in patients with null mutations of the PRKAR1A gene?",
+      "options": {
+        "A": "Gastrointestinal stromal tumor",
+        "B": "Paraganglioma",
+        "C": "Cardiac myxoma",
+        "D": "Rhabdomyoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Cardiac myxoma is seen in 30-40% of Carney complex patients. Null mutations in the PRKAR1A gene are seen in Carney's complex. Familial syndromes associated with myxomas have activating mutations in the GNAS1 gene or null mutations in PRKAR1A. Mutations in GNAS1 are associated with McCune-Albright syndrome. The PRKAR1A gene encodes a regulatory subunit of a cyclic-AMP-dependent protein kinase (Carney complex). Skin lesions are the most common manifestation of the Carney complex. The most common type of endocrine tumor in the Carney complex is the primary pigmented nodular adrenocortical disease (PPNAD). It is a form of bilateral adrenal hyperplasia that leads to adrenocorticotropic hormone (ACTH)-independent Cushing syndrome. NAME syndrome and LAMB syndrome are subsets of the Carney complex. The LAMB acronym refers to lentigines, atrial myxoma, and blue nevi. NAME refers to nevi, atrial myxoma, myxoid neurofibromas, and ephelids. Components of Carney Complex: • Skin pigmented lesions (lentigines, blue nevi, other) • Myxomas (cutaneous, mucosal, cardiac, other) • PPNAD (Cushing Syndrome) • GH-PRL-producing adenomas (acromegaly) • Leydig or Sertoli cell tumors • Ovarian cystadenoma or carcinoma • Thyroid adenoma or cancer • Psammomatous melanotic schwannoma • Breast ductal adenoma • Osteochondromyxoma • Cancers (liver, pancreas, adrenal) Carney triad: • Extra-adrenal paraganglioma • Gastrointestinal stromal tumor • Pulmonary chondroma Carney-Stratakis Syndrome: Familial paraganglioma and gastrointestinal stromal tumor (GIST)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 21,
+      "question": "What is the most common site of a cardiac myxoma?",
+      "options": {
+        "A": "Left atrium",
+        "B": "Right atrium",
+        "C": "Left ventricle",
+        "D": "Interventricular septum"
+      },
+      "correct_answer": "A",
+      "explanation": "Atrial myxomas most commonly occur in the left atrium. Myxoma is usually single, but can rarely be multiple. The region of the fossa ovalis in the atrial septum is the favoured site of origin. Mobile tumours exert a 'wrecking-ball' effect, causing damage to the valve leaflets. They can be sporadic or familial. The image given below shows a gross picture of an atrial cardiac myxoma arising from the region of the fossa ovalis and extending to the mitral valve orifice: Sporadic Type Myxoma - Single. Postoperative recurrence: NIL. Younger age. Left atria: most common site. Familial Type Myxoma - Multiple. Present.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp21_img1_94545b05.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 22,
+      "question": "The histopathologic findings seen in a resected heart mass are given below. What is the diagnosis?",
+      "options": {
+        "A": "Cardiac Myxomas",
+        "B": "Papillary fibroelastoma",
+        "C": "Cardiac Rhabdomyoma",
+        "D": "Cardiac Rhabdomyosarcoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given histological slide shows abundant spider cells. They are seen in rhabdomyoma. Microscopically, they are composed of bizarre, markedly enlarged myocytes. Routine histologic processing often artifactually reduces the abundant cytoplasm to thin strands that stretch from the nucleus to the surface membrane. This appearance is referred to as 'spider' cells. Rhabdomyoma is the most frequent primary tumor of the pediatric heart. 50% of cases are associated with tuberous sclerosis, with mutations in the tumor-suppressor genes TSC1 and TSC2. They are usually multiple and occur in ventricles preferentially. They often regress spontaneously and may, therefore, be considered as hamartomas. The image given shows a spider cell in rhabdomyoma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q22_img1_42cae172.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp22_img1_8f675d93.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 23,
+      "question": "The single most important long-term limitation of cardiac transplantation is",
+      "options": {
+        "A": "Allograft rejection",
+        "B": "Allograft arteriopathy",
+        "C": "Infection",
+        "D": "Malignancy"
+      },
+      "correct_answer": "B",
+      "explanation": "The single most important long-term limitation of cardiac transplantation is allograft arteriopathy. Complications following cardiac transplantation: Allograft rejection: It is the primary concern that requires close surveillance. Both classic cellular rejection and antibody-mediated rejection are recognized. Cellular rejection is characterized by interstitial lymphocytic inflammation, with associated myocyte damage. Allograft arteriopathy: It is the single most important long-term limitation for cardiac transplantation. It is a late, progressive, diffusely stenosing intimal proliferation in the coronary arteries, leading to ischemic injury. It can lead to silent myocardial infarction since transplant patients have denervated hearts and do not experience angina. Progressive congestive heart failure and sudden cardiac death can also occur. Other postoperative problems include infection and malignancies, especially Epstein-Barr virus-associated B-cell lymphomas. The image given below shows allograft arteriopathy. There is severe diffuse concentric intimal thickening producing critical stenosis. The internal elastic lamina and media are intact (Movat pentachrome stain, elastin black).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp23_img1_da056b4b.jpeg",
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 24,
+      "question": "What is the most common cause of the condition shown in the given image?",
+      "options": {
+        "A": "Malignant hypertension",
+        "B": "Chronic hypertension",
+        "C": "Amyloidosis",
+        "D": "Hypertrophic obstructive cardiomyopathy"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows a heart with left ventricular hypertrophy. The most common cause of left ventricular hypertrophy is chronic hypertension.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q24_img1_a060791b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following patients with cardiac hypertrophy will have an associated increase in capillary density?",
+      "options": {
+        "A": "A patient with systemic hypertension",
+        "B": "A patient with an echo finding of an aortic valvular area of 0.6cm²",
+        "C": "A patient with a high-pitched holosystolic murmur best heard at the apex",
+        "D": "A patient who is a marathon runner who came for a pre-run evaluation"
+      },
+      "correct_answer": "D",
+      "explanation": "In the given scenario, a marathon runner will have cardiac hypertrophy with increased capillary density. Aerobic exercise, e.g., long-distance running, is associated with volume-load hypertrophy accompanied by an increase in capillary density. This is not seen in other forms of hypertrophy. This decreases resting heart rate and blood pressure. In hypertrophy due to pressure or volume overload, there is a sustained increase in mechanical work. This causes myocytes to increase in size, thus increasing the size and weight of the heart. The hypertrophied heart has an increased oxygen consumption but decreased supply. This is because hypertrophy is not accompanied by a proportional increase in capillary numbers. This leads to ischemia-related decompensation, which can evolve to cardiac failure and eventually lead to death. The causes and consequences of hypertrophy are summarized in the below image. Causes and consequences of cardiac hypertrophy: Conditions causing pressure or volume overload - Valvular disease, Hypertension, Myocardial infarction. Leads to increased cardiac work - Cardiac wall stretches, Leads to cardiac hypertrophy - Heart size and mass increases, Protein synthesis increases, Fibrosis occurs, Blood supply compromised. Leads to cardiac function impairment - Systolic/diastolic heart failure, Arrhythmias may occur, Neuro-humoral stimulation may occur. Heart weight, rather than wall thickness, is the best measure of hypertrophy in dilated hearts. A patient with systemic hypertension has pressure-overload hypertrophy. A patient with an echo finding of an aortic valvular area of 0.6cm² is suggestive of aortic stenosis. There is pressure-overload hypertrophy. A patient with a high-pitched holosystolic murmur best heard at the apex is suggestive of mitral regurgitation. There is volume-overload hypertrophy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "chapter": "Characteristics of Neoplasms and Epidemiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a hallmark of malignancy?",
+      "options": {
+        "A": "Self-sufficiency in growth signals",
+        "B": "Sensitivity to growth-inhibitory signals",
+        "C": "Sustained angiogenesis",
+        "D": "Evasion of apoptosis"
+      },
+      "correct_answer": "C",
+      "explanation": "Cancer cells are insensitive to growth-inhibitory signals.All cancer cells are known to show around 8 fundamental physiological changes in the cell, whichare considered as the hallmarks of cancer. These changes include the following:• Self-sufficiency in growth signals - once activated, tumors can proliferate without externalstimuli•Insensitivity to growth-inhibitory signals - tumors do not respond to inhibitors of cell growth.This is attributed to the inactivation of the tumor-suppressor genes in cancer cells•••Altered cellular metabolism - tumor cells switch to aerobic glycolysis, called the Warburg effect• Evasion of apoptosis• Limitless replicative potential• Sustained angiogenesis••Ability to invade and metastasisAbility to evade the host immune response",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is incorrect regarding the Warburg effect?",
+      "options": {
+        "A": "Cancer cells are characterized by high levels of glucose uptake",
+        "B": "Cancer cells convert glucose to lactic acid even in the presence of ample oxygen",
+        "C": "Conversion of glucose to lactic acid is done via the HMP pathway",
+        "D": "Aerobic glycolysis provides cancer cells with metabolic intermediates"
+      },
+      "correct_answer": "C",
+      "explanation": "Increased conversion of glucose to lactic acid is done via the glycolytic pathway (not HMP).Even in the presence of ample oxygen, cancer cells demonstrate a distinctive form of cellularmetabolism. This is characterized by high levels of glucose uptake and increased conversion ofglucose to lactic acid via the glycolytic pathway. This phenomenon is called the Warburg effect.Aerobic glycolysis provides rapidly dividing tumor cells with metabolic intermediates that arerequired for the synthesis of cellular components, whereas mitochondrial oxidative phosphor-ylation ☐ does not.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is false about adenomas?",
+      "options": {
+        "A": "They are benign tumors",
+        "B": "Pleomorphic adenoma is an example",
+        "C": "They can form non-glandular structures",
+        "D": "They can be of non-glandular origin"
+      },
+      "correct_answer": "B",
+      "explanation": "Pleomorphic adenoma is an example of a mixed tumor consisting of epithelial and myoepithelialcells with or without stromal components.Adenomas are benign epithelial tumors. They can arise from:•Glandular cells and form glandular structures - for example, follicular adenomas of the thyroid,which arise from the thyroid gland and forms glandular structures• Glandular cells but form non-glandular structures - for example, heterogeneous mass of adrenalcortical cells growing as a solid sheet• Non-glandular cells and form glandular structures - for example, benign epithelial neoplasm thatarises from renal tubular cells growing in the form of numerous tightly clustered small glands207",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 4,
+      "question": "All are small round blue cell tumors except:",
+      "options": {
+        "A": "Hemangioblastoma",
+        "B": "Ewing's sarcoma",
+        "C": "Retinoblastoma201",
+        "D": "Neuroblastoma"
+      },
+      "correct_answer": "A",
+      "explanation": "Hemangioblastoma is not a small round blue cell tumor.Hemangioblastomas are tumors of central nervous system that originate from vascular tissues.They demonstrate the proliferation of capillaries with variable sized, closely packed, and thinwalled vessels as seen in the image below.Small round blue cell tumors consist of small round cells that stain blue on routine H&amp;Estaining sections. They include:• Neuroblastoma• Retinoblastoma•⚫ Ewing's sarcoma• Wilms tumor• Rhabdomyosarcomas• Acute leukemiaThe following is the image of neuroblastoma showing Homer-Wright pseudorosettes.208NeuroblastomaHomer-Wright pseudorosettes",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp4_img1_d73613ac.jpeg",
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is a disorganized but benign mass composed of cells indigenous to the involved site?",
+      "options": {
+        "A": "Choristoma",
+        "B": "Hamartoma",
+        "C": "Papilloma",
+        "D": "Teratoma"
+      },
+      "correct_answer": "B",
+      "explanation": "Hamartomas are disorganized but benign masses composed of cells indigenous to the involved site. Examples of hamartoma include: • Mammary hamartoma • Pulmonary chondromatous hamartoma • Splenic hamartoma • Neurocristic hamartoma • Fibrous hamartoma of infancy. Option A: Choristomas are heterotopic rests of cells. Option D: Teratomas arise from totipotent germ cells. They contain recognizable mature or immature cells or tissues belonging to more than one germ cell layer, and sometimes all three germ layers. Option C: Papillomas are benign epithelial neoplasms. They are characterized by microscopically or macroscopically visible finger-like or warty projections from epithelial surfaces.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 6,
+      "question": "While examining an excision biopsy sample, the pathologist notices anaplastic cells. Which ofthe following tumors will show this characteristic finding?",
+      "options": {
+        "A": "Papilloma",
+        "B": "Sarcoma",
+        "C": "Chondroma",
+        "D": "Adenoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Anaplasia or lack of differentiation is a characteristic feature of malignant neoplasm like sarcoma.Differentiation refers to the extent to which neoplastic parenchymal cells resemble thecorresponding normal parenchymal cells, both morphologically and functionally.209The image below shows a hepatocellular carcinoma characterized by large anaplastic carcinomacells with eosinophilic cytoplasm, large hyperchromatic nuclei, and prominent nucleoli. Thenormal trabecular structure of the liver is distorted.NormalHepatocytesNeoplastic cells",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp6_img1_cb6fd7d3.jpeg",
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the normal nuclear to cytoplasmic ratio?",
+      "options": {
+        "A": "1:1",
+        "B": "1:2",
+        "C": "1:4",
+        "D": "1:8"
+      },
+      "correct_answer": "C",
+      "explanation": "The normal nuclear to cytoplasmic ratio is 1:4 to 1:6. Normal nuclear to cytoplasmic ratio implies that the volume occupied by the cytoplasm is 4 to 6 times greater than the volume occupied by the nucleus. Abnormal nuclear morphologies that are seen in malignant cells: • Nuclei disproportionately large for the cell • Nuclear shape is variable and often irregular • Chromatin • Coarsely clumped • Hyperchromatic • Nucleoli are abnormally large",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 8,
+      "question": "A 50-year-old woman is diagnosed with metastatic breast cancer. Which of the following features is least likely to be seen in the microscopic examination of the resected tumor?",
+      "options": {
+        "A": "Retention of polarity",
+        "B": "Lack of differentiation",
+        "C": "Atypical mitoses",
+        "D": "Pleomorphism"
+      },
+      "correct_answer": "A",
+      "explanation": "Loss of polarity is a microscopic finding in malignant neoplasms, like metastatic breast cancer. In malignancy, the orientation of cells is markedly disturbed, and polarity is lost. Sheets or large masses of tumor cells grow in an anarchic, disorganized fashion. Morphological changes in cancer cells include: Anaplasia, Pleomorphism, Nuclear changes, Nuclei disproportionately large for the cell, Nuclear shape is variable and often irregular, Chromatin coarsely clumped and hyperchromatic, Nucleoli are abnormally large, and Atypical mitosis. Loss of polarity",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 9,
+      "question": "A 45-year-old woman presents with complaints of post-coital bleeding. On per speculumexamination, a friable mass is seen and a punch biopsy is done. The presence of which of thefollowing features in microscopic examination of biopsy specimen differentiates invasivecarcinoma from carcinoma in situ?",
+      "options": {
+        "A": "Nuclear hyperchromasia",
+        "B": "Typical mitoses",
+        "C": "Pleomorphism",
+        "D": "Breachment of basement membrane"
+      },
+      "correct_answer": "D",
+      "explanation": "Once the tumor cells breach the basement membrane, the tumor is said to be invasive.Progression of cancer occurs in the following stages: dysplasia→carcinoma in situ→invasivecarcinomaIn situ carcinoma is when dysplastic changes are marked and involve the full thickness of theepithelium, but the lesion does not penetrate the basement membrane. It is a pre-invasiveneoplasm.The tumor is said to be invasive when the basement membrane is breached by the tumor cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 10,
+      "question": "Choose the correct statement(s):",
+      "options": {
+        "A": "Both A and R are true, and R is the correct explanation of A",
+        "B": "Both A and R are true, but R is not the correct explanation of A",
+        "C": "A is true; R is false",
+        "D": "A is false; R is true"
+      },
+      "correct_answer": "D",
+      "explanation": "All tumors with invasive property (malignant tumors) may not necessarily metastasize.Examples of tumors with invasive properties but do not metastasize are:• Gliomas•Basal cell carcinomas of the skinBoth of these cancers invade early in their course, but rarely metastasize. Thus, it is evident thenthat the properties of invasion and metastasis are separable.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 11,
+      "question": "A 40-year-old patient is diagnosed with a breast lump. On clinical examination, nodes are notpalpable. Mammography is suggestive of a malignant tumor. Which of the following nodes isoften biopsied to assess the presence of metastasis microscopically?",
+      "options": {
+        "A": "Largest lymph node in the region of the primary tumor",
+        "B": "Smallest lymph node in the region of the primary tumor",
+        "C": "First lymph node that receives lymph flow from the primary tumor",
+        "D": "Last lymph node that receives lymph flow from the primary tumor"
+      },
+      "correct_answer": "C",
+      "explanation": "The sentinel lymph node, which is the first node in a regional lymphatic basin that receives lymphflow from the primary tumor, is often used to assess the presence or absence of metastatic lesionsin the lymph nodes microscopically.Sentinel node mapping can be done by the injection of radiolabeled tracers or colored dyes.Examination of frozen sections of the sentinel lymph node is often performed during surgery. Itcan guide the surgeon to the appropriate therapy.211Sentinel node examination has also been used for detecting the spread of:• Melanomas•Colon cancersSentinel Lymph Node BiopsyLymph nodesSentinelnodesTumorRadioactiveProbesubstanceor dyeTumor andsentinel nodesremoved",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_18bd9d02.jpeg",
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 12,
+      "question": "203Which of the following is not an angiogenesis promoter in tumor cells?",
+      "options": {
+        "A": "Thrombospondin",
+        "B": "Interleukin-8",
+        "C": "Epidermal growth factor",
+        "D": "Angiogenin"
+      },
+      "correct_answer": "A",
+      "explanation": "Thrombospondin is an anti-angiogenic factor.Angiogenic and antiangiogenic factors are produced by tumor and stromal cells and are essentialfor the vascularization of tumors.Angiogenic activators include:• Angiogenin• Interleukin-8• Growth factors:•• Vascular endothelial growth factor (VEGF)• Basic fibroblast growth factor (bFGF)• Transforming growth factor (TGF)-α and °.Tumor necrosis factor (TNF)-α• Platelet-derived endothelial growth factor• Granulocyte colony-stimulating factor• Placental growth factor•Hepatocyte growth factor.Epidermal growth factorAnti-angiogenic factors include:212•Angiostatin• Endostatin• Interferon• Platelet factor 4•⚫ Thrombospondin• Prolactin 16 KD fragment•Tissue inhibitor of metalloproteinase-1, 2, and 3",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following malignancies is least likely to occur in those with only alcohol abuseand without any additional risk factors?",
+      "options": {
+        "A": "Carcinoma of the oropharynx",
+        "B": "Carcinoma of the larynx",
+        "C": "Carcinoma of the oesophagus",
+        "D": "Carcinoma of the colon"
+      },
+      "correct_answer": "D",
+      "explanation": "Alcohol abuse alone increases the risk of carcinomas of the oropharynx (excluding lip), larynx, andesophagus.Alcohol and tobacco together synergistically increase the risk of cancers in the upper airway anddigestive tract.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 14,
+      "question": "A textile factory worker who is repeatedly exposed to benzene is at increased risk ofdeveloping which of the following tumors?",
+      "options": {
+        "A": "Bladder carcinoma",
+        "B": "Lung carcinoma",
+        "C": "Acute myeloid leukemia",
+        "D": "Prostate carcinoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Repeated exposure to benzene is associated with increased risk of acute myeloid leukemia (AML)Malignancies associated with repeated exposure to benzene:• Acute myeloid leukemia (AML)•• Acute lymphocytic leukemia (ALL).• Chronic lymphocytic leukemia (CLL).• Multiple myeloma.Note: While studies have shown that benzene has a propensity to cause bladder carcinoma, it ismost commonly associated with AMLS.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 15,
+      "question": "A 60-year-old patient employed in the plastic industry for 30 years is diagnosed with a tumor in the liver. On resection, the gross specimen shows greyish-white lesions with multiple reddish-brown hemorrhagic foci and several blood-filled spaces shown by arrows in the image given below. Which of the following is not a risk factor for the development of this tumor?",
+      "options": {
+        "A": "Arsenic",
+        "B": "Thorotrast",
+        "C": "Vinyl chloride",
+        "D": "Beryllium"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical history and findings of the gross specimen are suggestive of angiosarcoma of the liver, and beryllium is not a risk factor for the development of this tumor. Angiosarcoma of the liver is associated with exposure to: vinyl chloride, androgenic steroids, arsenic, and thorotrast. A histological specimen of angiosarcoma of the liver is given below.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q15_img1_9c86182c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_55f88d35.jpeg",
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 16,
+      "question": "A 50-year-old patient is diagnosed with lung carcinoma. Which of the following is implicated in the causation of this tumor?",
+      "options": {
+        "A": "Radon",
+        "B": "Cadmium",
+        "C": "Barium",
+        "D": "Thallium"
+      },
+      "correct_answer": "A",
+      "explanation": "Radon is implicated in the causation of lung carcinoma. Carcinogens implicated in lung carcinoma are: • Asbestos • Arsenic • Beryllium • Chromium • Nickel • Radon.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 17,
+      "question": "A 50-year-old patient who is a known case of cholangiocarcinoma presents with intermittent fever and jaundice. Which of the following organisms is commonly implicated in the pathogenesis of this tumor?",
+      "options": {
+        "A": "Opisthorchis viverrini",
+        "B": "Paragonimus westermani",
+        "C": "Echinococcus granulosus",
+        "D": "Diphyllobothrium latum"
+      },
+      "correct_answer": "A",
+      "explanation": "Opisthorchis viverrini (liver fluke) is implicated in the pathogenesis of cholangiocarcinoma. Apart from Opisthorchis viverrini, Clonorchis sinensis is also known to cause cholangiocarcinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is the least radiosensitive cell in blood?",
+      "options": {
+        "A": "RBC",
+        "B": "Neutrophil",
+        "C": "Lymphocyte",
+        "D": "Platelets"
+      },
+      "correct_answer": "D",
+      "explanation": "The least radiosensitive cell in the blood is the platelet.The most radiosensitive cell in the blood is the lymphocyte.214The most radiosensitive phase of the cell cycle is G2M.The least radiosensitive is the S phase.215",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Characteristics of Neoplasms and Epidemiology"
+    }
+  ]
+}

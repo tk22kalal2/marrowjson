@@ -1,0 +1,365 @@
+{
+  "chapter": "bone",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What are the specialized multinucleated macrophages in bone called?",
+      "options": {
+        "A": "Osteocytes",
+        "B": "Chondroblasts",
+        "C": "Osteoclasts",
+        "D": "Histiocytes"
+      },
+      "correct_answer": "C",
+      "explanation": "Osteoclasts are the specialized multinucleated macrophages in bone.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_69d7bd50.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is not a marker of bone resorption?",
+      "options": {
+        "A": "Osteocalcin",
+        "B": "Urine free deoxypyridinoline",
+        "C": "Crosslinked-N-telopeptides",
+        "D": "Tartrate-resistant acid phosphatase"
+      },
+      "correct_answer": "A",
+      "explanation": "Osteocalcin is not a bone resorption marker. It is a protein secreted only by osteoblasts. Thus, it is a bone formation marker (osteoblastic marker).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is the most common benign bone tumor?",
+      "options": {
+        "A": "Osteoblastoma",
+        "B": "Chondroblastoma",
+        "C": "Osteochondroma",
+        "D": "Osteoid osteoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Osteochondroma, also known as exostosis, is the most common benign bone tumor. It is a benign cartilage-capped tumor. 85% of osteochondromas are solitary. The remainder is seen as part of the multiple hereditary exostosis syndromes, an autosomal-dominant hereditary disease. Lesions arise from the metaphysis near the growth plate of long tubular bones, especially near the knee. They are either sessile or pedunculated and range in size from 1 to 20 cm. Histologically, the cap is composed of benign hyaline cartilage varying in thickness and is covered peripherally by perichondrium. Osteochondromas can progress to chondrosarcoma. The image below shows the histopathological specimen of osteochondroma, displaying a cartilage cap lined by perichondrium contiguous with mature bone. Histopathology of Osteochondroma: Cartilage cap contiguous with mature bone.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp3_img1_50aae625.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 4,
+      "question": "A woman delivered a child who died a few minutes after birth. The infant was found to have blue sclera and fractures of the right humerus, ulna, and femur at birth. What is the most probable diagnosis?",
+      "options": {
+        "A": "Osteogenesis Imperfecta Type I",
+        "B": "Osteogenesis Imperfecta Type II",
+        "C": "Osteogenesis Imperfecta Type III",
+        "D": "Osteogenesis Imperfecta Type IV"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of osteogenesis imperfecta type II. The type II variant of osteogenesis imperfecta (OI) is uniformly fatal in utero or during the perinatal period. Type II OI is characterized by extraordinary bone fragility with multiple intrauterine fractures. Osteogenesis imperfecta (brittle bone disease) is caused by deficiencies in the synthesis of type I collagen. It can be separated into four major clinical subtypes that vary widely in severity. The severity of the disease is based on the location of the mutation within the protein. Individuals with type I OI have a normal life span, but experience childhood fractures that decrease in frequency following puberty.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 5,
+      "question": "A 29-year-old woman gives birth to an infant with less than 5th percentile length. The head and torso are of normal size, but extremities are short. The head circumference is at the 95th percentile, and frontal bossing is seen. What is the most likely diagnosis?",
+      "options": {
+        "A": "Hypophosphatemic rickets",
+        "B": "Achondroplasia",
+        "C": "Ehlers-Danlos syndrome",
+        "D": "Osteogenesis imperfecta"
+      },
+      "correct_answer": "B",
+      "explanation": "This given clinical scenario is suggestive of achondroplasia. Achondroplasia is the most common skeletal dysplasia and a major cause of dwarfism. It has autosomal dominant inheritance. It occurs due to the gain of a mutation in fibroblast growth factor receptor (FGFR3). This leads to abnormal cartilage proliferation at growth plates and affects endochondral bone growth. Infants present with: • Short stature • Rhizomelic shortening of limbs • Frontal bossing • Midface deficiency. The condition is not associated with changes in longevity, intelligence, or reproductive status.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp5_img1_34ccd4d6.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is also called marble bone disease?",
+      "options": {
+        "A": "Osteogenesis imperfecta",
+        "B": "Vrolik's syndrome",
+        "C": "Albers-Schönberg disease",
+        "D": "Paget disease of bone"
+      },
+      "correct_answer": "C",
+      "explanation": "Albers-Schönberg disease or osteopetrosis is also known as marble bone disease. The term osteopetrosis reflects the stone-like quality of the bones. The bones are abnormally brittle and fracture easily, like a piece of chalk. It occurs due to reduced bone resorption and diffuse symmetric skeletal sclerosis because of impaired formation or function of osteoclasts. Note: Osteogenesis imperfecta is also called brittle bone disease. Paget's disease is also called osteitis deformans; it presents with a mosaic pattern of lamellar bone.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 7,
+      "question": "An infant is being evaluated for multiple fractures over the last 3 months. On examination, hydrocephalus, cranial nerve defects, and hepatosplenomegaly are noted. Imaging reveals generalized sclerosis and a bone-in-bone appearance. Which of the following is the most likely enzyme to be deficient in this condition?",
+      "options": {
+        "A": "Carbonic anhydrase II",
+        "B": "Acid phosphatase",
+        "C": "Creatine kinase",
+        "D": "Phosphorylase"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of osteopetrosis. It occurs due to autosomal recessive defects in the gene for the enzyme carbonic anhydrase II. Carbonic anhydrase II is required by osteoclasts and renal tubular cells to generate protons from carbon dioxide and water (acidification). The absence of carbonic anhydrase II prevents osteoclasts from acidifying the resorption pit and dissolution of calcium hydroxyapatite within the bone matrix. It also blocks the acidification of urine by the renal tubular cells. This leads to reduced bone resorption and diffuse symmetric skeletal sclerosis. Due to deficient osteoclast activity, bones involved by osteopetrosis lack a medullary canal, giving it a bone-in-bone appearance. The ends of long bones are bulbous (Erlenmeyer flask deformity) and misshapen. The neural foramina are small and compress the exiting nerves, leading to cranial nerve palsies. Extensive extramedullary hematopoiesis leads to leukopenia and prominent hepatosplenomegaly. As carbonic anhydrase II is widely expressed, mutations of this gene result in a condition called marble brain disease or Guibaud-Vainsel syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 8,
+      "question": "A 60-year-old postmenopausal woman presents with sudden severe back pain. There is no history of trauma. X-ray findings are given below. MRI shows thinning of trabecular plates of the vertebrae and vertebral collapse. Levels of which of the following will be increased in her condition?",
+      "options": {
+        "A": "RANKL",
+        "B": "OPG",
+        "C": "IFN-γ",
+        "D": "IL-8"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of osteoporosis. Cytokines stimulate osteoclast recruitment and activity in osteoporosis by increasing the levels of RANKL. RANKL helps in diminishing the expression of osteoprotegerin (OPG), increasing osteoclast proliferation, and preventing osteoclast apoptosis. Decreased estrogen levels after menopause actually increase both bone resorption and formation. However, the latter does not keep up with the former, leading to a high turnover. Decreased estrogen appears to increase the secretion of inflammatory cytokines such as IL-6, TNF-α, and IL-1.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q8_img1_02b6dac7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 9,
+      "question": "In patients with which of the following conditions will you see a histologically normal bone?",
+      "options": {
+        "A": "Osteomalacia",
+        "B": "Osteoporosis",
+        "C": "Paget's disease",
+        "D": "Hyperparathyroidism"
+      },
+      "correct_answer": "B",
+      "explanation": "Histologically normal bone with decreased density is the hallmark feature of osteoporosis. In advanced osteoporosis, both the trabecular bone of the medulla and the cortical bone are markedly thinned, leading to progressive microfractures. Osteoporosis. Option A: Inadequate mineralization in osteomalacia leads to a thickened osteoid matrix. Option C: Paget's disease presents with a mosaic pattern of lamellar bone. Option D: Dissecting osteitis cystica is seen in severe hyperparathyroidism.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_625729a3.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient presents with back pain, recurrent headaches, and increasing head size. On evaluation, raised alkaline phosphatase and a mosaic pattern of lamellar bone is seen. Which of the following statements is false about this condition?",
+      "options": {
+        "A": "Onset is in late adulthood",
+        "B": "It occurs due to mutations in the SQSTM1 gene",
+        "C": "It is polyostotic in about 15% of cases",
+        "D": "Sarcoma occurs in less than 1% of all individuals"
+      },
+      "correct_answer": "C",
+      "explanation": "Paget disease is monostotic in about 70-80% of cases and polyostotic in the rest of them. Paget disease (osteitis deformans) is a disorder of increased, but disordered and structurally unsound, bone mass. The onset is in late adulthood (average age at diagnosis, 70 years). It occurs due to mutations in the SQSTM1 gene. This increases the activity of NF-κB, which then increases osteoclast activity. Three sequential phases exist: Initial osteolytic stage, Mixed osteoclastic-osteoblastic stage, and Final burned-out quiescent osteosclerotic stage. The axial skeleton or proximal femur is involved in up to 80% of the cases. The typical x-ray findings are as follows: Enlargement of the craniofacial skeleton: leontiasis ossea or lion face, Invagination of the skull base (platybasia), and Chalk stick-type fractures in the long bones of the lower extremities. The pathological hallmark is a mosaic pattern of lamellar bone, seen in the sclerotic phase, which shows a jigsaw-like pattern produced by unusually prominent cement lines, which join haphazardly oriented units of lamellar bone. Laboratory findings show elevated serum alkaline phosphatase and urinary hydroxyproline (normal serum calcium and phosphorus). Following tumors can develop in the affected bones in Paget's disease: Benign tumors - Giant cell tumors, Giant cell reparative granuloma, Extra-osseous masses of hematopoietic tissue, and Sarcoma (osteosarcoma or fibrosarcoma) - most dreaded complication. Occurs in < 1% of all individuals with Paget disease, and in 5% to 10% of those with the severe polyostotic disease.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp10_img1_3ed2be2f.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 11,
+      "question": "In patients with hyperparathyroidism, which of the following is least expected?",
+      "options": {
+        "A": "Osteoporosis",
+        "B": "Brown tumors",
+        "C": "Dissecting osteitis",
+        "D": "Osteopetrosis"
+      },
+      "correct_answer": "D",
+      "explanation": "Osteopetrosis does not belong to the clinical spectrum of hyperparathyroidism. The features of hyperparathyroidism are as follows: Osteitis fibrosa cystica, osteopenia/osteoporosis, hyperuricemia and gout, pseudogout, increased production of calcitriol, dissecting osteitis and brown tumors, nephrolithiasis, hypophosphatemia, and anemia. Hyperparathyroidism leads to significant skeletal changes related to unabated osteoclast activity. Increased osteoclast activity is most prominent in cortical bone, but the medullary bone is not spared. Osteoclasts may tunnel into and dissect centrally along the length of the trabeculae, creating the appearance of railroad tracks, diagnostic of dissecting osteitis. Generalized osteoporosis may be seen in the phalanges, vertebrae, and proximal femur. Brown tumor presents with bone loss leading to microfractures and secondary hemorrhages, which causes an influx of macrophages and ingrowth of reparative fibrous tissue. Generalized osteitis presents with increased bone cell activity, peri-trabecular fibrosis, and cystic brown tumors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 12,
+      "question": "A 7-year-old child presented with fever, pain, and swelling around the knee joint for 3 days. Lab investigations showed a WBC count of 23,500/mm3. An MRI was done, which demonstrated an intramedullary abscess of the proximal tibia. Which of the following is the most common causative organism of this condition?",
+      "options": {
+        "A": "Streptococcus pyogenes",
+        "B": "Staphylococcus aureus",
+        "C": "Salmonella",
+        "D": "Klebsiella"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical picture is suggestive of acute pyogenic osteomyelitis. Staphylococcus aureus is the most common cause of culture-positive pyogenic osteomyelitis. Osteomyelitis denotes inflammation of bone and marrow, almost always secondary to infection. Organisms may reach the bone by hematogenous spread, extension from a contiguous site, or direct implantation. The common causative organisms include: Staphylococcus aureus - the most common cause overall; Pseudomonas aeruginosa - most common cause in IV drug abusers; Salmonella - common in patients with sickle cell anemia; Haemophilus influenzae - was a common causative organism in children, less common now due to vaccination; Streptococcus pyogenes - most common in neonates; Escherichia coli, Klebsiella - most common cause in patients with genitourinary tract infections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 13,
+      "question": "Patients with sickle cell disease are particularly susceptible to osteomyelitis caused by which of the following?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Haemophilus influenzae",
+        "C": "Streptococcus pyogenes",
+        "D": "Salmonella enteritidis"
+      },
+      "correct_answer": "D",
+      "explanation": "Salmonella enteritidis is commonly implicated in osteomyelitis in patients with sickle cell anemia. The common causative organisms include: • Staphylococcus aureus - the most common cause overall • Pseudomonas aeruginosa - most common cause in IV drug abusers • Salmonella - most common in patients with sickle cell anemia. Haemophilus influenzae - was a common causative organism in children, less common now due to vaccination. Streptococcus pyogenes - in neonates. • Escherichia coli, Klebsiella - most common cause in patients with genitourinary tract infections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient who is a known case of TB presents to the orthopedic OPD with a 4-month history of progressively worsening back pain. He also complains of fatigue and irregular fever for 2 weeks. X-ray reveals lytic destruction of the anterior portion of the vertebral body and increased anterior wedging. All of the following are the complications of his condition except",
+      "options": {
+        "A": "Scoliosis",
+        "B": "Paraplegia",
+        "C": "AA amyloidosis",
+        "D": "Brodie's abscess"
+      },
+      "correct_answer": "D",
+      "explanation": "The patient is most likely suffering from TB osteomyelitis. Brodie's abscess is not a complication of this condition. In tuberculous osteomyelitis, weight-bearing joints - spine (Pott's disease), hips, and knees - are most commonly affected. Complications of tuberculous osteomyelitis include: Scoliosis or kyphosis (gibbus), neurologic deficits secondary to spinal cord and nerve compression leading to paraplegia, tuberculous arthritis, sinus tract formation, psoas abscess - may be due to paravertebral 'cold' abscess, and AA amyloidosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 15,
+      "question": "A 25-year-old man presents with back pain that is unresponsive to aspirin. Radiographs show a well-demarcated lesion in the posterior spine. A biopsy is done and the histopathological finding is given below. Which of the following is the most likely diagnosis?[Image unavailable]",
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Osteoid osteoma",
+        "C": "Osteoblastoma",
+        "D": "Chondroblastoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of osteoblastoma. Histopathology shows well-circumscribed lesions composed of randomly interconnecting trabeculae of woven bone that are prominently rimmed by a single layer of osteoblasts. Stroma surrounding the neoplastic bone consists of loose connective tissue that contains many dilated and congested capillaries. The image below shows the histopathological findings in osteoblastoma. Osteoblastoma1229OsteoblastomaWoven boneSingle rim of osteoblasts lining the trabeculae. Osteoid osteoma and osteoblastoma are benign bone-producing tumors that have identical histologic features. The differentiating features between them are given below: Osteoid osteomaLess than 2 cm in diameterPredilection for the appendicular skeletonThick rind of reactive cortical bone is seen on radiographyPain that is relieved by aspirin and other non-steroidal anti-inflammatory agents. OsteoblastomaLarger than 2 cm in diameter, involves the posterior spine (laminae and pedicles)Usually, no marked bony reaction is seen on radiographyPain which is unresponsive to aspirin.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_d42d00b2.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 16,
+      "question": "A 17-year-old man presents with progressive swelling of the upper end of the humerus. Healso complains of arm pain and weight loss for 3 months. X-ray findings are given below.Which of the following is associated with a higher risk of developing this condition?1217",
+      "options": {
+        "A": "Germline mutation of p53",
+        "B": "Translocation (X;18)",
+        "C": "Translocation (12;16)",
+        "D": "1p rearrangementsDAILYROUNDS"
+      },
+      "correct_answer": "A",
+      "explanation": "The given history and classic sunburst appearance on the X-ray are highly suggestive ofosteosarcoma. Mutation of p53 (Li-Fraumeni syndrome) is associated with a greater risk ofsarcomas, particularly osteosarcoma.The image given below shows sunburst pattern seen in osteosarcoma.1230Osteosarcoma-Sunburst PatternDAILY ROUNDSOption A: Translocation (X;18) is characteristic of synovial sarcoma.Option B: Translocation (12;16) is characteristic of myxoid liposarcoma.Option D: 1p rearrangements are characteristic of conventional chondrosarcoma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q16_img1_2855fee4.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp16_img1_d63740b5.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following statements is false about osteosarcoma?",
+      "options": {
+        "A": "It usually arises in the diaphyseal region of long bones",
+        "B": "It has a bimodal age distribution",
+        "C": "Codman triangle is characteristic of the tumor",
+        "D": "Most common subtype is osteoblastic and high grade"
+      },
+      "correct_answer": "A",
+      "explanation": "Osteosarcomas usually arise in the metaphyseal region of the long bones of the extremities. Itcommonly occurs in the knee (i.e., distal femur or proximal tibia).The most common subtype is primary, intramedullary, osteoblastic, and high grade. It is amalignant tumor in which the cancerous cells produce an osteoid matrix or mineralized bone. Itoccurs in all age groups but has a bimodal age distribution.The formation of fine lace-like neoplastic bone by the tumor cells is diagnostic histopathologicallyof osteosarcoma as shown below.1231OsteosarcomaOsteosarcomaEosinophilic homogenouslace-like osteoidTumor cells of varied morphologywith pleomorphic and hyperchromatic nucleiRadiography shows a large destructive, mixed lytic and blastic mass with infiltrative margins,which breaks through the cortex and lifts the periosteum, resulting in reactive periosteal boneformation. The triangular shadow between the cortex and raised ends of the periosteum, knownradiographically as the Codman triangle, is characteristic of osteosarcoma. This is shown in theradiograph below.1232Osteosarcoma - Codman Triangle",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp17_img1_0c8e3c7c.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following bone tumors is characteristically seen in patients with Ollier diseaseand Maffucci syndrome?",
+      "options": {
+        "A": "Enchondromas",
+        "B": "Osteochondromas",
+        "C": "Osteiod osteomas",
+        "D": "Chondrosarcomas1218"
+      },
+      "correct_answer": "",
+      "explanation": "Ollier disease and Maffucci syndrome are nonhereditary disorders characterized by multipleenchondromas. Maffucci syndrome is, in addition, distinguished by the presence of spindle-cellhemangiomas.Enchondromas are benign tumors of hyaline cartilage that usually occur in bones of enchondralorigin. They are usually diagnosed in individuals 20 to 50 years of age. They present as solitarymetaphyseal lesions of tubular bones of the hands and feet.The radiographic features consist of circumscribed lucencies with central irregular calcifications, asclerotic rim, and an intact cortex. They are usually smaller than 3 cm. They are gray-blue andtranslucent, composed of well-circumscribed nodules of hyaline cartilage containingcytomorphologically benign chondrocytes.The enchondromas in Ollier disease and Maffucci syndrome are sometimes more cellular thansporadic enchondromas and exhibit cytologic atypia, making them more difficult to distinguishfrom chondrosarcomas.The image below displays the histopathological picture of an enchondroma showing lobules ofhyaline cartilage encased by bone and covered by perichondrium (fibrous tissue).1233EnchondromaEnchondromaHyaline cartilage(cells in lacunae)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp18_img1_677f6825.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following statements is not true about chondrosarcoma?",
+      "options": {
+        "A": "Conventional central tumors constitute about 90% of chondrosarcomas.",
+        "B": "Clear cell and the mesenchymal variants occur in older patients.",
+        "C": "Chondrosarcomas commonly arise in the axial skeleton.",
+        "D": "In multiple hereditary exostosis, osteochondromas progress to chondrosarcoma."
+      },
+      "correct_answer": "A",
+      "explanation": "The clear cell and the mesenchymal variants of chondrosarcoma occur in younger patients (teensor 20s).Chondrosarcomas are malignant tumors that produce cartilage. They commonly arise in the axialskeleton, especially the pelvis, shoulder, and ribs.They are subclassified histologically as following variants:•Conventional (hyaline cartilage producing) - 90% cases•Clear cell• Dedifferentiated•Mesenchymal1234In multiple hereditary exostosis, osteochondromas can progress to chondrosarcoma. Increasedthickness of the cartilage cap has been reported as an indicator of potential malignancy. Theaverage age of secondary chondrosarcoma is younger than patients with primary tumors.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q19_img1_effd1bc1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following can progress to become chondrosarcoma?",
+      "options": {
+        "A": "1, 2 and 5",
+        "B": "1, 3 and 5",
+        "C": "2, 3 and 4",
+        "D": "1, 2 and 3"
+      },
+      "correct_answer": "D",
+      "explanation": "Osteochondromas, multiple enchondromas, and synovial chondromatosis can progress to becomechondrosarcoma.The average age of patients with secondary chondrosarcoma is 35 years (less than that of thosewith primary tumors). These tumors most commonly affect the pelvic bones. The increasedthickness of the cartilage cap (normally 1–3 mm) is considered an indicator of potentialmalignancy.Multiple enchondromas in the setting of Ollier's disease or Maffucci's syndrome carry asignificantly higher risk of transformation to secondary chondrosarcoma than solitaryenchondromas. Histological findings of abundant myxoid change, cyst formation, and permeationof existing trabeculae suggest malignancy.Secondary malignancy in synovial chondromatosis has been reported, but it is rare.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 21,
+      "question": "A plain radiograph of a patient shows a destructive lytic tumor that extends into thesurrounding soft tissues with a characteristic onion-skin appearance. A biopsy image is shownbelow. Which of the following is not true about the tumor?",
+      "options": {
+        "A": "It is the second most common group of bone sarcomas in children1219",
+        "B": "It arises in the epiphysis of long tubular bones",
+        "C": "Most of these tumours contain a (11;22) (q24;q12) translocation",
+        "D": "The amount of chemotherapy-induced necrosis is an important prognostic finding"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of Ewing sarcoma. It arises in the diaphysis of long bones,especially the femur and the flat bones of the pelvis.Ewing sarcoma follows osteosarcoma as the second most common group of bone sarcomas inchildren. It generally affects patients &lt; 20 years. Boys are affected slightly more frequently thangirls. Usually, the tumor arises in the diaphysis of long tubular bones, especially the femur and theflat bones of the pelvis.Fever, elevated sedimentation rate, anemia, and leukocytosis may be seen. Plain radiographsshow a destructive lytic tumor with permeative margins that extend into the surrounding softtissues. The characteristic periosteal reaction produces layers of reactive bone deposited in anonion-skin fashion. It arises in the medullary cavity and usually invades the cortex, periosteum,and soft tissue.On microscopy, sheets of uniform, small, round cells with scant cytoplasm are seen, which mayappear clear because they are rich in glycogen. The presence of Homer-Wright rosettes indicates agreater degree of neuroectodermal differentiation.The image given below shows the histopathological findings in Ewing sarcoma.1235Ewing SarcomaEwing SarcomaClear spaces due towashout of glycogenSmall round cells withscant cytoplasmMost Ewing sarcoma family tumors contain an (11;22) (q24;q12) translocation. Varianttranslocations fuse the EWS to other members of the ETS transcription factor family.CD99(MIC2), FLI1, and NSE would be positive in ES/PNET.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q21_img1_c0c3091f.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp21_img1_73f63267.jpeg",
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 22,
+      "question": "A 30-year-old woman presents with a 1-month history of pain in the left knee, which is tenderon palpation. X-ray shows a 5 cm mass in the distal femoral epiphysis, with a soap bubbleappearance. Microscopy is as seen below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Chondroblastoma",
+        "B": "Osteoclastoma",
+        "C": "Osteosarcoma",
+        "D": "Osteochondroma"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of osteoclastoma/ giant-cell tumor (GCT) of bone.GCT is a relatively uncommon benign, but locally aggressive, neoplasm that usually arises inindividuals in their 20s to 40s. The neoplastic cells express high levels of RANKL. It promotes theproliferation of osteoclast precursors and their differentiation into mature osteoclasts via RANKexpressed by these cells.1236GCTs arise in the epiphysis but may extend into the metaphysis. The majority arise around theknee (distal femur and proximal tibia). Most are solitary, multicentric tumors in the distalextremities. The tumors destroy the overlying cortex, producing a bulging soft tissue massdelineated by a thin shell of reactive tissue.Histopathologically, sheets of uniform oval mononuclear cells and numerous osteoclast-type giantcells are seen with 100 or more nuclei. Necrosis and mitotic activity may be prominent.The image given below shows the histopathological findings seen in osteoclastoma.OsteoclastomaOsteoclastomaMultinucleated Giant cellsMononuclear stromal cellsTypically, they are treated with curettage, but 40% to 60% recur locally.Up to 4% of tumors metastasize to the lungs, but these sometimes spontaneously regress and theyare rarely fatal. The RANKL inhibitor, denosumab, has shown promise as adjuvant therapy inGCT.Note: The E mnemonic for GCT:•Epiphyseal1237• Eccentric•Egg-shell crackling●Expansile",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q22_img1_4e34c71b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 23,
+      "question": "A 19-year old man presents with back pain for 2 months. MRI of the spine reveals a bonycystic mass at the L1 vertebra. Biopsy shows multiple, blood-filled cystic spaces separated byseptae, composed of multinucleated osteoclast-like giant cells and reactive woven bone. Thereis no cartilage or necrosis. What is the likely diagnosis?",
+      "options": {
+        "A": "Osteoclastoma",
+        "B": "Aneurysmal bone cyst",
+        "C": "Chondroblastoma1220",
+        "D": "Fibrous cortical defect"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of an aneurysmal bone cyst.It affects all age groups, but generally occurs during the first 2 decades of life and has no sexpredilection. It usually occurs in the metaphysis of long bones and the posterior elements ofvertebral bodies.This is a tumor characterized by multiloculated blood-filled cystic spaces separated by septae,composed of multinucleated osteoclast-like giant cells and reactive woven bone. Radiographically,an aneurysmal bone cyst is seen as an eccentric, expansile, lesion with well-defined margins. Mostlesions are completely lytic and often contain a thin shell of reactive bone at the periphery.The spindle cells of aneurysmal bone cyst frequently demonstrate rearrangements of chromosome17p13, leading to USP6 overexpression.The majority of secondary aneurysmal bone cysts arise in association with:•Benign neoplasmsGiant-cell tumor of the bone (most common)• Chondroblastoma• Osteoblastoma• Fibrous dysplasia• Osteosarcoma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    },
+    {
+      "q_no": 24,
+      "question": "A 60-year-old patient complains of severe back pain for 2 months, which worsens at night. AnMRI shows multiple osteoblastic secondaries on the vertebrae. Which of the following tumorscould be the primary source of these lesions?Renal cell carcinomab) Prostatic adenocarcinomac) Adenocarcinoma lungd) Multiple myelomaAnswer KeyCorrect OptionQuestion No.12Ca304b5b607a8a9b10C11d12b13d14d15016a17a1819ab122120d21b22b23b24bSolution to Question 1:Detailed ExplanationsOsteoclasts are specialized multinucleated macrophages derived from circulating monocytes thatare responsible for bone resorption.Osteocytes are formed when osteoblasts are embedded in the matrix within lacunae andcanaliculi. They control calcium and phosphate levels in the microenvironment.Osteoblasts are mesenchymal cells that rim the bony spicule, responsible for bone synthesis andmineralization.Chondrocytes are specialized cells that produce and maintain the extracellular matrix of cartilage.The image given below shows different cells present in a bone.Osteocyte(maintainsbone tissue)Osteoblast(forms bone matrix)Osteogenic cell(stem cell)Osteoclast(resorbs bone)Solution to Question 2:Osteocalcin is not a bone resorption marker.It is a protein secreted only by osteoblasts. Thus, it is a bone formation marker (osteoblasticmarker).1222Solution to Question 3:Osteochondroma, also known as exostosis, is the most common benign bone tumor.It is a benign cartilage-capped tumor. 85% of osteochondromas are solitary. The remainder isseen as part of the multiple hereditary exostosis syndromes, an autosomal-dominant hereditarydisease.Lesions arise from the metaphysis near the growth plate of long tubular bones, especially near theknee. They are either sessile or pedunculated and range in size from 1 to 20 cm. Histologically, thecap is composed of benign hyaline cartilage varying in thickness and is covered peripherally byperichondrium.Osteochondromas can progress to chondrosarcoma.The image below shows the histopathological specimen of osteochondroma, displaying a cartilagecap lined by perichondrium contiguous with mature bone.Histopathology of OsteochondromaCartilage cap contigouswith mature boneSolution to Question 4:The given clinical scenario is suggestive of osteogenesis imperfecta type II.The type II variant of osteogenesis imperfecta (OI) is uniformly fatal in utero or during theperinatal period. Type II OI is characterized by extraordinary bone fragility with multipleintrauterine fractures.Osteogenesis imperfecta (brittle bone disease) is caused by deficiencies in the synthesis of type Icollagen. It can be separated into four major clinical subtypes that vary widely in severity. Theseverity of the disease is based on the location of the mutation within the protein.Individuals with type I OI have a normal life span, but experience childhood fractures thatdecrease in frequency following puberty.1223Solution to Question 5:This given clinical scenario is suggestive of achondroplasia.Achondroplasia is the most common skeletal dysplasia and a major cause of dwarfism. It hasautosomal dominant inheritance.It occurs due to the gain of mutation in fibroblast growth factor receptor (FGFR3). This leads toabnormal cartilage proliferation at growth plates and affects endochondral bone growth. Infantspresent with:• Short stature• Rhizomelic shortening of limbs• Frontal bossing• Midface deficiencyThe condition is not associated with changes in longevity, intelligence, or reproductive status.The image below shows a baby affected with achondroplasia. Note the prominent forehead,triangular face, and body asymmetry in the image (",
+      "options": {
+        "A": "; a low nasal bridge in the image (",
+        "B": "; tridenthands in the image (",
+        "C": "; and scoliosis in the image (",
+        "D": ".abCSolution to"
+      },
+      "correct_answer": "B",
+      "explanation": "Prostatic adenocarcinoma is associated with predominantly osteoblastic secondaries to the bones(vertebral column).The radiographic appearance of bone metastases may be purely lytic (bone destroying), purelyblastic (bone-forming), or mixed lytic and blastic. Most cancers are associated with predominantlyone pattern or the other.Parathyroid hormone-related protein (PTHrP) and transforming growth factor-° (TGF-°) areimplicated in osteolytic secondaries, while proteins such as endothelin-1 and morphogeneticproteins are implicated in osteoblastic lesions.1238",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "bone"
+    }
+  ]
+}

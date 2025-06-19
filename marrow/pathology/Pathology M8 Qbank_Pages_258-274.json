@@ -1,0 +1,305 @@
+{
+  "chapter": "Components of Immune System",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a component of innate immunity?",
+      "options": {
+        "A": "Neutrophils",
+        "B": "Natural killer cells",
+        "C": "C-reactive protein",
+        "D": "B cells"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp1_img1_468266c2.jpeg",
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the mechanism by which toll-like receptors stimulate immune response againstbacterial products?",
+      "options": {
+        "A": "Perforin and granzyme-mediated apoptosis",
+        "B": "FADD ligand apoptosis",
+        "C": "NFκB mediated transcription of nuclear factor",
+        "D": "RIPK3 mediated necroptosis"
+      },
+      "correct_answer": "",
+      "explanation": "Toll-like receptors (TLRs) stimulate immune response by NFκB mediated transcription of nuclearfactors.TLRs are pattern recognition receptors which activate two sets of transcription factors:⚫ NF-kB-stimulates the synthesis and secretion of cytokines and the expression of adhesionmolecules. Both are critical for the recruitment and activation of leukocytesInterferon regulatory factors - stimulate the production of the antiviral cytokines like type IinterferonsThe image given below shows a toll-like receptor.264Toll-like receptorTLRMyD88/TRIFTLR ligandCell membraneNuclearmembraneActivation of transcriptionfactor NF-kB orIFN- regulatory factorNF-kB/IFNActivation ofimmunomodulatorygenesInflammatory responsethrough production ofcytokines, chemokines andadhesion moleculesTNF-alphaIL-1 betaIL-6COX-2MMPNOVCAM-1MARROWThe various classes of innate immune receptors are as follows:Mannose receptor is a soluble pattern-recognition receptor. All the others are surfacepattern-recognition receptors.ReceptorsToll-likereceptorsNOD-like receptorsC-type lectin receptorsRIG-like receptorsMannose receptorsLocationFunctionPlasma membrane and endos Important TLRs and moleculomal vesiclesCytosol of immune cells andepithelial cellsPlasma membrane of macrophages and dendritic cellsCytosol of most cell typesPlasma membrane of macrophages, immature dendritic cells, and liver sinusoidal endothelial cellses recognised:TLR2 -peptidoglycanof gram + bacteria, lipopolysaccharide ofLeptospiraTLR3 - dsRNA virusesTLR4Q-ChlamydiaandlipopolysaccharideRecognise substances from necrotic cells and microbial productsSignals via inflammasome which activates caspase and IL-1Detectfungal glycansand elicit inflammatory reactions to fungiDetectnucleic acids of virusesthat replicate in the cytoplasm of infected cellsStimulate the production of antiviral cytokines Recognize short bacterial peptides containingN-formyl methionyl residues and stimulate chemotaxisDetectmicrobial sugars (which often contain terminal mannose residues) and induce phagocytosis of the microbes265",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 3,
+      "question": "Antibody-dependent cellular cytotoxicity (ADCC) is seen with:",
+      "options": {
+        "A": "Natural killer (NK) cells only",
+        "B": "Macrophages only",
+        "C": "NK cells, neutrophils and eosinophils",
+        "D": "Neutrophils and eosinophils only"
+      },
+      "correct_answer": "",
+      "explanation": "Antibody-dependent cellular cytotoxicity (ADCC) is mediated by NK cells, neutrophils andeosinophils (killing certain parasitic worms like helminths via IgE antibodies).In ADCC, cells/ antigens are coated with IgG antibodies. These are killed by effector cells like NKcells and macrophages. These effector cells bind to the target by their receptors for the Fcfragment of IgG and cell lysis proceeds without phagocytosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following occurs due to gain-of-function mutations in NOD-Like receptors?",
+      "options": {
+        "A": "Granulomatous diseases",
+        "B": "Autoinflammatory syndromes258",
+        "C": "Autoimmune conditions",
+        "D": "Malignancy"
+      },
+      "correct_answer": "C",
+      "explanation": "The gain of function mutations in NOD-Like receptors (NLRs) result in periodic fever syndromescalled autoinflammatory syndromes.They are a group of clinical conditions characterised by recurrent inflammatory episodes. Thisdisorder is marked by abnormally increased inflammation, mediated predominantly by cells andmolecules of the innate immune system, with a significant host predisposition.NOD-like receptors are cytosolic receptors that signal via a cytosolic multiprotein complex calledthe inflammasome. This activates caspase-1 that generates biologically active form of interleukin-1(IL-1). IL-1 is a mediator of inflammation that recruits leukocytes and induces fever. Theautoinflammatory syndromes respond very well to treatment with IL-1 antagonists.Note: Autoimmune diseases result from T and B-lymphocyte reactions against self-antigens.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the normal CD4+: CD8+ T lymphocyte ratio?",
+      "options": {
+        "A": "2:1",
+        "B": "1:2",
+        "C": "4:1",
+        "D": "1:4"
+      },
+      "correct_answer": "",
+      "explanation": "Normal CD4+: CD8+ T lymphocyte ratio is 2:1. Approximately 60% of mature T cells are CD4+and about 30% are CD8+.T-lymphocytes (thymus-derived cells) constitute 60-70% of peripheral blood lymphocytes. T-cellprogenitors are derived from the bone marrow, but travel to the thymus, where they mature. Tcells can be divided into three main subtypes:They are located in the paracortical areas of lymph nodes and the periarteriolar sheaths ofthe spleen. They have an antigen-specific T-cell receptors (TCR) which have alpha/betapolypeptide chains components. Demonstration of TCR gene rearrangement by southern blot is amolecular marker of T-cell lineage.The CD molecules present on T cells are CD1, CD2, CD3, CD4, CD5, CD7, CD8 and CD28. CD3 isinvolved in signal transduction and is also called a pan T-cell marker. CD40 ligand on the surfaceis required for B-cell activation and induction of immunoglobulin.266Type of T cellHelper T cell (CD4+)Cytotoxic T lymphocytes (CTLs or CD8+)Regulatory T cellsFunctionHelps B lymphocytes to make antibodies and activate other leukocytes to destroy microbesKill infected cellsLimit immune responses andprevent reactions against self-antigens.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is not expressed in the B-cell receptor complex?",
+      "options": {
+        "A": "CD86",
+        "B": "CD79a",
+        "C": "CD21",
+        "D": "CD40"
+      },
+      "correct_answer": "A",
+      "explanation": "CD86 is a protein expressed on antigen-presenting cells, and not B-cell receptor complex. Thisprotein provides costimulatory signals necessary for T-cell activation and survival.B-cell receptor complex expresses the following:• CD79a and CD79b - essential for signal transduction through the antigen receptor• CD21 or CR2 - complement receptor (recognize complement products during innate immuneresponse) and Epstein-Barr virus (EBV) receptor•• CD40 - receives signals from helper T cellsOther B cell-associated markers are CD10 (CALLA), CD19, CD20, CD22, CD23.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following are the most important antigen-presenting cells?",
+      "options": {
+        "A": "Dendritic cells",
+        "B": "Neutrophils",
+        "C": "B cells",
+        "D": "T cells"
+      },
+      "correct_answer": "A",
+      "explanation": "Dendritic cells or interdigitating dendritic cells are the most important antigen-presentingcells. They initiate T-cell responses against protein antigens.They are located in the epithelium and interstitium. They express many receptors for capturingand responding to microbes (and other antigens), including toll-like receptors (TLRs) and lectins.They also express high levels of major histocompatibility complex (MHC) for presenting antigensto and activating T cells.In response to microbes, dendritic cells are recruited to the T-cell zones of lymphoid organs. Here,they present antigens to T cells with help of MHC.Similar cells with dendritic morphology in the germinal centers of lymphoid follicles in the spleenand lymph nodes are follicular dendritic cells. They bear Fc receptors for IgG and receptors forC3b. Immature dendritic cells within the epidermis are called Langerhans cells.Note:.•Aggretope part of the antigen associated with the MHC molecule on the antigen-presenting cell-• Epitope - antigenic part of contact with the T-cell receptor267",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following statements is false about macrophages?",
+      "options": {
+        "A": "It acts as an antigen presenting cell",
+        "B": "It plays a role in humoral immunity",
+        "C": "It plays a role in cell-mediated immunity259",
+        "D": "It is a component of innate immunity only"
+      },
+      "correct_answer": "",
+      "explanation": "Macrophages are components of both innate and acquired immunity.They phagocytose microbes and protein antigens. They process the antigens and present thepeptide fragments to T cells. Thus, macrophages function as antigen-presenting cells in T-cellactivation.They also participate in the effector phase of humoral immunity. Macrophages efficientlyphagocytose and destroy microbes that are opsonized (coated) with IgG or C3b.They are key effector cells in certain forms of cell-mediated immunity to eliminate intracellularmicrobes. In this type of response, T cells activate macrophages and enhance their ability to killingested microbes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is false about natural killer cells?",
+      "options": {
+        "A": "CD16 and CD56 are the surface molecules",
+        "B": "They are involved in antibody-dependant cytotoxic killing",
+        "C": "IL-12 stimulates the proliferation of NK cells",
+        "D": "They activate macrophages by secreting IFN-Y"
+      },
+      "correct_answer": "",
+      "explanation": "IL-2 and IL-15 stimulate the proliferation of NK cells. On the other hand, IL-12 activates thekilling of target cells and secretion of IFN-Y.NK cells are large granular lymphocytes, which constitutes 5% to 10% of peripheral bloodlymphocytes. CD16 and CD56 are the surface molecules.•Functions of NK cells:Killing of a variety of virus-infected cells and tumor cells, without prior exposure to or activationby these microbes or tumors• Secretion of interferon-y (IFN-y), which activates macrophages to destroy ingested microbes●Antibody-dependent cell-mediated cytotoxicity (ADCC) - NK cells express CD16 which is areceptor for IgG Fc tails. Hence, these cells have the ability to lyse IgG-coated target cells.ADCC is also seen in immune responses involving neutrophils, eosinophils, macrophages, etc.The image given below shows activating and inhibitory receptors of natural killer (NK) cells.268ActivatingreceptorNormalcellActivation of NK cellNK cellInhibitoryreceptorSelf Class IMHC-selfpeptidecomplexNK cells notactivated;no cell killingInhibitory receptor engagedWM.NK collActivatingligand forNK cellVirus inhibit class IMHC expression,increases expressionof activating ligandsfor NK cellsVirus-infected cell(class IMHC negative)Inhibitory receptor not engaged,Activating receptor engagedOMARROWNK cellactivated;killing ofinfected collNote: A new group of T cells has been discovered called NK-T cells. These are T cells that containmarkers of NK cells. These are important defence mechanisms against microorganisms likeListeria monocytogenes and Mycobacterium tuberculosis.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_92f812c1.jpeg",
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of these is common to both cytotoxic T-cells and NK cells?",
+      "options": {
+        "A": "They are MHC 1 restricted cells",
+        "B": "Require antibodies to be present for action",
+        "C": "Effective against virus-infected cells",
+        "D": "Their action is antigen specific"
+      },
+      "correct_answer": "",
+      "explanation": "Both cytotoxic T-cells and NK cells are effective against virus-infected cells.The NK cells have different mechanisms of action while killing target cells.NK cells can lyse IgG-coated target cells by binding to the Fc tail of IgG, through the CD16receptor expressed on NK cells. This phenomenon is known as antibody-dependent cellularcytotoxicity (ADCC).NK cells secrete various cytokines such as interferon-y (IFN-y), which activate macrophages todestroy ingested microbes.Target cell destruction by NK cells is also mediated through two others receptors - activatingreceptors and inhibitory receptors.The activating receptors enable NK cells to recognize infected and stressed cells. The inhibitoryreceptors recognize self class-I MHC molecules, that are expressed on all healthy cells therebypreventing NK cells from killing normal cells. Virus infection / neoplastic transformationoverexpresses the activating receptors and simultaneously reduces the expression of class-I MHCmolecules. As a result, NK cells are activated and the infected cells are killed.CD8+ cytotoxic T lymphocytes directly kill damaged cells.The differences between NK cells and cytotoxic T-cells are:Natural killer (NK) cellCytotoxic T-cellsDoes not requirepriming -rap requirepriming -takes days toid response in hoursrespond269Natural killer (NK) cellMHC unrestrictedAntibody-mediated and non-antibody-mediated killingKills virus-infected and neoplastic cells by apoptosisAntigen non-specificMemory is absentCytotoxic T-cellsMHC restrictedNon-antibody mediated killing/direct cytotoxicityKills virus-infected, neoplastic, and donor graft cells by apoptosisAntigen-specificMemory is present",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following markers on antigen-presenting cells function as costimulatorymolecules for T cells?",
+      "options": {
+        "A": "CD28 and CD86",
+        "B": "Only CD80",
+        "C": "CD28 and CD80",
+        "D": "CD80 and CD86"
+      },
+      "correct_answer": "D",
+      "explanation": "CD80 (B7-1) and CD86 (B7-2) are the costimulatory molecules present on antigen-presenting cells(APCs). They bind to CD28 protein present on T cells. This promotes the expansion ofantigen-stimulated T cells and their differentiation into effector and memory cells.T-cell activation requires two signals that are delivered by APCs. They include:•Antigens displayed by APCs in the form of peptides bound to MHCmolecules, that are recognised by T-cell receptors• Costimulatory signal (as it stimulates T cells in conjunction with antigen) provided by moleculeson APCs that engage particular costimulatory receptors on T cellsIn the absence of costimulation, T cells that recognize antigen either fail to respond and die orenter a state of unresponsiveness known as anergy. Thus, costimulation is a key determinant ofthe outcome of a T-cell encounter with an antigen.\"Resting\"(Costimulator deficient) APCT cell activationNo responseNaive T cellor anorgyActivation of APCsby microbes, innate immuneresponseB07CD28Activated APCs;expression of Costimulator,secretion of cytokines",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp11_img1_fcaf3b7e.jpeg",
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following cytokines induces T-helper type 2 cells?",
+      "options": {
+        "A": "TGF-°",
+        "B": "IL-4",
+        "C": "IL-6260",
+        "D": "IL-2"
+      },
+      "correct_answer": "B",
+      "explanation": "Cytokines(e.g., IL-12)Antigen recognitionOMARROWEffector T cellT cell survival,proliferationand differentiationT cell response270•IL-4 induces T helper 2 cells.Mechanism of cell-mediated immunity:Antigen-presenting cells → recognized by naive CD4+ T cells → IL-2 secretion → T-cellproliferation and differentiation → activated CD4+ T helper cells• Activated CD4+ T cells further differentiate into effector cells that secrete different sets ofcytokines and perform different functions",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 13,
+      "question": "B-cells are induced to produce IgE by which of the following:",
+      "options": {
+        "A": "IL-2",
+        "B": "IL-4",
+        "C": "IL-1",
+        "D": "IL-6"
+      },
+      "correct_answer": "B",
+      "explanation": "IL-4 stimulates B-cells to differentiate into IgE secreting plasma cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 14,
+      "question": "Production of which of the following antibodies is induced by polysaccharides and lipids?",
+      "options": {
+        "A": "IgG",
+        "B": "IgM",
+        "C": "IgA",
+        "D": "IgD"
+      },
+      "correct_answer": "B",
+      "explanation": "•Polysaccharides and lipids stimulate the secretion of mainly IgM antibodies.B lymphocytes use their antigen receptors to recognize various types of antigens:Proteins (through CD40L and cytokine-mediated helper T-cell actions) - induce production ofIgG, IgA, IgE• Polysaccharides and lipids - induce production of IgM mainlyHelper T cells also help in antibodies by the mechanisms:• Stimulate formation of germinal centers which consist of proliferating B cells• Induce isotype switching through cytokines IFN-y and IL-4•Affinity maturation - stimulate the production of antigen-specific antibodiesIsotype switching and affinity maturation occur mainly in germinal centers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 15,
+      "question": "When papain acts on a molecule of immunoglobulin, which of the following are the endproducts?",
+      "options": {
+        "A": "2 FC and 1 FAB fragments",
+        "B": "1 Variable chain and 1 constant chain",
+        "C": "1 Fc and 2 Fab fragments",
+        "D": "2 Fc and 2Fab fragments"
+      },
+      "correct_answer": "C",
+      "explanation": "When papain acts on a molecule of immunoglobulin, the end products are 1 Fc and 2 Fabfragments.If an antibody molecule is digested with papain, cleavage occurs above the disulfide bonds thathold the heavy chains together. This generates 3 separate fragments, two of which are called Fab(fragment antigen binding), and one of which is called Fc (fragment crystallizable).The image given below shows the cleavage of immunoglobulin by papain.271Action of papain on immunoglobulinPapainsiteFabOMARROWFcCleavage of the antibody molecule with pepsin generates one large fragment called F(ab')2 and adigested Fc fragment.The image given below shows the cleavage of immunoglobulin by pepsin.Action of pepsin on immunoglobulinF(ab')2-PepsinsitesFragmentsMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp15_img1_2d77461e.jpeg",
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 16,
+      "question": "In which of the following cells is recirculation seen?",
+      "options": {
+        "A": "Plasma cells",
+        "B": "T lymphocytes",
+        "C": "Both plasma cells and T lymphocytes261",
+        "D": "Both B lymphocytes and plasma cells"
+      },
+      "correct_answer": "",
+      "explanation": "Lymphocyte recirculation is seen in T lymphocytes.Migration of the lymphocytes between blood and lymphoid organs is called recirculation. Naivelymphocytes traverse the peripheral lymphoid organs, where immune responses areinitiated. When antigen-presenting cells activate them, the effector lymphocytes migrate to sites ofinfection and inflammation.272In contrast, plasma cells remain in lymphoid organs and the bone marrow. They do not need tomigrate to sites of infection because they secrete antibodies that are carried to distant tissues.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following about y■ T-cells is incorrect:",
+      "options": {
+        "A": "Kills extracellular bacteria by granulysin and perforin",
+        "B": "Need antigen processing and presentation for it recognition",
+        "C": "Direct killing of infected macrophages",
+        "D": "Provide protection against mycobacteria"
+      },
+      "correct_answer": "B",
+      "explanation": "■T-cells do not need antigen processing and presentation for its recognition.There are two types of T cells: ■ T-cells and aẞ T-cells.The functions of T-cells:• Provide protection against mycobacteria by direct killing of infected macrophages•• Kills extracellular bacteria by granulysin and perforin• Plays a role in maintaining self-tolerance•Capable of recognising and lysing diverse cancers in an MHC-unrestricted manneraẞ T-cells have MHC restricted action.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 18,
+      "question": "Basophils are activated by:",
+      "options": {
+        "A": "IL-5",
+        "B": "INF-gamma",
+        "C": "TNF-alpha",
+        "D": "IL-2"
+      },
+      "correct_answer": "A",
+      "explanation": "Basophils are activated by IL-5 and IL-3.Note: IL-5 primarily activates eosinophils.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 19,
+      "question": "Among the following, which cells have MHC class II?",
+      "options": {
+        "A": "NK cells",
+        "B": "All nucleated cells",
+        "C": "B cells, dendritic cells, mononuclear phagocytes",
+        "D": "Platelets"
+      },
+      "correct_answer": "C",
+      "explanation": "Class II major histocompatibility complex (MHC) molecules are mainly expressedon macrophages, B lymphocytes, and dendritic cells. These cells present ingested antigens toT-cells.The function of MHC molecules is to display peptide fragments of protein antigens for recognitionby antigen-specific T cells. In humans, the MHC molecules are called human leukocyte antigens(HLA) because they were initially detected on leukocytes by the binding of antibodies. Thecombination of HLA alleles in each individual is called the HLA haplotype.The genes encoding HLA molecules are clustered on the short arm of chromosome 6.Uses of MHC/ HLA typing include:•Anthropology• Transfusion•Paternity testing••• Forensic scienceTransplantation273• Disease correlation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is not encoded by MHC class III genes?",
+      "options": {
+        "A": "Complement component C2",
+        "B": "Tumor necrosis factor",
+        "C": "Heat-shock proteins",
+        "D": "° 2 microglobulin associated molecules262"
+      },
+      "correct_answer": "D",
+      "explanation": "° 2 microglobulin associated cell surface molecules are encoded by MHC class I and not class III.Class III MHC molecules include:•Complement proteins (such as C2, C4, and B factor)•• Cytokines (such as TNF-α, LTA, and LTB)•Properdin factor BQ of alternate pathway•Enzyme tyrosine hydroxylase•Heat-shock proteinsClass III molecules are encoded by genes located between those that encode class I and class IImolecules.274",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune System"
+    }
+  ]
+}

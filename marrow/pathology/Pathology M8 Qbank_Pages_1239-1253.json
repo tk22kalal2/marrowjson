@@ -1,0 +1,230 @@
+{
+  "chapter": "Joints and soft tissue pathology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 77-year-old woman presents with pain and limited movement of the left hip and knee for 10 years. The pain has increased in severity in the past 1 year. The x-ray of the hip is given below. Laboratory tests do not show RF or ANA in her serum. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Ankylosing spondylitis",
+        "B": "Rheumatoid arthritis",
+        "C": "Osteoarthritis",
+        "D": "Reactive arthritis"
+      },
+      "correct_answer": "C",
+      "explanation": "The x-ray image of the hip shows narrowing of the joint space and subchondral sclerosis, which is diagnostic of osteoarthritis (OA), also called degenerative joint disease. OA is the most common type of joint disease, which is characterized by the degeneration of joint cartilage. This results in structural and functional failure of synovial joints. Osteoarthritis can be classified into 2 types: Primary OA: insidious onset, without apparent initiating cause, as an aging phenomenon; Secondary OA: predisposing conditions such as joint deformity, a previous joint injury, or an underlying systemic disease such as diabetes, ochronosis, hemochromatosis, or marked obesity. The knees and hands are more commonly affected in women, and the hips in men. OA lesions occur due to the degeneration of the articular cartilage and its disordered repair. Inflammatory cells are sparse, but cytokines and diffusible factors, particularly TGF-β (which induces matrix metalloproteinases), TNF, prostaglandins, and nitric oxide, have been implicated in OA.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q1_img1_2b0e6b4d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 2,
+      "question": "A 28-year-old woman presents with complaints of joint pain and progressive loss of joint motion. On examination, symmetric joint swelling of the hands is seen. A subcutaneous nodule is seen over her right forearm. Microscopy of the excised nodule shows the findings given in the image below. Which of the following lab findings will be seen in this patient?",
+      "options": {
+        "A": "Positive Borrelia-Burgdorferi serologic test",
+        "B": "Uric acid crystals in joint aspirate",
+        "C": "Serum positive for rheumatoid factor",
+        "D": "Calcium pyrophosphate crystals in joint aspirate"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of rheumatoid arthritis. The patient's serum will test positive for rheumatoid factor. Microscopy of the excised nodule shows a necrotizing granuloma with a central zone of fibrinoid necrosis surrounded by a prominent rim of activated macrophages and numerous lymphocytes and plasma cells. Rheumatoid arthritis (RA) is a chronic inflammatory disorder of autoimmune origin that principally attacks the joints, producing nonsuppurative, proliferative, and inflammatory synovitis. The inflammation progresses to the destruction of the articular cartilage and ankylosis of the joints. In RA, the synovium contains germinal centers with secondary follicles and abundant plasma cells, which produce antibodies, some of which are autoantibodies. Many of the autoantibodies produced in the lymphoid organs are specific for citrullinated peptides (CCPs). 80% of patients have serum IgM or IgA autoantibodies that bind to the Fc portions of their own IgG. These autoantibodies are called rheumatoid factor and may also deposit in joints as immune complexes. The characteristic histologic features of RA include: synovial cell hyperplasia and proliferation, dense inflammatory infiltrates, increased vascularity due to angiogenesis, fibrinopurulent exudate on the synovial and joint surfaces, osteoclastic activity in underlying bone, and subcutaneous nodule: necrotizing granulomas with a central zone of fibrinoid necrosis surrounded by activated macrophages, lymphocytes, and plasma cells. This altogether leads to a mass of edematous synovium called pannus, which grows over the articular cartilage and causes its erosion.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q2_img1_c832450a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 3,
+      "question": "An obese 35-year-old man with renal failure presents with excruciating joint pain in the right knee. It is associated with localized hyperemia. Joint aspiration is done, which shows dense neutrophilic infiltrate and the following finding under polarized light. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Rheumatoid arthritis",
+        "B": "Gout",
+        "C": "Ankylosing spondylitis",
+        "D": "Septic arthritis"
+      },
+      "correct_answer": "B",
+      "explanation": "The most likely diagnosis is gout. Aspirate from the joint shows dense neutrophilic infiltrate and crystals that are long, slender, needle-shaped, and negatively birefringent. Gout is marked by transient attacks of acute arthritis initiated by crystallization of monosodium urate (MSU) within and around joints. This results in the production of cytokines that recruit leukocytes. Macrophages phagocytose the MSU, and the inflammasome activates caspase-1, which is involved in the production of some biologically active cytokines. The distinctive morphologic changes in gout are acute arthritis, chronic tophaceous arthritis, tophi in various sites, and gouty nephropathy. Tophi are the pathognomonic hallmark of gout. These are large aggregations of urate crystals surrounded by an intense inflammatory reaction of foreign body giant cells, which may appear in the articular cartilage, ligaments, tendons, bursae, earlobes, fingertips, or kidneys. Gouty nephropathy refers to the renal complications caused by MSU crystals or tophi in the renal medullary interstitium or tubules. Complications include uric acid nephrolithiasis and pyelonephritis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q3_img1_518eb4b6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 4,
+      "question": "A 3-year-old child with knee pain is found to have uric acid crystal deposition in his joints. On examination, excessive nail-biting is seen as shown below. Congenital deficiency of which of the following enzymes is responsible for this condition?",
+      "options": {
+        "A": "Xanthine oxidase",
+        "B": "Hypoxanthine-guanine phosphoribosyltransferase",
+        "C": "Adenosine deaminase",
+        "D": "PRPP amidotransferase"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of Lesch-Nyhan syndrome. In this condition, there is a deficiency of the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRT). Lesch-Nyhan syndrome is characterized by neurological and behavioral abnormalities such as lip and finger biting and head banging. It also causes the overproduction of uric acid, leading to gouty arthritis and impaired kidney function. It is classified as secondary gout.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q4_img1_60835a8a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 5,
+      "question": "A 50-year-old patient presents with left knee pain, redness, and swelling for 3 days. Joint aspiration is performed and microscopic findings under polarized light are given in the image below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Psoriatic arthritis",
+        "B": "Ankylosing spondylitis",
+        "C": "Gout",
+        "D": "Pseudogout"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of calcium pyrophosphate crystal deposition disease (CPPD), also known as pseudo-gout and chondrocalcinosis. The image shows aspirated crystals which are rhomboid, 0.5 to 5 μm in the greatest dimension, and positively birefringent (yellow). It usually occurs in individuals older than 50 years of age and becomes more common with old age. CPPD is classified into sporadic (idiopathic), hereditary, and secondary types. It is caused by germline mutations in the pyrophosphate transport channel. The secondary form is associated with previous joint damage, hyperparathyroidism, hemochromatosis, hypomagnesemia, hypothyroidism, ochronosis, and diabetes. Inflammation is usually milder than in gout. CPPD may produce acute, subacute, or chronic arthritis that can be confused with osteoarthritis or rheumatoid arthritis. The joint involvement may be monoarticular or polyarticular; the knees, followed by the wrists, elbows, shoulders, and ankles, are most commonly affected.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q5_img1_a787ea49.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements is not true about liposarcoma?",
+      "options": {
+        "A": "Amplification of 12q13-q15 is characteristic of well-differentiated liposarcoma.",
+        "B": "The key gene in the amplified region of chromosome 12q is MDM2.",
+        "C": "The pleomorphic variant is usually indolent and rarely metastasizes.",
+        "D": "Myxoid liposarcoma shows delicate 'chicken-wire' or 'crow's feet' vasculature."
+      },
+      "correct_answer": "C",
+      "explanation": "The pleomorphic variant of liposarcoma is usually aggressive and frequently metastasizes. Liposarcoma is one of the most common sarcomas of adulthood, seen mainly in people in their 50s to 60s, in the deep soft tissues of the proximal extremities and in the retroperitoneum. Amplification of 12q13-q15 and t(12;16) are characteristic of well-differentiated and myxoid liposarcomas, respectively. One of the key genes in the amplified region of chromosome 12q is MDM2, which is a potent inhibitor of p53. Well-differentiated liposarcoma contains adipocytes with scattered atypical spindle cells. Myxoid liposarcoma contains an abundant basophilic extracellular matrix, arborizing capillaries ('chicken-wire' or 'crow's feet' vasculature), and primitive cells reminiscent of fetal fat. The well-differentiated variant is relatively indolent, while the myxoid/round cell type is intermediate in its malignant behavior.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 7,
+      "question": "A 50-year-old man presented with a retroperitoneal mass. Biopsy from the lesion is shown in the image below. Molecular analysis revealed t(12;16). What is the most likely condition?",
+      "options": {
+        "A": "Myxoid Liposarcoma",
+        "B": "Lipoma",
+        "C": "Spindle lipoma",
+        "D": "Polymorphic lipoma"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of myxoid liposarcoma. The image shows abundant ground substance, with branching capillaries and a few immature adipocytes. Liposarcoma is the most common sarcoma in adults and is usually seen in the 5th to 6th decade of life. They commonly occur in the deep soft tissues of the proximal extremities and in the retroperitoneum. Histologically, the liposarcomas are divided into three subtypes: \n   • Well-differentiated liposarcoma: It consists of mature adipocytes and scattered spindle cells with hyperchromatic nuclei. It is associated with amplification of 12q13-q15.\n   • Myxoid liposarcoma: It contains abundant basophilic extracellular matrix with branching capillaries. Few immature adipocytes are found scattered within the matrix. It is associated with t(12;16).\n   • Pleomorphic liposarcoma: It consists of sheets of anaplastic cells with bizarre nuclei and few immature adipocytes. Among the three subtypes, the pleomorphic liposarcoma is the most malignant and often metastasizes, while the well-differentiated is least malignant. Myxoid liposarcoma has intermediate malignancy behavior.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q7_img1_bb7a34b4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 8,
+      "question": "A 30-year-old man presented with a 2-cm, rapidly growing, painful, subcutaneous mass on his left arm. Microscopy revealed immature proliferation of fibroblasts and myofibroblasts with abundant mitotic figures. Immunohistochemistry was positive for vimentin and muscle-specific actin. What is the most likely diagnosis?",
+      "options": {
+        "A": "Pleomorphic sarcoma",
+        "B": "Desmoid tumor",
+        "C": "Nodular fasciitis",
+        "D": "Fibrous histiocytoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of nodular fasciitis. Nodular fasciitis is a self-limited fibroblastic and myofibroblastic proliferation that typically occurs in young adults in the upper extremity. Etiology is unclear, but a history of trauma is present in approximately 25% of cases. The tumors grow rapidly over a period of several weeks, typically no larger than 3 cm. It typically regresses spontaneously, and if excised, rarely recurs. Microscopically, it is richly cellular and contains plump, immature-appearing fibroblasts and myofibroblasts, arranged randomly or in short fascicles reminiscent of tissue culture fibroblasts. A gradient of maturation from cellular, loose, and myxoid to organized and fibrous is typical. The cells vary in size and shape (spindle to stellate) and have conspicuous nucleoli; mitotic figures are abundant. Immunohistochemistry shows positivity for vimentin, smooth muscle actin, and muscle-specific actin. Desmoid tumors are firm and poorly demarcated masses that infiltrate the surrounding muscle, nerve, and fat. Histologically, fibroblasts are arranged in long parallel fascicles amid dense collagen.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp8_img1_83981831.jpeg",
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 9,
+      "question": "A 40-year-old man presented with a swelling in the floor of his mouth for 6 months. Intraoral examination revealed a soft, painless, non-tender mass in the left floor of the mouth, extending posteriorly into the supraglottic region. On histopathological examination, spider cells were seen. What is the most likely diagnosis?",
+      "options": {
+        "A": "Pleomorphic Adenoma",
+        "B": "Leiomyoma",
+        "C": "Rhabdomyoma",
+        "D": "Schwannoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of rhabdomyomas. Rhabdomyoma is a benign neoplasm of skeletal muscle that mainly occurs in the head and neck region. Although the mass is usually asymptomatic, it may compress or displace the tongue or may cause partial obstruction of the pharynx. Rhabdomyomas can be classified into cardiac (most common) or extracardiac. Spider cells are seen in this condition. These are large, rounded, polygonal cells with glycogen vacuoles separated by strands of cytoplasm extending between the cell membrane and nucleus.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/exp9_img1_071d001d.jpeg",
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 10,
+      "question": "A 17-month-old girl presented with abnormal vaginal bleeding. A gynecological examination showed abnormal vaginal tissue protruding through the introitus. Histopathological analysis showed sheets of spindled cells in a myxoid stroma, which stained positive for desmin and Myo-D1. What is the most likely diagnosis?",
+      "options": {
+        "A": "Liposarcoma",
+        "B": "Rhabdomyosarcoma",
+        "C": "Ewing sarcoma",
+        "D": "Osteosarcoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of sarcoma botryoides, which is a variant of embryonal rhabdomyosarcoma. It is a malignant mesenchymal tumor with skeletal muscle differentiation. Rhabdomyosarcomas are the common soft tissue sarcomas of childhood and adolescence, classified into four subtypes: alveolar, embryonal, pleomorphic, and spindle-shaped/sclerosing. Embryonal rhabdomyosarcoma contains sheets of both primitive round and spindled cells in a myxoid stroma. Sarcoma botryoides is a variant that occurs in the walls of hollow, mucosal-lined structures, such as the nasopharynx, common bile duct, bladder, and vagina. Alveolar rhabdomyosarcoma consists of a network of fibrous septae that divide the cells into clusters or aggregates, creating a crude resemblance to pulmonary alveoli. Pleomorphic rhabdomyosarcoma consists of large, sometimes multinucleated, bizarre eosinophilic tumor cells. Spindle cell/sclerosing rhabdomyosarcoma consists of fusiform cells with vesicular chromatin arranged in long fascicles or in a storiform pattern. On immunohistochemistry, they are positive for desmin, myoglobin, myogenin, MyoD1, and vimentin. Pleomorphic rhabdomyosarcoma is seen predominantly in adults. The botryoid variant of embryonal rhabdomyosarcoma has the best prognosis, while the pleomorphic subtype is often fatal.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 11,
+      "question": "A 26-year-old man presents with left knee pain for 6 months. MRI shows a well-circumscribed 4-cm mass superior to the patella within soft tissue. Biopsy shows a biphasic pattern of spindle cells and epithelial cells forming gland-like structures. Karyotype shows t(X;18) translocation. What is the most likely diagnosis?",
+      "options": {
+        "A": "Leiomyosarcoma",
+        "B": "Rhabdomyosarcoma",
+        "C": "Synovial sarcoma",
+        "D": "Dermatofibrosarcoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of synovial sarcoma. It can be present in locations (chest wall, head, and neck) that lack synovium. Most lesions occur in people in their 20s to 40s. Patients usually present with a deep-seated mass that has been present for several years. Most synovial sarcomas show a characteristic chromosomal translocation t(X;18)(p11;q11) producing SS18-SSX1, SS18-SSX2, or SS18-SSX4 fusion genes. They are morphologically classified into monophasic or biphasic: • Monophasic synovial sarcoma consists of uniform spindle cells with scant cytoplasm and dense chromatin growing in short, tightly packed fascicles. • Biphasic type consists of a spindle cell component with gland-like structures composed of cuboidal to columnar epithelioid cells. Tumor cells, especially in the biphasic type, are positive for epithelial markers (e.g., keratins), differentiating them from most of the other sarcomas.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 12,
+      "question": "A 13-year-old boy presents with fever, pain, and swelling in the left mid-thigh region. X-ray shows lamellated periosteal reaction resembling an onion skin. A biopsy from the lesion is shown in the image below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Desmoplastic small round cell tumor",
+        "B": "Small cell osteosarcoma",
+        "C": "Ewing's sarcoma",
+        "D": "Embryonal Rhabdomyosarcoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of Ewing's sarcoma. It is a malignant bone tumor that occurs primarily in children and young adults, in the age group of 10-20 years. It usually affects the long bones, such as the femur, tibia, or humerus. Occasionally, the tumor may begin in the muscles or soft tissues (extraosseous Ewing's sarcoma). Microscopically, solid sheets of small uniform round cells with PAS-positive magenta pink colored cytoplasm are characteristic of Ewing's Sarcoma/PNET. The cells show PAS positivity due to the presence of large amounts of cytoplasmic glycogen. This is an important feature for the differential diagnosis of Ewing's with other small round cell tumors.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpathology/q12_img1_9a87d468.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 13,
+      "question": "Acid mucin is stained by",
+      "options": {
+        "A": "PAS",
+        "B": "Alcian blue",
+        "C": "Masson trichrome",
+        "D": "PTAH"
+      },
+      "correct_answer": "B",
+      "explanation": "Acid mucin is stained by Alcian blue.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 14,
+      "question": "A 36-year-old man with a history of blunt trauma to the left upper arm presents with swelling and redness 3 weeks later. There is a 4-cm mass in the outer aspect of the upper left arm in the soft tissue. Radiographs show a radiolucent center and surrounding irregular bone formation. What is the most likely diagnosis?",
+      "options": {
+        "A": "Chondroblastoma",
+        "B": "Osteochondroma",
+        "C": "Myositis ossificans",
+        "D": "Chondrocalcinosis"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of myositis ossificans (MO). It is a pseudo-inflammatory tumor that originates from skeletal muscle and corresponds to a heterotopic, metaplastic, nonmalignant bone tumor. It is a highly inflammatory, rapidly growing, and painful muscular mass, which is seen following muscular trauma. The late stage is characterized by a typical zonal pattern (zonal phenomenon). It consists of three zones: \n   • Innermost zone: made of proliferating fibroblasts and myofibroblasts with areas of hemorrhage and necrosis\n   • Intermediate zone: contains osteoblasts with the immature osteoid formation\n   • Peripheral zone: the mature bone",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    },
+    {
+      "q_no": 15,
+      "question": "An 18-month-old child is brought to you with complaints of fever with chills and right knee pain for 3 days. On examination, his knee is warm and swollen with localized erythema. Joint aspiration showed 60,000/mm^3 WBCs. Which of the following organisms is the most likely cause of his condition?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Haemophilus influenzae",
+        "C": "Neisseria gonorrhoeae",
+        "D": "Streptococcus pyogenes"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of septic arthritis. The most common organism implicated in this condition in children < 2 years is Staphylococcus aureus. Since the advent of the Haemophilus influenzae vaccine, the predominant causes of septic arthritis among children < 5 years of age have been S. aureus, Streptococcus pyogenes (group A Streptococcus), and (in some centers) Kingella kingae. Causative organism of bacterial arthritis: Note: H. influenzae arthritis predominates in children younger than 2 years of age, particularly in areas with low Hib immunization rates, but it is not the most common organism. Age group/Condition: Overall - Gram-negative bacteria in young children - Adolescents - After surgical procedure - Prosthetic joints - Sickle-cell disease. Most common Organism: S. aureus, Kingella kingae, Neisseria gonococcus, Staphylococcus aureus, Coagulase-negative Staphylococci, Salmonella sp, Complement deficiency - Neisseria gonococcus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Joints and soft tissue pathology"
+    }
+  ]
+}
