@@ -1,0 +1,290 @@
+{
+  "chapter": "Audiometric tests and Special tests of hearing",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The audiogram of a patient with difficulty in hearing is given below. What is your interpretation? 020406080100Frequency Hz1252505001000200040008000750150030006000",
+      "options": {
+        "A": "Left-sided conductive deafness",
+        "B": "Left-sided sensorineural deafness",
+        "C": "Right-sided conductive deafness",
+        "D": "Right-sided sensorineural deafness"
+      },
+      "correct_answer": "B",
+      "explanation": "The patient's audiogram indicates a higher threshold for sound perception in the left ear, which is characteristic of sensorineural deafness.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q1_img1_a2a33d2b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 2,
+      "question": "A middle-aged woman presents to the ENT OPD with complaints of difficulty in hearing. Apure tone audiometry test is performed and the result is given below. What is theinterpretation?268Hearing level in dB-100102030405060708090100110120250500",
+      "options": {
+        "A": "Left-sided conductive deafness",
+        "B": "Left-sided sensorineural deafness",
+        "C": "Right-sided conductive deafness",
+        "D": "Right-sided sensorineural deafnessV750 1000 1500 2000 3000 4000 6000 8000Frequency HzOMARROW"
+      },
+      "correct_answer": "",
+      "explanation": "The given pure tone audiometry is suggestive of right-sided sensorineural deafness.Interpretation of the result:• Red indicates the right ear.•O indicates air conduction(AC). The threshold here is &gt;15 dB indicating abnormal AC.• &lt; indicates bone conduction(BC). The threshold is &gt;25 dB indicating abnormal BC.• Both AC and BC are abnormal which indicates a sensorineural hearing loss.• There is no air-bone gap.•• Hence, it is right side sensorineural hearing loss.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q2_img1_97242b91.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 3,
+      "question": "The audiogram of a patient who presented with a gradually progressive hearing loss is given below. Which among the following would be the most likely diagnosis?",
+      "options": {
+        "A": "Presbycusis",
+        "B": "Ototoxicity",
+        "C": "Noise-induced hearing loss",
+        "D": "Early stages of Ménière's disease"
+      },
+      "correct_answer": "D",
+      "explanation": "The given audiogram is seen in Ménière's disease in its early stages. It shows an up-sloping/ascending curve, suggesting that the lower frequencies are affected first. Presbycusis, ototoxicity, and sound-induced hearing loss have downsloping audiograms since the higher frequencies are affected first in these conditions.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q3_img1_ba4c2201.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 4,
+      "question": "A 25-year-old woman presented with hearing loss that developed shortly after her firstpregnancy. Her audiometry report is given below. What is the diagnosis?",
+      "options": {
+        "A": "Ototoxicity",
+        "B": "Meniere disease",
+        "C": "Otosclerosis",
+        "D": "Noise induced hearing lossHearing loss in dB0102030405060708090100110Frequency in Hertz125 250500 1000 2000 40008000X"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical scenario describes a patient with post-pregnancy hearing loss. The audiogram showsconductive deafness along with Carhart's notch (dip in bone conduction at 2000 Hz). Thesefindings are highly suggestive of otosclerosis.Ototoxicity, Meniere's disease, and noise-induced hearing loss cause sensory neural hearing loss(SNHL) and not conductive hearing loss.Otosclerosis is caused by bony overgrowth involving the enchondral layer of the bony otic capsule.It presents with bilateral progressive conductive hearing loss and tinnitus. It has an autosomaldominant inheritance and can worsen with stress and hormonal changes like during pregnancyand menopause.Stapedial otosclerosis is the most common type of otosclerosis. Here the lesion starts just in frontof the oval window in an area called fistula ante fenestrae.The presence of a reddish hue on the promontory through the tympanic membrane, known as theSchwartze sign, suggests an active focus. PTA shows loss of air conduction with air-bone gap,more for lower frequencies and Carhart's notch may be seen. Tympanometry shows an As type oftympanogram in which there is reduced compliance at or near the ambient air pressure.Medical management with sodium fluoride is used in the active stage. Definitive treatment isstapedectomy/stapedotomy with the placement of a prosthesis. Carhart notch usually disappears278after a successful stapedectomy.Other options:Option A: Ototoxicity causes SNHL and shows a high-frequency hearing loss in the SNHL curve.Option B: In Meniere's disease, pure tone audiometry shows an SNHL pattern with a rising curvein the early stages (as lower frequencies are involved first) and as the disease progresses higherfrequencies are involved, the curve becomes flat or a falling type.Option D: Noise-induced hearing loss is SNHL and PTA shows a characteristic acoustic dip at4000 Hz both for air and bone conduction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q4_img1_722c9a0b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 5,
+      "question": "A prisoner who was brought to the hospital with deafness after a brawl with another inmate issuspected of malingering. Which of the following tests can be used to assess the authenticityof his complaints?",
+      "options": {
+        "A": "Pure-tone audiometry",
+        "B": "Speech audiometry",
+        "C": "Impedance audiometry",
+        "D": "Tone decay270"
+      },
+      "correct_answer": "",
+      "explanation": "Impedance audiometry can be used to test malingering. It is an objective test and consists oftympanometry and acoustic reflex measurements.A person who feigns total deafness and does not give any response on pure tone audiometry butshows a positive acoustic reflex is a malingerer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient with hearing loss is being evaluated with the following instrument. What is thefrequency of the probe used?",
+      "options": {
+        "A": "220 Hz",
+        "B": "446 Hz",
+        "C": "512 Hz",
+        "D": "128 HzB KMADSEN The"
+      },
+      "correct_answer": "",
+      "explanation": "The given image shows impedance audiometry and the frequency of the probe used here is 220Hz.Impedance audiometry consists of tympanometry and acoustic reflex measurements.Tympanometry equipment consists of a probe that snugly fits into the external auditory canal andhas three channels.•• To deliver a tone of 220HzTo absorb reflected sound• To change the pressure in EAC",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q6_img1_7780fb96.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 7,
+      "question": "The tympanogram of a young patient who presented with a progressive hearing loss is givenbelow. Which of the following is the most likely diagnosis?271140012001000800600400200ARROW-400 -300 -200 -100 0 +100+200",
+      "options": {
+        "A": "Thin and lax tympanic membrane",
+        "B": "Otosclerosis",
+        "C": "Ossicular discontinuity",
+        "D": "Serous otitis mediaMARROW"
+      },
+      "correct_answer": "",
+      "explanation": "The tympanogram shows As type of curve suggestive of otosclerosis. It indicates that pressure isnormal but compliance is reduced.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q7_img1_c7fdbee6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 8,
+      "question": "Using impedance audiometry, stapedial reflexes are being assessed in a child with cranialnerve palsy. Which of the following cranial nerves is being tested here?",
+      "options": {
+        "A": "6th and 8th cranial nerves",
+        "B": "5th and 7th cranial nerves",
+        "C": "7th and 8th cranial nerves",
+        "D": "6th and 7th cranial nerves"
+      },
+      "correct_answer": "",
+      "explanation": "The 7th and 8th cranial nerves are being tested in a child by assessing the stapedial reflexes.The afferent of stapedial reflex is the 8th cranial nerve and efferent is the 7th cranial nerve.279",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the instrument shown below?272",
+      "options": {
+        "A": "Meniette device",
+        "B": "Barany noise box",
+        "C": "Portable audiometer",
+        "D": "Higginson apparatus"
+      },
+      "correct_answer": "",
+      "explanation": "The instrument shown is Barany's noise box which is used to mask non-test ear while testing boneconduction.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp9_img1_229bc499.jpeg",
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 10,
+      "question": "A woman is brought by her son to the ENT OPD due to hearing problems. He says that shealways requests him to speak loud and whenever he speaks slightly louder, she tells him tostop shouting. Which of the following is the likely cause for this patient's condition?",
+      "options": {
+        "A": "Middle ear pathology",
+        "B": "Cochlear pathology",
+        "C": "Retrocochlear disease",
+        "D": "External ear pathology"
+      },
+      "correct_answer": "",
+      "explanation": "The given symptom is indicative of a recruitment phenomenon and is seen in cochlear hearingloss (e.g. Ménière's disease and presbycusis). It refers to abnormal growth of loudness.It is tested by ABLB (Alternate Binaural Loudness Balance) test. Lesser intensity sounds are heardlouder in the normal ear. However, a greater intensity sound is heard equally, or even better inthe abnormal ear. This is referred to as abnormal growth of loudness.However, in the conductive hearing loss, a constant difference of intensity is maintainedthroughout.Alternate binaural loudness balance testRight ear(abnormal)Loft oar(normal)no70GOM5040302010MONo recruitment seenRight ear(abnormal)DOBO70605040402010DOno70GO5040302010Loft ear(normal)Recruitment seen inthe right earCOMARROWDOBO0250402010w",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp10_img1_75d07a9a.jpeg",
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 11,
+      "question": "Patient with hearing loss undergoes speech audiometry whose report is given below. What isit suggestive of?273100Score percentageEARROW00 10 2030 40 50 60 70 80 90 100",
+      "options": {
+        "A": "Normal finding",
+        "B": "Cochlear pathology",
+        "C": "Retrocochlear pathology",
+        "D": "Conductive deafnessAmplification in dBOMARROW"
+      },
+      "correct_answer": "",
+      "explanation": "The given speech audiometry shows roll-over phenomenon suggestive of retrocochlear hearingloss.With an increase in speech intensity above a particular level, the speech discrimination score fallsrather than maintaining a plateau as seen in the cochlear type of sensorineural hearing loss.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q11_img1_95c102b6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 12,
+      "question": "A middle-aged woman presents to you with a progressive hearing loss accompanied bytinnitus. An MRI of the patient with gadolinium contrast is given below. Which of thefollowing results is consistent with the diagnosis?100W 964: L 449",
+      "options": {
+        "A": "&lt;25 dB decay in threshold tone decay test274",
+        "B": "SISI score 70 - 100%",
+        "C": "Presence of otoacoustic emissions",
+        "D": "Presence of recruitment phenomenon"
+      },
+      "correct_answer": "C",
+      "explanation": "280The given clinical scenario and the MRI are suggestive of vestibular schwannoma which is aretrocochlear disease. The presence of otoacoustic emissions is a feature consistent with thediagnosis.Vestibular schwannoma typically presents at 40-60 years of age. Progressive unilateralsensorineural hearing loss, often accompanied by tinnitus, is the presenting symptom in themajority of cases.The MRI shows left cerebellopontine angle mass causing widening of the porous acousticus. Themass is seen extending into intracanalicular portion of the internal acoustic meatus which issuggestive of vestibular schwannoma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q12_img1_bb10f337.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 13,
+      "question": "What does summating potential in electrocochleography indicate?",
+      "options": {
+        "A": "Electrical activity of cochlea",
+        "B": "Electrical activity of hair cells",
+        "C": "Electrical activity of distal part of auditory nerve",
+        "D": "Sum of all the above"
+      },
+      "correct_answer": "",
+      "explanation": "Summating potential in electrocochleography indicates the sum of electrical activity in hair cellswithin the organ of Corti.Electrocochleography (ECOG) is an objective test which records the electrical activity of thecochlea and 8th nerve in response to auditory stimuli. The recording electrode is passed throughthe tympanic membrane to rest over the promontory.The three parameters measured in ECOG are:• Cochlear microphonics - measures the electrical activity that follows the stimulus and reflectsthe instantaneous displacement of the basilar membrane.•-• Summating potential (SP) – measures the electrical activity of the hair cells within the organ ofCorti.-• Action potential (AP) — electrical activity in the distal part of the auditory nerve.Normal SP: AP ratio is &lt;30% but it is increased in Meniere's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 14,
+      "question": "A preterm neonate with an Apgar score of 4 at 5 minutes of birth undergoes otoacousticemission study. Which of the following is false about this test?",
+      "options": {
+        "A": "Otoacoustic emissions are generated by inner hair cells",
+        "B": "It is used as a screening test for hearing loss in infants",
+        "C": "Spontaneous type is present in 50% of normal individuals",
+        "D": "Evoked type is present in all individuals with normal hearing"
+      },
+      "correct_answer": "A",
+      "explanation": "The otoacoustic emissions (OAEs) are generated by the outer hair cells of the cochlea. Presence ofotoacoustic emissions is used to test hearing in a high-risk neonate as given in the clinicalscenario.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 15,
+      "question": "Wave V in brainstem evoked response audiometry is produced by which of the followingstructures?",
+      "options": {
+        "A": "Superior olivary complex",
+        "B": "Lateral lemniscus",
+        "C": "Inferior colliculus",
+        "D": "Distal part of cochlear nerve"
+      },
+      "correct_answer": "B",
+      "explanation": "Wave V in BERA is produced by lateral lemniscus.The generators of ABEPS (Auditory nerve and brainstem evoked potentials) have been the subjectof much research and controversy and are still not entirely agreed upon.The literature available to us states the following:281• Scott Brown's Otorhinolaryngology- wave IV-V complex probably arises from neural activitywithin the superior olivary complex and nuclei of the lateral lemniscus, possibly somecontribution from the inferior colliculus. So lateral lemniscus is the better option.• Current Diagnosis and Treatment in Otorhinolaryngology- auditory brainstem response waves 2,3, 4, and 5 represent the sequential activation of neurons as the signal is passed up the brainstemfrom the proximal part of the cochlear nerve, cochlear nucleus, superior olivary complex, andlateral lemniscus.•• NIH Journals- generation of wave V reflects the activity of multiple anatomic auditorystructures. A sharp positive peak of wave V arises mainly from the lateral lemniscus, following aslow negative wave represents dendritic potential in the inferior colliculus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient undergoes hearing assessment using cortical evoked response audiometry. Which of the following is false regarding this test?",
+      "options": {
+        "A": "Recording is made from cortical potentials",
+        "B": "Click stimulus is used",
+        "C": "Not suitable for children",
+        "D": "Response is frequency specific"
+      },
+      "correct_answer": "B",
+      "explanation": "In CERA or cortical evoked response audiometry, a tone stimulus is used instead of a click stimulus. It is an objective hearing test, that records the signals from the auditory cortex (part of the brain that recognizes sound) that have been generated in response to sounds introduced to the ears. The test gives information about the level of sound needed to produce a signal and confirms the status of the auditory cortex. This is valuable information that we cannot obtain from a normal hearing test. Difference between BERA and CERA: BERA - The recording is made from brain stem potentials. Click stimulus is used. Responses are not frequency specific. Can be performed in awake and restless patients. Responses begin after 1 - 10 milliseconds after stimuli. Suitable for even younger children. CERA - The recording is made from cortical potentials. Tone stimulus is used. Responses are frequency specific. The patient must lie still throughout the process. Responses begin after 50 - 300 milliseconds after stimulation. Unsuitable for children.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 17,
+      "question": "As a medical officer in an occupational health program, you encounter an employee withhearing loss. You are suspicious that he is faking it to claim compensation. Which of thefollowing tests is least useful in this scenario?",
+      "options": {
+        "A": "Stenger test",
+        "B": "Lombard test",
+        "C": "Stapedial reflex",
+        "D": "Rinne test"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario is suggestive of malingering and Rinne's test is least useful here.Tests for malingering or nonorganic hearing loss:282• Stenger test• Lombard test•Stapedial reflex• Inconsistent results on repeat pure tone and speech audiometry tests• BERA",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 18,
+      "question": "While performing a caloric test, what type of nystagmus would you expect on cold water irrigation?",
+      "options": {
+        "A": "Horizontal nystagmus towards the same side",
+        "B": "Vertical nystagmus towards the same side",
+        "C": "Horizontal nystagmus towards the opposite side",
+        "D": "Vertical nystagmus towards the opposite side"
+      },
+      "correct_answer": "C",
+      "explanation": "In caloric testing, cold water irrigation produces horizontal nystagmus towards the opposite side of irrigation. The direction of nystagmus can be remembered by the mnemonic, COWS (cold-opposite, warm-same). The mechanism for the nystagmus is the creation of a temperature gradient by the cold water, which pulls the cupula away from the utricle, causing nystagmus towards the opposite side. As the horizontal semicircular canal is closer to the outer ear canal, most of the response comes from it and the nystagmus is horizontal. The Fitzgerald-Hallpike test (bithermal caloric test) is done to assess this phenomenon. The patient lies in a supine position with head tilted forward at a 30° angle, ensuring the horizontal canal becomes vertical. Alternatingly, water at temperatures of 30°C and 44°C (7° below and above normal body temperature, respectively) is irrigated into the ears for a duration of 40 seconds each. The examiner closely observes the patient's eyes for the emergence of nystagmus until its endpoint is reached. The time taken from the start of irrigation to the endpoint of nystagmus is recorded and plotted on a calorigram. If no nystagmus is evoked from either ear, the test is repeated with water at a temperature of 20°C for a duration of 4 minutes before labeling the labyrinth dead. A 5-minute interval should be allowed between testing each ear to ensure accurate results.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following are the objective tests for the hearing?",
+      "options": {
+        "A": "1, 2, and 4",
+        "B": "1,2, and 3",
+        "C": "2,3, and 4",
+        "D": "1,2,3, and 4276"
+      },
+      "correct_answer": "A",
+      "explanation": "BERA, OAE, and tympanometry are the objective tests for hearing. PTA (pure tone audiometry) isa subjective test for hearing as it relies on patient responses to pure tone stimuli. Other examplesof subjective tests include tuning fork tests and speech audiometry.Tympanometry is an objective test of the middle ear and eustachian tube functions (conductivecompartment of hearing). Here, the compliance of the TM, i.e., how much it moves to the pressuredifferentials applied from the external ear is measured.The image below shows the types of tympanogram:283ComplianceType AType AsType ADType BType CTypes of tympanogramNormal tympanogram.Compliance is lower at or near ambient airpressure. Seen in fixation of ossicles,e.g. otosclerosis or malleus fixation.High compliance at or near ambient pressure.Seen in ossicular discontinuity or thin and laxtympanic membrane.A flat or dome-shaped graph. No change incompliance with pressure changes. Seen inmiddle ear fluid or thick tympanic membrane.Maximum compliance occurs with negativepressure in excess of 100 mm H20. Seen inretracted tympanic membrane,B-200C284-100ADAAs0+100+200OMARROW",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Audiometric tests and Special tests of hearing"
+    }
+  ]
+}

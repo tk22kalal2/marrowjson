@@ -1,0 +1,335 @@
+{
+  "chapter": "Facial Nerve Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is the most common type of facial nerve injury?",
+      "options": {
+        "A": "Neuropraxia",
+        "B": "Axonotemesis",
+        "C": "Neurotemesis",
+        "D": "Transection"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "You are a final-year student examining a patient with a right supranuclear facial palsy. Whichof the following findings you will see?",
+      "options": {
+        "A": "Loss of taste from anterior 2/3rd of tongue",
+        "B": "Paralysis of lower facial muscle on left side",
+        "C": "Paralysis of lower facial nerve on right side",
+        "D": "Loss of corneal reflex on left side"
+      },
+      "correct_answer": "",
+      "explanation": "Right upper motor neuron (UMN) facial nerve palsy causes paralysis of lower facial muscles onthe left side.The upper part of the facial nerve's motor nucleus, which innervates forehead muscles, receivesfibers from both the cerebral hemispheres. The lower part of the nucleus, which supplies thelower face, only receives crossed fibers from the contralateral hemisphere. Therefore, the upperpart of the face gets bilateral innervation and the lower part of the face gets crossed innervationfrom the opposite side.Hence, in supranuclear lesion (UMN palsy), forehead is spared and muscles of the lower half ofthe opposite side of the face are affected.In LMN palsy, all muscles of the same side are affected.229Drooping ofangle of mouthFacial Nerve PalsySupranuclearlesionFacial nerveDeviation ofangle of mouthSupranuclear lesion/UMN lesionBNucleus offacial nerveLesion infacial nerveFacial nerve lesion/LMN lesion (Bell's palsy)OMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp2_img1_fa218f7b.jpeg",
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "While examining a patient with upper motor neuron facial nerve palsy, you notice emotionalexpressions such as smiling and crying are unaffected. How will you explain this?",
+      "options": {
+        "A": "Incomplete paralysis of facial muscles",
+        "B": "Cross regeneration of fibres",
+        "C": "Innervation by fibres from thalamus",
+        "D": "Innervation by fibres from prefrontal cortex"
+      },
+      "correct_answer": "",
+      "explanation": "The fibres from the thalamus are responsible for the involuntary movements of facial muscles inemotional states. These fibres reach the facial nerve nucleus via alternate pathways and areunaffected by UMN causes.Supranuclear innervation of facial nerveCerebrumPonsLesionOMARROWPrecentralgyrus(motor area)ThalamusFacial nucleusUpper partLower part",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp3_img1_047d0da2.jpeg",
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is the most common cause of LMN facial nerve palsy?",
+      "options": {
+        "A": "Bell's palsy",
+        "B": "Ramsay hunt syndrome221",
+        "C": "Cerebellopontine angle tumors",
+        "D": "Postoperative"
+      },
+      "correct_answer": "A",
+      "explanation": "Bell's palsy is the most common cause of LMN facial nerve palsy. It is defined as idiopathic,ipsilateral lower motor neuron (LMN) facial paralysis, or paresis of acute onset.Causes of facial nerve palsy:230UnilateralUMNVascular (infarct)Cerebral tumorMultiple sclerosisBilateral Vascular (infarct) Motor neuron diseaseLMNBell's palsy (most common overall) Parotid tumorHead injuriesSkull base tumorsDiabetesHypertensionGuillain-Barre syndromeSarcoidosis LeukemiaLymphomaLeprosy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "A 35-year-old housewife presents with facial weakness on the right side, difficulty in closingthe right eye, and loss of taste sensation. A diagnosis of Bell's palsy is made. Which of thefollowing is false regarding this condition?",
+      "options": {
+        "A": "Herpes virus is a cause",
+        "B": "It is an idiopathic condition",
+        "C": "Recurrence is uncommon",
+        "D": "Males are affected more commonly than females"
+      },
+      "correct_answer": "A",
+      "explanation": "Bell's palsy affects both males and females equally. It is an acute onset idiopathic ipsilateral LMNfacial nerve palsy.Most of the evidence supports the viral etiology due to herpes simplex, herpes zoster, or theEpstein-Barr virus.Positive family history is present in 6-8% of patients. Most of the patients recover fully and theremaining require surgery. Recurrent facial palsy is seen in 3–10% of cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "While examining a patient with LMN facial palsy, you observe Bell's phenomenon. In whichdirection would you expect the eyeball to move?",
+      "options": {
+        "A": "Upward and inward",
+        "B": "Upward and outward",
+        "C": "Downward and inward",
+        "D": "Downward and outward"
+      },
+      "correct_answer": "B",
+      "explanation": "In Bell's phenomenon, the eyeball turns upwards and outwards on the affected side whileattempting to close the eyes.This phenomenon is seen in LMN facial palsy.The following image shows Bell's phenomenon.231",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp6_img1_1cdb66d9.jpeg",
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "You are an ENT resident examining a patient with Bell's palsy. Which of the followingfindings is unlikely to be present in this patient?Ipsilateral facial muscle weaknessb) Ipsilateral ptosisc) Ipsilateral ageusiad) HyperacusisQuestion 8:222A patient with facial nerve palsy is intolerant to loud sounds. Involvement of which musclewill cause this?",
+      "options": {
+        "A": "Tensor tympani",
+        "B": "Stapedius",
+        "C": "Tensor veli palatini",
+        "D": "Levator veli palatini"
+      },
+      "correct_answer": "B",
+      "explanation": "Ptosis is not seen in patients with Bell's palsy.Clinical presentation of Bell's palsy:• Sudden onset•Bell's phenomenon• Asymmetrical face• Some may complain of noise intolerance (stapedial paralysis) or loss of taste (involvement ofchorda tympani).The following image shows a patient with Bell's palsy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp7_img1_cb82b4cc.jpeg",
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "In the evaluation of a patient with facial nerve palsy, what is the ideal time to doelectroneuronography?",
+      "options": {
+        "A": "Immediately following injury",
+        "B": "Within 2 days of injury",
+        "C": "4-21 days following injury",
+        "D": "2 months following injury"
+      },
+      "correct_answer": "C",
+      "explanation": "232Electroneuronography is most useful when done between 4 and 21 days of the onset of completeparalysis.Degeneration of the nerve fibers cannot be detected earlier than 48-72 h of its commencement.Hence electrodiagnostic tests are done after 72 hours following injury.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "A 2nd year ENT resident is evaluating a patient with Bell's palsy. Which of the following testshe will not do to identify the site of the lesion?",
+      "options": {
+        "A": "Stapedial reflex",
+        "B": "Schirmer test",
+        "C": "Electrogustometry",
+        "D": "Electromyography"
+      },
+      "correct_answer": "D",
+      "explanation": "Electromyography is not a topodiagnostic test used in facial palsy. It is used to monitor nervedegeneration in facial palsy.Topodiagnostic tests are done to identify the site of lesion in the intratemporal part of the facialnerve. They are:• Schirmer test - quantification of lacrimation•Stapedial reflex• Taste test by electrogustometry• Submandibular salivary flow test.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient with facial nerve palsy presented with dry eye. Injury to which part of the facialnerve will produce this symptom?",
+      "options": {
+        "A": "Geniculate ganglion",
+        "B": "Tympanic segment",
+        "C": "Mastoid segment",
+        "D": "Chorda tympani223"
+      },
+      "correct_answer": "A",
+      "explanation": "Injury at the level or proximal to the geniculate ganglion will produce dry eye due to decreasedlacrimation.Geniculate ganglion gives the secretomotor fibers to the lacrimal gland via the greater superficialpetrosal nerve.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "A middle-aged man presents with facial asymmetry. On examination, there is loss of tastefrom anterior 2/3rd of the tongue, absent acoustic reflex, and normal Schirmer test. What isthe site of the lesion?",
+      "options": {
+        "A": "Proximal to geniculate ganglion",
+        "B": "Mastoid segment",
+        "C": "Tympanic segment",
+        "D": "Chorda tympani"
+      },
+      "correct_answer": "",
+      "explanation": "The site of lesion in this patient with loss of taste from anterior 2/3rd of tongue and absentacoustic reflex is at the tympanic segment.Injury to the greater superficial petrosal nerve leads to loss of lacrimation which is detected by theSchirmer test. It is the first branch given at the level of the geniculate ganglion.Injury to the nerve to stapedius, the first motor branch of the facial nerve, leads to loss ofstapedial reflex and hyperacusis, which can be detected by tympanometry.Injury to chorda tympani nerve leads to loss of taste from anterior 2/3rd of the tongue which isdetected by electrogustometry and reduced submandibular and sublingual salivary flow detectedby salivary flow test.So in this patient, the lesion is proximal to the origin of nerve to stapedius i.e. tympanic segment,and not proximal to geniculate ganglion as the lacrimation is normal.233",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "A 30-year-old man presented with the following findings which he noticed when he woke upin the morning. There was no history of associated fever or rash. A panel of investigations wasdone and were found to be normal. Which of the following is false regarding the treatment ofthis condition?",
+      "options": {
+        "A": "2,4",
+        "B": "2,3,4",
+        "C": "2,4,5",
+        "D": "1,2,4"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of Bell's palsy and statements 2,4 and 5 are false withrespect to the treatment.Management of Bell's palsy:Steroids are the drug of choice for Bell's palsy. If the patient reports within 1 week, the adult doseof prednisolone 1 mg/kg/day in 2 divided doses for 5 days should be given.Steroids can be combined with acyclovir for herpes zoster oticus or if viral etiology is suspected inBell's palsy.General measures include reassurance, physiotherapy, or massage of facial muscles, and care ofthe eye to prevent exposure keratitis. It includes artificial tears drops, eye ointment, and taping ofeyes during the night. If the recovery is prolonged, temporary tarsorrhaphy is indicated.Surgical treatments like nerve decompression are done only when the medical management fails.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q13_img1_c8b87868.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "224Which of the following would you not expect to see in a patient with Melkersson-Rosenthalsyndrome?",
+      "options": {
+        "A": "Facial nerve palsy",
+        "B": "Swelling of lips",
+        "C": "Cleft palate",
+        "D": "Fissured tongue"
+      },
+      "correct_answer": "C",
+      "explanation": "Cleft palate is not seen in a patient with Melkersson-Rosenthal syndrome.Melkersson-Rosenthal Syndrome is an idiopathic disorder consisting of a triad of:•Facial paralysis•Swelling of lips and• Fissured tongue.The following image shows a patient with Melkersson-Rosenthal syndrome.B",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp14_img1_8c7a3fe0.jpeg",
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient with the following findings in the image comes to the OPD. What is the most likelycausative agent for this condition?",
+      "options": {
+        "A": "Herpes simplex virus",
+        "B": "Herpes zoster virus",
+        "C": "Epstein barr virus",
+        "D": "CytomegalovirusAOMARROWB"
+      },
+      "correct_answer": "B",
+      "explanation": "234The given clinical scenario is suggestive of Ramsay-Hunt syndrome and it is caused by the Herpeszoster virus.The image shows right-sided LMN facial paralysis along with vesicular rash in the externalauditory canal and pinna which is a classical presentation of this syndrome.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q15_img1_4f9a33d6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 16,
+      "question": "A 30-year-old woman presented with left-sided facial weakness. On examination, she hasvesicles in the external auditory canal and over the tympanic membrane. Which of thefollowing is false about this condition?",
+      "options": {
+        "A": "Herpes zoster is the cause225",
+        "B": "Involves 7th cranial nerve",
+        "C": "8th cranial nerve may also be involved",
+        "D": "Surgery is the mainstay of treatment"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario with facial nerve palsy and vesicles in the external auditory canal issuggestive of Ramsay-Hunt syndrome (Herpes Zoster oticus). Surgery is not the mainstay oftreatment. Steroids and antivirals are the mainstays of treatment.There may also be anesthesia of the face, giddiness, and hearing impairment due to theinvolvement of the 5th and 8th cranial nerves.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 17,
+      "question": "An anxious woman presents to you with complaints of watering of the right eye while eating.She gives a history of transient facial weakness a few months back. Which of the following isthe most likely cause for this condition?",
+      "options": {
+        "A": "Faulty regeneration of facial nerve fibres",
+        "B": "Faulty regeneration of trigeminal nerve fibres",
+        "C": "Faulty regeneration of vagal nerve fibres",
+        "D": "Faulty regeneration of auriculotemporal nerve fibres"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is crocodile tear syndrome or Bogard syndrome (gustatory lacrimation)and is due to faulty regeneration of facial nerve fibres. It presents as unilateral lacrimation duringeating and drinking.It is seen in cases where the facial nerve is damaged proximal to the geniculate ganglion. Duringregeneration, the fibres supplying the salivary gland aberrantly supply the lacrimal gland.It can be treated by section of the greater superficial petrosal nerve.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 18,
+      "question": "A 50-year-old woman presented with sweating over the right cheek while eating. Sheunderwent parotid surgery 6 months back. The finding of the starch iodine test is shown inthe image. Which of the following best explains the pathophysiology of this condition?",
+      "options": {
+        "A": "Aberrant reinnervation of parasympathetic fibres of auriculotemporal nerve with sympatheticsweat glands",
+        "B": "Aberrant cross innervation of the facial nerve with greater auricular nerve226",
+        "C": "Aberrant reinnervation of sympathetic fibres of auriculotemporal nerve with parasympatheticsweat glands",
+        "D": "Aberrant cross innervation of the facial nerve with auriculotemporal nerve"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is Frey's syndrome or gustatory sweating. It is due to aberrantreinnervation (or cross innervation) of parasympathetic fibers of the auriculotemporal nerve(which supplies parotid) with sympathetic sweat glands.The patient usually presents with sweating and flushing over the parotid area duringmastication. This usually occurs after parotid surgery.It is diagnosed by Minor's test or starch iodine test. The affected area is painted with iodine and isallowed to dry. Then dry corn starch is applied. The starch turns blue on exposure to iodine in thepresence of sweat.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q18_img1_1403c8fe.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is the most common cause of hemifacial spasm?",
+      "options": {
+        "A": "Acoustic neuroma",
+        "B": "Glomus tumor",
+        "C": "Vascular loop",
+        "D": "Congenital cholesteatoma"
+      },
+      "correct_answer": "",
+      "explanation": "A vascular loop abutting the facial nerve at the cerebellopontine angle is the most common causeof hemifacial spasm. This usually presents as a unilateral involuntary uncontrollable twitching ofthe face.235Treatment is microvascular decompression or removal of any other inciting cause like acousticneuroma, congenital cholesteatoma, glomus tumor. In refractory cases, botulinum toxin andselective nerve sectioning are done.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 20,
+      "question": "Which temporal bone fracture is most commonly associated with facial nerve palsy?",
+      "options": {
+        "A": "Longitudinal fracture",
+        "B": "Transverse fracture",
+        "C": "Mastoid fracture",
+        "D": "Styloid fracture"
+      },
+      "correct_answer": "B",
+      "explanation": "The transverse fracture of the petrous temporal bone is most commonly associated with facialnerve palsy.LongitudinalfractureFractures of temporal boneOMARROWTransversefracture",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp20_img1_5efc91f2.jpeg",
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 21,
+      "question": "Following a blow to the head by a metal rod during a gang fight, a patient presented withclear watery discharge from the ear. The discharge is positive for beta-2 transferrin. Which ofthe following is the most likely cause for this condition?",
+      "options": {
+        "A": "Fracture of cribriform plate",
+        "B": "Fracture of petrous temporal bone",
+        "C": "Rupture of tympanic membrane",
+        "D": "Fracture of parietal bone"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of CSF otorrhea and it is seen in longitudinal fracture ofthe petrous part of the temporal bone.The transverse fracture of petrous temporal bone and fracture of cribriform plate leads to CSFrhinorrhea.236LongitudinalfractureArterial sulcus(Sulcusarteriosus)SphenoidalborderPetrousportion -ApexSubarcuatefossaInternalauditorymeatusFractures of temporal boneOMARROWTemporal bone-Medial viewStyloidprocessJugularnotchOMARROWParietalborderCerebralsurfaceTransversefractureArcuateeminenceParietalnotchSuperiorpetrosalgrooveMastoidforamenOccipitalborderSigmoidgroove",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp21_img1_e8ce23a2.jpeg",
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 22,
+      "question": "You suspect a temporal bone fracture in a patient who presented with right side facialweakness, decreased hearing, vertigo, and bleeding from the ear. What is the investigation of227choice to confirm the diagnosis?",
+      "options": {
+        "A": "NCCT",
+        "B": "CECT",
+        "C": "HRCT",
+        "D": "MRI"
+      },
+      "correct_answer": "C",
+      "explanation": "HRCT (High-resolution CT) is the investigation of choice for the temporal bone fracturescomplicated by facial nerve palsy or CSF leak.237LongitudinalfractureFractures of temporal boneOMARROWTransversefracture",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp22_img1_989f1f99.jpeg",
+      "chapter_heading": "Facial Nerve Disorders"
+    },
+    {
+      "q_no": 23,
+      "question": "An intern is assisting the surgeon in total parotidectomy. During the procedure, heaccidentally injured the facial nerve. Which of the following cannot be used as a graft forrepair in this case?",
+      "options": {
+        "A": "Sural nerve",
+        "B": "Mandibular nerve",
+        "C": "Greater auricular nerve",
+        "D": "Lateral cutaneous nerve of thigh"
+      },
+      "correct_answer": "B",
+      "explanation": "The mandibular nerve cannot be used as a graft for facial nerve surgeries.Only those nerves whose functions can be sacrificed are chosen as grafts and these are usuallysensory nerves.The most commonly used grafts for facial nerve are:Greater auricular nerve (can be extracted from the same incision)• Lateral cutaneous nerve of thigh• Sural nerve (when a large segment is required).238",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Facial Nerve Disorders"
+    }
+  ]
+}

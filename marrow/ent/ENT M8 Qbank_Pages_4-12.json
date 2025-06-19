@@ -1,0 +1,230 @@
+{
+  "chapter": "Embryology of Ear and Malformations",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which embryological structure gives rise to the pinna?",
+      "options": {
+        "A": "1st branchial arch",
+        "B": "2nd branchial arch",
+        "C": "1st and 2nd branchial arches",
+        "D": "2nd and 3rd branchial arches"
+      },
+      "correct_answer": "C",
+      "explanation": "The pinna, or auricle, develops from six swellings of ectoderm, three from the first branchial arch and three from the second branchial arch.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp1_img1_7905b241.jpeg",
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient is incidentally noted to have the following finding. It is also present on the other ear. Which of the following is the cause for such abnormality?",
+      "options": {
+        "A": "Persistent opening of the first branchial cleft",
+        "B": "Improper fusion of auricular tubercles",
+        "C": "Infection of a hematoma of the pinna",
+        "D": "Third pharyngeal pouch anomaly"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image showing the presence of a sinus seen between the tragus and crus of the helix is suggestive of the preauricular sinus. It is due to improper fusion of the auricular tubercles formed from the first and second arches. The preauricular sinus is apparent at birth and is usually bilateral. There may be occasional sebaceous discharge from the punctum. It does not regress spontaneously.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q2_img1_86de4a4e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 3,
+      "question": "When are reconstructive surgeries for congenital malformations of the pinna usually performed?",
+      "options": {
+        "A": "Soon after birth",
+        "B": "Within 1 year of age",
+        "C": "5 or 6 years of age",
+        "D": "3 or 4 years of age"
+      },
+      "correct_answer": "C",
+      "explanation": "Reconstructive surgeries for congenital malformations of the pinna (auricle) are usually performed around 5 or 6 years of age. Autologous cartilages from ribs are harvested for these purposes and the ideal timing is between 6-10 years. At around 3 years of age, 85% of the auricular growth is complete and the cartilaginous growth is almost complete by 5 years. Surgery performed on the auricle after 5 years doesn't hinder further growth.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 4,
+      "question": "Invagination of which of the following structures will form the external auditory meatus?",
+      "options": {
+        "A": "First pharyngeal arch",
+        "B": "First pharyngeal pouch",
+        "C": "Second branchial cleft",
+        "D": "Second branchial groove"
+      },
+      "correct_answer": "B",
+      "explanation": "Invagination of the first pharyngeal groove, which is also known as the first branchial cleft, gives rise to the external auditory meatus. Previously, it was believed that the external auditory meatus develops from the first pharyngeal cleft. But recent studies suggest that the first pharyngeal groove, or the first branchial cleft, gives rise to the external auditory meatus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 5,
+      "question": "Examination of a child with otorrhea revealed two discharging sinuses. One was present on the floor of the left external auditory canal and the other on the left neck just below the angle of the mandible. Which of the following structures is abnormal here?",
+      "options": {
+        "A": "First branchial cleft",
+        "B": "First branchial pouch",
+        "C": "Second branchial cleft",
+        "D": "Second branchial pouch"
+      },
+      "correct_answer": "A",
+      "explanation": "Given clinical scenario is suggestive of a congenital auroral fistula, and the first branchial cleft is abnormal here. The fistula has two openings: • One situated in the neck just below and behind the angle of the mandible and • The other one in the external canal or the middle ear. The track of the fistula traverses through the parotid in close relation to the facial nerve.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following structures develop from all three germ layers?",
+      "options": {
+        "A": "Tympanic membrane",
+        "B": "Pinna",
+        "C": "Ear ossicles",
+        "D": "Otic capsule"
+      },
+      "correct_answer": "A",
+      "explanation": "Tympanic membrane develops from all three germinal layers: the outer epithelial layer is formed by the ectoderm, the inner mucosal layer by the endoderm, and the middle fibrous layer by the mesoderm",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the structures given below forms the Eustachian tube?",
+      "options": {
+        "A": "1st pharyngeal pouch",
+        "B": "1st and 2nd pharyngeal cleft",
+        "C": "2nd pharyngeal pouch",
+        "D": "2nd and 3rd pharyngeal cleft"
+      },
+      "correct_answer": "A",
+      "explanation": "The Eustachian tube develops from the first pharyngeal pouch. Initially, the first pharyngeal pouch forms the tubotympanic recess. The distal part of this recess widens to form the middle ear cavity. The proximal part forms the Eustachian tube.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following pharyngeal arches gives rise to the malleus and incus?",
+      "options": {
+        "A": "First arch",
+        "B": "Second arch",
+        "C": "Third arch",
+        "D": "Fourth arch"
+      },
+      "correct_answer": "A",
+      "explanation": "The first pharyngeal arch gives rise to the malleus and incus. Stapes superstructure is formed from the second arch, whereas the stapes footplate develops from the otic capsule.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following arches gives rise to the stapes?",
+      "options": {
+        "A": "First arch",
+        "B": "Second arch",
+        "C": "Third arch",
+        "D": "Fourth arch"
+      },
+      "correct_answer": "B",
+      "explanation": "The stapes develop from the second arch, except for its footplate and annular ligament, which develop from the otic capsule.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following attains adult size before birth?",
+      "options": {
+        "A": "Ear ossicles",
+        "B": "Mastoid",
+        "C": "Orbit",
+        "D": "Cornea"
+      },
+      "correct_answer": "A",
+      "explanation": "The ear ossicles attain adult size before birth. The development of the middle ear: • The ossicles are full-sized cartilage models by 15 weeks of gestation. • Endochondral ossification is complete by 25 weeks. • The middle ear is adult-sized at birth.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following does not reach adult size at birth?",
+      "options": {
+        "A": "Ear ossicles",
+        "B": "Mastoid",
+        "C": "Tympanic membrane",
+        "D": "Tympanic cavity"
+      },
+      "correct_answer": "B",
+      "explanation": "The mastoid does not reach adult size at birth. It develops fully by 2 years of age. In infants and children up to 2 years of age, the mastoid process is not developed completely. So, the facial nerve lies just beneath the skin near its exit. Hence, during surgical procedures, the incision is given slanting posteriorly, avoiding the lower part of the mastoid. This spares the facial nerve.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 12,
+      "question": "An ENT surgeon has difficulty locating the mastoid antrum due to the presence of Korner's septum. Which of the following sutures is persistent in this case?",
+      "options": {
+        "A": "Frontozygomatic suture",
+        "B": "Petrosquamous suture",
+        "C": "Temporosquamous suture",
+        "D": "Petromastoid suture"
+      },
+      "correct_answer": "B",
+      "explanation": "The persistence of the petrosquamous suture is called Korner's septum and it is responsible for the difficulty in locating the mastoid antrum and the deeper cells. Korner's septum separates superficial squamosal cells from the deep petrosal cells. Incomplete removal of disease at mastoidectomy can occur if Korner's septum is not identified. Mastoid antrum cannot be reached unless the Korner's septum has been removed.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp12_img1_efe2c76c.jpeg",
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 13,
+      "question": "From which of the following structures does the saccule develop?",
+      "options": {
+        "A": "Sacculus anterior",
+        "B": "Sacculus posterior",
+        "C": "Pars superior",
+        "D": "Pars inferior"
+      },
+      "correct_answer": "D",
+      "explanation": "The saccule develops from pars inferior. The development of the inner ear begins in the 3rd week of fetal life and is completed by the 16th week. The surface ectoderm on each side of the rhombencephalon thickens to form otic/auditory placodes, which then invaginate to form the otic vesicle (otocysts). The cells of the otic vesicle differentiate to form ganglion cells, which later develop into the vestibulocochlear ganglia. Later, each otic vesicle divides into a dorsal component called pars superior and a ventral component called pars inferior. Pars superior gives rise to the utricle, semicircular canals, and endolymphatic ducts. Pars inferior gives rise to the saccule and cochlear duct. The saccule is connected to the cochlea through a narrow duct called ductus reuniens.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 14,
+      "question": "From how many ossification centre(s) does the inner ear develop?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "7",
+        "D": "14"
+      },
+      "correct_answer": "D",
+      "explanation": "The inner ear develops from 14 ossification centers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    },
+    {
+      "q_no": 15,
+      "question": "When does the fetus start hearing?",
+      "options": {
+        "A": "10 weeks",
+        "B": "20 weeks",
+        "C": "30 weeks",
+        "D": "32 weeks"
+      },
+      "correct_answer": "B",
+      "explanation": "The fetus starts hearing in the womb of the mother by 20 weeks of gestation due to sufficient development of the cochlea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Embryology of Ear and Malformations"
+    }
+  ]
+}

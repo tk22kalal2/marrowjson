@@ -1,0 +1,185 @@
+{
+  "chapter": "Physiology of Nose and Paranasal Sinuses",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "During inspiration, through which part of the nasal cavity does the main current of airflow take place?",
+      "options": {
+        "A": "Olfactory region",
+        "B": "Upper part of nasal cavity in a parabolic curve",
+        "C": "Middle part of nasal cavity in a parabolic curve",
+        "D": "Lower part of nasal cavity in a parabolic curve"
+      },
+      "correct_answer": "C",
+      "explanation": "The main current of airflow during inspiration takes place through the middle part of the nasal cavity in a parabolic curve.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 2,
+      "question": "What percentage of total airflow through nose reaches the olfactory region?",
+      "options": {
+        "A": "10-15%",
+        "B": "30 - 40%",
+        "C": "40 - 50%",
+        "D": "60-70%"
+      },
+      "correct_answer": "C",
+      "explanation": "About 15% of inspired air reaches the olfactory area within the nose, where it interacts with themucus secreted by the Bowman's glands in the lamina propria and respiratory epithelium.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 3,
+      "question": "How frequently does the rhythmic congestion and decongestion of nasal mucosa occur?",
+      "options": {
+        "A": "2 - 4 hours",
+        "B": "4-6 hours",
+        "C": "6 - 8 hours",
+        "D": "1 - 2 hours"
+      },
+      "correct_answer": "",
+      "explanation": "Rhythmic cyclical congestion and decongestion of the nasal mucosa is called nasal cycle. Itoccurs every 2.5-4 hours and is usually characteristic of an individual.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements is false about nasal secretions?",
+      "options": {
+        "A": "They contain immunoglobulins and lysozymes.",
+        "B": "The pH of nasal secretions is around 7.35",
+        "C": "They increase in response to noxious stimuli.",
+        "D": "Lactoferrin is not a component of nasal secretions."
+      },
+      "correct_answer": "D",
+      "explanation": "Nasal secretions contain muramidase (lysozyme), lactoferrin, and immunoglobulins IgA and IgE, and interferon, and thus have antibacterial properties. Their pH is around 7. A copious flow of nasal secretions that follows irritation by a noxious substance helps to wash them out.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following causes movement of the mucus blanket of the nose?",
+      "options": {
+        "A": "Inspiration",
+        "B": "Expiration",
+        "C": "Nasal cycle",
+        "D": "Ciliary action"
+      },
+      "correct_answer": "D",
+      "explanation": "The movement of the mucus blanket of the nose is by ciliary action. The mucus blanket consists of a superficial mucus layer and a deeper serous layer, floating on the top of cilia, which are constantly beating to carry it like a conveyor belt towards the nasopharynx. The mucus blanket moves at a speed of 5-10 mm/min and the complete sheet of mucus is cleared into the pharynx every 10-20 min. In mammals, cilia beat 10-20 times per second at room temperature.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following does not affect movements of the cilia?",
+      "options": {
+        "A": "Drying",
+        "B": "Smoking",
+        "C": "Adrenaline",
+        "D": "Nasal valve"
+      },
+      "correct_answer": "D",
+      "explanation": "Nasal valve does not affect the movements of the nasal cilia. Movements of cilia are affected by: • Drying • Drugs (adrenaline) • Excessive heat or cold • Smoking • Infections • Noxious fumes like sulfur dioxide and carbon monoxide",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient presents to you with bronchiectasis and chronic sinusitis. Chest X-Ray shows the following finding. Which of the following is the method of protection of the lower airway that's compromised in this patient?",
+      "options": {
+        "A": "Temperature regulation",
+        "B": "Humidification",
+        "C": "Mucociliary mechanism",
+        "D": "Mucosal defense with immunoglobulins"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario of chronic sinusitis, bronchiectasis, and the X-ray showing dextrocardia (situs inversus) is suggestive of Kartagener syndrome. The mucociliary mechanism is compromised in this case, due to immotile cilia. The lower airway is protected by the following mechanisms: \n   • Mucociliary mechanism - The inspired pathogens and dust are trapped on the viscous mucous blanket. By beating of the cilia, the mucus is carried to the nasopharynx to be swallowed.\n   • Chemical mechanisms - Immunoglobulins such as IgA, IgE, and lactoferrin, lysozyme provide innate immunity.\n   • Sneezing. It is a protective reflex due to irritation of the nasal mucosa.\n   Temperature regulation and humidification are due to the large surface area of mucosa and highly vascular cavernous spaces. This is achieved by an increase or decrease in blood flow, which in turn increases or decreases the size of turbinates.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q7_img1_56ac6248.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 8,
+      "question": "As a first-year ENT resident, you receive a patient complaining of a complete lack of smell forthe past week. Which of the following will not be part of your differential diagnosis?",
+      "options": {
+        "A": "COVID-19 infection",
+        "B": "Atrophic rhinitis",
+        "C": "Olfactory nerve injury",
+        "D": "Allergic rhinitis"
+      },
+      "correct_answer": "D",
+      "explanation": "Anosmia refers to a complete loss of the sense of smell. Allergic rhinitis is more commonlyassociated with hyposmia, hence it'll not be part of differential diagnosis. Anosmia only occurs incase it leads to nasal polyposisCauses of anosmia:• Nasal obstruction due to nasal polyps, enlarged turbinates, or mucosal edema due to infections.• Atrophic rhinitis, a degenerative disorder of nasal mucosa.••Peripheral neuritis (toxic or influenzal)•Injury to olfactory nerves or olfactory bulb in fractures of anterior cranial fossa• Intracranial lesions like abscesses, tumors, or meningitis, which cause pressure on olfactorytracts.• COVID-19 is associated with a complete lack of taste and smell and is a common presentingsymptom",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 9,
+      "question": "A 17-year-old girl was evaluated for delay in the onset of puberty. On further enquiry, sherevealed that she has always had a very poor sense of smell. Which of the following is themost likely diagnosis?",
+      "options": {
+        "A": "Kallmann syndrome",
+        "B": "Turner's syndrome",
+        "C": "Down's syndrome317",
+        "D": "Klinefelter's syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario of delay in puberty along with an impaired sense of smell is suggestiveof Kallmann syndrome.Kallmann syndrome and familial causes like primary congenital anosmia are congenital causes ofanosmia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 10,
+      "question": "A 32-year-old female patient was found to be positive for SARS-CoV-2 and had a loss of tasteand smell. After regaining her ability to smell after 2 months, she reported to the OPD withthe complaint that all the smells she perceived were distorted, similar to the smell of burntrubber. What is this called?",
+      "options": {
+        "A": "Anosmia",
+        "B": "Phantosmia",
+        "C": "Parosmia",
+        "D": "Olfactory agnosia"
+      },
+      "correct_answer": "C",
+      "explanation": "Parosmia is the perversion of smell. It is seen classically in the recovery phase of postinfluenzalanosmia, and has been recently reported as a rare complication in post-COVID patients.The probable explanation is misdirected regeneration of nerve fibers. Intracranial tumors shouldbe ruled out in all cases of parosmia.Option A: Anosmia is the complete lack of smellOption B: Phantosmia is the sensation of olfaction in the absence of a stimulusOption D: Olfactory agnosia is the inability to recognize an odour sensation321",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following statements is true about ventilation of the nose and paranasalsinuses?",
+      "options": {
+        "A": "Paranasal sinuses are filled with air during inspiration",
+        "B": "Paranasal sinuses are filled with air during expiration",
+        "C": "During inspiration, positive pressure is created in the nose",
+        "D": "During expiration, negative pressure is created in the nose"
+      },
+      "correct_answer": "B",
+      "explanation": "Paranasal sinuses are ventilated during expiration. Ventilation of sinuses is paradoxical, as theyare emptied of air during inspiration and filled with air during expiration.During inspiration, negative pressure is created in the nose by the air current, whereas duringexpiration, positive pressure is created in the nose, and this sets up eddy currents, which ventilatethe sinuses.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is not a function of the paranasal sinuses?",
+      "options": {
+        "A": "Air conditioning of inspired air",
+        "B": "Adds resonance to the voice",
+        "C": "Lighten skull bones",
+        "D": "Maintain airway resistance"
+      },
+      "correct_answer": "D",
+      "explanation": "Airway resistance is not a function of paranasal sinuses. Resistance to the flow of air in the nose maintains the positive pressure needed to keep the alveoli open. It is due to two factors: bones, cartilages, and attached muscles - fixed; mucosa - variable.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Physiology of Nose and Paranasal Sinuses"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "chapter": "Tumors of Ear",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is the most common site for ear carcinoma?",
+      "options": {
+        "A": "Cartilaginous external auditory meatus",
+        "B": "Isthmus of the canal",
+        "C": "Pinna",
+        "D": "Mastoid"
+      },
+      "correct_answer": "B",
+      "explanation": "The isthmus of the canal is the most common site for ear carcinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 2,
+      "question": "Where are sebaceous cysts most commonly located on the ear?",
+      "options": {
+        "A": "Helix",
+        "B": "Cymba conchae",
+        "C": "Preauricular area",
+        "D": "Postauricular area"
+      },
+      "correct_answer": "D",
+      "explanation": "The most common site of a sebaceous cyst is the postauricular sulcus or below and behind the earlobe. Treatment is total surgical excision.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 3,
+      "question": "What is shown in the given image?",
+      "options": {
+        "A": "Dermoid cyst",
+        "B": "Sebaceous cyst",
+        "C": "Meningioma",
+        "D": "Post auricular fistula"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows a dark-colored summit over a swelling, usually seen in a sebaceous cyst. Sebaceous cysts are the retention cysts of the sebaceous gland that are usually present on the face, scalp, or scrotum. They contain yellowish-white cheesy material with fat and epithelium. Clinical features: • The swelling is painless, soft, and freely mobile. • Though non-transilluminating, they are Paget's test positive (fluctuant). • Punctum is seen in 70% of the patients with sebaceous cysts. They are dark in color due to the accumulation of denuded epithelium. • They also have an unpleasant sebum odor. • The swelling can ulcerate and become painful (Cock's peculiar tumor). Some cysts over the scalp may also harden over time (Sebaceous horn). • Many may get infected and lead to abscess formation. Treatment: • Excision including skin adjacent to punctum using elliptical incision-dissection method. • Incision and avulsion of cyst wall. • In the presence of an abscess, an initial treatment with an incision later followed by excision of the cyst. Other options: Option A: Dermoid cysts present as firm painless subcutaneous nodules and are of 4 types: • Sequestration dermoid - sequestration of epithelium during embryological development • Tubulodermoid - accumulation of secretions from ectodermal tube/duct • Implantation dermoid - implantation of the epidermis due to trauma • Teratomatous dermoid - having all 3 germ layers (ecto, meso, and endoderm). Option C: Meningiomas are benign tumors arising from the meningothelial cells of the dura. They present with headaches, seizures, or focal neurological deficits. Option D: Postauricular cutaneous mastoid fistula is a rare complication of chronic otitis media that heals very slowly and needs surgical closure.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q3_img1_d7e60db8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 4,
+      "question": "A surfer presented with hearing loss and a feeling of fullness in his ear. On otoscopy, multiple bony swellings were present in the external auditory canal. Which of the following features is diagnostic of exostosis?",
+      "options": {
+        "A": "Unilateral",
+        "B": "Irregular",
+        "C": "Sessile",
+        "D": "Seen in cartilaginous canal"
+      },
+      "correct_answer": "C",
+      "explanation": "Exostoses are bilateral, multiple, smooth, sessile bony swellings in the deeper canal seen in divers/swimmers and surfers. It is also called as surfer's ear. Osteoma: Single Exostosis/Surfer's Ear: Multiple Unilateral Bilateral Pedunculated, has Sessile, smooth Outer canal Inner, deeper canal",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 5,
+      "question": "A middle-aged woman presents with foul-smelling ear discharge and hearing loss for 1 year. On examination, a hemorrhagic polypoidal mass was seen in the middle ear. Biopsy revealed squamous cell carcinoma of the middle ear. Where is it least likely to spread to?",
+      "options": {
+        "A": "Dura",
+        "B": "Facial canal",
+        "C": "Eustachian tube",
+        "D": "Petrous apex"
+      },
+      "correct_answer": "A",
+      "explanation": "Squamous cell carcinoma is least likely to spread to the dura, as it is resistant to invasion. It commonly affects middle-aged women. Other clinical features include: chronic foul-smelling discharge that is usually blood-stained, friable, hemorrhagic granulations, polyp, and hearing loss. It usually spreads to the ossicles, facial canal, internal ear, jugular bulb and carotid artery, petrous pyramid, parotid and temporomandibular joint, Eustachian tube, nasopharynx and infratemporal fossa. Lymph node involvement is a late finding.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is the most common benign tumor of the middle ear?",
+      "options": {
+        "A": "Glomus tumor",
+        "B": "Acoustic neuroma",
+        "C": "Exostosis",
+        "D": "Osteoma"
+      },
+      "correct_answer": "A",
+      "explanation": "Glomus tumor is the most common benign neoplasm of the middle ear and is so-named because of its origin from the glomus bodies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 7,
+      "question": "A post-menopausal woman with progressive hearing loss and tinnitus is diagnosed to have a glomus tumor. Which cells do her tumor originate from?",
+      "options": {
+        "A": "Perivascular cells",
+        "B": "Peritubal cells",
+        "C": "Paraganglionic cells",
+        "D": "Paraneoplastic cells"
+      },
+      "correct_answer": "C",
+      "explanation": "Glomus tumors originate from paraganglionic cells that are derived from neural crest cells. They are found in glomus bodies present in the dome of the jugular bulb or promontory. These cells are found in 2 sites giving rise to 2 similar yet distinct clinical tumors: • Glomus jugulare: in the jugular bulb • Glomus tympanicum: over the promontory along Jacobson's nerve (IX nerve).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following statements is false about paragangliomas of the head and neck?",
+      "options": {
+        "A": "Slow-growing tumor",
+        "B": "More common in men",
+        "C": "Usually seen in middle age",
+        "D": "Highly vascular tumor"
+      },
+      "correct_answer": "B",
+      "explanation": "Paragangliomas of the head and neck, also known as glomus tumors, affect women more than men. Glomus tumors are benign, non-encapsulated but vascular. They are extremely slow-growing, locally invasive, and often seen in middle age (40–50 years).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the earliest symptom of glomus tumors?",
+      "options": {
+        "A": "Sensory-neural deafness",
+        "B": "Headache",
+        "C": "Tinnitus",
+        "D": "Vertigo"
+      },
+      "correct_answer": "C",
+      "explanation": "Earliest symptoms of glomus tumor are tinnitus and hearing loss. Hearing loss is conductive and slowly progressive.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 10,
+      "question": "You are a junior resident in the ENT department. A patient presents to you with pulsatile tinnitus. Which of the following will be your first differential diagnosis?",
+      "options": {
+        "A": "CSOM",
+        "B": "ASOM",
+        "C": "Mastoiditis",
+        "D": "Glomus tumor"
+      },
+      "correct_answer": "D",
+      "explanation": "Glomus tumor will be your first differential diagnosis. Tinnitus in glomus tumors is: • Pulsatile • Of swishing character • Synchronous with pulse and • Can be temporarily stopped by carotid pressure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 11,
+      "question": "You are evaluating a patient with a glomus tumor, and on otoscopy, you see the following image. Which of the following signs is seen here?",
+      "options": {
+        "A": "Cartwheel appearance",
+        "B": "Lighthouse sign",
+        "C": "Rising sun sign",
+        "D": "Schwartze sign"
+      },
+      "correct_answer": "C",
+      "explanation": "Rising sun sign is seen here, as it is a case of glomus tumor. The rising sun appearance is seen when a tumor arises from the floor of the middle ear. Otoscopy shows a red reflex through an intact tympanic membrane. Option A, Cartwheel appearance, is the leash of blood vessels that appear along the handle of the malleus and at the periphery of the tympanic membrane. Option B, Lighthouse sign, is a pulsatile discharge from a pin-hole perforation of pars tensa seen in mastoiditis. Option D, Schwartze sign, is the reddish hue seen on the promontory through the tympanic membrane in otosclerosis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/q11_img1_42ae5146.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp11_img1_3e1fa419.jpeg",
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 12,
+      "question": "While evaluating a patient with a suspected aural polyp, you apply Siegel's speculum andobserve that the mass pulsates vigorously and then blanches. What is this sign called?",
+      "options": {
+        "A": "Rising sun sign",
+        "B": "Schwarze's sign",
+        "C": "Lighthouse sign",
+        "D": "Brown's sign"
+      },
+      "correct_answer": "",
+      "explanation": "The sign is called Brown's sign or pulsation sign which is suggestive of glomus tumor.When ear canal pressure is raised with Siegel's speculum, the tumor pulsates vigorously and thenblanches. The reverse happens with the release of pressure.Option A - Rising Sun sign is seen when glomus tumor arises from the floor of the middle ear.Option B - Schwarze sign is the reddish hue seen on the promontory through the tympanicmembrane in otosclerosis.Option C - Lighthouse sign is a pulsatile discharge from a pin-hole perforation of pars tensa seenin mastoiditis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient presents with a history of hearing loss and tinnitus. On examination, a polypoid mass is seen in the middle ear, which bleeds heavily on touch. What is the diagnosis?",
+      "options": {
+        "A": "Angiofibroma",
+        "B": "Exostosis",
+        "C": "Glomus tympanicum",
+        "D": "Acoustic neuroma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of Glomus tympanicum, a subtype of Glomus tumors. Symptoms of Glomus tumors: hearing loss, tinnitus, bleeding from the ear, vertigo and facial palsy, dysphagia, hoarseness of voice (cranial nerve palsies). Examination findings: intratympanic tumor: rising sun appearance with a positive Brown sign, red, vascular polyp that bleeds readily on manipulation or biopsy, once the tympanic membrane is breached: bleeding polyp in the external ear, audible bruit over the mastoid.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 14,
+      "question": "A 60-year-old woman presented with hearing loss, pulsatile ringing in the right ear, anddeviation of the tongue to the right side. MRI revealed a mass in the right jugular fossa. Onexamination, a pulsatile reddish mass was seen behind the intact tympanic membrane. Whichof the following structures is invaded by the mass?",
+      "options": {
+        "A": "Epitympanum",
+        "B": "Mesotympanum",
+        "C": "Hypotympanum",
+        "D": "Mastoid"
+      },
+      "correct_answer": "",
+      "explanation": "The given case scenario of hearing loss, pulsatile tinnitus, 12th cranial nerve involvement, and redmass on otoscopy is suggestive of glomus jugulare. Hypotympanum is invaded by the tumor.It arises in the adventitia of the dome of the jugular bulb and invades the hypotympanum, jugularforamen, and jugular vein.In addition to ear signs and symptoms, cranial nerve involvement is commonly seen of the IXth toXIIth cranial nerves in glomus jugulare.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 15,
+      "question": "A 45-year-old is referred to your ENT practice with pulsatile tinnitus, and Brown's sign ispositive. The patient gives you her CT films. Which of the following CT signs will help youdifferentiate between glomus jugulare and glomus tympanicum?",
+      "options": {
+        "A": "Battle sign",
+        "B": "Lyre sign",
+        "C": "Phelp sign",
+        "D": "Griesinger sign"
+      },
+      "correct_answer": "",
+      "explanation": "Phelp sign helps differentiate between glomus jugulare and glomus tympanicum on CT.It is the erosion of the spine of the carotico-jugular crest, seen in glomus jugulare tumors. It isintact in glomus tympanicum.-Option A Battle's sign is ecchymosis over the mastoid seen in fractures of the temporal bone.Option B - Lyre sign- splaying apart of internal and external carotid arteries on angiogram incases of carotid body tumor of the neck.-Option D Griesinger's sign is edema over the mastoid and is seen in lateral sinus thrombosis.The image given shows Battle's sign.199",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp15_img1_cf1c1b5d.jpeg",
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 16,
+      "question": "A 68-year old woman presents with complaints of right-sided facial weakness for 15 days andprogressive hearing loss for 2 years. On examination, there is tachycardia and carotid bruit onthe right side. Otoscopy shows a red mass behind the tympanic membrane and 24-hour urinecollection shows the presence of metanephrines. Which of the following classification systemsis used for this condition?",
+      "options": {
+        "A": "Lederman's classification",
+        "B": "Fisch classification",
+        "C": "Austin's classification",
+        "D": "Sade's classification190"
+      },
+      "correct_answer": "B",
+      "explanation": "The given case scenario with right-sided facial palsy, hearing loss, red mass behind the tympanicmembrane, tachycardia, carotid bruit and positive urinary metanephrines is suggestive of afunctional glomus tumor.10% of all glomus tumors are functional and secrete catecholamines. This is diagnosed by testingthe patient's 24-hour urine collection for urinary VMA (vanillylmandelic acid) or metanephrines.Glomus tumors are classified based on Fisch classificationOption A: Lederman's classification is used in maxillary carcinoma.Option C: Austin's classification is used to classify anatomical defects in the ossicular chain.Option D: Sade's classification is used to classify atelectasis or retraction of the pars tensa.Tumor limited to the middleear (mesotympanum)ClassExtentClassAClassBClassCClassDTumor in the middle ear (meso- and hypotympanum) andthe mastoidTumour originates in the dome of the jugular bulb, destroying the overlying bone andhas extensive local spread.Intracranial extension. It canbe intradural or extradural200",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 17,
+      "question": "A middle-aged woman presents with deafness, tinnitus, and bleeding from the ear. Onexamination, a reddish mass is seen behind the tympanic membrane which blanches onapplying pressure with the pneumatic speculum. Which of the following is not a part of itsmanagement?",
+      "options": {
+        "A": "Preoperative biopsy",
+        "B": "Radiotherapy",
+        "C": "Preoperative embolisation",
+        "D": "Surgery"
+      },
+      "correct_answer": "A",
+      "explanation": "A pre-operative biopsy is not done in the management of glomus tumor due to the followingreasons.Tumour is highly vascular and since the vessels lack the contractile musculature it bleedsprofusely.•Risk of injury to• High jugular bulb• Aberrant internal carotid arteryClinical and radiological features are enough to arrive at a diagnosis. Treatment consists of:•Surgical removal.• Radiation.•Embolization.• Combination of the aboveGlomus tumor: Circled in red:Note: Although CT is the test of choice for the evaluation of bone involvement,gadolinium-enhanced MRI provides a superior definition of the relationship of the tumor toadjacent vascular and skull base structures. Hence Both MRI and CT are typically needed for asuspected jugulotympanic paraganglioma given that the information derived from each study iscomplementary.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp17_img1_5e58b050.jpeg",
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 18,
+      "question": "What is the most common tumor at the cerebellopontine angle?",
+      "options": {
+        "A": "Acoustic neuroma",
+        "B": "Cholesteatoma",
+        "C": "Glomus tumor",
+        "D": "Meningioma"
+      },
+      "correct_answer": "A",
+      "explanation": "Acoustic neuroma is the most common tumor at the cerebellopontine angle. It arises from thevestibular division of the VIIIth nerve within the internal auditory canal, widens and erodes the201canal and appears at the cerebellopontine angle.Other tumors arising at the cerebellopontine angle are:●Meningioma• Cholesteatoma•• Arachnoid cysts• Facial nerve schwannomas• Glomus tumor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 19,
+      "question": "Where does acoustic neuroma most commonly arise from?",
+      "options": {
+        "A": "Facial nerve",
+        "B": "Vestibular division of 8th cranial nerve",
+        "C": "Cochlear division of 8th cranial nerve",
+        "D": "Auricular nerve"
+      },
+      "correct_answer": "B",
+      "explanation": "Acoustic neuroma or vestibular schwannoma almost always arises from the Schwann cells of thevestibular division of 8th nerve.It arises from the superior and the inferior division of the vestibular nerve in the medial internalauditory canal at the site of transition of central to peripheral myelin i.e., Obersteiner-Redlichzone.Rarely, it can arise from the cochlear division of the 8th nerve within the internal auditory canal.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following features is common to vestibular schwannomas and glomus tumors?",
+      "options": {
+        "A": "Encapsulated",
+        "B": "Common in middle aged females",
+        "C": "Vascular191",
+        "D": "Slow growing"
+      },
+      "correct_answer": "D",
+      "explanation": "Glomus tumors and vestibular shwannomas are both slow-growing, benign tumors of thetemporal bone with locally invasive properties.Vestibular shwannomas are encapsulated tumors. They are seen in middle aged individuals andhave equal incidence in both sexes.Glomus tumors are vascular paragangliomas and are non-encapsulated tumors. They are seenmore commonly in middle-aged women.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is the most common symptoms that acoustic neuroma presents with?",
+      "options": {
+        "A": "Conductive hearing loss",
+        "B": "Sensorineural hearing loss",
+        "C": "Vertigo",
+        "D": "Headache"
+      },
+      "correct_answer": "B",
+      "explanation": "Progressive unilateral sensorineural hearing loss (SNHL), often accompanied by tinnitus, is thepresenting symptom in the majority of cases.Early symptoms of acoustic neuroma:•Progressive unilateral SNHL•Gross inability to understand speech out of proportion to the PTA average•Tinnitus• Unsteadiness and imbalanceThe involvement of other cranial nerves leads to other deficits.202",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following is the earliest cranial nerve to be involved in acoustic neuroma?",
+      "options": {
+        "A": "5th",
+        "B": "6th",
+        "C": "7th",
+        "D": "8th"
+      },
+      "correct_answer": "D",
+      "explanation": "The 8th cranial nerve is the earliest to be involved in acoustic neuroma.Cochleovestibular symptoms are the earliest symptoms when the tumor is still intracanalicularand are caused by pressure on cochlear or vestibular nerve fibers or on the internal auditoryartery.Once the tumor erodes the canal, it presents in the cerebellopontine angle and can expand toinvolve other nearby cranial nerves such as the 5th and 7th cranial nerves.Note: Acoustic neuroma arises from the 8th cranial nerve. Hence, it is the first nerveinvolved. However, if the 8th cranial nerve is not given as an option, then the answer would bethe 5th cranial nerve.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 23,
+      "question": "A 50-year-old patient presents with progressive unilateral hearing loss, decreasedlacrimation, and loss of taste. On examining the external auditory meatus, there is decreasedsensation on the posterior side. You suspect acoustic neuroma in this case. What sign waselicited here?",
+      "options": {
+        "A": "Brown's sign",
+        "B": "Pulsation sign",
+        "C": "Hitzelberger's sign",
+        "D": "Rising sun sign"
+      },
+      "correct_answer": "",
+      "explanation": "Hitzelberger's sign is the sign elicited in the given clinical scenario of acoustic neuroma.Hitzelberger's sign is the hypoaesthesia of the posterior meatal wall because the tumor hasaffected the sensory fibers of the facial nerve. In this case, sensory fibers of the facial nerve areaffected, as the patient has decreased lacrimation and loss of taste. Motor fibers are moreresistant and are affected late. A delayed blink reflex may be an early manifestation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 24,
+      "question": "What is the gold standard investigation to confirm acoustic neuroma?",
+      "options": {
+        "A": "CECT",
+        "B": "Gadolinium enhanced MRI192",
+        "C": "X-Ray",
+        "D": "Biopsy"
+      },
+      "correct_answer": "C",
+      "explanation": "MRI with gadolinium contrast is the gold standard for the diagnosis of acoustic neuroma.It is superior to a CT scan. Intracanalicular tumors measuring even a few millimeters can be easilydiagnosed by this method.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 25,
+      "question": "A middle-aged man presents with progressive sensorineural hearing loss, imbalance, and tinnitus. Which of the following features rules out Meniere's disease and is diagnostic of acoustic neuroma?",
+      "options": {
+        "A": "Stapedial reflex is present",
+        "B": "Recruitment phenomenon is present",
+        "C": "High SISI score",
+        "D": "Rollover phenomenon is seen"
+      },
+      "correct_answer": "D",
+      "explanation": "Rollover phenomenon is diagnostic of acoustic neuroma. It is a feature of retro-cochlear/neural lesions wherein the speech discrimination steadily increases with intensity but suddenly drops significantly beyond a particular intensity of sound. Meniere's disease is an important differential for acoustic neuroma as the patients suffer from similar symptoms. Meniere's is a cochlear pathology and acoustic neuroma is retrocochlear. Option A - Stapedial reflex is present in cochlear lesions (Meniere's) and absent in retrocochlear lesion (acoustic neuroma). Option B - Recruitment phenomenon is the abnormal growth in loudness in the affected ear, seen in cochlear pathologies. Option C - SISI (short increment sensitivity index) is a test of intensity discrimination which is very high in cochlear pathologies but low in retro-cochlear.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 26,
+      "question": "A 50-year-old man presents with difficulty hearing. Pure tone audiometry shows rolloverphenomenon. An MRI with Gadolinium contrast shows a mass over the cerebellopontineangle. What is the treatment of choice?",
+      "options": {
+        "A": "Surgery",
+        "B": "Radiotherapy",
+        "C": "Chemotherapy",
+        "D": "Conservative"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of acoustic neuroma. Treatment of choice in this case issurgery.The approach depends upon site and size of tumor:• Middle cranial fossa approach• Translabyrinthine approach•⚫ Retrosigmoid/Suboccipital approach• Combined.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following is not used in the treatment of vestibular schwannomas?",
+      "options": {
+        "A": "X-Knife",
+        "B": "Gamma knife",
+        "C": "Cold knife",
+        "D": "CyberKnife"
+      },
+      "correct_answer": "C",
+      "explanation": "Cold knife is not used in the treatment of vestibular schwannomas. It is used for the conization ofthe cervix in cervical carcinoma.Stereotactic radiosurgery is a reasonable alternative for people who refuse or cannot toleratesurgery. Here, beams are modified and focused only to concentrate on the tumor and have little.effect on surrounding tissue. It can be done by using• X-knife using a linear accelerator (LINAC)• Gamma-knife using Cobalt 60•CyberKnife-image-guided linear accelerator using real-time image guidance to deliver radiationfrom multiple angles.External beam radiation is not recommended as it causes significant damage to the surroundingbrain and neural structures.204",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Ear"
+    }
+  ]
+}

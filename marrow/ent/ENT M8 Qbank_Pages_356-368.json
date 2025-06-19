@@ -1,0 +1,275 @@
+{
+  "chapter": "Rhinitis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is the most common cause of the common cold?",
+      "options": {
+        "A": "Adenovirus",
+        "B": "Rhinovirus",
+        "C": "Influenza virus",
+        "D": "Parainfluenza virus"
+      },
+      "correct_answer": "B",
+      "explanation": "Rhinovirus is the most common cause of the common cold.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 2,
+      "question": "You are an intern examining a patient with nasal obstruction and nasal discharge. Theanterior rhinoscopy shows mulberry appearance of the inferior turbinate. What is the mostlikely diagnosis?",
+      "options": {
+        "A": "Atrophic rhinitis",
+        "B": "Coryza",
+        "C": "Hypertrophic rhinitis",
+        "D": "Vasomotor rhinitis"
+      },
+      "correct_answer": "",
+      "explanation": "The mulberry appearance of turbinate is seen in patients with hypertrophic rhinitis.It is characterized by thickening of mucosa, submucosa, seromucinous glands, periosteum andbone.Maximum changes are seen in the inferior turbinate.361",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp2_img1_984d8b9c.jpeg",
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following disease is also called ozaena?",
+      "options": {
+        "A": "Atrophic rhinitis",
+        "B": "Allergic rhinitis",
+        "C": "Vasomotor rhinitis",
+        "D": "Hypertrophic rhinitis"
+      },
+      "correct_answer": "",
+      "explanation": "Atrophic rhinitis is also known as ozaena.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 4,
+      "question": "A middle-aged woman with nasal discharge and crusting is diagnosed to have primaryatrophic rhinitis. Which of the following organisms is most commonly associated with thiscondition?356",
+      "options": {
+        "A": "Coccobacillus foetidus ozaenae",
+        "B": "Streptococcus pneumonia",
+        "C": "Klebsiella ozaena",
+        "D": "Klebsiella rhinoscleroma"
+      },
+      "correct_answer": "",
+      "explanation": "The most common organism causing primary atrophic rhinitis is Klebsiella ozaena.Various organisms have been cultured from cases of atrophic rhinitis such as Coccobacillusfoetidus ozaenae, Proteus vulgaris, Escherichia coli, staphylococci, diphtheroids, and streptococcibut they are all considered to be secondary invaders responsible for foul smell rather than theprimary causative organisms of the disease.Etiology of atrophic rhinitis:Primary atrophic rhinitis:• Hereditary- Involves more than one member of a family• Endocrinal- More common in females, starts at puberty and regresses after menopause•Racial- More common in mongoloid and caucasian races• Nutritional deficiency- Vitamin A, D, iron deficiencies• Autoimmune- Antigens of the nasal mucosa•Organism- Klebsiella ozaenae.Secondary atrophic rhinitis:•Specific infections like syphilis, lupus, leprosy and rhinoscleroma• Long-standing purulent sinusitis362• Radiotherapy to nose• Excessive surgical removal of turbinates• Diphtheroids, Proteus vulgaris, Escherichia coli, staphylococci and streptococci.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is false about atrophic rhinitis?",
+      "options": {
+        "A": "More common in females",
+        "B": "Starts at puberty",
+        "C": "Unilateral condition",
+        "D": "Merciful anosmia"
+      },
+      "correct_answer": "",
+      "explanation": "Atrophic rhinitis is mostly a bilateral condition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 6,
+      "question": "A 25-year-old woman presented to the OPD with foul-smelling nasal discharge and obstruction. On examination, crusts are present bilaterally and on the removal of the crust, bleeding is present. Which of the following is least likely to cause this?",
+      "options": {
+        "A": "Syphilis",
+        "B": "Wegener's granulomatosis",
+        "C": "Deviated nasal septum",
+        "D": "Rhinoscleroma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of bilateral atrophic rhinitis. Only a deviated nasal septum causes unilateral atrophic rhinitis. The others cause bilateral atrophic rhinitis. Etiology of atrophic rhinitis: Primary atrophic rhinitis: Hereditary - involves more than one member of a family; Endocrinal - more common in females, starts at puberty and regresses after menopause; Racial - more common in Mongoloid and Caucasian races; Nutritional deficiency - Vitamin A, D, iron deficiencies; Autoimmune - antigens of the nasal mucosa; Organism - Klebsiella ozaenae. Secondary atrophic rhinitis: Specific infections like syphilis, lupus, leprosy, and rhinoscleroma; Long-standing purulent sinusitis; Radiotherapy to the nose; Excessive surgical removal of turbinates; Diphtheroids, Proteus vulgaris, Escherichia coli, staphylococci, and streptococci.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 7,
+      "question": "In a patient with atrophic rhinitis, what is the main reason for nasal obstruction?",
+      "options": {
+        "A": "Hypertrophy of turbinates",
+        "B": "Crust formation",
+        "C": "Excessive synechiae",
+        "D": "Polyps"
+      },
+      "correct_answer": "B",
+      "explanation": "Nasal obstruction in a patient with atrophic rhinitis is due to excessive crust formation.Turbinates are atrophied here.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 8,
+      "question": "You are an intern in the ENT department preparing the alkaline nasal solution for a patient with atrophic rhinitis. Which of the following will you not use for the preparation?",
+      "options": {
+        "A": "Sodium chloride",
+        "B": "Potassium chloride",
+        "C": "Sodium bicarbonate",
+        "D": "Sodium biborate"
+      },
+      "correct_answer": "B",
+      "explanation": "Potassium chloride is not a part of the alkaline nasal solution used in the treatment of atrophic rhinitis. The composition of the alkaline solution is: • Sodium chloride - 2 parts • Sodium bicarbonate - 1 part • Sodium biborate - 1 part. It is dissolved in 280 mL of water and the nasal cavities are irrigated to loosen the crusts and ease its removal. Other treatment options: • 25% glucose in glycerine • Estradiol spray • Submucosal placental extract • Local antibiotics • Potassium iodide • Systemic streptomycin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 9,
+      "question": "An adolescent girl with atrophic rhinitis is using kemicetine antiozaena solution. Which of the following is not a component of this solution?",
+      "options": {
+        "A": "Chloramphenicol",
+        "B": "Estradiol",
+        "C": "Vitamin D2",
+        "D": "Sodium bicarbonate"
+      },
+      "correct_answer": "D",
+      "explanation": "Sodium bicarbonate is not a component of kemicetine antiozaena solution. It is used in alkaline nasal solution. The components of kemicetine antiozaena solution are: Chloramphenicol, Oestradiol, Vitamin D2. It is used in the medical management of atrophic rhinitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 10,
+      "question": "A housewife presents with complaints of a blocked nose, loss of smell and dry, greenish crustynasal discharge. On examination, nasal cavities appear roomy and turbinates are atrophied.Which of the following surgeries can be done in this patient?",
+      "options": {
+        "A": "Submucous resection",
+        "B": "Young's operation",
+        "C": "Septoplasty",
+        "D": "Vidian neurectomy"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of atrophic rhinitis. Young's and modified Young'soperations are done for the treatment of atrophic rhinitis.In Young's operation, both the nostrils are closed completely just within the nasal vestibule byraising flaps. They are opened after 6 months or later where the mucosa may revert back tonormal and crusting will be reduced.Modified Young's operation aims at partially closing the nostrils.Options A and C: Submucous resection and septoplasty are done for deviated nasal septum.Option D: Vidian neurectomy is done for vasomotor rhinitis.364",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 11,
+      "question": "A 40-year-old ironsmith came to the ENT clinic with complaints of dry nose, nasal crusting and bleeding on removal of the crusts. A diagnosis of rhinitis sicca was made. Which of the following is false regarding this condition?",
+      "options": {
+        "A": "More common in people working in hot, dry, dusty surroundings",
+        "B": "Mainly affects posterior 2/3rd of nose",
+        "C": "Squamous metaplasia is seen",
+        "D": "Antibiotic & steroid ointment is used for treatment"
+      },
+      "correct_answer": "B",
+      "explanation": "Rhinitis sicca affects the anterior 1/3rd of the nose since this part is exposed to the effect of the dry, dusty air. Rhinitis sicca is a crust-forming disease seen in patients who work in hot, dry, and dusty surroundings, e.g., bakers, iron- and goldsmiths. It is usually confined to the anterior third of the nose, particularly of the nasal septum. The ciliated columnar epithelium undergoes squamous metaplasia with atrophy of the seromucinous glands. Treatment consists of correcting occupational surroundings and application of a bland ointment with an antibiotic and steroid combination to the affected part.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is false about rhinitis caseosa?",
+      "options": {
+        "A": "Associated with suppurative sinusitis",
+        "B": "More common in males",
+        "C": "Also known as nasal cholesteatoma",
+        "D": "It is a bilateral condition"
+      },
+      "correct_answer": "D",
+      "explanation": "Rhinitis caseosa is a unilateral condition and not bilateral.It is also known as nasal cholesteatoma and is more common in males. There will be anaccumulation of secretions in the nasal cavity which undergoes putrefaction resulting in theformation of caseous material. It is usually associated with suppurative sinusitis.Treatment includes the removal of debris and granulation tissue and free drainage of the affectedsinus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 13,
+      "question": "Allergic rhinitis is mediated by which of the following?",
+      "options": {
+        "A": "IgA",
+        "B": "IgE",
+        "C": "IgD",
+        "D": "IgM"
+      },
+      "correct_answer": "B",
+      "explanation": "Allergic rhinitis is an IgE-mediated immunologic response of nasal mucosa to airborne allergens. Patients typically present with recurrent bouts of sneezing, nasal obstruction, watery nasal discharge, and itching, and clinical signs include allergic shiners (dark circles around the eyes) and allergic salute (a black transverse nasal crease on the dorsum of the nose due to repeated upward rubbing). Treatment options include: • Avoidance of the allergen • Treatment with drugs like oral antihistamines, intranasal corticosteroids, intranasal cromolyn sodium • Immunotherapy is through the delivery of allergen in gradually increasing doses until the maintenance dose is reached. It suppresses the development of IgE. It has to be given for a year to see significant improvement in symptoms. Intranasal corticosteroids (INCS) remain the preferred monotherapy for persistent allergic rhinitis (AR). However, additional studies support the additive benefit of combination treatment with INCS and intranasal antihistamines in AR. For patients receiving INCS, an intranasal decongestant may be added to the treatment for up to 4 weeks.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 14,
+      "question": "A mother brought her a 6-year-old child with watery nasal discharge, nasal obstruction,frequent sneezing and itching in the nose. She also adds that the symptoms occur during thewinter season and there is a history of asthma in the family. Which of the following is notassociated with this condition?",
+      "options": {
+        "A": "Dennie-Morgan lines",
+        "B": "Allergic salute",
+        "C": "Atrophy of turbinates",
+        "D": "Serous otitis media"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario of a child with watery nasal discharge, frequent sneezing, itching of thenose, and seasonal variation is suggestive of allergic rhinitis, and hypertrophy of turbinates isseen, not atrophy.Other features of allergic rhinitis:Option A: Dennie-Morgan lines - transverse skin creases in the infraorbital area.Option B: Allergic salute - is a transverse nasal crease that appears as a black line across themiddle of the dorsum of the nose due to constant upward rubbing of nose simulating a salute.Option D: Serous otitis media occurs as a result of eustachian tube blockage.366",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp14_img1_2d1cf0c7.jpeg",
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 15,
+      "question": "An ENT resident is evaluating a patient with suspected allergic rhinitis. On anteriorrhinoscopy, which of the following is most likely to be seen?",
+      "options": {
+        "A": "Pale and edematous mucosa359",
+        "B": "Crusts that bleed on removal",
+        "C": "Atrophied turbinates",
+        "D": "Congested and edematous mucosa"
+      },
+      "correct_answer": "",
+      "explanation": "A patient with perennial allergic rhinitis will have a pale and edematous nasal mucosa withswollen turbinates.Crusts that bleed on removal and atrophied turbinates are features seen in atrophic rhinitis.Note: Typical allergic mucosa appears pale and swollen, while the mucosa is reddened in acuteinfections and after the overuse of topical medications.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 16,
+      "question": "A 30-year-old man came with complaints of excessive nasal discharge, sneezing, and nasalobstruction. There is no history of allergen exposure or asthma in the family. You aresuspecting vasomotor rhinitis. Which of the following statements is true regarding thiscondition?",
+      "options": {
+        "A": "It is an allergic condition.",
+        "B": "It occurs due to sympathetic overactivity.",
+        "C": "Vidian neurectomy is a treatment option.",
+        "D": "Pale and atrophied turbinates are seen."
+      },
+      "correct_answer": "",
+      "explanation": "Vidian neurectomy is a treatment option in vasomotor rhinitis.Vasomotor rhinitis is a non-allergic condition that occurs due to parasympatheticoveractivity, causing vasodilatation and congestion of nasal mucosa. The vidian nerve carriesthe parasympathetic supply to the nose.The usual presentation is excessive rhinorrhea, sneezing, and nasal obstruction which is similar toallergic rhinitis. But the turbinates will be congested and edematous.Treatment includes antihistamines, oral nasal decongestants, and topical steroids. In case of failedmedical treatment, vidian neurectomy is done.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 17,
+      "question": "Prolonged use of which of the following drugs can cause rhinitis medicamentosa?",
+      "options": {
+        "A": "Steroid nasal spray",
+        "B": "Nasal decongestants",
+        "C": "Antihistamines",
+        "D": "Leukotreine receptor antagonists"
+      },
+      "correct_answer": "",
+      "explanation": "Rhinitis medicamentosa is caused by the prolonged use of nasal decongestants.The treatment includes the withdrawal of nasal decongestant drops, a short course of systemicsteroid therapy, and in some cases, surgical reduction of turbinates if they have becomehypertrophied.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    },
+    {
+      "q_no": 18,
+      "question": "Surgery where nostrils are partially or completely occluded is done for which condition?",
+      "options": {
+        "A": "Vasomotor rhinitis",
+        "B": "Atrophic rhinitis",
+        "C": "Invasive aspergillosis",
+        "D": "Allergic rhinitis"
+      },
+      "correct_answer": "B",
+      "explanation": "Complete closure of the nostrils (Young's operation) or partial closure of the nostrils (ModifiedYoung's operation) is done for the treatment of atrophic rhinitis.In Young's operation, both nostrils are closed completely by raising flaps within the nasalvestibule. They are opened after 6 months. During this time, the mucosa becomes normal, and thecrusting is reduced.In Modified Young's operation, the procedure has been modified to avoid discomfort fromcomplete closure of the nostrils. Here the nostrils are only partially closed. The results are thesame when compared to Young's operation.367Atrophic rhinitis (ozaena) is a chronic inflammation of the nose with atrophy of nasal mucosa andturbinate bones. Roomy nasal cavities with foul-smelling crusts are seen. The patient presentswith a foul smell from the nose, marked anosmia (merciful anosmia), and paradoxical nasalobstruction (nasal obstruction despite wide nasal passages). Paradoxical nasal obstruction occursdue to degenerative changes in the sensory nerves of the nasal mucosa, leading to an inability tosense airflow.Medical management includes nasal irrigation and removal of crusts. 25% glucose in glycerine,antibiotics (quinolones or metronidazole), estradiol nasal spray, and mucolytics can be used.368",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rhinitis"
+    }
+  ]
+}

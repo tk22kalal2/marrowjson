@@ -1,0 +1,320 @@
+{
+  "chapter": "Anatomy of Inner Ear",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "You are assisting an ENT surgeon who places a cochlear implant into the scala tympani. Which part of the bone is the implant placed in?",
+      "options": {
+        "A": "Parietal bone",
+        "B": "Occipital bone",
+        "C": "Petrous part of the temporal bone",
+        "D": "There is no petrous part of the sphenoid bone"
+      },
+      "correct_answer": "C",
+      "explanation": "The cochlear implant is placed in the petrous part of the temporal bone, which houses the structures of the inner ear.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 2,
+      "question": "Where is the electrode placed in cochlear implant procedures?",
+      "options": {
+        "A": "Round window",
+        "B": "Oval window",
+        "C": "Scala vestibuli",
+        "D": "Scala tympani"
+      },
+      "correct_answer": "D",
+      "explanation": "The electrode of a cochlear implant is placed in the scala tympani. It allows for the electrodes to be in close proximity to the ganglion cells and their dendrites, which are located in the modiolus and bony spiral lamina of the cochlea. A cochlear implant is an electronic device for severe to profound sensorineural hearing loss (SNHL) and for those who cannot benefit from a hearing aid. It converts sound to an electrical signal (transduction) and delivers this to the auditory nerve. Prerequisites include an intact cochlear nerve and higher auditory pathway. In the auditory brainstem implant, the site of the implant is the lateral recess of the fourth ventricle. It is used when the cochlear nerve is not intact.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp2_img1_743ffc50.jpeg",
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 3,
+      "question": "You are examining the CT scan images of the temporal bone of a patient. Which of the following structures cannot be visualized on the CT scan?",
+      "options": {
+        "A": "Cochlea",
+        "B": "Vestibule",
+        "C": "Semicircular canal",
+        "D": "Organ of Corti"
+      },
+      "correct_answer": "D",
+      "explanation": "The organ of Corti, present in the scala media, is a part of the membranous labyrinth. It cannot be visualized on a CT scan. The bony labyrinth consists of: • Vestibule • Cochlea • Semicircular canals. These structures can be seen on a CT scan of the temporal bone. The membranous labyrinth consists of: • Saccule and utricle • Cochlear duct/scala media • Semicircular ducts • Endolymphatic duct and sac.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 4,
+      "question": "The bony cochlea is a coiled tube making",
+      "options": {
+        "A": "1.5 turns around a bony pyramid called the modiolus",
+        "B": "2.5 turns around a bony pyramid called the modiolus",
+        "C": "1.5 turns around a bony pyramid called the helicotrema",
+        "D": "2.5 turns around a bony pyramid called the helicotrema"
+      },
+      "correct_answer": "B",
+      "explanation": "The bony cochlea is a coiled tube making 2.5 to 2.75 turns around a central pyramid of bone called the modiolus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 5,
+      "question": "Which two structures does the helicotrema connect?",
+      "options": {
+        "A": "Scala media and scala vestibuli",
+        "B": "Scala media and scala tympani",
+        "C": "Scala vestibuli and scala tympani",
+        "D": "Scala tympani and subarachnoid space"
+      },
+      "correct_answer": "C",
+      "explanation": "The scala vestibuli and scala tympani communicate with each other at the apex of the cochlea through an opening called the helicotrema. Scala tympani and subarachnoid space are connected by the aqueduct of cochlea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is not a part of the bony cochlea?",
+      "options": {
+        "A": "Scala tympani",
+        "B": "Scala vestibuli",
+        "C": "Contains spherical recess for saccule",
+        "D": "It is part of the auditory pathway"
+      },
+      "correct_answer": "B",
+      "explanation": "Scala media is part of the membranous cochlea. The bony cochlear wall, Reissner's membrane, tectorial membrane, Organ of Corti, basilar membrane, spiral ganglion, bony cochlea: the bony cochlea is a coiled tube with 2.5 to 2.75 turns around a central pyramid of bone called the modiolus. From the modiolus, laterally into the tube, winding like the thread of a screw, is the osseous spiral lamina. The spiral lamina, along with membranes attached to it, divides the tube into 3 parts: Scala vestibuli above, Scala media in between, and Scala tympani below. The Scala vestibuli and tympani are part of the bony labyrinth and are filled with perilymph. They communicate with each other at the apex called the helicotrema. Scala media is part of the membranous cochlea and contains the sensory organ of Corti with hair cells.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp6_img1_ae8ca696.jpeg",
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient has undergone a high-resolution CT of the temporal bone, which confirmed a diagnosis of semicircular canal dehiscence syndrome. Which of the following will not be affected?",
+      "options": {
+        "A": "Posterior semicircular canal",
+        "B": "Medial semicircular canal",
+        "C": "Superior semicircular canal",
+        "D": "Lateral semicircular canal"
+      },
+      "correct_answer": "B",
+      "explanation": "The medial semicircular canal does not exist. The semicircular canals are part of the bony labyrinth. They house the semicircular ducts, which are the end organs for angular momentum. They are 3 in number: Superior, also called anterior in the X-axis; Posterior in Y-axis; Lateral, also called horizontal in Z-axis. Semicircular canal dehiscence syndrome is an inner ear abnormality where the bony covering of the semicircular canals is very thin or absent. It usually affects the superior semicircular canal but can rarely involve the posterior or lateral semicircular canals.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp8_img1_18c94e9f.jpeg",
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following structures is the crus commune a part of?",
+      "options": {
+        "A": "Cochlea",
+        "B": "Semicircular canal",
+        "C": "Vestibule",
+        "D": "Middle ear"
+      },
+      "correct_answer": "B",
+      "explanation": "Crus commune is a part of the semicircular canals. Each semicircular canal has 2 ends, ampullated and non-ampullated, which open into the vestibule. The non-ampullated ends of the posterior and superior canals unite to form a common channel called crus commune.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 10,
+      "question": "A 45-year-old construction worker presents to you with hearing loss. His audiogram reveals a diagnosis of noise-induced hearing loss. Which organ is most likely to be affected?",
+      "options": {
+        "A": "Macula",
+        "B": "Cristae",
+        "C": "Organ of Corti",
+        "D": "Semicircular canals"
+      },
+      "correct_answer": "C",
+      "explanation": "The organ of Corti is the sensory organ of hearing and is situated on the basilar membrane. Chronic exposure to loud noises may mechanically damage the organ of Corti and result in noise-induced hearing loss.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 11,
+      "question": "The organ of Corti is situated over which membrane?",
+      "options": {
+        "A": "Basilar membrane",
+        "B": "Reissner's membrane",
+        "C": "Shrapnell's membrane",
+        "D": "Stria vascularis"
+      },
+      "correct_answer": "A",
+      "explanation": "The organ of Corti is situated over the basilar membrane in scala media. The membranes of the cochlear duct: Bony cochlear wall, Reissner's membrane, Tectorial membrane, Organ of Corti, Basilar membrane, Spiral ganglion, Bony cochlea. The basilar membrane separates scala media from tympani and supports the organ of Corti. Reissner's membrane separates scala media from scala vestibuli. Stria vascularis is the lateral part of scala media which secretes endolymph. Shrapnell's membrane is another name for pars flaccida of the tympanic membrane.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp11_img1_dca44798.jpeg",
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 12,
+      "question": "What does the stria vascularis secrete?",
+      "options": {
+        "A": "Endolymph",
+        "B": "Perilymph",
+        "C": "Cerebrospinal fluid",
+        "D": "Both endolymph and perilymph"
+      },
+      "correct_answer": "A",
+      "explanation": "The stria vascularis contains vascular epithelium and is concerned with the secretion of endolymph.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 13,
+      "question": "Where is the endolymph seen?",
+      "options": {
+        "A": "Scala vestibuli",
+        "B": "Scala media",
+        "C": "Scala tympani",
+        "D": "Helicotrema"
+      },
+      "correct_answer": "B",
+      "explanation": "Endolymph is present in the scala media.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following fluids have high potassium and low sodium content?",
+      "options": {
+        "A": "Endolymph",
+        "B": "Perilymph",
+        "C": "CSF",
+        "D": "ECF"
+      },
+      "correct_answer": "A",
+      "explanation": "Endolymph is akin to intracellular fluid and hence high in potassium. Perilymph and cerebrospinal fluid (CSF) are both extracellular fluids (ECF) that are high in sodium.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 15,
+      "question": "A 20-year-old man diagnosed with meningitis later develops sensorineural hearing loss. Which structure is responsible for the spread of his infection to the cochlea?",
+      "options": {
+        "A": "Endolymphatic sac",
+        "B": "Cochlear aqueduct",
+        "C": "Scala media",
+        "D": "Vestibular aqueduct"
+      },
+      "correct_answer": "B",
+      "explanation": "Infections can spread from the CNS to the inner ear or vice versa through the cochlear aqueduct. Scala tympani is connected with the subarachnoid space through this structure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following statements is true about the membranous cochlea?",
+      "options": {
+        "A": "Higher frequencies are heard at the base",
+        "B": "Lower frequencies are heard at the base",
+        "C": "Higher frequencies are heard at the apex",
+        "D": "All frequencies are heard at the apex"
+      },
+      "correct_answer": "C",
+      "explanation": "Higher frequencies of sound are heard at the basal coil, while lower frequencies are heard at the apical coil of the membranous cochlea. This is because the length of the basilar membrane increases as we proceed from the basal coil to the apical coil.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following sentences is false?",
+      "options": {
+        "A": "Cristae are present in the semicircular canal",
+        "B": "Maculae are present in the utricle and saccule",
+        "C": "The organ of Corti rests over the basilar membrane",
+        "D": "Reissner's membrane overlies the organ of Corti"
+      },
+      "correct_answer": "A",
+      "explanation": "The tectorial membrane overlies the organ of Corti. Reissner's membrane separates the scala vestibuli and scala media. The basilar membrane supports the organ of Corti. The sensory epithelium of the utricle and saccule is called the macula and is concerned with linear acceleration and deceleration. The ampullated end of each semicircular canal contains a thickened ridge of neuroepithelium called the crista ampullaris.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 18,
+      "question": "Angular movements are sensed by",
+      "options": {
+        "A": "Utricle",
+        "B": "Saccule",
+        "C": "Semicircular canals",
+        "D": "Cochlea"
+      },
+      "correct_answer": "C",
+      "explanation": "Semicircular canals respond to angular acceleration and deceleration. The receptors are the crista, located in the ampullated ends of the three semicircular ducts. Their utricle and saccule, which contain macula, are stimulated by linear acceleration and deceleration or gravitational pull during head tilts.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 19,
+      "question": "The endolymphatic duct is a continuation of which of the following?",
+      "options": {
+        "A": "Ductus reuniens",
+        "B": "Parotid duct",
+        "C": "Utriculo-saccular duct",
+        "D": "Cochlear aqueduct"
+      },
+      "correct_answer": "C",
+      "explanation": "The endolymphatic duct is formed by the union of two ducts, one each from the saccule and the utricle. The ductus reunions connects the cochlear duct to the saccule. The aqueduct of cochlea (cochlear aqueduct) connects scala tympani to the subarachnoid space. Semicircular ducts common cana, superior ampullæ, external utricles, saccule, posterior ampulla, canalis reuniens, ductus endolymphaticus, cochlearis.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/ment/exp19_img1_57c7eab9.png",
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 20,
+      "question": "Endolymphatic duct connects",
+      "options": {
+        "A": "Scala vestibuli and scala media",
+        "B": "Scala media and subdural space",
+        "C": "Scala vestibuli with aqueduct of cochlea",
+        "D": "Utriculosaccular duct to endolymphatic sac"
+      },
+      "correct_answer": "D",
+      "explanation": "The endolymphatic duct is formed by the union of two ducts, one each from the saccule and the utricle. It passes through the vestibular aqueduct. Its terminal part is dilated to form an endolymphatic sac, which lies between the two layers of dura on the posterior surface of the petrous bone. The scala vestibuli and scala tympani are filled with perilymph and communicate with each other at the apex of cochlea through an opening called helicotrema. Aqueduct of cochlea connects scala tympani with subarachnoid space.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 21,
+      "question": "Where is the endolymphatic sac present?",
+      "options": {
+        "A": "Between two layers of dura",
+        "B": "Extradural space in frontal bone",
+        "C": "Subdural space in petrous part of temporal bone",
+        "D": "Subdural space in frontal bone"
+      },
+      "correct_answer": "A",
+      "explanation": "The terminal part of the endolymphatic duct is dilated to form an endolymphatic sac, which lies between the two layers of dura on the posterior surface of the petrous bone. The endolymphatic sac is surgically important. It is exposed for drainage or shunt operation in Meniere's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    },
+    {
+      "q_no": 22,
+      "question": "Blood supply to the labyrinth is from which of the following arteries?",
+      "options": {
+        "A": "Anterior inferior cerebellar artery",
+        "B": "Posterior inferior cerebellar artery",
+        "C": "Middle meningeal artery",
+        "D": "Auriculotemporal artery"
+      },
+      "correct_answer": "A",
+      "explanation": "Blood supply to the inner ear is by a branch of the anterior inferior cerebellar artery. The inner ear is supplied by the labyrinthine artery, a branch of the anterior inferior cerebellar artery, which is a branch of the basilar artery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy of Inner Ear"
+    }
+  ]
+}
