@@ -1,0 +1,305 @@
+{
+  "chapter": "Cardiovascular System",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "On a chest x-ray, which of the following structures does not make up the right cardiac border?",
+      "options": {
+        "A": "SVC",
+        "B": "IVC",
+        "C": "Right atrium",
+        "D": "Right ventricle"
+      },
+      "correct_answer": "D",
+      "explanation": "The right ventricle does not contribute to the right cardiac border on a chest x-ray.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp1_img1_fa25071d.jpeg",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 2,
+      "question": "Identify the structure marked in the CT scan shown below:",
+      "options": {
+        "A": "Descending aorta",
+        "B": "Ascending aorta",
+        "C": "Superior vena cava",
+        "D": "Right pulmonary artery"
+      },
+      "correct_answer": "C",
+      "explanation": "The structure marked in the given CT thorax image is the Superior Vena Cava. The image below depicts all the major structures labelled in the CT thorax image: Ascending aorta, Superior vena cava, Right pulmonary artery, Esophagus, CT Thorax, Main pulmonary artery, Left pulmonary artery, Descending aorta.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q2_img1_ceee542a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp2_img1_68b3d64f.jpeg",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 3,
+      "question": "139A 60-year-old man presents with a 5-day history of cough and fever. Chest X-ray shows obliteration of the right cardiac border. Which anatomical site is likely involved in the pathology?",
+      "options": {
+        "A": "Right lower lobe",
+        "B": "Right atrium",
+        "C": "Right middle lobe",
+        "D": "Right ventricle"
+      },
+      "correct_answer": "C",
+      "explanation": "Obliteration of the right cardiac border on chest X-ray indicates pathology in the right middle lobe. This loss of clear demarcation between the normal lung and its surrounding soft structures (heart, diaphragm) is called the silhouette sign. It occurs due to loss of contrast between lungs and soft tissue when the lung parenchyma is no longer filled with air. This sign may be seen in consolidation, atelectasis, or mass lesions. In the following images: - • Left image: red line indicates the normal demarcation between the right heart border and middle lobe of the right lung. - Right image: loss of demarcation (positive silhouette sign) due to right middle lobe consolidation. Positive silhouette sign and corresponding anatomical site of pathology: • Right heart border: right middle lobe or medial right lower lobe. • Left heart border: lingula segments of the left upper lobe. • Left hemidiaphragm or descending aorta: left lower lobe. • Aortic knuckle: left upper lobe (posterior segment). • Right hemidiaphragm: right lower lobe. • Right paratracheal stripe: right upper lobe.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp3_img1_05342d9f.jpeg",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 4,
+      "question": "A 35-year-old man presents with a 1-week history of low-grade fever and progressive chest pain. Chest X-ray revealed the following. Considering the symptoms and imaging, what is the most likely diagnosis? MOBILE AP ERECT",
+      "options": {
+        "A": "Pericardial effusion",
+        "B": "Pneumonia",
+        "C": "Coarctation of the aorta",
+        "D": "Aortic dissection"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows a globular enlargement of the cardiac shadow, called the 'money bag' appearance. Considering the above symptoms and the chest X-ray findings, the most likely diagnosis is pericardial effusion. Pericardial effusion is characterized by a 'money bag heart'. The investigation of choice is echocardiography. However, the following X-ray findings are also characteristic for pericardial effusion: AP view - 'money bag' or 'leather bottle'-shaped heart; Lateral view - 'Oreo cookie sign' (fluid is seen between two layers of fat). In the following image, pericardial fluid outlined by paracardial fat and epicardial fat is called the 'Oreo cookie sign'.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q4_img1_bc43ca73.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp4_img1_0eed198c.png",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the earliest sign of left atrial enlargement on a chest x-ray?",
+      "options": {
+        "A": "Straightening of the right cardiac border",
+        "B": "Enlargement of the left atrial appendage",
+        "C": "Presence of a double atrial shadow",
+        "D": "Elevation of the left main bronchus and widening of the carina"
+      },
+      "correct_answer": "D",
+      "explanation": "Enlargement of the left atrial appendage is the earliest sign of left atrial enlargement (LAE) on a chest x-ray. It is seen as a fullness below the pulmonary artery. Other radiographic signs seen in LAE include: \n   The third mogul sign represents an enlargement of the left atrial appendage along the upper left cardiac border, leading to straightening of the left heart border.\n   Posterior displacement of the esophagus - seen on the lateral view of the barium swallow study.\n   Elevation of the left main bronchus and widening of the carina.\n   Double density sign or double atrial shadow - the enlarged LA extends towards the right cardiac border, hence, both RA and LA borders can be seen distinctly over the right heart border.\n   The X-ray below demonstrates straightening of the left cardiac border and widening of the carina, with the carinal angle becoming more obtuse, reflecting left atrial enlargement.\n   The causes of left atrial enlargement are as follows:\n   Congenital: Ventricular septal defect, Patent ductus arteriosus\n   Acquired: Mitral valvular disease, left ventricular failure, left atrial myxoma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 6,
+      "question": "A 5-year-old male child presents with cyanosis that worsens during activity and progressive breathlessness. Chest X-ray is done and shown below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Tetralogy of Fallot",
+        "B": "Coarctation of aorta",
+        "C": "Transposition of great arteries",
+        "D": "Ebstein's anomaly"
+      },
+      "correct_answer": "A",
+      "explanation": "The above image shows a boot-shaped heart, which is seen in the Tetralogy of Fallot (TOF). It shows an upturned cardiac apex due to right ventricular hypertrophy and a concave pulmonary arterial segment. Tetralogy of Fallot - boot-shaped heart. TOF is a cyanotic congenital heart condition and has four characteristic components: ventricular septal defect, right ventricular outflow tract obstruction (pulmonary stenosis), overriding aorta, right ventricular hypertrophy (late feature). Other radiographic features seen in TOF are pulmonary oligemia (due to pulmonary stenosis), normal size heart without heart failure, and right-sided aortic arch (in 25% of cases).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q6_img1_dbe29f04.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp6_img1_a76f9751.png",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 7,
+      "question": "A baby is brought to the clinic as he turns blue every time he cries. Chest x-ray reveals the following. Which of the following best describes the underlying condition?",
+      "options": {
+        "A": "Atrialization of the ventricle",
+        "B": "Right outflow tract obstruction with overriding of the aorta",
+        "C": "Abnormal pulmonary vein drainage into systemic venous circulation",
+        "D": "Single great artery for systemic and pulmonary circulation"
+      },
+      "correct_answer": "B",
+      "explanation": "Based on the clinical scenario and the X-ray showing a box-shaped cardiac silhouette caused by right atrial enlargement, this is typically seen in Ebstein's anomaly. Ebstein anomaly is characterized by an abnormal tricuspid valve that is displaced downwards into the right ventricle. Hence, a part of the right ventricle is now located above the tricuspid valve. This is called atrialization of the ventricle. There can be associated tricuspid regurgitation with or without stenosis. X-ray findings depend on the degree to which the tricuspid valve is displaced downwards. The features are an enlarged right atrium, which causes severe right-sided cardiomegaly, giving rise to a box-shaped cardiac shadow and pulmonary oligemia. Other options: Option B: Pulmonary stenosis, ventricular septal defect (VSD), aorta overriding the VSD, and right ventricular hypertrophy are the defining features of Tetralogy of Fallot, a cyanotic congenital heart disease. X-ray findings show a characteristic 'coeur-en-sabot' or boot-shaped heart. Option C: Pulmonary veins returning to the right atrium or systemic venous circulation instead of the left atrium define total anomalous pulmonary venous circulation, a congenital cardiac malformation, with the supracardiac variety being the most common. As a result, a large supracardiac shadow can be seen with a normal cardiac shadow and gives a characteristic pattern of snowman appearance/figure of 8 on chest X-ray. Option D: Failure of the embryonic common truncus arteriosus to divide into the aorta and pulmonary artery characterizes truncus arteriosus, a cyanotic congenital heart anomaly. A single great artery arises from the heart, supplying both the pulmonary and systemic circulation. This condition is associated with pulmonary plethora, unlike Tetralogy of Fallot, and is characterized by the sitting duck appearance of the heart on X-ray.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q7_img1_0997fa37.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp7_img1_9c68a21a.png",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 8,
+      "question": "An infant is brought with poor feeding and lethargy. Chest X-ray reveals an egg-on-string appearance. Which of the following conditions is this finding most suggestive of?",
+      "options": {
+        "A": "Transposition of great arteries",
+        "B": "Total anomalous pulmonary venous return",
+        "C": "Endocardial cushion defect",
+        "D": "Partial anomalous pulmonary venous return"
+      },
+      "correct_answer": "A",
+      "explanation": "The egg-on-string or egg-on-the-side appearance on chest X-ray is seen in dextro-transposition of great arteries (d-TGA). This appearance is due to altered cardiac contours as a result of cardiomegaly. In d-TGA, the aorta arises from the right ventricle, whereas the pulmonary trunk arises from the left ventricle. d-TGA is also called uncorrected TGA.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp8_img1_d50a9c8a.png",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 9,
+      "question": "A 61-year-old woman presented with chest pain and fatigue. The chest radiograph is shown below. What is the likely diagnosis?",
+      "options": {
+        "A": "Pericardial effusion",
+        "B": "Constrictive pericarditis",
+        "C": "Pulmonary artery hypertension",
+        "D": "Hypertrophic obstructive cardiomyopathy"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows a calcified pericardium, called an egg-in-cup appearance. It is typically seen in constrictive pericarditis. In constrictive pericarditis, there is fibrous or calcific constrictive thickening of the anterior and lateral pericardium that prevents normal diastolic filling of the heart. The resulting diastolic dysfunction leads to features of right heart failure. The thickness of the pericardium is best assessed on MRI. Note: The egg-in-cup (or ball-on-tee) appearance is also a urographic finding seen in renal papillary necrosis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q9_img1_54141554.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 10,
+      "question": "Hilar dance was seen on fluoroscopy of an infant with suspected congenital heart disease. What is the likely diagnosis?",
+      "options": {
+        "A": "Atrial septal defect",
+        "B": "Ventricular septal defect",
+        "C": "Patent ductus arteriosus",
+        "D": "Tetralogy of Fallot"
+      },
+      "correct_answer": "A",
+      "explanation": "Hilar dance on fluoroscopy is seen in patients with an atrial septal defect (ASD), due to vigorous pulmonary artery pulsations. ASD is characterized by an abnormal opening in the atrial septum, allowing communication between the right and left atria. There are four types based on their location within the septum: \n   • Secundum ASD - most common, usually an isolated abnormality\n   • Primum ASD - associated with abnormal mitral valve leaflet (partial AV septal defect)\n   • Sinus venous - associated with anomalous right pulmonary venous return to the SVC or RA\n   • Coronary sinus type ASD - also called unroofed coronary sinus\n   Superior vena cava\n   Types of Atrial Septal Defects\n   Sinus venosus ASD (SVC-type)\n   Sinus venosus ASD (IVC type)\n   Coronary sinus ASD\n   Inferior vena cava\n   Based on location\n   Ostium\n   Foramen ovale\n   Ostium Primum ASD\n   Ostium Secundum ASD",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp10_img1_f87ffdb3.jpeg",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 11,
+      "question": "Sitting-duck appearance of the heart on chest X-ray is seen in patients with which of the following?",
+      "options": {
+        "A": "Persistent truncus arteriosus",
+        "B": "Transposition of great vessels",
+        "C": "Tetralogy of Fallot",
+        "D": "Pulmonary artery hypertension"
+      },
+      "correct_answer": "A",
+      "explanation": "Persistent truncus arteriosus is characterized by the sitting duck appearance of the heart on X-ray. Truncus arteriosus - Sitting Duck Sign: Truncus arteriosus is a cyanotic congenital heart anomaly. A single great artery arises from the heart, due to a failure of the division of the embryonic common truncus arteriosus. Single trunk supplies both the pulmonary and systemic circulation, instead of a separate aorta and a pulmonary trunk. The X-ray findings are similar to those of Tetralogy of Fallot. However, pulmonary plethora is seen in this condition, as opposed to pulmonary oligemia in Tetralogy of Fallot. This is because the pulmonary artery originates from the truncus, which is part of the systemic circulation.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp11_img1_e0894ad8.jpeg",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 12,
+      "question": "What is the diagnosis based on the following x-ray?",
+      "options": {
+        "A": "Endocardial cushion defect",
+        "B": "Total anomalous pulmonary venous circulation",
+        "C": "Supravalvular aortic stenosis",
+        "D": "Primary pulmonary artery hypertension"
+      },
+      "correct_answer": "B",
+      "explanation": "Truncus arteriosus, IVC, RA, AO, MPA, RV, MV, LV, IVC - Inferior vena cava, MPA - Main pulmonary artery, AO - Aorta, Tricuspid valve, Mitral valve, RA - Right atrium, RV - Right ventricle, LA - Left atrium, AO, LV - Left ventricle, TV, SVC - Superior vena cava, MV. The given image shows the snowman sign or figure-of-8 or cottage loaf appearance. This is seen in supracardiac total anomalous pulmonary venous connection (TAPVC). The image below shows the snowman appearance of the heart seen in TAPVC. TAPVC is a cyanotic type of congenital heart disease with abnormal drainage anatomy of the entire pulmonary venous system. In obstructive TAPVC, there is a normal-sized heart with severe pulmonary venous hypertension. This results in the ground-glass appearance of the lungs. In TAPVC, all systemic and pulmonary venous blood enters the right atrium and nothing drains into the left atrium. A right-to-left shunt in the form of a patent foramen ovale (PFO) or ASD is required for survival.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q12_img1_40c8c403.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp12_img1_4af73553.png",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 13,
+      "question": "A 30-year-old woman presents with persistent hypertension, chest pain, and cramping in her legs, particularly during exertion. A chest radiograph was taken, which reveals the condition, as shown in the image below. What is the likely underlying cause of her hypertension?",
+      "options": {
+        "A": "Coarctation of the aorta",
+        "B": "Essential hypertension",
+        "C": "Aortic aneurysm",
+        "D": "Aortoarteritis"
+      },
+      "correct_answer": "A",
+      "explanation": "This clinical scenario and the image showing the figure of 3 sign point towards coarctation of the aorta as the cause of hypertension in this patient. The figure of 3 sign refers to the indentation of the aorta at the coarctation site. There is pre- and post-stenotic dilatation along with left paramediastinal shadow. Other chest X-ray features in coarctation of the aorta are a dilated left subclavian artery, a dilated ascending aorta, and notching of ribs 4-8 due to rib erosion by dilated collateral vessels.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q13_img1_61ae7442.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp13_img1_eeddb13b.png",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 14,
+      "question": "A radiologist observes the following finding on a patient's X-ray. Which condition is it seen in?",
+      "options": {
+        "A": "Coarctation of the aorta",
+        "B": "Rickets",
+        "C": "Marfan's syndrome",
+        "D": "Multiple myeloma"
+      },
+      "correct_answer": "A",
+      "explanation": "The X-ray shows inferior rib notching. It is seen in coarctation of the aorta. The most common location of the coarctation is just beyond the origin of the left subclavian artery. The following radiograph findings are seen in this condition: \n      • Inferior rib notching (Roesler sign): \n         • It occurs due to erosion of inferior margins of ribs by dilated intercostal collateral vessels that are formed to bypass the coarctation.\n         • It is a late feature and is unusual in patients < 5 years of age.\n         • Ribs 4-8 are commonly notched and ribs 1-2 are usually spared.\n      • Figure of 3 or reverse 3 sign refers to an abnormality in the contour of the aorta.\n      Causes for inferior rib notching (Roesler sign) are: \n      • Unilateral: \n         • Subclavian artery occlusion.\n         • Coarctation of the aorta involving the left subclavian or anomalous right subclavian artery.\n      • Bilateral: \n         • Coarctation of the aorta, occlusion, aortitis.\n         • Takayasu's disease and atheroma of the subclavian artery.\n      Pulmonary oligemia (ToF, pulmonary atresia, stenosis).\n      • SVC or IVC obstruction.\n      • AV malformation.\n      • Neurofibromatosis type 1.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q14_img1_9a593ea5.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp14_img1_56a44794.png",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 15,
+      "question": "The patient's chest radiograph reveals the finding shown below. Which of the following can be excluded from the differential diagnosis?",
+      "options": {
+        "A": "Rheumatoid arthritis",
+        "B": "Systemic lupus erythematosus",
+        "C": "Neurofibromatosis",
+        "D": "Coarctation of the aorta"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image shows superior rib notching. Coarctation of the aorta is associated with inferior rib notching. Hyperparathyroidism and neurofibromatosis cause both superior and inferior rib notching. Causes of superior rib notching are: • Normal finding in the elderly • Rheumatoid arthritis • Systemic lupus erythematosus • Marfan's syndrome • Paraplegics and poliomyelitis",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q15_img1_346ad254.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 16,
+      "question": "Pruning of pulmonary arteries is seen in which of the following conditions?",
+      "options": {
+        "A": "Pulmonary hypertension",
+        "B": "Pulmonary embolism",
+        "C": "Pulmonary edema",
+        "D": "Pulmonary infarction"
+      },
+      "correct_answer": "A",
+      "explanation": "Pulmonary artery hypertension is associated with peripheral pruning of pulmonary vessels. This means that the blood vessels appear cut off before they reach the outer 1/3 of the lung. Hence, the edge of the lung fields is darker than usual, and the central area is often whiter. Plain radiographic findings in pulmonary artery hypertension include elevated cardiac apex due to right ventricular hypertrophy, enlarged right atrium, prominent pulmonary outflow tract, enlarged pulmonary arteries, and peripheral pruning. The image below shows Chest X-ray findings in pulmonary hypertension: Pruning of distal pulmonary vasculature. Enlarged central pulmonary artery.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp16_img1_4a96df21.jpeg",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 17,
+      "question": "Plethoric lung fields are seen in:",
+      "options": {
+        "A": "Total Anomalous Pulmonary Venous Connection",
+        "B": "Tricuspid atresia",
+        "C": "Ebstein anomaly",
+        "D": "Tetralogy of Fallot"
+      },
+      "correct_answer": "A",
+      "explanation": "Plethoric lung fields are seen in Total Anomalous Pulmonary Venous Connection (TAPVC). In this condition, pulmonary venous obstruction results in pulmonary arterial hypertension, resulting in plethoric lung fields. Acyanotic: Increased pulmonary blood flow (pulmonary plethora) - Ventricular septal defect, Atrial septal defect, Patent ductus arteriosus, TAPVC. Decreased pulmonary blood flow: Ebstein anomaly, Tetralogy of Fallot, Tricuspid atresia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 18,
+      "question": "A 50-year-old patient has come with sudden onset of chest pain and his CT scan shows the following picture. What is the diagnosis?",
+      "options": {
+        "A": "Pulmonary embolism",
+        "B": "Aortic dissection",
+        "C": "Aortic aneurysm",
+        "D": "Myocardial infarction"
+      },
+      "correct_answer": "B",
+      "explanation": "The given CT scan showing a double lumen and dilatation of the aorta is suggestive of an aortic dissection. In this condition, blood enters the space below the intima of the aorta. This results in the formation of a true lumen and false lumen. The true lumen is often the smaller of the two because of being compressed by the false lumen, as shown below. True Lumen True Lumen False Lumen False Lumen A-Systole B-Diastole. The beak sign in aortic dissection is a reliable sign to identify the false lumen. It refers to the acute angle formed at the edge of the false lumen in aortic dissection in axial cross-section. It is formed by the borders of the outer aortic wall and the intimal flap, and may be partially thrombosed (blunted beak). BEAK SIGN",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q18_img1_13723799.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp18_img1_593b4b3a.jpeg",
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 19,
+      "question": "The appearance of USG at saphenofemoral junction, showing common femoral vein, common femoral artery, and the great saphenous vein is called as:",
+      "options": {
+        "A": "Mickey mouse sign",
+        "B": "String sign",
+        "C": "Tillaux sign",
+        "D": "Stemmer sign"
+      },
+      "correct_answer": "A",
+      "explanation": "The normal anatomy of the femoral vessels and great saphenous vein at the saphenofemoral junction on USG is called the Mickey Mouse sign. The given images below show the Mickey Mouse sign (FV - femoral vein; FA - femoral artery; GSV - great saphenous vein). Other options: Option B: String sign (of Kantor) on barium studies appears as a thin, thread-like stream of contrast passing through the stenosed bowel segment, particularly in Crohn's disease. Option C: Tillaux sign is said to be positive if the mass/swelling is mobile perpendicular to the mesentery attachment line. Tillaux's sign is seen in a mesenteric cyst. Option D: Stemmer's sign is the inability to tent the skin at the base of the toes due to skin thickening, as seen in lymphedema.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiovascular System"
+    },
+    {
+      "q_no": 20,
+      "question": "A 57-year-old woman with chest pain was diagnosed with acute myocardial infarction. What test can detect areas of reversible myocardial ischemia in this patient?",
+      "options": {
+        "A": "Coronary angiography",
+        "B": "MUGA Scan",
+        "C": "Thallium scan",
+        "D": "Resting echocardiography"
+      },
+      "correct_answer": "C",
+      "explanation": "A thallium scan is performed to detect reversible myocardial ischemia. It evaluates myocardial perfusion both at rest and during stress (exercise/pharmacological). In reversible ischemia, a cold spot is seen during exercise or stress due to reduced perfusion, but normal perfusion is observed at rest. Conversely, irreversible infarction is indicated by a cold spot during rest and stress/exercise. In technetium and pyrophosphate scanning, infarct appears as a hot spot. MUGA (multiple gated acquisition) scan is a nuclear imaging test that can evaluate the function of the ventricles. It is used for informed diagnostic intervention in heart failure. Its specific uses are in evaluating the degree of myocardial damage following myocardial infarction and in assessing cardiac dysfunction in patients on cardiotoxic drugs like anthracyclines.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cardiovascular System"
+    }
+  ]
+}

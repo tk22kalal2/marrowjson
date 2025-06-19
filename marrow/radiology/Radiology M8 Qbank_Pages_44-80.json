@@ -1,0 +1,410 @@
+{
+  "chapter": "Musculosketal System",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The radiograph of a boy is given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Perthes disease",
+        "B": "Developmental dysplasia of the hip",
+        "C": "Slipped capital femoral epiphysis",
+        "D": "Achondroplasia"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q1_img1_9d04166b.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp1_img1_e2a20fe5.png",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following findings are you unlikely to see in a patient with achondroplasia?",
+      "options": {
+        "A": "Bullet-nose shaped vertebra",
+        "B": "Chevron sign in the epiphysis",
+        "C": "Trident hand",
+        "D": "Tombstone appearance of acetabula"
+      },
+      "correct_answer": "D",
+      "explanation": "Squaring of the iliac blades, and not the acetabula, give a tombstone appearance in achondroplasia. Other radiological findings seen in achondroplasia include: large skull with a prominent forehead, depressed nasal bridge, small foramen magnum that is funnel-shaped. The epiphyses have V-shaped distal ends with deep intercondylar notches—the 'chevron' sign, bullet-nose vertebrae with posterior scalloping, and trident hand.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp2_img1_c79be6b9.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 3,
+      "question": "Radiograph of a child with a history of delayed walking showed the following findings. What is the likely diagnosis?",
+      "options": {
+        "A": "Scurvy",
+        "B": "Rickets",
+        "C": "Achondroplasia",
+        "D": "Osteogenesis imperfecta"
+      },
+      "correct_answer": "B",
+      "explanation": "The given X-ray shows fraying and cupping of the metaphysis with a widening of joint spaces. The radiological features are characteristic of active rickets.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q3_img1_be485a37.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following conditions do not cause dense metaphyseal bands?",
+      "options": {
+        "A": "Vitamin D intoxication",
+        "B": "Primary hyperparathyroidism",
+        "C": "Congenital syphilis",
+        "D": "Scurvy"
+      },
+      "correct_answer": "B",
+      "explanation": "Dense metaphyseal bands are not seen in primary hyperparathyroidism. Dense metaphyseal bands are formed due to increased bone deposition and/or reduced osteoclastic remodeling. There is increased bone resorption in primary hyperparathyroidism. Other causes of dense metaphyseal bands include: Scurvy, Vitamin D intoxication, Arsenic poisoning, Normal variant, Congenital syphilis, TORCH infections, Estrogen to mother in pregnancy, Leukemia (after treatment, the lucent bands become dense), Healed rickets, Early hypothyroidism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the dense zone of calcification seen at the metaphysis in scurvy?",
+      "options": {
+        "A": "Wimberger's ring sign",
+        "B": "Pelkan's spur",
+        "C": "Frankel's line",
+        "D": "Trumerfeld zone"
+      },
+      "correct_answer": "C",
+      "explanation": "Dense zone of calcification at growing metaphysis seen in scurvy is known as Frankel's line. Scurvy, Trumerfeld zone, Frankel's line, Pelkan's spurs",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q5_img1_f4d6cdcb.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp5_img1_5ded784a.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 6,
+      "question": "A 7-year-old child is brought to the clinic for evaluation of kyphoscoliosis. On examination, he is noted to have blue sclera. A radiograph of his long bones shows multiple diaphyseal fractures. Which of the following is not true about his condition?",
+      "options": {
+        "A": "Type 1 of the disease is most lethal",
+        "B": "Skull may have Wormian bones. Can be associated with autosomal dominant inheritance. Battered baby syndrome is a differential diagnosis.",
+        "C": "Chondrosarcoma",
+        "D": "Multiple myeloma"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical features are suggestive of osteogenesis imperfecta. Type 2 osteogenesis imperfecta is the most lethal type. Radiological features of osteogenesis imperfecta include: multiple diaphyseal fractures of long bones with various stages can be seen. A radiograph of the skull shows wormian bones or intrasutural bone ossicles. As battered baby syndrome can present with multiple fractures secondary to abuse, it is a common differential diagnosis for osteogenesis imperfecta. However, the region affected is the metaphyses of long bones, unlike osteogenesis imperfecta where diaphysis is involved.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp6_img1_a891398c.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following conditions is least likely to cause the following appearance on a radiograph?",
+      "options": {
+        "A": "Caffey disease",
+        "B": "Sickle cell disease",
+        "C": "Hyperparathyroidism",
+        "D": "Paget's disease"
+      },
+      "correct_answer": "C",
+      "explanation": "The given radiograph shows the bone within a bone appearance, which describes bones that appear to have another bone within them on a radiograph. This finding is least likely to be seen in hyperparathyroidism. Causes of bone within bone appearance on a radiograph include: • Osteopetrosis • Paget's disease • Caffey disease • Sickle cell anemia • Thalassemia • Congenital syphilis • Gaucher disease",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q8_img1_bead1ffa.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 9,
+      "question": "A 12-year-old girl presents after a fall from her bicycle. She has no pain but could not get up due to weakness in her hands and legs. Cervical spine x-ray showed no fractures or loss of alignment. What is the next best step in her management?",
+      "options": {
+        "A": "MRI",
+        "B": "CT",
+        "C": "Reassurance",
+        "D": "Physiotherapy"
+      },
+      "correct_answer": "A",
+      "explanation": "The given case of a child presenting with weakness after a fall but no abnormalities on radiological imaging indicates a diagnosis of Spinal Cord Injury Without Obvious Radiographic Abnormality (SCIWORA). MRI is the next best step in this case to identify nerve damage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is true with regards to a greenstick fracture?",
+      "options": {
+        "A": "Outer cortex bends",
+        "B": "Inner cortex breaks",
+        "C": "Buckling with both cortices intact",
+        "D": "Inner cortex bends"
+      },
+      "correct_answer": "B",
+      "explanation": "In greenstick fractures, the inner cortex (concave) bends and the outer (convex) cortex breaks. A greenstick fracture is a partial thickness fracture where only the cortex and periosteum are interrupted on one side of the bone, while they remain uninterrupted on the other side. In children, the bones are more resilient and hence, greenstick fractures are more common. It is commonly seen in the shaft of forearm bones. Note: In a torus fracture, compression on one side causes the other side to be buckled. Distinct fracture lines are not seen and both cortices are intact.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp10_img1_8308f72b.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 11,
+      "question": "A young soccer player presents with complaints of pain in his right shoulder. He fell while alternating from jumping jacks to push-ups during a warm-up drill. His shoulder's radiograph is shown below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Anterior dislocation of shoulder",
+        "B": "Posterior dislocation of shoulder",
+        "C": "Inferior dislocation of shoulder",
+        "D": "Fracture of neck of humerus"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario, along with the light bulb sign in the X-ray, is suggestive of a posterior dislocation of the shoulder. It occurs most commonly during a convulsion, or after an electric shock. It can also happen after a fall on the flexed, adducted arm, either by a direct blow to the front of the shoulder or due to a fall on the outstretched hand. There is internal rotation of the humeral head, which causes changes to the normal radiographic contour of the head of the humerus. Radiological signs described in posterior dislocation of the shoulder in the AP view are as follows: • Light bulb sign - Shape of humeral head appears like that of an electric bulb; • Rim sign - Widening of the glenohumeral joint space > 6 mm; • Vacant glenoid sign - Glenoid fossa looks empty as the humeral head has moved away from it; • Trough sign - Vertical line seen on the anteromedial part of the humeral head due to the impression fracture by the glenoid labrum. Posterior dislocation of the shoulder: Light bulb sign.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q11_img1_e62d093e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp11_img1_520cdd11.png",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 12,
+      "question": "A young male presents with pain in his right shoulder. He slipped during his treadmill workout and tried to hold on to the side rails. The x-ray image obtained is given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Anterior dislocation",
+        "B": "Posterior dislocation",
+        "C": "Luxatio erecta",
+        "D": "Bankart's lesion"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario describes a patient who developed pain in his shoulder after forced abduction of his shoulder after a fall. The x-ray shows the head of the humerus is below the glenoid and the shaft in the abducted position. This is suggestive of an inferior shoulder dislocation, also known as luxatio erecta. It is rare and occurs when the arm is forcefully pulled up when in full abduction (hyper-abduction force) due to high-energy trauma. The patient will present with the arm locked in almost full abduction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q12_img1_a94c43c9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 13,
+      "question": "A 7-year-old boy is brought to the casualty after a fall on an outstretched hand. An X-ray of the patient is given below. Identify the true statement regarding the condition.",
+      "options": {
+        "A": "It commonly leads to cubitus valgus deformity",
+        "B": "Damage to the median nerve can cause pointing index finger",
+        "C": "Myositis ossificans is one of its acute complications",
+        "D": "The most common complication is non-union"
+      },
+      "correct_answer": "C",
+      "explanation": "This patient's presentation after a fall on the outstretched arm and the X-ray is suggestive of a supracondylar fracture of the humerus. A displaced fracture can damage the median nerve, causing a pointing index sign. A common complication is cubitus varus deformity (gunstock deformity) due to the malunion of fractured ends. Myositis ossificans is a delayed complication of the fracture.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q13_img1_da9a3e77.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp13_img1_77ec0954.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 14,
+      "question": "A 40-year-old man presented with severe pain in the wrist after suffering a fall on an outstretched hand during his morning jog. His X-ray is given below. What is the diagnosis?",
+      "options": {
+        "A": "Colle's fracture",
+        "B": "Smith's fracture",
+        "C": "Rolando's fracture",
+        "D": "Reverse Barton's fracture"
+      },
+      "correct_answer": "D",
+      "explanation": "The given features and radiograph are suggestive of volar or reverse Barton's fracture. Volar-type/reverse Barton's is a fracture-dislocation of the volar rim of the radius. This type is the most common. Dislocation of the radiocarpal joint is the hallmark of Barton's fracture. The radiographic findings are the following: • Comminuted intraarticular fracture of the distal radius • Volar rim maintains a relationship with the carpus and both are displaced proximally • Fracture of the radial styloid process with loss of radial inclination. Reverse-type Barton's fracture is similar to Smith's fracture, but the difference is that the fracture line runs obliquely and extends into the joint surface. Another type is dorsal Barton's fracture, which results due to fracture-dislocation of the dorsal rim of the radius.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q14_img1_f6ffcfeb.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp14_img1_5052b852.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 15,
+      "question": "A 52-year-old woman presented with pain in the right wrist following a fall on the outstretched hand. On examination, tenderness was noted in the anatomical snuff box. Radiograph of her wrist is given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Scapholunate dissociation",
+        "B": "Midcarpal dislocation",
+        "C": "Radiocarpal dislocation",
+        "D": "Triquetrolunate dislocation"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical features and radiograph showing a large gap between the scaphoid and lunate are suggestive of scapholunate dissociation. It is also known as the tooth gap sign or Terry Thomas sign, after the English comedian.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q15_img1_67856879.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp15_img1_47f62fc6.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following conditions is least likely to cause the following appearance on a radiograph?",
+      "options": {
+        "A": "Gaucher's disease",
+        "B": "Thalassemia",
+        "C": "Leukemia",
+        "D": "Hunter's disease"
+      },
+      "correct_answer": "D",
+      "explanation": "The radiograph shows Erlenmeyer flask deformity, which is least likely to be caused by Hunter's disease. The deformity is caused by an expansion of the distal ends of the femur, along with a loss of the normal concavity of the medial sides. Causes include: Gaucher's disease, Thalassemia, Leukemia, and Osteopetrosis. Erlenmeyer flask deformity",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q16_img1_88cb2bcc.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp16_img1_84c43ec1.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 17,
+      "question": "An 18-month-old child is brought to the pediatrician with the history of distension of the abdomen and delayed mental development. On examination, the cornea is cloudy and a radiograph of the skull is given below. What is the diagnosis?",
+      "options": {
+        "A": "Hurler syndrome",
+        "B": "Sanfilippo syndrome",
+        "C": "Gaucher's disease",
+        "D": "Morquio syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "The given features and x-ray showing a J-shaped sella and a thickened calvaria are suggestive of Hurler syndrome. Hurler syndrome is also known as mucopolysaccharidosis type I (MPS I). It occurs due to a defect in α-L iduronidase, leading to the accumulation of heparan sulfate and dermatan sulfate. Radiological features in Hurler syndrome include: • Macrocephaly • J-shaped sella (seen in the above radiograph) • Thickened calvaria (skull cap) • Oar-shaped ribs • Hook-shaped vertebral bodies. Hurler syndrome - J-shaped sella",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q17_img1_ddc9dd5a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp17_img1_67ac1b49.png",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 18,
+      "question": "A child presents with pain and swelling in the leg. X-ray is given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Ewing's sarcoma",
+        "C": "Giant cell tumor",
+        "D": "Unicameral bone cyst"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical features and radiograph showing onion peel type of periosteal reaction point towards a diagnosis of Ewing's sarcoma. Ewing's sarcoma is a malignant tumor that occurs more frequently in males, typically between 10 and 20 years of age, and has a diaphyseal long-bone location. The femur is the most common long-bone site, followed by the tibia, humerus, and fibula. Ewing's sarcoma is believed to arise from mesenchymal stem cells in the bone marrow. Other options: Option A: Osteosarcoma has a periosteal reaction characterized as Codman triangle. It can also be seen in Ewing's sarcoma. Option C: Giant cell tumor has a characteristic soap bubble appearance. Option D: Unicameral bone cyst has a pathognomonic fallen fragment sign.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q18_img1_ba8ba865.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp18_img1_c2dee9bb.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 19,
+      "question": "A 20-year-old footballer sustained a sliding tackle during a match and fell on the ground in pain. An MRI was done and the double posterior cruciate ligament sign was noted. What is the most likely diagnosis?",
+      "options": {
+        "A": "Posterior cruciate ligament tear",
+        "B": "Medial meniscal tear",
+        "C": "Tear of lateral collateral ligament",
+        "D": "Tear of medial collateral ligament"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical features and double posterior cruciate ligament (PCL) sign on MRI are suggestive of a medial meniscal tear. The sign appears on sagittal MRI images of the knee due to bucket-handle meniscal tears. The torn meniscus flips towards the centre of the joint and hence lies anteroinferior to the PCL, mimicking a second smaller PCL.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp19_img1_4aa78045.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 20,
+      "question": "The radiograph of a patient on follow-up after hip surgery is given below. This is best described as:",
+      "options": {
+        "A": "Normal total hip replacement implant in situ",
+        "B": "Dislocated total hip replacement from cup",
+        "C": "Normal bipolar hemiarthroplasty in situ",
+        "D": "Bipolar prosthesis with dislocated head"
+      },
+      "correct_answer": "D",
+      "explanation": "The given x-ray shows a bipolar prosthesis with a dislocated head. The femoral head of the prosthesis is seen to be displaced from the normal acetabulum. In total hip replacement surgery, both the acetabular cup and the head of the femur are replaced with a prosthesis. The post-op x-ray will show the acetabular cup and head of the femur as seen below.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q20_img1_b17f10d8.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp20_img1_25132d40.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 21,
+      "question": "A 40-year-old man complains of right hip pain while walking up the stairs. He has been on long-term steroid therapy for rheumatoid arthritis. Physical examination and radiograph of the hip are unremarkable. What is the best imaging modality for his condition?",
+      "options": {
+        "A": "MRI scan",
+        "B": "CT scan",
+        "C": "Bone scan",
+        "D": "PET scan"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario of a patient with hip pain on chronic glucocorticoid therapy, with non-significant findings on radiographs and exam, is suggestive of avascular necrosis (AVN) of the femoral head. The best imaging modality for this is MRI. Long-term steroid usage is a risk factor for the development of AVN. MRI allows the identification of avascular necrosis of the femoral head in earlier stages and also helps determine the exact stage and extent of the pathologic process. The X-ray below shows flattening of the femoral head and degenerative changes associated with osteonecrosis or AVN. The radiographic appearance of avascular necrosis of the femoral head may show the following changes: • Sclerosis of the femoral head • Flattening or loss of sphericity of femoral head • Crescent sign - subchondral fracture overlying the necrotic segment of the femoral head • In severe stages, it may show femoral head collapse and arthritic changes in the joint",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp21_img1_673abdf3.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 22,
+      "question": "Identify the procedure. 54R",
+      "options": {
+        "A": "Myelography",
+        "B": "Angiography",
+        "C": "DEXA",
+        "D": "Projectional radiography"
+      },
+      "correct_answer": "A",
+      "explanation": "The procedure depicted in the image represents myelography. Myelography is a procedure used to evaluate spinal conditions. X-ray myelography can be used to evaluate the spinal canal in patients with spondylolisthesis. While MRI has largely replaced X-ray myelography, it is done when there is a contraindication to MRI (e.g., non-compatible pacemaker, severe claustrophobia).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q22_img1_3bfa69fd.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 23,
+      "question": "Empty thecal sac sign on MRI is seen in:",
+      "options": {
+        "A": "Arachnoiditis",
+        "B": "Discitis",
+        "C": "Vertebral osteomyelitis",
+        "D": "Tethered cord syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "An empty thecal sac sign is seen in arachnoiditis. Adhesive arachnoiditis can be diagnosed if the empty thecal sac indication is observed. This occurs due to inflammation, which leads to clumping of nerve roots. This leads to an empty sac appearance. It is best observed on T2-weighted MRI scans of the lumbar spine when the thecal sac appears empty.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp23_img1_9e94149c.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 24,
+      "question": "What is the diagnosis shown in the image below?",
+      "options": {
+        "A": "Costochondritis",
+        "B": "Spondylolisthesis",
+        "C": "Cervical rib",
+        "D": "Rib fracture"
+      },
+      "correct_answer": "C",
+      "explanation": "The given X-ray shows a cervical rib. Patients with a cervical rib usually show a lump and tenderness in the supraclavicular fossa. The pallor and paresthesias are due to vascular and neural compressions, respectively. A radiograph of the neck is useful in detecting a cervical rib. However, the absence of a rib on the X-ray does not rule out the possibility of a cervical rib. CT and MRI are more sensitive.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q24_img1_dd15ccac.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp24_img1_30204714.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 25,
+      "question": "What is the most useful pharmaceutical agent for skeletal imaging?",
+      "options": {
+        "A": "Gallium-67",
+        "B": "Technetium-99 linked to MDP",
+        "C": "Technetium-Sulphur colloid",
+        "D": "Technetium-99m"
+      },
+      "correct_answer": "B",
+      "explanation": "Bilateral Cervical Ribs. The most useful pharmaceutical agent for skeletal imaging is Technetium-99 linked to MDP. MDP (Methyl diphosphonate) adsorbs into the hydroxyapatite crystals and gets accumulated in the areas of active bone formation, which can be detected by nuclear imaging. Given below is a bone scan demonstrating bony metastasis in the pelvis. 1 RT LT, LT RT, RT LT, LT RT ANTERIOR POSTERIOR ANTERIOR POSTERIOR",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp25_img1_cceb69e9.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 26,
+      "question": "What condition causes the skull appearance as in the given radiograph?",
+      "options": {
+        "A": "Hyperparathyroidism",
+        "B": "Multiple myeloma",
+        "C": "Hyperthyroidism",
+        "D": "Paget's disease"
+      },
+      "correct_answer": "A",
+      "explanation": "The given X-ray of the skull shows multiple radiolucent lytic lesions, typical of the salt and pepper appearance. This is seen in hyperparathyroidism. In hyperparathyroidism, there is resorption of the trabecular bone of the skull (which causes the radiolucent areas) in combination with cystic areas of osteopenia. There is also a loss of definition between the inner and outer tables of the skull. Other options: Option B: In multiple myeloma, multiple well-defined 'punched out' lytic lesions exist. Option C: Untreated hyperthyroidism for several years can lead to osteoporosis of bones. Option D: In Paget's disease, the pelvis, spine, skull, and proximal long bones are most frequently affected. Radiological skull changes include: • Osteoporosis circumscripta: Large, well-defined lytic lesion. • Cotton wool appearance: Mixed lytic and sclerotic lesions of the skull. • Diploic widening: Both inner and outer calvarial tables are involved, with the former usually more extensively affected. • Tam o'Shanter sign: Frontal bone enlargement, with the appearance of the skull falling over the facial bones, like a Tam o'Shanter hat.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 27,
+      "question": "The skull X-ray of a patient who presented with bone pains is shown below. What is the likely diagnosis?",
+      "options": {
+        "A": "Paget's disease",
+        "B": "Multiple myeloma",
+        "C": "Hyperparathyroidism",
+        "D": "Osteomyelitis"
+      },
+      "correct_answer": "A",
+      "explanation": "The radiograph shows a cotton wool skull, which is diagnostic of Paget's disease. Radiological features during the early phase of this disease include osteolytic (lucent) regions, which are later followed by coarse trabeculae and bony enlargement. Sclerotic changes occur much later in the disease process. The lesions seen are: \n      • Osteoporosis circumscripta: a large, well-defined lytic lesion\n      • Cotton wool appearance: mixed lytic and sclerotic lesions of the skull\n      • Diploic widening: both inner and outer calvarial tables are involved, with the former usually more extensively affected\n      • Tam o'Shanter sign: frontal bone enlargement, with the appearance of the skull falling over the facial bones, like a Tam o' Shanter hat.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q27_img1_18862800.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp27_img1_bbfa19a0.jpeg",
+      "chapter_heading": "Musculosketal System"
+    },
+    {
+      "q_no": 28,
+      "question": "A 3-year-old boy was brought to the casualty with fever and pain over the right knee. There was a history of minor trauma 5 days ago. On examination of the knee, a warm, tender swelling was noted and the range of movements was decreased. What is the radiological investigation of choice for this condition?",
+      "options": {
+        "A": "X-ray",
+        "B": "CT",
+        "C": "MRI",
+        "D": "USG guided aspiration"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of acute osteomyelitis, for which MRI is the investigation of choice. It is also the investigation of choice for the diagnosis of subacute and chronic osteomyelitis. The characteristic earliest signs of acute osteomyelitis include bone marrow edema, which is seen as a low T1 signal in the bone marrow, along with a high signal on T2 MRI. Investigations of choice for bone diseases: Cortical pathology like bone tumors - CT is used; Marrow pathology like avascular bone necrosis - MRI is used.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Musculosketal System"
+    }
+  ]
+}

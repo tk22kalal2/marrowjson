@@ -1,0 +1,305 @@
+{
+  "chapter": "Lung Infections, Sarcoidosis and Lung Cancer",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "An 8-year-old child presents with a history of fever and cough for 1 month. Chest X-ray is given below. What is the likely diagnosis?",
+      "options": {
+        "A": "Lung abscess",
+        "B": "Consolidation",
+        "C": "Pleural effusion",
+        "D": "Pneumothorax"
+      },
+      "correct_answer": "A",
+      "explanation": "The description provided suggests a condition that could lead to a lung abscess, which is a cavity filled with pus within the lung, often resulting from a bacterial infection.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q1_img1_f5f9b981.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp1_img1_3f940656.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 2,
+      "question": "In which of the following conditions is this sign seen?",
+      "options": {
+        "A": "1, 2, and 3",
+        "B": "1 and 4",
+        "C": "2, 3, and 5",
+        "D": "2, 4, and 5 Right"
+      },
+      "correct_answer": "A",
+      "explanation": "This is a chest X-ray showing a bulging fissure sign. It is seen in Klebsiella pneumonia, tuberculosis, and carcinoma bronchus. A bulging fissure sign is seen in: • Klebsiella pneumonia (most common) • Legionella pneumonia • Streptococcal pneumonia • Tuberculosis • Yersinia pestis • Lung abscesses • Carcinoma bronchus. It is seen due to the volume increase of the infected lobe or space-occupying lesions, displacing or bulging adjacent fissures of the affected lung. Features of pulmonary edema include Kerley lines, thickened interlobar fissures, and transient loculated fluid collection in pleural or interlobar fissures, known as vanishing pulmonary pseudotumor. This condition is typically seen in congestive heart failure and reflects a generalized fluid overload state that resolves with diuretics.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q2_img1_8e9478e7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp2_img1_7864d1d3.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 3,
+      "question": "In patients with pneumonia, what is the most common causative organism that can lead to this condition?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Klebsiella",
+        "C": "Pneumocystis jiroveci",
+        "D": "Streptococcus"
+      },
+      "correct_answer": "A",
+      "explanation": "The chest x-ray depicts a pneumatocele adjacent to the left heart border (black arrow in the image below). The most common cause of pneumatocele formation is Staphylococcus aureus pneumonia. Pneumatoceles are intrapulmonary air-filled cystic spaces that can have a variety of sizes and appearances. They may contain air-fluid levels. Causes of pneumatocele formation: • Staphylococcus aureus (most common) • Klebsiella • Kerosene poisoning • Lung injury (most commonly ventilator-induced) • Pneumocystis jiroveci pneumonia. Note: Gallium lung scintigraphy is highly sensitive for Pneumocystis jiroveci pneumonia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q3_img1_c8d34843.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 4,
+      "question": "CT scan of a patient is being reviewed. Identify the given pathology.",
+      "options": {
+        "A": "Hydatid lung",
+        "B": "Lung abscess",
+        "C": "Pneumatocele",
+        "D": "Emphysematous bullae"
+      },
+      "correct_answer": "A",
+      "explanation": "The CT shows an air-fluid level with floating membranes (marked using yellow arrows in the image below) characteristic of a hydatid cyst. It is called a water lily or camalote sign. The most common location of hydatid cysts is the liver, followed by the lung. Water lily sign. If there is a disruption of the inner layers, it results in a cavitary lesion with one or more of the following radiographic features: • Air-fluid level • Water lily sign/camalote sign - air-fluid level with a floating membrane • Double wall • Rising sun sign/serpent sign - a double-wall, dry cyst with crumpled membranes lying at its bottom • Empty cyst sign - when all the contents are removed. Hydatid cysts result from infection by the Echinococcus species and can result in cyst formation anywhere in the body. Echinococcus granulosus species is the most common.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q4_img1_69f31ca5.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp4_img1_1bd587df.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 5,
+      "question": "A 56-year-old man presents with a one-month history of fever, fatigue, and non-productive cough. His chest X-ray is unremarkable, but HRCT is done and provided below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Endobronchial tuberculosis",
+        "B": "Alveolar proteinosis",
+        "C": "Wegener's granulomatosis",
+        "D": "Sarcoidosis"
+      },
+      "correct_answer": "A",
+      "explanation": "The above clinical scenario and HRCT showing tree-in-bud sign suggest endobronchial tuberculosis. The tree-in-bud sign describes the CT appearance of multiple areas of centrilobular nodules with a linear branching pattern. The chest X-ray is usually normal in these patients. CT showing a tree-in-bud sign with a linear branching pattern: a tree-in-bud sign is also seen in a variety of other disorders like: • Bronchiolitis • Endobronchial tuberculosis • Atypical pneumonia • Bronchoalveolar carcinoma • Connective tissue disorders • Bronchiectasis • Cystic fibrosis",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q5_img1_ae505eea.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp5_img1_15bcd919.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 6,
+      "question": "The following x-ray was done on a patient with pulmonary tuberculosis. What is the diagnosis?",
+      "options": {
+        "A": "Right upper lobe collapse",
+        "B": "Left upper lobe collapse",
+        "C": "Right lower lobe collapse",
+        "D": "Left middle lobe collapse"
+      },
+      "correct_answer": "A",
+      "explanation": "Golden's S-sign, observed on the given x-ray, represents central focal convexity and peripheral concavity. This radiological finding is typically indicative of a right upper lobe collapse. X-ray showing Golden's S-sign and calcified breast implants: Golden's S-sign/reverse S-sign of Golden is named because it resembles a reverse S shape. It can be seen on PA chest radiographs and on CT scans in right upper lobe collapse. S-sign can also be seen in bronchogenic carcinoma, primary mediastinal tumor, enlarged lymph nodes, lung metastasis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q6_img1_a7ff44b5.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp6_img1_e11e8317.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 7,
+      "question": "A 40-year-old man presents with a 3-month history of progressive shortness of breath and a dry cough. A chest X-ray reveals the following. What is the most likely diagnosis?",
+      "options": {
+        "A": "Emphysema",
+        "B": "Sarcoidosis",
+        "C": "Bronchiectasis",
+        "D": "Interstitial lung disease"
+      },
+      "correct_answer": "B",
+      "explanation": "The chest x-ray shows a pattern of lymph node enlargement seen in sarcoidosis. The characteristic pattern of lymph node enlargement in this condition is called the Garland triad or 1-2-3 sign, or pawnbroker's sign. The lymph nodes involved are: • Right paratracheal nodes • Right hilar nodes • Left hilar nodes",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q7_img1_6b9ea2ac.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp7_img1_be86dd29.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 8,
+      "question": "All of the following chest X-ray features can be seen in patients with sarcoidosis except:",
+      "options": {
+        "A": "Hilar lymphadenopathy",
+        "B": "Hilar lymphadenopathy with parenchymal lung changes",
+        "C": "Parenchymal disease without hilar lymphadenopathy",
+        "D": "Galaxy sign"
+      },
+      "correct_answer": "D",
+      "explanation": "Galaxy sign is a radiologic feature observed on HRCT in sarcoidosis, not on chest X-ray. It represents a coalescing granuloma with numerous smaller granulomas. Depending on the stage of sarcoidosis, radiological features can range from a normal chest radiograph to pulmonary fibrosis. Pulmonary sarcoidosis can be classified on a chest radiograph into 5 stages. A normal chest radiograph indicates stage 0. Other stages are: nodal enlargement only, nodal enlargement and parenchymal disease, parenchymal disease only, and fibrosis.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp8_img1_411674bd.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 9,
+      "question": "A gallium-67 scan was performed on a patient and showed the following. What is the diagnosis?",
+      "options": {
+        "A": "Wilson disease",
+        "B": "Sarcoidosis",
+        "C": "Oromaxillary carcinoma",
+        "D": "Lymphoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scan shows the classic panda sign seen in sarcoidosis. This occurs because of the symmetrical uptake of Gallium-67 in the nasopharynx, lacrimal glands, and parotid glands, reflecting the bilateral involvement of the glands in sarcoidosis. Other signs seen in sarcoidosis are: \n   • The lambda sign refers to bilateral hilar and right paratracheal lymphadenopathy (seen on FDG PET Scan/ Ga scintigraphy).\n   • Garland triad or 1-2-3 sign or Pawnbroker's sign is a lymph node enlargement pattern that is seen in sarcoidosis (seen on chest X-ray).\n   • Galaxy sign (sarcoid galaxy) represents a coalescent granuloma seen in a minority of patients with pulmonary sarcoidosis, seen on HRCT.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q9_img1_23f5bb0b.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp9_img1_95af8968.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient with a history of long-standing pulmonary tuberculosis undergoes a CT scan, and the image is given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Blastomycosis",
+        "B": "Pneumonia",
+        "C": "Aspergilloma",
+        "D": "Bronchiectasis"
+      },
+      "correct_answer": "C",
+      "explanation": "The marked finding is known as the Monod sign, which is seen in aspergilloma. It refers to the presence of gas surrounding a fungal mass within a pulmonary cavity. Aspergillomas (non-invasive pulmonary aspergillosis): Aspergillus fumigatus can cause mass-like fungus ball formation in structurally abnormal lungs (pre-existing cavities like in pulmonary tuberculosis). On plain film and CT, an intracavitary mass surrounded by a crescent of air (Monod sign), is typically observed. Angioinvasive aspergillosis occurs primarily in immunocompromised patients. On HRCT, it is characterized by ground-glass opacity surrounding a pulmonary nodule or mass called a halo sign. This sign indicates a hemorrhage. Allergic bronchopulmonary aspergillosis (ABPA) is an immune reaction. The image depicts a gloved finger appearance of ABPA in the left upper lobe. It is a characteristic sign of bronchocele. Other options: Option A: Blastomycosis is a chronic infection, characterized by the formation of suppurative and granulomatous lesions, especially in the lungs and skin. The pulmonary disease resembles TB or histoplasmosis. There can be focal or diffuse consolidation, miliary lesions, or abscess formation. Option B: A patient presenting with fever, breathlessness, and cough with expectoration is most likely suffering from pneumonia. The CT image shows a sharply demarcated homogenous consolidation that crosses segmental boundaries and involves only a single lobe, suggestive of lobar pneumonia. Option D: Bronchiectasis is characterized by local and irreversible dilatation of bronchi. Radiographic findings are tramline appearance (seen on chest X-rays) and ring or curvilinear opacities on end-on appearance. CT shows bronchial dilatation and lack of tapering of the bronchial lumen (cardinal sign) and signet-ring sign (internal diameter of the bronchi is greater than the adjacent pulmonary artery).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q10_img1_a27e4029.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp10_img1_ecd96e99.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 11,
+      "question": "In which condition is popcorn calcification seen?",
+      "options": {
+        "A": "Hodgkin's lymphoma",
+        "B": "Pulmonary hamartoma",
+        "C": "Metastasis",
+        "D": "Fungal ball"
+      },
+      "correct_answer": "B",
+      "explanation": "Popcorn calcification is seen in pulmonary hamartoma. Popcorn calcification is defined as a pattern of calcification in rings and arcs that resemble popped corn kernels. The presence of fat in a well-circumscribed solitary pulmonary nodule that does not demonstrate significant growth is pathognomonic of a pulmonary hamartoma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp11_img1_e26f680b.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 12,
+      "question": "The following chest x-ray finding can be seen in patients with all of the following except:",
+      "options": {
+        "A": "TB",
+        "B": "Sarcoidosis",
+        "C": "Histoplasmosis",
+        "D": "Pulmonary metastases"
+      },
+      "correct_answer": "D",
+      "explanation": "The above chest x-ray depicts miliary shadow. In pulmonary metastatic disease, cannonball metastasis is seen as shown below:",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q12_img1_9e8b1fe9.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp12_img1_3ad425b5.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 13,
+      "question": "A 60-year-old male complains of recurrent cough and difficulty in breathing for 2 months. A chest X-ray is provided below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Right upper lobe collapse",
+        "B": "Left lower lobe collapse",
+        "C": "Right lower lobe collapse",
+        "D": "Left upper lobe collapse"
+      },
+      "correct_answer": "D",
+      "explanation": "The chest X-ray shown here demonstrates the Luftsichel sign, which translates from German as 'air crescent'. It is typically seen in the left upper lobe collapse, resulting in paramediastinal translucency. It occurs due to hyperinflation of the superior segment of the left lower lobe, creating a crescent of air between the aortic arch and the medial border of the collapsed left upper lobe. The CT below shows the collapse of the left upper lobe.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q13_img1_e8e8842a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp13_img1_837ae126.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 14,
+      "question": "In which of the following conditions will you not see eggshell calcification of lymph nodes?",
+      "options": {
+        "A": "Sarcoidosis",
+        "B": "Silicosis",
+        "C": "Post-radiation lymphoma",
+        "D": "Bronchogenic carcinoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Eggshell calcification of lymph nodes is not a feature of bronchogenic carcinoma. Eggshell calcification refers to fine calcification seen at the periphery of a lymph node. It may be seen in primary calcifying malignancies such as osteosarcoma, chondrosarcoma, colorectal, and ovarian tumors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is the best investigation that can be done in a patient with a suspected solitary pulmonary nodule?",
+      "options": {
+        "A": "PET",
+        "B": "Plain CT",
+        "C": "MRI",
+        "D": "CTPA"
+      },
+      "correct_answer": "B",
+      "explanation": "Plain CT is the standard investigation of choice for a solitary pulmonary nodule. A solitary pulmonary nodule (SPN) is defined as a relatively well-defined, round or oval, pulmonary parenchymal lesion that is equal to or smaller than 30 mm in diameter. It is surrounded by pulmonary parenchyma and/or visceral pleura and is not associated with lymphadenopathy, atelectasis, or pneumonia. Features favouring malignancy in an SPN include: spiculated margin, lobulated margin, umbilication, cavitation, fine peripheral calcification, and doubling its volume in 1 to 6 months. The gold standard investigation is CT-guided biopsy. A PET scan is helpful in detecting malignancy in patients with inconclusive high-resolution CT findings.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 16,
+      "question": "A 45-year-old female patient was admitted with a history of cough, multiple subcutaneous nodules with weight loss for 3 months. What is the investigation of choice for evaluating this patient?",
+      "options": {
+        "A": "CT",
+        "B": "MRI",
+        "C": "Bronchoscopy",
+        "D": "Thoracoscopy"
+      },
+      "correct_answer": "A",
+      "explanation": "In the above clinical scenario, the patient most likely has bronchogenic carcinoma. CT is the investigation of choice for evaluating and diagnosing bronchogenic carcinoma. Other options: Option B: MRI is the investigation of choice for superior sulcus tumor (Pancoast tumor). Option C: Bronchoscopy can be done in endobronchial tumors to obtain a tissue diagnosis. Option D: Thoracoscopy can be used to evaluate pleural effusions and pleural diseases and for therapeutic purposes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 17,
+      "question": "118A 72-year-old man presented with weight loss, decreased appetite, and iron deficiency anaemia. Chest X-ray was done and given below. What is the likely diagnosis?",
+      "options": {
+        "A": "Lung metastasis",
+        "B": "Bronchogenic carcinoma",
+        "C": "Miliary tuberculosis",
+        "D": "Mesothelioma"
+      },
+      "correct_answer": "A",
+      "explanation": "The chest X-ray depicts multiple, large, well-circumscribed, round pulmonary metastases that look similar to cannonballs. Hence it is known as cannonball metastasis. The most common primaries to result in pulmonary metastases in adults include breast carcinoma, colorectal carcinoma, renal cell carcinoma, uterine leiomyosarcoma, and head and neck squamous cell carcinoma. Other unusual patterns of metastases are endobronchial metastases, miliary metastases (from thyroid and renal carcinomas, bone sarcomas and choriocarcinoma) and tumour emboli.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 18,
+      "question": "Which type of lung carcinoma can mimic consolidation on chest X-ray?",
+      "options": {
+        "A": "Small cell carcinoma",
+        "B": "Carcinoid tumor",
+        "C": "Large cell carcinoma",
+        "D": "Adenocarcinoma in-situ"
+      },
+      "correct_answer": "D",
+      "explanation": "Adenocarcinoma in situ mimics consolidation on X-ray. It is also known as minimally invasive adenocarcinoma / broncho-alveolar carcinoma. Unlike other lung carcinomas, broncho-alveolar carcinoma is known to show an air bronchogram. They spread along the bronchial wall, which is known as the lepidic spread. In general, an air bronchogram is absent in bronchogenic carcinoma since the bronchus is obstructed. Below is a CT chest showing focal consolidation with a patent bronchus.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp18_img1_82ee30cf.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 19,
+      "question": "A 62-year-old male, a retired construction worker, presented with a 2-month history of mild cough and occasional dyspnea. CT chest was done as shown below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Mesothelioma",
+        "B": "Bronchogenic carcinoma",
+        "C": "Bronchiectasis",
+        "D": "Miliary tuberculosis"
+      },
+      "correct_answer": "A",
+      "explanation": "In the above clinical scenario, the CT chest shows the comet-tail sign. It is seen in cases of round atelectasis. Round atelectasis is a form of parenchymal collapse condition characterised by the infolding of redundant pleura, resulting in a parenchymal collapse that can mimic a mass on imaging. The comet-tail sign is produced by the distortion of bronchovascular bundles that appear pulled into the collapsed area, resembling a comet tail. The most common cause of rounded atelectasis is occupational exposure to mineral dust: asbestos, pneumoconiosis, and mixed mineral dust.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q19_img1_0d978b5c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp19_img1_8a94299f.jpeg",
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    },
+    {
+      "q_no": 21,
+      "question": "A 52-year-old female with a history of rheumatoid arthritis, currently on methotrexate, presents with a six-month history of progressively worsening dyspnea. What is the investigation of choice to confirm the diagnosis?",
+      "options": {
+        "A": "MRI",
+        "B": "PET",
+        "C": "HRCT",
+        "D": "Chest x-ray"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario of respiratory symptoms along with the history of rheumatoid arthritis is suggestive of interstitial lung disease (ILD). High-resolution CT is the investigation of choice for ILD. It is the standard technique for the evaluation of diffuse parenchymal lung diseases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Lung Infections, Sarcoidosis and Lung Cancer"
+    }
+  ]
+}

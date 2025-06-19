@@ -1,0 +1,320 @@
+{
+  "chapter": "and Pulmonary Embolism",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Chest X-ray is most commonly performed in which of the following views?",
+      "options": {
+        "A": "PA view",
+        "B": "AP view",
+        "C": "Lateral view",
+        "D": "Oblique view"
+      },
+      "correct_answer": "A",
+      "explanation": "The PA (posteroanterior) view is the most common chest X-ray view, as it provides the most detailed image of the lungs and is taken with the patient standing and the X-ray machine behind them.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp1_img1_d9f190e2.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the best chest X-ray view to visualize the right lung?",
+      "options": {
+        "A": "Right anterior oblique",
+        "B": "Left anterior oblique",
+        "C": "Right posterior oblique",
+        "D": "Left posterior oblique"
+      },
+      "correct_answer": "B",
+      "explanation": "The best view to visualize the right lung is the left anterior oblique. For the left lung, it is the right anterior oblique. The left anterior oblique view demonstrates the maximum area of the right lung field. It is also used for the assessment of both the ventricles, left atrium, aortic window, and aorta. The right anterior oblique view demonstrates the maximum area of the left lung field. It is used for the assessment of the pulmonary artery, right ventricle, and right atrium. Both these views are also used in coronary angiography.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp2_img1_f8037bb1.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the best view to visualize middle lobe pathologies?",
+      "options": {
+        "A": "Left anterior oblique",
+        "B": "PA view",
+        "C": "Lordotic view",
+        "D": "Oblique view"
+      },
+      "correct_answer": "C",
+      "explanation": "Middle lobe pathologies are better seen on lordotic view. Lordotic View: The lordotic AP projection brings the displaced fissure into the line of the x-ray and elegantly demonstrates the middle lobe pathologies. The lordotic view is suitable in apical lung pathologies and middle lobe or lingula pathology. The image depicts a normal X-ray chest in lordotic view.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp3_img1_a878b2b2.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following structures do not form the hilar shadow in a chest X-ray?",
+      "options": {
+        "A": "Pulmonary artery",
+        "B": "Bronchus",
+        "C": "Lower lobe veins",
+        "D": "Upper lobe veins"
+      },
+      "correct_answer": "C",
+      "explanation": "Lower lobe veins are not part of the radiological hilum. The radiological hilum is formed by the pulmonary arteries (and their bifurcations), the upper lobe veins, and the bronchi. The lower lobe pulmonary veins, which pass inferiorly, form no component of the normal hilar shadow. Lymph nodes only contribute to the shadow when enlarged.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 5,
+      "question": "A 25-year-old male with Marfanoid features presented with sudden onset breathlessness. The chest X-ray is given below. What is the likely diagnosis?",
+      "options": {
+        "A": "Pneumothorax",
+        "B": "Pleural effusion",
+        "C": "Consolidation",
+        "D": "Fibrosis"
+      },
+      "correct_answer": "A",
+      "explanation": "The chest X-ray demonstrating tracheal deviation and displacement of the heart away from the affected side, along with the partial collapse of the left lung in the above condition, points to a diagnosis of left-sided pneumothorax. Marfan's syndrome is one of the causes for secondary spontaneous pneumothorax in adults. Pneumothorax refers to the collection of air in the pleural space. Chest radiograph in spontaneous pneumothorax demonstrates: a thin, sharp white line demarcating the visceral pleural edge, absence of lung markings seen peripheral to this line, peripheral space radiolucent compared to adjacent lung, complete lung collapse, as well as subcutaneous emphysema and pneumomediastinum, may be seen, and deep sulcus sign (on supine chest radiograph). Deep sulcus sign: On a supine position (common in the ICU), air collects anteriorly and basally, within the non-dependent portions of the pleural space, abnormally deepening the costophrenic angle. This sign is indicative of pneumothorax in such patients and may be the only visible clue, especially when the patient cannot be imaged upright. When there is a progressive accumulation of air intrapleurally in the thoracic cavity (caused by a valve effect during inspiration and expiration), it is called tension pneumothorax. It can result in compression of mediastinal structures and compromise cardiopulmonary function. It is life-threatening and requires emergency intervention.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q5_img1_6319d3fd.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp5_img1_86dc1a15.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 6,
+      "question": "A 62-year-old male with COPD presents with sudden onset chest pain and shortness of breath. On auscultation, breath sounds were absent on the left side. What is the best chest x-ray view to diagnose this condition?",
+      "options": {
+        "A": "PA view in full inspiration",
+        "B": "PA view in full expiration",
+        "C": "AP view in full inspiration",
+        "D": "AP view in full expiration"
+      },
+      "correct_answer": "B",
+      "explanation": "The patient most likely has pneumothorax. The best chest x-ray view to diagnose a pneumothorax is PA view in full expiration. Expiratory chest X-ray is done in pneumothorax, conditions causing air trapping (foreign body, partial bronchial obstruction), and diaphragmatic palsy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp6_img1_5c7b2c06.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 7,
+      "question": "All of the following features can be seen in patients with pneumothorax except:",
+      "options": {
+        "A": "Deep sulcus sign",
+        "B": "Mediastinal shift to the ipsilateral side",
+        "C": "Area of hypertranslucency on the ipsilateral side",
+        "D": "Collapse of ipsilateral lung"
+      },
+      "correct_answer": "B",
+      "explanation": "In pneumothorax, especially tension pneumothorax, there is a mediastinal shift to the contralateral side of the pneumothorax, not to the ipsilateral side. Chest radiograph in spontaneous pneumothorax demonstrates: a rim of hyperlucent area (dark area without lung markings) is seen between the lung margin and chest wall; inwardly shifted visceral pleural line (thin, sharp white line); Deep sulcus sign: deep lateral costophrenic angle can be seen in a supine X-ray. Depression of the diaphragm, rib cage expansion, and mediastinal shift to the contralateral side indicate tension pneumothorax. The image below shows a right pneumothorax with total right lung collapse and tracheal deviation to the left.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp7_img1_5bbe92b0.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 8,
+      "question": "The given USG of lung shows:",
+      "options": {
+        "A": "Stratosphere sign",
+        "B": "Sea shore sign",
+        "C": "Troposphere sign",
+        "D": "Mirror image artifact"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows the sea shore sign seen in M-mode imaging of the normal lung. M-mode is defined as the time-motion display of the ultrasound wave along a chosen ultrasound line. With M-Mode, even rapid motions can be displayed, measured, and recorded. In a normal lung, the M-mode image demonstrates a linear, laminar pattern in the tissue superficial to the pleural line and a granular or sandy appearance deep to the pleural line. The motionless portion of the chest above the pleural line creates horizontal 'waves', and the sliding below the pleural line creates a granular pattern, the 'sand'. The resultant picture is one that resembles waves crashing onto the sand and is therefore called the 'sea shore sign' and is present in a normal lung. The image given below shows an M-mode ultrasound showing sea shore sign. Normal lung - Sea shore sign. Linear pattern. Pleural line. Sandy appearance. Other options: Option A: Stratosphere sign refers to M-mode showing a linear pattern below the pleural line. It is also called the barcode sign. It is specific for pneumothorax. Pneumothorax - Stratosphere sign. Linear pattern. Option C: There is no named sign called the troposphere sign. Option D: Mirror image artifact is seen when a highly reflective surface (e.g., diaphragm) is in the path of the primary beam.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q8_img1_b41eaf4e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp8_img1_1e52855c.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 9,
+      "question": "A 42-year-old man is brought to the emergency department with complaints of right-sided chest pain after a motor vehicle collision. Physical examination revealed bilateral breath sounds and a supine chest radiograph was unremarkable. On performing an ultrasound, the following was seen. What is the diagnosis?",
+      "options": {
+        "A": "Pneumothorax",
+        "B": "Pleural effusion",
+        "C": "Consolidation",
+        "D": "Collapse"
+      },
+      "correct_answer": "A",
+      "explanation": "The above M-mode ultrasound of the right lung shows a stratosphere or barcode sign specific for pneumothorax. In a lung with pneumothorax, lung sliding is abolished on M-mode ultrasound, and the normal sand-like appearance beneath the pleural line (white line) is replaced by parallel lines, which are termed the stratosphere or barcode sign, suggesting the presence of pneumothorax. The image given below shows the stratosphere sign or barcode sign. Normal lung: No Motion. Chest Wall: Waves. Positive Motion: Lung. Beach: Seashore sign. M-mode marker at pleura. Pneumothorax: No Motion. Chest wall: No Motion. Lung: Barcode/Stratosphere Sign. Supine chest radiography has low sensitivity for traumatic pneumothorax. Thoracic ultrasound has high sensitivity and specificity for the detection of small or occult pneumothorax in critical care patients. Other options: Option B: Pleural effusion on ultrasound appears anechoic with an echogenic line at the fluid-lung interface if it is transudate. Exudative and hemorrhagic effusions may appear echogenic with pleural thickening. The fluid shows movement and changes in shape with breathing, along with the presence of septa and fibrous strands. Option C: Consolidation on ultrasound appears hypoechoic with heterogeneous echotexture. It is isoechoic with the liver and is referred to as lung hepatization. Option D: A collapsed lung under a large effusion will be seen as a hyperechoic wedge-shaped area.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q9_img1_725ab17a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp9_img1_e10b87cf.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 10,
+      "question": "A term neonate born by vacuum-assisted delivery developed mild respiratory distress 1 hour after birth. Arterial oxygen saturation remained > 95% without supplemental oxygen. Chest radiography performed 6 hours after birth is given below. What is the diagnosis?",
+      "options": {
+        "A": "Pneumomediastinum",
+        "B": "Pneumothorax",
+        "C": "Pneumoperitoneum",
+        "D": "Consolidation"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario and radiograph showing a spinnaker sign is suggestive of pneumomediastinum. Spinnaker sign (also called angel wing sign) is a radiographic sign seen in neonates with pneumomediastinum. Pneumomediastinum is the presence of extraluminal gas within the mediastinum. The pressure from the collected gas displaces the two lobes of the thymic tissue upward and laterally from its normal position. This results in large, wedge-shaped opacities on radiograph resembling the spinnaker headsails of a boat. This should be distinguished from a thymic sail sign, which is a normal finding on a neonatal chest x-ray. It represents a physiologically enlarged thymus in a neonate. Other signs of pneumomediastinum are: V sign of Naclerio - It is due to a V-shaped air collection. One limb of the V is produced by mediastinal air outlining the left lower lateral mediastinal border and the other limb is produced by air between the parietal pleura and medial left hemidiaphragm. Continuous diaphragm sign - Normally the central portion of the diaphragm is not discretely visualised on chest radiographs as it merges with the cardiac silhouette. If the diaphragm can be seen continuously across the midline then it is suggestive of free gas within the mediastinum.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q10_img1_f8d0e877.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp10_img1_b6faea6b.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient presented with pleuritic chest pain and absent breath sounds on the right side. A pleural effusion is suspected. What is the best chest x-ray view to diagnose this condition?",
+      "options": {
+        "A": "PA view",
+        "B": "Right anterior oblique",
+        "C": "Left anterior oblique",
+        "D": "Lateral decubitus view"
+      },
+      "correct_answer": "D",
+      "explanation": "Lateral decubitus view is the best view to identify pleural effusion. It can identify as little as 25ml of pleural fluid. Features of chest radiograph in pleural effusion: • Presence of free pleural fluid • Blunting of costophrenic angle • Ellis-S curve - This is a radiological illusion and occurs as a medial radiological density due to the presence of partially aerated lung between the anterior and posterior fluid layers, whereas laterally the density is higher due to the presence of fluid only. The actual fluid level is horizontal. The image given below shows a lateral decubitus view showing pleural effusion. Marking A shows fluid layering in the right pleural cavity. Marking B shows the normal width of the lung in the cavity. The amount of pleural fluid can be approximately quantified by measuring the distance A.B. The best investigation for minimal pleural effusion is USG. The minimal amount of fluid required to be detected on X-ray imaging for pleural effusion: • Lateral (erect) view: 75 ml pleural fluid • Erect PA view: 200 ml pleural fluid • Lateral decubitus view < 25 ml pleural fluid. The image below is a chest X-ray PA view showing pleural effusion with Ellis-S curve.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 12,
+      "question": "A 30-year-old man presented with a history of fever and chest pain for the last 7 days. A chest X-ray was done. What is the probable diagnosis?",
+      "options": {
+        "A": "Loculated pleural effusion",
+        "B": "Pneumothorax",
+        "C": "Consolidation",
+        "D": "Fibrosis"
+      },
+      "correct_answer": "A",
+      "explanation": "The above clinical scenario and X-ray is suggestive of loculated pleural effusion. The chest X-ray shows obliteration of the right costophrenic angle with a wide pleural-based, dome-shaped opacity projecting into the lung. It tracks along the costophrenic angle and lateral chest wall. A pleural lesion can be differentiated from a parenchymal lesion by the angle it makes with the chest wall. Pleural lesions make an obtuse angle with the chest wall, whereas parenchymal lesions make an acute angle with the chest wall.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q12_img1_6e399cf1.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp12_img1_d12a20c1.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 13,
+      "question": "Split pleura sign is seen in:",
+      "options": {
+        "A": "Pneumothorax",
+        "B": "Pleural effusion",
+        "C": "Empyema",
+        "D": "Hydropneumothorax"
+      },
+      "correct_answer": "C",
+      "explanation": "A split pleura sign is seen in empyema. Empyema is defined as a collection of pus in the pleural cavity. It is usually associated with pneumonia but may also develop after thoracic surgery or trauma. A hallmark feature of empyema on CT imaging is the split pleura sign, where the pleura divides into the parietal and visceral layers. This sign is considered the most sensitive and specific indicator of empyema on CT, helping to distinguish it from peripheral lung abscess. CT scan showing split pleura sign.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp13_img1_baff1cf6.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 14,
+      "question": "The chest radiograph of a patient showed silhouetting of the left border of the heart. Pathology of which part of the lung does this indicate?",
+      "options": {
+        "A": "Right lower lobe",
+        "B": "Hilar",
+        "C": "Apex of left lower lobe",
+        "D": "Lingula"
+      },
+      "correct_answer": "D",
+      "explanation": "Silhouetting of the left border of the heart indicates a pathology in the lingula segments. The principle of silhouette sign is that the mediastinal borders can be obscured only by a pathology that is in direct anatomical contact. Positive silhouette sign and corresponding anatomical site of pathology: \n- Right heart border - right middle lobe or medial right lower lobe\n- Left heart border - lingula segments of the left upper lobe\n- Left hemidiaphragm or descending aorta - left lower lobe\n- Aortic knuckle - left upper lobe (posterior segment)\n- Right hemidiaphragm - right lower lobe\n- Right paratracheal stripe - right upper lobe. Recognition of this sign is useful in localizing areas of airspace opacities, atelectasis, or mass within the lung. The radiograph below shows the silhouette sign - the left cardiac border is obscured due to pneumonia of the lingula of the left lung.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 15,
+      "question": "In which of the following conditions will you not see an air bronchogram?",
+      "options": {
+        "A": "Consolidation",
+        "B": "Pulmonary edema",
+        "C": "Pleural effusion",
+        "D": "Hyaline membrane disease"
+      },
+      "correct_answer": "C",
+      "explanation": "In pleural effusion, there is a homogeneous opacity with absent broncho-vascular markings, obliteration of the costophrenic angle, and no air bronchograms. An air bronchogram is defined as a pattern of air-filled bronchi (dark) on a background of opacified lung (grey/white). It is almost always caused by a pathological airspace/alveolar process, in which something other than air fills the alveoli. Air bronchograms will not be visible if the bronchi themselves are opacified (e.g., by fluid) and thus indicate patent proximal airways. Air bronchograms can be seen with several conditions: pulmonary consolidation, pulmonary edema (especially alveolar edema), hyaline membrane disease, non-obstructive atelectasis, severe interstitial lung disease, neoplasms (adenocarcinoma, pulmonary lymphoma), pulmonary infarct, and pulmonary hemorrhage.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp15_img1_aedaac79.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 16,
+      "question": "In which of the following conditions is pleural calcification least likely to be seen?",
+      "options": {
+        "A": "Asbestosis",
+        "B": "Hemothorax",
+        "C": "Healed empyema",
+        "D": "Sarcoidosis"
+      },
+      "correct_answer": "D",
+      "explanation": "Pleural calcification is least likely to be seen in sarcoidosis, as it is extremely rare, distinguishing it from other conditions like asbestosis, hemothorax, and empyema where calcifications are more commonly observed. Sarcoidosis is a multisystem disease characterized by non-caseating granulomas, most commonly affecting the lung parenchyma and lymph nodes. Pleural involvement in sarcoidosis is rare and typically presents as pleural effusion, thickening, and nodules. Lymph node calcification in sarcoidosis may have a stippled and eggshell appearance. Conditions showing pleural calcification: Asbestosis, Hemothorax, Pyothorax/empyema, Tuberculosis, Previous surgery, Radiation therapy. Difference between pleural calcification in asbestosis and empyema: The chest radiograph below shows extensive sheet-like calcification of the right pleura and a smaller localized calcification of the left pleura. Asbestosis: Calcification occurs as more discrete collections within plaques. It is usually bilateral. Empyema & hemothorax: Calcification is irregular and resembles a plaque or sheet. It is contained within thickened pleura. Most common in the lower posterior half of the chest. Usually unilateral.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp16_img1_2b736ed9.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 17,
+      "question": "A 65-year-old man presents with complaints of sudden onset pleuritic chest pain and dyspnea. He had arrived from an international trip three days ago. A chest x-ray was done. What is this finding called?",
+      "options": {
+        "A": "Westermark sign",
+        "B": "McConell's sign",
+        "C": "Palla's sign",
+        "D": "Sausage sign"
+      },
+      "correct_answer": "A",
+      "explanation": "In the above clinical scenario, chest pain and dyspnea after air travel most likely points to a diagnosis of pulmonary embolism. Westermark sign is seen in the given chest x-ray. It is defined by a hyper-lucent area with decreased vascularity due to reduced blood supply to the involved part of the lung. Even though characteristic signs are seen on chest x-ray, it is neither sensitive nor specific for pulmonary embolism. CT pulmonary angiography (CTPA) is the investigation of choice in pulmonary embolism.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q17_img1_6fed14e3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 18,
+      "question": "In which of the following patients, are hypertranslucent lungs not seen on chest X-ray?",
+      "options": {
+        "A": "Middle-aged man with Macleod syndrome",
+        "B": "Smoker with emphysema",
+        "C": "Patient who has undergone pneumonectomy",
+        "D": "Teenager with Poland syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "Pneumonectomy causes opacification of the hemithorax, not hypertranslucency. Causes for hypertranslucency/hypertransradiancy of the hemithorax: \n• Increased rotation while taking a chest X-ray (most common) \n• Scoliosis \n• Poliomyelitis \n• Mastectomy \n• Pneumothorax \n• Emphysema \n• Macleod syndrome (a complication of bronchiolitis characterized by a reduction in the pulmonary vasculature and alveolar hyperdistention) \n• Poland syndrome (unilateral absence of pectoralis major +/- other chest muscles) \n• Pulmonary embolism \nCauses of opacification of a hemithorax: \n• Pneumonectomy \n• Pleural effusion \n• Consolidation \n• Collapse \n• Massive tumor \n• Fibrothorax \n• Lung agenesis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following statements is true regarding Kerley A lines?",
+      "options": {
+        "A": "Radiate from the hilum of lungs",
+        "B": "Runs perpendicular to the pleural surface and extend out to it",
+        "C": "Has spider web appearance",
+        "D": "Short lines which do not reach the pleura"
+      },
+      "correct_answer": "A",
+      "explanation": "Kerley A lines radiate from the hilum of the lungs. Kerley lines are seen when the interlobular septa in the pulmonary interstitium become prominent. This may be because of lymphatic engorgement or edema of the connective tissues of the interlobular septa. They usually occur when pulmonary capillary wedge pressure reaches 20-25 mmHg. Types of Kerley lines: Kerley A lines: Thin, oblique lines (2-6 cm long and thickness under 1 mm), radiating from the hilum to the upper lobes. HRCT is the most effective imaging technique to identify these lines. Kerley B lines: Thin, horizontal lines (1-2 cm long), seen at the lung periphery, usually near the bases. Run perpendicular to the pleural surface and reach it, representing thickened subpleural interlobular septa. Kerley C lines: Short, irregular lines with a spider web-like appearance. Unlike Kerley B and D lines, they do not extend to the pleura; unlike Kerley A lines, they do not radiate outward from the hila. Kerley D lines - the same as Kerley B lines, except that they are seen on lateral chest radiographs in the retrosternal air gap. The image below depicts the Kerley B line, perpendicular to the pleural surface.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp19_img1_289f9336.jpeg",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 20,
+      "question": "Bat-wing appearance is seen in:",
+      "options": {
+        "A": "Pulmonary edema",
+        "B": "Pulmonary embolism",
+        "C": "Pneumoconiosis",
+        "D": "Sarcoidosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Bat-wing appearance is seen in pulmonary edema. It is called so because of the bilateral opacities that extend in a fan-shaped manner away from the hilum in a bat-wing pattern. Below is an image of a frontal chest X-ray and axial CT showing features of ‘bat-wing’ alveolar pulmonary edema. Pulmonary edema is defined as an abnormal accumulation of fluid in the extravascular compartments of the lung. Features of pulmonary interstitial edema - • Peri-bronchial cuffing and perihilar haze • Septal lines/Kerley lines • Thickening of interlobar fissures • Pulmonary venous engorgement - stag's antler sign • Airspace opacification classically in a bat-wing distribution May have air bronchograms • Pleural effusions and fluid in interlobar fissures (including 'vanishing' pulmonary pseudotumor) • Increased cardio-thoracic ratio / cardiac silhouette size (assessing for an underlying cardiogenic cause) The image below is a chest X-ray showing thickened interlobular septa (Kerley B) at the base of the right lower lobe, bronchial wall thickening (cuffing), overall distended veins, and a small pleural effusion with fluid in the interlobar fissures.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp20_img1_1da23ad7.png",
+      "chapter_heading": "and Pulmonary Embolism"
+    },
+    {
+      "q_no": 21,
+      "question": "Which lung segment is most commonly sequestered?",
+      "options": {
+        "A": "Apical segment of right upper lobe",
+        "B": "Apical segment of left upper lobe",
+        "C": "Posterobasal segment of left lower lobe",
+        "D": "Posterobasal segment of right lower lobe"
+      },
+      "correct_answer": "D",
+      "explanation": "The lung segment most commonly sequestered is the posterobasal segment of the right lower lobe. The majority of the sequestrations are located in the right lower lobe. Pulmonary sequestration is a bronchopulmonary foregut malformation in which a segment or lobe of dysplastic lung tissue is disconnected from the rest of the tracheobronchial tree or pulmonary arteries. It receives an anomalous vascular supply. It is a non-functional tissue.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "and Pulmonary Embolism"
+    }
+  ]
+}

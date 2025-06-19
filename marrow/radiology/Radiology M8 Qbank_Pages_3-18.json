@@ -1,0 +1,290 @@
+{
+  "chapter": "Fundamentals of X-Ray and CT",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "All among the following are ionizing radiations except:",
+      "options": {
+        "A": "Alpha rays",
+        "B": "Beta rays",
+        "C": "X-rays",
+        "D": "MRI"
+      },
+      "correct_answer": "D",
+      "explanation": "MRI (Magnetic Resonance Imaging) does not use ionizing radiation, whereas alpha rays, beta rays, and X-rays are all forms of ionizing radiation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the mechanism of heat loss in modern X-ray tubes?",
+      "options": {
+        "A": "Radiation",
+        "B": "Conduction",
+        "C": "Convection",
+        "D": "Evaporation"
+      },
+      "correct_answer": "A",
+      "explanation": "The mechanism of heat loss in the modern X-ray tube is radiation. The atomic number of tungsten is 74. Characteristics: Outer tube material - Classical X-ray tube: Glass, Modern X-ray tube: Stainless steel. Cathode - Tungsten filament, Tungsten + thorium. Anode - Tungsten, The anode is the target, Tungsten + 10% rhenium, The anode is rotating. Mechanism of heat loss - Radiation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the most commonly used active ingredient of an X-ray film?",
+      "options": {
+        "A": "Silver chloride",
+        "B": "Silver bromide",
+        "C": "Silver nitrate",
+        "D": "Silver fluoride"
+      },
+      "correct_answer": "B",
+      "explanation": "An X-ray film is coated with a photosensitive emulsion on both sides, most commonly silver bromide. Apart from silver bromide, silver iodide is also used. In routine films, both sides are coated, whereas in mammography, only one side of the film is coated. Note: X-ray films are most sensitive to blue light and least sensitive to red light. So, the safe light used in the darkroom is a red light.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 4,
+      "question": "How are X-rays produced?",
+      "options": {
+        "A": "When an electron beam strikes the nucleus of the atom in the anode",
+        "B": "When an electron beam decelerates close to the nucleus of the atom in the anode",
+        "C": "When an electron beam reacts with the electromagnetic field",
+        "D": "When an electron beam strikes the cathode"
+      },
+      "correct_answer": "B",
+      "explanation": "X-rays are produced when the electron beam decelerates close to the nucleus of the atom in the anode. The production of X-rays is as follows. Current is passed through a tungsten filament, which acts as the cathode. Electrons are emitted as a result of thermionic emission. Electrons bombard the target anode, a tungsten disc. This results in the conversion of energy into heat (99%) and X-ray photons (1%). The target anode is made of a tungsten disc in ordinary diagnostic X-ray tubes and molybdenum in mammography X-ray tubes. At the anode, fast-moving electrons interact with the atoms of the anode in one of the following ways: nucleus field interaction, also known as continuous spectrum radiation or Bremsstrahlung reaction (80%); and inner shell interaction, which produces characteristic spectrum radiation (20%). Anode X-ray equipment: X-ray beam. Important parameters with respect to X-rays include: kilovolt peak (kVp) - the potential difference between the cathode and anode. When the voltage increases, energy increases, and penetration also increases. Hence, more kVp is required for obese patients. Milliampere second (mAs) - determines the amount of film blackening. More mAs means more radiation exposure. Contrast is influenced by both kVp and mAs. kVp is inversely proportional, whereas mAs is directly proportional to the contrast produced.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp4_img1_22e5b5fd.jpeg",
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 5,
+      "question": "The photoelectric effect can be best described as an interaction between:",
+      "options": {
+        "A": "High energy incident photon and the inner shell electron",
+        "B": "Low energy incident photon and the outer shell electron",
+        "C": "High energy incident photon and the outer shell electron",
+        "D": "Low energy incident photon and the inner shell electron"
+      },
+      "correct_answer": "C",
+      "explanation": "The photoelectric effect is an interaction between a low to intermediate energy X-ray beam and the inner shell electron. When the inner shell electron is ejected, the outer electron goes into the inner orbit to occupy the space, and the extra energy is ejected as characteristic radiation, and is called the photoelectric effect. The photoelectric effect is fundamentally important in diagnostic radiography since it is the primary method by which contrast is developed in radiographs. It allows for the differentiation of different types of tissues on the X-ray film. The photoelectric effect involves an inner shell electron, an outer shell electron, a bombarding electron that strikes the inner shell electron, and a photoelectron. A 'hole' is created in the inner shell when the bombarding electron is diverted and the electron that was hit is ejected as a photoelectron and absorbed. The outer shell electron moves down to fill the 'hole' in the inner shell, and energy from this movement is released as a characteristic energy photon. Very low-energy X-rays are not capable of producing the photoelectric effect. High energy X-rays are also not capable of the photoelectric effect due to random scattering of electrons from the outer shell, known as the Compton effect, which can lead to distortion of the image. The goal of X-ray imaging should be to minimize the Compton effect and maximize the photoelectric effect. The penetrating power of X-rays increases with increasing energy, which is directly proportional to the frequency and inversely proportional to the wavelength.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp5_img1_9dd34999.jpeg",
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 6,
+      "question": "What is an X-ray artifact?",
+      "options": {
+        "A": "A radiolucent area",
+        "B": "An abnormal opacity that corresponds to an anatomic structure",
+        "C": "Produced when a patient moves during the shot",
+        "D": "A normal opacity which disappears in stored radiographs"
+      },
+      "correct_answer": "C",
+      "explanation": "X-ray artifacts are usually produced by patient movement during the shot, improper handling of films, or errors while processing of films. An artifact is any opacity on a radiograph that does not correspond to an actual anatomic structure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 7,
+      "question": "What are the walls of the CT scanner rooms coated with?",
+      "options": {
+        "A": "Lead",
+        "B": "Glass",
+        "C": "Tungsten",
+        "D": "Iron"
+      },
+      "correct_answer": "A",
+      "explanation": "Lead is the most common agent used in modern construction because of its ability to provide radiation shielding. Lead can effectively attenuate certain kinds of radiation because of its high density and atomic number. Lead aprons are used to safeguard from scattered radiation. Their thickness is 0.5 mm (0.25 - 0.5mm).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following investigations is best to detect calcification?",
+      "options": {
+        "A": "X-ray",
+        "B": "USG",
+        "C": "CT",
+        "D": "MRI"
+      },
+      "correct_answer": "C",
+      "explanation": "CT is the best investigation to detect calcification. It is also used to diagnose acute bleeds. Calcification and blood appear bright on CT. The CT below shows calcified subependymal hamartomatous nodules in a patient with tuberous sclerosis. Calcified subependymal hamartomatous nodules. The CT below shows an epidural hematoma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp8_img1_4e0f3426.jpeg",
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is a water-soluble contrast?",
+      "options": {
+        "A": "Iohexol",
+        "B": "Barium",
+        "C": "Bromium",
+        "D": "Calcium"
+      },
+      "correct_answer": "A",
+      "explanation": "Iohexol is a nonionic, water-soluble radiographic contrast medium. It is used to visualize the following structures: • Arteries • Veins • Ventricles of the brain • The urinary system • Joints. It can be used during computer tomography (CT scan) as well. It can be given orally, intravenously, or can be injected into the body cavity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is an iso-osmolar contrast media?",
+      "options": {
+        "A": "Omnipaque",
+        "B": "Optiray",
+        "C": "Ioxaglate",
+        "D": "Iodixanol"
+      },
+      "correct_answer": "D",
+      "explanation": "Iodixanol has an osmolarity of 300 mOsm, which is iso-osmolar to plasma. It is a non-ionic dimer with an iodine:particle ratio of 6:1. Contrast containing iodine is used in CT, IVP, and angiography. Since all these imaging modalities are based on X-rays, iodine is used as it is radio-opaque. In contrast medium, iodine provides radio-opacity and the other elements act as carriers of iodine. These carriers increase the solubility and decrease the toxicity of iodine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 11,
+      "question": "What is the technological basis of a spiral CT?",
+      "options": {
+        "A": "Gantry",
+        "B": "Slip ring",
+        "C": "Multi detectors",
+        "D": "Couch"
+      },
+      "correct_answer": "B",
+      "explanation": "Spiral CT is based on the technology called a slip ring. It is a device that distributes the power supply between the patient table (or couch) and the gantry, which contains the spinning X-ray tube. The slip ring makes the simultaneous movement of the patient and X-ray tube rotation possible. The process of CT imaging is faster, and the entire trunk can be taken in a single breath-hold. Thus, there is no respiratory misregistration. Also, in spiral CT, 3D reconstruction can be done. A spiral CT is the investigation of choice for renal stones. It is also used for staging of colon cancer and for visualization of pulmonary embolism. Radiation exposure: • CT abdomen = 500 chest X-rays (highest) • CT head = 100 to 150 chest X-rays • Mammography = 20 to 25 chest X-rays.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 12,
+      "question": "Cardiac CT is done in which phase?",
+      "options": {
+        "A": "Early systole",
+        "B": "Mid systole",
+        "C": "Mid diastole",
+        "D": "Early diastole"
+      },
+      "correct_answer": "C",
+      "explanation": "A cardiac CT is done in mid-diastole assisted by synchronous ECG gating. The least cardiac motion occurs during diastole when the ventricles are passively filling. Prospective ECG triggering uses the ECG signal to control scanning so that X-rays are generated and projection data are acquired only during cardiac diastole. Cardiac CT is done in CAD and for coronary calcium scoring. Coronary calcium scoring denotes the degree of atherosclerosis and determines prognosis in patients with coronary artery disease. It is an example of multi-slice CT or multidetector CT (MDCT). In MDCT, multiple sections can be taken in one rotation. Spiral CT takes only one section in one rotation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 13,
+      "question": "Identify the heart chamber marked in the given image. DFOV 30.7cm LUNG/+",
+      "options": {
+        "A": "Right atrium",
+        "B": "Right ventricle",
+        "C": "Left ventricle",
+        "D": "Left atrium Rkv 120mk 172 Noise Index: 12.0 Large 5.000mm/23.00 1.354"
+      },
+      "correct_answer": "C",
+      "explanation": "The structure marked in the above CT image is the left ventricle. DFOV 30.7cm LUNG/+ 1188 R Ra R akv 120mk 172 Noise Index: 12.0 Large 5.000mm/23.00 1.354 RVLVLA 512 Transverse CT images are to be observed from the foot end of the supine patient, as if we are sitting at the patient's feet. So, the right-hand side of the observer corresponds to the left-hand side in the CT.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q13_img1_6e369858.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp13_img1_cdc9c6b5.jpeg",
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 14,
+      "question": "What does the Hounsfield unit depend on?",
+      "options": {
+        "A": "Mass density",
+        "B": "Effective atomic number",
+        "C": "Attenuation coefficient",
+        "D": "Particle velocity"
+      },
+      "correct_answer": "C",
+      "explanation": "Hounsfield unit (HU) depends on the linear attenuation coefficient. Attenuation is the reduction of the intensity of an X-ray beam as it traverses matter. HU is used to measure the X-ray attenuation values in CT scanning, thus quantifying the radiodensity of the tissue. The Hounsfield scale, named after Sir Godfrey Hounsfield, who invented CT in the year 1972 and was awarded the Nobel Prize for Medicine in the year 1979. Tissues: Cortical bone, Solid soft tissue, Acute hemorrhage. Hounsfield unit: +1000 HU (Bright white), +40 to +80 HU (sometimes up to +300), +45 to +65 HU. Tissues: Hounsfield unit: Water - 0 HU (Grey), Fat -100 HU, Lungs - Air -950 to -700 HU, -1000 HU (Jet black)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 15,
+      "question": "Hounsfield unit is zero for which of the following?",
+      "options": {
+        "A": "Air",
+        "B": "Water",
+        "C": "Fat",
+        "D": "Dense bone"
+      },
+      "correct_answer": "B",
+      "explanation": "Water is arbitrarily assigned a value of zero HU. In CT, bone and hemorrhage appear white, while air and fat appear black. Tissues: Cortical bone +1000 HU (Bright white), Solid soft tissue +40 to +80 HU (sometimes up to +300), Acute hemorrhage +45 to +65 HU, Water 0 HU (Grey), Fat -100 HU, Lungs -950 to -700 HU, Air -1000 HU (Jet black)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 16,
+      "question": "What is the investigation of choice in a patient with a suspected calcaneal fracture?",
+      "options": {
+        "A": "X-ray",
+        "B": "CT",
+        "C": "MRI",
+        "D": "USG"
+      },
+      "correct_answer": "B",
+      "explanation": "For a calcaneal fracture, a CT is the investigation of choice. A CT scan is the investigation of choice for suspected tarsal fractures. CT is best for assessing the bone cortex, while MRI is best for assessing stress fractures or occult fractures.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 17,
+      "question": "A patient presented with breathlessness and pleuritic chest pain. D-dimer levels were elevated, and pulmonary embolism was suspected. What is the next best investigation?",
+      "options": {
+        "A": "MRI",
+        "B": "V/Q scan",
+        "C": "Plain CT",
+        "D": "CT angiography"
+      },
+      "correct_answer": "D",
+      "explanation": "Pulmonary CT angiography is the best investigation for pulmonary embolism. V/Q scan is done in pregnant women. Shown below is a CT angiography demonstrating multiple filling defects both at the bifurcation (saddle pulmonary embolism) and in the pulmonary arteries. CT angiography is the investigation of choice in an aortic aneurysm.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp17_img1_4803c23c.jpeg",
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 18,
+      "question": "What is the initial investigation for evaluating a patient suspected to have an aortic dissection?",
+      "options": {
+        "A": "CT",
+        "B": "MRI",
+        "C": "USG",
+        "D": "PET scan"
+      },
+      "correct_answer": "A",
+      "explanation": "CT is the initial investigation for aortic dissection as it is more widely available and takes a shorter time when compared to MRI. MRI, though highly accurate for acute aortic disease evaluation, is usually confined to cases of severe renal insufficiency or when the use of iodinated contrast medium is absolutely contraindicated. The image below depicts CT chest showing Type A aortic dissection from the aortic root. (A) Axial view and (B) sagittal view. The arrows indicate the intimal flap. The image below shows the classification systems used for aortic dissection. Classifications of Aortic Dissection: Type I DeBakey's Classification, Type II, Type III, AARRO Type A, Stanford Classification, Type B.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp18_img1_4e55ab1d.jpeg",
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    },
+    {
+      "q_no": 19,
+      "question": "A 23-year-old man was brought to the casualty with a head injury following an RTA. What is the investigation of choice for this patient?",
+      "options": {
+        "A": "Non-contrast CT",
+        "B": "Diffusion weighted MRI",
+        "C": "MR angiography",
+        "D": "Contrast enhanced CT"
+      },
+      "correct_answer": "A",
+      "explanation": "Non-contrast CT is the investigation of choice to identify acute intracranial bleed and hence is the preliminary investigation in acute head injury. NCCT is also the investigation of choice for brain hemorrhage and calcification. For all the other neurological lesions, the investigation of choice is MRI.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fundamentals of X-Ray and CT"
+    }
+  ]
+}

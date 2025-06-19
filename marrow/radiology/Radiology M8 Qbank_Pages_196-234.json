@@ -1,0 +1,410 @@
+{
+  "chapter": "Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Physiological calcification is seen in all of the structures except:",
+      "options": {
+        "A": "Pineal gland",
+        "B": "Habenular commissure",
+        "C": "Dura",
+        "D": "Red nucleus"
+      },
+      "correct_answer": "D",
+      "explanation": "Physiological calcification is a normal process that occurs in certain structures of the body, such as the pineal gland, habenular commissure, and dura. However, it is not typically seen in the red nucleus.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp1_img1_74a47cfe.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "Basal ganglia calcification can be seen on imaging of patients with all of the following conditions, except:",
+      "options": {
+        "A": "Hypoparathyroidism",
+        "B": "Hypothyroidism",
+        "C": "Hemochromatosis",
+        "D": "Carbon monoxide poisoning"
+      },
+      "correct_answer": "C",
+      "explanation": "Basal ganglia calcification is not a feature of hemochromatosis. The causes of pathological basal ganglia calcifications are: Endocrinopathies: Hypoparathyroidism (primary or secondary), pseudohypoparathyroidism, hyperparathyroidism, hypothyroidism. Vasculitis (e.g., SLE). Mitochondrial disorders (e.g., Mitochondrial myopathy). Infections: Brucellosis, TORCH, Epstein-Barr virus (EBV), HIV. Other inherited disorders: Neuroferritinopathy, Cockayne syndrome. Radiation. Chemotherapy. Carbon monoxide poisoning. Lead poisoning.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp2_img1_fc6afa48.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "Patients with which of the following conditions are likely to have calcified lesions on CT head?",
+      "options": {
+        "A": "2, 4 and 5 only",
+        "B": "3, 4 and 5 only",
+        "C": "4 and 5 only",
+        "D": "1, 2, 3 and 5 only"
+      },
+      "correct_answer": "D",
+      "explanation": "Craniopharyngiomas, ependymomas, oligodendrogliomas, and chordomas are associated with calcification. Commonly calcified lesions are: • Oligodendrogliomas (90%) • Choroid plexus tumors • Ependymoma • Central neurocytoma • Meningioma • Craniopharyngioma • Teratoma • Chordoma. Commonly hemorrhagic lesions include: • Glioblastoma multiforme (grade 4 glioma) • Oligodendroglioma. Metastases: Melanoma, lung, and breast.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "A cystic lesion in the suprasellar region with calcification is seen on the MRI. What is themost likely diagnosis?196",
+      "options": {
+        "A": "Craniopharyngioma",
+        "B": "Pituitary adenoma",
+        "C": "Meningioma",
+        "D": "Oligodendroglioma"
+      },
+      "correct_answer": "A",
+      "explanation": "A cystic lesion in the suprasellar region with calcification is suggestive of craniopharyngioma. It isderived from Rathke's pouch and arises near the pituitary stalk, commonly extending into the211suprasellar cistern.Other options:Option B: Pituitary adenomas are seen in the sellar region. Microadenomas are best shown oncontrast-enhanced images. Macroadenomas are seen as snowman or figure of eight appearance.Snowman appearance-Pituitary adenomaOption C: Meningioma is a supratentorial tumor, mainly in the parasagittal region. A classicaldural tail may be seen in intracranial meningiomas but is not pathognomic. The MRI image belowshows a well-defined, hyper-intense, and homogeneously enhanced mass close to the midlinesuggestive of meningioma.Option D: Oligodendroglioma is exclusively found in the cerebral hemispheres, most commonly inthe frontal lobes. Upto 90% of oligodendrogliomas contain visible calcification on CT. The CTimage below shows a calcified cortical mass that suggests oligodendroglioma.212",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q4_img1_aa8bebd8.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp4_img1_7294f46f.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "Bracket calcification on skull X-Ray is seen in which of the following conditions?",
+      "options": {
+        "A": "Tuberous sclerosis",
+        "B": "Sturge Weber syndrome",
+        "C": "Lipoma of corpus callosum.",
+        "D": "Meningioma"
+      },
+      "correct_answer": "",
+      "explanation": "Lipoma of the corpus callosum shows bracket calcification on skull X-ray.Intracranial lipomas are most commonly located in the midline and are commonly associated withcongenital malformations such as agenesis/dysgenesis of the corpus callosum. Pericallosal lipomasare classified into anteriorly located bulky tubulo-nodular type and posteriorly located ribbon-likecurvilinear type. Imaging is the mainstay in the diagnosis of intracranial lipoma.The image below shows bracket calcification:Bracket calcification in lipoma ofcorpus callosumOther options:Option A: Tuberous sclerosis shows calcification of subependymal hamartomas in the wall of theventricles.213Option B: Sturge Weber syndrome shows tram track calcification.Option D: Meningioma on X-ray shows calcification hyperostosis and increased vascularmarkings, it is usually seen in the falx.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp5_img1_4739ab80.png",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the probable diagnosis based on the image of the scan given below?197W 982 L 478",
+      "options": {
+        "A": "Pituitary apoplexy",
+        "B": "Pituitary macroadenoma",
+        "C": "Rathke cleft cyst",
+        "D": "Craniopharyngioma"
+      },
+      "correct_answer": "D",
+      "explanation": "The given MRI of the brain demonstrates a craniopharyngioma, which is a suprasellar tumourthat arises from remnants of Rathke's pouch.The two variants of craniopharyngioma are:• Adamantinomatous type (common in children): Predominantly solid with cystic components.Diagnostic features include compact lamellar keratin (\"wet keratin\") and areas of dystrophiccalcification.•• Papillary type (common in adults): Contains both solid sheets and papillae lined bywell-differentiated non-keratinized squamous epithelium.These tumours are usually large and heterogeneous, displaying solid and cystic components. Thecysts contain a cholesterol-rich, thick brownish-yellow fluid that is compared to 'machine oil'.Clinical features include headaches (most common), visual abnormalities - decreased acuityand bitemporal hemianopia, GH deficiency, growth failure, delayed sexual maturation due topituitary hypofunction, and polyuria (central diabetes insipidus).Radiologically:•CT may show calcifications associated with the solid and cystic wall components• MRI is the imaging modality of choice which shows:Craniopharyngiomas tend not to expand the pituitary fossa unless they become huge, which is adifferentiating feature from pituitary macroadenomas.Other options:Option A: Pituitary apoplexy is an acute clinical condition associated with the rapid expansion ofthe pituitary gland, which is evident on an MRI as enhancement around a non-enhancinginfarcted centre.Option B: Pituitary macroadenoma (with cystic degeneration or necrosis) shows indentation at thediaphragma sellae, giving rise to a snowman/figure of eight appearance/cottage loaf. Calcificationis often absent. The image below shows the snowman appearance:CystsT1T2Solid componIso to hyperintense to the brain (due to high protein content \"machinery oil cysts\")Mostly hyperintenseent214CystsT1Vivid enhancementT2Variable or mixedSnowman appearance-Pituitary adenomaOption C: Rathke cleft cyst shows no solid or enhancing component. Calcification is rare. It isunilocular and the majority are completely or mostly intrasellar.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q6_img1_e8648019.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp6_img1_420fde66.png",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "A 7-year-old boy is brought to the pediatric OPD by his parents with a history of headache,dizziness, and unsteady gait. Based on the provided scan image, what is the most likelydiagnosis?",
+      "options": {
+        "A": "Astrocytoma198",
+        "B": "Medulloblastoma",
+        "C": "Ependymoma",
+        "D": "Craniopharyngioma"
+      },
+      "correct_answer": "B",
+      "explanation": "The given MRI is suggestive of medulloblastomas. It is the most common malignant brain tumorof childhood, and it occurs exclusively in the cerebellum. Irrespective of their histological orgenetic characterization, medulloblastomas correspond histologically to WHO grade IV tumors.Radiological findings include:•CT &amp; MRI: CT shows a hyperdense midline vermian mass adjoining the roof of the 4thventricle and causing hydrocephalus. MRI shows T2 hypointensity or isointensity compared to thegrey matter. The CT and MRI findings also reflect the increased nuclear-to-cytoplasmic ratio anddensely packed cells of the tumor.• DWI: restricted diffusion• MR spectroscopy: reduced N-acetyl aspartate (NAA) peak with an increased choline-to-creatineratio.The CT and MRI findings, supported by the presence of restricted diffusion on DWI, are the mostreliable observations in differentiating medulloblastoma from ependymoma or other posteriorfossa tumors.Standard treatment for medulloblastomas includes surgical resection, with adjuvant craniospinalradiotherapy for those over 3 years of age and chemotherapy.Other options:215Option A: Pilocytic astrocytoma is a brain tumor that occurs more often in children and youngadults. These tumors are usually slow-growing and benign. The majority of neoplasms are locatedin the cerebellum. However, they can also appear around the third ventricle, optic nerves, spinalcord, and occasionally in the cerebral hemispheres. Mural nodule, a contrast medium enhancingnodule within the wall of a cystic mass, is seen on MRI.Option C: Ependymomas are tumours that arise from the ependyma-lined ventricular system,typically on the floor of the fourth ventricle. In adults, the spinal cord is their most commonlocation; tumors in this site are particularly frequent in the setting of neurofibromatosis type 2.They are well-demarcated lobulated mass lesions that show calcifications on CT in over 50% andare of mixed signal intensity on MRI.Option D: Craniopharyngiomas are tumors that arise from the remnants of Rathke's pouch. It isan intracranial space-occupying lesion. It has a bimodal age of presentation. These tumors areusually large and heterogeneous, displaying both solid and cystic components, and occur withinthe suprasellar area. The cysts contain a cholesterol-rich, thick brownish-yellow fluid and arecompared to machine oil. They also show radiologically demonstrable calcification.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q7_img1_a9dc6ce1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "A 40-year-old woman presented with recurrent headaches. MRI shows the following finding.What is the most likely diagnosis?",
+      "options": {
+        "A": "Astrocytoma",
+        "B": "Meningioma",
+        "C": "Pituitary adenoma",
+        "D": "Acoustic Schwannoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The given axial T1 MRI is suggestive of meningioma. It involves the mid-falx cerebri and is seen asa spontaneously hyperintense and homogeneously enhanced mass in the midline arising fromfalx.Meningiomas are extra-axial tumours (lesions that are outside of the brain parenchyma). They area non-glial neoplasm that originates from the meningocytes or arachnoid cap cells of themeninges and are located anywhere that meninges are found.Meningioma shows female predominance that may be related to the fact that some meningiomascontain estrogen and progesterone receptors. They are also associated with NF-2 gene mutation.Typical meningiomas appear as dural-based masses isointense to grey matter on both T1 and T2weighted imaging and demonstrate vivid contrast enhancement on both MRI and CT. CSFvascular cleft sign indicates that the mass is extra-axial. There is a cleft between the tumour andnormal brain parenchyma.The image below shows the CSF vascular cleft sign:216Dural tail sign: Refers to the linear extension of enhancement of the dura, beyond the segment onwhich the tumor is based. The image is an axial T1W spin-echo MRI of the brain with contrastenhancement showing dural tail (arrow) in meningioma (arrowhead).A",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q8_img1_15160957.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp8_img1_15e88167.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following findings would you not see on the skull X-ray of a patient withmeningioma?",
+      "options": {
+        "A": "Calcification",
+        "B": "Hyperostosis",
+        "C": "Increased vascular markings",
+        "D": "Erosion199"
+      },
+      "correct_answer": "D",
+      "explanation": "Erosion is not an X-ray feature of meningioma.. Skull X-ray findings in meningioma are:• Local hyperostosis - Thickening of skull bone.• Prominent frontal vascular markings - due to hypervascularity of the tumor• Calcification217The X-ray given below shows a calcified meningioma:Calcified Meningioma",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp9_img1_1d0c6fd7.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "A 65-year-old man has been experiencing worsening headaches and new-onset seizures. MRIwith contrast was done and is given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Glioblastoma",
+        "B": "Ependymoma",
+        "C": "Meningioma",
+        "D": "Acoustic schwannoma"
+      },
+      "correct_answer": "A",
+      "explanation": "The given MRI finding is suggestive of glioblastoma. Post-contrast MRI in the case ofglioblastoma multiforme, demonstrates a large heterogeneous mass that crosses the corpuscallosum into both frontal lobes.They have a preferential spreading along the condensed white matter tracts such as corticospinaltracts and corpus callosum and can give rise to the so-called butterfly glioma, to involve thecontralateral hemisphere. The term butterfly refers to the symmetric wing-like extensions acrossthe midline.There is also evidence of a previous left-sided craniotomy and biopsy tract down to the lesion.Glioblastoma multiforme - MRI findings218Glioblastoma is the second most common adult primary intracranial neoplasm. It carries theworst prognosis (WHO grade IV).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q10_img1_96cc56be.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp10_img1_d1bc1972.png",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "A 7-year-old girl presents with progressive ataxia and symptoms of increased intracranialtension, including headaches and vomiting. MR spectroscopy is performed, as shown below.Based on the findings, what is the most likely diagnosis?200R",
+      "options": {
+        "A": "Glioma",
+        "B": "Tuberculoma",
+        "C": "Canavan disease",
+        "D": "LymphomaCholineCreatineNAA"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario and the magnetic resonance (MR) spectroscopy showing a cholinepeak is diagnostic of glioma. Creatinine levels are decreased on MR spectroscopy in patients withglioma.MR spectroscopy is a non-invasive means of obtaining metabolic information. The image belowshows a normal MR spectroscopy.Normal MR Spectroscopy3.02.52.01.5MACreatineCholine1.00.5NAA4.03.53.02.52.01.51.0OMARROWOther options:Option B: Tuberculoma shows a lipid peak in MR spectroscopy.Option C: In Canavan disease, there is a marked increase in N-acetyl aspartate. Its concentrationdecreases with insults to the brain such as neoplasm, infarct, or abscess. N-acetyl aspartate (NAA)which is the most prominent resonance in a proton spectrum, is accepted as a normal neuronalfunctional marker.Option D: Increased choline reflects increased membrane synthesis and/or an increased numberof cells, as seen in lymphoma. However, lymphomas of the nervous system are very rare and seenin immunodeficient states like HIV.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q11_img1_fc344e1f.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp11_img1_6b397855.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient is found to have a cerebellopontine angle mass. The differential diagnosis caninclude all except:",
+      "options": {
+        "A": "Meningioma",
+        "B": "Acoustic schwannoma",
+        "C": "Tuberculoma",
+        "D": "Epidermoid cyst"
+      },
+      "correct_answer": "",
+      "explanation": "Tuberculoma is not a cause of cerebellopontine (CP) angle mass. The most commoncerebellopontine (CP) tumour is acoustic schwannoma (90%). Other tumours includemeningiomas and epidermoid cysts.219CP angle tumours (Mnemonic- SAME):⚫S: Schwannoma (8th nerve &gt; 5th)•A: Aneurysm, arachnoid cystM: Meningioma, metastases⚫E: Epidermoid, ependymomaThe given image shows bilateral CP angle masses (acoustic schwannomas):A",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp12_img1_d50f1fe0.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "A 60-year-old woman presented with hearing loss and tinnitus. MRI was done and showedthe following finding. What is the most probable diagnosis?201",
+      "options": {
+        "A": "Otosclerosis",
+        "B": "Meniere's disease",
+        "C": "Acoustic schwannoma",
+        "D": "Glioblastoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Based on the above clinical findings and the MRI, which reveals a cerebellopontine angle mass,the diagnosis is acoustic schwannoma(vestibular schwannoma). The extension of the mass intothe intra-canalicular portion of the internal acoustic meatus is suggestive of acoustic neuroma.This tumour is the most common mass in the cerebellopontine (CP) angle. Its extra-canalicularextension into the CP angle may create the \"ice cream cone\" appearance. Additionally, thepresence of bilateral acoustic schwannoma is highly suggestive of neurofibromatosis type 2 (NF2).MRI is the imaging modality of choice in assessing the possible vestibular schwannoma.The given image is a post-contrast T1 axial imaging demonstrating the presence of bilateralacoustic schwannomas.220AK",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q13_img1_81e1a841.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp13_img1_0e5dc7c0.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "Snowman or figure of eight appearance as shown in this MRI is seen in which of the followingconditions?",
+      "options": {
+        "A": "Ependymoma202",
+        "B": "Craniopharyngioma",
+        "C": "Vestibular Schwanomma",
+        "D": "Pituitary adenoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Snowman appearance is seen in pituitary adenoma.The image is a sagittal post-contrast MRI in a case of pituitary macroadenoma (&gt;1 cm).Indentation at the diaphragma sellae gives rise to snowman/figure of eight appearance.Snowman appearancePituitary adenomaPituitary adenoma is the most common tumor of the sellar region. Depending on their size theyare broadly classified into:• Pituitary microadenoma: &lt; 1 cm in size•Pituitary macroadenoma: &gt; 1 cm in size and usually extending superiorly.Clinical features include bi-temporal hemianopia, headache, and vomiting. Skull X-ray finding isballooning of the sella. MRI is the investigation of choice.221",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q14_img1_eecbd4cc.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp14_img1_cdb13cf7.png",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 15,
+      "question": "In which of the following conditions is the 'salt and pepper' sign observed?",
+      "options": {
+        "A": "Meningioma",
+        "B": "Schwannoma",
+        "C": "Paraganglioma",
+        "D": "Ependymoma"
+      },
+      "correct_answer": "",
+      "explanation": "The salt and pepper appearance is a highly sensitive and specific sign for head and neckparagangliomas. The \"salt and pepper\" appearance refers to the areas of subacute haemorrhage('salt') and high-velocity flow voids('pepper') seen in T1 weighted MRI of large head and neckparagangliomas.The given MRI depicts a paraganglioma demonstrating salt and pepper sign:",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp15_img1_0c5ef0e3.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 16,
+      "question": "Myelography of a patient showed expansion of the contrast-filled space. This finding is seenin which of the following conditions?",
+      "options": {
+        "A": "Intramedullary tumor",
+        "B": "Intradural extramedullary tumor",
+        "C": "Spinal dysraphism",
+        "D": "Extradural tumor"
+      },
+      "correct_answer": "B",
+      "explanation": "Expansion of the contrast-filled space in myelography is seen in intradural extramedullarytumors.The contrast in myelography is injected into the CSF space, and if the tumor is present inthe intradural extramedullary space, it leads to the widening of the CSF space on that side.Examples of such lesions include neurofibroma and meningioma. These lesions will also showa meniscus-like appearance on myelography with the contrast column.The MRI image below shows a meningioma:222Given below is an MRI image demonstrating the hyperintense mass seen in intramedullarytumors. Intramedullary lesions will lead to a 'trouser leg' appearance on myelography due to cordexpansion.☐",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp16_img1_a6f57d7a.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 17,
+      "question": "A 50-year-old woman presents with a gradual loss of visual acuity in the right eye. A CT headpost-contrast reveals thickening of the optic nerve-sheath complex with a tram-trackappearance. What is the most likely diagnosis?",
+      "options": {
+        "A": "Optic nerve sheath meningioma",
+        "B": "Optic nerve glioma",
+        "C": "Retinoblastoma",
+        "D": "Optic neuritis"
+      },
+      "correct_answer": "A",
+      "explanation": "Based on the given clinical scenario and radiologic finding, the most likely diagnosis is optic nervesheath meningioma, a benign tumour arising from the arachnoid cap cells of the optic nervesheath. It is most frequently seen in middle-aged women, with bilateral cases linked toneurofibromatosis type 2 (NF-2). Post-contrast CT or MRI show tram-track sign.The post-contrast T1 weighted axial MRI image below shows a hypoattenuating optic nervesurrounded by the peripheral enhancement of the tumour (tram-track sign):223Optic nerve glioma is intrinsic to optic nerve, commonly seen in children, often associated withneurofibromatosis type 1 (NF-1). It presents as fusiform enlargement of the optic nerve onimaging. The tram-track sign is useful in differentiating between optic nerve sheath meningiomaand optic nerve gliomas.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp17_img1_8a96ca42.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 18,
+      "question": "203A 50-year-old male presented with cognitive deficit, involuntary hand and finger movements,and muscle incoordination. The MRI image is given below. What is the probable diagnosis?",
+      "options": {
+        "A": "Huntington's disease",
+        "B": "Wilson's disease",
+        "C": "Creutzfeldt-Jakob disease",
+        "D": "Parkinson's disease"
+      },
+      "correct_answer": "",
+      "explanation": "Based on the above clinical scenario and coronal T1-weighted MRI findings of bilateral caudatenuclei atrophy with compensatory lateral ventricle dilatation(\"boxcar ventricles\"), the likelydiagnosis is Huntington's disease.This autosomal-dominant neurodegenerative disorder, caused by a CAG trinucleotide repeatexpansion in the huntingtin (HTT) gene on chromosome 4p, typically affects young adults and ischaracterised by choreiform movements, psychiatric disturbances, and progressive dementia.Huntington's disease MRI findingsDilated ventriclesAtrophiedcaudate nuclei224",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q18_img1_16a7533f.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp18_img1_583ac103.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 19,
+      "question": "A 25-year-old man presented with personality changes, abnormal movements, jaundice andpruritus. MRI of the brain was taken and is given below. What is the probable diagnosis?0.359 mm204",
+      "options": {
+        "A": "Wilson's disease",
+        "B": "Huntington's disease",
+        "C": "Hemochromatosis",
+        "D": "Sarcoidosis"
+      },
+      "correct_answer": "A",
+      "explanation": "The image given is an axial FLAIR MRI of a patient with Wilson's disease having the face of thegiant panda appearance.Wilson's disease is a rare, autosomal recessive disorder characterized by excessive deposition offree copper in tissues. It is due to a loss of function mutation of the ATP7B gene. It is also knownas hepatolenticular degenerative disease.MRI brain in advanced disease with neurological manifestations can show the following:•Giant panda face sign: Hypointense superior colliculus (chin and mouth of panda), thehyperintense area around the tegmentum of the midbrain (eyes of panda), and normal substantianigra (ears of panda).•Bright claustrum sign: Thin rim of a hyperintense area in the claustrum with normal putamen.• Mercedes-Benz/trident sign: Hyperintense pons trisected by a hypointense line.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q19_img1_07140d10.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp19_img1_9a1ef56c.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 20,
+      "question": "A 35-year-old woman presented with tingling and numbness of upper and lower limbextremities. The MRI image is shown below. What is the diagnosis?mage size 26View size 507×507WL 1248 WW 28161238OR ROUTINE-11-SAG 12 FL134",
+      "options": {
+        "A": "Wilson's disease",
+        "B": "Multiple sclerosis",
+        "C": "Multiple system atrophy",
+        "D": "Progressive multifocal leukoencephalopathy12-91601226 TR &"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, the symptoms of tingling and numbness of both limbs, along with the brainMRI showing ovoid hyperintense demyelinating plaques with their long axis perpendicular to theventricular and callosal surface known as Dawson fingers, characteristic of multiple sclerosis(MS).MS is an autoimmune disease that primarily affects the white matter of the central nervoussystem, causing inflammation, demyelination, axonal damage and neurodegeneration. Itpredominantly affects women aged 20-40 years and typically follows a relapsing-remitting course,although progressive forms can also occur. The clinical presentation varies depending on the225affected location, with common symptoms including paresthesia, visual disturbances (such asoptic neuritis), motor weakness and ataxia. Dawson fingers are best visualized on FLAIR imagingand represent demyelination and oligodendrocyte loss, accompanied by astroglial scarring.The following MRI image depicts Dawson fingers arranged at right angles along medullary veins(callososeptal location).View size 507-507WL 1248 WW 2815OR FOUTINE-11-SAG 12 FLLoom 22.15 AD12-91601226 TR 80",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q20_img1_c92defee.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp20_img1_992135ab.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 21,
+      "question": "The hot cross bun sign on MRI would be seen in patients with which of the followingconditions?",
+      "options": {
+        "A": "Multiple system atrophy type C",
+        "B": "Multiple system atrophy type P",
+        "C": "Progressive supranuclear palsy205",
+        "D": "Bovine spongiform encephalopathy"
+      },
+      "correct_answer": "A",
+      "explanation": "The hot cross bun sign on MRI, characterised by cruciform pontine hyperintensity due to selectiveneuronal loss of the transverse pontocerebellar fibres, is most commonly observed in patientswith multiple system atrophy-cerebellar type (MSA-C).Multiple system atrophy (a type of synucleinopathies) is a neurodegenerative disorder withvarying degrees of involvement of the basal ganglia and the olivopontocerebellar complex.Autonomic dysfunction is more severe and generalised, often presenting as orthostatichypotension. MSA has been divided clinically into two forms according to the dominantnon-autonomic symptoms:• MSA-C: Predominance of cerebellar symptoms (olivopontocerebellar atrophy)• MSA-P: Predominance of Parkinsonian signs and symptoms (striatonigral degeneration)MRI is a valuable diagnostic adjunct, often revealing cerebellar and brainstem atrophy causingpontine hot cross bun sign.The axial T2-weighted image at the level of middle cerebellar peduncles below shows the hot crossbun sign:226AOther options:Option B: Multiple system atrophy-parkinsonian type (MSA-P) is characterised by atypicalparkinsonism that is symmetrical and predominantly axial, with tremors less prominentcompared to Parkinson's disease. MRI typically reveals hyperintensities along the lateral aspect ofthe putamina, and T2-weighted imaging may demonstrate hypointensity in the striatum due toiron deposition. Although not exclusive to MSA, the hot cross bun sign is more commonly seen inMSA-C than in MSA-P.Option C: Progressive supranuclear palsy (PSP) is a form of atypical parkinsonism characterizedby slow ocular saccades, eyelid apraxia, and restricted vertical eye movements with downward.gaze palsy. Patients also have hyperextension of the neck with gait disturbances and frequent falls.MRI may reveal characteristic atrophy of the midbrain with normal pons, which is called ahummingbird sign.Hummingbird sign227",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 22,
+      "question": "Owl's eye sign on T2 MRI is seen in which of the following conditions?",
+      "options": {
+        "A": "Tuberculous meningitis",
+        "B": "Multiple system atrophy type C",
+        "C": "Progressive supranuclear palsy",
+        "D": "Central pontine myelinolysis"
+      },
+      "correct_answer": "D",
+      "explanation": "Owl's eye sign is one of the characteristic findings on T2 MRI in central pontine myelinolysis.Central pontine myelinolysis, also known as osmotic demyelination syndrome, is anon-inflammatory demyelinating disorder of the white matter tracts, commonly involving thepons. It typically occurs following rapid correction of severe hyponatremia, resulting in hypertonicstress in astrocytes within the brain, causing demyelination without inflammation at the base ofthe pons, with relative sparing of axons and nerve cells.Clinically, patients present one or more days after the overcorrection of hyponatremia withparaparesis or quadriparesis, diplopia, a “locked-in syndrome,\" dysphagia, and dysarthriawith/without loss of consciousness.MRI is useful in establishing the diagnosis. Owl's eye appearance on T2 MRI is seen due tosparing of the peripheral pontine fibres and the descending corticospinal tracts. The same findingis known as the 'face of a monkey' appearance in T1 MRI. Other signs seen in this conditioninclude the trident sign and the pig snout sign, as shown below:trapontiC) unwill”8signTridentSnout sign",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp22_img1_f6adeb09.png",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 23,
+      "question": "During MRI brain scan of a patient, the radiologist notices the absence of swallow tailappearance. What is the likely diagnosis?",
+      "options": {
+        "A": "Wilson's disease",
+        "B": "Progressive supranuclear palsy",
+        "C": "Multiple systems atrophy",
+        "D": "Parkinson's disease"
+      },
+      "correct_answer": "D",
+      "explanation": "The absence of the swallow tail sign is suggestive of Parkinson's disease.The swallow tail sign describes the normal axial imaging appearance of nigrosome-1 within thesubstantia nigra on a high-resolution T2/SWI weighted MRI.Other options:Option A: Wilson's disease is a rare, autosomal recessive disorder characterized by excessivedeposition of free copper in tissues. It is due to a loss of function mutation of the ATP7B gene. Itis also known as hepatolenticular degenerative disease.MRI brain in advanced disease with neurological manifestations can show giant panda face sign(as shown below), which is hypointense superior colliculus (chin and mouth of panda), the228hyperintense area around the tegmentum of the midbrain (eyes of panda), and normal substantianigra (ears of panda).Option B: Progressive supranuclear palsy is a neurodegenerative disease characterized by atrophyof structures at the midbrain-diencephalic junction (e.g., superior colliculi, red nuclei,subthalamic nuclei, and globus pallidus) and cerebellum (dentate nuclei), and mild corticalatrophy. MRI shows a hummingbird sign (atrophy of midbrain structures with a relatively intactpons region).Hummingbird signOption C: Multiple system atrophy (MSA) is a type of atypical Parkinson's disease. Along with thefeatures of Parkinson's disease, they also have cerebellar and autonomic features. MSA ischaracterized by the presence of degeneration in the striatum, cerebellum, and inferior olivarynuclei coupled with characteristic glial cytoplasmic inclusions.The below MRI image shows a hot cross bun sign (arrow) due to severe atrophy of pons seen inmultiple system atrophy-c.229&W 808 L 471",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q23_img1_8abaea01.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 24,
+      "question": "A 28-year-old man presented with a headache and new-onset seizures. There is history ofconsumption of pork. MRI was taken and given below. What is the most likely diagnosis?206",
+      "options": {
+        "A": "Neurocysticercosis",
+        "B": "Tuberculoma",
+        "C": "Primary CNS lymphoma",
+        "D": "Brain abscess"
+      },
+      "correct_answer": "A",
+      "explanation": "The above clinical presentation, along with the MRI brain showing a cyst with a dot sign(representing an eccentrically placed scolex within a parasitic cyst), is characteristic ofneurocysticercosis.Neurocysticercosis is the most common form of cysticercosis and is caused by encysted larvae ofthe pork tapeworm Taenia solium. This CNS infection typically occurs through the consumptionof food or water contaminated with human feces containing Taenia eggs or via the ingestion ofundercooked pork. It can affect the brain parenchyma, subarachnoid space and ventricles.Clinically, it presents with seizures and symptoms of increased intracranial pressure (headache,nausea, vomiting, vision changes), dizziness, ataxia, confusion or signs of meningeal irritation.Parenchymal neurocysticercosis can be categorised into four stages -vesicular, colloidal vesicular,granular nodular, and nodular calcified. These stages are readily identified on MRI or CT,depending on the lesion's progression. It is characterised by cystic lesions with or without ringenhancement, focal enhancing lesions, nodular calcifications or multilobulated cystic lesions inthe subarachnoid space.Viable parasites appear as cystic lesions with a scolex, often visible on MRI, while calcified,non-viable cysts are more effectively identified on CT.Differential diagnoses for ring-enhancing lesions include brain abscess, toxoplasmosis, centralnervous system lymphoma, tuberculoma.Other options:Option B: Tuberculomas (parenchymal granulomas) can mostly occur at the junction of white andgrey matter. On CT, they appear as small rounded lesions, solid lesions show homogenousenhancement on contrast CT and show ring enhancement when central caseation or liquefactionoccurs. MRI brain shows &gt;20mm, conglomerate or lobulated irregular shape, ring-enhancinglesion.230MAGNETOM ESSENaLHDU NKL NKUOption C: Primary CNS lymphoma is more common in immunocompromised individuals, thoughits incidence in HIV patients has decreased with anti-retroviral therapy. Imaging typically showssingle or multiple lesions with contrast enhancement, which is uniform in immunocompetentpatients and ring-like those who are immunosupressed. Notably, EBV-associated cases inimmunocompetent individuals may show rim enhancement.Option D: Brain abscess typically presents as a triad of fever, focal neurological deficits and signsof raised intracranial pressure. It is usually seen with a predisposing condition such as cyanoticheart disease, infected sinuses, middle ear or tooth infection, bacterial meningitis andimmunodeficiencies. Common causative organisms include streptococci, gram-negative anaerobicbacilli, enterobacteriaceae, and staphylococcus aureus.The below MRI shows a ring-enhancing lesion, suggestive of brain abscess.231",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q24_img1_3ace13e3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 25,
+      "question": "laWhich of the following may not present with a ring-enhancing lesion on imaging?",
+      "options": {
+        "A": "Tuberculoma",
+        "B": "Toxoplasmosis",
+        "C": "Brain abscess",
+        "D": "Primary CNS lymphoma"
+      },
+      "correct_answer": "D",
+      "explanation": "CNS lymphomas are usually homogenously enhancing solid lesions. However, in the setting ofHIV-infected/immunocompromised states, lymphomas may show ring-like enhancement.In India, neurocysticercosis and tuberculomas are the commonest causes of a ring-enhancinglesion on brain imaging.Ring-enhancing brain lesions can be caused by the following conditions:• Neurocysticercosis• Tuberculoma• Cerebral abscess• Metastasis•Toxoplasmosis• Subacute infarct /hemorrhage/contusion• Demyelination (incomplete ring)• Tumefactive demyelinating lesion (incomplete ring)• Radiation necrosis• Postoperative changeThe image below shows ring enhancement in brain abscess:The image below shows ring enhancement in glioblastoma:232",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp25_img1_406f166a.jpeg",
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 26,
+      "question": "The given MRI finding is seen in which of the following conditions?C",
+      "options": {
+        "A": "Sporadic Creutzfeldt-Jakob disease",
+        "B": "Variant Creutzfeldt-Jakob disease",
+        "C": "Familial Creutzfeldt-Jakob disease",
+        "D": "Iatrogenic Creutzfeldt-Jakob disease207"
+      },
+      "correct_answer": "A",
+      "explanation": "The given MRI shows the cortical ribbon sign, which is seen in sporadic CJD. This sign refers tothe ribbon-like signal hyperintensity of cerebral cortical gyri.Creutzfeldt-Jakob disease (CJD) is a spongiform encephalopathy caused by prions. Theabnormally folded prion protein (PrPSc) accumulates as plaques, causing degeneration ofsurrounding neuronal and glial tissue with intracellular vacuoles, leading to the characteristicspongiform encephalopathy. Clinically, it is characterised by rapidly progressive dementia,myoclonus, akinetic mutism, and cerebellar or visual disturbances.Subtypes of CJD and imaging features:Sporadic CJD (sCJD): The most common type, showing cortical ribboning and basal gangliahyperintensities on DWI/FLAIR.•• Variant CJD (vCJD): Linked to mad cow disease and Kuru, showing a 'hockey stick' sign on MRI(hyperintensity in the pulvinar region of the thalamus).• Familial CJD (fCJD): Linked to PRNP gene mutations, showing hyperintensities in the caudateand putamen nuclei on MRI.• Iatrogenic: Caused by prion-contaminated materialsEEG shows characteristic periodic triphasic or polyphasic sharp wave complexes seen as spikes orspike-wave patterns. CSF is predominantly normal but may show a positive assay for 14-3-3protein.Management is mainly supportive as the disease is usually fatal within a year of the onset ofsymptoms.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q26_img1_ac4c7ad6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 27,
+      "question": "A T2 weighted MRI was done for a child who presented with delayed milestones. It showedhyperintensity in frontal white matter with bilateral and symmetrical involvement. What isthe likely diagnosis?",
+      "options": {
+        "A": "Canavan disease",
+        "B": "Alexander's disease",
+        "C": "X linked adrenoleukodystrophy",
+        "D": "Metachromatic leukodystrophy"
+      },
+      "correct_answer": "B",
+      "explanation": "233The T2-weighted MRI findings suggest Alexander disease, showing hyperintensity in the frontalwhite matter with bilateral symmetrical involvement.Alexander disease is a type of dysmyelinating disease that typically progresses posteriorly toinvolve the parietal white matter and internal and external capsules, often accompanied by theformation of cysts.Dysmyelinating diseases, or leukodystrophies, are inherited neurodegenerative disorders thataffect the integrity of myelin in the brain and peripheral nerves.Other examples of dysmyelinating diseases include:• Metachromatic leukodystrophy:• Late infantile (most common), juvenile, and adult types.• Symmetric confluent areas of T2 hyperintensity in the periventricular white matter.• Radiating T2-hypointense lines through the demyelinated deep white matter represent thesparing of the perivascular white matter. This results in the tigroid and leopard skin patternswhen imaged in the long axis or cross-section, respectively.• X-linked adrenoleukodystrophy: Affects the white matter of the central nervous system, adrenalcortex, and testes.• Canavan disease: Spongiform leukodystrophy (extensive vacuolization of subcortical whitematter).•MELAS Syndrome: Mitochondrial encephalomyopathy with lactic acidosis and stroke-likeepisodes.The following image shows the areas of hyperintensities noted in each of these conditions:234",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "chapter": "Nephroradiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The given IVP picture is seen in patients with which of the following?",
+      "options": {
+        "A": "Horseshoe kidney",
+        "B": "Medullary sponge kidney",
+        "C": "Duplicated collecting system",
+        "D": "Retrocaval ureter"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q1_img1_06a99fb1.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp1_img1_e4b35a1f.png",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 2,
+      "question": "During intravenous pyelography of a patient, the left kidney could not be visualized. Whatcondition is this suggestive of?",
+      "options": {
+        "A": "Duplicated collecting system",
+        "B": "Polycystic kidney disease",
+        "C": "Multicystic dysplastic kidney",
+        "D": "Renal hypoplasia"
+      },
+      "correct_answer": "C",
+      "explanation": "Non-visualization of the kidney on IVP is seen in the case of multicystic dysplastic kidney(MCDK).MCDK is a form of renal dysplasia characterized by multiple, non-communicating cysts of varyingsizes, separated by dysplastic parenchyma, with the absence of a normal pelvicalyceal system. Itresults from a developmental abnormality due to failure of the renal mesenchyme to unite withthe ureteric bud. This condition is associated with ureteral or ureteropelvic atresia, and theaffected kidney is non-functional.Most cases of MCDK are detected antenatally through ultrasonography. In some cases, the cystsidentified prenatally may regress in utero, resulting in the affected kidney being undetectable onimaging at birth. Renal ultrasonography is the initial investigation of choice. It reveals a soapbubble appearance. Bilateral MCDK can lead to pulmonary hypoplasia and Potter syndrome.The following image shows a non-visualized right kidney (red arrow).336RLOther options:Option A: In the duplicated collecting system, the drooping lily sign is seen. It refers to theinferolateral displacement of the opacified lower pole moiety due to an obstructed (andun-opacified) upper pole moiety.Option B: In polycystic kidney disease, a streaky appearance is seen due to ectatic collecting ducts.Option D: In renal hypoplasia, there is a congenitally small kidney with smaller calyces, lobules,and papillae but essentially normal residual parenchyma. On imaging, a hypoplastic kidney issmall but otherwise normal.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp2_img1_e1a994e1.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 3,
+      "question": "320During the evaluation of a patient with recurrent UTIs, the following urographic finding wasobserved. What is the likely diagnosis?RT10M N",
+      "options": {
+        "A": "Horseshoe kidney",
+        "B": "Medullary sponge kidney",
+        "C": "Duplicated collecting system",
+        "D": "Retrocaval ureter"
+      },
+      "correct_answer": "C",
+      "explanation": "The given intravenous urogram shows the inferolateral displacement of the opacified lower poledue to an obstructed (and unopacified) upper pole, referred to as the drooping lily sign, observedin patients with a duplicated collecting system.The duplicated collecting system is a common congenital anomaly of the urinary tractcharacterized by an incomplete fusion of upper and lower pole moieties resulting in a variety ofcomplete or incomplete duplications of the collecting system. It occurs due to the division of theureter as it ascends upwards from the bladder to the renal parenchyma during the embryologicalperiod of life. As a result, the affected individual may have two collecting systems for one kidney.Duplex collecting systems may also be complicated by vesicoureteric reflux, obstruction orureterocoele. When the upper pole ureter is obstructed, the lower pole collecting system appearsdisplaced and stretched on imaging, creating the \"drooping lily\" sign observed in intravenousurography.The Weigert-Meyer law describes the relationship of the upper and lower renal moieties induplicated collecting systems to their drainage. When there are abnormalities associated withduplicating collecting systems,• The upper pole moiety drains inferomedially and is most commonly associated with obstruction.337• The lower pole moiety drains superolaterally and is most commonly associated withvesicoureteral reflux.The illustration given below shows the Weigert-Meyer law.Duplicated collecting systemWeigert-Meyer lawRightMMARLeftMARROWUpperpole ureterLowerpole ureterOpening of ureterfrom left inferiorrenal pelvisOpening of ureterfrom left superiorrenal pelvis",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q3_img1_2ff97d3e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp3_img1_d531b18e.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not an IVP finding in patients with renal papillary necrosis?",
+      "options": {
+        "A": "Lobster claw sign",
+        "B": "Forniceal excavation",
+        "C": "Signet ring",
+        "D": "Ball and socket sign"
+      },
+      "correct_answer": "D",
+      "explanation": "The ball on tee sign is seen in renal papillary necrosis, not ball and socket.Renal papillary necrosis refers to ischemic necrosis of the renal papillae. It can be acute orchronic. Calyceal or ureteral obstruction by sloughed papillae manifests with flank pain,haematuria, and renal impairment. The common causes include analgesic abuse (phenacetin,NSAIDs, paracetamol: especially in combination), diabetes mellitus, sickle cell disease,pyelonephritis (especially in children) and obstruction.The image given below shows the following signs of renal papillary necrosis.MinorMajorRonal papillary necrosisContrast filling in the central sa Tation of the maiyaClubbing/blunting of oalyoClubbing of only due to slouanima of the papillaMARROW338PyramidPapillatornissaMinoronlyK",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp4_img1_d7e2190a.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 5,
+      "question": "A diabetic patient presents with acute onset fever and dysuria. Urinalysis reveals plenty ofleukocytes with glycosuria. A CT scan of the abdomen is performed, as shown below. What isthe most likely diagnosis?32112550RA222mm6204SE:2IM:4012:25:43PLAIN ABDW 350:L 40P187CT Abdomen-Pelvis",
+      "options": {
+        "A": "Acute pyelonephritis",
+        "B": "Emphysematous pyelonephritis",
+        "C": "Perinephric abscess",
+        "D": "Renal abscess"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical scenario, along with the CT scan showing an enlarged kidney with areas of necrosisand mottled areas of gas collection, is suggestive of left-sided emphysematous pyelonephritis.Emphysematous pyelonephritis is a severe, acute, necrotizing infection of the kidney caused bygas-producing organisms. It predominantly affects diabetic patients who are particularlysusceptible due to their hyperglycemic state, which promotes bacterial growth and fermentation.The most common causative organism is Escherichia coli, which ferments sugar to producecarbon dioxide, leading to gas accumulation within renal parenchyma or perinephric tissues. Lesscommonly, organisms like Klebsiella and Proteus species can also cause this condition.Almost all patients present with fever, vomiting and flank pain. Patients frequently present withsepsis and ketoacidosis. If not treated early, it may lead to fulminant sepsis and is associated withhigh mortality.The diagnosis is primarily established radiographically, with a CT scan being the investigation ofchoice in identifying the extent of the emphysematous process and guiding management. Thefollowing diagnostic features are seen:•Enlarged, destructed renal parenchyma.Small bubbly or linear streaks of gas•Fluid collections, with gas-fluid levels• Focal necrotic areas with or without abscess",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q5_img1_ee1c8e46.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 6,
+      "question": "The CT nephrogram of a patient with loin pain is given below. All of the following can beincluded in the differential diagnoses except:",
+      "options": {
+        "A": "Acute pyelonephritis322",
+        "B": "Autosomal recessive polycystic kidney disease",
+        "C": "Autosomal dominant polycystic kidney disease",
+        "D": "Acute renal vein thrombosis"
+      },
+      "correct_answer": "",
+      "explanation": "The given image shows linear bands of contrast extending from the medulla of the kidney towardsthe cortex of the kidney, called a striated nephrogram seen on plain film and CT nephrography.Autosomal dominant polycystic kidney disease (ADPKD) shows swiss cheese nephrogram, notstriated nephrogram.Conditions which show striated nephrogram include:• Unilateral:• Acute ureteric obstruction• Acute pyelonephritis• Acute renal vein thrombosis• Acutely following renal contusion•• Acute radiation therapy to the kidney• Bilateral:•• Autosomal recessive polycystic kidney disease (ARPKD)339• Acute pyelonephritis (if it is bilateral)• Acute tubular obstruction• Acute tubular necrosis• Hypotension",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q6_img1_c942d2e7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient is undergoing a nephrogram. Two minutes after administering the contrast, bothkidneys are visualized. After 10 minutes of contrast administration, only the left kidney isvisualized. What is the likely diagnosis?",
+      "options": {
+        "A": "Acute ureteric obstruction",
+        "B": "Hydronephrosis",
+        "C": "Acute complete arterial obstruction",
+        "D": "Polycystic kidney disease"
+      },
+      "correct_answer": "A",
+      "explanation": "This clinical scenario describes visualization of the left kidney with contrast after 10 minutes, eventhough contrast has washed off from the right side. Retention of the IV contrast agent by thekidneys for &gt;3 minutes is called a dense persistent nephrogram. It can be caused by acuteureteric obstruction.Hydronephrosis (chronic obstruction) and acute complete arterial obstruction shows a rimnephrogram.The following image shows a bilateral dense persistent nephrogram:",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp7_img1_4a0f94fa.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the earliest radiographic finding in patients with genitourinary tuberculosis?",
+      "options": {
+        "A": "Moth eaten calyces",
+        "B": "Golf ball on tee sign",
+        "C": "Lobster claw sign",
+        "D": "Ring sign"
+      },
+      "correct_answer": "A",
+      "explanation": "Moth-eaten calyces are the earliest finding in a patient with genitourinary tuberculosis, seen onintravenous pyelography. It refers to the ragged, feathery calyceal outline due to irregular erosionsof the calyx.This appearance is due to necrotizing papillitis, which further progresses to form medullarycavities that eventually communicate with the collecting system.Genitourinary tuberculosis is caused by the dissemination of the organism through thebloodstream and is thus, always a secondary TB. There is either reinfection or reactivation of oldTB. It can affect the kidneys, ureters, urinary bladder, prostate, seminal vesicles, epididymis, and340vas deferens.Lesions caused by tuberculosis in the kidney include:• Papillary ulcer - earliest lesion.•• Pyonephrosis - caused by multiple scattered papillary ulcers undergoing caseous necrosis, whichlater become filled with pus.•-Perinephric abscess by extension of pyonephrosis or tuberculous renal abscess.• Pseudocalculi - occurs when calcium gets deposited in a papillary ulcer healed with fibrosis.•Ghost calyces caused by the destruction of the calyces.• Putty/cement kidney: Amorphous dystrophic calcification eventually involves the entire kidney(seen in X-ray and CT).The illustration below shows the lesions caused by tuberculosis in the urinary tract, followed by anIVP depicting moth-eaten calyces.Moth eatencalyxTuberculosis of the urinary tractParenchymalcalcificationCorticalscarringCentralpapillarynecrosisHiked-uppelvisMARRBeaded ureterOMARROW341Cortical abscesswith rupture into theperinephric spaceCaseous massUreteral strictureThickened bladder wall(Thimble bladder)Urethral strictureThe given image shows the signs of renal papillary necrosis.MinorMajorRonalJejdedfilling in the centrai nuoEsasentation of the salysaai tornicesto sloughina of the papillaD MARROVAVAHenaiPapillanMinoronly",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp8_img1_51e0c601.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 9,
+      "question": "A 59-year-old man was referred for abdominal pain and sterile pyuria. He was diagnosed withtuberculosis 10 years ago but was non-adherent to treatment. What is the most sensitiveimaging modality for his current presentation?",
+      "options": {
+        "A": "CT intravenous pyelogram",
+        "B": "Bladder ultrasound",
+        "C": "Non contrast CT",
+        "D": "MRI"
+      },
+      "correct_answer": "A",
+      "explanation": "Sterile pyuria in a patient with history of tuberculosis raises suspicion of renal tuberculosis. Themost sensitive imaging modality for diagnosing renal tuberculosis is CT Intravenous Pyelogram.Renal tuberculosis occurs due to hematogenous dissemination of Mycobacterium tuberculosis,making it a secondary infection. There is either reinfection or reactivation of old TB. It is morecommon in males and typically presents with symptoms such as increased urinary frequency,polyuria, dysuria, hematuria, loin pain/suprapubic pain and sterile pyuria.In sterile pyuria, urine appears pale and opalescent due to the presence of pus cells. Renal TB is acause of sterile pyuria. Diagnosis is confirmed with a tuberculin test, or at least 3 consecutiveearly-morning urine specimens are examined for acid-fast bacilli. They are stained with aZiehl-Neelsen stain and subsequently cultured.The most sensitive imaging modality in renal tuberculosis is CT urography/pyelography. NCCT isthe preferred means of visualizing renal calcifications. Manifestations of renal TB as seen on CTare as follows:•Early changes:•Papillary necrosis (single or multiple) and uneven caliectasis• Progressive changes:• Multifocal strictures in any part of the collecting system• Generalized or focal hydronephrosis• Mural thickening and enhancement• Poorly enhancing renal parenchyma, either due to direct involvement or due to hydronephrosis• End-stage:342• Progressive hydronephrosis results in very thin parenchyma, mimicking multiple thin-walledcysts• Amorphous dystrophic calcification eventually involves the entire kidney (known as the puttykidney), as shown below:Moth eatencalyxDAILYROUNDSTuberculosis of the urinary tractParenchymalcalcification-CorticalscarringBeaded ureterCentralpapillarynecrosisHiked-uppelvisOMARROWCortical abscesswith rupture into theperinephric spaceCaseous massUreteral strictureThickened bladder wall(Thimble bladder)Urethral stricture",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp9_img1_fb5329bc.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 10,
+      "question": "323A 29-year-old man presented with bilateral vague loin discomfort. Plain X-ray KUB was done.All of the following can cause this finding except:",
+      "options": {
+        "A": "Distal renal tubular acidosis",
+        "B": "Medullary sponge kidney",
+        "C": "Sarcoidosis",
+        "D": "Alport's syndromeDAILYROUNDS"
+      },
+      "correct_answer": "D",
+      "explanation": "The given X-ray shows coarse amorphous calcifications of both kidneys suggestive of medullarynephrocalcinosis. Alport's syndrome causes cortical nephrocalcinosis.Nephrocalcinosis refers to the presence of calcification in the renal parenchyma, with most casesaffecting the medulla and the remaining occurring in the cortex. Stippled patterns of calcificationare observed on X-rays in the cortical and medullary regions of both the kidneys due to corticaland medullary nephrocalcinosis, respectively.343Causes of medullary nephrocalcinosis include:• Distal renal tubular acidosis• Medullary sponge kidney• Hypercalcemia - including sarcoidosis• Hyperparathyroidism• HyperoxaluriaCauses of cortical nephrocalcinosis include:• Hemolytic uremic syndrome (HUS)• Graft rejection•• Acute cortical necrosis• Chronic glomerulonephritis•Alport syndrome",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q10_img1_498c87b0.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 11,
+      "question": "The renal angiographic picture of a patient is given below. What is the likely diagnosis?324",
+      "options": {
+        "A": "Fibromuscular dysplasia",
+        "B": "Renal artery thrombosis",
+        "C": "Hypertensive nephrosclerosis",
+        "D": "Renal artery aneurysm"
+      },
+      "correct_answer": "A",
+      "explanation": "The given renal angiographic image depicts the 'string of beads' sign, characterized by alternatingareas of stenoses and small aneurysms in the renal arteries. This appearance is typical offibromuscular dysplasia, a renovascular cause of secondary hypertension.Fibromuscular dysplasia is a segmental, non-atheromatous, dysplastic type of angiopathycharacterized by focal irregular thickening in medium and large muscular arteries predominantlyaffecting females. The most common subtype is medial fibroplasia. The most common sites ofinvolvement in decreasing order of frequency are as follows: Renal arteries &gt; carotid arteries&gt; peripheral (limb) arteries - most commonly iliac arteries.The typical presentation is in the young person, commonly females with new-onset hypertension.Medial fibroplasia is typically seen as a 'string of beads' appearance on CT angiography.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q11_img1_c6bddec8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 12,
+      "question": "The following appearance after injecting contrast is a feature of which of the followingconditions?",
+      "options": {
+        "A": "Tuberculosis",
+        "B": "Schistosomiasis",
+        "C": "Neurogenic bladder",
+        "D": "Bladder granuloma"
+      },
+      "correct_answer": "A",
+      "explanation": "The given X-ray KUB image shows a markedly contracted bladder wall with reduced capacitycalled a thimble bladder. It is a late complication of genitourinary tuberculosis.Tuberculous cystitis results in fibrosis and stiffening of the entire urinary bladder, leading to aninability to expand and a significant reduction in bladder capacity, as depicted in the figure. Themedical term for this feature on the intravenous urogram is a thimble bladder.Genitourinary TB is caused by the dissemination of the organism through the bloodstream and isthus always a secondary TB. There is either reinfection or reactivation of old TB. It can affect thekidneys, ureters, urinary bladder, prostate, seminal vesicles, epididymis, and vas deferens.Lesions caused by tuberculosis in the kidney include:344••Papillary ulcer - earliest lesionPyonephrosis caused by multiple scattered papillary ulcers undergoing caseous necrosis, whichlater become filled with pus• Perinephric abscess by extension of pyonephrosis or tuberculous renal abscess• Pseudocalculi - occurs when calcium gets deposited in a papillary ulcer healed with fibrosis•Ghost calyces caused by the destruction of the calyces-• Putty/cement kidney - amorphous dystrophic calcification eventually involves the entire kidney(seen in X-ray and CT)Ureteric lesions seen in genitourinary tuberculosis include Kerr's kink (kinking of theureteropelvic junction), stricture, beaded ureter, and shortening of the ureter. Other features ofbladder TB include:• Golf hole ureteric orifice - This is due to fibrosis causing the rigid withdrawn dilated uretericorifice to look like a golf hole (cystoscopic finding).•Stippled calcificationsMoth eatencalyxTuberculosis of the urinary tractCentralpapillarynecrosisCortical abscesswith rupture into theperinephric spaceParenchymalcalcification-CorticalscarringBeaded ureterHiked-uppelvisOMARROWCaseous massUreteral strictureThickened bladder wall(Thimble bladder)Urethral stricture",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q12_img1_cc1524e1.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp12_img1_85e5c2e9.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 13,
+      "question": "A 45-year-old man with lower urinary tract symptoms underwent a CT-KUB as shown below,but was lost to follow-up. Two months later, he returned with worsening symptoms, andrepeat imaging revealed a densely calcified bladder resembling a fetal skull. What is the likelydiagnosis?325",
+      "options": {
+        "A": "Tuberculosis",
+        "B": "Schistosomiasis",
+        "C": "Neurogenic bladder",
+        "D": "Bladder carcinomaSW 3.00 mm"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical scenario and the CT-KUB image, which demostrates circumferential calcification ofthe bladder wall with normal volume, are indicative of bladder schistosomiasis, also known asbilharzia of the bladder. In advanced stages, there is development of a densely calcified bladderresembling a fetal skull.Schistosoma haematobium primarily causes genito-urinary schistosomiasis. The adult worms livein the veins of the urinary bladder. Chronic schistosomiasis presents as painless terminalhematuria, dysuria, and proteinuria. Fibrosis may cause obstructive uropathies likehydronephrosis and hydroureter.The radiographic features are as follows:345• Acute phase - nodular bladder wall thickening• Chronic phase:•Contracted fibrotic, thick-walled bladder.• Curvilinear calcifications due to large numbers of calcified eggs in the bladder wall.•-Complication squamous cell carcinoma (SCC), presenting as a mass.Other options:Option A: Thimble bladder is a small contracted bladder due to fibrosis of the bladder walls. It isseen in bladder tuberculosis, and is appreciated in a micturating cystourethrogram (MCU). Theimage of thimble bladder is as shown below:Option C: Pine cone or Christmas tree appearance, in which the bladder is elongated and pointedwith a thickened trabeculated wall, is seen in cases of neurogenic bladder. The image of thisappearance is shown below:Page: 2 of 6346Compressed 32:1IM: 1002cmOption D: Cystourethroscopy is the mainstay for diagnosis of bladder carcinoma. It is performedon patients with hematuria. The most common radiological sign is a filling defect seen inintravenous urography (IVU). Non-contrast CT and MRI and ultrasonography are used for theimmediate management of patients with gross painless haematuria.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q13_img1_a087ab8f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 14,
+      "question": "The cystographic evaluation of a woman with recurrent urinary tract infection is given below.What is the likely diagnosis?",
+      "options": {
+        "A": "Thimble bladder326",
+        "B": "Neurogenic bladder",
+        "C": "Bladder carcinoma",
+        "D": "Schistosomiasis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given cystogram shows an elongated and pointed bladder with a thickened trabeculated wall,called a Christmas tree or pine cone bladder. This is seen in patients with severe neurogenicbladder and increased sphincter tone.Neurogenic bladder is a term applied to a dysfunctional urinary bladder that results from aninjury to the central or peripheral nerves that control and regulate urination. It causes detrusorsphincter dyssynergia. Neurogenic bladder typically occurs due to suprasacral lesions (aboveS2-S4) or apical lesions (in and around S2-S4).Pine cone bladder is not pathognomonic of a neurogenic bladder. It may also be seen in patientswith lesions anywhere along the sacral reflex arc. Occasionally, it is also seen in bladder neckobstruction of a non-neurogenic cause.Other options:Option A: Tuberculous cystitis results in fibrosis and stiffening of the entire urinary bladder,leading to an inability to expand and a significant reduction in bladder capacity, as depicted in theimage below. The medical term for this feature on micturating cystourethrogram (MCU) is athimble bladder.Option C: In bladder carcinoma, lesions are seen on the wall of the bladder and a biopsy is takento confirm the diagnosis. These lesions cause disruption in the mucosa and the musculature of thebladder. Cystourethroscopy is the mainstay for the diagnosis of bladder carcinoma. It isperformed on patients with hematuria. The most common radiological sign is a filling defect seenin intravenous urography (IVU).347Option D: Schistosomiasis of the bladder is a parasitic infection by Schistosoma hematobium. Theradiographic features in the acute phase is nodular bladder wall thickening, and in the chronicphase, it is the contracted fibrotic, thick-walled bladder and curvilinear calcifications due to largenumbers of calcified eggs in the bladder wall. On cystoscopy, it can look like nodules,pseudotubercles, ulceration, and sandy patches, and in the end stage, it can cause squamous cellcarcinoma of the bladder.The CT-KUB image below shows circumferential calcification of the bladder wall.SW 3.00 mm",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q14_img1_1af533bd.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp14_img1_ef835428.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 15,
+      "question": "In a patient with the following cystogram finding, which of the following would you notsuspect?D",
+      "options": {
+        "A": "Neurogenic bladder",
+        "B": "Pelvic abscess",
+        "C": "Pelvic lipomatosis",
+        "D": "Pelvic hematomaGO.900.600202411.0.C+101.0"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows a pear-shaped bladder, where the normal round or ovoid shape has beenextrinsically compressed to resemble a pear. The pear may be inverted (also calledtear-drop bladder) or upright, depending on how the excess pelvic tissue compresses the bladder.The causes of the pear-shaped bladder include pelvic abscess, pelvic lipomatosis, pelvichematoma, and symmetrical pelvic lymphadenopathy.Neurogenic bladder results in a Christmas tree or pine cone appearance, where the urinarybladder becomes elongated with a pointed shape and a thickened trabeculated wall, as depictedbelow:348Page: 2 of 6Compressed 32:1IM: 1002cm",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q15_img1_b302147e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp15_img1_ae701348.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 16,
+      "question": "A child with recurrent UTIs is suspected to have a congenital renal anomaly. The followingpicture is seen on IV urography. Based on these findings, which of the following would yoususpect?327",
+      "options": {
+        "A": "Retrocaval ureter",
+        "B": "Vesicoureteric reflux",
+        "C": "Medullary sponge kidney",
+        "D": "Multicystic dysplastic kidney"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows a right-sided fishhook or S-shaped appearance of the ureter, where theright ureter hooks behind the inferior vena cava (IVC), as seen in the retrocaval ureter.Circumcaval or retrocaval ureter is a developmental anomaly of the inferior vena cava (IVC). It isdue to abnormal development of the right supracardinal system. A persistent right posteriorcardinal vein ends up passing in front of the ureter. The anomaly always occurs on the right side,as this is the side of the normal IVC.Other options:Option B: Vesicoureteric reflux (VUR) is a condition with a retrograde urinary flow from thebladder to the ureter and kidney. It is usually congenital. VUR can cause urinary stasis and lead tourinary tract infection (UTI). It also predisposes to pyelonephritis, which can lead to renalscarring due to parenchymal inflammation. This is known as reflux nephropathy. A micturatingcystogram is used to confirm the VUR.349RNote: Bilateral fishhook or J-shaped or hockey stick ureters describe the course of the distal ureterin patients with significant benign prostatic hypertrophy (BPH).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q16_img1_07bf804e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp16_img1_2ebe16a8.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 17,
+      "question": "A 2-year-old girl was referred for evaluation of recurrent urinary tract infections. She suffered4 episodes over the past 9 months and had been hospitalized twice. An ultrasound revealedbilateral hydronephrosis with dilatation of ureters. What is the investigation of choice in thischild?",
+      "options": {
+        "A": "VCUG",
+        "B": "Tc DTPA scan",
+        "C": "MAG3 scan",
+        "D": "Tc DMSA scan"
+      },
+      "correct_answer": "A",
+      "explanation": "This clinical scenario with recurrent UTIs and hydronephrosis on USG is suggestiveof vesicoureteric reflux (VUR). The investigation of choice in this condition is a voidingcystourethrogram (VCUG) or micturating cystourethrogram (MCU).VUR refers to an abnormal urine flow from the bladder to the ureters and occurs in youngchildren. This reflux predisposes to pyelonephritis by allowing the entry of bacteria into theusually sterile upper tract. As such, the diagnosis is first suspected after a UTI in a very youngchild or recurrent UTIs. USG may reveal abnormalities like hydronephrosis and dilatedureters. VCUG must be performed in such children before the age of 6 years to look for:•Presence and grade of VUR.• Whether reflux occurs during micturition or bladder filling.• Presence of associated anatomical anomalies.The grading of VUR is based on the height of reflux up the ureters and the degree of dilatation ofthe ureters, as shown below, followed by an MCU showing grade V VUR on the left side.350MinorcalyxPapilla-Fornix-Grades of vesicoureteric refluxNormalMajorcalyxUreterRenalPelvisBladderAffectedVesicouretericrefluxGrade EVUR into the non-dilated ureterRRGrade ItVUR into the non-dilated ureter,renal pelvis and calycesGrade III:VUR into the dilated ureter and/orblunting of calyceal fornices.RRGrade IV:VUR into the grossly dilated ureterwith blunting of calyceal fornicesGrade ViMassive VUR, with significantureteral dilatation and tortuosity.and loss of papillary impression.OMARROWRMCUG5cm$619Other options:Option B: A 99mTc-DTPA scan is used to measure GFR as it is cleared by glomerular filtrationand no tubular reabsorption, determine differential renal function and evaluate for the presenceof degree of renal function.Option C: The investigation of choice for ureteropelvic junction obstruction is a99mTc-Mercaptoacetyl-triglycine (MAG3) scan. 99mTc-MAG3 is the most commonly used isotopein dynamic renography. Its uptake reflects the tubular function.Option D: The 99mTc-DMSA scan is used for the assessment of the renal cortex as it binds to thesulfhydryl groups in proximal tubules with longer retention than other agents. It allows for abetter assessment of differential renal function. It is used for the evaluation of the renal structureand morphology, detection of renal scarring in reflux nephropathy and pyelonephritis andevaluation of renal anatomical abnormalities.351",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 18,
+      "question": "The following spot film was taken while performing a voiding cystourethrogram for a2-year-old girl. Which of the following investigations will be useful for the evaluation of renalscarring in this patient?328R",
+      "options": {
+        "A": "Tc 99m DMSA",
+        "B": "Tc 99m DTPA",
+        "C": "Tc 99m MAG3",
+        "D": "Tc 99m pertechnetate"
+      },
+      "correct_answer": "A",
+      "explanation": "The given voiding cystourethrogram (VCUG) shows a unilateral grade 4 vesicoureteric reflux(VUR). The investigation of choice to evaluate for renal scarring in reflux nephropathy isthe Tc-99m DMSA (dimercaptosuccinic acid) scan.It is used in renal imaging to evaluate renal structure and morphology, particularly in paediatricimaging for the detection of scarring and pyelonephritis. DMSA is an ideal agent for theassessment of the renal cortex as it binds within the proximal tubules of the cortex with longerretention than other agents.It allows a better assessment of differential renal function. It is a static scan as opposed todynamic DTPA or MAG3 scans. Other common renal scans include:•Tc-99m DTPA (diethylene-triamine-pentaacetate) - used for direct measurement of GFR as it iscleared only via glomeruli with no tubular excretion (option B).• Tc-99m MAG3 (mercaptoacetyltriglycine) - excreted through the renal route via both glomeruliinfiltration and tubular excretion. Hence, in pediatric patients and patients with poor renalfunction, this test is considered superior to a DTPA scan. (option C).• In renovascular hypertension, captopril DTPA is used for screening and the gold standardinvestigation is renal angiography.The following image shows a DMSA scan of a patient with renal failure with reduced uptake inboth kidneys.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q18_img1_0a5ff4b0.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp18_img1_2a98646d.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 19,
+      "question": "A neonate is being evaluated for urinary abnormalities. Ultrasonography reveals the followingfinding. What is the likely diagnosis?Bladder -",
+      "options": {
+        "A": "Vesicoureteric refluxurethra -->329",
+        "B": "Posterior urethral valve",
+        "C": "Ureterocele",
+        "D": "Retrocaval ureter"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows a dilated proximal urethra and associated thick-walled distended bladderon ultrasound that resembles a keyhole. This keyhole sign is seen in the presence of posteriorurethral valves.352Posterior urethral valves are the most common cause of severe obstructive uropathy inchildren. The valves are membranes that have a small posterior slit within them, which typicallylie just distal to the verumontanum. They function as flap valves and are obstructive to antegradeurinary flow.Diagnosis is most commonly made antenatally with ultrasound, which demonstrates bilateralhydronephrosis above a distended bladder in the fetus, along with oligohydramnios andpulmonary hypoplasia. If the diagnosis is not made antenatally, then babies typically present withurinary infections in the neonatal period or with uremia and renal failure. Clinically, a poorurinary stream, dribbling, and palpable bladder (due to diverticula) can be present.The diagnosis is best made during the micturition phase of VCUG in lateral or oblique views sothat the posterior urethra can be imaged adequately. The following findings are seen:• Dilatation and elongation of the posterior urethra - the equivalent of the ultrasonographickeyhole sign (as shown in the image below).•⚫ Linear radiolucent band corresponding to the valve seen occasionally.-• Vesicoureteral reflux (VUR) - seen in 50% of patients.• Bladder trabeculation/ diverticula.Posterior Urethral Valve - Keyhole SignBladderPosteriorurethra353Posterior urethral valve - MicturatingcystourethrogramBladderDilated posteriorurethra",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q19_img1_a53ed3f2.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp19_img1_689f15b5.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 20,
+      "question": "What is the investigation of choice for evaluating posterior urethral valves in a newbornmale?",
+      "options": {
+        "A": "MCU",
+        "B": "Tc-DTPA scan",
+        "C": "USG",
+        "D": "DMSA scan"
+      },
+      "correct_answer": "A",
+      "explanation": "Voiding cystourethrogram (VCUG) or micturating cystourethrogram (MCU) is the best imagingtechnique for diagnosing posterior urethral valves.Posterior urethral valves result from forming a thick, valve-like membrane from a tissue ofWolffian duct origin (failure of regression of the mesonephric duct). This membrane coursesobliquely from the verumontanum to the most distal portion of the prostatic urethra. They act asflap valves and are obstructive to antegrade urinary flow.Diagnosis is most commonly made antenatally with ultrasound. However, the diagnosis is bestmade during the micturition phase of VCUG in lateral or oblique views so that the posteriorurethra can be imaged adequately. The following findings are seen:•• Dilatation and elongation of the posterior urethra - the equivalent of the ultrasonographickeyhole sign (as shown in the image below).• Linear radiolucent band corresponding to the valve seen occasionally.-●Vesicoureteral reflux (VUR) - seen in 50% of patients.•⚫ Bladder trabeculation/ diverticula.354Posterior urethral valve - MicturatingcystourethrogramBladderDilated posteriorurethraPosterior Urethral Valve - Keyhole SignBladderPosteriorurethra",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp20_img1_fc9a5e34.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 21,
+      "question": "A 48-year-old woman underwent retrograde ureterography as part of an evaluation forintermittent loin pain and dysuria. The following finding is seen. What is the likely diagnosis?",
+      "options": {
+        "A": "Ureteric calculi",
+        "B": "Tuberculosis of ureter",
+        "C": "Transitional cell cancer of ureter",
+        "D": "Hydroureter330"
+      },
+      "correct_answer": "",
+      "explanation": "The given retrograde ureterogram shows focal dilatation of the ureter by an intraluminal masscalled a goblet or champagne glass sign. It is most commonly caused by transitional cellcarcinoma of the ureter.Transitional cell carcinoma of the ureter can manifest as focal, eccentric, or circumferential wallthickening. On imaging, it often appears as fixed filling defects or irregular narrowing withproximal shouldering, a characteristic finding known as a goblet sign or champagne glass sign.This sign occurs due to luminal dilatation distal to the tumour, caused by the slow-growing tumorexpanding the ureteral lumen. Additional features include hydronephrosis, with or withouthydroureter, and, in advanced cases, absent renal function due to chronic obstruction.355This sign indicates the pathology is chronic, permitting the lesion to be accommodated in theureter. Other causes of goblet sign include metastatic disease in the ureter and endometriosisinvolving the ureter.Goblet Sign in Retrograde Ureterography",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q21_img1_5b44a89d.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp21_img1_1218cab7.png",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 22,
+      "question": "A 45-year-old woman comes to the emergency department with severe back pain, vomiting,and hypotension. CT findings are given below. What is the diagnosis?",
+      "options": {
+        "A": "Renal cyst",
+        "B": "Renal cell carcinoma",
+        "C": "Para pelvic cyst",
+        "D": "Renal angiomyolipoma"
+      },
+      "correct_answer": "D",
+      "explanation": "The given CT image shows well-circumscribed lesions with low attenuation (black in colour) thatindicate fatty tissue. This is suggestive of renal angiomyolipomas.Angiomyolipomas (AMLs) are benign tumours that occur sporadically or in association withtuberous sclerosis. It is commonly seen in adults between 30 and 50 years of age, with a femalepredilection. AMLs predominantly affect the kidneys, though they can occur in other sites such asthe liver (a common extra-renal location) and less frequently in the ovary, fallopian tube,spermatic cord, palate, and colon.Histologically, angiomyolipomas consist of perivascular epitheloid cells with varying proportionsof vascular, immature smooth muscle cells, and fat cells. Patients with AMLs present with flankpain, a palpable mass, hematuria, recurrent urinary tract infections, hypertension, or renalfailure. Larger tumours increase the risk of complications, such as spontaneous retroperitonealhemorrhage, which can manifest as sudden-onset abdominal or flank pain, along with symptomslike nausea, vomiting, and hypotension.Everolimus is used for the treatment of angiomyolipomas. Treatment should be considered forasymptomatic, growing AMLs measuring &gt;3 cm in diameter. Angiomyolipomas do notnormally require surgery unless life-threatening bleeding is present.Other options:Renal cyst is a broader term that includes the cystic lesions of the kidney. They can be simplecysts that are benign. Complex or complicated cystic lesions need evaluation and can bemalignant. Bosniak classification is used for renal cysts. Cysts appear as hypodense lesions(greyish) with a thin wall, with or without septations.356CT image showing a simple renal cyst:Renal cell carcinoma (RCC) is the most common malignant tumour of the kidney. It usuallyoccurs in the age group 50-70 years and macroscopic hematuria is seen in about 60% of the cases.It is a differential for angiomyolipoma but it is important to note that macroscopic fat is almostalways associated with ossification or calcification.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q22_img1_e7bdd4bf.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp22_img1_7ba32da5.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 23,
+      "question": "The contrast-enhanced CT abdomen of a 50-year-old woman shows the following finding.Which of the following classifications would you use to assess the severity of this condition?331",
+      "options": {
+        "A": "Jackson staging",
+        "B": "Bosniak classification",
+        "C": "Durie-Salmon staging",
+        "D": "Todani classification"
+      },
+      "correct_answer": "B",
+      "explanation": "The given CT image shows a simple renal cyst. The Bosniak classification system is used for theclassification of renal cystic masses based on characteristics seen on contrast-enhanced CT. It ishelpful in predicting malignancy risk and formulating a management plan.357Bosniak claSS1AppearanceMalignancyManagementSimple cyst Rounded with imperceptible wallNot malignantNo further workup requiredNot malignantNo further workup required22F34Minimally complex:Size <1 mm with septa, thin calcificationsMinimally complex:Size >3 cmIncreased number of septaMinimally thickened with nodular/thick calcificationsIndeterminate:Complicated cysts, thickened septaNodularcalcification/solid non-enhancing areas (appears hyperdense on CT)Solid mass with a large cysticor necrotic component5% chance55% chanceUltrasound/CT follow-up every 6 monthsPartial nephrectomyRadiofrequency ablation (elderly/poorsurgical candidates)Clearly malignant (100%)Partial/ total nephrectomyBosniak classification of renal cystsClass ISimple benign cystClass IIThin septae with finecalcifications in the walls.No soft tissue enhancementRClass IIFMultiple class II features.no soft tissue enhancementClass IIrregular or smooth thickenedwalls or septa showingmeasurable enhancementClass IVClass III, with soft tissue enhancementindependent of wall or septal enhancement.MARROWOther options:Option A: Jackson staging is used in carcinoma penis.Option C: Durie-Salmon staging is used for multiple myeloma.Option D: Todani classification is used in cases of choledochal cysts.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q23_img1_31d18c46.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp23_img1_fa823668.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 24,
+      "question": "A 17-year-old boy is brought to the ER with left-sided scrotal pain and nausea. It developedsuddenly 30 minutes ago while playing football. On examination, the left scrotum is reddishwith mild tenderness, and the testis is in horizontal lie. What is the investigation of choice?",
+      "options": {
+        "A": "Non contrast CT",
+        "B": "Doppler",
+        "C": "MRI",
+        "D": "CECT"
+      },
+      "correct_answer": "B",
+      "explanation": "This clinical scenario of sudden scrotal pain while playing is suspicious for testicular torsion. Theinvestigation of choice is doppler ultrasonography. It indicates reduced or absent blood flow to the358testes.In testicular torsion, the blood supply to the testicle is compromised due to the twisting of thespermatic cord within the tunica vaginalis due to a 'bell clapper deformity', resulting in ischemiaof the epididymis and the testis. It is typically seen in adolescence and usually presents withsudden onset pain and swelling of the scrotum, associated with vomiting. A high-riding, swollen,and tender testis with a tender twisted cord can often be palpated above it, along with anerythematous scrotum and absent cremastric reflex on the affected side.A Doppler ultrasound may be taken to assess the blood supply but surgical exploration is stillindicated as a clinical decision. Doppler ultrasound scanning shows absent or decreasedintratesticular arterial blood flow compared to the contralateral testis. Doppler studies haveimproved the ultrasonographic evaluation of testicular torsion with the presence of whirlpool signwithin the spermatic cord, which represents the twisted cord and is analogous to the twistedovarian pedicle seen in ovarian torsion.Urgent scrotal exploration is indicated if there is doubt regarding the diagnosis. A transversescrotal incision is taken and if the testis is viable twisting again is prevented by fixation with threenon-absorbable sutures between the tunica albuginea of the testis and the scrotal raphe.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 25,
+      "question": "A 62-year-old man is being evaluated for new-onset bilateral pedal edema. He had beendiagnosed with left-sided renal cell carcinoma 2 months ago but had declined surgery. Whatis the investigation of choice to evaluate his current complaints?",
+      "options": {
+        "A": "Intravenous Urography",
+        "B": "Magnetic Resonance Imaging",
+        "C": "Contrast-enhanced CT332",
+        "D": "Positron Emission Tomography"
+      },
+      "correct_answer": "B",
+      "explanation": "Bilateral pedal edema in an elderly patient with left-sided renal cell carcinoma (RCC) is suspiciousfor tumor extension into the left renal vein and IVC. The investigation of choice to assess thevascular extension of the tumor thrombus is Magnetic resonance imaging.RCC is the most common malignant tumor of the kidney that usually presents in the elderly.Cigarette smoking and hypertension are major associated risk factors. The classic triad ofpresentation is with flank pain, macroscopic haematuria, and a palpable flank mass. Advancedcases can also present with bilateral lower limb edema.MRI is beneficial for assessing vascular invasion, especially when evaluating the renal vein andIVC. It aids in differentiating between benign and malignant thrombus. However, it does notprovide a significant advantage over CT in staging nodal disease.Other options:Option C: Triphasic contrast-enhanced CT is the investigation of choice for diagnosis and stagingof RCC (image given below). On CT, small lesions enhance homogeneously, whereas larger lesionshave irregular enhancement due to areas of necrosis. The CT also provides additional informationon the function of the opposite kidney, primary tumor extension, venous involvement,enlargement of regional lymph nodes, the status of the adrenal glands, and intra-abdominalmetastatic disease.359Option A: Intravenous urography is no longer suitable for detecting renal masses, particularly ifthey occur centrally; cross-sectional imaging studies are more appropriate for investigatingsuspected renal mass.Option D: FDG-Positron Emission Tomography plays a limited role in the initial detection anddiagnosis of RCC due to low fluorodeoxyglucose uptake by these tumours. However, it can beuseful in identifying local recurrence and serves as a complementary tool alongside othercross-sectional imaging methods.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp25_img1_5ca39f03.jpeg",
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 26,
+      "question": "A 34-year-old man comes to the emergency department with complaints of severe,right-sided, colicky flank pain that radiates to his groin. He has a history of recurrent kidneystones. What is the investigation of choice?",
+      "options": {
+        "A": "USG",
+        "B": "Non contrast CT",
+        "C": "Contrast enhanced CT",
+        "D": "Plain X-ray KUB"
+      },
+      "correct_answer": "B",
+      "explanation": "This clinical scenario is suggestive of renal calculi. The investigation of choice is non-contrast CT(NCCT). NCCT is useful as it has a greater sensitivity to tissue attenuation and, hence, can pick upstones that may appear radiolucent on plain X-rays.Renal calculi are more common in males, with 90% of stones being radiopaque. Clinically,patients present with severe pain located over the renal angle, often radiating to the groin. Thepain may be accompanied by vomiting due to pyloric spasm, as well as hematuria, nausea, fever,and in some cases, symptoms of pyuria.A non-contrast CT scan is the imaging modality of choice for suspected urinary tract calculi. It isthe most sensitive and gold-standard test for detecting stones as it is quick, detects most types ofcalculi, and can be performed with low radiation doses. A history of nephrolithiasis withnew-onset flank pain should prompt immediate evaluation with non-contrast CT. Theradiographic features depend on the stone composition.The following types of renal calculi may appear radiolucent on plain X-ray: Uric acid, Indinavirand pure matrix stones (may have radiodense rim or centre). On CT, most stones are usuallyopaque. However, indinavir and pure matrix stones appear radiolucent even on CT.The following X-ray KUB image shows a staghorn calculus (struvite).360R",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q26_img1_93e06ad5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 27,
+      "question": "The IVP of a patient with persistent flank pain is given below. What is the likely diagnosis?R",
+      "options": {
+        "A": "Retrocaval ureter",
+        "B": "Retroperitoneal fibrosis",
+        "C": "Medullary sponge kidney",
+        "D": "Multicystic dysplastic kidney"
+      },
+      "correct_answer": "B",
+      "explanation": "The given IVP in a patient with persistent flank pain shows the medial deviation of bilateralureters, caused by fibrous tissue deposition in the retroperitoneum at the lumbosacral junction,resulting in the characteristic narrow-waisted maiden appearance, known as the maiden waistsign, which is seen in retroperitoneal fibrosis.Retroperitoneal fibrosis (RPF) is a chronic, nonspecific inflammatory process of the fibro-fattytissue in the retroperitoneum, with the idiopathic type being the most common, accounting forabout 70% of the cases. Patients typically present with persistent flank pain or back pain.Progressive fibrotic thickening can compress the ureters, leading to bilateral hydronephrosis and,if untreated, renal failure. Aside from idiopathic causes, other causes of RPF include drug-inducedfactors (e.g., methysergide, beta-blockers), advanced malignancy, radiation exposure, trauma,and chronic infections.Diagnosis of RPF relies primarily on imaging studies. Intravenous urography shows acharacteristic triad of medial deviation of the middle one-third of the ureters, producing a maidenwaist sign, hydroureteronephrosis, and extrinsic compression of the ureters by the fibroticprocess. CT and MRI are also useful in radiographic evaluation of RPF.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q27_img1_938ecbe4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    },
+    {
+      "q_no": 28,
+      "question": "333The following appearance in IVP is caused by:",
+      "options": {
+        "A": "Horse shoe kidney",
+        "B": "Ureterocoele",
+        "C": "Bladder tumour",
+        "D": "Posterior urethral valve"
+      },
+      "correct_answer": "B",
+      "explanation": "The given intravenous pyelography (IVP) depicts the cobra head or adder head deformity orspring onion sign seen in bilateral ureterocele. These signs refer to a dilated, contrast-filled distalureter surrounded by a thin rim of the ureteric wall and bladder mucosa.Ureterocoele is a cystic enlargement of the intramural portion of the ureter, more commonly seenin females than males. It is thought to be caused due to ureteric orifice atresia. They are similar toectopic ureters, which typically drain the upper pole of the kidney and are associated with361dysplastic or non-functional renal tissue.If they present clinically, ureteroceles often manifest with urinary tract infections (UTIs) inchildren, while in adults, they are more likely to present with stones in the lower ureter.Ureterocoeles can enlarge and obstruct the bladder neck or the contralateral ureteric orifice.The classic sign of a ureterocele on intravenous urography is a 'cobra head', 'adder head', or'spring onion sign'. On ultrasonography, it can be seen as a fluid-filled cystic mass in the bladder.The treatment of simple ureteroceles is surgical excision with re-implantation of the ureter.362",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nephroradiology"
+    }
+  ]
+}

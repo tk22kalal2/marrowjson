@@ -1,0 +1,245 @@
+{
+  "chapter": "Hepatobiliary and Pancreatic Radiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The CT abdomen of a patient presenting with abdominal pain and vomiting is shown below.What is the probable diagnosis?",
+      "options": {
+        "A": "Cholelithiasis",
+        "B": "Acute cholecystitis",
+        "C": "Gallbladder carcinoma",
+        "D": "Gallbladder abscess"
+      },
+      "correct_answer": "A",
+      "explanation": "A patient presenting with abdominal pain and vomiting, with CT showing a Mercedes-Benz sign,is characteristic of cholelithiasis.Mercedes-Benz sign (triradiate sign), is seen when a gallstone contains central radiolucent gas.The fissures may be tri-radiate or bi-radiate (seagull sign). These fissures appear dark on CT orradiographs, giving the sign its characteristic appearance.Gallbladder stones or cholelithiasis are the most common condition affecting the gallbladder.They are often discovered incidentally and typically remain asymptomatic. However, they becomesymptomatic when the stones obstruct the cystic duct. In such cases, patients may experience dullor colicky right upper quadrant or epigastric pain radiating to the back, along with symptoms likenausea and vomiting.Only about 10% of gallstones are radiopaque. Ultrasonography (USG) is the most accurate initialimaging modality of choice for the diagnosis of gallbladder stones. These stones appear asechogenic foci producing acoustic shadows. The sensitivity of USG for gallstones is &gt;95%.The CT image below depicts the Mercedes-Benz sign:The image below shows ultrasonography of the gall bladder.304Abdominal wallPericholecystic fatLiverGallbladder wallSludgeGallstonesAcousticshadowingBile",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q1_img1_e36634be.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp1_img1_6990f27f.png",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 2,
+      "question": "A middle-aged woman with chronic alcoholism presented with severe right-sided upperabdominal pain. On examination, her SOFA score was 3. An abdominal CT was done which isshown below. What is the probable diagnosis?295",
+      "options": {
+        "A": "Calculous cholecystitis",
+        "B": "Acute pancreatitis",
+        "C": "Choledocholithiasis",
+        "D": "Emphysematous cholecystitis"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario along with the CT showing gas within the wall of the gallbladder issuggestive of emphysematous cholecystitis.Emphysematous cholecystitis is a rare form of acute cholecystitis where gallbladder wall necrosiscauses gas formation intramurally or intraluminally.This condition occurs most frequently in elderly males or patients with diabetes. Secondaryinfection of the gallbladder wall with gas-forming organisms such as Clostridium welchii/ C.perfringens leads to emphysematous cholecystitis, and aerobes such as Escherichia coli may alsobe isolated. Patients present with right upper quadrant pain, nausea, vomiting, and low-gradefever. Crepitus is present on physical examination.On imaging, the air is seen in the gallbladder wall and/or biliary ducts, in the absence of abnormalcommunication with the gastrointestinal tract is seen.Emphysematous cholecystitis has a high mortality rate due to the development of gangrene,perforation, and other complications. Hence, emergency cholecystectomy is indicated for themanagement of these patients.305Emphysematous CholecystitisThe given image shows a postoperative specimen of an emphysematous gallbladder along with anX-ray showing air in the gallbladder wall.DAILYROUNDS",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q2_img1_95909171.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp2_img1_739cb525.jpeg",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 3,
+      "question": "USG in a 47-year-old woman showed the wall-echo-shadow sign. What is the most probablediagnosis?",
+      "options": {
+        "A": "Acute cholecystitis",
+        "B": "Chronic cholecystitis",
+        "C": "GB adenomyomatosis",
+        "D": "GB cancer"
+      },
+      "correct_answer": "B",
+      "explanation": "The wall-echo-shadow sign (WES) is seen in chronic cholecystitis with cholelithiasis. This USGfinding is seen within the gallbladder fossa and describes the following:• A curvilinear hyperechogenic line representing the gallbladder wall• A thin hypoechoic space representing a small amount of bile•⚫. A curvilinear hyperechogenic line representing the near-surface of gallstone• Acoustic shadowing distal to the surface of the gallstone306The below image depicts the WES sign.FR 28HzRS21.42D39%C 55P LowGenWallEchoShadowM2Decub GBTETRASOUND OF ABDOMEN",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp3_img1_f47fbdca.jpeg",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 4,
+      "question": "Abdominal USG in a patient with pruritic jaundice revealed the double-barrel sign. What isthe most probable diagnosis?",
+      "options": {
+        "A": "Cystic duct obstruction",
+        "B": "CBD obstruction",
+        "C": "Acute cholecystitis",
+        "D": "Gall bladder cancer296"
+      },
+      "correct_answer": "B",
+      "explanation": "Double-barrel sign is seen in CBD obstruction. It causes dilatation of CBD with increased lumensize which becomes comparable to the portal vein. This gives the appearance of a double-barrel.The image given below shows CBD stone causing obstruction and dilatation of CBD - doublebarrel sign.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp4_img1_34a48932.jpeg",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 5,
+      "question": "The given finding on MRCP is characteristic of:",
+      "options": {
+        "A": "Bile duct stone",
+        "B": "Pancreatic duct stone",
+        "C": "Stricture",
+        "D": "Worm in biliary tree"
+      },
+      "correct_answer": "D",
+      "explanation": "Commonbile ductPortal veinDouble Barrel signGallbladder307The given MRCP shows linear filling defect characteristic of worm in the biliary tree. One of thecommonly found worms in the biliary tree is Ascaris.The worm may also be seen as parallel filling defects - railway track sign.Worm in biliary tree- USG findingsInner tube signRoundworm (thick echolostripe) with a centralanechoic tube representingthe gastrointestinaltract of the worm.Strip signThin non-shadowing stripwithout an inner tube.Spaghetti signOverlapping longitudinalinterfaces indicatingmultiple worms,Coil of worm ingall bladder",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q5_img1_a30b2686.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp5_img1_5fb59a4a.jpeg",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 6,
+      "question": "A neonate was admitted to the NICU with persistent jaundice. A USG abdomen was done andis shown below. What is the probable diagnosis?297",
+      "options": {
+        "A": "Galactosemia",
+        "B": "Biliary atresia",
+        "C": "Hemangioma",
+        "D": "Caroli's diseaseLOGIQE9↓"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical scenario along with the triangular cord sign on the USG is suggestive of biliary atresia.The triangular cord sign represents the fibrous ductal remnant of the extrahepatic bile duct inbiliary atresia. It is usually seen as an echogenicity along the anterior wall of the right portalvein. In the above image, the arrow represents the fibrous atretic plate at the porta hepatis.Biliary atresia may also be termed as noncystic obliterative cholangiopathy. It is a disease of theintra and extrahepatic bile ducts of unknown etiology.The classification of biliary atresia with the regions involved is as follows:Type I Common bile duct--Type IIa Common hepatic ductType IIb - Common bile duct, hepatic duct, cystic duct.Type III (most common type) - Common bile duct, hepatic duct, cystic duct; no anastomosableducts at porta hepatis.Clinical features include persistent jaundice, clay-colored stools, and hepatomegaly. Untreatednewborns will show signs of liver cirrhosis and failure (ascites, portal hypertension, and failure tothrive).Laboratory evaluation will show elevated levels of direct and indirect bilirubin, alkalinephosphatase, and gamma-glutamyl transpeptidase. Ultrasound will show hypoplastic or absentgallbladder and the triangular cord sign. The definitive diagnosis is by intraoperativecholangiography. Preoperative percutaneous transhepatic cholecystocholangiography combinedwith liver biopsy in cholestatic infants has a sensitivity of 100% and a specificity of 93% for308diagnosing biliary atresia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q6_img1_1aa9e331.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 7,
+      "question": "Abdominal USG in a 50-year-old male with right upper quadrant abdominal pain revealed thecomet tail sign. What is the most probable diagnosis?",
+      "options": {
+        "A": "Acute cholecystitis",
+        "B": "Chronic cholecystitis",
+        "C": "Gall bladder adenomyomatosis",
+        "D": "Cholelithiasis"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario and comet-tail sign on USG is seen in adenomyomatosis of thegallbladder.Adenomyomatous hyperplasia of the gall bladder is also known as cholecystitis glandularisproliferans. It is characterized by gall bladder wall thickening due to epithelial and smooth musclehyperplasia along with cystic epithelial invagination into the wall, referred to asRokitansky-Aschoff sinuses. The most common location is in the fundus of the gall bladder andthe sinuses often contain stones.On USG, the characteristic findings are a thickened gallbladder wall showing bright echoes arisingfrom the cystic spaces with 'comet-tail' ring-down artefacts, as seen in the image below. Thecomet-tail artefact is caused by the cholesterol crystals trapped within the Rokitansky-Aschoffsinuses, causing reverberation (large number of reflected waves).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp7_img1_371bfb0c.jpeg",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 8,
+      "question": "An erect abdomen X-ray of a patient presenting with an acute abdomen is given below. Whatis the probable diagnosis?298",
+      "options": {
+        "A": "Acute pancreatitis",
+        "B": "Large bowel obstruction",
+        "C": "Sigmoid volvulus",
+        "D": "DiverticulitisL"
+      },
+      "correct_answer": "A",
+      "explanation": "The given erect X-ray abdomen in a patient with acute abdomen, showing a colon cut-off sign,suggests acute pancreatitis.The colon cut-off sign refers to the abrupt termination of the gas filling of the colon on the leftside. The inflammation of acute pancreatitis may extend to the phrenicocolic ligament via thetransverse mesocolon, causing a functional spasm of the splenic flexure, resulting in the coloncut-off sign. Though originally described in abdominal radiographs, this sign has also beendemonstrated in contrast enema and computed tomography.Acute pancreatitis is a condition characterized by inflammatory damage to the pancreas,presenting clinically with epigastric pain radiating to the back, which is relieved by bending309forward, nausea, and vomiting. Some may also present with signs of bleeding into the fascialplanes, such as Cullen's sign, Grey Turner's sign, Fox sign, and Bryant's sign (discolouration of thescrotum).Radiological signs in acute pancreatitis include colon cut-off sign, preserved renal halo sign, andsentinel loop sign (upper abdomen).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q8_img1_d0ca05fb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient with chronic alcoholism presented with nausea, vomiting, and abdominal pain. Hislab reports showed elevated serum amylase and lipase levels. Which of the following signs isunlikely to be seen in the radiograph of this patient?",
+      "options": {
+        "A": "Colon cut off sign",
+        "B": "Sentinel loop sign",
+        "C": "Preserved renal halo sign",
+        "D": "Grey Turner sign"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario with elevated serum amylase and lipase suggests acute pancreatitis.Grey Turner's sign, seen in this condition, is a clinical sign, not a radiological finding,characterized by flank discolouration due to retroperitoneal haemorrhage.Acute hemorrhagic pancreatitis can present clinically with certain named signs like Cullen's sign,Grey Turner's sign, Fox sign, and Bryant's sign (discolouration of the scrotum).Radiological signs in acute pancreatitis include colon cut-off sign, preserved renal halo sign, andsentinel loop sign (upper abdomen).Note: The sentinel loop sign may aid in localizing the source of inflammation. For example, thesentinel loop sign in the right lower quadrant may be due to appendicitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 10,
+      "question": "What is the investigation of choice to assess the prognosis of patients with acute pancreatitis?",
+      "options": {
+        "A": "MRCP",
+        "B": "ERCP",
+        "C": "CECT",
+        "D": "EUS299"
+      },
+      "correct_answer": "A",
+      "explanation": "The investigation of choice to assess prognosis in patients with acute pancreatitis is CECT. It isused to calculate the modified CT severity index.Plain erect chest x-ray and abdominal radiographs are not diagnostic of acute pancreatitis and canonly be used to rule out certain differentials. Contrast-enhanced computed tomography (CECT) isthe imaging investigation of choice, but may not always be needed. Various scoring systems areused to grade the severity of acute pancreatitis based on blood investigations and radiographicfindings.The optimal time for the performance of contrast-enhanced CT imaging in cases of acutepancreatitis is more than 72 hours from the onset of symptoms. In the first 72 hours, CT mayunderestimate the extent of necrosis. CT scan in pancreatitis is indicated in patients with severeacute pancreatitis, organ failure, sepsis, and patients with clinical deterioration despite thetreatment.Below is a CT image showing an inflamed pancreas with peripancreatic inflammatory fatstranding:310Below are CT images showing extensive parenchymal calcification in pancreas:aThe most sensitive investigation for chronic pancreatitis is EUS (endoscopic ultrasound). Chronicpancreatitis is associated with a chain of lakes appearance- dilated main duct with clubbing anddilatation of the side branches.The image below shows chain of lakes appearance on MRI:311",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp10_img1_60113d2e.jpeg",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 11,
+      "question": "MRCP of a patient being evaluated for anorexia and jaundice is given below. What is theprobable diagnosis?",
+      "options": {
+        "A": "Pancreatic head carcinoma",
+        "B": "Chronic cholecystitis",
+        "C": "CBD stone",
+        "D": "Sclerosing cholangitisPancreatle ductDAILYROUNDS"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows a double duct sign and dilatation of pancreatic duct side branches(arrows), suggesting pancreatic head carcinoma.The double duct sign refers to the presence of simultaneous dilatation of the common bile ductand pancreatic ducts. Being an anatomical sign it can be seen on all modalities that can visualizethe region, including MRI, CT, ultrasound, MRCP, and ERCP.Causes of the double duct sign are:• Carcinoma of the head of the pancreas and ampullary tumors.• Occasionally an impacted gall stone in the distal duct, with associated edema, can also result inobstruction of the pancreatic duct leading to double duct appearance.Note: A double-barrel sign in USG is seen in CBD obstruction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q11_img1_307bdcbb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 12,
+      "question": "A 54-year-old man presents with abdominal pain, anorexia, and weight loss. A barium studywas performed and is as shown. What is the probable diagnosis?300",
+      "options": {
+        "A": "Carcinoma head of pancreas",
+        "B": "Crohn's disease",
+        "C": "Malignant duodenal ulcer",
+        "D": "Carcinoma of pylorusDAILYROUNDS"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario along with the barium study showing an enlarged duodenal loop with'reversed 3 sign' of Frostberg is suggestive of carcinoma head of the pancreas.Pancreatic ductal adenocarcinomas arise most commonly in the head of the gland. Pancreaticcarcinoma presents with varied symptoms, commonly including weight loss and anorexia, whichmay or may not be accompanied by abdominal pain. Tumours in the pancreatic head often causeearly bile duct obstruction, leading to jaundice.Frostberg's inverted 3 sign is a sign seen on a barium examination. There is effacement anddistortion of the mucosal pattern on the medial wall of the second part of the duodenum due tofocal mass and local edema. It is associated with carcinoma of the head of the pancreas, duodenalcarcinoma and pancreatitis (widening of the C loop of the duodenum).312Antral pad sign may also be seen in barium studies in patients with carcinoma head of thepancreas. Percutaneous transhepatic cholangiogram shows a characteristic 'gloved finger'obstruction of the intrapancreatic common bile duct, which is pathognomonic for carcinoma ofthe pancreatic head.The image of a barium meal showing an inverted 3 sign is given below.DAILY ROUNDS",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following conditions is associated with a spongy appearance with sunburstcalcification on the CT abdomen?",
+      "options": {
+        "A": "Pancreatic adenocarcinoma",
+        "B": "Mucinous cystadenocarcinoma",
+        "C": "Adenosquamous carcinoma",
+        "D": "Serous cystadenoma of pancreas"
+      },
+      "correct_answer": "",
+      "explanation": "The spongy appearance with central sunburst calcification on the CT abdomen is seen in serouscystadenoma of the pancreas.CT findings of serous cystadenoma of the pancreas:• Typically demonstrates a multicystic, lobulated mass in the pancreatic head sometimesdescribed as a 'bunch of grapes'.• A characteristic enhancing central scar may be present which can show associated stellatecalcification (present in ~20% of cases)The images given below are the CT abdomen showing sunburst calcification suggestive of serouscystadenoma of the pancreas.313",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp13_img1_6abc41a1.jpeg",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 14,
+      "question": "A 10-year old boy presented with jaundice and right upper abdominal pain. An abdominal CTwas done and is as shown. What is the probable diagnosis?301",
+      "options": {
+        "A": "Hepatoma",
+        "B": "Hemangioma",
+        "C": "Caroli's disease",
+        "D": "Hydatid cyst"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario and the CT showing a central dot sign suggest Caroli's disease.The central dot sign of Caroli's disease is a central enhancing fibrovascular bundle containing aportal vein surrounded by a focally dilated intrahepatic bile duct cyst. The arrows in the imagebelow point to the central dot sign.314Caroli disease is a congenital disorder comprising of multifocal cystic dilatation of segmentalintrahepatic bile ducts. It is also classified as a type V choledochal cyst, according to Todaniclassification. They present with a triad of jaundice, a palpable upper quadrant mass, andabdominal pain.Magnetic Resonance Imaging (MRI/MRCP) is the investigation of choice, revealing the anatomy ofthe ducts. CT delineates the extent of the intra- or extrahepatic dilatation. ERCP defines the distalbiliary tree. CT findings in Caroli disease are characterised by multiple hypodense rounded areasthat are inseparable from the dilated intrahepatic bile ducts and central dot sign.Given below is the MRI abdomen of Caroli's disease.bMSL 18",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q14_img1_9517b45b.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp14_img1_d03e1bab.jpeg",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 15,
+      "question": "The following scan is of a young woman on oral contraceptives. The most likely diagnosis is:8",
+      "options": {
+        "A": "Hepatocellular carcinoma",
+        "B": "Metastatic infiltrates302F",
+        "C": "Hepatic adenoma",
+        "D": "Hemangioma"
+      },
+      "correct_answer": "",
+      "explanation": "315The image given is of hepatic adenoma. It is the most frequent hepatic tumour in young womenon oral contraceptive pills.Hepatic adenomas, also referred to as hepatocellular adenomas, are benign liver tumours. Theyare well-defined vascular lesions, which are generally solitary. They are almost always seen inwomen between the age of 25 and 50 years and are associated with the use of the oralcontraceptive pill.On CT, uncomplicated adenomas are usually homogeneous, with a well-defined margin. Theyenhance markedly and uniformly during the arterial phase and then merge with the surroundingliver during the portal phase.Hepatic adenoma on the CT scan is shown below.IFOther options:Option D: On contrast-enhanced CT scan, hemangiomas show asymmetrical, nodular peripheralenhancement that is isodense with large vessels and progressive centripetal enhancement. Liverhemangioma on CT scan is shown below.316I.V. & Oral Con.Spin:Tilt:& DAILYROUNDSOption B: Most metastatic deposits appear as areas of low attenuation on unenhanced CT andportal-phase CT. Hypervascular tumours are often visible as low-attenuation lesions onunenhanced images and may enhance transiently in the arterial phase, some becoming invisible inthe portal phase. Metastatic infiltrates in the liver in the portal phase on CT scan are shownbelow.100 mmOption A: Hepatocellular carcinoma (HCC) typically shows a decreased signal on T1-weightedimages and a moderately increased signal on T2-weighted images, with internal heterogenecity.MRI is regarded as the most sensitive imaging modality for detecting HCC. Given below is theMRI image of HCC:317IS-Z'SFEW24-Sep-201W 1,92611.00410 cm",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q15_img1_e02be2ce.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp15_img1_55e4e132.jpeg",
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following signs is unlikely to be seen in the radiograph of a patient suspected tohave splenic rupture?",
+      "options": {
+        "A": "Obliteration of splenic outline",
+        "B": "Loss of psoas shadow",
+        "C": "Elevation of left hemidiaphragm",
+        "D": "Kehr's sign"
+      },
+      "correct_answer": "C",
+      "explanation": "Kehr's sign is a clinical finding seen in splenic rupture and not a radiographic finding.Kehr's sign refers to referred pain in the tip of the left shoulder when firm pressure is applied overthe left upper quadrant. This is commonly due to diaphragmatic irritation resulting from bloodaccumulation beneath the left diaphragm in cases of suspected splenic rupture. It is also elicitedby raising the left leg.The spleen is the visceral organ most commonly injured in blunt trauma abdomen. Severely illpatients may present with hypovolemic shock manifesting as tachycardia, hypotension, andpallor. A splenic rupture may not always be clinically apparent and spontaneous splenic ruptureor pathological rupture can occur after minor trauma or insignificant events.Signs of splenic rupture on plain X-ray are obliteration of splenic outline, loss of psoas shadow,elevation of left hemidiaphragm and fracture of lower ribs on left side. The investigation of choicein blunt trauma abdomen is CECT. Splenic lacerations are linear low-attenuation parenchymaldefects and are almost always associated with haemoperitoneum.The image below is a CT abdomen showing splenic laceration and hematoma.318↑The image given below is a CECT abdomen showing a splenic laceration.♣ DAILYROUNDS319",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatobiliary and Pancreatic Radiology"
+    }
+  ]
+}

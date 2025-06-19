@@ -1,0 +1,275 @@
+{
+  "chapter": "Lower Gl Radiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Identify the investigation from the given image?",
+      "options": {
+        "A": "Single-contrast barium meal follow through",
+        "B": "Double-contrast barium enema",
+        "C": "Double-contrast barium meal follow through",
+        "D": "Single-contrast barium enema"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q1_img1_e7f13c46.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp1_img1_8dbbc417.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 2,
+      "question": "You are performing an ultrasound abdomen and notice the below finding. Which of thefollowing conditions is it associated with?2674GE1 L 3.33 cm2 L 3.10 cm",
+      "options": {
+        "A": "Maydel hernia",
+        "B": "Meckel's diverticulum",
+        "C": "Intussusception",
+        "D": "Midgut volvulusx"
+      },
+      "correct_answer": "",
+      "explanation": "The given ultrasound abdomen depicts the target sign suggestive of intussusception.Intussusception occurs when a portion of the bowel is telescoped into an adjacent segment. Themost common location of intussusception is ileocolic. Clinically, it presents with crampingabdominal pain, palpable sausage-shaped abdominal mass, and passage of red currant jelly stools.A plain radiograph may show a meniscus sign, i.e. soft tissue mass contrasting the bowel that isair-filled. The target sign of intestinal intussusception, also known as the doughnut sign or bull'seye sign, is a diagnostic feature observed on abdominal ultrasound. This appearance is due toconcentric alternating echogenic and hypoechogenic bands. The echogenic bands are formed bythe mucosa and muscularis, and the hypoechoic bands are formed by the submucosa.Other ultrasound signs of intussusception include:• Pseudokidney sign - This is seen in the longitudinal section of the bowel. The edematous bowelresembles renal parenchyma, and the mesentery, which is dragged into the intussusception,resembles renal hilum.•Crescent in a doughnut sign - A hyperechoic semilunar structure caused by mesenteric fat pulledinto the intussceptum.The below images show USG films depicting the target sign and pseudo-kidney sign respectively.279-4IGE+TARGET LESION-6TRANSVERSE-81 L 3.44 cmPPseudokidney of intussusceptionRight KidneyDe Ali BasiryfLONG AXIS967",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q2_img1_3173606e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp2_img1_3c52fda2.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 3,
+      "question": "An infant was brought to the casualty with an incessant cry, abdominal distension, and ahistory of passing blood-stained stools. Target sign was noted in the right hypochondrium onultrasonography. What would you expect to see in the barium enema study?",
+      "options": {
+        "A": "Coiled spring appearance",
+        "B": "Raspberry thorn appearance",
+        "C": "Rose thorn appearance",
+        "D": "Saw tooth appearance"
+      },
+      "correct_answer": "",
+      "explanation": "Based on the given clinical scenario and the target sign observed on ultrasonography,intussusception is the likely diagnosis. A barium enema study in this condition is likely to show acoiled spring appearance, caused by the barium outlining the lumen of the intussusceptum andthe surrounding intraluminal space.The images given below are the barium enema study showing a coiled spring appearance.280Other options:Options B and C: Raspberry thorn appearance and rose thorn appearance on barium study areseen in Crohn's disease.Option D: Saw tooth appearance on barium enema is seen in colonic diverticulosis.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp3_img1_bcd4533a.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 4,
+      "question": "A neonate was brought with bilious vomiting. A barium meal study was done and is shownbelow. What is the likely diagnosis?268",
+      "options": {
+        "A": "Midgut volvulus",
+        "B": "Sigmoid volvulus",
+        "C": "Jejunal atresia",
+        "D": "Duodenal atresiaA"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario, along with the corkscrew sign seen in the barium meal study, issuggestive of midgut volvulus.Midgut volvulus is a complication of malrotation of the bowel and may result in proximal bowelobstruction. It can occur at any age but it is commonly seen in the first few months of life. Thebaby presents with bilious vomiting, abdominal pain, and failure to thrive.The images given below are barium meal studies showing the following findings:• A - It describes the spiralling of the duodenum and jejunum around the mesenteric vessels,suggestive of a corkscrew appearance• B - An incomplete duodenal obstruction and dilation of the first and second portions of theduodenum are seen.281AB",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q4_img1_5017c1a0.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp4_img1_8370b624.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following conditions is associated with the finding given in the CT abdomen?",
+      "options": {
+        "A": "Midgut volvulus",
+        "B": "Colonic atresia8269",
+        "C": "Congenital hypertrophic pyloric stenosis",
+        "D": "Duodenal atresia"
+      },
+      "correct_answer": "",
+      "explanation": "The given CT abdomen depicts a swirling appearance of the mesentery and superior mesentericvein around the superior mesenteric artery known as the whirlpool sign or whirl sign, seen inpatients with midgut volvulus.The whirlpool sign is seen when a structure twists upon itself. It is most commonly described inthe abdomen where the bowel rotates around its mesentery, with mesenteric vessels creating thewhirls. Whirlpool sign is seen in several settings, which include malrotation complicated bymidgut volvulus, caecal volvulus, sigmoid volvulus, and closed-loop bowel obstruction. It can alsobe seen in ovarian torsion.The marked CECT image below shows the whirlpool sign.282",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q5_img1_301bb997.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp5_img1_5f8f3ba6.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 6,
+      "question": "Given below is the CT abdomen of a patient who presented with diarrhea. He is most likely tobe suffering from",
+      "options": {
+        "A": "Pseudomembranous colitis",
+        "B": "Crohn's disease",
+        "C": "Ulcerative colitis",
+        "D": "Toxic megacolonD"
+      },
+      "correct_answer": "",
+      "explanation": "The CT image depicts the accordion sign seen in pseudomembranous colitis.Clostridium difficle infection (CDI) commonly caused by the disruption of the commensal colonicmicroflora, due to prolonged antimicrobial use, especially antibiotics like cephalosporins,ampicillin, clindamycin, and fluoroquinolones. The more severe form of CDI is known aspseudomembranous colitis (PMC).Toxigenic Clostridium difficile produces toxin A (an enterotoxin) and toxin B (a cytotoxin),damaging the epithelial-cell barrier function and causing diarrhea and pseudomembraneformation, which initially appear as small whitish-yellow plaques and later coalesce to involve theentire colon wall. The patient also presents with fever, abdominal pain, and leukocytosis.On CT imaging, accordion sign, also referred to as concertina sign, may be seen. The termsaccordion or concertina refer to a harmonica like a musical instrument. The thickened edematousbowel resembles the folds of an accordion. The hyperemic-enhancing mucosa stretched over thethickened submucosal folds produces this appearance. This is also seen when the contrast getstrapped between edematous haustral folds and pseudomembranes of the colon.Accordion sign is typical for pseudomembranous colitis but can be also seen in ischemic colitis,AIDS-related colitis, and severe edema from cirrhosis.The CT image below depicts accordion sign:",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q6_img1_0e905e86.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp6_img1_5e2b517a.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 7,
+      "question": "A 64-year-old man is rushed to the ER with severe abdominal pain, abdominal distension,and obstipation. His erect X-ray abdomen is as shown. Which of the following is the likelydiagnosis?270",
+      "options": {
+        "A": "Sigmoid volvulus",
+        "B": "Colonic diverticulosis",
+        "C": "Cecal volvulus",
+        "D": "Paralytic ileus"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario of a 64-year-old man with severe abdominal pain, abdominaldistension, and obstipation along with the radiograph showing the coffee bean sign is likely tobe sigmoid volvulus.283It occurs when the sigmoid colon twists on the sigmoid mesocolon.A sigmoid volvulus can be differentiated from a cecal volvulus by swirl sign, location of theobstructed loop, and anatomical appendages. The apex of a sigmoid volvulus usually lies high onthe left side. The apex of a caecal volvulus may lie on the right side or extend to the left upperquadrant. The swirl sign in with sigmoid volvulus is located at the level of the pelvic brim whilethe swirl in cecal volvulus is located in the right lower quadrant.Other options:Option C: Cecal volvulus is more common in females in the 4th to 5th decade. It is characterizedby ischemia.SUPINE100 mmOption D: Paralytic ileus occurs secondary to neuromuscular failure, leading to the failure oftransmission of peristaltic waves. It mainly occurs following laparotomy. A CT scan is moreaccurate for differentiating functional from mechanical obstruction. The image given below is anX-ray of the paralytic ileus showing gas-filled loops of the intestine with multiple fluid levels.284Differences between the small bowel and large bowel obstruction:Option B: Colonic diverticula are almost all false diverticula, i.e., mucosa herniating through adefect in the muscularis layer, typically covered by overlying serosa (where present). The givenbarium enema study shows a saw-tooth appearance due to barium-filled outpouchings, suggestiveof colonic diverticulosis.FeaturesSmall bowelLarge bowelValvulae conniventePresent in jejunuAbsentSmNo of LoopsManyDistribution of loops CentralHaustraDiameterSolid fecesFewPeripheralAbsentPresent3-5 cmAbsent>5 cmPresentDAILYROUNDS",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q7_img1_c802fe82.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp7_img1_faf0204e.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 8,
+      "question": "An elderly man is being evaluated for constipation and the finding seen on imaging studies isgiven in the image below. What is the probable diagnosis?",
+      "options": {
+        "A": "Sigmoid volvulus271",
+        "B": "Ceacal volvulus",
+        "C": "Carcinoma colon",
+        "D": "Intussusception"
+      },
+      "correct_answer": "A",
+      "explanation": "In the given clinical scenario, an elderly man presenting with constipation, along with a bariumenema image showing the \"bird of prey\" sign, is highly suggestive of sigmoid volvulus.This radiological sign, observed during the barium enema study, represents smooth taperednarrowing at the point of torsion of the sigmoid colon, looking like a hooked beak.Sigmoid volvulus is a cause of large bowel obstruction and occurs when the sigmoid colon twistson the sigmoid mesocolon. Symptoms include constipation, abdominal bloating, nausea, and/orvomiting. The onset may be acute or chronic. It occurs more commonly in patients with chronic285constipation.X-ray of the abdomen shows a large, dilated loop of the colon, often with a few air-fluid levels.Specific signs include the coffee bean sign/bent inner tube sign, Frimann-Dahl sign(three denselines converge towards the site of obstruction), and the absence of rectal gas. CT may reveal alarge gas-filled loop without haustral markings, forming a closed-loop obstruction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q8_img1_58fde1b7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 9,
+      "question": "Identify the artery marked by blue arrow.",
+      "options": {
+        "A": "Superior mesenteric artery",
+        "B": "Inferior mesenteric",
+        "C": "Celiac artery",
+        "D": "Intestinal artery"
+      },
+      "correct_answer": "A",
+      "explanation": "The artery marked by the blue arrow is the superior mesenteric artery (SMA), which gives rise tovarious branches that supply the small intestines, cecum, ascending, and part of the transversecolon.The CT also depicts nutcracker syndrome, a left renal vein entrapment syndrome characterized byextrinsic compression of the left renal vein (marked by a red arrow), most commonly between theabdominal aorta and superior mesenteric artery. This syndrome is one of the postulated reasonsfor left-sided varicoceles being more common than the right side.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q9_img1_acdacc63.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 10,
+      "question": "A 24-year-old woman presents with chronic bloody diarrhea and abdominal pain. A bariumenema was done and is as shown. What is her likely diagnosis?272",
+      "options": {
+        "A": "Ulcerative colitis",
+        "B": "Tuberculosis",
+        "C": "Crohns disease",
+        "D": "Sigmoid volvulus"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario along with the lead pipe appearance of the colon in the barium study issuggestive of ulcerative colitis.Ulcerative colitis is an inflammatory bowel disease resulting in superficial erosions confined to themucosa and submucosa of the colon. It starts from the rectum and extends proximally in acontinuous manner. Clinical features include abdominal pain, diarrhea (often with blood), rectalbleeding, tenesmus, and passage of mucus.On barium studies, the lead pipe appearance refers to the complete loss of haustral markings inthe affected section of the colon, which appears smooth-walled and cylindrical, resulting fromchronic inflammation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q10_img1_c6196920.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 11,
+      "question": "A young man presented with weight loss, and recurrent episodes of non-bloody diarrhea forthe past 6 months. CT abdomen was done and is shown below. What is the likely diagnosis?",
+      "options": {
+        "A": "Ulcerative colitis273",
+        "B": "Crohn's disease",
+        "C": "Tuberculosis",
+        "D": "Carcinoma caecum"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario along with the CT abdomen showing comb sign is suggestive of Crohn'sdisease.The comb sign refers to the hypervascular appearance of the mesentery in active Crohn's disease.The fibrofatty proliferation and perivascular inflammatory infiltration outline the distendedintestinal arcades. This forms linear densities on the mesenteric side of the affected segments ofthe small bowel, which give the appearance of the teeth of a comb.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q11_img1_adbd8411.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 12,
+      "question": "A 30-year-old woman presented with a low-grade fever associated with loss of appetite andweight loss. A barium meal follow-through was done and is as shown. What is the probablediagnosis?",
+      "options": {
+        "A": "Ileocaecal TB",
+        "B": "Colonic diverticulosis",
+        "C": "Crohn's disease",
+        "D": "Carcinoma caecumIC JUNCTION"
+      },
+      "correct_answer": "A",
+      "explanation": "286The given clinical scenario along with the barium study findings is suggestive of ileocaecaltuberculosis. The given image shows dilated proximal ileum, narrowed terminal ileum andileocaecal junction, and shrunken caecum.The ileocaecal junction is the commonest site of tuberculosis in the gastrointestinal tract. Othersites involved in the abdomen are the liver, spleen, and peritoneum.•Barium meal follow-through study findings in ileocaecal tuberculosis are:• Dilatation of proximal ileum• Narrowed terminal ileum (string sign) and ileocaecal junction•Gooseneck ileus - ileum hanging from pulled up caecum• The ileocaecal angle becomes obtuse•Caecum appears shrunken and pulled up away from the right iliac fossa• Conical caecum• Fleischner signShrunkenCaecumIleocaecal TuberculosisIC junctionString signDilatedproximal ileum",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q12_img1_86476c84.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp12_img1_857489e0.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following signs is seen on barium studies in patients with ileocaecal TB?",
+      "options": {
+        "A": "Fleischner sign",
+        "B": "Frimann Dahl's sign",
+        "C": "Diamond sign",
+        "D": "Target sign274"
+      },
+      "correct_answer": "A",
+      "explanation": "Fleischner sign observed in barium studies of ileocaecal tuberculosis describes a widely gaping,thickened, patulous ileocaecal valve alongside a narrowed and ulcerated terminal ileum.Intestinal tuberculosis, caused by Mycobacterium tuberculosis (often secondary to pulmonarytuberculosis) or by Mycobacterium bovis (as a primary GI infection), most commonly affects theileocaecal junction. Symptoms include cough, evening rise in temperature, weight loss, malaise,abdominal pain with distension, and intermittent diarrhea. On palpation, the abdomen feelsdoughy and a mass may be palpated in the right iliac fossa.The provided single-contrast barium enema image shows narrowing of the terminal ileum withfine contour irregularities, contracted cecum, and a widely patent ileocecal valve- characteristic of287ileocaecal tuberculosis.ShrunkenCaecumIleocaecal TuberculosisIC junctionString signDilatedproximal ileumNote: Fleischner sign could also refer to a prominent central pulmonary artery seen in pulmonaryembolism or pulmonary hypertension.APERECTMOBILE",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp13_img1_c774af27.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 14,
+      "question": "String sign on radiological imaging is seen in all of the following conditions except?",
+      "options": {
+        "A": "Ileocaecal tuberculosis",
+        "B": "Hypertrophic pyloric stenosis",
+        "C": "Crohn's disease",
+        "D": "Ulcerative colitis"
+      },
+      "correct_answer": "D",
+      "explanation": "String sign is not seen in ulcerative colitis.String sign refers to the thin, string-like appearance of a severely narrowed bowel loop onradiographic imaging. This narrowing occurs due to spasms, edema, inflammation or ulceration.It is commonly seen in Crohn's disease (string sign of Kantor), hypertrophic pyloric stenosis, andileocaecal tuberculosis.Other options:288Option C: Given below is the barium study showing string sign of Kantor seen in Crohn's disease:DAILY ROUNDSOption B: Given below are images showing congenital hypertrophic pyloric stenosis:MushroomsignStringsignOption A: Given below is a barium enema showing string sign in ileocaecal tuberculosis:289ShrunkenCaecumIleocaecal TuberculosisIC junctionString signDilatedproximal ileum",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp14_img1_486ae16d.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 15,
+      "question": "A 59-year-old man is being evaluated for a change in bowel habits associated with abdominaldiscomfort. A barium enema study was done and is shown below. What is the likely diagnosisof this patient?",
+      "options": {
+        "A": "Ileocaecal TB",
+        "B": "Irritable bowel syndrome",
+        "C": "Carcinoma colon",
+        "D": "Sigmoid diverticulosis"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario, along with the given image showing the 'apple core appearance' inbarium enema, is suggestive of carcinoma colon.Apple core sign/napkin ring sign describes a short segment of irregular circumferential strictureinvolving the large bowel. It has shouldered margins resembling an apple core. The appearance isclassically described on contrast enema studies and is almost always due to a stenosingannular colon carcinoma.Colon carcinoma typically arises in patients above the age group of 50 years. It arises from theadenomatous polyps after a mutation sequence of adenoma-carcinoma influenced byenvironmental factors. Most colon cancers occur in the left colon. The clinical features of coloncarcinoma include a change in bowel habits or rectal bleeding in cases of left-sided colon tumorsand iron deficiency anemia or a mass in proximal lesions of the colon.Colonoscopy is the investigation of choice in suspected colorectal carcinoma. Double-contrastbarium enema shows a constant irregular filling defect known as the apple core appearance.Computed tomography (CT) virtual colonoscopy has replaced barium enema as it is highlysensitive. Spiral CT of the chest, abdomen and pelvis is now the standard means for staging coloncancer.The image below shows the apple-core sign:290",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q15_img1_800dc08e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp15_img1_4e699631.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 16,
+      "question": "A barium enema study of a patient is given below. What is the likely diagnosis?275",
+      "options": {
+        "A": "Colonic diverticulosis",
+        "B": "Crohn's disease",
+        "C": "Colonic cancer",
+        "D": "Ulcerative colitisDAILYROUNDS"
+      },
+      "correct_answer": "A",
+      "explanation": "The given barium enema study is showing a saw tooth appearance suggestive of colonicdiverticulosis. Both single and double-contrast barium enemas are able to demonstrate diverticulaas barium-filled outpouchings.Colonic diverticula are almost all false diverticula i.e., mucosa herniating through a defect in themuscularis and covered by overlying serosa (where present). This herniation typically occurswhere nutrient arteries enter the colon, and therefore, are more common on the mesenteric sideof the colon. Colonic diverticula are most common in the sigmoid colon and, to a lesser extent, inthe descending colon.Given below is the barium enema study of colonic diverticulosis, the arrows are pointing to thebarium-filled outpouching suggestive of diverticula.291DAILYROUNDS",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q16_img1_b6db68aa.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp16_img1_9930fd2f.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 17,
+      "question": "A two-day-old neonate with abdominal distension and failure to pass meconium underwent abarium enema study, as shown below. What is the most probable diagnosis?3 FILMSUPINERBARIUM ENEMA R",
+      "options": {
+        "A": "Anal atresia2764 FILMPRONEBARIUM ENEMA",
+        "B": "Hirschsprung's disease",
+        "C": "Meconium ileus",
+        "D": "Toxic megacolon"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario and the barium enema showing a dilated right colon, with a transitionzone in the mid-descending colon, are together suggestive of Hirschsprung disease.The most important sign on barium enema is a sudden change of calibre from the narrowaganglionic segment and dilated proximal bowel.Hirschsprung disease is characterized by aganglionosis (absence of ganglion cells) in the distalcolon and rectum. This may occur due to the failure of neuroblasts in neural crest cells to migrateinto bowel segments or the degeneration of already migrated neuroblasts. Hence, functionalobstruction develops as a result of a spasm in the denervated colon.Clinical features typically include failure to pass meconium within the first 48 hours of life,abdominal distension, vomiting, and constipation. Hirschsprung disease may present withenterocolitis, a severe complication that can be life-threatening. There is a notable associationbetween Hirschsprung disease and Down's syndrome.Water-soluble contrast enema is the initial investigation and diagnostic test of choice. It shows anarrow aganglionic segment, a conical transition zone, and a dilated proximal bowel. Rectalbiopsy is the gold standard investigation.The image below shows dilated ganglionic and contracted aganglionic segments in Hirschsprungdisease:Hirschsprung diseaseARAganglionicSegment(Contracted)OMARROWGanglionicSegment(Relaxed)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q17_img1_75ee540c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp17_img1_6de1e959.jpeg",
+      "chapter_heading": "Lower Gl Radiology"
+    },
+    {
+      "q_no": 18,
+      "question": "A newborn presented with severe respiratory distress soon after birth. A chest X-ray was doneand is shown below. What is the most probable diagnosis?",
+      "options": {
+        "A": "Bronchogenic cyst",
+        "B": "Congenital diaphragmatic hernia",
+        "C": "Congenital cystic adenomatoid malformation",
+        "D": "Cystic teratoma"
+      },
+      "correct_answer": "B",
+      "explanation": "A newborn presenting with respiratory distress shortly after birth, along with the chest X-rayshowing bowel loops in the thoracic cavity, is suggestive of congenital diaphragmatic hernia(CDH).292Normally, the pleuroperitoneal cavities separate by 8-10 weeks of gestation. CDH is due to afailure to close the pleuroperitoneal canal in the developing fetus. This malformation allows theabdominal organs to push into the chest cavity, impairing lung development and function. Themost common type of CDH is a Bochdalek hernia, which usually involves the left side. Mortality ispredominantly due to the development of pulmonary hypoplasia.Chest X-ray findings in congenital diaphragmatic hernia include:• Bowel loops in the thorax.•Indistinct diaphragm with opacification of part of or all the hemithorax (typically left-sided)• Deviation of lines such as the endotracheal tube, nasogastric tube, umbilical arterial and venouscatheters.Given below is the chest radiograph of Bochdalek hernia.Given below is the chest radiograph of Morgagni hernia.293Note: Bag and mask ventilation is to be avoided in the management of this baby. Bag and maskventilation may increase abdominal distension and limit the expansion of the hypoplastic lungs.294",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q18_img1_e8071777.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Lower Gl Radiology"
+    }
+  ]
+}

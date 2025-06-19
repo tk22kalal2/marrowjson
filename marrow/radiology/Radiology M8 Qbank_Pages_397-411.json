@@ -1,0 +1,305 @@
+{
+  "chapter": "Nuclear Medicine",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is true regarding PET scans?",
+      "options": {
+        "A": "It uses gamma emitting radioisotope",
+        "B": "It is used for 2D image reproduction",
+        "C": "Lead collimators are used",
+        "D": "It can be used for hybrid imaging"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp1_img1_493edbab.jpeg",
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is the principle of PET scan?",
+      "options": {
+        "A": "Single photon peak at 511 keV",
+        "B": "Dual photon peak at 511 keV",
+        "C": "Single photon peak at 211 keV",
+        "D": "Dual photon peak at 211 keV"
+      },
+      "correct_answer": "",
+      "explanation": "PET scans are based on the principle of production of a dual photon peak at 511 keV.To perform a PET scan, a radionuclide tracer (labeled to FDG molecules) is used. These moleculesdecay in the body with the release of a positron. The positron travels a short distance andannihilates with an anti-particle (electron). This annihilation reaction results in the formation oftwo high-energy photons that travel in opposite directions. Each photon has an energy of 511 keV,making this a dual photon peak at 511 keV.404",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following compounds are used in PET scan?",
+      "options": {
+        "A": "Fluorodeoxyglucose",
+        "B": "Technetium pertechnate",
+        "C": "Thallous chloride",
+        "D": "Gallium citrate"
+      },
+      "correct_answer": "",
+      "explanation": "PET involves the use of a radiolabelled bio-compound such as 2-fluoro-2-deoxy-D-glucose (FDG)which is injected intravenously. This compound is taken up and broken down in the cells.It is based on the principle that tumour cells have a high metabolic rate, and hence this compoundis also metabolised by tumour cells. FDG is metabolised to FDG-6-phosphate which cannot befurther metabolized by tumour cells. Hence it accumulates in tumour cells and can be measuredand quantified.The applications of PET include:• Oncologic:•Detection, staging, drug response• Differentiation between radiation necrosis and recurrence• Neurologic:•Early diagnosis of Alzheimer's disease• Localisation of seizure focus in the interictal phase•Localising eloquent areas (e.g. speech, motor function)• Cardiac: Identification of hibernating myocardium",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 4,
+      "question": "While performing a PET-CT scan, uptake in which of the following areas is likely to be a falsepositive?",
+      "options": {
+        "A": "Urinary bladder",
+        "B": "Testes397",
+        "C": "Pancreas",
+        "D": "Lymph nodes"
+      },
+      "correct_answer": "",
+      "explanation": "On 18F-FDG PET-CT scan, the urinary bladder shows normal physiological uptake and is apotential source of false-positive in oncologic imaging.The following are areas of normal physiological uptake on PET CT:• Brain tissue• Skeletal muscle, especially after strenuous activity and laryngeal muscles following speech• Myocardium•Gastrointestinal tract - intestinal wall.Genitourinary tract - as FDG is excreted via the renal system and passes into the collectingsystems•⚫ Brown fat - FDG accumulates here as glucose and ATP are required for heat production.• Thymus•Bone marrowThe following image shows supraclavicular uptake on a PET scan, due to the presence of brownadipose tissue.405",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a device used to image gamma radiation in scintigraphy?",
+      "options": {
+        "A": "Gamma camera",
+        "B": "Scintillation camera",
+        "C": "Anger camera",
+        "D": "Photon camera"
+      },
+      "correct_answer": "",
+      "explanation": "A photon camera is not used in scintigraphy.A gamma camera, also called a scintillation or Anger camera, is used to image gammaradiation-emitting radioisotopes. This technique is known as scintigraphy.The applications of scintigraphy include:•••Early drug development.Nuclear medical imaging to view and analyze images of the human body.• Assess the distribution of medically injected, inhaled, or ingested radionuclides emitting gammarays.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 6,
+      "question": "Among the following, which isotope is used in nuclear scanning?",
+      "options": {
+        "A": "Tc-99m",
+        "B": "I-125",
+        "C": "Cs-137",
+        "D": "Ir-192"
+      },
+      "correct_answer": "",
+      "explanation": "Technetium agents based on technetium-99m (Tc-99m) radioisotopes are the most frequentlyused agents in nuclear imaging.Tc-99m is a radioactive isotope that works by emitting gamma rays in the targeted tissue or organ.These gamma rays are then detected and recorded by specialized gamma camera for medicalimaging purposes. The radioactive technetium can be chelated to several different compounds tocreate specific radiopharmaceuticals and optimize imaging of various structures.The half-life of Tc-99m is 6 hours. It produces gamma rays of 140 keV. It is a pure gamma emitteras it is in a metastable state. It decays to the stable isotope of ruthenium-99.Other options:Iodine-125, caesium-137, and iridium-192 are used in radiotherapy.406",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 7,
+      "question": "An 84-year-old man has been diagnosed with Alzheimer's disease. Which of the following canbe used to assess his cerebral perfusion?",
+      "options": {
+        "A": "Tc-HMPAO SPECT",
+        "B": "In-111 DTPA",
+        "C": "Tc-99m MIBI",
+        "D": "Tl-201 scintigraphy"
+      },
+      "correct_answer": "",
+      "explanation": "Tc-HMPAO (technetium-99m hexamethyl propylenamine oxime) SPECT is used for theassessment of cerebral perfusion. In Alzheimer's disease, it shows reduced perfusion of thetemporoparietal region.Other options:Option B: In-111 (Indium) DTPA is injected intrathecally to assess CSF flow.Option C: Tc-99m (Technetium) MIBI is used for parathyroid scintigraphy.Option D: Tl-201 (Thallium) is used in myocardial perfusion scanning.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 8,
+      "question": "An oncologist orders a bone scan to assess for bony metastases in a 49-year-old woman withbreast cancer. The radioactive isotope of which of the following is used?",
+      "options": {
+        "A": "Phosphorous398",
+        "B": "Iridium",
+        "C": "Technetium",
+        "D": "Gallium"
+      },
+      "correct_answer": "",
+      "explanation": "Technetium tagged to various substrates is used for bone scans.The patient is injected with a small amount of radioactive material such as 600 MBq oftechnetium-99m-MDP and scanned with a gamma camera, a device sensitive to the radiationemitted by the injected material. MDP (methyl diphosphonate) adsorbs into the hydroxyapatitecrystals and accumulates in the areas of active bone formation.Given below is a bone scan demonstrating bony metastasis in the pelvis.RTLT LTRT RTLT LTRTANTERIORPOSTERIORANTERIORPOSTERIOROther options:Phosphorous (P-32) and Iridium (Ir-192) are used in radiotherapy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp8_img1_549a051a.jpeg",
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 9,
+      "question": "A 48-year-old woman who underwent a renal transplant 4 months ago comes for follow-up.Which of the following would you perform to assess her renal function?",
+      "options": {
+        "A": "Tc 99m DMSA",
+        "B": "Tc 99m DTPA",
+        "C": "Tc 99m MAG3",
+        "D": "Captopril DTPA"
+      },
+      "correct_answer": "B",
+      "explanation": "407Tc-99m MAG3 (mercaptoacetyltriglycine) scan can be used in the evaluation of renal transplantfunction and may also be used in transplant obstruction. The imaging findings of acute rejectionare characterised by diminished flow.Tc-99m MAG3 radioisotope is eliminated through the kidney through both glomeruli filtrationand tubular excretion and is a measure of both. Indications for 99mTc-MAG3 dynamicrenography are as follows:• To assess divided renal function and urinary drainage where the collecting system is significantlydilated.• To assess differential renal function following surgery or procedure, for example,•post-pyeloplasty.To assess for a urinary leak or possible obstruction following the renal transplant.Other options:Option A: Tc-99m DMSA (dimercaptosuccinic acid) is used to evaluate renal structure andmorphology, particularly in pediatric imaging for detecting scarring and pyelonephritis. It is anideal agent for the assessment of the renal cortex.Option B: Tc-99m DTPA (diethylene-triamine-pentaacetate) is cleared only via glomeruli and hasno tubular excretion. Hence, it is used for direct measurement of GFR.Option D: Captopril DTPA is used for screening in patients with renovascular hypertension.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 10,
+      "question": "Technetium 99m labeled RBC scan is useful in which of the following patients?",
+      "options": {
+        "A": "2, 3, 4",
+        "B": "2, 3, 5",
+        "C": "1, 4, 5",
+        "D": "1, 3, 4"
+      },
+      "correct_answer": "D",
+      "explanation": "Tc-99m labeled RBC scan would be useful in patients 1, 3, and 4. The uses of Tc-99m labeled RBCscan include assessment of the following:••• Assessment of cardiac function in congestive cardiac failure and congenital heart disease⚫ Occult gastrointestinal (GI) bleed• Vascular lesions like hepatic haemangiomaEctopic splenic tissue (splenosis)Other options:Tc-99m labeled leucocytes are used in inflammatory bowel disease (IBD).18-Fluorodeoxyglucose PET scan is used in tumors, including solitary pulmonary nodules.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 11,
+      "question": "A DMSA scan can be performed in all of the following cases except:",
+      "options": {
+        "A": "To look for renal scarring in a child with vesicoureteric reflux",
+        "B": "To evaluate a patient with a duplex renal collecting system",
+        "C": "To assess renal perfusion in a man with renal artery stenosis",
+        "D": "To confirm the presence of an ectopic kidney in a patient"
+      },
+      "correct_answer": "",
+      "explanation": "Tc-99m DMSA (dimercaptosuccinic acid) scan cannot be used to measure renal plasma flow as itcan be only seen on dynamic scans.The Tc-99m DMSA scan is used for the assessment of renal cortex as it binds to the sulfhydrylgroups in proximal tubules with longer retention than other agents. It allows better assessment ofdifferential renal function. It is a static scan as opposed to dynamic DTPA or MAG3 scans. It is408used for the following:• Evaluation of renal structure and morphology• Detection of scarring and pyelonephritis• Evaluation of renal anatomical abnormalitiesNote: Captopril DTPA is used for screening in patients with renovascular hypertension.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 12,
+      "question": "A 61-year-old stroke patient is scheduled to undergo cerebral perfusion scanning. Which ofthe following would not be useful?399",
+      "options": {
+        "A": "82RbCl",
+        "B": "150-H2O",
+        "C": "13N-NH3",
+        "D": "18F-FDG"
+      },
+      "correct_answer": "C",
+      "explanation": "18F-FDG is a metabolic tracer that is a glucose analog tagged with positron-emitting fluorine-18.It has no role in measuring cerebral perfusion.The following radiotracers are used for the measurement of cerebral perfusion:• 82RbCl (Rubidium chloride)•• 150-H2O• 13N-NH3 (Ammonia)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 13,
+      "question": "A 2-year-old child is brought with recurrent episodes of blood in his stool. Meckel'sdiverticulum is suspected. Which of the following can be used to confirm the diagnosis?",
+      "options": {
+        "A": "Te pyrophoshate",
+        "B": "Tc 99m DTPA",
+        "C": "Tc 99m MAG3",
+        "D": "Tc 99m pertechnetate"
+      },
+      "correct_answer": "D",
+      "explanation": "Tc 99m pertechnetate scanning is used to confirm the diagnosis of Meckel's diverticulum.Tc 99m pertechnetate scan, a radionuclide imaging more accurate in the pediatric age group thanin adults for Meckel's diverticulum. It has a very high sensitivity and specificity for bleedingMeckel diverticula but is of little value in children with no history of rectal bleeding.•Other uses of Tc-99m pertechnetate include:•Thyroid imaging• Parathyroid imaging for distinguishing from the thyroid gland• Testicular imaging• Gastric emptying studies, intestinal and rectal functional studies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 14,
+      "question": "A 60-year-old woman is being evaluated for severe leg and back pain. CBC shows Hb of 7 g/dland serum creatinine is 2.3 mg/dl. A plain X-ray of her femur reveals the following. A bonescan in this patient would likely show which of the following findings?",
+      "options": {
+        "A": "Hot spots",
+        "B": "Cold spots",
+        "C": "Diffusely increased uptake400",
+        "D": "Diffusely decreased uptake"
+      },
+      "correct_answer": "B",
+      "explanation": "This clinical scenario and image showing multiple lytic lesions are suggestive of multiplemyeloma. This condition presents with cold spots on bone scans as there is a lackof compensatory osteoblastic activity.Multiple myelomas are the most common primary malignant bone neoplasm in adults arisingfrom red marrow due to the monoclonal proliferation of the plasma cells.409",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q14_img1_6ace1e51.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 15,
+      "question": "A 56-year-old man is rushed to the ED with severe chest pain and is diagnosed with acutemyocardial infarction. Which of the following can be used to assess the area of infarction inthis patient?",
+      "options": {
+        "A": "Thallium-20",
+        "B": "Gallium",
+        "C": "Tc-99m pyrophosphate",
+        "D": "Cobalt-91"
+      },
+      "correct_answer": "C",
+      "explanation": "Technetium 99m pyrophosphate is used in hot spot imaging in acute myocardial infarction. Itaccumulates in the damaged myocardium and the area of infarct appears as a hot spot.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 16,
+      "question": "A 40-year-old woman is referred from a PHC for the evaluation of nodular thyroidenlargement. As part of the evaluation, she is planned for a radio uptake scan. Which of thefollowing isotopes is not used in this test?",
+      "options": {
+        "A": "Iodine-123",
+        "B": "Iodine-124",
+        "C": "Tc 99m",
+        "D": "Iodine-127"
+      },
+      "correct_answer": "D",
+      "explanation": "Iodine-127 is the stable isotope and is not useful for thyroid imaging.The following isotopes are useful in thyroid imaging:• Iodine-123: Functional scan of the thyroid• Iodine-124: Produces positrons and is used in PET scans.• Tc 99m pertechnetate",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 17,
+      "question": "A 43-year-old woman presented with recurrent headaches, palpitations, and sweating. Herblood pressure was found to be 170/110 mm Hg. Further testing revealed elevated urinarymetanephrines. An MRI was negative. What is the next best step in management?",
+      "options": {
+        "A": "C11 methionine PET",
+        "B": "18F-NaF PET",
+        "C": "Gallium 68 DOTATOC PET",
+        "D": "99mTc pertechnetate scan"
+      },
+      "correct_answer": "C",
+      "explanation": "This clinical scenario is suggestive of pheochromocytoma. The diagnosis can be confirmed bygallium-68 somatostatin receptor DOTATOC PET scan.Somatostatin receptor scintigraphy shows increased activity in paragangliomas and is a usefultechnique for identifying extra-adrenal phaeochromocytomas. The compounds often used inmolecular imaging with PET include 68Ga-DOTATOC, 68Ga-DOTATATE, and 68Ga-DOTANOC.They bind to somatostatin receptors with varying affinity for different receptors.This investigation is useful in the diagnosis of new lesions in patients with or suspectedneuroendocrine tumors.Other options:Option A: C11 methionine PET is a radiolabelled amino acid, and tumour uptake reflects cellularproliferation and microvessel density. It is used in the grading of brain tumors, differentialdiagnosis and identifying recurrence.Option B: 18F-NaF PET uptake reflects blood flow and bone remodelling. It is used for imagingbone pathology by detecting primary and secondary bone tumours.Option D: 99mTc pertechnetate is useful for thyroid nodules, and ectopic gastric mucosa.Note: The investigation of choice for adrenal phaeochromocytoma is contrast-enhanced MRI.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 18,
+      "question": "401Technetium-99m labelled heat-denatured RBCs are used to diagnose pathology in which ofthe following?",
+      "options": {
+        "A": "Biliary system",
+        "B": "Kidney",
+        "C": "Pulmonary circulation",
+        "D": "Spleen"
+      },
+      "correct_answer": "D",
+      "explanation": "Technetium-99m labelled heat-denatured RBCs are used for specific splenic assessment and isgold-standard in splenosis.The uses of Tc-99m labelled RBC scan include assessment of the following:410• Assessment of cardiac function in congestive cardiac failure and congenital heart disease• Occult gastrointestinal (GI) bleed•• Vascular lesions like hepatic haemangioma• Ectopic splenic tissue (splenosis)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 19,
+      "question": "What is PACS in medical imaging?",
+      "options": {
+        "A": "Planned archiving and communication system",
+        "B": "Planned archiving computerized system",
+        "C": "Picture archiving and communication system",
+        "D": "Picture archiving or computerized system"
+      },
+      "correct_answer": "C",
+      "explanation": "Picture archiving and communication system (PACS) is a modality of imaging technology thathelps in image transmission from the site of acquisition of images, to multiple different sites atdifferent locations.This is not only economical (film-less department), but is also convenient to access multiplemodalities (radiographs, CT, MRI, ultrasound) simultaneously at multiple locations within thehospital or across the globe.Digital Imaging and Communications in Medicine (DICOM) is a standard for handling, storing,printing, and transmitting information in medical imaging. DICOM is used worldwide to store,exchange, and transmit medical images.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    },
+    {
+      "q_no": 20,
+      "question": "Radioactive iodine uptake scan of a patient showed the following result. This is suggestive ofwhich of the following conditions?",
+      "options": {
+        "A": "Graves' disease",
+        "B": "Endemic iodine deficiency",
+        "C": "Subacute thyroiditis402",
+        "D": "HCG induced thyrotoxicosis"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image shows low radioactive iodine uptake (RAIU) suggestive of subacute thyroiditis.High RAIU is caused due to Graves' disease, endemic iodine deficiency, and HCG-inducedthyrotoxicosis.In non-pregnant, hyperthyroid patients with physical examination suggesting nodular thyroiddisease, radioactive iodine should be the initial test to determine the etiology. Pregnancy andbreastfeeding are absolute contraindications to radionuclide imaging.411",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q20_img1_63eee588.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Nuclear Medicine"
+    }
+  ]
+}

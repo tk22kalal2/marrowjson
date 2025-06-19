@@ -1,0 +1,290 @@
+{
+  "chapter": "Disorders & Cerebrovascular Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A patient complains of neck stiffness and severe headache. The CT image shown below is suggestive of which of the following conditions?",
+      "options": {
+        "A": "Meningitis",
+        "B": "Subarachnoid hemorrhage",
+        "C": "Intraparenchymal hemorrhage",
+        "D": "Hemorrhagic stroke"
+      },
+      "correct_answer": "B",
+      "explanation": "The symptoms of neck stiffness and severe headache, combined with the CT image, are indicative of subarachnoid hemorrhage.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q1_img1_794e6e94.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the most common site of hypertensive bleed in the brain?",
+      "options": {
+        "A": "Basal ganglia",
+        "B": "Cerebellum",
+        "C": "Pons",
+        "D": "Thalamus"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common site of hypertensive bleed in the brain is the basal ganglia (putamen in particular). The most common cause of intracerebral hemorrhages is hypertension. Following are the typical locations of ICH in order of decreasing frequency: • Basal ganglia hemorrhage (especially the putamen) • Thalamic hemorrhage • Pontine hemorrhage • Cerebellar hemorrhage",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "A 4-year-old boy is brought to casualty after falling from a balcony. Based on the CT scan findings provided, what is the most likely diagnosis?",
+      "options": {
+        "A": "Subdural hematoma",
+        "B": "Subarachnoid hemorrhage",
+        "C": "Epidural hematoma",
+        "D": "Hemorrhagic contusion"
+      },
+      "correct_answer": "C",
+      "explanation": "The above axial CT shows a hyperdense lentiform (biconvex) opacity, consistent with an epidural hematoma, which is a collection of blood between the inner surface of the skull and the outer periosteal layer of the dura mater, typically following a history of trauma. The characteristic biconvex shape arises due to the limited ability of blood to expand within the fixed attachment of periosteal dura to the cranial sutures. If bleeding is significant, it may lead to a mass effect with herniation. Additionally, a swirl sign may be present, representing acute blood extravasation into a hematoma (extradural/subdural), showing fresh, unclotted blood with lower attenuation than the clotted blood (which is of a higher attenuation), highlighting the need for surgical intervention. The following CT image depicts a swirl sign.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q3_img1_48725334.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp3_img1_5d5e05f5.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "A 28-year-old man is brought to the emergency room following an RTA. His GCS progressively declines over hours. Based on the MRI finding shown, what is the most likely diagnosis? T2*",
+      "options": {
+        "A": "Diffuse axonal injury",
+        "B": "Extensive subarachnoid hemorrhage",
+        "C": "Hypoxic cerebral injury",
+        "D": "Multiple hemorrhagic contusions"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical scenario of a declining GCS score following a road traffic accident, combined with the given MRI demonstrating hypointense microhemorrhagic foci, suggests diffuse axonal injury (DAI). Diffuse axonal injury (white matter shearing) is a severe form of traumatic brain injury caused by rotational acceleration/deceleration, leading to axonal shearing or disruption and forming microhemorrhages. Typically, these lesions are located at the grey-white matter junction in the corpus callosum and, in severe cases, the brainstem. MRI is the preferred modality for assessing suspected diffuse axonal injury, even in patients with a normal CT of the brain. Gradient-recalled echo (GRE) and susceptibility-weighted imaging (SWI) are the most sensitive MRI sequences for detecting microbleeds, which appear as hypointense foci.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q4_img1_4f8619b2.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp4_img1_2b6f88b7.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "A 9-year-old child presents with recurrent transient ischemic attacks and occasional headaches. Cerebral X-ray angiography is done as shown below. What is the likely diagnosis?",
+      "options": {
+        "A": "ACA aneurysm",
+        "B": "Cavernous sinus thrombosis",
+        "C": "Moyamoya disease",
+        "D": "Vein of Galen malformation"
+      },
+      "correct_answer": "C",
+      "explanation": "The above clinical scenario and cerebral X-ray angiography image shows the 'puff of smoke' appearance, characteristic of Moyamoya disease. Moyamoya disease is a rare, non-inflammatory, progressive, occlusive disease affecting the large intracranial arteries. In this condition, the lenticulostriate arteries form a rich collateral circulation around the occlusive lesions, creating the 'puff of smoke' angiographic appearance, referred to as 'moyamoya' in Japanese. It exhibits a bimodal age distribution, with onset typically occurring in the first and fourth decades of life. The most common presentation is stroke or transient ischemic attacks (TIA), with the nature of these events differing by age group. In childhood, ischemic events are predominant, while hemorrhagic manifestations are frequent in adults.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q5_img1_ae2cb316.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "The CT scan of a patient who presented with deteriorating consciousness is shown below. What is the diagnosis?",
+      "options": {
+        "A": "Subdural hygroma",
+        "B": "Tension pneumocephalus",
+        "C": "Non-tension pneumocephalus",
+        "D": "Epidural lipoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The given CT image demonstrates the Mount Fuji sign, a specific radiological finding of tension pneumocephalus. This sign is characterised by bilateral compression and separation of the frontal lobes due to the trapped subdural and interhemispheric free air, which appears as non-attenuating collections resembling the peak of Mount Fuji. Tension pneumocephalus is a rare, life-threatening condition most commonly caused by traumatic head injury. Other causes include skull base fractures, neurosurgical procedures, infections (meningitis, encephalitis, or brain abscess), brain tumours, or the use of nitrous oxide during anaesthesia. The mass effect exerted by the subdural air compresses the underlying brain parenchyma, often resulting from a ball-valve mechanism causing one-way air entry into the subdural space. This raises intracranial pressure (ICP), distinguishing it from non-tension pneumocephalus, which lacks significant mass effect or raised ICP. The elevated ICP leads to rapid clinical deterioration, such as worsening consciousness, necessitating urgent neurosurgical intervention to decompress the trapped air and prevent permanent brain damage.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q6_img1_c326f50e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the best imaging study for the earliest diagnosis of cerebral infarct?",
+      "options": {
+        "A": "FLAIR MRI",
+        "B": "Non-contrast CT",
+        "C": "CECT",
+        "D": "Diffusion-weighted MRI"
+      },
+      "correct_answer": "D",
+      "explanation": "The best imaging modality for the early diagnosis of cerebral infarction is diffusion-weighted MRI (DWI), which can detect infarcts as early as 30 minutes of onset and identify cytotoxic edema within a few hours of ischemic stroke. However, the initial investigation in suspected stroke cases is non-contrast CT due to its rapid acquisition time, widespread availability, and cost-effectiveness. It helps quickly rule out hemorrhagic stroke and facilitates the timely administration of intravenous tPA in eligible patients. Acute MCA territory infarct on CT is shown below: CT of Middle Cerebral Artery Territory Infarct. The image below is of a DWI MRI of a patient clearly showing the extent of the infarct. Diffusion-Weighted MRI of Middle Cerebral Artery Infarct",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp7_img1_71824855.png",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "The empty delta sign is a radiological feature of which of the following conditions?",
+      "options": {
+        "A": "Cerebral venous thrombosis",
+        "B": "Intracerebral hemorrhage",
+        "C": "Subdural hemorrhage",
+        "D": "Cavernous sinus thrombosis"
+      },
+      "correct_answer": "A",
+      "explanation": "The empty delta sign is a characteristic finding of superior sagittal sinus thrombosis, seen on contrast-enhanced CT (CECT) or MRI. It appears as a triangular filling defect (clot) outlined by contrast. This sign is not observed on non-contrast imaging. Superior sagittal sinus thrombosis - Empty delta sign",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp8_img1_820a8a2f.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "Which condition is associated with the pancake brain sign on CT?",
+      "options": {
+        "A": "Holoprosencephaly",
+        "B": "Lissencephaly",
+        "C": "Schizencephaly",
+        "D": "Porencephaly"
+      },
+      "correct_answer": "A",
+      "explanation": "The pancake brain sign represents the appearance of the cerebral parenchyma in the case of alobar holoprosencephaly. Holoprosencephaly is a developmental disorder of the brain caused by the defective formation of the prosencephalon and impaired induction of forebrain structures. It is commonly associated with trisomy 13 (Patau syndrome), with alobar holoprosencephaly representing the most severe form. Features of holoprosencephaly include a single ventricular cavity (boomerang-shaped/horseshoe ventricle), fusion of frontal lobes, corpus callosum dysgenesis, and other abnormalities. The following image is a CT brain showing a 'pancake appearance' in alobar holoprosencephaly: Warning: Not for diagnostic use. Other options: Option B: Lissencephaly represents a group of disorders caused by defective neuronal migration in the period between the 8th and 14th gestational weeks, resulting in a lack of development of gyri and sulci. The image given below shows lissencephaly. Option C: Schizencephaly is the presence of unilateral or bilateral clefts within the cerebral hemispheres due to an abnormality of morphogenesis. The image given below shows schizencephaly. Option D: Porencephaly is an extremely rare cephalic disorder involving encephalomalacia. It is a neurological disorder of the central nervous system characterized by cysts or cavities within the cerebral hemisphere.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp9_img1_8fcf3179.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "Identify this congenital anomaly found on the MRI image of a neonate.",
+      "options": {
+        "A": "Holoprosencephaly",
+        "B": "Lissencephaly",
+        "C": "Schizencephaly",
+        "D": "Porencephaly"
+      },
+      "correct_answer": "B",
+      "explanation": "The given axial T1 weighted image demonstrates the typical figure of eight sign consistent in a neonate with lissencephaly. This disorder results from defective neuronal migration in the period between the 8th and 14th weeks of gestation, leading to poor development or absence of gyri and sulci, thickened cortex, and shallow, widened Sylvian fissures, contributing to the above radiographic appearance. Other associated anomalies may include agenesis or hypoplasia of the corpus callosum or septum pellucidum. The following image shows the figure of eight sign of lissencephaly. Other options: Option A: Holoprosencephaly is a developmental disorder of the brain that results from the defective formation of the prosencephalon and inadequate induction of forebrain structures. The pancake brain sign represents the appearance of the cerebral parenchyma in the case of alobar holoprosencephaly. Option C: Schizencephaly is the presence of unilateral or bilateral clefts within the cerebral hemispheres due to an abnormality of morphogenesis. Option D: Porencephaly is an extremely rare cephalic disorder involving encephalomalacia. It is a neurological disorder of the central nervous system characterized by cysts or cavities within the cerebral hemisphere.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q10_img1_fd5a3d4b.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp10_img1_dde953dd.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "A mother brings her 2-month-old infant with complaints of irritability and seizures. On examination, the infant has a bulging fontanelle and macrocephaly. A CT scan was done, which shows the following. What is the most likely diagnosis? W100 L40",
+      "options": {
+        "A": "Dandy-Walker malformation",
+        "B": "Arnold Chiari malformation",
+        "C": "Vein of Galen malformation",
+        "D": "Joubert syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "The CT findings, along with the clinical features, are consistent with Vein of Galen malformation. The CT image shows a large cystic area that occupies the posterior aspect of the posterior fossa communicating directly with the fourth ventricle. No normal vermis can be identified, with a small vermian remnant appearing displaced and rotated superiorly. An enlarged posterior fossa with an elevation of the lateral venous sinuses and the tentorium is also noted. Dandy-Walker malformation is characterized by an enlarged fourth ventricle and a large cystic area. Other options: Option B, Arnold Chiari malformation, consists of herniation of the cerebellar tonsils through the foramen magnum. It is of two types: Chiari I malformation is the most common type, which is associated with peg-like cerebellar tonsils displaced into the upper cervical canal through the foramen magnum, and is also associated with syringomyelia. Chiari II malformation is the displacement of the medulla, fourth ventricle, and cerebellar vermis through the foramen magnum, and is associated with lumbosacral spinal myelomeningocele. Option D, Joubert syndrome, is an autosomal recessive neurologic disorder. A pathognomonic finding on axial MRI of the brain is the presence of prominent superior cerebellar peduncles, referred to as the 'molar tooth sign' of the midbrain-hindbrain junction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q11_img1_24a5f897.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp11_img1_a798a946.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "The MRI of a patient who presented with seizures is shown below. What is the likely diagnosis?",
+      "options": {
+        "A": "Sturge-Weber syndrome",
+        "B": "Tubercular Meningitis",
+        "C": "Meningioma",
+        "D": "Von Hippel-Lindau disease"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical presentation of seizures, characteristic port-wine stain on the face (capillary malformation), along with the above MRI findings of leptomeningeal enhancement and cortical atrophy, indicate a diagnosis of Sturge-Weber syndrome. These findings are because of pial angiomatosis best visualized in contrast-enhanced MRI. It occurs due to leptomeningeal hemangioma, resulting in a vascular steal affecting the subjacent cortex and white matter producing localized ischemia and calcification. The CT brain below, also shows tram-track cortical calcifications, a characteristic feature of Sturge-Weber syndrome.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q12_img1_dd32cee6.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp12_img1_fdb8f8cc.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "An 18-year-old male presented with seizures. On examination, hypopigmented macules and facial angiofibromas were present. CT image is given below. What is the probable diagnosis?",
+      "options": {
+        "A": "Von Hippel-Lindau disease",
+        "B": "Neurofibromatosis 1",
+        "C": "Tuberous sclerosis",
+        "D": "Sturge-Weber syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "The given CT image shows calcified subependymal hamartomatous nodules. The CT findings along with hypopigmented macules (ash-leaf macules) and facial angiofibromas (adenoma sebaceum) is suggestive of tuberous sclerosis. It is associated with renal angiomyolipoma and cardiac rhabdomyoma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q13_img1_b675f5a8.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp13_img1_0c24401e.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "The MRI of a patient who presented with headache and imbalance is shown below. What is the likely diagnosis?",
+      "options": {
+        "A": "Neurofibromatosis",
+        "B": "Von Hippel-Lindau disease",
+        "C": "Tuberous Sclerosis",
+        "D": "Sturge Weber Syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "The given axial T1WI MRI of the brain shows a well-defined hypointense lesion in the posterior fossa suggestive of hemangioblastoma. Hemangioblastomas are tumors of vascular origin and occur both in patients with Von Hippel-Lindau (VHL) disease as well as sporadically. Von Hippel-Lindau (VHL) disease characterizes the development of numerous benign and malignant tumors in different organs. It is associated with a mutation in the VHL tumor suppressor gene on chromosome 3. They are WHO-grade I tumors that can occur in the central nervous system. Features of VHL include pheochromocytoma, CNS hemangioblastoma - cerebellar and spinal, retinal hemangioblastoma, and choroid plexus papilloma. Other options: Option A: Neurofibromatosis is an autosomal-dominant neurocutaneous syndrome of 2 types: NF1 (neurofibromatosis 1) is also called Von Recklinghausen disease. It involves the NF1 gene on chromosome 17. It is an autosomal dominant disorder characterized by multiple café-au-lait macules and associated cutaneous neurofibromas. NF2 (Central neurofibromatosis) is caused by the mutation on chromosome 22 and predisposes individuals to multiple nervous system tumors. Most common are bilateral vestibular schwannomas, intracranial and spinal meningiomas, gliomas, neurofibromas, and posterior subcapsular lenticular opacities. On MRI, extracanalicular extension of vestibular schwannomas into the cerebellopontine angle can lead to an 'ice cream cone' appearance as shown below: Option C: Tuberous sclerosis is a multi-system neurocutaneous syndrome caused by the mutation of genes coding for hamartin (chromosome 9) and tuberin (chromosome 16), which leads to the formation of angiomyolipomas, cysts in kidneys, multiple hamartomas, giant cell astrocytomas, and cortical tubers. Skin manifestation includes facial angiofibroma (adenoma sebaceum), shagreen patch and confetti skin lesions. It can also be associated with renal angiomyolipoma and cardiac rhabdomyoma. The CT image given below shows calcified subependymal hamartomatous nodules: Tuberous sclerosis - CT brain findings - Calcified subependymal hamartomatous nodules. Option D: Sturge Weber syndrome is a neurocutaneous disorder (phakomatoses) that is characterized by unilateral capillary malformation at the region of trigeminal supply known as port wine stain or nevus flammeus, ipsilateral diffuse cavernous hemangioma of the choroid and ipsilateral leptomeningeal hemangiomatosis, which causes seizures and mental retardation. Features of MRI brain include pial angioma, seen as a diffuse pial enhancement of variable thickness, enlargement of the ipsilateral choroid plexus and dilatation of trans-parenchymal veins that communicate between the superficial and deep cerebral venous systems. MRI and CT show intracranial calcification respectively. The tram-track sign in the brain refers to the parallel calcification of the cerebral cortex. Tramline calcification in Sturge-Weber syndrome.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q14_img1_9e1c5da7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp14_img1_8b0c0818.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 15,
+      "question": "A mother brought her 7-month-old infant with concerns of abnormal eye movements and developmental delay. MRI was done and is shown below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Joubert syndrome",
+        "B": "Multiple system atrophy",
+        "C": "Hallervorden-Spatz disease",
+        "D": "Sturge-Weber syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "The axial T1-weighted MRI shows the molar tooth sign at the level of superior cerebellar peduncles. Given the clinical presentation and radiological findings, the diagnosis is Joubert syndrome. This autosomal recessive neurological disorder is characterized by cerebellar vermis hypoplasia and is associated with hypotonia, developmental delay, ataxia, irregular breathing patterns, and abnormal eye movements.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q15_img1_35c705fb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 16,
+      "question": "Eye of tiger sign on MRI is seen in which of the following conditions?",
+      "options": {
+        "A": "Hallervorden-Spatz syndrome",
+        "B": "Creutzfeldt-Jakob disease",
+        "C": "Sturge-Weber syndrome",
+        "D": "Neurofibromatosis 2"
+      },
+      "correct_answer": "A",
+      "explanation": "The eye of the tiger sign can be seen in Hallervorden-Spatz syndrome. The 'eye of the tiger' sign on the T2-weighted MRI appears as bilateral symmetrical hyperintense signals in the globus pallidus (due to gliosis and spongiosis), surrounded by hypointense areas (due to abnormal accumulation of iron). Hallervorden-Spatz syndrome or Pantothenate kinase-associated neurodegeneration (PKAN) is an autosomal recessive disorder causing involuntary spasticity and progressive dementia. It is a subset of neurodegeneration with brain iron accumulation (NBIA). It is also seen in Progressive supranuclear palsy, early-onset levodopa-responsive Parkinsonism, and cortical-basal ganglionic degeneration.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp16_img1_fde54a99.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 17,
+      "question": "What is the earliest skull x-ray sign in a child with raised intracranial tension (ICT)? a) Sutural diastasis b) Silver/copper beaten skull c) Posterior clinoid erosion d) Erosion of the dorsum sella",
+      "options": {
+        "A": "Sutural diastasis",
+        "B": "Silver/copper beaten skull",
+        "C": "Posterior clinoid erosion",
+        "D": "Erosion of the dorsum sella"
+      },
+      "correct_answer": "A",
+      "explanation": "The earliest skull x-ray sign in a child with raised ICT is sutural diastasis. Another sign is the silver- or copper-beaten skull, which refers to prominent markings of convolution on the skull. The earliest skull x-ray sign in an adult with raised ICT is posterior clinoid erosion, which is followed by erosion of the dorsum sella.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp17_img1_1489b613.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 19,
+      "question": "A child presents with a left-to-right shunt and high-output cardiac failure. The following is his MRA. What is the most likely diagnosis?",
+      "options": {
+        "A": "Vein of Galen malformation",
+        "B": "Dandy Walker syndrome",
+        "C": "Pneumocephalus",
+        "D": "Venous sinus thrombosis"
+      },
+      "correct_answer": "A",
+      "explanation": "The MR-Angiography shown is of Vein of Galen Malformation. Vein of Galen aneurysmal malformations (VGAMs), also known as median prosencephalic arteriovenous fistula, are uncommon intracranial anomalies that tend to present in early childhood with features of a left-to-right shunt and high-output cardiac failure. The vein of Galen, also known as the great cerebral vein or great vein of Galen, is a short trunk formed by the union of the two internal cerebral veins and basal veins of Rosenthal. It lies in the quadrigeminal cistern. It curves backwards and upward around the posterior border of the splenium of the corpus callosum and drains the anterior and central regions of the brain into the sinuses of the posterior cerebral fossa.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q19_img1_c6589961.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp19_img1_e0615a7d.jpeg",
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    },
+    {
+      "q_no": 20,
+      "question": "A 30-year-old woman has been experiencing intermittent visual disturbances and episodes of difficulty walking over the past few months. Neurological examination reveals spasticity in the lower limbs and hyperreflexia. T2W MRI of the brain shows periventricular ovoid hyperintense lesions oriented perpendicular to lateral ventricles. Which of the radiological findings is most characteristic of this condition?",
+      "options": {
+        "A": "Puff of smoke appearance",
+        "B": "Tigroid pattern",
+        "C": "Dawson's fingers",
+        "D": "Hummingbird sign"
+      },
+      "correct_answer": "C",
+      "explanation": "This patient's clinical features and T2W MRI of the brain showing periventricular ovoid hyperintense lesions oriented perpendicular to lateral ventricles, called Dawson's fingers, are characteristic of multiple sclerosis. Multiple sclerosis (MS) is an autoimmune demyelinating disease of the central nervous system characterized by inflammation, multiple demyelinating plaques, and relapsing and remitting symptoms. It is commonly associated with paresthesia (tingling sensations), hypesthesia (numbness), optic neuritis, unilateral/bilateral limb weakness - spastic paralysis, Babinski's sign positive, and bladder dysfunction. Optic neuritis (ON) presents as diminished visual acuity or decreased color perception (desaturation) in the central field of vision. MRI is used for making the diagnosis of MS due to its high sensitivity. The diagnosis of MS requires demonstrating that the lesions are disseminated in space (involving multiple areas of the brain) and in time (multiple episodes over a period of time). The MRI below demonstrates Dawson's fingers, the demyelinating plaques through the corpus callosum, arranged at right angles along medullary veins (callososeptal location). Other options: Option A: A 'puff of smoke appearance', derived from the Japanese term Moyamoya, is a characteristic finding on cerebral X-ray angiography in patients with Moyamoya disease. This rare, non-inflammatory, progressive, occlusive disease involves large intracranial arteries exhibiting bimodal age distribution in the first and fourth decades. Childhood Moyamoya is characterized by ischemic manifestations, and adult Moyamoya by hemorrhagic manifestations. The below image shows the MR angiography findings in a patient with Moyamoya disease. As this is a chronic condition, the lenticulostriate arteries develop a rich collateral circulation around the occlusive lesion, seen as a 'puff of smoke' (moyamoya in Japanese) on X-ray angiography. Option B: Metachromatic leukodystrophy is an autosomal-recessive disease resulting from a deficiency of the lysosomal enzyme arylsulfatase A, causing central and peripheral demyelination, ataxia, and dementia. Symmetric confluent areas of T2 hyperintensity are seen in the periventricular white matter. Radiating T2 hypointense lines through the demyelinated deep white matter represent the sparing of the perivascular white matter. This results in the tigroid and leopard skin patterns when imaged in the long axis or cross-section, respectively. Subcortical U-fibers are spared. The below MRI shows a tigroid pattern. Option D: Progressive supranuclear palsy is a neurodegenerative disease characterized by atrophy of structures at the midbrain-diencephalic junction (e.g., superior colliculi, red nuclei, subthalamic nuclei, and globus pallidus) and cerebellum (dentate nuclei), and mild cortical atrophy. MRI shows a hummingbird sign (atrophy of midbrain structures with a relatively intact pons region).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders & Cerebrovascular Disorders"
+    }
+  ]
+}

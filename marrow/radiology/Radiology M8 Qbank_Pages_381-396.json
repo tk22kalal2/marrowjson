@@ -1,0 +1,335 @@
+{
+  "chapter": "Radiotherapy",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common radiation used in radiotherapy?",
+      "options": {
+        "A": "Gamma rays",
+        "B": "X-rays",
+        "C": "Beta rays",
+        "D": "Alpha rays"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 2,
+      "question": "Which one of the following has maximum ionization potential?",
+      "options": {
+        "A": "Electron",
+        "B": "Proton",
+        "C": "Helium ion",
+        "D": "Gamma-photon"
+      },
+      "correct_answer": "",
+      "explanation": "Helium ion has the maximum ionizing potential. It is identical to alpha particles, with twoprotons and two neutrons.It has the least penetrating ability and penetrates only superficial tissues to an extent of 1 mm.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the most radiosensitive phase of the cell cycle?",
+      "options": {
+        "A": "G2-M",
+        "B": "M",
+        "C": "G1",
+        "D": "S"
+      },
+      "correct_answer": "B",
+      "explanation": "The cells are most radiosensitive in the G2-M phase of the cell cycle.This is because the cells lack sufficient time to repair DNA damage before division in the G2-Mphase, leading to mitotic catastrophe.Radiosensitivity gradually decreases from G1 to the early S phase and is the least in the late Sphase, where homologous recombination repair is most active after DNA replication.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 4,
+      "question": "Match the following SI units with the parameters measured.",
+      "options": {
+        "A": "1-A, 2-D, 3-C, 4-B",
+        "B": "1-B, 2-C, 3-D, 4-A",
+        "C": "1-B, 2-A, 3-C, 4-D381",
+        "D": "1-A, 2-D, 3-B, 4-C"
+      },
+      "correct_answer": "B",
+      "explanation": "The correctly matched SI units and parameters measured are as follows:The common unit to measure radioactivity is curie.The common unit to measure total radiation exposure is roentgen.SI UnitGrayParameter measuredAbsorbed radiationBecquer RadioactivityelCoulomb/kgTotal radiation exposureSievertDose equivalent",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 5,
+      "question": "The Bragg peak effect is pronounced in:",
+      "options": {
+        "A": "X ray",
+        "B": "Proton",
+        "C": "Neutron",
+        "D": "Electron"
+      },
+      "correct_answer": "",
+      "explanation": "The Bragg peak effect is pronounced in protons.The proton is a heavy and charged particle that gradually loses its speed as it interacts withhuman tissue. It is easily controlled and delivers its maximum dose at a precise depth and can goas far as 32 cm. The absorbed dose increases very gradually with greater depth and lower speed,388suddenly rising to a peak when the proton is ultimately stopped. This is known as the Bragg peak.The behavior of the proton can be precisely determined, and the beam can be directed, allowingthe Bragg peak to occur within the tumor site. Immediately following this burst of energy, theprotons cease radiating and come to a complete stop. This property of proton therapy enablestargeting tumors within the body, delivering radiation directly to the tumor while sparing thesurrounding healthy cells, offering a much less invasive alternative to treat cancer.The Bragg curve shown below plots the energy loss of ionizing radiation during its travel throughmatter.Stopping Power (MeV/cm)Energy Loss of Alphas of 5.49 MeV inAir (Stopping Power of Air for Alphasof 5.49 MeV)01234Path Length [cm]",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp5_img1_ba63acb2.jpeg",
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is not used for radionuclide therapy?",
+      "options": {
+        "A": "I-131",
+        "B": "P-32",
+        "C": "Re-186",
+        "D": "Ga-68"
+      },
+      "correct_answer": "",
+      "explanation": "Ga-68 (Gallium-68) is a radioisotope that is only used for imaging purposes such as PET scans.Gallium-68 somatostatin receptor Positron Emission Tomography (Ga-68 PET) is used in thediagnosis of neuroendocrine tumors (NETs).P-32 (Phosphorous), I-131 (Iodine) and Re-186 (Rhenium) are used in radiotherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 7,
+      "question": "A woman diagnosed with DCIS underwent surgery and is now posted for adjuvantradiotherapy with external beam radiotherapy. Which of the following isotopes is commonlyused for the same?",
+      "options": {
+        "A": "Cobalt-59",
+        "B": "Cobalt -60",
+        "C": "Radium-226",
+        "D": "Strontium-89"
+      },
+      "correct_answer": "",
+      "explanation": "Cobalt-60 (Co-60) isotope is used for external beam radiotherapy (EBRT).External beam radiotherapy is given as follows:• Cobalt machine - Co-60 produces gamma rays. It emits radiation of energy 1.25 MeV.• LINAC (linear accelerator) - X-ray beams are generated to provide ionising radiation.The energy spectrum used in radiotherapy is classified as follows:•-Orthovoltage 200-500kV x-rays are produced. It is used to treat skin conditions.389• Megavoltage - 1-25 MV x-rays are produced. These are used in modern radiotherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following radioactive isotopes is not used for brachytherapy?",
+      "options": {
+        "A": "Iodine-125",
+        "B": "Iodine-131382",
+        "C": "Cobalt-60",
+        "D": "Iridium-192"
+      },
+      "correct_answer": "B",
+      "explanation": "I-131 is a beta-emitter used for systemic radiotherapy but not for brachytherapy. It is taken up bythyroid tissue and differentiated thyroid cancers.Brachytherapy is a type of radiotherapy where radioactive sources are placed inside or close to thetarget area. It delivers radiation over short distances using interstitial, intracavitary, or surfaceplacement techniques. The following isotopes are used in brachytherapy:.• Permanent Low-dose rate (LDR) implants generally use Iodine-125, Palladium-103, or lesscommonly Gold-198.•Temporary LDR implants may use Iridium-192, Cesium-137, Cobalt-60 or others.•High-dose rate (HDR) implants almost always use Iridium-192.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following modalities use remote afterloading?",
+      "options": {
+        "A": "Teletherapy",
+        "B": "Brachytherapy",
+        "C": "Radioactive iodine therapy",
+        "D": "Targeted therapy"
+      },
+      "correct_answer": "B",
+      "explanation": "Remote afterloading is used in brachytherapy.In brachytherapy, sealed radioactive sources are used to deliver radiation at a short distance byinterstitial, intracavitary, or surface application.Afterloading is the process of placing the radioactive material into the target region. This is eitherdone manually by the oncologist, or by using remote afterloading devices.Remote afterloading devices enable us to eliminate direct contact with radioactive sources whileadministration. It provides protection from radiation exposure to healthcare professionals bysecuring the radiation source in a shielded safe manner.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not a radioprotector?",
+      "options": {
+        "A": "Zinc oxide",
+        "B": "Pentoxiphylline",
+        "C": "Oxygen",
+        "D": "Amifostine"
+      },
+      "correct_answer": "C",
+      "explanation": "Oxygen is a radiosensitizer, while zinc oxide, pentoxiphylline and amifostine are radioprotectors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 11,
+      "question": "You are a radiation oncology resident explaining the harmful effects of radiation to a patient.Which of the following is not a deterministic effect of the same?",
+      "options": {
+        "A": "Burns",
+        "B": "Cataract",
+        "C": "Hair loss",
+        "D": "Mutations"
+      },
+      "correct_answer": "D",
+      "explanation": "Mutations are stochastic effects that occur as a result of radiation exposure.The harmful effects of radiation may be classified into two general categories: stochastic andnonstochastic/deterministic effects.390DescriptionStochastic effectsThese are chance effects. Theprobability of occurrence increases with increasing absorbed dose, but severity does notdepend on the amount of absorbed dose. This is called the 'all or none' phenomenon.It cannot be set.Deterministic effectsIncreases in severity with increasing absorbed dose in affected individuals.Threshold levelExamplesGeneticeffect, development ofcancerIt can be set.Organ atrophy, fibrosis, lensopacification, blood changes,decrease in sperm count, irreversibleskin damage, fetal abnormalities",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 12,
+      "question": "What is the most radiosensitive tissue in our body?",
+      "options": {
+        "A": "Skin",
+        "B": "Muscles383",
+        "C": "Bone marrow",
+        "D": "Nervous tissue"
+      },
+      "correct_answer": "",
+      "explanation": "The most radiosensitive tissue in our body is bone marrow.The least radiosensitive tissue is the nervous tissue.Note: The most radiosensitive blood cells are lymphocytes and the least are platelets. RBCs arerelatively radioresistant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 13,
+      "question": "Granisetron was prescribed to a patient with gastrointestinal radiation syndrome to managehis symptoms. At what dose of radiation does this condition typically occur?",
+      "options": {
+        "A": "100-300 rad",
+        "B": "300-400 rad",
+        "C": "400-600 rad",
+        "D": "600-1000 rad"
+      },
+      "correct_answer": "D",
+      "explanation": "Gastrointestinal radiation syndrome occurs after exposure of 600-1000 rad.Acute radiation syndrome is characterized by three main presentations:•-Hematopoietic marked by aplastic anemia. This occurs at 2-3 Gy or higher. This may result ininfections, bleeding, and anemia due to the destruction of red blood cells.Gastrointestinal - occurs due to absorbed doses of 6-7 Gy (600-1000 rad). The signs andsymptoms include nausea, vomiting, loss of appetite, and abdominal pain. Symptomaticmanagement is advised with intravenous ondansetron or oral granisetron.• Neurovascular - This syndrome typically occurs at absorbed doses greater than 30 Gy (3000rad), though it may occur at 10 Gy (1000 rad). It presents with neurological symptoms such asdizziness, headache, or decreased level of consciousness, occurring within minutes to a few hours,and with an absence of vomiting. It is invariably fatal.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 14,
+      "question": "Patients with which of the following tumors are best treated with radiotherapy?",
+      "options": {
+        "A": "Seminoma",
+        "B": "Melanoma",
+        "C": "Osteosarcoma",
+        "D": "Pancreatic carcinoma"
+      },
+      "correct_answer": "A",
+      "explanation": "391Seminoma is a highly radiosensitive tumor and is best managed with radiotherapy, in contrast tomelanoma, osteosarcoma and pancreatic carcinoma, which are known to be resistant to radiationtherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 15,
+      "question": "Patients with which of the following tumors are treated with craniospinal irradiation?",
+      "options": {
+        "A": "Oligodendroglioma",
+        "B": "Pilocytic astrocytoma",
+        "C": "Mixed oligoastrocytoma",
+        "D": "Medulloblastoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Medulloblastoma is treated with craniospinal irradiation. It is a radiosensitive tumor thatresponds very well to radiotherapy.The indications for craniospinal radiation are:• Therapeutic - for radiosensitive brain tumors such as medulloblastoma.•-Prophylactic CNS malignancies that show dissemination via CSF such as:• Medulloblastoma• Glioblastoma• Germinoma• Leptomeningeal rhabdomyosarcoma.Some radiosensitive tumors which have a high risk of metastasis to CNS. These include small celllung cancer, acute lymphoblastic leukemia, Non-Hodgkin's lymphoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 16,
+      "question": "What is the recommended dose limit of cumulative radiation exposure during pregnancy?",
+      "options": {
+        "A": "1 mSv",
+        "B": "5 mSv384",
+        "C": "50 mSv",
+        "D": "20 mSv"
+      },
+      "correct_answer": "A",
+      "explanation": "The recommended dose limit of cumulative radiation exposure during pregnancy is 1mSv.For pregnant patients who require diagnostics with exposure to ionizing radiation, the radiationprotection principles are followed:.The exposure should be justified• The dose should be as low as reasonable achievable• Dose limit is not particularly specified as it involves a single time exposure to diagnosticradiation during which effective dose to the fetus is usually &lt;1 mSv. The deterministic effects onthe fetus are not seen below 50 mSv (5 rad)• Occupational exposure during pregnancy should not exceed 1mSv/year.The dose limits for non-pregnant radiation exposure in non-pregnant individuals are:•Occupational exposure - Effective dose should not exceed 20 mSv/year.• General public exposure - Effective dose should not exceed 1 mSv/year.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 17,
+      "question": "A patient diagnosed with carcinoma cervix is undergoing the treatment modality in the imagegiven below. Which of the following elements is most commonly used in this?",
+      "options": {
+        "A": "Cobalt",
+        "B": "Technetium",
+        "C": "Radium",
+        "D": "CesiumTandem with-a radioactive sourceOvoids with-a radioactive sourceOMARROW"
+      },
+      "correct_answer": "D",
+      "explanation": "392The given image shows brachytherapy being used to treat carcinoma cervix. Cesium is the mostcommon radioactive agent used for the same.In the majority of these treatments, radiation applicators are placed within a cavity of the bodysuch as the bronchus (airway) in the lung, esophagus, vagina, cervix of the uterus.Brachytherapy is a form of radiation therapy in which the radiation source is placed close to thetumor. It can be either a low-dose or high-dose rate system. The primary advantage of internalradiation is the ability to deliver a higher radiation dose while the normal tissues receive lessradiation since the radiation sources are placed within the tumor. Both Iridium and cesium havebeen used as radioactive sources to give internal radiation.Dosage is calculated with respect to the amount of radiation received at two arbitrary points A andB (image below).LocationStructure presentDose of radiationPoint A2cm above and 2cm lateral tothe external oscrossing of the ureter and uterine artery7000-8000 cGyPoint B2cm above and 5cm lateral tothe external osObturator lymph node6000 cGyRadiotherapy for carcinoma cervixUterine cavity-Tandem-(with radioactivesource)-2cm-External os of cervix-2cmOvoids(with radioactivesource)Vagina-Different techniques of brachytherapy:OMARROW3cmA7000-8000 cGyB5000 cGyWTechniq DeviceNo. of applicatioDurationuesnStockholmIntrauterine tandemOne vaginal plaqueThree24 hours each weeklyParisIntrauterine tandemThree vaginal ovoidsOne120 hours393TechniqDeviceNo. of applicatioDurationuesnManchesterIntrauterine tandemTwo vagiTwonal ovoids72 hours each weekly",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/q17_img1_e286b11b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 18,
+      "question": "A patient with inoperable small cell lung carcinoma is posted for thoracic external beamradiotherapy. How will the respiratory movement be counteracted during this procedure?",
+      "options": {
+        "A": "Arc modulation",
+        "B": "Gating",
+        "C": "Fractionation",
+        "D": "Afterloading"
+      },
+      "correct_answer": "B",
+      "explanation": "Respiratory movement is counteracted during radiotherapy by respiratory gating.Radiation is only delivered when the tumor is exactly in the right place, and the treatment beamautomatically turns off when the tumor moves outside of the target field. It is a process forcontinuously monitoring the movement of tumors during normal breathing.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 19,
+      "question": "385Patients with which of the following conditions can be treated with stereotactic radiosurgery?",
+      "options": {
+        "A": "Stage 1 lung carcinoma",
+        "B": "Miliary metastasis",
+        "C": "Lymphangitis carcinomatosis",
+        "D": "Carcinoma base of tongue with lymph nodes positive"
+      },
+      "correct_answer": "A",
+      "explanation": "Stage 1 lung carcinoma, being a localized tumor, is treated with stereotactic radiosurgery, atechnique reserved for confined lesions. In contrast, the other conditions are widespread andunsuitable for localized therapy.Stereotactic radiotherapy involves distributing radiation beams in three dimensions andadministering them in fractions, while stereotactic radiosurgery involves administering a singlelarge dose in one session. Gamma knife refers to stereotactic radiosurgery of the brain. It is usedto treat acoustic neuromas. Cyberknife refers to stereotactic radiosurgery of the body. It is linearaccelerator (LINAC)-based and used to treat brain tumors, prostate cancer, etc.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following conditions is treated using gamma knife?",
+      "options": {
+        "A": "Glioblastoma",
+        "B": "Arterio-venous malformation",
+        "C": "Tuberculoma",
+        "D": "Dandy-Walker malformation"
+      },
+      "correct_answer": "B",
+      "explanation": "The arterio-venous malformation is treated using a gamma knife.Stereotactic radiosurgery (SRS) is a reasonable alternative for people who refuse or cannottolerate surgery. Here, beams are modified and focused only to concentrate on the tumor andhave little effect on surrounding tissue. It can be done by using:• X-knife using a linear accelerator (LINAC)• Gamma-knife using Cobalt 60• CyberKnife - image-guided linear accelerator using real-time image guidance to deliver radiationfrom multiple angles.The patient wears a specialized helmet that is surgically fixed to the skull. Gamma knife aimsgamma radiation through a target point in the patient's brain. An ablative dose of radiation isthereby sent through the tumour in one treatment session while surrounding brain tissues arerelatively spared.SRS has been used in the treatment of almost every intracranial lesion but is commonly used inthe treatment of acoustic schwannoma, pituitary adenoma, meningioma, and trigeminal neuralgia394but not glioblastoma.The image below is an illustration of the principle of gamma-knife therapy:RadioactivecobaltGammaraysHelmetTarget",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mradiology/exp20_img1_d865df26.jpeg",
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 21,
+      "question": "Personal monitoring of radiation is done by:",
+      "options": {
+        "A": "TLD badge",
+        "B": "Collimators",
+        "C": "Linear accelerator",
+        "D": "Grid"
+      },
+      "correct_answer": "A",
+      "explanation": "Personal monitoring of radiation is done by a TLD badge.The TLD badge (thermoluminescent dosimeter) should be positioned according to local ornational practices. In India, one TLD badge has to be worn at the chest level inside the leadapron if the apron is used. An additional wrist badge has to be worn for procedures requiringhands close to the primary beam.The thermoluminescent material used is calcium sulfate doped with dysprosium or lithiumfluoride. Radiation exposure is monitored every three months. The maximum dose limit foroccupational radiation workers is 30 mSv in a year, provided the cumulative dose in a block of 5years does not exceed 100 mSv.The given image shows a TLD badge.395",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    },
+    {
+      "q_no": 22,
+      "question": "A patient with carcinoma endometrium is treated with pelvic external beam irradiation.Which of the following organs is likely to be affected the most?",
+      "options": {
+        "A": "Ovary",
+        "B": "Vagina",
+        "C": "Bladder",
+        "D": "Rectum386"
+      },
+      "correct_answer": "A",
+      "explanation": "Among the given options, the ovary is most likely to be affected as it is the most radiosensitiveorgan.Radiosensitivity of pelvic organs is as follows: ovary&gt;rectum&gt;bladder&gt;vagina. Theradiation tolerance dose for the ovary is 2-3 Gy whereas the vagina is 90 Gy. Hence, among thegiven options, the vagina is the most radioresistant organ.The radiation dose necessary to induce ovarian failure is age-dependent. A single dose of 3-4 Graycan induce amenorrhea in almost all women &gt;40 years of age. In young women, oogenesis ismuch less sensitive to radiation as compared to the elderly.The radiosensitivity of various tissues is summed up in the table given below:Note: The skin is most commonly affected due to radiation. Stratum basalis is the layer of the skinmost affected.TissueMost radiosensitivLeast radiosensitiveeBone marrow, GonadsNervous tissue, Muscle fibersBlood cellsLymphocytesG2M interphaseStages of cell cycleCell typesOcular structureRapidly dividingLensLayer of retinaRodsPlateletsS phaseQuiescentScleraGanglion cell layer396",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Radiotherapy"
+    }
+  ]
+}
