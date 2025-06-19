@@ -318,7 +318,22 @@
     },
     {
       "q_no": 22,
-      "question": "A patient is diagnosed with a phobic disorder. Which of the following defense mechanisms is likely to be present in this patient? a) Displacement b) Dissociation c) Distortion d) Conversion. In the OPD, you inform a patient that he has bladder cancer. However, he replies saying, 'No, I cannot have cancer. I don't smoke or drink.' What is the type of defense mechanism exhibited by the patient?",
+      "question": "A patient is diagnosed with a phobic disorder. Which of the following defense mechanisms is likely to be present in this patient? ",
+      "options": {
+        "A": "a) Displacement  ",
+        "B": "b) Dissociation",
+        "C": "c) Distortion ",
+        "D": "d) Conversion."
+      },
+      "correct_answer": "A",
+      "explanation": "Denial is the defense mechanism exhibited by the patient, as he refuses to accept the reality of his diagnosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Theories of Personality & Defense Mechanisms"
+    },
+    {
+      "q_no": 23,
+      "question": "In the OPD, you inform a patient that he has bladder cancer. However, he replies saying, 'No, I cannot have cancer. I don't smoke or drink.' What is the type of defense mechanism exhibited by the patient?",
       "options": {
         "A": "Rationalization",
         "B": "Acting out",
@@ -341,6 +356,21 @@
         "D": "Identification"
       },
       "correct_answer": "B",
+      "explanation": "The defense mechanism that the girl has developed is known as introjection or Stockholm syndrome. Introjection refers to the unconscious internalization of the qualities or character of an object or a person, with the goal of ensuring closeness to, and the constant presence of, the object/person. The classic example of this is Stockholm syndrome, where victims who were kidnapped or held captive may develop positive feelings towards the kidnapper, understand their character, emotions, and start sympathizing with them.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Theories of Personality & Defense Mechanisms"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following is incorrectly matched?",
+      "options": {
+        "A": "Reaction formation - Defence mechanism for obsessive-compulsive disorder",
+        "B": "Anal stage - Fixation stage for obsessive-compulsive disorder",
+        "C": "Projection - Defence mechanism for delusions and hallucination",
+        "D": "Genital stage - fixation stage for hysteria"
+      },
+      "correct_answer": "D",
       "explanation": "The defense mechanism that the girl has developed is known as introjection or Stockholm syndrome. Introjection refers to the unconscious internalization of the qualities or character of an object or a person, with the goal of ensuring closeness to, and the constant presence of, the object/person. The classic example of this is Stockholm syndrome, where victims who were kidnapped or held captive may develop positive feelings towards the kidnapper, understand their character, emotions, and start sympathizing with them.",
       "image": null,
       "explanation_image": null,
