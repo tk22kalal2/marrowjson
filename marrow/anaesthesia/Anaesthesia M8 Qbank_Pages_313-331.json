@@ -1,0 +1,335 @@
+{
+  "chapter": "Regional Anesthesia: Techniques",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "In adults, at which vertebral level does the spinal cord end?",
+      "options": {
+        "A": "Upper border of L1",
+        "B": "Lower border of L1",
+        "C": "Upper border of L3",
+        "D": "Lower border of L3"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 2,
+      "question": "You are about to administer spinal anaesthesia to a 7-month-old child. At which vertebrallevel does his spinal cord end?",
+      "options": {
+        "A": "Lower border of S2",
+        "B": "Upper border of S2",
+        "C": "Lower border of L3",
+        "D": "Upper border of L3"
+      },
+      "correct_answer": "D",
+      "explanation": "The spinal cord in infants ends at the upper border of L3 vertebral level (shorter vertebral columnand longer spinal cord).Lumbar (subarachnoid) puncture into the subarachnoid space is done below L3 in children toavoids potential needle trauma to the cord.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 3,
+      "question": "At which vertebral level does the dural sac end at in adults?",
+      "options": {
+        "A": "Li",
+        "B": "L3",
+        "C": "S1",
+        "D": "S2"
+      },
+      "correct_answer": "D",
+      "explanation": "The dural sac in adults ends at S2 vertebral level.So the spinal subdural and subarachnoid spaces extend from the foramen magnum to S2 inadults.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 4,
+      "question": "You are administering caudal anesthesia to a 9-month-old child. Which is the lowest vertebrallevel that should not be crossed by the tip of your needle so as to avoid accidentalsubarachnoid injection?",
+      "options": {
+        "A": "S3313",
+        "B": "S2",
+        "C": "L2",
+        "D": "L3"
+      },
+      "correct_answer": "B",
+      "explanation": "The needle should be kept below the S2 vertebral level as the subarachnoid space in childrenextends from the foramen magnum to S2-S3.321Because of this fact, and the smaller body size, caudal anesthesia carries a greater risk ofsubarachnoid injection in children than in adults.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 5,
+      "question": "As an intern posted in the OT, you see the anesthesia resident mark out a line on a patient'sback. She tells you that this is Tuffier's line and is used as a landmark for performing spinalanesthesia. Which vertebral level does this line correspond to?",
+      "options": {
+        "A": "L6",
+        "B": "L2",
+        "C": "L1",
+        "D": "L4"
+      },
+      "correct_answer": "D",
+      "explanation": "Tuffier's (intercristal) line is a line drawn between the highest points of both iliac crests usuallycrossing either the body of L4 or the L4-L5 interspace.This is the landmark to identify the spinal level prior to performing a neuraxial block.Other bony landmarks:C7 Vertebra prominence--T7 Inferior angle of scapulaL1-Lower rib marginS2 Posterior superior iliac spine-T3T7-Tuffier's lineL4Iliac crest-S2",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp5_img1_e0a8b604.jpeg",
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 6,
+      "question": "Following neuraxial block, which would be the first sensation to disappear?",
+      "options": {
+        "A": "Fine touch",
+        "B": "Pinprick sensation",
+        "C": "Vibration",
+        "D": "Sensitivity to cold"
+      },
+      "correct_answer": "D",
+      "explanation": "The first sensation to disappear following a neuraxial block is cold.Pre-ganglionic sympathetic fibers (B fibers) are most sensitive to local anesthetic blockade.The larger A-alpha motor fibers are more resistant than any of the sensory fibers.The sensations lost at the earliest will be cold → pinprick → touchRegression of blockade (\"recovery\") follows in the reverse order: motor function &gt; touch &gt;pinprick &gt; cold sensation &gt; autonomic.Controversial: There is an obvious discrepancy among various authors regarding the order ofdifferential blockade. Some studies mention pin prick sensation to be lost before sensation to cold.322But our reference to this MCQ is from standard textbook of anesthesia (Miller's Anesthesia 9thedition).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient underwent knee replacement under spinal anaesthesia. Following the procedure,you examine him in the post-op ward. Which of the following would be the first to recover?",
+      "options": {
+        "A": "Heat sensation",
+        "B": "Touch sensation",
+        "C": "Pinprick sensation",
+        "D": "Motor function"
+      },
+      "correct_answer": "D",
+      "explanation": "Motor function recovers the earliest after a neuraxial block.Motor function is carried by A alpha fibers, which are myelinated and having the largest diameter,making them resistant to local anaesthesia.Hence, motor function is the last to get affected and the first to recover.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 8,
+      "question": "314You are given the opportunity to perform a neuraxial block procedure. What is the antisepticof choice to prepare the site before this procedure?",
+      "options": {
+        "A": "Povidone iodine",
+        "B": "Glutaraldehyde",
+        "C": "Hydrogen peroxide",
+        "D": "Chlorhexidine"
+      },
+      "correct_answer": "D",
+      "explanation": "Antiseptic of choice for neuraxial block procedure is Chlorhexidine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 9,
+      "question": "While administering spinal anaesthesia to a patient, which of the following structures wouldyou not be piercing?",
+      "options": {
+        "A": "Ligamentum flavum",
+        "B": "Supraspinous ligament",
+        "C": "Posterior longitudinal ligament",
+        "D": "Duramater"
+      },
+      "correct_answer": "",
+      "explanation": "During spinal anaesthesia administration, the posterior longitudinal ligament is not pierced.The following structures are pierced during spinal anaesthesia, in that order:• Skin• Subcutaneous tissue•Supraspinous ligament• Interspinous ligament• Ligamentum flavum•• Dura mater• Arachnoid",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 10,
+      "question": "While administering spinal anaesthesia in a patient, between which of the followingstructures would you be injecting the local anaesthetic?",
+      "options": {
+        "A": "Dura and ligamentum flavum",
+        "B": "Dura and arachnoid",
+        "C": "Pia and vertebra",
+        "D": "Pia and arachnoid"
+      },
+      "correct_answer": "D",
+      "explanation": "Spinal anesthesia (subarachnoid block, intrathecal block) involves the administration of localanesthetic between the pia and arachnoid mater.In spinal anesthesia, the local anesthetic is injected into CSF, which bathes the nerve root.Hence, a relatively small dose and volume of local anesthetic is sufficient to achieve dense sensoryand motor blockade.Epidural anesthesia involves local anesthetic administration between the dura and ligamentumflavum. Subdural injection, seen in a failed spinal anesthesia, is between dura and arachnoid.323Epidural spaceCordL2Subarachnoidspace.L3EpiduralspaceL4Filum terminaleL1©MARROWConusmedullaris-Dura andArachnoidmater",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp10_img1_1e8e019b.jpeg",
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 11,
+      "question": "In a normal sized adult, which of the following parameters would least affect the level ofneuraxial block achieved?",
+      "options": {
+        "A": "Age",
+        "B": "CSF volume",
+        "C": "Height",
+        "D": "Patient's position315"
+      },
+      "correct_answer": "C",
+      "explanation": "In a normal-sized adult, the patient's height does not seem to affect the spread of spinalanaesthesia. However, at extremes of height, consideration should be given to altering the doseaccordingly.Option A: Advanced age is associated with increased block height, due to decreased CSF volumeOption B: CSF volume is inversely related to the block level.Option D: Patient's position affects the spread of hyperbaric and hypobaric solutions. Hyperbaricsolution settles at the dependent position while hypobaric solution settles at the non-dependentposition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following factors have the least impact on the height of neuraxial block in apatient?",
+      "options": {
+        "A": "Age",
+        "B": "Gender",
+        "C": "Pregnancy",
+        "D": "Height"
+      },
+      "correct_answer": "B",
+      "explanation": "The gender of the patient is the factor that least affects the height of the neuraxial block, amongthe options given.Theoretically, the density of CSF is lower in women than in men. Although this may affect relativebaricity of local anaesthetics, the clinical variation in the spread is probably unimportant. Hence,this is the best answer to choose from the above options.Option A: Higher anaesthetic levels are achieved in the elderly for a given dosage of spinalanaesthetic.Option C: Increased intraabdominal pressure or conditions that cause engorgement of theepidural veins, decrease CSF volume and thus increase block height. This includes conditions suchas pregnancy, ascites, and large abdominal tumors.Option D: Within the range of \"normal-sized” adults, patient height does not seem to affect thespread of spinal anaesthesia. But, extremes of height can affect the block height.324",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient is set to undergo cesarean section under subarachnoid block. Upto whichdermatome must the anaesthetist ensure adequate anaesthesia?",
+      "options": {
+        "A": "T4",
+        "B": "T8",
+        "C": "T10",
+        "D": "T12"
+      },
+      "correct_answer": "A",
+      "explanation": "For a cesarean section, the sensory block should be achieved up to T4 dermatomal level (motorT6), as the pain-sensitive peritoneum innervation starts from T4 level.The risk of high spinal and severe hypotension is higher because the block has to reach T4.Hence, consider prehydration with 20 ml/kg, proper positioning, and keeping phenylephrine orephedrine on hand.Dermatomal Level required for Various Common Surgical Procedures:• T4 - Upper abdominal surgery⚫ T10 - Transurethral resection of prostate•⚫T10 - Hip surgery• L2 - Foot and ankle surgery",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 14,
+      "question": "In which procedure is the instrument shown in the image most commonly used?",
+      "options": {
+        "A": "Retrobulbar blockBDEDTEkeCESetsSTERIL EOBME-085/4REF 4052531620 GA 3.50 IN0.9 x 90 mm(01) 0038290405253960-6002DX22000170LOT",
+        "B": "Epidural anesthesia",
+        "C": "Spinal anesthesia",
+        "D": "Combined spinal epidural anesthesia"
+      },
+      "correct_answer": "",
+      "explanation": "The instrument shown is the Quincke Needle used in spinal anesthesia. The Quincke needle is acutting needle with end injection.Spinal needles are long thin needles that are classified based on their tip into:●Cutting needles: Quincke-Babcock, Pitkin•• Pencil tip needles: Whitacre and SprotteTips of various spinal needlesQuinckeneedleWhitacreneedleSprotteneedleOMARROW325Tuohy needle for epidural anesthesiaThis is the image of a Tuohy needle that is used to provide epidural anesthesia. It can berecognised by its curved (Huber) tip and the markings made at 1 cm interval along it's length.Combined spinal epidural (CSE) needleMARKOWOMARROWThe above image shows a Combined Spinal Epidural needle. It consists of a spinal needle passedthrough the epidural needle.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q14_img1_3f5695f7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp14_img1_0f79f5ec.jpeg",
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is not a blunt-tipped needle used in regional anaesthesia?",
+      "options": {
+        "A": "Quincke",
+        "B": "Whitacre",
+        "C": "Sprotte",
+        "D": "Tuohy"
+      },
+      "correct_answer": "A",
+      "explanation": "All of the above are blunt-tipped needles used in regional anesthesia, except Quincke, which is acutting type of spinal needle.Types of spinal needles:326Cutting needleCut the duraHence, higher incidence of postdural puncture headache (PDPH) due to CSF leakTechnically less challenging as loss of resistance is well appreciated during lumbar punctureEg: Quincke-Babcock, PitkinNon-cutting (Splitting, pencilpoint, blunt) needleSplit the duraHence, lower incidence of PDPHTechnically more challengingas loss of resistance is not well appreciatedEg: Whitacre, SprotteTips of various spinal needlesQuinckeneedleWhitacreneedleSprotteneedleOMARROWTips of various spinal needlesTuohy needle is the most commonly used needle for epidural anaesthesia. It has a blunt'Huber' tip, which helps to prevent accidental penetration of the dura.Tuohy needle for epidural anesthesia327Image: Touhy epidural needle with Huber tip",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 16,
+      "question": "As an intern posted in the OT, you see the Anesthesia Senior Resident holding the needleshown in the image. What is the likely procedure that he is about to perform?",
+      "options": {
+        "A": "Spinal anesthesia",
+        "B": "Epidural anesthesia",
+        "C": "Combined spinal epidural anesthesia",
+        "D": "IV cannulation317"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shown is the 18 G Tuohy needle, which is used in epidural anesthesia.Identification points:•It has a blunt, curved tip (Huber tip) that helps to prevent accidental dural puncture• The needle shaft is marked in 1-cm intervals so that the depth of insertion can be identifiedBRAUNPerifi1cm markingHuber tipEpidural catheter18 G Touhy needleBŪGNAUHPerifiLatex-fim10 cc syringe forloss of resistanceEpidural anesthesia set with Touhy's needle and epidural catheter.Other epidural needles: Crawford needle (straight needles without a curved tip): has a greaterincidence of dural puncture.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q16_img1_010d5719.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp16_img1_1ee31053.jpeg",
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 17,
+      "question": "While administering epidural anesthesia to a patient, in which of the following spaces wouldyou inject the local anesthetic?",
+      "options": {
+        "A": "C",
+        "B": "D",
+        "C": "A",
+        "D": "BCordAL3BL4MOMARROW"
+      },
+      "correct_answer": "D",
+      "explanation": "During epidural anesthesia, the local anesthetic is injected into the epidural/extradural space. Thisis marked in the image as B.The epidural space exists between the dura and the ligamentum flavum posteriorly.The other markings are as follows:A: Subarachnoid spaceC. Interspinous ligamentD. Subcutaneous tissue328",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q17_img1_c4eccd37.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 18,
+      "question": "A patient set to undergo an elective C section receives epidural anaesthesia before theprocedure. Which structure is not pierced while performing this block?",
+      "options": {
+        "A": "Skin",
+        "B": "Duramater",
+        "C": "Supraspinous ligament",
+        "D": "Ligamentum flavum"
+      },
+      "correct_answer": "B",
+      "explanation": "Dura mater is not pierced while performing an epidural block.The structures pierced during epidural anesthesia:• Skin• Subcutaneous tissue•Supraspinous ligament• Interspinous ligament•Ligamentum flavumEpidural space is a potential negative pressure space. This factor is exploited in the identificationof epidural space.As the needle penetrates the ligamentum flavum, an increase in resistance is encountered. Afterwhich when the needle enters the epidural space, a sudden loss of resistance is encountered.The techniques to identify epidural space:••• Loss of resistance (to injection of air or saline)Hanging drop (drop of saline is sucked in as the needle enters epidural space)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 19,
+      "question": "You are planning to administer combined spinal epidural anaesthesia to a pre-eclampticpatient before an elective C section. You know that the patient may have to remain seated fora while after administration of the spinal anaesthetic for insertion of the epidural318catheter. Which of the following will you use for spinal anaesthesia to reduce the chances ofhemodynamic disturbances in this scenario?",
+      "options": {
+        "A": "0.5% Bupivacaine with glucose",
+        "B": "0.5% Bupivacaine with fentanyl",
+        "C": "0.5% Bupivacaine with sterile water",
+        "D": "0.5% Plain bupivacaine"
+      },
+      "correct_answer": "A",
+      "explanation": "To prevent hemodynamic disturbances, we must prevent the migration of the spinal block toupper thoracic segments. In the sitting position, this can be achieved by using a hyperbaricsolution like bupivacaine with glucose.Baricity of local anesthetics refers to the specific gravity of the solution with respect to that ofCSF.A hyperbaric solution (addition of glucose) of local anesthetic is denser (heavier) than CSF, ahypobaric solution (addition of sterile water or fentanyl) is lighter than CSF and isobaric solution(plain or 1:1 CSF) has density same as that of CSF.Hyperbaric solution tends to move to the dependent area of the spine. While a hypobaric solutionmoves to the non-dependent area. An isobaric solution remains at the level of injection.With the patient in a head-down position, a hyperbaric solution spreads cephalad, and ahypobaric solution moves caudally.In clinical practice, hyperbaric solutions are most commonly used during spinal anesthesia. Ahypobaric solution is only used in prone jackknife position to specifically block the operative sitearound perineum during certain anorectal surgeries.329",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 20,
+      "question": "You administer epidural anesthesia to a patient before surgery. Which of the followingmethods can you use to test the adequacy of motor block in him?",
+      "options": {
+        "A": "1, 3",
+        "B": "1, 2, 3, 4",
+        "C": "Only 3",
+        "D": "1, 3, 5"
+      },
+      "correct_answer": "D",
+      "explanation": "Electromyography, Modified Bromage scale, and spirometry can all be used to test the adequacyof the motor block after neuraxial anesthesia.The Modified Bromage Scale is most commonly used, but the disadvantage is that this representsonly lumbosacral motor fibers.Modified Bromage scaleo: No motor block1: Inability to raise extended leg; Able to move knees and feet2: Inability to raise extended leg and move knee; Able to move feet3: Complete block of motor limbElectromyography and pulmonary function tests (spirometry) have been used to measureabdominal and thoracic motor function, but these are neither practical nor specific.Train of four ratio and bispectral index are used in monitoring a patient under general anesthesia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q20_img1_5cfbb867.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp20_img1_8461bc25.jpeg",
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 21,
+      "question": "A 5-month-old child is set to undergo a herniotomy procedure for congenital inguinal herniaunder caudal anesthesia. Where is the local anesthetic injected into for this procedure?",
+      "options": {
+        "A": "Spinal cord",
+        "B": "Subdural space",
+        "C": "Subarachnoid space",
+        "D": "Epidural space"
+      },
+      "correct_answer": "D",
+      "explanation": "During caudal anaesthesia, the local anaesthetic is injected into the sacral portion of the epiduralspace.Caudal anaesthesia involves a needle and/or catheter penetration of the sacrococcygeal ligamentwhich opens into the caudal epidural space. The sacrococcygeal ligament covers the sacral hiatusthat is created by the unfused S4 and S5 laminae.Sacral hiatus is well appreciated in children. Hence, it is a common regional technique inpaediatrics for procedures below the diaphragm, including urogenital, rectal, inguinal, and lowerextremity surgery.It may also be used for anorectal surgery in adults but it is technically challenging in adults.Sacral canalSacral hiatusDural sacMACaudal blockOMARROWSacrococcygealligamentPosterior superioriliac spineSacral hiatus330",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp21_img1_6e121fc4.jpeg",
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    },
+    {
+      "q_no": 22,
+      "question": "An 18-month-old boy with CTEV is undergoing corrective treatment. He is scheduled for aposteromedial soft tissue release procedure. You see the anaesthesia resident mark out thepoints shown in the image on his back. In what anaesthetic procedure are these landmarksused?319Posteriorsuperior iliacspineSacrospinalisIliac crest-Latissimusdorsi-GluteusmediusSacral-hiatus",
+      "options": {
+        "A": "Spinal anesthesia",
+        "B": "Caudal anesthesia",
+        "C": "Epidural anesthesia",
+        "D": "Saddle blockGluteusmaximus"
+      },
+      "correct_answer": "B",
+      "explanation": "The landmarks depicted in the image are in reference to caudal anaesthesia. It is a commonregional technique in paediatrics for procedures below the diaphragm, including urogenital,rectal, inguinal, and lower extremity surgery.Caudal anaesthesia involves deposition of local anaesthetic in the caudal epidural space, accessedthrough the sacral hiatus. Sacral hiatus is formed by the unfused S4 and S5 laminae and iscovered by the sacrococcygeal ligament.The lines joining the posterior superior iliac spines and sacral hiatus make an equilateral triangle.The sacral hiatus is felt as a groove or notch above the coccyx and between two bony prominences,the sacral cornua.It is better appreciated in children than in adults and hence it is a common regional techniqueamong pediatric patients.Sacral canalSacral hiatusDural sacMACaudal blockOMARROWSacrococcygealligamentPosterior superioriliac spineSacral hiatus331",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp22_img1_edee174b.jpeg",
+      "chapter_heading": "Regional Anesthesia: Techniques"
+    }
+  ]
+}

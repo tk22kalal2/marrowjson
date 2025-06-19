@@ -1,0 +1,395 @@
+{
+  "chapter": "Pediatric and Obstetric Anaesthesia",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 25-year-old woman was taken up for a cesarean section. Following the administration ofspinal anaesthesia, she suddenly developed hypotension. Which of the following would be thevasopressor of choice for this patient?",
+      "options": {
+        "A": "Dopamine",
+        "B": "Adrenaline",
+        "C": "Ephedrine",
+        "D": "Phenylephrine"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 2,
+      "question": "In pregnant women who are administered general anaesthesia, which of the following is themost common cause for mortality?",
+      "options": {
+        "A": "Hypotension",
+        "B": "Pulmonary aspiration",
+        "C": "Arrhythmias",
+        "D": "Amniotic fluid embolism"
+      },
+      "correct_answer": "B",
+      "explanation": "Pregnant women who undergo general anaesthesia are at increased risk of mortality frompulmonary aspiration of gastric contents.Other risk factors include failed intubation of the trachea and inadequate ventilation. Generalanaesthesia has a 1.7 times greater risk of maternal morbidity and mortality than regionalanaesthesia. Maternal mortality associated with aspiration is 5-15%.Mendelson's syndrome is chemical pneumonitis or aspiration pneumonitis caused by aspirationduring anaesthesia, especially during pregnancy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the rate of maternal mortality due to pulmonary aspiration in patients undergoinggeneral anaesthesia?",
+      "options": {
+        "A": "0.5%",
+        "B": "1%",
+        "C": "5%",
+        "D": "50%"
+      },
+      "correct_answer": "C",
+      "explanation": "Maternal mortality associated with aspiration in patients under general anaesthesia is 5-15%.388Mendelson's syndrome is chemical pneumonitis or aspiration pneumonitis caused by aspirationduring anesthesia, especially during pregnancy. The risk factors include:• Gastric volume &gt;25 mL (0.4 mL/kg)• Gastric pH &lt; 2.5Measures to reduce the incidence of aspiration:•• Administration of nonparticulate antacids like sodium citrate⚫ H2 receptor antagonists like intravenous ranitidine•• Metoclopramide",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 4,
+      "question": "380Which of the following is the most commonly used IV induction agent in a patient requiringcaesarean section?",
+      "options": {
+        "A": "Propofol",
+        "B": "Thiopentone",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
+      "correct_answer": "A",
+      "explanation": "Propofol is the most common intravenous induction agent used in general anesthesia for cesareandelivery.Propofol can induce unconsciousness in approximately 45 seconds. Its administration does notaffect neonatal Apgar scores with typical intravenous induction doses (2-2.5 mg/kg). Repeated orlarger cumulative doses (9 mg/kg) are associated with significant newborn depression.Other options:Option B: Thiopentone was the most commonly used agent for induction before the introductionof propofol.Option C: Etomidate is not used as it can induce seizures in patients with reduced seizurethresholds. It is also associated with a higher incidence of nausea and vomiting.Option D: Ketamine is the preferred agent for patients with hemodynamic compromise as it helpsmaintain arterial pressure, heart rate, and cardiac output due to central stimulation of thesympathetic nervous system.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 5,
+      "question": "A 24-year-old woman, G2P1L1, presents with features of placental abruption. If she has to betaken in for an emergency cesarean section, what will be the preferred anaesthetic technique?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Spinal anesthesia",
+        "C": "Epidural anesthesia",
+        "D": "Caudal anesthesia"
+      },
+      "correct_answer": "A",
+      "explanation": "General anaesthesia is the preferred anaesthetic technique of choice in an emergency LSCS in apatient with placental abruption considering the emergency nature of the surgery and thepossibility of hemodynamic instability due to massive blood loss.Advantages of General anaesthesia include:• A very rapid and reliable onset•Control over the airway and ventilation•More comfortable for patients who have morbid fears of needles or surgery• Less incidence of hypotension as compared to regional anaesthesia.General anaesthesia is preferred in emergency conditions such as:•• Massive bleeding (placenta previa or accreta, abruption placentae, or uterine rupture)389• Coagulopathy••Hemodynamic instabilitySevere fetal distress.Disadvantages/risks of general anaesthesia:• Pulmonary aspiration of gastric contents• Difficult or failed intubation• Drug exposure to the fetus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 6,
+      "question": "A 28-year-old woman, G3P2L2, with a history of LSCS, is brought to the ER with complaintsof abdominal pain, hematuria, and vaginal bleeding. On examination, the patient ishypotensive along with foetal bradycardia and non-reassuring foetal heart rate tracing. Whichof the following is the preferred IV induction agent?",
+      "options": {
+        "A": "Propofol",
+        "B": "Thiopentone",
+        "C": "Ketamine",
+        "D": "Etomidate"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of hemodynamic compromise secondary to uterine scardehiscence. Ketamine is the preferred induction agent in this patient.Ketamine is the preferred induction agent for patients with hemodynamic compromise as it helpsmaintain arterial pressure, heart rate, and cardiac output due to sympathetic stimulation andnorepinephrine reuptake inhibition.Other properties of ketamine are:• Dissociative anesthesia with profound analgesia• Preserves laryngeal and pharyngeal reflex• Does not depress respiration• Bronchial dilatationOptions A and B: Propofol and thiopentone cause hypotension following induction.Option D: Etomidate, although cardiostable causes a mild reduction in peripheral vascularresistance that is responsible for a slight decline in arterial blood pressure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following muscle relaxants will you prefer to conduct a cesarean section undergeneral anaesthesia?",
+      "options": {
+        "A": "Vecuronium",
+        "B": "Pipecuronium",
+        "C": "Rocuronium381",
+        "D": "Succinylcholine"
+      },
+      "correct_answer": "D",
+      "explanation": "Succinylcholine will be the preferred muscle relaxant in the given scenario.Pregnancy is considered to be a state of 'full stomach' and therefore rapid sequence induction ispreferred when undergoing procedures under general anaesthesia.•Succinylcholine is the preferred muscle relaxant in rapid sequence induction due to its followingproperties:• Rapid onset (30-45 seconds)⚫ The short duration of action (metabolized by pseudocholinesterase)• Highly ionized and poorly lipid-soluble (lower placental transfer to foetus).Rocuronium can be used as an alternative to succinylcholine. It is the non-depolarizingneuromuscular blocking agent of choice for rapid sequence induction. It has a rapid onset(&lt;60390seconds) and its duration of action can be terminated by the reversal agent sugammadex. But theuse of rocuronium is associated with lower Apgar scores at 1 minute when compared withsuccinylcholine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 8,
+      "question": "A 25-year-old primigravida is screaming in pain while being wheeled into the labour room at2 am. On examination, her cervix is well-effaced and is 4 cm dilated. What is the preferredanaesthetic technique to ensure this patient has a painless labour?",
+      "options": {
+        "A": "Pudendal nerve block",
+        "B": "Spinal anesthesia",
+        "C": "Caudal anesthesia",
+        "D": "Lumbar epidural"
+      },
+      "correct_answer": "D",
+      "explanation": "Lumbar epidural is the most commonly used technique to produce labour analgesia because it canprovide analgesia during the first stage of labour and also provide anaesthesia during vaginaldelivery or cesarean section if necessary.For adequate pain relief, the sensory block of T10-L1 is required during the first stage of labourand S2-S4 is required during the second stage. The epidural catheter placed at L3-L4 or L4-L5interspace sufficiently provides T10-S5 neural blockade.Option A: Pudendal nerve block is given in the second stage of labor just before delivery of thebaby to provide analgesia to the vulva and anus. However, it has no effect on the pain ofcontractions. It is also given before repair of episiotomy or perineal lacerations.Option B: Spinal anaesthesia for labour analgesia has the advantage of a rapid and reliable onsetof the neural blockade, and it is technically easier to administer compared to epidural analgesia.However, repeated intrathecal injections may be required for a prolonged labour, thus increasingthe risk of post-dural puncture headache.Option C: Caudal epidural is largely abandoned to provide pain relief in obstetrics. It requireslarge volumes of a local anaesthetic to anaesthetize upper lumbar and lower thoracic dermatomesto provide adequate labour analgesia. Though rare, accidental puncture of the fetus is apossibility.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 9,
+      "question": "You observe a resident injecting a local anaesthetic to provide pain relief to a primigravidawho is in labour. Which of the following is the local anaesthetic of choice in this case?",
+      "options": {
+        "A": "Lidocaine",
+        "B": "Bupivacaine",
+        "C": "Chloroprocaine",
+        "D": "Cocaine"
+      },
+      "correct_answer": "B",
+      "explanation": "Bupivacaine is the preferred local anaesthetic (LA) agent for labour analgesia.Bupivacaine is preferred over lidocaine, chloroprocaine, and cocaine for labour analgesia becauseof its following properties:⚫ Differential blockade (less motor blockade as compared to sensory blockade). This preferredmotor function is useful as voluntary push down efforts by the patient may lead to better deliveryoutcomes.• Long duration of action (infrequent top-ups).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following drug combinations is preferred for providing epidural analgesiaduring labour?",
+      "options": {
+        "A": "Bupivacaine + epinephrine",
+        "B": "Bupivacaine + fentanyl",
+        "C": "Bupivacaine + neostigmine",
+        "D": "Bupivacaine + clonidine"
+      },
+      "correct_answer": "B",
+      "explanation": "The preferred combination used for epidural analgesia during labour is bupivacaine with fentanyl.This is because, doses of local anaesthetics can be reduced by combining them with opioids likefentanyl or sufentanil.391The lesser concentration of local anaesthetic used leads to greater preservation of motor functionand makes ambulation of the patient possible (walking or mobile epidural). Also, by reducing theconcentration of the drugs, adverse effects like hypotension and drug toxicity are minimized.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 11,
+      "question": "What is the concentration of bupivacaine you will use to provide labour analgesia, when usedin combination with fentanyl?382",
+      "options": {
+        "A": "0.0625 %",
+        "B": "0.25%",
+        "C": "0.5%",
+        "D": "5%"
+      },
+      "correct_answer": "A",
+      "explanation": "The concentration of bupivacaine used to provide labour analgesia, when used along with fentanylis 0.0625%.The required doses of local anaesthetics can be reduced if it is used in combination with opioidslike fentanyl or sufentanil.Concentration of LA used in epidural:The dose of opioid used in epidural:•Fentanyl 2-3 mcg/mL• Sufentanil: 0.3-0.5 mcg/mLDrugConcentrationsWithout opioidWith opioidBupivacaine0.25%0.0625-0.125%Ropivaca 0.2%ine0.0625-0.2%",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 12,
+      "question": "To provide epidural analgesia during labour, what is the ideal concentration of epinephrineadded to the local anaesthetic?",
+      "options": {
+        "A": "1:10,000",
+        "B": "1: 1,00,000",
+        "C": "1: 2,00,000",
+        "D": "1: 4,00,000"
+      },
+      "correct_answer": "",
+      "explanation": "Very dilute concentration of epinephrine (1:400,000 to 1:800,000) is used along with localanaesthetics for labour epidural analgesia.Epidural epinephrine can provide vasoconstriction which would delay the vascular uptake of localanaesthetic and opioid. Additionally, it can activate ° 2-adrenergic receptors and thus produceanalgesia on its own.Epinephrine, used along with local anaesthetics at a concentration of 5 µg/mL or 1:200,000 maybe associated with uterine artery vasoconstriction which can adversely affect the fetus and delaythe progress of labour. Hence epinephrine at this dose is used only for test dose (15 μg/mL or 3 mlof 1:200,000). A test dose is given to rule out the intravascular placement of epidural catheterfollowing the procedure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 13,
+      "question": "In a patient scheduled for an elective caesarean section, what is the preferred anaesthetictechnique used?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Spinal anesthesia",
+        "C": "Lumbar epidural",
+        "D": "Paracervical block"
+      },
+      "correct_answer": "D",
+      "explanation": "392Spinal anaesthesia is preferred over other techniques for an elective cesarean section.Advantages of spinal anaesthesia over general anaesthesia:•• Less neonatal exposure to potentially depressant drugs• A decreased risk of maternal pulmonary aspiration•An awake mother at the birth of her childSpinal opioids can be used for postoperative pain reliefAdvantages of spinal anaesthesia over epidural anaesthesia:•Rapid and predictable block•Complete block (lesser failure rate)• Lesser risk of systemic toxicity or high spinal due to accidental intravascular or intrathecalinjection seen with epidural anesthesia•More cost-effectiveParacervical block is used for labour analgesia, but not for elective cesarean section. Side effectsinclude transient fetal bradycardia, maternal local anaesthetic toxicity, and accidental injection oflocal anaesthetic into the presenting fetal head.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 14,
+      "question": "A 20-year-old primigravida who is in her second trimester of pregnancy is scheduled for anopen appendectomy. What is the preferred anaesthetic technique for this surgery?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Spinal anesthesia",
+        "C": "Epidural anesthesia",
+        "D": "Caudal anesthesia"
+      },
+      "correct_answer": "B",
+      "explanation": "Spinal anesthesia is preferred over other techniques for the appendectomy in the secondtrimester. Total anesthetic drug exposure is least with spinal anesthesia over others.General anesthesia is associated with a greater risk of:.Pulmonary aspiration of gastric contents• Difficult or failed intubation• Drug exposure to the fetus•Epidural anesthesia has the risk of:• Accidental intravascular injection• Accidental intrathecal injectionAlthough spinal anesthesia is preferred in most situations, the choice between general anesthesiaand spinal anesthesia is to be individualized. In general, spinal anesthesia is appropriate for openappendectomies and general anesthesia for laparoscopic appendectomies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 15,
+      "question": "383An elderly primigravida at 37 weeks of gestation develops bilateral pedal oedema. Onexamination, she has a BP of 148/92 mmHg and proteinuria of 400mg/day. Emergency LSCShas been scheduled for the patient. Which of the following anaesthetic techniques would beprefered in this patient?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Spinal anesthesia",
+        "C": "Lumbar epidural",
+        "D": "Caudal anesthesia"
+      },
+      "correct_answer": "C",
+      "explanation": "Epidural anaesthesia is the preferred anaesthetic technique in this patient who is likely to besuffering from preeclampsia.393Epidural anaesthesia is the first choice anaesthetic technique for patients with pre-eclampsiaduring labour, vaginal delivery, and cesarean section. One major prerequisite for its usage isnormal platelet count (minimum 100,000/µL) and normal coagulation.It has been shown to decrease catecholamine secretion and improve uteroplacental perfusion upto 75% in these patients, provided hypotension is avoided.Option A: General anaesthesia is indicated in patients with coagulopathy and in severepre-eclampsia with complications.Option B: Spinal anaesthesia can be given in mild pre-eclampsia but hypotension associated withspinal anaesthesia limits its use in moderate to severe pre-eclampsia.Option D: Caudal anaesthesia is generally unpopular in obstetric anaesthesia because of painfulneedle placement, high failure rates, potential contamination at the injection site, and risks ofaccidental fetal injection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 16,
+      "question": "A 30-year-old woman with coarctation of the aorta is admitted for elective caesarean section.Which of the following is the anaesthesia of choice?",
+      "options": {
+        "A": "Spinal anesthesia",
+        "B": "Epidural anesthesia",
+        "C": "General anesthesia",
+        "D": "Local anesthesia with nerve blocks"
+      },
+      "correct_answer": "",
+      "explanation": "General anaesthesia is the technique of choice for elective caesarean section in a patient withcoarctation of the aorta.In coarctation of the aorta, any decrease in cardiac output or cardiac return is deleterious to thefetus because the placental circulation is already compromised on account of coarctation.Regional anaesthesia should be avoided in the patient with coarctation of the aorta becausehypotension is the most common side effect of these anaesthesias.Local anaesthesia with nerve blocks does not provide adequate anaesthesia for caesarean section.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is false regarding neonates and their airways?",
+      "options": {
+        "A": "They are obligate nasal breathers.",
+        "B": "Narrowest part of their larynx is the glottis.",
+        "C": "Epiglottis is omega-shaped.",
+        "D": "Their glottis lies at the level of C4 vertebrae."
+      },
+      "correct_answer": "B",
+      "explanation": "The cricoid cartilage is the narrowest point of the airway (larynx is funnel-shaped) in childrenunder 5 years of age.In adults, it was earlier believed that the narrowest part of the airway is the glottis. But, now it hasbeen discovered that the subglottic region at the level of the cricoid cartilage is the narrowestportion in about 70% of adults.Salient features of pediatric airway:•Neonates are obligate nasal breathers (up to 5 months).•Nasal passages are narrower.• Larger tongue in relation to the oropharynx (airway obstruction and difficult intubation may be aproblem).• The larynx is placed higher in the neck (the glottis is at a vertebral level of C4 versus C6 inadults), so straight laryngoscope blades are preferred.• A short, omega-shaped epiglottis, and a shorter trachea and neck.394• Vocal cords are angulated and so if a tracheal tube is passed blindly instead of passing into thetrachea it could lodge in the anterior commissure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 18,
+      "question": "A 4-year-old boy was rushed to the ER after he accidentally swallowed a small coin. The ENTsurgeon has planned a rigid bronchoscopy to remove the coin. Which of the following drugswill you prefer for rapid sequence induction before the procedure?",
+      "options": {
+        "A": "Succinylcholine",
+        "B": "Rocuronium",
+        "C": "Vecuronium384",
+        "D": "Atracurium"
+      },
+      "correct_answer": "B",
+      "explanation": "Rocuronium is considered to be the drug of choice to provide muscle relaxation during routinerapid sequence induction or intubation in pediatric patients with foreign body aspiration.It has a faster onset and can be administered intramuscularly. Its long duration of action is adisadvantage. Sugammadex is a specific reversal agent that can terminate the action ofrocuronium.Option A: Succinylcholine is used for rapid sequence induction of anaesthesia because of its rapidonset and ultra-short duration of action. It is the shortest acting muscle relaxant but it is not usedfor routine intubation in children due to its many adverse effects like rhabdomyolysis,hyperkalemia, cardiac arrhythmias, and malignant hyperthermia.Option C: Vecuronium action is prolonged in small children due to immature hepatic and renalfunction.Option D: Atracurium or cisatracurium may be preferred in young infants, particularly for shortprocedures, because they undergo Hoffman elimination leading to a short duration of action.Besides, they do not require intact hepatic and renal functions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is not used for induction of anaesthesia in pediatric patients?",
+      "options": {
+        "A": "Halothane",
+        "B": "Sevoflurane",
+        "C": "Desflurane",
+        "D": "Nitrous oxide"
+      },
+      "correct_answer": "",
+      "explanation": "Desflurane is a highly pungent gas and can produce laryngospasm if used for inhalationalinduction. Hence it is not used as an induction agent.The incidence of laryngospasm following desflurane induction is almost 50%. It is usually used formaintenance of anaesthesia only and is of particular value in obese patients, neurosurgical andspinal fusion procedures where rapid awakening is required for neurological function assessment.Option A: Halothane is hepatotoxic but can be used (Sevoflurane is preferred)Option B: Sevoflurane is the preferred inhalational agent for induction in the pediatric age group.Cardiovascular depression, bradycardia, and arrhythmias are less frequent with sevoflurane thanwith halothane and hence the former is preferred.Option D: Nitrous oxide has the highest minimum alveolar concentration and so it is the leastpotent. It is used in combination with other potent inhaled anaesthetics to reduce their dose. Itcan be used to hasten the induction of anaesthesia along with other induction agents.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 20,
+      "question": "A 5-year-old child was brought to the local clinic in a remote village with a high fever for thepast 2 days. It was associated with a barking cough. His neck radiograph is given below. Incase a laryngoscopy has to be done, what will be the preferred induction agent?",
+      "options": {
+        "A": "Nitrous oxide",
+        "B": "Halothane",
+        "C": "Sevoflurane",
+        "D": "Desflurane"
+      },
+      "correct_answer": "C",
+      "explanation": "The clinical features and neck radiograph (steeple sign) are suggestive of laryngotracheobronchitis(croup) in the child and halothane is the preferred agent used for induction in this condition.395Normally sevoflurane and halothane are agents used for induction in children. But in a child withairway obstruction like croup (laryngotracheobronchitis), rapid induction is contraindicated.To perform laryngoscopy and tracheal intubation in such children, slow induction of anaesthesiais required before the child becomes sufficiently anaesthetized. Moreover, halothane has a slowerexcretion than sevoflurane, which provides sufficient time for airway management.The therapeutic index of sevoflurane is higher than halothane (myocardial depression,sensitization of the myocardium to arrhythmias, halothane hepatitis) and hence is preferred forroutine cases. However in certain underdeveloped countries, due to its cost-effectiveness,halothane is preferred.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q20_img1_52aca45e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 21,
+      "question": "R385In a child with temporal lobe epilepsy, which of the following anaesthetic agents should beavoided?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Methohexitone",
+        "C": "Propofol",
+        "D": "Ketamine"
+      },
+      "correct_answer": "B",
+      "explanation": "Methohexitone has the potential to cause seizures, hence it is avoided in children with temporallobe epilepsy.Intravenous administration of methohexitone can cause burning, hiccups, apnea, andextrapyramidal-like movements. Due to its potential to cause seizures, it is used to therapeuticallyinduce seizures in electroconvulsive therapy in adults.Option D: Ketamine is contraindicated in patients with increased intracranial tension and betteravoided in epileptic patients due to ketamine-induced myoclonic and seizure-like activity.Options A and C: Propofol and thiopentone have anti-convulsant property.Note: This is a controversial MCQ. Among the above options, methohexitone is the most specificanswer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following is the most commonly used opioid in children?",
+      "options": {
+        "A": "Morphine",
+        "B": "Meperidine",
+        "C": "Fentanyl",
+        "D": "Sufentanil"
+      },
+      "correct_answer": "",
+      "explanation": "Fentanyl is the most commonly used opioid in infants and children due to its rapid onset andshort duration of action.Termination of its effects is due to rapid redistribution and elimination. It has the advantage ofmaintaining cardiovascular stability while providing anaesthesia. But, fentanyl inducedbradycardia may require treatment with atropine/glycopyrrolate since the cardiac output ofneonates is determined by the heart rate.Option A: Morphine leads to greater respiratory depression in neonates due to slower clearance ofmorphine.Option B: Meperidine / Pethidine is not used in children since long term or repeatedadministration of the drug leads to seizures due to the accumulation of itsmetabolite-normeperidine.Option D: Sufentanil is usually preferred for cardiac anaesthesia.396",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 23,
+      "question": "A 6-week-old baby was brought to the OPD with a history of projectile, non-bilious vomiting.On abdominal examination, an olive-shaped mass was noted in the RUQ. After furtherevaluation, he was scheduled for surgical correction. Which of the following is true regardinghis anaesthetic management?",
+      "options": {
+        "A": "Aspiration of gastric contents with an NG tube is not indicated",
+        "B": "Cricoid pressure needs to be applied",
+        "C": "Atropine has to be administered before giving suxamethonium",
+        "D": "Mask ventilation is contraindicated"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical scenario is suggestive of pyloric stenosis and the child should be pretreated withatropine if suxamethonium is used during the surgery.For surgical repair in children with pyloric stenosis, either of the following two techniques can bedone:• Rapid-sequence induction - if suxamethonium (2mg/kg) is used, atropine (0.02 mg/kg) should begiven because children are more susceptible than adults to bradycardia and sinus node arrestassociated with suxamethonium.• Awake intubation - preserves airway reflexesThe classically described rapid sequence technique (preoxygenation, cricoid pressure, andavoiding mask ventilation) is not appropriate for an infant with pyloric stenosis.Opton A: Aspiration of gastric contents is done by suctioning with a wide bore vented catheterbefore induction of anaesthesia to remove 98% of gastric contents.Option B: Cricoid pressure can distort the anatomy making laryngoscopy difficult, hence avoided.If it is applied and there is no clear view of the larynx then the pressure should be relaxed.Option D: Infants rapidly desaturate compared to adults due to greater oxygen consumption andsmaller functional residual capacity. This means that gentle bag-mask ventilation is required priorto laryngoscopy to avoid hypoxemia and bradycardia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following is the preferred agent used as sedative premedication in pediatricanaesthesia?",
+      "options": {
+        "A": "Barbiturate",
+        "B": "Diazepam",
+        "C": "Midazolam",
+        "D": "Propofol386"
+      },
+      "correct_answer": "",
+      "explanation": "The preferred sedative premedication in children is midazolam.It is preferred as it has a shorter elimination half-life (2 hours) and has the advantage ofproducing anterograde amnesia. It is water-soluble and hence painless on injection. It is usuallyadministered to children 10 to 12 months or older because of separation anxiety from parents.Other sedative premedications that are sometimes used include dexmedetomidine, clonidine,temazepam and ketamine.Option A: Barbiturates are not commonly used for premedication in children since the availabilityof short-acting benzodiazepines. A major disadvantage is hyperalgesia, which can induce agitationin children with pain.Option B: Diazepam has a longer elimination half-life (18 hours) and immature liver function thatwould prolong its action in young children.Option D: Propofol is the most useful sedative-hypnotic drug but is not approved for this use inpediatric patients.Note- Ketamine is effective as a sedative, but it can increase oral secretion and can causehallucinations during recovery. Hence oral ketamine is usually avoided, and when used, isadministered along with antisialogogue (atropine/glycopyrrolate) and a benzodiazepine (such asmidazolam).397",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following agents is not used for induction of anaesthesia in children?",
+      "options": {
+        "A": "Halothane",
+        "B": "Sevoflurane",
+        "C": "Morphine",
+        "D": "Nitrous oxide"
+      },
+      "correct_answer": "",
+      "explanation": "Morphine is not commonly recommended for induction of anaesthesia in children, especiallybelow the age of 6 months.Most commonly used induction agents in children:Inhalational agents:• Nitrous oxide• Halothane• SevofluraneIntravenous agents:• Propofol• Thiopentone• Etomidate• Ketamine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    },
+    {
+      "q_no": 26,
+      "question": "In which of the following cases is ketamine preferred as the induction agent?",
+      "options": {
+        "A": "A 25-year old man with an open eye injury",
+        "B": "RTA case with head injury",
+        "C": "An elderly woman with sinusitis",
+        "D": "A case of stab injury with severe hypotension"
+      },
+      "correct_answer": "",
+      "explanation": "Ketamine is the agent of choice for induction of anesthesia in patients with hypovolemia.It helps to maintain arterial pressure, heart rate, and cardiac output via central stimulation of thesympathetic nervous system and inhibition of the reuptake of norepinephrine.The following are contraindications for ketamine:• Active upper respiratory infection (URI)• Increased intracranial pressure•Open-globe injury (only intravenous induction agent which raises intraocular pressure)• Psychiatric or seizure disorder398",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric and Obstetric Anaesthesia"
+    }
+  ]
+}

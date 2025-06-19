@@ -1,0 +1,155 @@
+{
+  "chapter": "Ventilation and O2 Delivery Systems",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a low-flow variable performance device?",
+      "options": {
+        "A": "Nasal cannula",
+        "B": "Non-rebreathing mask",
+        "C": "Nasal mask",
+        "D": "Anaesthetic bag"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the maximum percentage of oxygen that can be delivered via nasal cannula?",
+      "options": {
+        "A": "100 %",
+        "B": "90%",
+        "C": "40%",
+        "D": "10%"
+      },
+      "correct_answer": "C",
+      "explanation": "The nasal cannula is a low flow variable performance oxygen delivery system that can achieve amaximum inspired oxygen concentration of 40-50 % if flow rates are greater than 10L/ min forshort periods.Flow rates greater than 5 L/min are not tolerated because of the discomfort associated with thishigh flow entering the nasal cavity and also due to drying and crusting of the nasal mucosa.At flow rates of 3-4 L, it can provide an inspired oxygen concentration of 30-35%.In mouth-to-mouth resuscitation, the percentage of oxygen delivered is 16%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    },
+    {
+      "q_no": 3,
+      "question": "In which of the following situations should nasal cannula be avoided?",
+      "options": {
+        "A": "Requiring inspiratory oxygen flow rate of 45 L/min",
+        "B": "Minute ventilation of 8 L/min",
+        "C": "Respiratory rate at 15 breaths/min",
+        "D": "Tidal volume less than 0.8 L"
+      },
+      "correct_answer": "A",
+      "explanation": "178A nasal cannula is a low flow variable performance oxygen delivery system. It is not suited forpatients requiring high FiO2 or inspiratory oxygen flow rates greater than 40 L/min for whichdevices like venturi mask, anaesthetic bag, air-entraining nebulizers, or high flow air oxygensystems are preferred.Indications of a nasal cannula and other low-flow oxygen delivery systems include•• Minute ventilation &lt; 8–10 L/min•Breathing frequencies &lt; 20 breaths/min•Normal inspiratory flow (10-30 L/min).•Tidal volumes (VT) &lt; 0.8 L",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    },
+    {
+      "q_no": 4,
+      "question": "What is the maximum oxygen concentration delivered by a venturi mask?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "60%175",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Venturi mask is a high-flow, fixed-performance oxygen delivery system and the highest oxygenconcentration (FiO2) delivered is 60% at a flow rate of 15 L/min.It is available in different colors, with the green valve venturi mask providing 60% FiO2.This is useful with patients who require greater FiO2 such as COPD patients, where it is importantto provide controlled oxygenation.MAVenturi Mask KitOMARROWWColour of Venturi valvFiO2Flow rate(L/mi(%)n)Blue242White284Orange316Yellow358Red4010179Colour of Venturi valveGreenFiO2Flow rate(L/mi(%)n)6015",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp4_img1_2688ea52.jpeg",
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    },
+    {
+      "q_no": 5,
+      "question": "An 18-year-old boy is rushed to the emergency department after having choked on a bonewhile eating. He is responsive but unable to speak. What is to be done next?",
+      "options": {
+        "A": "Bag and mask ventilation",
+        "B": "Endoscopic removal",
+        "C": "Deliver 5 backslaps and 5 chest compressions",
+        "D": "Perform Heimlich maneuver"
+      },
+      "correct_answer": "D",
+      "explanation": "In a choking child (more than 1 year old) or an adult, the first step to be done is to performHeimlich maneuver which involves delivering abdominal thrusts.The rescuer should stand or kneel behind the patient and wrap his arms around the patient'swaist. A fist is made with one hand and using the other hand, the fist is driven into the patient'sabdomen with a rapid, forceful upward thrust so as to dislodge the foreign body. This is continueduntil the foreign body is expelled or if the patient becomes unresponsive.If the patient becomes unresponsive, immediately start CPR.N6.Heimlich maneuver433OMARROWIn a choking infant who is responsive, 5 back slaps between the shoulder blades and 5 downwardthrusts on the chest are given in order to dislodge the foreign body.If the patient becomes unresponsive, immediately start CPR.180Relief of foreignin a responsive infantbody obstructionIn a responsive choking infant, 5 back slaps are given and if the object isnot expelled then 5 chest thrusts are givenOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp5_img1_641bee34.png",
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    },
+    {
+      "q_no": 6,
+      "question": "In an intubated patient, after what duration of endotracheal intubation will you need toperform a tracheostomy?",
+      "options": {
+        "A": "2 hours",
+        "B": "2 days",
+        "C": "2 weeks",
+        "D": "2 months"
+      },
+      "correct_answer": "",
+      "explanation": "Tracheostomy is performed in an intubated patient after 2-3 weeks.This is because if an orotracheal or nasotracheal tube is left in situ for more than 2-3 weeks, itresults in subglottic stenosis.Hence it is ideal to replace the endotracheal tube with a cuffed tracheostomy tube.If on intubation, it is perceived that the patient may require intubation for a period longer than 2weeks, then tracheostomy can be performed soon after intubation.Tracheostomy has been found to reduce the incidence of pneumonia, the duration of mechanicalventilation, and the length of stay in hospitals for patients with major head injuries.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is not an indication for mechanical ventilation?",
+      "options": {
+        "A": "Arterial oxygen tension &lt; 50 mm Hg",
+        "B": "Arterial CO2 tension &lt; 50 mm Hg",
+        "C": "Tidal volume &lt; 5 ml/kg",
+        "D": "Vital capacity &lt; 15 ml/kg"
+      },
+      "correct_answer": "B",
+      "explanation": "Arterial CO2 tension &lt; 50 mm Hg is not an indication for mechanical ventilation.Indications of mechanical ventilation:Directly measured indices•Arterial oxygen tension &lt;50 mmHg on room air• Arterial CO2 tension &gt;50 mmHg in the absence of metabolic alkalosisDerived indices•• PaO2/FiO2 ratio &lt;300 mm Hg• PA-a O2 gradient &gt;350 mm Hg• Vd /Vt &gt;0.6181Clinical indices• Respiratory rate &gt;35 breaths/minMechanical indices•Tidal volume &lt;5 mL/kg• Vital capacity &lt;15 mL/kg• Maximum Inspiratory Force &gt; -25 cm H 20",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is associated with respiratory alkalosis?",
+      "options": {
+        "A": "Assisted control mode ventilation",
+        "B": "Controlled mandatory176",
+        "C": "Pressure controlled",
+        "D": "SIMV"
+      },
+      "correct_answer": "",
+      "explanation": "Respiratory alkalosis can occur in Assist Control Mode VentilationVentilatory ModeVariables set by User (Independent)Variables Monitored by the user (Dependent)Trigger cycle limitAdvantagesDisadvantagesACMV(Assist ContrIMV(Intermittentol Mode Ventilation) Mandatory VentilatTidal volumeVentilator rateFio2PEEPlevelPressure limitPeak, mean,and plateau airway pressuresVEABGI/E ratioPatient effortTimerPressure limitPatient controlGuaranteed ventilationPotential hyperventilation(Leading to respiratory alkalosis)Barotrauma and volutraumaEvery effective breath generates a ventilator volumeion)Tidal volumeMandatory ventilator rateFi02PEEP levelPressure limitSpontaneous breaths between assisted breathsPeak, mean, and plateau airway pressuresVEABGI/E ratioPatient effortTimerPressure limitPatient controlComfort from spontaneous breathsGuaranteed ventilationPotential dysynchronyPotential hypoventilationPSV(Pressure Support Ventilation)Inspiratory pressure levelFio2PEEPPressure limitTidal volumeRespiratory rateVEABGPressure limitInspiratory flowPatient controlComfortAssures synchronyNo timer backupPotential hypoventilationNIV(Noninvasive Ventilation)Inspiratory and expiratory pressure levelFio2Tidal volume Respiratory rateVEABGPressure limitInspiratory flowPatient controlMask interface maycause discomfort and facial bruisingLeaks are commonHypoventilation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    },
+    {
+      "q_no": 9,
+      "question": "You are planning to wean a patient off mechanical ventilation. Which of the following is not acriterion to do so?",
+      "options": {
+        "A": "Tidal volume of 5 ml/kg",
+        "B": "Vital capacity of 5 ml/kg",
+        "C": "Minute ventilation of 10L/min",
+        "D": "Inspiratory pressure of -25 cm H 2 O"
+      },
+      "correct_answer": "B",
+      "explanation": "Weaning off mechanical ventilation is indicated when vital capacity is &gt;10 mL/kg.182",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    },
+    {
+      "q_no": 10,
+      "question": "Following a road traffic accident, an unresponsive young man was brought to the emergencyroom. In order to declare him as brain dead, which of the following criteria can be used?",
+      "options": {
+        "A": "2, 3 and 5",
+        "B": "1, 2 and 4",
+        "C": "1, 3 and 5",
+        "D": "2, 3 and 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Absent spinal cord reflex and decorticate posturing are not criteria for brain death. Thestatements 2, 3 and 5 are correct.Brain death is defined as the irreversible cessation of all brain function. Spinal cord functionbelow C1 may still be present.Brain death criteria can be applied only in the absence of:•Hypothermia•⚫ Hypotension• Uncorrected metabolic or endocrine abnormalities•• Neuromuscular blockers• Drugs known to depress brain function.Generally accepted clinical criteria for brain death include the following:•Coma• Absent motor activity, including no decerebrate or decorticate posturing•Spinal cord reflexes may be preserved• Absent brainstem reflexes, including no pupillary, corneal, vestibulocochlear (caloric), or gag (orcough) reflexes•Absence of ventilatory effort, with the arterial CO2 tension &gt;60 mm Hg or 20 mm Hg abovethe pretest level (positive apnea test)Confirmatory test findings (not mandatory but may assist in diagnosis)•Isoelectric electroencephalogram• Absence of brainstem auditory evoked potentials• Absence of cerebral perfusion as documented by angiographic, transcranial Doppler, orradioisotopic studies183",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ventilation and O2 Delivery Systems"
+    }
+  ]
+}

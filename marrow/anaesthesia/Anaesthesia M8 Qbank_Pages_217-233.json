@@ -1,0 +1,380 @@
+{
+  "chapter": "Halothane",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which among the following is the most potent inhaled anesthetic?",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Desflurane",
+        "D": "Sevoflurane"
+      },
+      "correct_answer": "A",
+      "explanation": "Halothane is the most potent inhaled anesthetic among the given options.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 2,
+      "question": "At what concentration does the administration of an inhaled general anesthetic preventmovement in response to noxious stimuli in 50% of the population?",
+      "options": {
+        "A": "Maximum anesthetic concentration",
+        "B": "Minimum anesthetic concentration",
+        "C": "Maximum alveolar concentration",
+        "D": "Minimum alveolar concentration"
+      },
+      "correct_answer": "",
+      "explanation": "Minimum alveolar concentration (MAC) is the inhaled anesthetic concentration required toprevent movement in response to noxious stimuli in 50% of patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 3,
+      "question": "What does the blood-gas partition coefficient of an inhaled anesthetic indicate?",
+      "options": {
+        "A": "Duration of action",
+        "B": "Potency",
+        "C": "Solubility in blood",
+        "D": "Solubility in lipid"
+      },
+      "correct_answer": "",
+      "explanation": "The blood gas (B:G) partition coefficient of an inhaled anesthetic is an indicator of solubilityin blood which determines the speed of induction and recovery.An inhalational anesthetic with a lower blood gas partition (B:G) coefficient would have lowersolubility in blood. This would mean a higher alveolar concentration which will lead to fasterinduction and recovery.225Xenon with a blood-gas partition coefficient of 0.115 has the fastest induction and emergencefrom anesthesia.Methoxyflurane with a blood gas partition coefficient of 12 has the slowest inductionand emergence from anesthesia.The speed of induction and emergence:Xenon &gt; Desflurane &gt; Sevoflurane&gt; Isoflurane &gt; Enflurane &gt; Halothane &gt;Methoxyflurane",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp3_img1_981b57a4.png",
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 4,
+      "question": "Which anesthetic agent has the least solubility in blood?",
+      "options": {
+        "A": "Nitrous oxide217",
+        "B": "Desflurane",
+        "C": "Xenon",
+        "D": "Methoxyflurane"
+      },
+      "correct_answer": "C",
+      "explanation": "The anesthetic agent, least soluble in the blood is xenon with a blood:gas partition coefficient of0.115The speed of induction and emergence:Xenon &gt; Desflurane &gt; Sevoflurane &gt; Isoflurane &gt; Enflurane &gt; Halothane &gt;Methoxyflurane",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the rationale for choosing an inhaled anesthetic with the lowest MAC value?",
+      "options": {
+        "A": "Fastest induction and recovery",
+        "B": "Highest potency",
+        "C": "Slowest inducton and recovery",
+        "D": "Lowest potency"
+      },
+      "correct_answer": "",
+      "explanation": "A drug with the lowest MAC would have the highest potency.The minimum alveolar concentration (MAC) value of an inhaled anesthetic is a measure ofthe potency of the anesthetic agent.Least potent: nitrous oxide (MAC-104%). 1 MAC with nitrous oxide is practically impossible andthus it is always combined with other agents.226Most potent: methoxyflurane (MAC-0.16%) &gt; trilene (MAC-0.2%), both of which are obsoletenow.Among the inhaled agents in clinical use, halothane is the most potent.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 6,
+      "question": "According to Meyer Overton rule, which of the following is related to the potency of ananesthetic?",
+      "options": {
+        "A": "Solubility in blood",
+        "B": "Solubility in lipid",
+        "C": "Blood gas partition coefficient",
+        "D": "Minimum Alveolar Concentration"
+      },
+      "correct_answer": "B",
+      "explanation": "Meyer Overton rule relates potency of an anesthetic to the solubility in lipid.This rule suggests that anesthesia occurs when a sufficient number of inhalational anestheticmolecules dissolve in the lipid cell membrane.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 7,
+      "question": "At what concentration does the administration of an inhaled general anesthetic preventmovement in response to noxious stimuli in 50% of the population?",
+      "options": {
+        "A": "3% decrease per decade",
+        "B": "3% increase per decade",
+        "C": "6% decrease per decade",
+        "D": "6% increase per decade"
+      },
+      "correct_answer": "",
+      "explanation": "The minimum alveolar concentration (MAC) decreases by 6% per decade for inhalationalanesthetics. This is due to altered sensitivity in the ion channels and receptors (nicotinic,acetylcholine, glutamate, and GABA).Recovery with a volatile anesthetic in geriatric patients may be prolonged because of an increasedvolume of distribution (increased body fat) and decreased pulmonary gas exchange.Dosage requirements for local and general (MAC) anesthetics are reduced in elderly patients.Administration of a given volume of epidural or spinal anesthetic results in a more extensivespread and longer duration in elderly patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 8,
+      "question": "In which of the following patients would a lower amount of inhalational anesthetic beadministered?218",
+      "options": {
+        "A": "1 &amp; 3 only",
+        "B": "2, 3 &amp; 5 only",
+        "C": "3 &amp; 5 only",
+        "D": "3, 4 &amp; 5 only"
+      },
+      "correct_answer": "",
+      "explanation": "Minimum alveolar concentration (MAC) decreases in pregnancy and hypercalcemia. Thus, thesepatients require a lower dose of inhalational anesthetic agents.Chronic alcoholics, infants, and people with a history of cocaine abuse would require higher dosesof anesthetic agents.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 9,
+      "question": "Your senior asks you to administer oxygen to a patient in order to avoid diffusion hypoxia.When is this phenomenon observed during anesthesia?",
+      "options": {
+        "A": "Induction with halothane",
+        "B": "Induction with nitrous oxide",
+        "C": "Recovery from halothane",
+        "D": "Recovery from nitrous oxide"
+      },
+      "correct_answer": "C",
+      "explanation": "Diffusion hypoxia is observed in anesthesia during recovery from nitrous oxide anesthesia.Due to low solubility (low blood gas partition coefficient), N2O diffuses from the blood to thealveoli and replaces the oxygen. This reduces alveolar O2 concentration, resulting in relativehypoxemia.Diffusion hypoxia can be avoided by using 100% oxygen for 10 minutes during recovery fromanesthesia.227",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 10,
+      "question": "While setting up the anesthesia cart in the morning, you note the technician shifting ablue-colored cylinder to the operation theatre. Which of the following is a false statementabout the gas present in the cylinder?",
+      "options": {
+        "A": "It is least potent",
+        "B": "It shows second gas effect",
+        "C": "It decreases cerebral metabolic rate",
+        "D": "It is an NMDA receptor antagonist"
+      },
+      "correct_answer": "C",
+      "explanation": "The given color code of a blue cylinder indicates that the gas present inside the cylinder is nitrousoxide. Nitrous oxide increases cerebral metabolic rate.Nitrous oxide increases cerebral metabolic rate, cerebral oxygen consumption, and cerebral bloodflow. Hence it is not preferred in neuro anesthesia as it increases intracranial pressure.Option A: N2O has a MAC value of 104%, which makes it the least potent inhaled anesthetic.Hence it is always used in combination with the more potent volatile agents.Option B: N2O has low blood-gas solubility resulting in phenomena such as second gas effect,concentration-effect, and diffusion hypoxia.Option D: N2O acts as an antagonist at N-methyl-D-aspartate (NMDA) receptors, which areexcitatory receptors in the brain.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 11,
+      "question": "A polytrauma patient with the given x-ray finding is being taken up for damage controlsurgery. Which of the following inhalational agents should be avoided in her?219",
+      "options": {
+        "A": "Halothane",
+        "B": "Sevoflurane",
+        "C": "Desflurane",
+        "D": "Nitrous oxide"
+      },
+      "correct_answer": "",
+      "explanation": "The image shows a pneumothorax. The inhalational agent to be avoided is nitrous oxide.Nitrous oxide has the potential to expand air-containing cavities, as it can diffuse into andaccumulate in them. Hence it should be avoided in patients with pneumothorax.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q11_img1_41cf5562.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 12,
+      "question": "In which of the following patients can you safely administer nitrous oxide?",
+      "options": {
+        "A": "A 40-year-old man with sigmoid volvulus",
+        "B": "A 32-year-old man undergoing tympanic membrane grafting",
+        "C": "A 56-year-old woman posted for vitreoretinal surgery",
+        "D": "A 16-year-old girl undergoing tooth extraction"
+      },
+      "correct_answer": "D",
+      "explanation": "As the sole agent, nitrous oxide can be used with oxygen for dental analgesia. It can also be usedfor obstetric analgesia.All the other conditions are contraindications to nitrous oxide because it has the potential toexpand air-containing cavities, as it can diffuse into and accumulate in them. This increases thepressure within the cavity which can lead to deleterious effects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 13,
+      "question": "Which anesthetic agent does not undergo metabolism in our body?",
+      "options": {
+        "A": "Halothane",
+        "B": "Sevoflurane",
+        "C": "Methoxyflurane",
+        "D": "Nitrous oxide220"
+      },
+      "correct_answer": "D",
+      "explanation": "Nitrous oxide does not undergo any metabolism in our body.Methoxyflurane undergoes maximum metabolism while desflurane undergoes minimalmetabolism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 14,
+      "question": "During the pre-anesthetic evaluation of a young woman planned for surgery, the followingfindings are described in the peripheral smear. Which inhalational anesthetic agent should beavoided to prevent neurological symptoms of this disease from developing?",
+      "options": {
+        "A": "Nitrous oxide",
+        "B": "Halothane",
+        "C": "Isoflurane",
+        "D": "Desflurane"
+      },
+      "correct_answer": "A",
+      "explanation": "The peripheral smear shows macro-ovalocytes and Cabot cells, suggesting megaloblasticanemia. Nitrous oxide should not be used in a patient with megaloblastic anemia.228N■O can cause a subclinical B12 deficiency to become overt, leading to subacute combineddegeneration of the cord (SACD).NO inhibits vitamin B12 dependent enzymes like methionine synthetase which is essential forthe formation of myelin. It also inhibits vitamin B12 dependent enzymes like thymidylatesynthetase, which are necessary for DNA synthesis. This leads to the megaloblastic bone marrowchanges.Side effects of N■O:••Bone marrow depression• Megaloblastic anemia – may be seen following nitrous oxide exposure for 2- 6 hours• Teratogenicity• Peripheral neuropathy-",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q14_img1_ed33eb58.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 15,
+      "question": "A 42-year-old obese woman is posted for a revision laparotomy surgery. She gives a history ofjaundice following the previous surgery. Which drug should be avoided in her?",
+      "options": {
+        "A": "Nitrous oxide",
+        "B": "Xenon",
+        "C": "Halothane",
+        "D": "Sevoflurane"
+      },
+      "correct_answer": "C",
+      "explanation": "Halothane must not be given to patients with unexplained liver dysfunction following previousanesthetic exposure due to the risk of halothane-induced hepatitis.Halothane-induced hepatitis is immune-mediated due to antibodies against highly reactivetrifluoroacetyl chloride which is a metabolite of halothane.It is rare with an incidence of 1 per 35,000 cases but very fatal, with a mortality of 50-75%.Risk factors for halothane hepatitis:• Multiple exposures to halothane at short intervals• Middle-aged obese women- halothane undergoes extensive metabolism in obese patients●Familial predisposition to halothane hepatitisThe liver in halothane hepatitis shows centrilobular necrosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient with a prior history of halothane hepatitis is now scheduled for a surgery. Whichwould be the inhalational agent of choice in this patient?221",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Desflurane",
+        "D": "Sevoflurane"
+      },
+      "correct_answer": "D",
+      "explanation": "Sevoflurane is the inhalational agent of choice in a patient with a prior history of halothanehepatitis.Unlike the other volatile anesthetics, sevoflurane is oxidized to form a stable metabolite that doesnot covalently bind to proteins and cause hepatic injury.Halothane hepatitis is immune-mediated due to antibodies against highly reactive trifluoroacetylchloride which is a metabolite of halothane.Like halothane, other agents like isoflurane, desflurane, and enflurane also undergo metabolismto produce highly reactive intermediates that can covalently modify hepatic proteins and causesevere hepatitis.229",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following statements is false regarding halothane?",
+      "options": {
+        "A": "Maximum decrease in cardiac output",
+        "B": "Contraindicated in pheochromocytoma",
+        "C": "Can trigger malignant hyperthermia",
+        "D": "Contraindicated in asthmatics"
+      },
+      "correct_answer": "D",
+      "explanation": "Halothane is not contraindicated in asthmatics. In fact, it is suitable for induction in asthmaticpatients due to its ability to cause bronchodilation.However, the agent of choice in asthmatics would be sevoflurane due to the low safety profile ofhalothane. Halothane sensitizes the heart to the effects of adrenaline and causes bradycardia andarrhythmias. An overall cardiovascular and respiratory depression is seen with Halothane whichare less likely with sevoflurane.Option A: Halothane produces the maximum decrease in cardiac output among the inhalationalanesthetics by a combination of decreased heart rate and depressed myocardial contractility.Option B: Halothane sensitizes the heart to the arrhythmogenic effects of epinephrine and henceis contraindicated in pheochromocytoma.Option C: Inhaled anesthetics like halothane, methoxyflurane, enflurane, isoflurane, desflurane,and sevoflurane are known to trigger malignant hyperthermia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following agents does not liberate fluoride?",
+      "options": {
+        "A": "Methoxyflurane",
+        "B": "Halothane",
+        "C": "Sevoflurane",
+        "D": "Isoflurane"
+      },
+      "correct_answer": "B",
+      "explanation": "Halothane is not metabolized to fluoride under normal circumstances.The renal toxicity of volatile anesthetics is due to their metabolic breakdown to free fluoride ions.Methoxyflurane, sevoflurane, and isoflurane liberate fluoride compounds.The amount of fluoride ions produced (in micromoles):Methoxyflurane &gt; Sevoflurane &gt; Enflurane &gt; Isoflurane = DesfluraneMethoxyflurane is the most nephrotoxic among inhalational anesthetics. It causes polyuric renalfailure due to a large amount of inorganic fluoride released, and it is no longer used in clinicalpractice.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 19,
+      "question": "A 32-year-old man presents with recurrent episodes of headache, palpitation, and sweating.His BP is 160/100 mm Hg and heart rate is 130/min. 24-hour urinary metanephrines areelevated and CT abdomen shows a right suprarenal mass. He is scheduled for surgery. Whichinhalational anesthetic is contraindicated in him?",
+      "options": {
+        "A": "Nitrous oxide",
+        "B": "Halothane",
+        "C": "Desflurane",
+        "D": "Sevoflurane"
+      },
+      "correct_answer": "B",
+      "explanation": "The given findings are suggestive of pheochromocytoma. Halothane is contraindicated in patientswith pheochromocytoma.Pheochromocytoma is a catecholamine secreting tumor of chromaffin origin. Halothane sensitizesthe heart to the arrhythmogenic effects of epinephrine.Other anesthetic drugs to be avoided in a patient with pheochromocytoma are:• Succinylcholine - causes fasciculations which lead to raised intraabdominal pressure and•catecholamine release from the tumorKetamine sympathomimetic-•Pancuronium - vagal blockade leading to tachycardia•• Atracurium, tubocurarine - histamine release which may provoke catecholamine release230",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 20,
+      "question": "222A patient was taken up for surgery and was administered an inhalational agent for anesthesia.Suddenly his heart rate dropped from 94/min to 58/min. Which anesthetic agent was mostlikely administered?",
+      "options": {
+        "A": "Halothane",
+        "B": "Desflurane",
+        "C": "Enflurane",
+        "D": "Isoflurane"
+      },
+      "correct_answer": "A",
+      "explanation": "Halothane induces bradycardia and causes the maximum reduction in cardiac output, as it bluntsthe baroreceptor reflex and depresses myocardial contractility.Normally, hypotension inhibits baroreceptors in the aortic arch and carotid sinus, causing adecrease in vagal stimulation and a compensatory rise in heart rate.Halothane and enflurane produce a greater decrease in myocardial contractility than isoflurane,desflurane, and sevoflurane which preserve the baroreceptor reflexes and produce tachycardia inresponse to a fall in arterial pressure.Cardiac output is best preserved with isoflurane. Though it produces some myocardial depression,reflex tachycardia maintains cardiac output, isoflurane is the agent of choice in cardiac patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 21,
+      "question": "Which inhalational anesthetic agent causes the maximum decline in hepatic blood flow?",
+      "options": {
+        "A": "Isoflurane",
+        "B": "Desflurane",
+        "C": "Sevoflurane",
+        "D": "Halothane"
+      },
+      "correct_answer": "D",
+      "explanation": "Maximum decline in hepatic blood flow is caused by halothane.All volatile anesthetics decrease hepatic blood flow but halothane causes the maximumdecrease. Hepatic artery vasoconstriction and increase in hepatic arterial resistance are seen withhalothane.Halothane also reduces hepatic oxygen delivery and hepatic venous oxygen saturation. This isbecause of the greater reduction in cardiac output caused by halothane than the other volatileagents.Hepatic arterial buffer response(HABF) is an autoregulatory mechanism in the liver. When portalblood flow decreases due to decreased cardiac output or hypovolemia, the hepatic arterial bloodflow increases in order to maintain total hepatic blood flow. Halothane disrupts this regulatorymechanism, which is best preserved with sevoflurane or isoflurane.Desflurane and sevoflurane have the least significant effects on total hepatic blood flow andoxygen delivery. Sevoflurane is considered equal to or better than isoflurane in preserving hepaticarterial blood flow and hepatic oxygen delivery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 22,
+      "question": "A primigravida developed postpartum hemorrhage 45 minutes after delivery. She has ahistory of a myomectomy done 2 years prior. The obstetrician suspects placenta succenturiataand requests the anesthetist to administer an inhaled drug for uterine relaxation. Which ofthe following agents can be used in this scenario?",
+      "options": {
+        "A": "Ether",
+        "B": "Chloroform",
+        "C": "Nitrous oxide",
+        "D": "Halothane"
+      },
+      "correct_answer": "D",
+      "explanation": "Uterine relaxation is maximum with halothane.Although halothane is not used in cases of PPH, it is the only anesthetic agent that can inhibituterine contraction.Hence among the given inhaled drugs, Halothane is the appropriate answer for the given clinicalscenario.Halogenated anesthetics like halothane have potent relaxant effects on the uterus. It is utilized forfacilitating intrauterine fetal manipulation.231However, its use during labor can prolong delivery and increase uterine bleeding.Options A and B: Ether and chloroform do not have any significant uterine relaxant action.Option C: Nitrous oxide also has uterine relaxant properties but is less than that of halogenatedinhalational anesthetics.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 23,
+      "question": "The second gas effect is seen with which anesthetic?",
+      "options": {
+        "A": "Cyclopropane",
+        "B": "Nitrous oxide",
+        "C": "Ether",
+        "D": "Methoxyflurane223"
+      },
+      "correct_answer": "B",
+      "explanation": "The second gas effect is seen with nitrous oxide, during induction.Second gas refers to oxygen and other volatile anesthetic agents.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 24,
+      "question": "What is the incidence of halothane hepatitis?",
+      "options": {
+        "A": "1 in 200",
+        "B": "1 in 350",
+        "C": "1 in 20, 000",
+        "D": "1 in 35,000"
+      },
+      "correct_answer": "D",
+      "explanation": "The incidence of halothane hepatitis is 1 in 35,000, but it is very fatal with a mortality of 50-75%.It is an immune-mediated reaction due to antibodies against highly reactive trifluoroacetylchloride which is a metabolite of halothane.Risk factors for halothane hepatitis:• Multiple exposures to halothane at short intervals• Middle-aged obese women• Familial predisposition to halothaneThe liver in halothane hepatitis shows centrilobular necrosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    },
+    {
+      "q_no": 25,
+      "question": "On administration of which of the following inhaled anesthetics can megaloblastic anemiaoccur as an adverse effect?",
+      "options": {
+        "A": "Halothane",
+        "B": "Nitrous oxide",
+        "C": "Sevoflurane",
+        "D": "Desflurane"
+      },
+      "correct_answer": "B",
+      "explanation": "Nitrous oxide inhibits vitamin B12 dependent enzymes like thymidylate synthetase, which isnecessary for DNA synthesis - this is responsible for the megaloblastic bone marrow changes.Megaloblastic anemia is seen with nitrous oxide especially when exposure is greater than 2-6hours (in healthy patients prolonged periods of exposure &gt; 12 hours is required whereas, incritically ill patients, much shorter periods of exposure can lead to megaloblastic changes in thebone marrow).Side effects of nitrous oxide:• Bone marrow depression• Subacute combined degeneration of the cord•Teratogenicity• Peripheral neuropathyContraindications of nitrous oxide:232•· Venous or arterial air embolism• Pneumothorax••• Acute intestinal obstruction with bowel distentionIntracranial air (pneumocephalus following dural closure or pneumoencephalography)• Pulmonary air cysts• Intraocular air bubbles•Tympanic membrane grafting233",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Halothane"
+    }
+  ]
+}

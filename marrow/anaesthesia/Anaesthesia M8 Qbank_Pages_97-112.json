@@ -1,0 +1,185 @@
+{
+  "chapter": "Breathing Systems",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "On your first day in the operating theater, you notice the following machine. What type of machine is this? a) Continuous flow machine b) Intermittent flow machine c) Intermittent at low flows and continuous at high flows d) Continuous at low flows and intermittent at high flows. What is the most commonly used Mapleson circuit?",
+      "options": {
+        "A": "Type B",
+        "B": "Type A",
+        "C": "Type F",
+        "D": "Type D"
+      },
+      "correct_answer": "B",
+      "explanation": "The most commonly used Mapleson circuit is the Type A, also known as the Magill circuit.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q1_img1_4b3fbe44.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not a co-axial circuit?",
+      "options": {
+        "A": "Jackson Rees",
+        "B": "Lack",
+        "C": "Bain",
+        "D": "Penlon"
+      },
+      "correct_answer": "A",
+      "explanation": "Jackson Rees circuit (Mapleson F) is not a co-axial circuit. It is a modification of Ayre's T piece. Co-axial circuits have two tubings, one inner and one outer tubing (arranged co-axially). Examples of co-axial circuits: Lack's circuit is a co-axial modification of Mapleson A. Bain's circuit is a co-axial modification of Mapleson D. Penlon circuit is a co-axial modification of Mapleson D or a modification of Bain's circuit.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 4,
+      "question": "You observe the following breathing circuit being used to ventilate a brain-dead patient who is being shifted to the OT for organ procurement. Which type of Mapleson circuit does this belong to?",
+      "options": {
+        "A": "Mapleson A",
+        "B": "Mapleson B",
+        "C": "Mapleson C",
+        "D": "Mapleson D"
+      },
+      "correct_answer": "D",
+      "explanation": "The given circuit is the Bain's circuit, which is a coaxial modification of the Mapleson D circuit. Co-axial circuits have two tubings, one inner and one outer tubing (arranged co-axially). Bain's circuit has inner inspiratory tubing: carries fresh gas flow to the patient, and outer expiratory tubing: carries exhaled gases out through an APL (adjustable pressure limiting) valve. Bain's circuit is often called a universal circuit as it can be used for adult and pediatric patients, for spontaneous and controlled ventilation. Mapleson D circuit vs. Bain's circuit: Adjustable pressure relief valve (APL), Reservoir bag, Mapleson's D vs Bain's circuit APL valve. Mapleson D circuit: Reservoir bag, Outer corrugated tube (expiratory), FGF, Inner fresh gas tube (inspiratory). Bain's circuit: Coaxial modification of Mapleson D, Fresh gas flow (FGF), Patient.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q4_img1_e5ce75ab.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp4_img1_f89bd369.jpeg",
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following components is not seen in a Bain circuit?",
+      "options": {
+        "A": "Fresh gas inlet",
+        "B": "Reservoir bag",
+        "C": "Carbon dioxide absorber",
+        "D": "Pressure limiting valve"
+      },
+      "correct_answer": "C",
+      "explanation": "Bain circuit belongs to Mapleson's semi-closed breathing system, which lacks a carbon dioxide absorber. Components of Mapleson's system are: breathing tube, fresh gas inlet, adjustable pressure limiting (APL) valve, and reservoir bag. Carbon dioxide absorber (e.g., soda lime) is a component of the closed or circle system. This allows rebreathing of anesthetic gases after the removal of exhaled carbon dioxide. Types of breathing systems include: no reservoir bag (no rebreathing), open, and drop. Classification of breathing systems: APL valve, breathing system (semi-closed, closed), with or without a reservoir bag, and with partial or complete rebreathing. Mapleson's system and circle system are two types of breathing systems. Bain's circuit consists of its components: fresh gas inlet, corrugated breathing tubes, APL valve, and reservoir bag. The circle system consists of its components: CO2 absorber, fresh gas inlet, inspiratory unidirectional valve, and inspiratory breathing tube, a Y-connector, expiratory unidirectional valve, and expiratory breathing tube, APL valve, and reservoir bag.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp5_img1_be842a57.jpeg",
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 6,
+      "question": "Identify the device shown below:",
+      "options": {
+        "A": "Magill's circuit",
+        "B": "Lack's circuit",
+        "C": "Bain's circuit",
+        "D": "Jackson and Rees' circuit"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shown above is of Jackson and Rees' circuit, which is a modification of Ayre's T piece. Co-axial circuits have two tubings, one inner and one outer tubing (arranged co-axially). Jackson and Rees' circuit has: inner expiratory tubing carries exhaust gases out through the APL valve, and outer inspiratory tubing carries fresh gas flow to the patient. Co-axial circuits include Lack's vs Bain's Circuits. Jackson and Rees circuit (Mapleson F) is a modification of Ayre's T piece, best suited for children under 20 kg.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q6_img1_c6eef833.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp6_img1_a6b6f873.jpeg",
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 7,
+      "question": "You are an anesthesia resident posted in the pediatrics OT. A spontaneously breathing 6-year-old child is set to undergo a minor elective procedure. Which of the following circuits would be the best choice for ventilating this patient?",
+      "options": {
+        "A": "Magill's circuit",
+        "B": "Ayre's T piece",
+        "C": "Water's to and fro circuit",
+        "D": "Jackson Rees circuit"
+      },
+      "correct_answer": "D",
+      "explanation": "Jackson Rees modification of Ayre's T piece is the circuit of choice for ventilating a spontaneously breathing child during anesthesia. Jackson Rees modification of Ayre's T piece is classified as a Mapleson's F system, although it was not included in the original description by Prof. Mapleson. It is used in children <6 years or <20 kgs. Mapleson Circuit Type A (Magill's circuit), Type B, Type C (Water's to and fro), Type D (Bain's circuit), Type E (Ayre's T piece), Type F (Jackson Rees Modification) Comments: Circuit of choice for spontaneous ventilation, Obsolete, Obsolete, Circuit of choice for controlled ventilation. Most commonly used circuit, Circuit of 2nd choice in children, Circuit of choice in children (<20 kg) Mapleson F (Jackson Rees modification of Ayre's T piece), Reservoir bag, Inspiratory, Expiratory, Patient, Fresh gas flow (FGF), Fresh gas inlet; RB - Reservoir bag; P - Patient",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp7_img1_01345bc7.jpeg",
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the type of circuit shown in the image?",
+      "options": {
+        "A": "Mapleson E",
+        "B": "Mapleson C",
+        "C": "Mapleson B",
+        "D": "Mapleson F to patient. Fresh gas flow (FGF) to patient"
+      },
+      "correct_answer": "A",
+      "explanation": "The above image is Ayre's T piece, which is a type of Mapleson's E circuit. Ayre's T piece (Mapleson E) has a reservoir tube, patient, fresh gas flow. Ayre's T piece is suitable for use in neonates and children due to low dead space and low resistance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the most effective circuit for anesthesia under spontaneous breathing?",
+      "options": {
+        "A": "Mapleson A",
+        "B": "Mapleson B",
+        "C": "Mapleson C",
+        "D": "Mapleson D"
+      },
+      "correct_answer": "A",
+      "explanation": "The most effective circuit for anesthesia under spontaneous breathing is Mapleson A or Magill's circuit. When the Mapleson A circuit is used for spontaneous ventilation, the fresh gas flow rate of the circuit is closest to the physiological minute ventilation of the patient. Hence, it is preferred over other circuits.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 10,
+      "question": "A 25-year-old athlete with left apical primary spontaneous pneumothorax was posted forthoracoscopic bullectomy under anesthesia with spontaneous ventilation. Which of thefollowing breathing circuits would be the most effective for this purpose?",
+      "options": {
+        "A": "Mapleson A",
+        "B": "Mapleson B",
+        "C": "Mapleson C100",
+        "D": "Mapleson D"
+      },
+      "correct_answer": "A",
+      "explanation": "Mapleson's A or Magill circuit is the circuit of choice for spontaneous ventilation.Modified co-axial variety of Type A - Lack's circuit.SMAL - For Spontaneous, Magill's circuit, Mapleson's Type A, Lack's co-axial circuit",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 11,
+      "question": "For a patient with respiratory failure requiring controlled ventilation, which of the followingis true about the order of efficiency of Mapleson circuits?",
+      "options": {
+        "A": "D&gt;E&gt;F&gt;A",
+        "B": "A&gt;D=F&gt;C",
+        "C": "D=F&gt;B&gt;A",
+        "D": "A&gt;B=C&gt;D"
+      },
+      "correct_answer": "C",
+      "explanation": "From the above options, the order of efficiency of Mapleson circuits in controlled ventilation isD=F&gt;B&gt;A.When the Mapleson D circuit is used for controlled ventilation, the fresh gas flow rate of thecircuit is closest to the physiological minute ventilation of the patient.110",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 12,
+      "question": "During an elective operation, you observe the following breathing circuit is used to provideanaesthesia. Which of the following is not true regarding this system?",
+      "options": {
+        "A": "Unidirectional gas flow",
+        "B": "Rebreathing of anaesthetic gases",
+        "C": "Increased air pollution",
+        "D": "Removal of carbon dioxide"
+      },
+      "correct_answer": "",
+      "explanation": "The circle system is not associated with increased air pollution.The incidence of air pollution: Open&gt;Mapleson&gt;Circle system.The ability to scavenge exhaled gases is also maximum with a closed system. Scavenging is theprocess of removal of waste anesthetic gases from both the anesthesia machine and theanesthetizing location (operation theatre). Thus minimizing operating room pollution.Components of the circle system:• CO2 absorber• fresh gas inlet•uni-directional valves (inspiratory and expiratory)•Breathing tubes (inspiratory and expiratory)• Y-connector• APL valve•Reservoir bag.The circle system allows for a uni-directional flow of anesthetic gases.Carbon dioxide absorber (eg soda-lime) allows rebreathing of anesthetic gases after the removal ofexhaled carbon dioxide. This conserves anesthetic gases and thus reduces air pollution.Circle systemInspiratoryunidirectionalvalveFreshgas inletInspiratory andexpiratory tubes.ExpiratoryunidirectionalvalveCO2absorberY-connectorARAdjustablepressurelimiting (APL) valveReservoirbagOMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/q12_img1_394fa297.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/manaesthesia/exp12_img1_88194e02.jpeg",
+      "chapter_heading": "Breathing Systems"
+    },
+    {
+      "q_no": 13,
+      "question": "OMARROWW101A surgeon was performing a procedure that was going on for more time than predicted.Suddenly the automatic ventilation and scavenger systems failed. What is the maximumsafety limit for the concentration of nitrous oxide in the OR after which adverse health effectsmay develop in those exposed?",
+      "options": {
+        "A": "2 ppm",
+        "B": "10 ppm",
+        "C": "15 ppm",
+        "D": "25 ppm"
+      },
+      "correct_answer": "D",
+      "explanation": "Maximum safety limit for the concentration of nitrous oxide in the operating room environment is25 ppm and for the halogenated anesthetic is 2 ppm.111National institute for occupational safety and health (NIOSH) guidelines:Anesthetic GasHalogenated agent aloneNitrous oxideMaximum Concentration (ppm)225112",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Breathing Systems"
+    }
+  ]
+}

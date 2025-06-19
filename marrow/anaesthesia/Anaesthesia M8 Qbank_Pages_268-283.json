@@ -1,0 +1,410 @@
+{
+  "chapter": "Daycare Surgery",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following agents does not elicit pain on injection?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Propofol",
+        "C": "Etomidate",
+        "D": "Thiopentone"
+      },
+      "correct_answer": "",
+      "explanation": "Ketamine does not elicit pain on injection, instead produces profound analgesia.Propofol is formulated as a lipid emulsion, which causes pain on injection. A new aqueousprodrug, fospropofol is associated with less pain on injection.Etomidate, although it causes pain on injection, the lipid formulation of etomidate is associatedwith a much less frequent incidence of pain.Thiopentone at a concentration greater than 2.5% can produce pain on injection and venousthrombosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 2,
+      "question": "Which is the most epileptogenic intravenous induction agent?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Etomidate",
+        "C": "Ketamine",
+        "D": "Propofol"
+      },
+      "correct_answer": "",
+      "explanation": "The most epileptogenic intravenous induction agent is etomidate.Etomidate has been associated with grand mal seizures and produces increased EEG activity inepileptogenic foci. This feature has proven useful for intraoperative mapping of seizure foci beforesurgical ablation.Thiopentone and propofol have anticonvulsant properties which are advantageous inneurosurgical patients who are at increased risk of seizures.Ketamine has a mixed effect on seizure activity, with either strong pro-convulsant or stronganticonvulsant action.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 3,
+      "question": "Which intravenous anesthetic has the maximum incidence of postoperative nausea andvomiting?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Ketamine",
+        "C": "Etomidate",
+        "D": "Propofol"
+      },
+      "correct_answer": "",
+      "explanation": "Etomidate has the highest incidence of postoperative nausea and vomiting (PONV) amongintravenous anesthetics.Propofol has antiemetic properties thereby reducing PONV.Other potential adverse effects of etomidate:• Adrenocortical suppression•Myoclonus• Seizure precipitation• Pain on injection",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is true regarding etomidate?",
+      "options": {
+        "A": "Reduces postoperative nausea and vomiting268",
+        "B": "Has been used to treat hypercortisolemia",
+        "C": "Contraindicated in coronary artery disease",
+        "D": "Avoided in neurosurgical procedures due to risk of raised ICP"
+      },
+      "correct_answer": "",
+      "explanation": "Etomidate can be used in the treatment of endogenous hypercortisolemia. This is due to its abilityto inhibit the enzyme 11ẞ-hydroxylase, which results in decreased biosynthesis of cortisol.Etomidate has the highest incidence of postoperative nausea and vomiting.276Etomidate is the most cardiac stable induction agent and is the agent of choice in coronary arterydisease, cardiomyopathy and cerebral vascular disease.Etomidate can be safely used in neurosurgical procedures. It is also the anaesthetic inductionagent of choice to reduce increased ICP when maintenance of cerebral or coronary perfusionpressure is important.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following drugs is the intravenous induction agent of choice in a patient with ahistory of myocardial infarction?",
+      "options": {
+        "A": "Etomidate",
+        "B": "Thiopentone",
+        "C": "Propofol",
+        "D": "Ketamine"
+      },
+      "correct_answer": "",
+      "explanation": "As the patient has a history of coronary artery disease, the agent of choice is etomidate.Etomidate is the most cardiac stable intravenous agent due to its lack of effect on the sympatheticnervous system and baroreceptor function.The myocardial oxygen supply-to-demand ratio is well maintained. It is the IV induction agent ofchoice in patients with coronary artery disease, cardiomyopathy, and cerebral vascular disease.Adverse effects of etomidate:•• Postoperative nausea and vomiting (PONV)• Myoclonus• Adrenocortical suppression•Epileptogenic potentialOption B: Thiopentone decreases the cardiac output, systemic arterial pressure, and peripheralvascular resistance.Option C: Propofol produces cardiovascular depression by direct myocardial depressant effectsand decreases systemic vascular resistance.Option D: Ketamine produces an increase in arterial pressure, heart rate and thus increasesmyocardial oxygen demand.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 6,
+      "question": "Which intravenous anesthetic is associated with adreno-cortical suppression?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Propofol",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
+      "correct_answer": "A",
+      "explanation": "Etomidate has been associated with adrenocortical suppression which can last for 72 hours.Etomidate inhibits the enzyme 11ẞ-hydroxylase, resulting in decreased biosynthesis of cortisol andmineralocorticoids and increases the formation of intermediaries like 11-deoxycorticosterone.It is a more potent inhibitor of steroid synthesis than as a sedative-hypnotic as the concentrationwhich produces adrenocortical suppression (10 ng/mL)is much lower than that needed forhypnosis (&gt;200 ng/mL).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 7,
+      "question": "In the immediate post-operative period, a patient has persistent hiccups and myoclonus.Which of the following intravenous anesthetic agents was most likely administered?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Propofol",
+        "C": "Thiopentone",
+        "D": "Etomidate"
+      },
+      "correct_answer": "D",
+      "explanation": "Etomidate has a very high incidence of myoclonus and hiccups.277The possible cause of myoclonus is thought to be subcortical disinhibition, and not due toepileptogenic foci.This myoclonus can be minimized by premedication with benzodiazepines (midazolam) or opiatesor a small dose of magnesium 60 to 90 seconds before administering etomidate.Potential adverse effects of etomidate:• Adrenocortical suppression•Postoperative nausea and vomiting• Seizure precipitation•Myoclonus, hiccups•• Pain on injection",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 8,
+      "question": "The CT brain of an old man following a fall shows a massive subdural hemorrhage withmidline shift. He is taken up for emergency surgery. Which one of these intravenous agents269should not be administered for induction in him?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Etomidate",
+        "C": "Propofol",
+        "D": "Thiopentone"
+      },
+      "correct_answer": "",
+      "explanation": "Ketamine is avoided in head injury patients as it increases cerebral oxygen consumption(CMRO2), cerebral blood flow (CBF), and intracranial pressure (ICP).Etomidate, propofol and thiopentone decrease CMRO2, CBF and ICP.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the main site of action of ketamine?",
+      "options": {
+        "A": "Spinal cord",
+        "B": "Hippocampus",
+        "C": "Cerebellum",
+        "D": "Thalamoneocortical projection"
+      },
+      "correct_answer": "D",
+      "explanation": "The main site of action of ketamine is the thalamoneocortical projection system.It inhibits certain parts of the cortex (especially association areas) and thalamus but stimulatesparts of the limbic system, including the hippocampus.Ketamine is an antagonist at the excitatory glutamatergic NMDA receptor. The NMDA receptor ishighly expressed in the temporal cortex, hippocampus, basal ganglia, cerebellum, and brainstem.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 10,
+      "question": "A child was administered an anesthetic for fracture reduction in the ER. He could open hiseyes, was blabbering and breathing spontaneously but did not feel any pain. Which anestheticagent was administered?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Propofol",
+        "C": "Etomidate",
+        "D": "Thiopentone"
+      },
+      "correct_answer": "A",
+      "explanation": "The given features suggest dissociative anaesthesia, which is a characteristic feature of ketamine.Ketamine produces dissociative anesthesia which is characterized by a state wherein the patient isconscious (eg., eye opening, swallowing, muscle contracture) but unable to process or respond tosensory input.Ketamine functionally \"dissociates\" the thalamus (which relays sensory impulses from thereticular activating system to the cerebral cortex) from the limbic cortex (which is involved withthe awareness of sensation). It acts as an antagonist at the phencyclidine site of the NMDAreceptor.278",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 11,
+      "question": "How does ketamine cause dissociative anesthesia?",
+      "options": {
+        "A": "Antagonistic action at NMDA receptor",
+        "B": "Agonistic action at NMDA receptor",
+        "C": "Antagonistic action at GABA A receptor",
+        "D": "Agonistic action at the GABA B receptor"
+      },
+      "correct_answer": "A",
+      "explanation": "Ketamine produces dissociative anesthesia through antagonistic action at the phencyclidine site ofthe NMDA receptor.Dissociative anesthesia is a state where the patient appears conscious (eye-opening, swallowing,muscle contracture) but unable to process or respond to sensory input.Ketamine functionally “dissociates” the thalamus, which relays sensory impulses from thereticular activating system to the cerebral cortex from the limbic cortex involved with theperception of sensation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 12,
+      "question": "270A young man sustained multiple fractures following an RTA. He is being taken up for damagecontrol surgery. His pulse is 120/min, BP 80/50mmHg, and also has cold extremities. What isthe intravenous agent of choice for induction in him?",
+      "options": {
+        "A": "Propofol",
+        "B": "Thiopentone",
+        "C": "Ketamine",
+        "D": "Etomidate"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical features suggest circulatory failure. The IV induction agent of choice in hypotensivepatients is ketamine &gt; etomidate.Ketamine helps to maintain arterial pressure, heart rate, and cardiac output by central stimulationof the sympathetic nervous system and inhibition of the reuptake of norepinephrine. It alsoincreases peripheral arteriolar resistance and reduces redistribution of hypothermia inhypovolemic patients.Ketamine is avoided in patients with hypertension as it raises the blood pressure.Option A: Propofol produces cardiovascular depression by direct myocardial depressant effectsand decreases systemic vascular resistance, which is more profound than thiopentone.Option B: Thiopentone decreases cardiac output, systemic arterial pressure, and peripheralvascular resistance.pressure butOption D: Etomidate is primarily used in Neurosurgery as it decreases Intracranialdespite its favorable hemodynamic profile, it causes arterial hypotension in the volume-depletedpatient.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient in hemorrhagic shock was shifted for emergency surgery and given ketamine forinduction. Why is this drug preferred for use in this situation?",
+      "options": {
+        "A": "Direct sympathomimetic action",
+        "B": "Indirect sympathomimetic action",
+        "C": "Negative inotropic action",
+        "D": "Positive inotropic action"
+      },
+      "correct_answer": "B",
+      "explanation": "Ketamine is preferred due to its indirect sympathomimetic action. It is the intravenous anestheticof choice for hemorrhagic shock.It inhibits the reuptake of both central and peripheral catecholamines and causes increased bloodpressure, heart rate, and cardiac output.Ketamine has direct negative inotropic and vasodilating activity, but these effects areoverwhelmed by the indirect sympathomimetic action.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following is a true statement about ketamine?",
+      "options": {
+        "A": "Produces pain on injection",
+        "B": "Contraindicated in asthmatic patients",
+        "C": "Safe in hyperthyroidism",
+        "D": "Produces salivation and lacrimation"
+      },
+      "correct_answer": "D",
+      "explanation": "279Ketamine administration may be associated with salivation and lacrimation which can beattenuated by premedication with an anticholinergic agent such as glycopyrrolate.Option A: Ketamine does not elicit pain on injection.Option B: Ketamine is the induction agent of choice in asthmatic patients as it is a bronchialsmooth muscle relaxant.Option C: Ketamine stimulates the sympathetic nervous system and so is best avoided in patientswith hyperthyroidism because of the possibility of exaggerated elevations in blood pressure andheart rate.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 15,
+      "question": "An adolescent boy with bronchial asthma is about to undergo an emergency appendectomy.Which is the intravenous induction agent of choice for him if he has an active wheeze?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Propofol",
+        "C": "Ketamine",
+        "D": "Etomidate271"
+      },
+      "correct_answer": "C",
+      "explanation": "In an actively wheezing asthmatic patient, ketamine is the induction agent of choice, as it is abronchial smooth muscle relaxant.It is also the drug of choice in hemodynamically unstable patients.Propofol is the intravenous induction agent of choice for the hemodynamically stable asthmaticpatient, who is not actively wheezing. Both drugs possess good bronchodilatory action.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 16,
+      "question": "Administration of which anesthetic agent is associated with a rise in the intraocular pressure?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Ketamine",
+        "C": "Propofol",
+        "D": "Desflurane"
+      },
+      "correct_answer": "",
+      "explanation": "A rise in intraocular pressure is seen with ketamine.Hence, ketamine may be contraindicated in patients with an open eye injury or otherophthalmologic disorder, in which an increase in intraocular pressure would be detrimental.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 17,
+      "question": "Which intravenous anesthetic preserves airway reflexes the best?",
+      "options": {
+        "A": "Etomidate",
+        "B": "Ketamine",
+        "C": "Propofol",
+        "D": "Thiopentone"
+      },
+      "correct_answer": "B",
+      "explanation": "Airway reflexes are best preserved with ketamine.Corneal, cough and swallow reflexes all may be present, but they may not be protective. So,patients at increased risk for aspiration pneumonia (\"full stomachs\") should be intubated duringketamine general anesthesia.Propofol is associated with maximum inhibition of airway reflexes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 18,
+      "question": "During recovery from anesthesia, a patient started experiencing hallucinations and vividdreams. Which inducing agent is most likely responsible?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Propofol",
+        "C": "Thiopentone",
+        "D": "Etomidate"
+      },
+      "correct_answer": "A",
+      "explanation": "Hallucinations and vivid dreams during recovery from anesthesia are a manifestation ofan emergence reaction following the administration of ketamine.The incidence of psychic emergence reactions ranges from 3% to 100% and is usually associatedwith excitement, confusion, euphoria, and fear. The symptoms usually appear in the first hour of280emergence and subside within several hours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 19,
+      "question": "What drug can be used to prevent hallucinations and vivid dreams that can occur as anemergence reaction during the anesthesia recovery period?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Atropine",
+        "C": "Propofol",
+        "D": "Midazolam272"
+      },
+      "correct_answer": "D",
+      "explanation": "Hallucinations and vivid dreams during recovery from anesthesia are a manifestation ofemergence reaction following ketamine administration.Benzodiazepines like midazolam are the most effective group of drugs in the prevention ofemergence reactions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 20,
+      "question": "In which of the following patients can you safely administer ketamine?",
+      "options": {
+        "A": "1 &amp; 5 only",
+        "B": "2, 3 &amp; 5 only",
+        "C": "2 &amp; 3 only",
+        "D": "2 &amp; 5 only"
+      },
+      "correct_answer": "D",
+      "explanation": "Ketamine is the intravenous induction agent of choice in bronchial asthma and shock.Ketamine causes bronchial smooth muscle relaxation and preserves upper airway reflexes.Ketamine increases heart rate, arterial pressure, and cardiac output by stimulation of thesympathetic nervous system and inhibition of the reuptake of norepinephrine. It is the onlyanesthetic that increases peripheral arteriolar resistance and thus reduces redistribution ofhypothermia in hypovolemic patients.Contraindications of ketamine:• Raised intracranial pressure.Open globe injury (raises intraocular pressure)• Vascular aneurysm surgery (possible sudden change in arterial blood pressure)• Psychiatric diseases - schizophrenia••Hyperthyroidism (exaggerated elevations in blood pressure, heart rate)Ischemic heart disease (increase in myocardial oxygen consumption)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 21,
+      "question": "A 36-year-old housewife is scheduled for an excision biopsy of a breast lump under generalanaesthesia. The procedure is planned on an outpatient basis. Which is the intravenousinduction agent of choice for her?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Thiopentone",
+        "C": "Propofol",
+        "D": "Etomidate"
+      },
+      "correct_answer": "C",
+      "explanation": "The intravenous induction agent of choice for ambulatory anesthesia is propofol.Propofol has a rapid onset of action and a faster recovery. This makes it an ideal induction agentfor outpatient/ambulatory/day care anesthesia.Besides, propofol has antiemetic properties which help reduce post-operative nausea andvomiting.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 22,
+      "question": "Which is the muscle relaxant of choice in patients posted for daycare surgery?",
+      "options": {
+        "A": "Succinylcholine",
+        "B": "Rocuronium",
+        "C": "Vecuronium",
+        "D": "Pancuronium"
+      },
+      "correct_answer": "B",
+      "explanation": "Rocuronium is the muscle relaxant of choice for daycare surgery.281Rocuronium is an intermediate-acting muscle relaxant with a rapid onset (90 secs).Its actions can be terminated by the reversal agent sugammadex, which produces a rapid andcomplete reversal of neuromuscular blockade.Note: Succinylcholine is the shortest acting muscle relaxant, but it has a high incidence ofpostoperative myalgia. So, its use in day care anesthesia is discouraged.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 23,
+      "question": "A 45-year-old man is posted for inguinal hernia surgery. Which is the anesthetic technique ofchoice in order to perform fast-track surgery on him?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Spinal anesthesia",
+        "C": "Epidural anesthesia",
+        "D": "Infiltration anesthesia273"
+      },
+      "correct_answer": "D",
+      "explanation": "Infiltration anesthesia is given for fast-track surgery.Ambulatory/outpatient anesthesia employs the use of fast-track surgical techniques to provideadequate surgical anesthesia and minimize postoperative complications in order to reduce theduration of hospital stay.Infiltration anesthesia (inguinal field block) is ideal to perform inguinal hernia repair because ithas a lesser incidence of complications than regional or general anesthesia.The disadvantage of infiltration anesthesia is its short duration of anesthesia even whenlong-acting local anesthetics like bupivacaine are used.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 24,
+      "question": "Which effect of ambulatory anesthesia most commonly persists after the patient isdischarged?",
+      "options": {
+        "A": "Myalgia",
+        "B": "Drowsiness",
+        "C": "Sore throat",
+        "D": "Headache"
+      },
+      "correct_answer": "B",
+      "explanation": "Drowsiness is the most common adverse effect that persists after discharge following anambulatory or daycare anesthesia.Adverse effects after ambulatory anesthesia in their decreasing order of incidence:• Drowsiness• Sore-throat• Myalgia•Headache, dizziness• Nausea, vomiting• Cardiovascular - hypotension, hypertension, arrhythmias, cardiac arrest (rare)• Respiratory - hypoxemia, laryngospasm, bronchospasm, aspiration, pulmonary edema,pneumothorax (rare)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following intravenous anesthetics can be used to reduce postoperative pain?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Propofol",
+        "C": "Ketamine",
+        "D": "Etomidate"
+      },
+      "correct_answer": "C",
+      "explanation": "Ketamine can be used to reduce postoperative pain as it produces profound analgesia.It inhibits nociceptive central hypersensitization.Besides, ketamine may be effective in the treatment of:282• cancer pain, visceral pain•migraine, chronic neuropathic pain• phantom limb pain• fibromyalgia, complex regional pain syndrome",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 26,
+      "question": "Which of the following intravenous anesthetics is hypertensive?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Ketamine",
+        "C": "Etomidate",
+        "D": "Propofol"
+      },
+      "correct_answer": "",
+      "explanation": "Ketamine causes hypertension due to central stimulation of the sympathetic nervous system andinhibition of the reuptake of norepinephrine. Hence, it is useful in patients in shock.Thiopentone, propofol, and etomidate produce a fall in arterial blood pressure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    },
+    {
+      "q_no": 27,
+      "question": "Which class of compounds does ketamine belong to?",
+      "options": {
+        "A": "Amphetamine",
+        "B": "Barbiturates",
+        "C": "Phencyclidines",
+        "D": "Butyrophenones274"
+      },
+      "correct_answer": "B",
+      "explanation": "Ketamine is an arylcyclohexylamine, a congener of phencyclidine.Ketamine produces dissociative anaesthesia through antagonistic action at the phencyclidine siteof the NMDA receptor.Ketamine, like other phencyclidines, produces emergence reactions which are undesirablepsychological reactions, which occur during awakening from anesthesia.283",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Daycare Surgery"
+    }
+  ]
+}

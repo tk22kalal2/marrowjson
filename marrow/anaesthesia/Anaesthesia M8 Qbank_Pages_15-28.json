@@ -1,0 +1,350 @@
+{
+  "chapter": "Preoperative Evaluation",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 50-year-old man with well-controlled hypertension has been scheduled for surgery. What is his ASA-PS classification?",
+      "options": {
+        "A": "ASA-PS Class I",
+        "B": "ASA-PS Class II",
+        "C": "ASA-PS Class III",
+        "D": "ASA-PS Class IV"
+      },
+      "correct_answer": "B",
+      "explanation": "A well-controlled hypertensive patient falls under the ASA-PS Class II category. ASA-PS Class II - A patient with a mild systemic disease such as well-controlled diabetes mellitus or hypertension or a current smoker.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 2,
+      "question": "A known diabetic with an HbA1c value of 9% should be classified under which ASA-PS classification?",
+      "options": {
+        "A": "ASA 1",
+        "B": "ASA 2",
+        "C": "ASA 3",
+        "D": "ASA 4"
+      },
+      "correct_answer": "C",
+      "explanation": "A patient with poorly controlled diabetes should be classified as ASA-PS Class III. ASA-PS Class III: A patient with severe systemic disease and substantial functional limitation. Poorly controlled diabetes mellitus or hypertension, or complicated diabetes, is included under ASA-PS Class III. Note: If the question was about well-controlled diabetes or mild diabetes without complications, the answer would be ASA-PS Class II.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 3,
+      "question": "You would use all of the following as part of airway assessment in a patient except?",
+      "options": {
+        "A": "Thyromental distance",
+        "B": "ASA-PS classification",
+        "C": "Cormack-Lehane classification",
+        "D": "Neck circumference"
+      },
+      "correct_answer": "B",
+      "explanation": "ASA-PS classification is used to quantify patient risk for anesthesia and not for the assessment of the airway.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following features in a patient would prompt you to anticipate a difficultintubation?",
+      "options": {
+        "A": "1 and 515",
+        "B": "1, 3 and 5",
+        "C": "2, 3 and 4.",
+        "D": "5 only"
+      },
+      "correct_answer": "B",
+      "explanation": "The following are indicators of difficult intubation:• Mallampati class 3 and 4 airways• Thyromental distance &lt;6cm with neck extension• Neck circumference &gt;17 inches in men and 16 inches in women• An inability to extend the neck at the atlantooccipital joint• A history of previous difficult intubation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following statements is true regarding the American Society of Anesthesiologists - Physical Status (ASA-PS) classification?",
+      "options": {
+        "A": "It is used to assess difficulty in intubation",
+        "B": "Brain dead patients come under ASA class VI",
+        "C": "A patient with anemia without symptoms comes under ASA class II",
+        "D": "ASA-PS grading strongly correlates to the peri-operative risk"
+      },
+      "correct_answer": "D",
+      "explanation": "ASA-PS classification describes a patient's preoperative medical status and strongly correlates with the perioperative risk. The ASA classification system alone does not predict the perioperative risks, but when used with other factors like the type of surgery, frailty, and level of deconditioning of the patient, it can be helpful in predicting perioperative risks. Option A: ASA-PS is used to quantify the risk for patients who require anesthesia, not assess intubation difficulty. Option B: Brain dead patients are classified as ASA-PS class VI. Option C: A patient with anemia without functional limitation (no symptoms) is classified as ASA-PS class II.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements is false about the modified Mallampati score?",
+      "options": {
+        "A": "It is used to assess the oral cavity before intubation",
+        "B": "In class II, tonsillar pillars cannot be visualized",
+        "C": "Higher scores are associated with a higher risk of sleep apnea",
+        "D": "In class III, only the hard palate is visible"
+      },
+      "correct_answer": "D",
+      "explanation": "In class III of the Mallampati score, both the hard and soft palates are visible. Option A: The Mallampati score is used to predict difficult tracheal intubation based on the size of the tongue base relative to the oropharyngeal space. Option B: In class II, only the soft palate, fauces, and the portion of the uvula are visualized; tonsillar pillars cannot be visualized. Option C: Higher Mallampati scores (class III and IV) are associated with a greater incidence of difficult intubation and sleep apnea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient is posted for Whipple's procedure. During preoperative preparation, you note that his medical history is significant for ankylosing spondylitis for which he has been taking aspirin. What is the next best step for this patient?",
+      "options": {
+        "A": "Continue aspirin",
+        "B": "Administer half the dose of aspirin with pre-op bleeding time monitoring",
+        "C": "Stop aspirin 3 days before surgery",
+        "D": "Stop aspirin and replace with clopidogrel"
+      },
+      "correct_answer": "C",
+      "explanation": "Aspirin should be discontinued 3 days before surgery in this patient to mitigate potential intraoperative bleeding. However, low-dose aspirin should be continued to prevent cardiovascular thrombotic events in the following cases: \n• Patients with a prior PCI (Percutaneous coronary intervention) \n• Patients with coronary artery disease \n• Patients with stroke in the past 9 months. In addition, aspirin should be continued in patients requiring CABG. This is due to the associated increase in in-hospital mortality if discontinued. Duration for which other antiplatelet drugs should be stopped before surgery: \nAntiplatelet Waiting period \nTiclopidine 10-14 days \nClopidogrel 5-7 days \nAbciximab 48 hr \nEptifibatide 8 hr",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 8,
+      "question": "16A 60-year-old patient on regular low-dose aspirin requires a CABG procedure. What would be your advice regarding aspirin before the procedure?",
+      "options": {
+        "A": "Continue aspirin",
+        "B": "Stop aspirin and replace with heparin",
+        "C": "Stop aspirin and give a platelet transfusion",
+        "D": "Cancel the surgery as he cannot be operated on"
+      },
+      "correct_answer": "A",
+      "explanation": "Aspirin should be continued in patients requiring a CABG procedure. Discontinuation of aspirin in patients requiring a CABG procedure is associated with increased in-hospital mortality. Hence, aspirin is continued before the procedure. The approach for most surgical patients is to discontinue aspirin temporarily for 3 days before surgery to mitigate potential intraoperative bleeding. However, the drug should be continued to prevent cardiovascular thrombotic events in the following: • Patients with a prior PCI (Percutaneous coronary intervention) • Patients with coronary artery disease • Patients with a stroke in the past 9 months. Note: The use of heparin may paradoxically increase platelet aggregation and is not recommended.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient on clopidogrel is scheduled to undergo an elective procedure. What would be your advice regarding the drug?",
+      "options": {
+        "A": "Continue as usual",
+        "B": "Continue but omit the morning dose",
+        "C": "Stop 1 day before surgery",
+        "D": "Stop 1 week before surgery"
+      },
+      "correct_answer": "D",
+      "explanation": "Clopidogrel is an antiplatelet drug and is stopped 1 week prior to surgery to avoid the risk of increased surgical bleeding. Antiplatelet waiting period: Ticlopidine 10 days, Clopidogrel 5-7 days, Abciximab 48 hr, Eptifibatide 8 hr",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 10,
+      "question": "A 76-year-old woman has been scheduled for hip replacement surgery. She has a history of non-valvular atrial fibrillation resulting in a stroke 2 months back and is on warfarin since then. Which of the following is the correct advice regarding warfarin?",
+      "options": {
+        "A": "Stop warfarin 4-5 days preoperatively and check INR",
+        "B": "Stop warfarin 4-5 days preoperatively and continue LMWH till a day before surgery",
+        "C": "Stop warfarin on the day of surgery",
+        "D": "Continue warfarin"
+      },
+      "correct_answer": "B",
+      "explanation": "Since the patient has increased thromboembolic risk (stroke), warfarin is stopped 4-5 days pre-operatively and LMWH (low molecular weight heparin) is used till the day before (24 hours) surgery. In patients at high risk for thrombosis (e.g., those with certain mechanical heart valve implants or with atrial fibrillation and a prior thromboembolic stroke), warfarin should be stopped and replaced by UFH or LMWH to minimize the risk. Patients at lower risk for thrombosis may have warfarin discontinued 4-5 days preoperatively and then reinitiated after successful surgery. Warfarin may be continued in patients posted for cataract surgery without a bulbar block.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following drugs cannot be continued on the day of surgery?",
+      "options": {
+        "A": "Antithyroid drugs",
+        "B": "Oral anticoagulants",
+        "C": "Beta blockers",
+        "D": "Anticonvulsants"
+      },
+      "correct_answer": "B",
+      "explanation": "Oral anticoagulants are discontinued prior to surgery. Anticoagulant: Warfarin, Unfractionated heparin. Minimum interval between the last dose and the surgery: 4-5 days, 6 hours-LMWH prophylactic dose 12 hours, LMWH therapeutic dose 24 hours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient on tablet levothyroxine is posted for surgery. How many days prior to surgery is the tablet stopped?",
+      "options": {
+        "A": "1 day",
+        "B": "1 week",
+        "C": "5 days",
+        "D": "Tablet should be continued without stopping"
+      },
+      "correct_answer": "D",
+      "explanation": "All antithyroid drugs and thyroxine supplements are continued on the day of surgery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following drugs cannot be safely continued on the day of surgery?",
+      "options": {
+        "A": "Furosemide",
+        "B": "Propylthiouracil",
+        "C": "Digoxin",
+        "D": "Prednisolone"
+      },
+      "correct_answer": "A",
+      "explanation": "Furosemide should not be continued on the day of surgery. All diuretics are discontinued on the day prior to surgery due to the risk of volume depletion and hypokalemia, except thiazide diuretics (e.g., hydrochlorothiazide, chlorthalidone). Propylthiouracil, digoxin, and prednisolone can be continued safely.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following drugs should not be continued on the day of surgery?",
+      "options": {
+        "A": "Asthma medications",
+        "B": "Oral hypoglycemics",
+        "C": "Anticonvulsants",
+        "D": "Beta blockers"
+      },
+      "correct_answer": "B",
+      "explanation": "Oral hypoglycemic agents are generally withheld on the day of surgery except for minor, short procedures. SGLT-2 inhibitors are stopped 24 hours before elective surgery and 72 hours before intermediate-to high-risk surgeries.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 15,
+      "question": "A 20-year-old patient has been on tablet fluoxetine for depression for the past 3 months and is now scheduled to undergo elective surgery. What would you advise him?",
+      "options": {
+        "A": "Withhold Fluoxetine for 3 weeks prior to surgery",
+        "B": "Withhold fluoxetine for 3 days prior to surgery",
+        "C": "Withhold fluoxetine and replace with monoamine oxidase inhibitors",
+        "D": "Continue fluoxetine"
+      },
+      "correct_answer": "D",
+      "explanation": "Fluoxetine is a selective serotonin reuptake inhibitor (SSRI), an antidepressant, and is to be continued on the day of surgery to avoid exacerbation of symptoms. Abrupt withdrawal of short-acting SSRIs should be avoided, as it can cause a discontinuation syndrome including dizziness, chills, muscle aches, and anxiety.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 16,
+      "question": "A 50-year-old hypertensive patient, on tablet amlodipine, is posted for elective cholecystectomy. What would your advice be regarding the use of amlodipine?",
+      "options": {
+        "A": "Withhold amlodipine on the day of surgery",
+        "B": "Continue amlodipine at a lower dose",
+        "C": "Continue the same dose of amlodipine",
+        "D": "Replace amlodipine with enalapril"
+      },
+      "correct_answer": "C",
+      "explanation": "Antihypertensive medications like amlodipine are continued at the same dose. Note: Due to the risk of intraoperative hypotension, ACE inhibitors and ARB drugs are discontinued on the morning of surgeries. But in patients with heart failure or poorly controlled hypertension, we continue them to avoid further exacerbation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following drugs should be discontinued 24 hours before the surgery?",
+      "options": {
+        "A": "Sildenafil",
+        "B": "Statins",
+        "C": "NSAIDs",
+        "D": "Warfarin"
+      },
+      "correct_answer": "D",
+      "explanation": "Warfarin is typically discontinued before surgery due to its anticoagulant effects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 18,
+      "question": "A 45-year-old chronic smoker is diagnosed with an inguinal hernia. The surgeon briefs him about the elective laparoscopic hernia repair. What is the minimum duration for which he should stop smoking to reduce the risk of postoperative complications?",
+      "options": {
+        "A": "3-4 days before surgery",
+        "B": "1-2 weeks before surgery",
+        "C": "2-4 weeks before surgery",
+        "D": "6-8 weeks before surgery"
+      },
+      "correct_answer": "D",
+      "explanation": "Smoking should be discontinued for at least 6-8 weeks before the operation so as to decrease airway secretions and thereby decrease the risk of pulmonary complications. Time after smoking: 12-24 hrs: Fall in CO and nicotine levels; 48-72 hrs: COHb normalizes; 1-2 weeks: Decreased sputum production; 4-6 weeks: PFT improves; 6-8 weeks: Normalization of immune function; decreased postoperative pulmonary complications; 6 months: Risk similar to that of non-smokers",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 19,
+      "question": "While filling the preoperative diet recommendations on the chart of a 22-year-old patient scheduled to undergo elective surgery, you would recommend fasting of at least",
+      "options": {
+        "A": "4 hours for solids, 2 hours for clear liquids",
+        "B": "2 hours for solids, 4 hours for clear liquids",
+        "C": "8 hours for solids, 2 hours for clear liquids",
+        "D": "2 hours for solids, 8 hours for clear liquids"
+      },
+      "correct_answer": "A",
+      "explanation": "Recommended preoperative fasting periods for all above 1 year of age are: 2 hours for clear liquids, 6 hours for light meal/milk, 8 hours for fried, fatty food. Recommended preoperative fasting period for neonates and infants are: 4 hours for breast milk, 6 hours for solids/formula feeds/cow's milk. Preoperative fasting is intended to reduce the risk of pulmonary aspiration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is a preoperative fasting recommendation for an adult patient after a light meal?",
+      "options": {
+        "A": "Fasting not required",
+        "B": "2 hours",
+        "C": "8 hours",
+        "D": "6 hours"
+      },
+      "correct_answer": "D",
+      "explanation": "For adults, a fasting period of 6 hours after a light meal is recommended; this period may have to be increased to 8 hours or more if the meal includes fried or fatty foods.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 21,
+      "question": "You are a junior resident in the pediatric surgery department and an infant in your unit is scheduled for a surgical correction of the ASD. Which of the following would you ask the mother to follow regarding the preoperative fasting?",
+      "options": {
+        "A": "6 hours for solids, 4 hours for breast milk",
+        "B": "4 hours for solids, 6 hours for breast milk",
+        "C": "4 hours for solids, 2 hours for breast milk",
+        "D": "2 hours for solids, 4 hours for breast milk"
+      },
+      "correct_answer": "A",
+      "explanation": "Recommended preoperative fasting period for neonates and infants are: 6 hours for solids/formula feeds/cow's milk, 4 hours for breast milk. Recommended preoperative fasting periods for all above 1 year of age are: 2 hours for clear fluids, 6 hours for a light meal, 8 hours for fried, fatty food.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 22,
+      "question": "A 60-year-old male is set to undergo knee replacement surgery. He has a history of consumption of herbal supplement tablets every day for the past 6 months. Ideally, how many days before surgery should it be stopped?",
+      "options": {
+        "A": "Can be continued",
+        "B": "1 day before surgery",
+        "C": "1 month before surgery",
+        "D": "1-2 weeks before surgery"
+      },
+      "correct_answer": "D",
+      "explanation": "Herbal medicines should be discontinued at least 1-2 weeks before surgery. Herbal medications may have effects that could be deleterious in the perioperative period, including clotting abnormalities and interactions with anesthetics. Commonly used herbal medicines include echinacea, ephedra, garlic, ginger, Ginkgo biloba, ginseng, green tea, and St. John's wort. Note: A recommendation to stop herbal medicines at least 2 weeks prior to surgery is given by the American Association of Anesthesiologists.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    },
+    {
+      "q_no": 23,
+      "question": "A difficult airway is least likely to be associated in a patient with",
+      "options": {
+        "A": "Rheumatoid arthritis",
+        "B": "Reactive arthritis",
+        "C": "Scleroderma",
+        "D": "Down syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Cervical spine involvement in reactive arthritis is relatively rare. Hence, it is not a risk factor for a difficult airway. The other 3 conditions - rheumatoid arthritis, scleroderma, and Down syndrome - are considered as risk factors for a difficult airway.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Preoperative Evaluation"
+    }
+  ]
+}
