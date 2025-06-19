@@ -1,0 +1,335 @@
+{
+  "chapter": "Anti-psychotics",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the primary mechanism of action of typical antipsychotics?",
+      "options": {
+        "A": "D2 receptor antagonism",
+        "B": "5HT2 receptor antagonism",
+        "C": "D2 receptor agonism",
+        "D": "5HT2 receptor agonism"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient with psychosis was prescribed an antipsychotic medication. Which one of thefollowing side effects cannot be explained by the antagonistic action of the drug on D2receptors?",
+      "options": {
+        "A": "Constipation",
+        "B": "Hyperprolactinemia",
+        "C": "Affective flattening",
+        "D": "Neuroleptic malignant syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "Constipation and dry mouth are side effects of antipsychotics that have potent antimuscarinicaction.Hyperprolactinaemia, affective flattening, and rigidity in neuroleptic malignant syndrome occurdue to D2 receptor blockade.311Apart from their action on D2 and 5-HT receptors, antipsychotic drugs also exert the followingeffects:Action of druExampleSide effectgAnti-muscariChlorpromazineThioridazinenicOlanzapineAlpha blockerChlorpromazineClozapineH1 blockerRisperidoneDry mouth, constipation, dilated pupil, urinary retentionHypotension, sedationAntiemetic, sedation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 3,
+      "question": "A woman presented with sudden onset high-grade fever, muscle rigidity, and alteredsensorium. She had been on antipsychotic therapy with chlorpromazine. What is the mostprobable diagnosis?",
+      "options": {
+        "A": "Malignant hyperthermia",
+        "B": "Neuroleptic malignant syndrome",
+        "C": "Anticholinergic syndrome",
+        "D": "Serotonin syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "The features are suggestive of neuroleptic malignant syndrome (NMS) that is associated with theuse of typical antipsychotics like chlorpromazine.Malignant neuroleptic syndrome is characterized by extreme muscle rigidity, fever, unstable BPand myoglobinemia. It can even lead to death. It can occur weeks to months after initiation ofantipsychotic therapy and can persist for up to a week after discontinuation of the drug.The probable mechanism of this condition is dopamine antagonism.It is treated by stopping the offending antipsychotic immediately, supportive care, dantrolene, andbromocriptine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 4,
+      "question": "304A 28-year-old patient presents to the OPD with complaints of a brownish hue to her visionsince 2 weeks. She has a history of being on antipsychotic medication for the past 10 weeks.Complete workup reveals pigmentary retinopathy in this patient. Which of the followingdrugs is implicated in this condition?",
+      "options": {
+        "A": "Ziprasidone",
+        "B": "Thioridazine",
+        "C": "Quetiapine",
+        "D": "Chlorpromazine"
+      },
+      "correct_answer": "B",
+      "explanation": "The pigmentary retinopathy seen in this patient is an adverse effect seen with the useof thioridazine which is a typical antipsychotic.In advanced cases, the deposits may resemble retinitis pigmentosa and the deposits are associatedwith 'browning of vision'. The drug is rarely used as it causes prolongation of QTc interval.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient having both positive and negative symptoms of schizophrenia was prescribed anatypical antipsychotic with partial D2 agonism. Identify the drug.",
+      "options": {
+        "A": "Clozapine",
+        "B": "Fluphenazine",
+        "C": "Aripiprazole",
+        "D": "Risperidone"
+      },
+      "correct_answer": "",
+      "explanation": "Aripiprazole is an atypical antipsychotic showing D2 partial agonism. It has a higher affinity forD2 receptors than for 5HT2A receptors.As a partial agonist, aripiprazole has a dual-action which makes it useful in patients with bothpositive and negative symptoms of schizophrenia.Options A &amp; D: Clozapine and risperidone are atypical antipsychotics with predominant5HT2A antagonistic activity over D2 antagonism.Option B: Fluphenazine is a typical antipsychotic. They have predominant D2 antagonismproperty and such action on the mesocortical pathway may increase the negative symptoms of312schizophrenia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following atypical antipsychotics is a preferential D3 receptor partial agonist?",
+      "options": {
+        "A": "Aripiprazole",
+        "B": "Cariprazine",
+        "C": "Clozapine",
+        "D": "Amisulpride"
+      },
+      "correct_answer": "B",
+      "explanation": "Cariprazine is an atypical antipsychotic which is also a preferential D3 receptor partialagonist. Like other atypical antipsychotics, it also blocks D2 and 5-HT2 receptors.Option A: Aripiprazole is a dual D2/D3 partial agonist but it has no preference for the D3 receptor.Option C: Clozapine is a D2 receptor antagonist.Option D: Amisulpride is a D2 and D3 receptor antagonist.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following antipsychotics should be given sublingually?",
+      "options": {
+        "A": "Quetiapine",
+        "B": "Asenapine",
+        "C": "Olanzapine",
+        "D": "Amisulpiride305"
+      },
+      "correct_answer": "B",
+      "explanation": "Asenapine is only available as an orally disintegrating tablet preparation that has to beadministered sublingually.It undergoes very high first-pass metabolism and so bioavailability is very low via the oral route.Hence, sublingual administration is preferred.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 8,
+      "question": "A schizophrenic patient was initiated on haloperidol therapy. 2 days later he presented to theOPD with deviation of his eyes, asymmetric neck posture and inability to open his mouthcompletely. What is the most probable diagnosis?",
+      "options": {
+        "A": "Acute dystonia",
+        "B": "Tardive dyskinesia",
+        "C": "Parkinsonism",
+        "D": "Akathisia"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario of deviation of the eyes (oculogyric crisis), asymmetric position of the head orneck (torticollis) and inability to open the mouth (trismus) are pointing towards a diagnosis ofhaloperidol-induced acute dystonia.These extrapyramidal symptoms (EPS) occur due to the antagonism of dopamine D2 receptors.Acute dystonia is more commonly associated with high potency typical antipsychotics likehaloperidol and occurs within 1 to 5 days of initiation of therapy. Benztropine ordiphenhydramine may be used for treatment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 9,
+      "question": "A 50-year-old man complains of feeling restless and irritable with an irresistible urge tomove. He had recently been started on antipsychotic therapy with haloperidol. He appearsagitated and paces up and down the room. What is the diagnosis?",
+      "options": {
+        "A": "Ekbom disease",
+        "B": "Magnan syndrome",
+        "C": "Restless leg syndrome",
+        "D": "Akathisia"
+      },
+      "correct_answer": "D",
+      "explanation": "The features mentioned are suggestive of akathisia that is commonly associated with the use ofhigh potency typical antipsychotics like haloperidol.Akathisia is described as subjective complaints of restlessness accompanied by observedmovements such as movement of the legs, rocking from foot to foot, pacing, or inability to sit orstand still. It can occur at any time after 5-60 days from starting the drug.Treatment of akathisia:•Following a slower dose titration schedule, dose reduction, or switching to a less potentantipsychotic313•First-line drugs - beta-blockers•⚫ Second line drugs - benzodiazepines like lorazepam• Third line drugs - anticholinergic agents like trihexyphenidyl, benztropine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following drugs does not cause neuroleptic malignant syndrome?",
+      "options": {
+        "A": "Amantadine",
+        "B": "Domperidone",
+        "C": "Quetiapine",
+        "D": "Metoclopramide"
+      },
+      "correct_answer": "A",
+      "explanation": "Amantadine does not cause neuroleptic malignant syndrome.Neuroleptic malignant syndrome resembles very severe parkinsonism and is caused by D2receptor antagonists. Amantadine increases the presynaptic release of dopamine and has agonistand modulatory action at postsynaptic D2 receptors.Option C: Quetiapine is an atypical antipsychotic. Although this class of antipsychotics has a lowerchance of causing NMS compared to typical antipsychotics, but cases of fatal NMS following theadministration of quetiapine have been recorded.Options B and D: Metoclopramide and domperidone are gastro kinetic agents with D2antagonism. Although domperidone has restricted entry across blood-brain barrier whencompared to metoclopramide, there are reports of NMS with this agent.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following effects of chlorpromazine is not due to its antidopaminergic activity?",
+      "options": {
+        "A": "Hyperprolactinemia",
+        "B": "Extrapyramidal side effects",
+        "C": "Antiemetic306",
+        "D": "Orthostatic hypotension"
+      },
+      "correct_answer": "D",
+      "explanation": "Orthostatic hypotension is due to the alpha-receptor blocking the action of chlorpromazine.Chlorpromazine is a typical or first-generation antipsychotic with D2 blocking and additionalalpha-receptor-blocking and anticholinergic activity.Option A: Dopamine inhibits prolactin release causing hypoprolactinemia andhence antidopaminergic action of chlorpromazine causes hyperprolactinemia.Option B: Extrapyramidal side effects occur due to D2 antagonism in the nigrostriatal region.Option C: The antiemetic action is due to D2 antagonism in the chemoreceptor trigger zone (CTZ).314Pharmacological actionsof chlorpromazineLimbic system.mesocortical areasCTZAntipsychoticeffectAntiemetic effectBasal gangliaPituitaryExtrapyramidalsymptoms (EPS)Increase inprolactin releaseBlockade of dopamine receptorsat different sitesW5-HT receptorsa1 adrenergicreceptorsH1 receptorsMuscarinic receptorsatropine-like actions)Antipsychotic effectPostural hypotension,tachycardia, palpitationSedationDryness of mouth,blurred vision,constipation,urinary retentionBlockade of other receptorsOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp11_img1_36f8afb0.jpeg",
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following atypical antipsychotics has the highest risk of galactorrhea?",
+      "options": {
+        "A": "Iloperidone",
+        "B": "Risperidone",
+        "C": "Clozapine",
+        "D": "Aripiprazole"
+      },
+      "correct_answer": "B",
+      "explanation": "Among atypical antipsychotics, risperidone and paliperidone have the highest risk of galactorrhea.The adverse effect occurs due to their higher D2 blocking potency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 13,
+      "question": "A 24-year-old with schizophrenia has not responded to adequate treatment with two differentantipsychotics. Which of the following would be the drug of choice for his condition?",
+      "options": {
+        "A": "Olanzapine",
+        "B": "Clozapine",
+        "C": "Risperidone",
+        "D": "Paliperidone"
+      },
+      "correct_answer": "B",
+      "explanation": "The drug of choice for treatment-resistant schizophrenia is clozapine.Treatment-resistant schizophrenia is the lack of response to two different antipsychotics given atadequate dosages for a minimum duration of 4-6 weeks. If patients demonstrate even a mildamount of improvement during this period, it may be reasonable to wait before changing themedication, since patients may improve at a steady rate for 3-6 months.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 14,
+      "question": "A 50-year-old man is brought to the casualty following an episode of seizure. He says he wasrecently switched to a higher dose of his antipsychotic medication. Which drug is he mostlikely on?",
+      "options": {
+        "A": "Olanzapine",
+        "B": "Clozapine",
+        "C": "Aripirazole",
+        "D": "Risperidone"
+      },
+      "correct_answer": "B",
+      "explanation": "The drug most likely implicated here is clozapine as it has the highest risk of precipitatingseizures. It causes dose-dependent lowering of the seizure threshold.Clozapine-associated seizures can be treated with sodium valproate.Clozapine side effects: (Mnemonic - “Some say Clozapine has too many nasty adverse effects\")• Seizures• Sedation•Constipation315• Hypotension/hypersalivation• Tachycardia•• Mass increase: weight gain and increased appetite• Nausea and vomiting• Agranulocytosis (neutropenia)• Enuresis and polyuria",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is not true regarding clozapine?",
+      "options": {
+        "A": "More potently blocks D2 as compared to D1 receptors",
+        "B": "Drug concentration is kept below 350ng/ml to avoid agranulocytosis307",
+        "C": "Should not be used along with carbamazepine",
+        "D": "Should be discontinued if the neutrophil count is below 500/microL"
+      },
+      "correct_answer": "B",
+      "explanation": "Agranulocytosis is an immune-mediated adverse effect and unlike seizures, it is not dependent ondose. Thus, agranulocytosis can happen at any plasma concentration of clozapine andconcentration &lt; 350 ng/mL does not lower the risk.Option A: Clozapine is an atypical antipsychotic, which acts by blocking the 5HT2, ° 2 and D4receptors. The potency of block is D4 &gt; D2 &gt;D1.Option C: Concomitant administration of carbamazepine with clozapine is contraindicatedbecause of the increased risk of leukopenia. In addition, carbamazepine is an enzyme inducer andreduces the half-life of clozapine.Option D: Administration of clozapine requires regular blood count monitoring due to the risk ofagranulocytosis. Monitoring is performed weekly for the first 6 months and once in two weeks forthe next 6 months. Patients must be asked to report for evaluation in case of symptoms such asfever or sore throat. Clozapine should be discontinued if the neutrophil count drops below 500cells/μL.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 16,
+      "question": "A 34-year-old woman presented to the ophthalmology OPD with complaints of diminution ofvision. She has bipolar disorder and has been on antipsychotic therapy for the past 8 months.Ophthalmic examination revealed the finding seen in the below image. What drug was shemost likely on?",
+      "options": {
+        "A": "Clozapine",
+        "B": "Quetiapine",
+        "C": "Aripiprazole",
+        "D": "Risperidone"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows a whitish opacity in the pupillary region and this in combination with thepresenting features are suggestive of cataract. This is an adverse effect seen with the use ofquetiapine which is an atypical antipsychotic.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q16_img1_60365158.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following antipsychotics cause QT prolongation at therapeutic doses?",
+      "options": {
+        "A": "1, 2, 5",
+        "B": "3,4",
+        "C": "1, 3, 4",
+        "D": "1, 2308"
+      },
+      "correct_answer": "C",
+      "explanation": "Haloperidol, quetiapine and ziprasidone cause QT prolongation at therapeutic doses.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 18,
+      "question": "Patient X and patient Y are on different antipsychotics. X has gained a lot of weight and hasbeen feeling dizzy when she stands. Y has not gained weight, but is very restless and keepspacing around the room. The drugs they are most likely taking are:",
+      "options": {
+        "A": "X- Haloperidol, Y- Chlorpromazine",
+        "B": "X- Haloperidol, Y- Risperidone",
+        "C": "X-Clozapine, Y- Quetiapine",
+        "D": "X- Olanzapine, Y- Haloperidol"
+      },
+      "correct_answer": "D",
+      "explanation": "The most likely option amongst the given options is:Patient X is taking olanzapine which has side effects of weight gain and hypotension.316Olanzapine and clozapine account for most cases of weight gain and drug-induced diabetesmellitus.Patient Y is taking haloperidol and has developed the side effect of akathisia. This is anextrapyramidal effect in which the patient is restless, irritable, and feels an urge to keep moving.Haloperidol has a high risk of developing extrapyramidal side effects such as akathisia, dystonia,and tardive dyskinesia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is a side effect of ziprasidone?",
+      "options": {
+        "A": "Sialorrhea",
+        "B": "Lenticular deposits",
+        "C": "Prolongation of QT interval",
+        "D": "Agranulocytosis"
+      },
+      "correct_answer": "",
+      "explanation": "Ziprasidone causes prolongation of QT interval. It should be avoided in patients with a history ofcardiac arrhythmias and should not be given in combination with other drugs known to prolongthe QT interval.The other options mentioned are side effects of clozapine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 20,
+      "question": "A 45-year-old woman suffering from Huntington's chorea is on haloperidol. Which of thefollowing adverse drug effects is best attributed to the supersensitivity of dopaminereceptors?",
+      "options": {
+        "A": "Muscle rigidity, labile blood pressure, hyperreflexia, hyperthermia, tachycardia, tremors",
+        "B": "Lip smacking, facial dyskinesia, protrusion and rolling of the tongue, involuntary movements ofthe extremities",
+        "C": "Facial grimacing, involuntary upward eye movement, laryngeal spasm and arching of the trunkforward",
+        "D": "Stooped posture, rigidity, shuffling gait, bradykinesia, and pill rolling tremors"
+      },
+      "correct_answer": "",
+      "explanation": "Lip-smacking, facial dyskinesia, protrusion and rolling of the tongue, and involuntary movementsof the extremities are characteristic of tardive dyskinesia. This is caused by supersensitivity ofdopamine receptors.It occurs as a consequence of chronic postsynaptic D2 receptor blockade by antipsychotics, whichresults in upregulation and supersensitivity of postsynaptic dopamine receptors.Tardive dyskinesia is usually seen in patients treated with typical antipsychotics (first generation)for more than a year. This may be reversible with early recognition and drug discontinuation.Treatment is with valbenazine, deutetrabenazine (VMAT2 inhibitors).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 21,
+      "question": "A 24-year-old man is brought by his family with complaints of mental instability. Onquestioning, he says that he sees his grandparents in the room and talks to them often but thefamily confirms that it's been 10 years since his grandparents passed away. He was thenprescribed an antipsychotic drug following which he developed parkinsonism. Which of the309following antiviral drugs can be used for treating his condition?",
+      "options": {
+        "A": "Foscarnet",
+        "B": "Acyclovir",
+        "C": "Amantadine",
+        "D": "Interferons"
+      },
+      "correct_answer": "",
+      "explanation": "Amantadine is an antiviral agent that is the most commonly used medication forantipsychotic-induced parkinsonism.It increases the concentration of dopamine (DA) at the synapse and appears to act by certainmechanisms like:• presynaptic DA reuptake blockade• facilitation of DA release• postsynaptic DA agonism• receptor modulation317",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following statement is false with respect to antipsychotics and pregnancy?",
+      "options": {
+        "A": "Olanzapine crosses the placenta",
+        "B": "Olanzapine is unlikely to increase the risk of birth defects",
+        "C": "There is a high risk of gestational diabetes and neonatal seizures with clozapine",
+        "D": "Guidelines recommend switching from clozapine to another drug during pregnancy"
+      },
+      "correct_answer": "B",
+      "explanation": "The guidelines recommend continuing the same antipsychotic, as switching the drug duringpregnancy would cause a higher rate of relapse.Antipsychotic drugs and pregnancy:•Crossing the placenta: Olanzapine &gt; Haloperidol &gt; Risperidone &gt; Quetiapine.• Olanzapine is unlikely to increase the risk of birth defects above the background population risk.•However, it can cause low birth weight and increased NICU admissions.Clozapine is associated with gestational diabetes and neonatal seizures.Note: Although antipsychotic drugs appear to be relatively safe in pregnancy, the available datadoes not provide adequate guidance on the choice of agent. Because of limited experience inhumans, olanzapine should be used in pregnancy only when the potential benefit justifies thepotential risk to the fetus.318",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-psychotics"
+    }
+  ]
+}

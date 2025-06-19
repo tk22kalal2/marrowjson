@@ -1,0 +1,245 @@
+{
+  "chapter": "Antimalarial Drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following antimalarial drugs is a slow acting schizonticide?",
+      "options": {
+        "A": "Artemether",
+        "B": "Mefloquine",
+        "C": "Pyrimethamine",
+        "D": "Quinine"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp1_img1_77bcc533.jpeg",
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is gametocidal to all the species causing malaria?",
+      "options": {
+        "A": "Primaquine",
+        "B": "Chloroquine",
+        "C": "Quinine",
+        "D": "None"
+      },
+      "correct_answer": "",
+      "explanation": "Primaquine is gametocidal to all species causing malaria. It inhibits transmission of malaria.425The drugs with clinically important gametocidal activity (against all species) are:•High activity:• Artemisinins• Primaquine• Low to moderate activity:⚫ Chloroquine•••• Quinine• Atovaquone/proguanil•No activity:• Mefloquine• Pyrimethamine• Sulfadoxine•TetracyclineAntimalarial drugs - sites of action• Primaquine⚫ Artemisinin groupMosquito bitefeeds ongametocytes- Artemisinin group. Chloroquine⚫ Mefloquine- Quinine- Proguanil⚫ Lumefantrine• Pyrimethamine• Sulphonamides- Tetracyclines⚫ ClindamycinMosquito bite -injects sporozoites- Primaquine⚫ TafenoquineErythrocytic schizonts -Hypnozoites -cause symptomscause relapseMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp2_img1_9d18db00.jpeg",
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "A researcher who was studying plasmodium species decided to visit a malaria-endemic placein Odisha to do his clinical study for 5 weeks. He is planning to leave after 2 days. Which ofthe following drugs can be taken as prophylaxis before visiting the malaria-endemic place?",
+      "options": {
+        "A": "Artesunate",
+        "B": "Mefloquine",
+        "C": "Doxycycline",
+        "D": "Chloramphenicol"
+      },
+      "correct_answer": "C",
+      "explanation": "Doxycycline can be taken as prophylaxis by the researcher before going to malaria-endemicplaces.Chemoprophylaxis against malaria for travelers:• If the duration of travel is less than 6 weeks then doxycycline 100mg once a day is to be started 2days before travel and continued atleast 4 weeks after travel.• If the duration of travel is more than 6 weeks then mefloquine 250mg once a week is to bestarted 2 weeks before travel and continued atleast 4 weeks after travel.426",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "A 35-year-old woman presented with fever and chills. Peripheral blood smear revealedfindings suggestive of P. vivax malaria. Which among the following is the most appropriatedrug for this patient?419",
+      "options": {
+        "A": "Chloroquine",
+        "B": "PrimaquineSulfadoxine-pyrimethamined) ArtesunateQuestion 5:Radical cure is required for malaria caused by which of the following species?a) P. falciparum and P. vivaxb) P. falciparum and P. malariae",
+        "C": "P. vivax and P. malariae",
+        "D": "P. vivax and P. ovale"
+      },
+      "correct_answer": "",
+      "explanation": "Most approproate drug for the treatment of malaria due to P. vivax is chloroquine.P. vivax treatment recommendations are:•Chloroquine-susceptible infections: Chloroquine or artemisinin-based combination therapy(ACT).• Chloroquine-resistant infections: ACT is the drug of choice but quinine is used during 1sttrimester of pregnancy.In the absence of resistance data in the question, chloroquine appears to be the most appropriateanswer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "Tafenoquine is used in which of the following conditions?",
+      "options": {
+        "A": "Radical cure of plasmodium vivax",
+        "B": "Prophylaxis of malaria in pregnancy",
+        "C": "Treatment of severe falciparum malaria",
+        "D": "Treatment of malaria in children &lt;2 years"
+      },
+      "correct_answer": "A",
+      "explanation": "Tafenoquine is used in the radical cure of Plasmodium vivax. Total eradication of plasmodiumspecies which includes clinical curative and hypnozoites phase are called radical cure.Primaquine and tafenoquine (derivative of primaquine) have very high activity against the latenttissue forms (hypnozoites) of the species. It is primarily used for the chemoprophylaxis andradical cure of P. vivax and P. ovale infections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "Chloroquine is not useful in the treatment of which of the following conditions?",
+      "options": {
+        "A": "Systemic lupus erythematosus",
+        "B": "Porphyria cutanea tarda",
+        "C": "Giardiasis",
+        "D": "Sjogren's Syndrome"
+      },
+      "correct_answer": "D",
+      "explanation": "Chloroquine is used in the treatment of systemic lupus erythematosus, porphyria cutanea tardaand giardiasis, due to its anti-inflammatory effect; but it is not used in the treatment of Sjogren'sSyndrome.Chloroquine and hydroxychloroquine concentrate in lysosomes and have an anti-inflammatoryeffect. It also has antihistaminic and antiarrhythmic properties.Non-antimalarial uses of choloroquine are:427•• Hepatic amoebiasis• Giardiasis• Rheumatoid arthritis•Systemic lupus erythematosus• Discoid lupus erythematosus• Porphyria cutanea tarda• Severe polymorphous light eruption",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 8,
+      "question": "A 26-year-old woman who is 10 weeks pregnant, comes with history of fever and chills. She isdiagnosed with falciparum malaria. Which of the following drugs will you choose for hertreatment?420",
+      "options": {
+        "A": "Quinine plus clindamycin",
+        "B": "Quinine plus doxycycline",
+        "C": "Artemether plus lumefantrine",
+        "D": "Artesunate plus pyrimethamine-sulfadoxine"
+      },
+      "correct_answer": "A",
+      "explanation": "The woman is in the 1st trimester of pregnancy and falciparum malaria during 1st trimester ofpregnancy is treated with quinine plus clindamycin.Worldwide, most species of Falciparum malaria are resistant to chloroquine. In all trimesters,pregnant women diagnosed with uncomplicated malaria caused by chloroquine-resistant P.falciparum infection can be treated with a combination of quinine and clindamycin.Quinine is considered the drug of choice in the first trimester. In the second and third trimestersartemether-lumefantrine can be used, but not in the first trimester.Vivax malaria during pregnancy is treated with chloroquine as chloroquine is safe in pregnancyand children.Clindamycin can be used in children for chloroquine-resistant cases. It is safe to use in childrenand pregnant women.Option B: Doxycycline is useful in the treatment of malaria but not used in pregnancy.Options C and D: Artemisinin-based combination therapy (ACT) is not recommended during the1st trimester of pregnancy because of a lack of safety data.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "A 32-year-old man presents with fever with chills and seizures. On examination, his bloodpressure was 70/50 mm of Hg and labored breathing was present. Routine bloodinvestigations revealed Hb of 4.8 g/dl. ABG was done and the pH was 7.21. Findings inperipheral blood smear are shown below. Which of the following is the drug of choice in thiscondition?",
+      "options": {
+        "A": "Chloroquine",
+        "B": "Quinine",
+        "C": "Artesunate",
+        "D": "ArtemetherD"
+      },
+      "correct_answer": "C",
+      "explanation": "This scenario depicts a case of severe complicated falciparum malaria, and the drug of choice inthis condition is artesunate. The image shows ring forms/early trophozoites in erythrocyte, whichare binucleate (double chromatin) and this is characteristic of P. falciparum malaria.Severe complicated malaria is caused by P. falciparum and is characterized by hyperparasitemia,hyperpyrexia, acidosis, respiratory distress, bleeding manifestation, cardiovascular collapse, renalfailure and cerebral malaria.As per WHO guidelines, all patients with severe malaria should be treated with intravenous orintramuscular artesunate for at least 24 hours. Once the patient recovers and can tolerate oralmedications, oral ACT for 3 days is recommended.Artemether is used only if parenteral artesunate is not available.428",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q9_img1_f997ce59.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not a WHO recommended artemisinin-based combination therapy?",
+      "options": {
+        "A": "Artesunate plus amodiaquine",
+        "B": "Artesunate plus quinine",
+        "C": "Artesunate plus pyrimethamine-sulfadoxine421",
+        "D": "Artesunate plus mefloquine"
+      },
+      "correct_answer": "B",
+      "explanation": "WHO recommended artemisinin-based combination therapies are:• Artemether plus lumefantrine• Artesunate plus pyrimethamine-sulfadoxine.Artesunate plus mefloquine• Artesunate plus amodiaquine•⚫ Dihydroartemisinin plus piperaquine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 11,
+      "question": "You are posted in a health centre in Nagaland as part of your rural service and a patient isdiagnosed with uncomplicated falciparum malaria. Which of the following artemisinin-basedcombination therapy is recommended by NVBDCP for this patient?",
+      "options": {
+        "A": "Artesunate sulfadoxine+pyrimethamine",
+        "B": "Artesunate - chloroquine",
+        "C": "Artesunate - mefloquine",
+        "D": "Artemether - lumefantrine"
+      },
+      "correct_answer": "D",
+      "explanation": "The artemisinin-based combination therapy (ACT) recommended by NVBDCP in thenorth-eastern states is a combination of artemether and lumefantrine.NVBDCP guidelines for the treatment of uncomplicated falciparum cases:• North-eastern states: Artemether-lumefantrine based ACT•Rest of the country: Artesunate-sulfadoxine+pyrimethamineIn the north-eastern states (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland,and Tripura), the presently recommended ACT for P. falciparum malaria is a fixed-dosecombination of artemether-lumefantrine due to the recent reports of late treatment failures withthe current combination of AS+SP.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 12,
+      "question": "Loading dose is essential for chloroquine because of which of the following properties?",
+      "options": {
+        "A": "Undergoes fast hofmann degradation",
+        "B": "Rapid hepatic elimination",
+        "C": "High volume of distribution",
+        "D": "High first-pass metabolism"
+      },
+      "correct_answer": "",
+      "explanation": "Loading dose is essential for chloroquine because of its property of high volume of distribution.Chloroquine is distributed extensively in the liver, spleen, kidney, lungs, skin and, to a lesserextent, brain and spinal cord. Because of extensive tissue binding, a loading dose is required forachieving effective plasma concentrations earlier in the therapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 13,
+      "question": "While writing a prescription for a patient diagnosed with malaria, the medical officerinstructed the patient to take a particular drug along with a high fatty meal. Identify the drug.",
+      "options": {
+        "A": "Mefloquine",
+        "B": "Lumefantrine",
+        "C": "Chloroquine",
+        "D": "Amodiaquine"
+      },
+      "correct_answer": "C",
+      "explanation": "The drug described here is lumefantrine and its absorption increases when it is administeredalong with fatty food or milk because it is highly lipophilic.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient who was diagnosed with malaria was initiated on treatment about 3 days ago. Nowshe presents with seizures and confusion. Which of the following drugs is most likely to havecaused this condition?422",
+      "options": {
+        "A": "Artesunate",
+        "B": "Arteether",
+        "C": "Lumefantrine",
+        "D": "Mefloquine"
+      },
+      "correct_answer": "D",
+      "explanation": "429The case depicts neuropsychiatric adverse effects which are commonly associated with the use ofmefloquine. The US FDA has put a \"black box warning\" for this drug due to permanent andserious neuropsychiatric side effects.The CNS toxicity caused by mefloquine includes:•Seizures• Acute psychosis• Severe vertigo•Confusion or decreased sensorium",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 15,
+      "question": "The finding shown in the image below is seen as a side effect of which of the following drugs?",
+      "options": {
+        "A": "1, 4 and 5 only",
+        "B": "1, 3 and 5 only",
+        "C": "1 and 3 only",
+        "D": "2 and 4 only"
+      },
+      "correct_answer": "C",
+      "explanation": "The finding shown in the image is bulls-eye maculopathy, and chloroquine andhydroxychloroquine use are associated with this side effect.Bull's-eye maculopathy refers to the ophthalmoscopic appearance of a central area of retinalpigment epithelial depigmentation surrounded by relatively normal retinal pigment epithelium,giving a bull's-eye appearance to the macula.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q15_img1_4809e697.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 16,
+      "question": "A pregnant patient with severe malaria is undergoing treatment with quinine. Which of thefollowing adverse effects is not associated with this drug?",
+      "options": {
+        "A": "Tinnitus",
+        "B": "Hypoglycemia",
+        "C": "Hypertension",
+        "D": "Blackwater fever423"
+      },
+      "correct_answer": "",
+      "explanation": "Quinine is not associated with hypertension. It is associated with hypotension.Quinine is used in the treatment of drug-resistant and severe P. falciparum malaria. It acts againstasexual erythrocytic forms but has no significant effect on hepatic forms of malarial parasites.Option A: Quinine use is associated with cinchonism which manifests as tinnitus, visual andauditory disturbances, headache, nausea, and vomiting.Option B: Quinine has a stimulatory effect on pancreatic beta cells and can cause hypoglycemia.Option D: Blackwater fever is a rare type of hypersensitivity reaction to quinine. It presentswith massive hemolysis, hemoglobinemia, and hemoglobinuria that may lead to anuria, renalfailure, and death.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    },
+    {
+      "q_no": 17,
+      "question": "A patient who was initiated on treatment for malaria two days ago, now presents withcomplaints of passage of dark-colored urine. Hemolysis due to G6PD deficiency is suspected.With which of the following drugs is this condition more common?",
+      "options": {
+        "A": "Quinine",
+        "B": "Chloroquine",
+        "C": "Hydroxychloroquine",
+        "D": "PrimaquineSolution to"
+      },
+      "correct_answer": "C",
+      "explanation": "Hemolysis in a G6PD deficient patient is more common with primaquine.G6PD deficient patients are highly sensitive to oxidative stress. They are at increased risk ofhemolysis due to the oxidant property of primaquine. Therefore, before initiating primaquinetherapy, the G6PD status of the patient has to be determined. Passage of dark color urine is anindication of hemolysis and the drug has to be stopped if it occurs.Quinine, chloroquine and hydroxychloroquine can also cause hemolysis in G6PD deficientpatients, but the incidence is less compared to primaquine.430431",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimalarial Drugs"
+    }
+  ]
+}

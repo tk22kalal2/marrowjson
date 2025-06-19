@@ -1,0 +1,185 @@
+{
+  "chapter": "Renin-Angiotensin-Aldosterone System",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following ACE inhibitors is not a prodrug?",
+      "options": {
+        "A": "Fosinopril",
+        "B": "Enalapril",
+        "C": "Ramipril",
+        "D": "Lisinopril"
+      },
+      "correct_answer": "D",
+      "explanation": "Lisinopril is the only ACE inhibitor listed that is not a prodrug, as it is active in its administered form.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient with BP 225/145 presents with acute pulmonary edema and is diagnosed withhypertensive emergency. The active metabolite of which ACE inhibitor is available forintravenous use in this patient?",
+      "options": {
+        "A": "Ramipril",
+        "B": "Perindopril",
+        "C": "Enalapril",
+        "D": "Fosinopril"
+      },
+      "correct_answer": "C",
+      "explanation": "Enalapril is available in its active form as enalaprilat for intravenous use.Enalapril is a prodrug of enalaprilat. It is indicated in conditions where oral drugs cannot be usedor rapid onset of action is desired like in a case of hypertensive emergency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements regarding ACE inhibitors is true?",
+      "options": {
+        "A": "They inhibit the conversion of angiotensinogen to angiotensin I",
+        "B": "Omission of prior diuretic dose decreases the risk of postural hypotension",
+        "C": "Lisinopril is shorter acting than enalapril",
+        "D": "They are contraindicated in diabetic patients"
+      },
+      "correct_answer": "B",
+      "explanation": "The omission of prior diuretic dose decreases the risk of postural hypotension.ACE inhibitors cause arteriolar dilation and increase the compliance of larger arteries. ACEinhibitors induced hypotension is thereby due to a decrease in total peripheral resistance. Indiuretic-treated patients, the renin-angiotensin-aldosterone system is more active to compensatefor volume loss. Hence, ACE inhibitors increase the risk of postural hypotension in thesepatients.Option A: ACE inhibitors inhibit the conversion of angiotensin I to angiotensin II.Option C: Lisinopril is longer acting than enalapril. Lisinopril is usually administered once daily inall patients. Enalapril requires twice-daily administration in some patients.Option D: ACE inhibitors and ARBs are first-line agents in diabetic patients because of theirrenoprotective effects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 4,
+      "question": "All of the following are indications for the use of ACE inhibitors except:",
+      "options": {
+        "A": "Hypertensive emergency",
+        "B": "Myocardial infarction243",
+        "C": "Left ventricular dysfunction",
+        "D": "Pheochromocytoma"
+      },
+      "correct_answer": "D",
+      "explanation": "ACE inhibitors are usually avoided in conditions like pheochromocytoma which is associatedwith high renin activity. Abrupt inhibition of the RAAS system can result in severe hypotension(usually postural).The majority of pheochromocytomas are treated surgically. Phenoxybenzamine is often used inpreparing the patient for surgery and also to manage hypertension in inoperable or malignant247pheochromocytoma. Phentolamine can also be used in the short-term control of hypertension inthese patients.ACE inhibitors are indicated in hypertensive emergency, myocardial infarction, and leftventricular dysfunction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 5,
+      "question": "In which of the following patients are ACE inhibitors not contraindicated?",
+      "options": {
+        "A": "1 and 3",
+        "B": "1,2 and 3",
+        "C": "2,4 and 5",
+        "D": "3, 4 and 5"
+      },
+      "correct_answer": "C",
+      "explanation": "ACE inhibitors are not contraindicated in unilateral renal artery stenosis, left ventricular systolicdysfunction, and scleroderma renal crisis.Patient 1: ACE inhibitors are teratogenic and can cause hypoplasia of organs, renal failure, anuria,and growth retardation in the fetus. Therefore, they are contraindicated in pregnancy.Patient 2: ACE inhibitors can be used with caution in unilateral renal artery stenosis if the otherkidney is functioning normally.Patient 3: Efferent arteriolar constriction maintains the glomerular filtration pressure in bilateralrenal artery stenosis. ACE inhibitors are contraindicated in bilateral renal stenosis as they canprecipitate acute renal failure due to dilation of efferent arterioles and fall in glomerular filtrationpressure.Patient 4: ACE inhibition in patients with systolic dysfunction prevents or delays the progressionof heart failure, decreases the incidence of sudden death and myocardial infarction, and improvesthe quality of life. ACE inhibition reduces afterload and systolic wall stress, and both cardiacoutput and cardiac index increase.Patient 5: The use of ACE inhibitors considerably improves the survival of patients withscleroderma renal crisis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 6,
+      "question": "A 53-year-old hypertensive patient has been on ACE inhibitors for the last 12 years. Which ofthe following effects would you expect to see in this patient?",
+      "options": {
+        "A": "Rightward shift in renal pressure natriuresis curve",
+        "B": "Reduction in filtration fraction",
+        "C": "Significant increase in heart rate",
+        "D": "Decrease in compliance of large arteries"
+      },
+      "correct_answer": "B",
+      "explanation": "ACE inhibitors, when used for a long time in patients with hypertension, cause a reduction infiltration fraction.Filtration fraction is the ratio of GFR to that of renal plasma flow. ACE inhibitors increase renalblood flow without altering GFR and thus result in reduction of filtration fraction.Option A: The graph plotted between urinary sodium excretion and mean blood pressure isknown as the pressure natriuresis curve. For example, when dietary sodium intake is low, reninrelease is stimulated. Angiotensin II acts on the kidneys to shift the renal pressure - natriuresiscurve to the right. This increases sodium and water retention.Conversely, when dietary Na+ is high or when ACE inhibitors are used, there is the withdrawal ofangiotensin II. The renal pressure natriuresis curve shifts to the left.The following image depicts a pressure natriuresis curve:248Sodium intake and output12100086 N2Pressure natriuresis curveW06080100120140160Arterial pressure (mm Hg)Angiotensin blockadeNormalHigh angiotensin IIOMARROWOptions C and D: ACE inhibitors do not cause a significant increase in heart rate and can have afavorable change in the compliance of large arteries on long-term use.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp6_img1_d967d0a0.jpeg",
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient who is started on lisinopril for hypertension is concerned about its adverse effects.Which among the following is not an adverse effect of this drug?",
+      "options": {
+        "A": "Dysgeusia",
+        "B": "Hypokalemia",
+        "C": "Neutropenia",
+        "D": "Skin rash"
+      },
+      "correct_answer": "B",
+      "explanation": "ACE inhibitors are associated with the development of hyperkalemia.Hyperkalemia occurs due to the inhibition of angiotensin II-mediated aldosterone secretion.Decreased aldosterone levels result in decreased tubular excretion of potassium in the kidneysleading to hyperkalemia.The adverse effects of ACE inhibitors are:• Hypotension⚫ Hyperkalemia•Cough• Angioedema• Skin rash• Teratogenicity• Dysgeusia (alteration in or loss of taste)Extremely rare but reversible side effects include neutropenia, glycosuria in the absence ofhyperglycemia, anemia, and hepatotoxicity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient presents to the casualty with cough, difficulty in breathing, and non-induratingedema of his face and lips. He had recently been started on ramipril for hypertension. Whichamong the following mediates these adverse effects?244",
+      "options": {
+        "A": "Bradykinin and renin",
+        "B": "Angiotensin II and bradykinin",
+        "C": "Only bradykinin",
+        "D": "Histamine"
+      },
+      "correct_answer": "C",
+      "explanation": "The given scenario is suggestive of ACE inhibitor-induced angioedema which occurs due tobradykinin.249Angioedema is most commonly mediated by histamine. However, bradykinin-mediatedangioedema, though less common, can result due to hereditary or acquired defects in C1 esteraseinhibitor and as a side effect of ACE inhibitors.ACE has structural similarity to another enzyme called kininase. Kininase normally metabolizesbradykinin, substance P, and prostaglandins. ACE inhibitors when administered also blockkininase enzyme which results in an increase in the concentration of these substrates. An increasein the level of bradykinin/ substance P levels results in persistent brassy cough and angioedema inthe patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 9,
+      "question": "An 18-year-old boy is brought to the casualty with complaints of swelling of his face and lipsas shown in the image below. On further enquiry, it is noted that he has suffered from similarepisodes in the past whenever he becomes emotional. He is prescribed icatibant. What is thelikely mechanism of action of this drug?",
+      "options": {
+        "A": "Bradykinin B2 receptor agonist",
+        "B": "Bradykinin B2 receptor antagonist",
+        "C": "Bradykinin B1 receptor agonist",
+        "D": "Bradykinin B1 receptor antagonist"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario and image showing swelling of the face and lips is suggestiveof hereditary angioedema. Icatibant is a selective bradykinin B2 receptor competitiveantagonist indicated for the treatment of acute attacks of hereditary angioedema.The other drug which is approved for the treatment of acute attacks of hereditary angioedema isecallantide which is a synthetic plasma kallikrein inhibitor. Both these drugs are administeredsubcutaneously.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q9_img1_cb7269e8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 10,
+      "question": "A 40-year-old diabetic male is on ACE inhibitors for hypertension. Which among thefollowing is the most serious adverse effect you would expect to see in this patient?",
+      "options": {
+        "A": "Hypotension",
+        "B": "Hypokalemia",
+        "C": "Hypocalcemia245",
+        "D": "Hypercalcemia"
+      },
+      "correct_answer": "B",
+      "explanation": "The most significant adverse effect seen with the use of ACE inhibitors is hypotension.ACE inhibitors are used in the management of hypertension and are one of the first-line drugs forthis condition.Option B: ACE inhibitors may cause hyperkalemia in patients with renal insufficiency or diabetes.Options C and D: ACE inhibitors do not affect calcium levels significantly.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 11,
+      "question": "A 40-year-old man is diagnosed with hypertension and is prescribed losartan. Which of thefollowing statements about the drug is incorrect?",
+      "options": {
+        "A": "It is a competitive angiotensin receptor antagonist",
+        "B": "It attenuates platelet aggregation",
+        "C": "Associated with negligible cough",
+        "D": "Causes hyperuricemia"
+      },
+      "correct_answer": "D",
+      "explanation": "Losartan use is not associated with hyperuricemia. In fact, losartan is uricosuric and can also beused in patients with gout.Losartan is a competitive angiotensin II receptor antagonist. It binds to the AT1 receptor withhigh affinity. it is also a competitive antagonist of the thromboxane A2 receptor and attenuatesplatelet aggregation. Losartan has no effect on ACE and it does not inhibit bradykinin breakdown.This results in negligible incidences of cough.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "q_no": 12,
+      "question": "Combined use of ACE inhibitors and ARBs are not routinely indicated primarily due to theincreased risk of which of the following?",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Hypokalemia",
+        "C": "Angioedema",
+        "D": "Heart failure"
+      },
+      "correct_answer": "A",
+      "explanation": "250The combined use of ACE inhibitors and ARBs are not commonly indicated as they increase therisk of hyperkalemia.They also increase the risk of hypotension and renal injury. Any such use should be done underthe supervision of specialists with frequent monitoring.251",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Renin-Angiotensin-Aldosterone System"
+    }
+  ]
+}

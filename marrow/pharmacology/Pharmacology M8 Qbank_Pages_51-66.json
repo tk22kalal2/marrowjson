@@ -1,0 +1,350 @@
+{
+  "chapter": "Clinical Trials and Miscellaneous",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Pharmacovigilance refers to:",
+      "options": {
+        "A": "Monitoring of drug safety",
+        "B": "Monitoring of the unethical trade of drugs",
+        "C": "Monitoring of drug potency",
+        "D": "Monitoring of drug efficacy"
+      },
+      "correct_answer": "A",
+      "explanation": "Pharmacovigilance is the science and activities relating to the detection, assessment, understanding, and prevention of adverse effects or any other drug-related problems.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following organizations regulates the clinical trials and approval ofinvestigational new drugs in India?",
+      "options": {
+        "A": "CPCSEA",
+        "B": "CDSCO",
+        "C": "FDA",
+        "D": "DCGI"
+      },
+      "correct_answer": "",
+      "explanation": "Central Drug Standard Control Organisation (CDSCO) regulates the clinical trials and approval ofinvestigational new drugs in India.The proposal for initiating trials, review of clinical trial results, and recommendations formarketing authorization is done through a committee called the Investigational New Drug (IND)Committee formed by CDSCO.Preclinical trials are performed on animals, and they are regulated by guidelines prescribed bythe Committee for the Purpose of the Control and Supervision of Experiments on Animals(CPCSEA) in India.The Drugs Controller General of India (DCGI) is the head of the CDSCO, under the Ministry ofHealth and Family Welfare in India.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 3,
+      "question": "You are working as a research associate on clinical trials of a new drug for migraine. What is the dose of the test drug that is usually not exceeded in phase 0 studies?",
+      "options": {
+        "A": "1000 mcg",
+        "B": "1000 mg",
+        "C": "100 mcg",
+        "D": "100 mg"
+      },
+      "correct_answer": "C",
+      "explanation": "The dose of the test drug in phase 0 studies usually does not exceed 100 mcg. Phase 0 studies are also called micro-dosing studies. Very low doses of drugs, usually 1/100th of the estimated human dose or a maximum of 100 mcg, is used. They are done to obtain pharmacokinetic data in humans at a very early stage of drug development. The micro-dosing stage is not mandatory and not clearly categorized by regulatory authorities yet.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 4,
+      "question": "Good clinical practice is not required in which phase of clinical trials?",
+      "options": {
+        "A": "Preclinical phase",
+        "B": "Phase 1 trial51",
+        "C": "Phase 2 trial",
+        "D": "Phase 3 trial"
+      },
+      "correct_answer": "A",
+      "explanation": "Good clinical practice is not required in the preclinical phase.Good clinical practice (GCP) is an international ethical and scientific quality standard for thedesign, conduct, performance, monitoring, auditing, recording, analyses, and reporting of clinicaltrials. It is primarily for the conduct of clinical trials in humans.Preclinical trials are performed on animals and they are regulated by guidelines prescribedby the CPCSEA (Committee for the Purpose of the Control and Supervision of Experiments onAnimals) in India. The guidelines are laid down in good laboratory practice (GLP).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a primary endpoint in phase 1 studies?",
+      "options": {
+        "A": "Safety",
+        "B": "Tolerability",
+        "C": "Pharmacokinetic parameters",
+        "D": "Efficacy"
+      },
+      "correct_answer": "D",
+      "explanation": "Efficacy is not a primary endpoint in phase 1 studies. Phase 1 studies are generally done in healthyvolunteers. Efficacy can be a secondary endpoint in some studies where patients are recruited.The primary endpoints are:• Safety•⚫ Tolerability of single/multiple doses• Pharmacokinetic parametersThe primary endpoint denotes the purpose of the study for which it is primarily designed. Thesecondary endpoint denotes the measure of the valuable outcome of the study design.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following phases of a clinical trial is also referred to as efficacy trial?",
+      "options": {
+        "A": "Phase 1",
+        "B": "Phase 2",
+        "C": "Phase 3",
+        "D": "Phase 4"
+      },
+      "correct_answer": "C",
+      "explanation": "Efficacy and appropriate dose range is the main aim of phase 2 of clinical trials. It is evaluated ona small group of patients with the target disease.Phase II of clinical trials involve a small group of patients (50-500). Most of the new drugs will beadministered for the first time in patients with the target disease. The study is designed to obtainproof of concept (potential of the drug to treat the disease) and dose-ranging study (provides inputfor choosing the most appropriate dose for phase 3 studies).Phase 3 studies are also known as pivotal studies as they establish treatment benefits.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 7,
+      "question": "You read a news alert that mentions a novel drug has received marketing approval fordiabetes mellitus and that it has shown positive results in a pivotal trial. This corresponds towhich phase of clinical trials?",
+      "options": {
+        "A": "Phase I",
+        "B": "Phase II",
+        "C": "Phase III",
+        "D": "Phase IV"
+      },
+      "correct_answer": "C",
+      "explanation": "Phase III trials are usually considered pivotal trials and are necessary for the approval of themajority of drugs. They are also called multi-site trials and are done for 3-5 years.59When the initial Phase III trials are complete, the sponsor (usually a pharmaceutical company)applies to the FDA for approval to market the drug. This application is called either a New DrugApplication (NDA) or a Biologics License Application (BLA).In some drugs related to rare diseases or malignancies, phase II studies are considered as pivotal,and the drug may be approved on the basis of phase II studies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 8,
+      "question": "A pharmaceutical company has set up a team of physicians to oversee the Phase IV clinicaltrial of a new drug for SARS-CoV2 infection, to identify possible drug interactions. Which isthe most appropriate statement about this phase of the clinical trial?52",
+      "options": {
+        "A": "Done in a group of 50-500 patients",
+        "B": "Done after a drug is approved and marketed",
+        "C": "Done for drugs used in rare diseases",
+        "D": "Done for formulating guidelines for therapeutic use"
+      },
+      "correct_answer": "B",
+      "explanation": "Phase IV study is conducted after the drug is approved and marketed by regulatory authorities. Itincludes post-marketing surveillance and other studies that complement the earlier findings of thedrug.After the drug is marketed for general use, practicing physicians are identified through whomdata about the efficacy, acceptability, and adverse effects of the drug are collected on a structuredproforma. Patients treated in the normal course form the study population. Therefore the studypopulation is much larger. Uncommon adverse effects or those that occur only after long-term useand unsuspected drug interactions are detected at this stage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements are true?",
+      "options": {
+        "A": "1, 3 and 4",
+        "B": "2 and 4",
+        "C": "2, 4 and 5",
+        "D": "1, 2 and 3"
+      },
+      "correct_answer": "B",
+      "explanation": "Orphan drugs are for the treatment or prevention of rare diseases with little commercial value forpharmaceutical companies. Orphan receptors are receptors that are discovered yet no knownligands are identified.There are two types of drug development. They are:• Traditional drug development: Initial drug discovery is followed by the characterization of thereceptors the drugs are used to act on.●•Contemporary drug development: Due to advances in molecular biology and genomesequencing, receptors are identified initially. The drugs are identified later using chemicalscreening later resulting in the discovery of orphan receptors.Special incentives are given by the government to pharmaceutical companies for the developmentand marketing of orphan drugs.Few examples of orphan drugs are:Liposomal amphotericin B• Digoxin antibody (Digibind)• Fomepizole",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 10,
+      "question": "A pharmacologically inert substance used along with an active ingredient in a formulation isknown as the:",
+      "options": {
+        "A": "Placebo",
+        "B": "Nocebo",
+        "C": "Excipient",
+        "D": "Inducer"
+      },
+      "correct_answer": "C",
+      "explanation": "60An excipient is a pharmacologically inert substance used along with an active ingredient in aformulation. e.g., starch, lactose, FDKPRole of excipients:• Add bulk to the active drug if used in small quantities• Increase the stability of the formulation•• Mask unpleasant tasteInhaled insulin (Afrezza) consists of 2- to 2.5-μm crystals of the excipient, fumaryldiketopiperazine (FDKP), that provides a large surface area for adsorption of proteins likeinsulin.Option A: Placebo is an inert substance given in the form of medication. It is generally notcombined with the active ingredient.Endorphins may play a role in the placebo effect especially for analgesic action.• It is used in the controls of clinical trials to elucidate the actual drug effect.•Not all but only a few patients respond to the placebo.Option B: Nocebo is the opposite of the placebo effect where the patient experiences a negativepsychodynamic effect due to their pessimistic attitude towards the medications or healthcareprofessionals.Option C: Inducers refer to agents that increase the expression of cytochrome enzymes involved inthe metabolism of drugs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 11,
+      "question": "Which one of the following is a placebo?",
+      "options": {
+        "A": "Herbal medication with no effect known",
+        "B": "Physiotherapy",
+        "C": "Sham surgery",
+        "D": "Cognitive behavioural therapy"
+      },
+      "correct_answer": "",
+      "explanation": "Sham surgery (placebo surgery) is a faked surgical intervention that omits the step thought to betherapeutically necessary.Note: While option A may be considered a placebo due to there being no known effects, it is notcertain as to whether all possible effects (known and unknown) have been considered. Hence,weighing options A and C, the better option among the two would be C as sham surgery is awidely used placebo.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following are not reasons for the alteration of drug dosage in the elderly?53",
+      "options": {
+        "A": "They have decreasing renal function with age",
+        "B": "They have loss of lean body mass",
+        "C": "They have increased baroreceptor sensitivity",
+        "D": "Their total body water is decreased"
+      },
+      "correct_answer": "",
+      "explanation": "The reason for the alteration of drug dosage in the elderly is decreased baroreceptor sensitivitydue to age-related vascular stiffening.Reasons for the alteration of drug dosage in the elderly are:• Progressive decline of renal function.• Loss of lean body mass and an increased ratio of fat to muscle, leading to an increased volume ofdistribution of lipophilic drugs• Decreased body water-causing volume of distribution (Vd) of hydrophilic drugs decreases.61• Slower absorption due to reduced gut motility.• Plasma albumin decreases with aging which leads to decreased plasma protein binding.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient started on an anti-epileptic for epilepsy developed toxic epidermal necrolysis. It wasdocumented as a type A adverse drug reaction. Which of the following is not true regardingthis adverse effect?",
+      "options": {
+        "A": "These reactions occur due to genetically determined abnormal reactivity to a drug.",
+        "B": "These reactions can be predicted from the drug's known pharmacological or toxicologicaleffects",
+        "C": "These reactions are generally dose-dependent",
+        "D": "These reactions are usually common"
+      },
+      "correct_answer": "A",
+      "explanation": "Type A (augmented) adverse drug reactions (ADR) are not based upon the qualitatively abnormalresponses to the drug. It is based on the pharmacological properties of the drug.Examples of type A ADR:• Side effects• Toxic effects•Consequences of drug withdrawal.They are common, reversible, and preventable.Idiosyncrasy refers to the genetically determined abnormal reactivity to a drug.Adverse drug reactions can be classified into two types:Type A reactions - sometimes referred to as augmented reactions - are dose-dependent andpredictable based on the pharmacology of the drugType B reactions - bizarre reactions - which are idiosyncratic and not predictable on the basis ofdrug pharmacology. They can be based on the characteristics of patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following drugs if taken during pregnancy can lead to this adverse effect?",
+      "options": {
+        "A": "Tetracycline",
+        "B": "Thalidomide",
+        "C": "Warfarin54",
+        "D": "Alcohol"
+      },
+      "correct_answer": "B",
+      "explanation": "The baby has features suggestive of phocomelia and it results due to the consumption ofthalidomide during pregnancy.Phocomelia is associated with underdeveloped limbs and absent pelvic bones. Both upper andlower limbs are affected and a part of the limbs may be missing. Fused fingers and missingthumbs are also seen.Thalidomide was originally used for the treatment of pregnancy-associated morning sickness butwas withdrawn due to this adverse effect.It re-entered the market for the treatment of erythema nodosum leprosum. It alsohas antiangiogenic and immunomodulatory effects.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q14_img1_d6bc31a4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following drugs can be used in the first trimester of pregnancy?",
+      "options": {
+        "A": "ACE inhibitors",
+        "B": "Angiotensin receptor blockers",
+        "C": "Propylthiouracil",
+        "D": "Statins"
+      },
+      "correct_answer": "C",
+      "explanation": "62Propylthiouracil can be used in the first trimester of pregnancy. It is indicated in the managementof hyperthyroidism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following drugs cannot cross the placenta and can safely be used in a pregnantwoman?",
+      "options": {
+        "A": "Phenytoin",
+        "B": "Diazepam",
+        "C": "Morphine",
+        "D": "Heparin"
+      },
+      "correct_answer": "",
+      "explanation": "Heparin is a large molecule and cannot cross the placenta. Hence, heparin can be used safely in apregnant woman.Unfractionated or low molecular weight heparin is the preferred anticoagulant in pregnancy.Option A: Phenytoin crosses the placenta and can cause fetal hydantoin syndrome.Options B and C: Diazepam and morphine are lipophilic molecules and can cross the placenta.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 17,
+      "question": "'Me-too drugs' do not differ significantly in which of the following pharmacological features ascompared to the prototypical drug?",
+      "options": {
+        "A": "Absorption",
+        "B": "Metabolism",
+        "C": "Mechanism of action",
+        "D": "Elimination"
+      },
+      "correct_answer": "D",
+      "explanation": "Me-too drugs are chemically related to the prototype or other chemical compounds that have anidentical mechanism of action.Various statins present in the market can be considered as \"Me-too drugs\". The pharmacokineticparameters (absorption, distribution, metabolism, and elimination) vary significantly betweenthem (atorvastatin and rosuvastatin have a very long duration of action), but the core mechanismof action remains the same: HMG CoA reductase inhibition and decrease in cholesterol synthesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 18,
+      "question": "As a medical officer in a PHC, you anticipate a rise in infections following the worsening floodin your area. You write a letter to the district collector requesting to provide an additionalsupply of essential medicines. Which of the following best describes these medicines?",
+      "options": {
+        "A": "These are drugs needed to treat emergency conditions55",
+        "B": "These are drugs needed to treat serious diseases",
+        "C": "These are drugs that satisfy the priority health needs of the population",
+        "D": "These are drugs that have been in use for a long time"
+      },
+      "correct_answer": "",
+      "explanation": "Essential medicines are those medicines that satisfy the priority health care needs of thepopulation.They are selected with due regard to:• Public health relevance•Evidence on efficacy and safety.Comparative cost-effectivenessWHO publishes a model list of essential medicines that provides a framework for individualnations to draw their own national list. The 21st Essential Medicines List, published in April 2019brings the total to 460 drugs deemed essential for addressing the most important public healthneeds globally.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 19,
+      "question": "The schedule that deals with prescription drugs under the Drugs and Cosmetics Act is",
+      "options": {
+        "A": "Schedule P",
+        "B": "Schedule H",
+        "C": "Schedule Y",
+        "D": "Schedule D"
+      },
+      "correct_answer": "C",
+      "explanation": "Schedule H deals with prescription drugs. All the drugs listed under schedule H should beprovided to the patient only with the prescription from a registered medical practitioner.63All the drugs under the list must have the warning mentioned below, on their packaging listedprominently.\"Schedule H drug. Warning: To be sold by retail on the prescription of a registered medicalpractitioner only\"Schedule H1: To be sold on the production of a valid prescription, but the chemist will maintain aseparate register where the identity of the patient, contact details of the prescribing doctor, andthe name and dispensed quantity of the drug will be recorded. The dispensing quantity should bestrictly according to the valid prescription. It is a recently introduced list with the objective ofcurtailing indiscriminate use of antimicrobials.Schedule X: To be sold with a valid prescription. Prescription in duplicate, separate licenserequirements, meticulous storage, and dispensing records must be maintained by the chemist.The drugs that have high abuse liability are included in schedule X.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is a schedule X drug?",
+      "options": {
+        "A": "Halothane",
+        "B": "Thalidomide",
+        "C": "Ketamine",
+        "D": "Colistin"
+      },
+      "correct_answer": "C",
+      "explanation": "Ketamine is a schedule X drug.According to The Drugs and Cosmetics Act-1945,Schedule X drugs are those that have high abuse liability and are to be sold with a validprescription only.A prescription in duplicate, separate license requirement, meticulous storage, and dispensingrecords must be maintained by the chemist.Option B: Thalidomide is a schedule H drug.Option D: Colistin is a schedule P drug.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 21,
+      "question": "A first-year resident administers an intramuscular injection to a patient by the Z tracktechnique. What is the advantage of this technique?",
+      "options": {
+        "A": "Increase absorption rate",
+        "B": "Prevent staining of skin",
+        "C": "Reduce allergic manifestations",
+        "D": "Longer duration of action"
+      },
+      "correct_answer": "B",
+      "explanation": "The advantage of the 'Z-track technique' for intramuscular administration is that it prevents skinstaining.Z-track technique procedure:• Stretch the skin by pulling it laterally away from the intended point of injection.••Insert the needle into the site at a 90■ angle, aspirate by pulling back to see if the needle has apenetrated vessel.••If blood is aspirated withdraw the needle, and repeat the procedure at another site with newequipment and medication.• If no blood is aspirated administer the injection.• Wait for 10 seconds and then withdraw the needle, and release the skin allowing the displacedtissue to seal the needle track.Advantages:64• The 'Z-track' prevents leakage of the medication into the subcutaneous tissue and skin stainingthrough the tract to the surface of the skin• Pain intensity is also reducedZ track techniqueMARROWMAROW©MARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp21_img1_010a2a9e.jpeg",
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 22,
+      "question": "Z track technique is used for?56",
+      "options": {
+        "A": "Administration of nicotine patches",
+        "B": "Monitoring of carbamazepine therapy",
+        "C": "Administration of long acting depot antipsychotics",
+        "D": "Monitoring of lithium therapy"
+      },
+      "correct_answer": "C",
+      "explanation": "The Z-track technique is used for the intramuscular administration of long-acting depotantipsychotics.Advantages:• The 'Z-track' prevents leakage of the medication into the subcutaneous tissue and skinstaining through the tract to the surface of the skin• Pain intensity is also reducedZ track techniqueMAROV NMALROWOMARROW65",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp22_img1_6d9144f7.jpeg",
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    },
+    {
+      "q_no": 23,
+      "question": "A drug label suggests storage in a 'cool' place. What is the temperature at which this drug is tobe stored?",
+      "options": {
+        "A": "2 degree Celsius",
+        "B": "o degree Celsius",
+        "C": "2-6 degree Celsius",
+        "D": "8-15 degree CelsiusCorrect Option"
+      },
+      "correct_answer": "D",
+      "explanation": "Storing at a cool place means to store at 8-15 degrees C.Examples for drugs to be stored under cool temperature include insulin, nicorandil.Label instructionsTemperatureStore frozen-200CKeep cool8-150CStore at room temperatu15-250Cre66",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clinical Trials and Miscellaneous"
+    }
+  ]
+}

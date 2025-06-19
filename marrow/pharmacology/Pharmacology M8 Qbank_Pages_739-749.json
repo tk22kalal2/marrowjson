@@ -1,0 +1,245 @@
+{
+  "chapter": "Antiplatelets, Fibrinolytics and Antifibrinolytics",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A patient with a history of myocardial infarction has been on 75 mg aspirin OD for two years.The drug primarily acts by inhibiting which enzyme?",
+      "options": {
+        "A": "Cyclooxygenase 1",
+        "B": "Cyclooxygenase 2",
+        "C": "Both a and b",
+        "D": "Lipoxygenase"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp1_img1_cac7f33b.jpeg",
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 2,
+      "question": "A 55-year-old underwent coronary stent implantation. He was prescribed dual antiplatelettherapy for 6 months in which clopidogrel is one of the components. Which of the following isnot true about this drug?",
+      "options": {
+        "A": "It inhibits Gp IIb/IIIa receptors",
+        "B": "The onset of action is slow",
+        "C": "It is activated by the hepatic CYP2C19",
+        "D": "It has a long duration of action"
+      },
+      "correct_answer": "A",
+      "explanation": "Clopidogrel acts by irreversible inhibition of P2Y12 receptors of the platelets.Options B and C: The onset of action is slow (starts after 4 hours) as it requires metabolicactivation by the hepatic CYP2C19 enzyme. Patients with a loss of function mutation ofthe CYP2C19 allele exhibit reduced platelet inhibition and experience a higher rate ofcardiovascular events.Option D: Due to irreversible inhibition of platelet P2Y12 receptors the duration of action is longand lasts for 5-7 days.ClopidogrelPrasugrelTiclopidinePlatelet aggregation disordersAspirinVWFFibrinogenADP receptorGlanzmannArachidonic acidCOXTXA2thrombastheniaGpllb/lllato platelet wallGpllb/IllaAbciximabTirofibanEptifibatideBernard-SouliersyndromeGplbVWFVon WillebranddiseaseSubendothelialcollagenOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp2_img1_c55e96e3.jpeg",
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 3,
+      "question": "The efficacy of which of the following antiplatelet drugs will be reduced, if omeprazole is usedconcurrently?",
+      "options": {
+        "A": "Clopidogrel",
+        "B": "Prasugrel",
+        "C": "Ticagrelor",
+        "D": "Vorapaxar"
+      },
+      "correct_answer": "A",
+      "explanation": "Clopidogrel is a prodrug that is converted into an active metabolite by the CYP2C19 enzymeand omeprazole can reduce the efficacy of clopidogrel due to its CYP2C19 inhibitory activity.Option B: Prasugrel is converted to its active metabolite mainly by other CYP enzymes andtherefore omeprazole does not interfere in its activation.Option C: Ticagrelor does not require activation and is metabolized by the CYP3A4 enzyme.Option D: Vorapaxar is a thrombin receptor antagonist that is also metabolized by the CYP3A4enzyme.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not a prodrug?739",
+      "options": {
+        "A": "Clopidogrel",
+        "B": "Prasugrel",
+        "C": "Ticagrelor",
+        "D": "Ticlopidine"
+      },
+      "correct_answer": "C",
+      "explanation": "Ticagrelor is not a prodrug and does not require metabolic activation to exert its antiplateletaction.745It is an orally active, reversible antagonist of P2Y12 subtype of ADP receptors. Since the drug doesnot require hepatic activation, it can be used in patients with CYP2C19 mutations. Ticagrelor ismetabolized into another active metabolite by CYP3A4 and is finally excreted in the urine.Clopidogrel, prasugrel, and ticlopidine are irreversible antagonists of P2Y12 and are prodrugsrequiring metabolic activation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following statements is true about prasugrel?",
+      "options": {
+        "A": "It is a reversible inhibitor of ADP receptor",
+        "B": "Has a slower onset of action than clopidogrel",
+        "C": "It is contraindicated in cerebrovascular accidents",
+        "D": "Dose adjustment is needed in renal impairment"
+      },
+      "correct_answer": "",
+      "explanation": "Prasugrel is contraindicated in cerebrovascular accidents as it is associated with higher rates offatal and life-threatening bleeding.Option A: It is an irreversible inhibitor of the ADP (P2Y12) receptor of platelets.Option B: It has a faster onset of action and produces greater inhibition of platelets thanclopidogrel.Option D: Dose adjustment is not needed in moderate hepatic and renal impairment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following drugs does not act by blocking Gp IIb/IIIa receptors?",
+      "options": {
+        "A": "Abciximab",
+        "B": "Eptifibatide",
+        "C": "Tirofiban",
+        "D": "Vorapaxar"
+      },
+      "correct_answer": "",
+      "explanation": "Vorapaxar is a competitive antagonist of PAR-1 (thrombin receptor) and inhibitsthrombin-induced platelet aggregation.Abciximab, tirofiban, and eptifibatide act by blocking Gp IIb/IIIa receptors. They are used inpatients undergoing percutaneous coronary intervention (PCI) for acute coronary syndrome. Theycarry a high risk of bleeding and can cause thrombocytopenia.Eptifibatide is contraindicated in renal failure and tirofiban needs dose adjustment in cases ofrenal impairment.ClopidogrelPrasugrelTiclopidinePlatelet aggregation disordersAspirinVWFFibrinogenADP receptorArachidonic acidCox-TXA2Gpllb/lllato platelet wallGplib/IllaGplbVWFSubendothelialcollagenOMARROWGlanzmannthrombastheniaAbciximabTirofibanEptifibatideBernard-SouliersyndromeVon Willebranddisease746",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp6_img1_e14afd17.jpeg",
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient with a urine output of 0.4ml/Kg per hour in the last 6 hours can be safelyadministered which of the following GP IIb/IIIa antagonists?",
+      "options": {
+        "A": "Abciximab",
+        "B": "Eptifibatide",
+        "C": "Tirofiban",
+        "D": "All of the above"
+      },
+      "correct_answer": "",
+      "explanation": "Abciximab can safely be administered to this patient who is likely suffering from acute kidneyinjury (urine volume less than 0.5 mL/kg per hour for 6 hours).Abciximab, eptifibatide, and tirofiban are parenteral GpIIb/IIIa receptor antagonists used in thetreatment of acute coronary syndromes.Eptifibatide is contraindicated in renal failure and tirofiban needs dose adjustment in cases ofrenal impairment. Both these drugs undergo renal clearance and used cautiously in renalimpairment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 8,
+      "question": "A 60-year-old male patient requires percutaneous coronary intervention. He was given an IVinfusion of a reversible ADP receptor inhibitor. Which of the following drugs was used?740",
+      "options": {
+        "A": "Abciximab",
+        "B": "Eptifibatide",
+        "C": "Cangrelor",
+        "D": "Tirofiban"
+      },
+      "correct_answer": "D",
+      "explanation": "Cangrelor is a parenteral, reversible ADP receptor (P2Y12 receptor) inhibitor, administeredintravenously.Abciximab, eptifibatide, and tirofiban are parenteral agents too but, they are GPIIb/IIIa inhibitors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 9,
+      "question": "After suffering from a myocardial infarction, a patient was started on two drugs X and Y. Thedrug X inhibits the COX-1 enzyme and drug Y inhibits thrombin-induced platelet aggregation.Identify the drugs.",
+      "options": {
+        "A": "X- Aspirin, Y- Clopidogrel",
+        "B": "X-Clopidogrel, Y- Vorapaxar",
+        "C": "X- Aspirin, Y- Vorapaxar",
+        "D": "X- Aspirin, Y- Cangrelor"
+      },
+      "correct_answer": "",
+      "explanation": "X- Aspirin and Y- Vorapaxar are the drugs administered to the patient.Aspirin reduces thromboxane A2 production by inhibiting the COX-1 enzyme.Vorapaxar is a competitive antagonist of PAR-1 and inhibits thrombin-induced plateletaggregation. Vorapaxar is indicated in combination with aspirin and/or clopidogrel to reducethromboembolic events in patients with MI or peripheral vascular disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 10,
+      "question": "How is alteplase differentiated from streptokinase?",
+      "options": {
+        "A": "It is longer acting",
+        "B": "It is cheap",
+        "C": "It is derived from human kidney",
+        "D": "It has more affinity towards plasminogen bound to fibrin"
+      },
+      "correct_answer": "D",
+      "explanation": "Alteplase differs from streptokinase as it has more affinity towards plasminogen bound to fibrin.It activates fibrin-bound plasminogen more rapidly than it activates plasminogen in thecirculation. Streptokinase activates both free and fibrin bound plasminogen.Option A: Alteplase is rapidly cleared by the liver and inactivated by plasminogen activatorinhibitor-1 making it shorter-acting than streptokinase.Option B: It is also more expensive than streptokinaseOption C: Alteplase is the recombinant tissue-type plasminogen activator derived from humantissue (endothelial cells) culture.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 11,
+      "question": "In patients with which of the following conditions would fibrinolytic therapy be an absolutecontraindication?",
+      "options": {
+        "A": "1, 3 and 5",
+        "B": "2 and 4",
+        "C": "3 and 4",
+        "D": "1 and 2"
+      },
+      "correct_answer": "B",
+      "explanation": "747Among the given options, ischaemic stroke in the past 3 months and suspected aorticdissection are absolute contraindications to fibrinolytic therapy.Active peptic ulcer and uncontrolled hypertension are relative contraindications for fibrinolytictherapy. Menstruation is not a contraindication to fibrinolytic therapy.Note: History of a hemorrhagic stroke at any time is an absolute contraindication for thrombolytictherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 12,
+      "question": "741Which of the following is not a recombinant tissue-type plasminogen activator?",
+      "options": {
+        "A": "Alteplase",
+        "B": "Anistreplase",
+        "C": "Tenecteplase",
+        "D": "Reteplase"
+      },
+      "correct_answer": "B",
+      "explanation": "Anistreplase is not a recombinant tissue plasminogen activator (rtPA).Anistreplase (anisoylated plasminogen streptokinase activator complex) is a preformed complex ofhuman plasminogen and bacterial streptokinase which is used as a thrombolytic agent.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following plasminogen activator can be administered as a single bolus dose for apatient who requires coronary thrombolysis?",
+      "options": {
+        "A": "Alteplase",
+        "B": "Tenecteplase",
+        "C": "Reteplase",
+        "D": "Anistreplase"
+      },
+      "correct_answer": "B",
+      "explanation": "Tenecteplase can be administered as a single bolus dose for patients requiring coronarythrombolysis.Options A and D: Alteplase and anistreplase are administered as intravenous infusion.Option C: Reteplase can also be given as two IV boluses, given 30 minutes apart.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q13_img1_cdffbf05.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 14,
+      "question": "A 35-year-old woman came to the gynecology OPD with a history of heavy menstrualbleeding. She complained of having to change 4-5 pads in a day and an increase in bleeding tomore than 7 days since the last few months. Which of the following is the preferred drug thatcan be given to this patient?",
+      "options": {
+        "A": "Mefenamic acid",
+        "B": "Tranexamic acid",
+        "C": "Epsilon amino caproic acid",
+        "D": "Acetylsalicylic acid"
+      },
+      "correct_answer": "B",
+      "explanation": "Tranexamic acid is the drug approved for treating heavy menstrual bleeding.It is a lysine analogue that binds to the active site of plasmin and prevents the interaction of fibrinwith plasmin. This prevents the dissolution of clots and decreases bleeding.Option A: Mefenamic acid is an NSAID and indicated in primary dysmenorrhea.Option C: ε-Aminocaproic acid is also an antifibrinolytic agent like tranexamic acid. However, it isnot approved for heavy menstrual bleeding.Option D: Acetylsalicylic acid is aspirin, an anti-platelet drug.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 15,
+      "question": "A 55-year-old man admitted with ischemic stroke was given IV alteplase. After 8 hours, theICU staff noticed decreasing mental status and acute hypertension in the patient. A repeat CTrevealed the following, Which of the following drugs can be used to manage this patient?74220m: 14325 mmComm8 degPitch: O12155.1",
+      "options": {
+        "A": "Protamine",
+        "B": "Streptokinase",
+        "C": "Heparin",
+        "D": "-Aminocaproic acid"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of post-thrombolytic hemorrhagic transformation of anischemic stroke. ε-Aminocaproic acid can be used as an antidote for fibrinolytic therapy.It is a lysine analog that binds competitively to plasminogen, blocking plasminogen from bindingto fibrin and the subsequent conversion to plasmin. This activity subsequently results in theinhibition of fibrinolysis.748It should not be given unless hemorrhage is life-threatening because it inhibits intrinsicfibrinolytic activity and can precipitate DIC. Fresh frozen plasma and cryoprecipitate may also beused to replenish fibrin and clotting factors.Fibrinolytic systemBloodActivationVarious stimuliproactivatorBloodactivatorPlasminogenInhibitionAntiactivatorst-PA, urokinase+AminocaproicacidStreptokinaseTranexamicProactivatorActivatorAnistreplasePlasminFibrinogendegradationproductsThrombinFibrinogenFibrin clotFactor XIIIOMARROWacidFibrindegradationproducts,D-dimer",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q15_img1_eb32db2b.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp15_img1_82131fa2.jpeg",
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following statements is true about prasugrel?",
+      "options": {
+        "A": "It acts as an P2 Y12 agonist",
+        "B": "It is 10 times less potent than clopidogrel",
+        "C": "It is a pro drug",
+        "D": "Omeprazole interferes in its activation to an active metabolite"
+      },
+      "correct_answer": "C",
+      "explanation": "Prasugrel is a prodrug.It acts as an irreversible ADP (P2 Y12) antagonist and is converted into its active metabolite byCYP3A4 and CYP2B6. Since omeprazole is an inhibitor of CYP2C19, it does not interfere with itsactivation.It is 10-times more potent than clopidogrel and has a more rapid onset of action because of betterabsorption and more predictable metabolic activation.749",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+    }
+  ]
+}

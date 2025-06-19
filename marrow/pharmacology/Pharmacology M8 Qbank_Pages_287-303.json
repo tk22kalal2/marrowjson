@@ -1,0 +1,395 @@
+{
+  "chapter": "Anti-epileptics II",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following anti-epileptics is an AMPA glutamate receptor antagonist?",
+      "options": {
+        "A": "Levetiracetam",
+        "B": "Brivaracetam",
+        "C": "Perampanel",
+        "D": "Rufinamide"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following mechanisms of action is observed with levetiracetam?",
+      "options": {
+        "A": "GABA transaminase inhibition",
+        "B": "GABA transporter inhibition",
+        "C": "Binding to synaptic vesicular protein SV2A",
+        "D": "Inhibition of neuronal sodium channel"
+      },
+      "correct_answer": "C",
+      "explanation": "Levetiracetam has a binding affinity to synaptic vesicular protein SV2A. SV2A plays a role invesicle recycling following exocytosis of neurotransmitterWhen levetiracetam bind to this synaptic vesicular protein, it decreases the release of excitatoryneurotransmitter glutamate thus preventing seizures.Levetiracetam also inhibits N-type Ca2+ channels and Ca2+ release from intracellular stores. Thus,it is considered a broad-spectrum antiepileptic as it has an effect on multiple channels.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 3,
+      "question": "A known epileptic patient on levetiracetam has been seizure-free for 2 years. But he developsagitation and anger issues interfering with his day-to-day activities as a result of the drugintake. Which of the following measures is to be taken next?",
+      "options": {
+        "A": "Slowly taper the drug over next 6 months",
+        "B": "Continue levetriacetam since a 5 year seizure free interval is needed",
+        "C": "Stop levetiracetam and start on a different anti-epileptic",
+        "D": "Discontinue the drug as he is seizure free"
+      },
+      "correct_answer": "A",
+      "explanation": "The mood changes observed in the above patient must be due to an adverse effect oflevetiracetam. Abrupt stoppage of the drug can result in rebound seizures. So the bestmanagement will be to slowly taper the drug over the next 6 months.Adverse effects of levetiracetam:• Somnolence• Asthenia• Ataxia• Dizziness.•• Mood and behavioral changes• Psychotic reactions (rare)295",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 4,
+      "question": "Tiagabine has been initiated as an adjunctive treatment for focal seizures in a patient. What isthe mechanism of action of this drug?",
+      "options": {
+        "A": "Inhibiting GABA transaminase287",
+        "B": "Increasing GABA synthesis",
+        "C": "Inhibiting GABA transporter",
+        "D": "Inhibiting glutamate release"
+      },
+      "correct_answer": "",
+      "explanation": "Tiagabine acts by inhibiting the GAT1 GABA transporter, thereby reducing its reuptake intoneurons. It also increases the duration of inhibitory impulses in the synapse by prolonging theaction of GABA.Tiagabine is approved as an add-on therapy for refractory partial seizures with or withoutgeneralization.Other antiepileptic drugs that have GABA enhancing activity are vigabatrin and stiripentol.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 5,
+      "question": "A 25-year-old patient diagnosed with Lennox-Gastaut syndrome was prescribed a drug withNMDA antagonist activity. Identify the drug.",
+      "options": {
+        "A": "Memantine",
+        "B": "Riluzole",
+        "C": "Ketamine",
+        "D": "Felbamate"
+      },
+      "correct_answer": "D",
+      "explanation": "Felbamate is the NMDA receptor antagonist prescribed to this patient. It also potentiates GABAaction. It is indicated in refractory primary or secondary generalized seizures and Lennox-Gastautsyndrome.Felbamate is associated with aplastic anemia and liver failure.Option A: Memantine is used in Alzheimer's disease.Option B: Riluzole is used in amyotrophic lateral sclerosis.Option C: Ketamine causes dissociative anesthesia and used in general anesthesia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 6,
+      "question": "An antiepileptic agent which acts by opening neuronal potassium channels was prescribed toa patient admitted to the neurology ward. On discharge, the patient was asked to have aregular ophthalmological examination every 6 months. Which drug is most likely prescribed?",
+      "options": {
+        "A": "Ezogabine",
+        "B": "Rufinamide",
+        "C": "Vigabatrin",
+        "D": "Gabaculine"
+      },
+      "correct_answer": "A",
+      "explanation": "Ezogabine (retigabine) acts by opening neuronal potassium channels. By opening the K+ channels,stabilizes the resting membrane potential and reduces the excitability of the nerve membrane.FDA recommends that patients on chronic ezogabine therapy need visual acuity andfundus examination every 6 months due to the possibility of retinal abnormalities.Option B: Rufinamide acts by prolonging an inactive state of the Na+ channel.Option C: Vigabatrin is a GABA transaminase inhibitor.Option D: Gabaculine is an irreversible GABA reuptake inhibitor, that has only experimentalvalue, due to high toxicity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 7,
+      "question": "All of the following statements are true about zonisamide except:",
+      "options": {
+        "A": "Indicated in focal seizures",
+        "B": "Nephrolithiasis is not a side effect",
+        "C": "Inhibits T type calcium channel",
+        "D": "Blocks low voltage gated Na+ channel"
+      },
+      "correct_answer": "B",
+      "explanation": "Nephrolithiasis is a side effect of zonisamide.Zonisamide is a broad-spectrum antiepileptic, that acts by blocking low voltage Na+ channels andT type calcium channels. It also has carbonic anhydrase inhibiting activity that may result inmetabolic acidosis and the formation of renal stones.It is used in the treatment of focal seizures.296",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 8,
+      "question": "Patients on which of the following antiepileptic drugs will experience weight loss?288",
+      "options": {
+        "A": "Sodium valproate",
+        "B": "Vigabatrin",
+        "C": "Topiramate",
+        "D": "Carbamazepine"
+      },
+      "correct_answer": "C",
+      "explanation": "Topiramate causes weight loss as one of its common side effects.Topiramate has mixed mechanisms of action:• Reduces voltage gate Na+ currents•• Activates hyperpolarizing K+ currents• Enhances postsynaptic GABAA current• Limits the activation of AMPA subtype of glutamate receptors.Topiramate is used in focal seizures, GTCS and Lennox-Gastaut syndrome.The side effects:Cognitive impairment• Weight loss• Fatigue• Renal calculiSodium valproate, vigabatrin (highest incidence), and carbamazepine cause weight gain.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 9,
+      "question": "A 55-year-old patient presented to the OPD with complaints of pain over a healeddermatomal rash on his lateral chest wall. Gabapentin was prescribed to this patient. Theanalgesic activity of this drug is mainly exerted by which of the following?",
+      "options": {
+        "A": "Increasing the duration of GABA Cl- channel opening",
+        "B": "Inhibiting the GABA transaminase enzyme",
+        "C": "Inhibiting the uptake of GABA at the presynaptic membrane",
+        "D": "Inhibiting the Ca2+ channel current"
+      },
+      "correct_answer": "D",
+      "explanation": "Gabapentin exerts its analgesic activity by inhibiting the Ca2+ channel current in this patient whois most likely suffering from post-herpetic neuralgia.Gabapentin and pregabalin have close structural similarity to GABA. Still, they do not act throughthe effects of GABA receptors or any other mechanism related to GABA-mediatedneurotransmission.They inhibit the calcium channel current which decreases the entry of calcium in the presynapticneuron. When calcium entry in the neuron is reduced, there is a decrease in the release ofglutamate. This lowers the excitability of the neuron, thus reducing seizure activity.Therapeutic use of these drugs:Gabapentin: Focal seizures, postherpetic neuralgia painPregabalin: Focal seizures, postherpetic neuralgia pain, diabetic neuropathy pain, spinal cordinjury pain, fibromyalgia pain.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 10,
+      "question": "An infant presents with sudden jerky movements of the head, neck and arms. On EEGevaluation, a characteristic pattern of hypsarrhythmia is observed. Which is the GABAtransaminase inhibitor approved for the treatment of this condition?",
+      "options": {
+        "A": "Vigabatrin",
+        "B": "Tiagabine",
+        "C": "Progabide",
+        "D": "Pregabalin"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario along with hypsarrytmia on EEG is suggestive of Westsyndrome. Vigabatrin is an inhibitor of the GABA transaminase that can be used in this297condition.Inhibition of the enzyme GABA transaminase leads to an increase in the concentration of GABA inthe synaptic cleft which is an inhibitory neurotransmitter. This contributes to its anticonvulsantproperty of vigabatrin.West syndrome is a rare type of epilepsy syndrome that begins in infancy. It is characterized by atriad of:• Infantile seizures (also called salaam spells)• Developmental regression•Hypsarrhythmia i.e Himalayan wave pattern on EEGTreatment of West syndrome includes:•⚫ ACTH• Vigabatrin if associated with tuberous sclerosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 11,
+      "question": "What is the drug of choice in the treatment of infantile spasms?",
+      "options": {
+        "A": "ACTH",
+        "B": "Phenobarbitone",
+        "C": "Carbemazepine",
+        "D": "Vigabatrin"
+      },
+      "correct_answer": "A",
+      "explanation": "The drug of choice in the treatment of infantile spasms or West syndrome is adrenocorticotropichormone (ACTH.)The mechanism of action of ACTH or glucocorticoids is unknown but may involve a reduction ininflammatory processes. Vigabatrin is used if the spasms are associated with tuberous sclerosis.Other antiseizure medications that may be helpful are valproate, topiramate, zonisamide, orbenzodiazepines.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 12,
+      "question": "289Which antiepileptic drug is associated with permanent visual loss?",
+      "options": {
+        "A": "Topiramate",
+        "B": "Ethosuximide",
+        "C": "Vigabatrin",
+        "D": "Felbamate"
+      },
+      "correct_answer": "C",
+      "explanation": "Vigabatrin is associated with progressive and permanent visual loss.It is a GABA transaminase inhibitor indicated in:•West syndrome associated with tuberous sclerosis• Refractory focal seizures with impaired awareness.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following antiepileptic drugs are approved for prophylaxis in patients sufferingfrom migraines?",
+      "options": {
+        "A": "2, 3 and 4",
+        "B": "3 and 5",
+        "C": "1, 4 and 5",
+        "D": "1 and 3"
+      },
+      "correct_answer": "D",
+      "explanation": "Sodium valproate, topiramate and gabapentin are approved anti-epileptics for use in prophylaxisof migraine.Carbamazepine, phenytoin and rufinamide are not used for prophylaxis of a migraine.298",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 14,
+      "question": "A 22-year-old female is brought to the casualty with seizures for the past 10 minutes. Historyfrom relatives suggests no seizure-free intervals in the past 10 minutes. After stabilizing thevitals of the patient, which is the first drug you administer to the patient?",
+      "options": {
+        "A": "Lorazepam",
+        "B": "Diazepam",
+        "C": "Phenobarbitone",
+        "D": "Thiopentone sodium"
+      },
+      "correct_answer": "A",
+      "explanation": "This scenario described above is of status epilepticus. The first drug used in the management islorazepam.Status epilepticus refers to continuous seizures or repetitive, discrete seizures with impairedconsciousness in the inter-ictal period. For practical purposes, it is defined as any one of thefollowing:• Continuing seizures &gt;5 minutes or•• No regaining of consciousness between 2 seizures.Management of status epilepticus:Management of Status EpilepticusImmediate cessation of seizures:Administer benzodiazepines:IV lorazepam (drug of choice) 4 mg stat and repeat 4mg after5 min (if necessary) ORIM midazolam 10 mg stat and repeat 10 mg after 10 min (ifnecessary) ORIV diazepam 10 mg statIf none of the above is available, other acceptable alternativesare buccal or nasal midozolam or rectal diazepam+ Concurrently administerMaintenance of a seizure-free period:Administer 1st-line antiepileptics:IV phenytoin 20 mg/kg (or fosphenytoin) over 15 min diluted in100 mL of normal saline OR- IV sodium valproate 40 mg/kg over 15 min diluted in 100 mL ofnormal saline ORIV levetiracetam 60 mg/kg over 15 min diluted in 100 mL ofnormal saline.Fails to respond to benzodiazapines(2 doses) and 1st line antiepilepticsRefractory status epileptics:Administer second line antiepileptics and provide ventilatorysupport:-IV midazolam infusion 0.2 mg/kg, followed by 0.2 mg/kg/h OR-IV phenobarbital 20 mg/kg slow infusionFails to respondAdminister general anesthetic agents:⚫ IV propofol 2 mg/kg, followed by 2 mg/kg/h",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp14_img1_ffd56e69.jpeg",
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 15,
+      "question": "A 25-year-old newly married female comes to the OPD with a positive urine pregnancy test.Her history is suggestive of antiepileptic use since 8 years. Which of the following statementsis incorrect about further management in this patient?",
+      "options": {
+        "A": "Anti epileptic agents has to be continued at stabilised doses",
+        "B": "Immediately stop antiepileptics once pregnancy is detected",
+        "C": "Folate supplementation is a must",
+        "D": "No antiepiletic is deemed safe in pregnancy290"
+      },
+      "correct_answer": "B",
+      "explanation": "Stopping antiepileptics abruptly once pregnancy is detected in this patient is not recommended. Ifthis is done, then there is a lot of risk to the fetus by uncontrolled seizures and can result inanoxia and intellectual disability. Antiepileptics have to be continued and then the dose can betapered slowly if there are no episodes of seizures.Management of seizures in pregnancy:.• If the patient is a known case of seizure and is on any antiepileptic drug: The same prescribeddrug is continued• If the first episode occurs during pregnancy: The drug preferred is either lamotrigine orlevetiracetam•Folic acid (1-4 mg/day) should be given to allNo antiepileptic is deemed safe in pregnancy. So, it is important to have the patient onmonotherapy at the lowest effective dose, especially during the first trimester.299",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 16,
+      "question": "An infant is born with a birth defect as shown in the image below. It is the most commonteratogenic effect of:Dura Mater-Spinal Cord-Spinal Fluid-",
+      "options": {
+        "A": "Phenytoin",
+        "B": "Topiramate",
+        "C": "Sodium valproate",
+        "D": "PhenobarbitalVertebra"
+      },
+      "correct_answer": "",
+      "explanation": "The above illustration is suggestive of an infant with spina bifida of the open type which is themost common teratogenic effect of sodium valproate.Option A: Phenytoin is usually associated with fetal hydantoin syndrome.Option B: Topiramate has shown growth defects in animal studies and hypospadias have beenshown in the male fetus but the definite relationship is lacking.Option D: Phenobarbital has teratogenic effects similar to phenytoin.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q16_img1_a44d7aa1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 17,
+      "question": "Which is the treatment of choice for juvenile myoclonic epilepsy in pregnancy?",
+      "options": {
+        "A": "Levetiracetam",
+        "B": "Carbamazepine",
+        "C": "Vigabatrin",
+        "D": "Phenytoin"
+      },
+      "correct_answer": "A",
+      "explanation": "The drug of choice for juvenile myoclonic epilepsy (JME) in pregnancy is levetiracetam.Lamotrigine or levetiracetam are alternative first-line in pregnancy as they have fewer teratogeniceffects.The drug of choice for JME is valproate. However, in pregnant women or women of childbearingage, valproate should be avoided because of the increased risks of fetal malformations andneurodevelopmental delay.Carbamazepine, vigabatrin, and phenytoin are not indicated in juvenile myoclonic epilepsy as theymay worsen myoclonic jerks and absence seizures.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 18,
+      "question": "A 29-year-old primigravida, at 4-months period of gestation and history of juvenile myoclonicepilepsy, visits your clinic. She has been regularly taking sodium valproate and is now291concerned about the medication possibly affecting her child. What would you suggest to thispatient?",
+      "options": {
+        "A": "Immediately taper valproate and start lamotrigine",
+        "B": "Continue valproate with serial drug monitoring",
+        "C": "Switch to carbamazepine",
+        "D": "Add lamotrigine to valproate"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, the patient should be advised to continue valproate, and serial drugmonitoring should be done.Valproate has a higher teratogenic potential. It is usually avoided before conception if otherantiepileptics with less teratogenicity (lamotrigine. levetiracetam) can be used. But for a womanwho is pregnant and is already taking valproate, changing the drug is not recommended.Option A - The patient is presenting in the second trimester when organogenesis would have beencomplete. Therefore, tapering the drug and introducing lamotrigine is not an option asprecipitating seizures has a greater risk of fetal harm at this stage.Option C: Carbamazepine is not indicated in JME as it may worsen the myoclonic jerks andabsence seizures.Option D- Adding additional drugs to stabilized doses may increase teratogenicity. So addinglamotrigine to valproate is also not a viable option.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is recommended for prophylaxis in a pregnant woman who is onanti-epileptic drugs with an enzyme-inducing property?",
+      "options": {
+        "A": "Vitamin K",
+        "B": "Anti D immunoglobulin",
+        "C": "Indomethacin",
+        "D": "Prostacyclin"
+      },
+      "correct_answer": "A",
+      "explanation": "300Vitamin K is recommended for prophylaxis in pregnant women who are on antiepileptic drugshaving enzyme-inducing properties.Antiepileptic drugs with enzyme inducing properties:•⚫ Phenytoin••CarbamazepineOxcarbazepine⚫ Topiramate• Phenobarbital• PrimidoneThey induce CYP enzymes that interfere with the metabolism of vitamin K. Deficiency of vitaminK-dependent clotting factors can occur in the newborn leading to coagulopathy and intracerebralhemorrhage.Although hemorrhage is uncommon, the mother should be treated with oral vitamin K, 20 mg/dayin the last two weeks of pregnancy. The infant should receive an intramuscular injection ofvitamin K (1 mg) at birth.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following antiepileptics is effective in Lennox-Gastaut syndrome, but shows thehighest propensity to cause rashes in young children warranting its withdrawal?",
+      "options": {
+        "A": "Sodium valproate",
+        "B": "Levetiracetam",
+        "C": "Lamotrigine",
+        "D": "Vigabatrin"
+      },
+      "correct_answer": "",
+      "explanation": "Lamotrigine is effective in Lennox-Gastaut syndrome and has the highest propensity to causerashes in young children.Lamotrigine is also associated with toxic epidermal necrosis and Stevens-Johnson Syndrome insome patients. The incidence of serious rash and other serious skin conditions is higher withlamotrigine than other anti-epileptics provided in the options. The occurrence of rashwarrants the stoppage of the drug.Option A: Sodium valproate is the drug of choice in Lennox-Gastaut syndrome. It can causefulminant hepatitis especially in children &lt; 2 years.Option B: Levetiracetam is also effective in most of the seizures present in Lennox-Gastautsyndrome. It can increase blood pressure in children &lt; 4 years.Option D: Vigabatrin is also effective in Lennox-Gastaut syndrome, especially as an add-ontherapy. It can cause permanent visual field defects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 21,
+      "question": "Patients receiving which of the following anti-microbial drugs are least likely to developseizures?",
+      "options": {
+        "A": "Beta lactam compounds",
+        "B": "Quinolones",
+        "C": "Macrolides",
+        "D": "Isoniazid292"
+      },
+      "correct_answer": "",
+      "explanation": "Macrolides are the least likely anti-microbial out of the given options to cause seizures.Antimicrobials associated with causing seizures:• Beta-lactam and related compounds•• Quinolones301•Acyclovir• Isoniazid• GanciclovirOther groups of drugs that are implicated in causing epilepsy:• Alkylating agents - busulfan, chlorambucil• Antimalarials - chloroquine, mefloquine•Anesthetics/ analgesics - meperidine, fentanyl, tramadol, local anesthetics• Immunomodulatory drugs - cyclosporine, tacrolimus, interferons•Psychotropics:• Antidepressants - bupropion• Antipsychotics - clozapine• Anti-manic drugs - lithium•• Drugs of abuse - amphetamine, cocaine, phencyclidine, methylphenidate• Miscellaneous - Theophylline, memantine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following drugs of abuse is least likely to be associated with seizures?",
+      "options": {
+        "A": "Amphetamine",
+        "B": "Cocaine",
+        "C": "Cannabinoids",
+        "D": "Phencyclidine"
+      },
+      "correct_answer": "",
+      "explanation": "Cannabinoids are being investigated for the treatment of various types of epilepsy and are leastlikely to cause seizures.Drugs of abuse that are implicated in causing seizures are:• Amphetamine• Cocaine•Phencyclidine•Methylphenidate",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 23,
+      "question": "A patient presented to the OPD with a skin rash for 3 days. He gives a history of antiepilepticdrug use for 2 months and is ataxic on examination. He is diagnosed to have Stevens-Johnsonsyndrome. Which of the following drugs are implicated in these adverse effects?",
+      "options": {
+        "A": "Phenobarbital",
+        "B": "Lamotrigine",
+        "C": "Topiramate",
+        "D": "Ethosuximide"
+      },
+      "correct_answer": "",
+      "explanation": "Lamotrigine is known to cause such adverse effects in patients.Adverse effects of lamotrigine:• Skin rash⚫ Stevens-Johnson syndrome•• Dizziness•Diplopia•Sedation302• Ataxia• Headache",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following drugs if used can lead to behavioral effects such as aggression?",
+      "options": {
+        "A": "Phenytoin",
+        "B": "Phenobarbitone",
+        "C": "Levetiracetam",
+        "D": "Pregabalin"
+      },
+      "correct_answer": "",
+      "explanation": "Children who are on levetiracetam have a higher risk of developing several behavioral side-effectssuch as aggression, hostility, and nervousness compared to children who do not use levetiracetam.These side effects are seen in less frequency with brivaracetam.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following drug is approved for use in fibromyalgia?",
+      "options": {
+        "A": "Gabapentin",
+        "B": "Pregabalin",
+        "C": "Tiagabine",
+        "D": "Topiramate293"
+      },
+      "correct_answer": "B",
+      "explanation": "Pregabalin is approved for use in fibromyalgia. It is also approved for use in diabetic peripheralneuropathy.Mechanism of analgesic action:• Interacts at the binding site of the alpha, delta subunit of voltage-dependent Ca2+ channels• Correlates with decreased Ca2+ channel function and release of neurotransmitters•• Decreased neurotransmitter release is associated with reduced neuronal hyperexcitability.Options A and C: Gabapentin and tiagabine are also useful in fibromyalgia but are not approvedfor this indication and are used off-label.Option D: Topiramate's efficacy is not encouraging in fibromyalgia and neuropathic pain.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    },
+    {
+      "q_no": 26,
+      "question": "What is the first-line treatment for infantile spasms associated with tuberous sclerosis?",
+      "options": {
+        "A": "ACTH",
+        "B": "Vigabatrin",
+        "C": "Glucocorticoids",
+        "D": "Sodium valproate"
+      },
+      "correct_answer": "B",
+      "explanation": "Vigabatrin is particularly effective in infantile spasms associated with tuberous sclerosis and isconsidered the first-line treatment in this condition.ACTH is considered to be the drug of choice for infantile spasms that are not associated withtuberous sclerosis.303",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-epileptics II"
+    }
+  ]
+}

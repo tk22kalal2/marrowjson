@@ -1,0 +1,155 @@
+{
+  "chapter": "Anti-histamines",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following histamine receptors are presynaptic autoreceptors?",
+      "options": {
+        "A": "H1",
+        "B": "H2",
+        "C": "H3",
+        "D": "H4"
+      },
+      "correct_answer": "C",
+      "explanation": "H3 receptors are presynaptic autoreceptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following will not be seen on the administration of an H3 receptor agonist?",
+      "options": {
+        "A": "Inhibition of H1 receptor induced wakefulness",
+        "B": "Increase in H2 mediated gastric secretionInhibition of H1 mediated bronchoconstrictiond) Negative chronotropic effect on atriaQuestion 3:You are about to prescribe an antihistamine to a patient with allergic rhinitis. You wish toprescribe a second-generation drug as they cause fewer side effects. Which of the followingwill you not choose?a) Olopatidineb) Loratidine",
+        "C": "Cetrizine",
+        "D": "Clemastine"
+      },
+      "correct_answer": "C",
+      "explanation": "H3 receptor agonist decreases H2 mediated gastric secretion.H3 receptors are presynaptic inhibitory autoreceptors on histaminergic neurons. H3 receptoragonists decrease the release of histamine and have actions similar to that of antihistamines.Normally, histamine increases gastric secretion by acting through the H2 receptor in the stomach.H3 receptor agonist decreases histamine release and hence, decreasesH2 receptor-mediated gastric secretion.Options A and C: H1 receptor stimulation by histamine in the CNS causes wakefulness, and atthe bronchus causes bronchoconstriction. Therefore H3 receptor agonists by decreasing histaminerelease inhibit H1 receptor-induced wakefulness and bronchoconstriction.Option D: H3 receptors are also presynaptic heteroreceptors on various neurons and theiractivation can decrease noradrenergic, serotoninergic, cholinergic and glutaminergictransmission. A decrease in noradrenergic transmission in atria can result in a negativechronotropic effect.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    },
+    {
+      "q_no": 4,
+      "question": "A highway truck driver has presented with profuse rhinorrhea and sneezing. Which of thefollowing drugs will you prefer to prescribe to him?",
+      "options": {
+        "A": "Pheniramine731",
+        "B": "Promethazine",
+        "C": "Hydroxyzine",
+        "D": "Fexofenadine"
+      },
+      "correct_answer": "D",
+      "explanation": "The truck driver is suffering from allergic rhinitis and fexofenadine can be prescribed to him. Thisis preferred as it is a second-generation antihistamine having minimal/no sedative effects as itcannot cross the blood-brain barrier easily.Pheniramine, promethazine, and hydroxyzine are first-generation antihistamines which shouldnot be prescribed to drivers and heavy machine workers because they are lipophilic and cross theblood-brain barrier easily and cause sedation.•Highly sedative first-generation antihistamines:Diphenhydramine•Dimenhydrinate•Promethazine• Hydroxyzine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient presents to you with difficulty in writing and performing fine movements. Onexamination, he has a pill-rolling resting tremor. He has been on treatment with haloperidolfor the past 12 years. Which of the following antihistamines would you prefer to prescribe tohim?",
+      "options": {
+        "A": "Chlorpheniramine",
+        "B": "Pheniramine",
+        "C": "Promethazine",
+        "D": "Hydoxyzine"
+      },
+      "correct_answer": "",
+      "explanation": "The scenario points towards a diagnosis of drug-induced Parkinsonism due to long-term intake ofhaloperidol. Promethazine is the preferred antihistamine as it has the strongestanticholinergic (muscarinic blocking) activity among the given options.Drug-induced Parkinsonism is caused by drugs that have D2 dopamine antagonistic action liketypical antipsychotics (e.g. haloperidol). The decrease in dopaminergic activity results in anunbalanced cholinergic activity. Anticholinergics act by restoring balance.First-generation H1 antagonists have anticholinergic properties, while second-generation H1antagonists do not have anticholinergic properties.Hi antagonists having high anticholinergic activity are as follows:• Promethazine• Diphenhydramine•Dimenhydrinate•⚫ Pheniramine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient having persistent allergic rhinitis is on treatment with intranasal steroids. You wishto add an antihistamine to his treatment regimen. He requests an intranasal preparation.Which of the following will you prescribe?",
+      "options": {
+        "A": "Azelastine",
+        "B": "Ebastine",
+        "C": "Fexofenadine",
+        "D": "Mizolastine"
+      },
+      "correct_answer": "A",
+      "explanation": "Azelastine is an antihistamine which has an intranasal preparation for allergic rhinitis.Olopatadine and azelastine are the second generations antihistaminics available as intranasal(nasal spray) preparations for allergic rhinitis. They have good topical activity.736Intranasal corticosteroids (INCS) remain the preferred monotherapy for persistent allergic rhinitis(AR). However, additional studies support the additive benefit of combination treatment withINCS and intranasal antihistamines in AR. For patients receiving INCS, an intranasaldecongestant may be added to the treatment for upto 4 weeks.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    },
+    {
+      "q_no": 7,
+      "question": "Which among the following antihistaminic drugs has additional platelet-activating factorantagonistic property?",
+      "options": {
+        "A": "Fexofenadine",
+        "B": "Cetirizine",
+        "C": "Ebastine",
+        "D": "Rupatadine732"
+      },
+      "correct_answer": "D",
+      "explanation": "Rupatadine is an antihistaminic drug that has additional platelet activating factor antagonisticproperty and is indicated in allergic rhinitis.Platelet-activating factor (PAF) is involved in the pathophysiology of allergic rhinitis, asthma, andanaphylaxis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient with cystic fibrosis was found to be underweight during his regular check-up. Hecomplains of low appetite and you decide to prescribe an appetite-stimulating agent. Whichantihistaminic drug can you prescribe to him?",
+      "options": {
+        "A": "Cyclizine",
+        "B": "Azelastine",
+        "C": "Olapatidine",
+        "D": "Cyproheptadine"
+      },
+      "correct_answer": "D",
+      "explanation": "Cyproheptadine has an appetite-stimulating effect and has been used to promote weight gain inpoor eaters.The appetite-stimulating effect may be due to the H1 antihistaminic effect and an effect on growthhormone secretion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient has presented to your OPD complaining of hearing loss following an attack ofvertigo. He says he has had similar episodes in the past. You decide to prescribe himbetahistine. What is the mechanism of action of this drug?",
+      "options": {
+        "A": "H1 agonist",
+        "B": "H1 antagonist",
+        "C": "H2 agonist",
+        "D": "H2 antagonist"
+      },
+      "correct_answer": "A",
+      "explanation": "The scenario given in the question likely points to a diagnosis of Meniere's disease. Betahistine isa selective H1 agonist used in this condition.It causes vasodilation in the inner ear which improves circulation. Hence, it is used to treatvertigo in Meniere's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient with narcolepsy has been prescribed tiprolisant. How does this drug act?",
+      "options": {
+        "A": "H1 receptor agonism",
+        "B": "H1 receptor inverse agonism",
+        "C": "H3 receptor agonism",
+        "D": "H3 receptor inverse agonism"
+      },
+      "correct_answer": "D",
+      "explanation": "Tiprolisant is a selective H3 receptor - inverse agonist.Tiprolisant promotes wakefulness, improves cognitive functions (e.g., enhances memory, learning,and attention), and reduces food intake. It is also known as pitolisant, and it reduces excessivedaytime sleepiness and cataplexy in adults with narcolepsy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following drugs is used for the treatment of motion sickness?",
+      "options": {
+        "A": "Cetrizine",
+        "B": "Promethazine",
+        "C": "Misolastin733",
+        "D": "Loratidine"
+      },
+      "correct_answer": "B",
+      "explanation": "Promethazine is used for motion sickness. It is an antihistaminic agent that acts as an antagonistof H1 receptors. It also has central anticholinergic activity that is responsible for its antiemetic737action.738",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-histamines"
+    }
+  ]
+}

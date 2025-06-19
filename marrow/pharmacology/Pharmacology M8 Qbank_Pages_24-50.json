@@ -1,0 +1,425 @@
+{
+  "chapter": "Pharmacodynamics",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Neurotransmitters like noradrenaline, adrenaline, and dopamine act on:",
+      "options": {
+        "A": "Single-pass transmembrane receptors",
+        "B": "Nuclear receptors",
+        "C": "Seven-pass transmembrane receptors",
+        "D": "Ligand-gated receptors"
+      },
+      "correct_answer": "C",
+      "explanation": "Neurotransmitters such as noradrenaline, adrenaline, and dopamine primarily act on G protein-coupled receptors, which are characterized by their seven-transmembrane structure.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp1_img1_26507b38.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements is true about G-protein-coupled receptors?",
+      "options": {
+        "A": "G proteins bind to hormones on the cell surface.",
+        "B": "All the three subunits alpha, beta and gamma should bind to each other for G proteins to act.",
+        "C": "G proteins act as inhibitory and excitatory because of differences in the alpha subunit.",
+        "D": "G protein is bound to GTP in resting state."
+      },
+      "correct_answer": "C",
+      "explanation": "G proteins act as inhibitory and excitatory because of differences in the alpha subunit.•-Excitatory Gs and Gq•Inhibitory - GiIn the resting-state:• G protein is a heterotrimer consisting of alpha, beta, and gamma subunits. It forms a complexwith G-protein-coupled receptors at the intracellular domain. The extracellular domain of GPCRhas the binding domain for hormones. G protein subunits do not directly bind them.• The alpha subunit is bound to GDP.Binding of ligand results in activation of GPCR, following which:35•Alpha subunit undergoes a conformational change• Release of GDP and binding of GTP occurs●• GTP bound alpha subunit dissociates from beta-gamma subunit• Both alpha subunit and beta-gamma subunit bind to and regulate effectors only when they areseparated.mG proteincoupled ReceptorAdenylylcyclaseG ProteinATPMARROCAWProtein kinase AOMARROWPhosphorylatedproteinCell response",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp2_img1_f5cad073.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following GPCRs does not act via the K+ channel?",
+      "options": {
+        "A": "Angiotensin 1 receptor",
+        "B": "Muscarinic M2 receptor",
+        "C": "Dopamine D2 receptor",
+        "D": "Serotonin 5-HT1 receptor"
+      },
+      "correct_answer": "A",
+      "explanation": "Angiotensin 1 receptor acts via Ca2+ channels. It does not act through second messengers via the K+ channel. G-protein coupled receptors activate inwardly rectifying potassium channels and increase the permeability of the potassium ions, causing hyperpolarization of the cell. They are called G-protein-coupled inwardly-rectifying potassium channels (GIRKs). These receptors include: M2 muscarinic, A1 adenosine, 2 adrenergic, D2 dopamine, 5HT1 serotonin, and somatostatin receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is an example of a GPCR?",
+      "options": {
+        "A": "Muscarinic",
+        "B": "Nicotinic",
+        "C": "GABA-A24",
+        "D": "Insulin"
+      },
+      "correct_answer": "A",
+      "explanation": "Muscarinic receptors are G-protein-coupled receptors among the given options.M1, M2, M3, M4, and M5 are the muscarinic Ach receptors.36•M1 and M3 act through Gq protein and activate IP3/DAG causing increased cytosolic calcium.• M2 and M4 act through Gi protein and inhibit adenylyl cyclase causing increased potassiumconductance.G protein-coupled receptors-ReceptorGDPG protein(inactive)-LigandG protein(active)OMARROWCell responseGTPNicotinic receptors and GABA-A are examples of ion channel coupled receptors.Ligand-gated ion channelsNeurotransmitterbindsOutside cellInside celllonsNeurotransmitterOMARROWInsulin receptor is a tyrosine kinase receptor.37Channelopens88786700000lons flowacrossmembranePlasmamembraneCytoplasmMARWhen signalling moleculesbind the receptors,the receptors dimerize.TyrosineresiduesMASignaling moleculeTyrosine residues on theintracellular domain arephosphorylated, triggering adownstream cellular response.OMARROWPhosphorylatedtyrosine residuesCellular response",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp4_img1_1cadcb95.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is an ion channel receptor?",
+      "options": {
+        "A": "Nicotinic cholinergic receptor",
+        "B": "Muscarinic cholinergic receptor",
+        "C": "Beta adrenergic receptors",
+        "D": "Opioid receptors"
+      },
+      "correct_answer": "A",
+      "explanation": "Nicotinic cholinergic receptors (both Nm and Nn) are of ligand-gated ion channel type. The binding of a ligand alters the permeability of ion channels directly and brings about biological action. Ligand-gated ion channels: a neurotransmitter binds outside the cell. The binding of the neurotransmitter opens the channel, allowing ions to flow across the membrane. Muscarinic cholinergic, beta-adrenergic, and opioid receptors are G protein-coupled receptors. G protein-coupled receptors: receptor-ligand, MAGDP, G protein (inactive), and GTP lead to a cell response.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp5_img1_9b8910ab.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 6,
+      "question": "All of the following agents act by intracellular receptors except",
+      "options": {
+        "A": "Thyroid hormones",
+        "B": "Vitamin D",
+        "C": "Insulin",
+        "D": "Steroid"
+      },
+      "correct_answer": "",
+      "explanation": "Insulin receptors belong to the class of trans-membrane enzyme-linked receptors.Transmembrane enzyme-linked receptors consist of a large extracellular ligand-binding domain.It is connected to an intracellular subunit having enzymatic property through a singletransmembrane helical peptide chain. The enzyme on the cytosolic side is usually a protein kinase(tyrosine) or membrane-bound GC (guanylyl cyclase).Physiological ligands for transmembrane enzyme-linked receptors are mostly growth factors andchemokines. Other receptors belonging to this class include:•••Receptor tyrosine kinases - Growth factors (PDGF, EGF, VEGF); insulinMembrane-bound GC - Natriuretic peptides• Receptor serine-threonine kinases - TGF-BThyroid hormones, vitamin D, and steroids act via intracellular receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 7,
+      "question": "Which among the following is not a second messenger?",
+      "options": {
+        "A": "Cyclic AMP",
+        "B": "Guanylyl cyclase",
+        "C": "Diacylglycerol",
+        "D": "Inositol triphosphate"
+      },
+      "correct_answer": "B",
+      "explanation": "Guanylyl cyclase is an enzyme that converts GTP to cGMP. It is not a second messenger.Second messengers are:Diacylglycerol• Inositol triphosphate• Cyclic AMP•Cyclic GMP• Calcium39•• Nitric oxide",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following hormones act through the receptor shown in the image below?25PlasmamembraneCytoplasmMARWhen signalling moleculesbind the receptors,the receptors dimerize.Signaling moleculeTyrosineresiduesMA",
+      "options": {
+        "A": "Insulin",
+        "B": "Somatostatin",
+        "C": "Cholecystokinin",
+        "D": "Vasopressin (V1 receptor)Tyrosine residues on theintracellular domain arephosphorylated, triggering adownstream cellular response.Phosphorylatedtyrosine residuesCellular responseOMARROW"
+      },
+      "correct_answer": "A",
+      "explanation": "The receptor in the given image uses tyrosine kinase signaling. Insulin acts through this receptorto exert its functions.Other hormones acting via tyrosine kinase signaling:• Growth hormone• Growth factors like VEGF, PDGF, FGF, NGF• Prolactin• Leptin",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q8_img1_0591e8a8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient with congestive heart failure is being treated with an intravenous infusion of nesiritide. Which of the following receptors does this drug act through?",
+      "options": {
+        "A": "G-protein coupled receptors",
+        "B": "Tyrosine kinase receptors",
+        "C": "JAK-STAT receptors",
+        "D": "Ligand-gated guanylyl cyclase receptor"
+      },
+      "correct_answer": "D",
+      "explanation": "Nesiritide is recombinant B-type natriuretic peptide. Natriuretic peptide receptors are transmembrane ligand-gated guanylyl cyclase receptors. Natriuretic peptides: • Atrial natriuretic peptide (ANP): released from atrial storage granules in response to an increase in intravascular volume. It decreases blood pressure. • Brain natriuretic peptide (BNP): released from ventricular tissue in response to volume overload. Along with a decrease in blood pressure, it is known to reduce cardiac hypertrophy and fibrosis. • C-type natriuretic peptide (CNP): synthesized in the brain and endothelial tissues and functions to stimulate long bone growth. ANP and BNP act on the NPR-A receptor. CNP acts on the NPR-B receptor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 10,
+      "question": "JAK/STAT is a signal transducer for which of the following receptors?",
+      "options": {
+        "A": "G protein coupled receptors",
+        "B": "Ion channels",
+        "C": "Transmembrane receptors",
+        "D": "Nuclear receptors26"
+      },
+      "correct_answer": "A",
+      "explanation": "JAK/STAT is a signal transducer for transmembrane receptors lacking intrinsic enzymatic activity.Interleukin and other cytokines act through such receptors.On binding of the ligand to such receptors:••Receptor dimerization occurs•Increase in affinity for cytosolic JAK (Janus kinase)• Activation of JAK results in phosphorylation of tyrosine residues of the receptor40•Binding of signal transducer and activator of transcription (STAT) and subsequentphosphorylation of STAT• STAT dimerizes and translocates to the nucleus to regulate gene expression, resulting in abiological responseJAK-STAT signaling pathwayCytokinesBinding of ligandJAKMARKDimerization of STATNucleusTranslocationandregulation ofgene expressionGene expressionOMARROWSTATReceptordimerizationBinding ofSTATsignaltransmitterandphosphorylation ofSTAT",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp10_img1_d7e883d2.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 11,
+      "question": "Adrenaline is used to treat histamine-induced bronchoconstriction in a patient with brittleasthma. What is this type of antagonism called?",
+      "options": {
+        "A": "Physiological antagonism",
+        "B": "Chemical antagonism",
+        "C": "Competitive antagonism",
+        "D": "Uncompetitive antagonism"
+      },
+      "correct_answer": "",
+      "explanation": "Adrenaline and histamine are physiological antagonists.Adrenaline and histamine act on bronchial muscles. Histamine acts on H1 receptors and producesbronchoconstriction. Adrenaline acts on ẞ2 receptors and produces bronchodilation. Two drugsacting on different receptors and resulting in opposite responses means having pharmacologicaleffects in the opposite direction. This is called physiological antagonism or functional antagonism.Option B: Chemical antagonism refers to a reaction between two chemicals to neutralize theireffects, such as is seen with chelation therapy.Option C: Competitive antagonism is a type of receptor antagonism that occurs when the agonistand antagonist compete for the same binding site on the receptor.Option D: In uncompetitive inhibition, inhibitors form a complex with an intermediate complex ofthe substrate and transporter. This inhibits subsequent translocation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 12,
+      "question": "Diamox is given to a patient with glaucoma. It is a non-competitive inhibitor of the carbonicanhydrase enzyme. Which of the following would be the effect of this drug?",
+      "options": {
+        "A": "Decrease in Vmax",
+        "B": "Decrease in Km",
+        "C": "Decrease in both Km and Vmax",
+        "D": "No change in Vmax"
+      },
+      "correct_answer": "A",
+      "explanation": "Non-competitive inhibitors cause a decrease in Vmax.In non-competitive inhibition:• The inhibitor binds to the adjacent site and not the catalytic site of the enzyme• The catalytic property of the enzyme is reduced and hence Vmax is decreased41• The affinity of the enzyme is not altered and hence Km is unaltered.Competitive and non-competitive inhibitorsVmaxReaction RateKm-RDifferent VmaxWSubstrate concentrationCompetitive inhibitor⚫ Same Vmax, Different KmNon competitive inhibitor• Same Km, Different VmaxOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp12_img1_cb2e349b.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 13,
+      "question": "Letrozole, a competitive inhibitor of the enzyme aromatase is prescribed to a patient withbreast cancer. Which of the following is true about this type of antagonism?",
+      "options": {
+        "A": "Antagonism cannot be completely reversed by increased dose of the agonist",
+        "B": "An agonist cannot displace an antagonist from the receptor",
+        "C": "Agonists and antagonists bind to the same receptor",
+        "D": "Dose response curve shifts to the left in the presence of an antagonist"
+      },
+      "correct_answer": "",
+      "explanation": "In competitive antagonism, the drug and the antagonist compete to bind to the same site of thereceptor.Agonists if present in high concentration, can displace the antagonists from the active site andovercome the competitive antagonism completely.The dose-response curve in the case of competitive antagonism shifts to the right.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following statements is true regarding the dose-response curve shown in theimage below?2727120100-% of maximal effect4060008880400,5 Effectmax-20---0,5 Effectmax-Drug ADrug BDrug C0.-11-10-9-8-7-6-5-4Log (Agonist)",
+      "options": {
+        "A": "C is competitive antagonist",
+        "B": "C is more potent than A",
+        "C": "B is more potent than A",
+        "D": "B is competitive antagonist"
+      },
+      "correct_answer": "D",
+      "explanation": "In the above image, drug B is a competitive antagonist.In competitive antagonism, the DRC is shifted to the right whereas in non-competitiveantagonism the DRC is flattened.Thus in the above image Drug B is the Competitive antagonist while drug C is the non-competitiveantagonist.Potency:•It is defined as the amount of drug needed to produce a given response.• A highly potent drug evokes a given response at low concentrations and vice-versa.• The more the curve is on the left in a dose-response curve (DRC), the greater is its potency.•Thus, in the above image, the potency is drug A &gt; drug C &gt; drug B.Efficacy:• It is defined as the maximum effect produced by the drug.42• It expresses the effect produced by the receptors when bound by a certain drug.• In the log dose-response curve, the perpendicular height represents the drug efficacy.•Thus, in the above image, the efficacy is drug A = drug B &gt; drug C.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q14_img1_57afe54c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is a true statement regarding inverse agonists?",
+      "options": {
+        "A": "Binds to the receptor and causes maximum action",
+        "B": "Binds to the receptor and causes opposite action to that of agonist",
+        "C": "Binds to the receptor and causes no action",
+        "D": "Binds to the receptor and causes submaximal action"
+      },
+      "correct_answer": "B",
+      "explanation": "Inverse agonists bind to the receptor and cause an action opposite to that of an agonist.The ability of the drug to bind with a receptor is called affinity.The capacity of a drug to induce a functional change in the receptor is called intrinsic activity orefficacy.Type of drugsAgonistsPartial agonistsCompetitive antagonistsInverse agonistsIntrinsic activity1o to 10o to -1",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient with symptoms of psychosis is prescribed aripiprazole. Which of the following bestdescribes this drug?",
+      "options": {
+        "A": "No intrinsic activity and high affinity for D2 receptor",
+        "B": "High intrinsic activity and no affinity for D2 receptor",
+        "C": "Low intrinsic activity and high affinity for D2 receptor",
+        "D": "High intrinsic activity and low affinity for D2 receptor28"
+      },
+      "correct_answer": "",
+      "explanation": "Aripiprazole is a D2 receptor partial agonist. Partial agonists have submaximal or low intrinsicactivity and high affinity.Partial agonists can behave as an antagonist in the presence of an agonist. Partial agonists blockthe binding of the agonist to the receptor thereby inhibiting a complete response.Aripiprazole has lower activity than dopamine at D2 receptors. By occupying and blocking theaction of dopamine on D2 receptors, it acts similar to an antagonist. It is used in conditions likeschizophrenia where dopamine antagonist activity is required.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 17,
+      "question": "What type of antagonism is shown by drugs A and B in the following dose-response curve?Effect >>100%Drug A+Drug B50%Drug A",
+      "options": {
+        "A": "Competitive antagonism",
+        "B": "Noncompetitive antagonism",
+        "C": "Uncompetitive antagonism",
+        "D": "Cannot be determinedAgonist concentrationOMARROW"
+      },
+      "correct_answer": "A",
+      "explanation": "The parallel rightward shift of the agonist dose-response curve (DRC) is seen with competitiveantagonism.Increasing the dose of the agonist can result in the same maximal response.In non-competitive antagonism, there will be flattening of the agonist DRC.43100% Increase in B.P5050°0.1Noncompetitive inhibitionNorEpiDecreased MaxResponseNo Change in EC50NorEpi +PhenoxybenzamineNorEpi +2 X PhenoxybenzamineEC 501.010Norepinephrine (ng/ml)OMARROW100",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q17_img1_042862ce.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp17_img1_67ab42f0.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 18,
+      "question": "The graph below shows the relationship between the log(dose) and the response of threedrugs, A, B, and C. Which of these drugs has the highest potency?29",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "Both A and B",
+        "D": "CReponseLog (Dose)OMARROW"
+      },
+      "correct_answer": "A",
+      "explanation": "Drug A has the highest potency.Potency:•It is defined as the amount of drug needed to produce a given response. A highly potentdrug evokes a given response at low concentrations and vice-versa.•The more the curve is on the left in a dose-response curve (DRC), the greater is its potency.• Thus, in the above image, the potency is Drug A &gt;Drug B&gt; Drug C.Efficacy:• It is defined as the maximum effect produced by the drug. It reflects the capacity of the drug toactivate a receptor and produce the response.• In the log dose-response curve, the perpendicular height represents the drug efficacy..•Thus, in the above image, the efficacy is Drug A = Drug B &gt; Drug C.• Drugs having a similar pharmacological effect can have different efficacies e.g furosemide andmetolazone are both diuretics but furosemide has greater efficacy than metolazone.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q18_img1_9bfac430.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following statements is true about the given dose-response curve?Response",
+      "options": {
+        "A": "Drug B is the most potent.",
+        "B": "Drug B is the most efficacious.Drug BDrug ADrug CDrug DLog drug doseOMARROW30",
+        "C": "Drug C is more efficacious than drug D.",
+        "D": "Drug A is more potent than drug B."
+      },
+      "correct_answer": "A",
+      "explanation": "The more the curve is on the left in a dose-response curve (DRC), the greater is its potency.Hence, Drug B is the most potent.Potency:••It is defined as the amount of drug needed to produce a given response.A highly potent drug evokes a given response at low concentrations and vice-versa.44•In the above image, the potency is Drug B&gt; Drug A &gt; Drug C &gt; Drug D.Efficacy:• It is defined as the maximum effect produced by the drug. It reflects the capacity of the drug toactivate a receptor and produce the response.• In the log dose-response curve, the perpendicular height represents the drug efficacy.•Thus, in the above image, the efficacy is Drug A = Drug C =Drug D &gt; Drug B.• Drugs having a similar pharmacological effect can have different efficacies e.g furosemide andmetolazone are both diuretics but furosemide has greater efficacy than metolazone.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q19_img1_066a6df8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following statements regarding the potency and efficacy of a drug is not true?",
+      "options": {
+        "A": "In a clinical setup, efficacy is more important than potency",
+        "B": "In the log dose response curve, the height of the curve corresponds with efficacy",
+        "C": "ED50 of the drug corresponds to the efficacy",
+        "D": "Drugs that produce a similar pharmacological effect can have different levels of efficacy"
+      },
+      "correct_answer": "",
+      "explanation": "ED50 is a measure of the drug potency, not efficacy.Potency refers to the amount of the drug required to produce a certain response. The xcoordinates (dose axis) on the log dose-response curve (DRC) of a drug represent the potency ofthe drug. A right shift in the DRC indicates a lower potency and vice versa.% response10050Dose-response curves for drugsIncreasing potency, +EC50HighpotencyDrug ADrug BDrug CDrug DLowpotencyEC5000.1110100Drug (nM/L) semi log scaleOMARROWPotency• It is defined as the amount of drug needed to produce a given response.• A highly potent drug evokes a given response at low concentrations and vice-versa.• The efficacy of a drug is a more decisive factor in the choice of a drug in the clinical setting• The more the curve shifts towards the left in a dose-response curve (DRC), the greater is itspotency.• Thus, in the above image, Drug A is more potent. The potency is Drug A &gt; Drug B &gt; DrugC &gt; Drug D.45% response10050Drug efficacy curvesDrug AHighefficacyDrug BDrug CDrug DLowefficacyEC500.11Drug (nM/L) semi log scaleOMARROWIncreasing efficacy, same.EC50Efficacy•••It is defined as the maximum effect produced by the drug.• It expresses the effect produced by the receptors when bound by a certain drug.• It is mainly a factor in choosing the dose of a drug.• In the log dose-response curve, the perpendicular height represents the drug efficacy.•Thus, in the above image, efficacy is Drug A &gt;B &gt; C &gt; D.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q20_img1_6d0c5b71.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp20_img1_b63c0cc5.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following shows a U-shaped dose-response curve?",
+      "options": {
+        "A": "Vitamins",
+        "B": "Anti-cancer drugs",
+        "C": "Steroids",
+        "D": "Chelators"
+      },
+      "correct_answer": "A",
+      "explanation": "Vitamins and essential metals show a U-shaped dose-response curve.At a low dose, adverse effects are observed because there is a deficiency of these nutrients tomaintain homeostasis. As dose increases, homeostasis is achieved, and the bottom of theU-shaped dose-response curve is reached. As the dose increases to surpass the amount required tomaintain homeostasis, toxicity can ensue.Thus, adverse effects are seen at both low and high doses.46AAdverse responseGraph of Adverse response vs DoseDeathThresholdfor adverseresponseRegion ofhomeostasisDoseMARROWHockey stick-shaped dose-response curve for toxicants that are also metabolic by-products.Dose-response curveResponseAdverseresponsethreshold-DoseOMARROWHockey-stick shapedAdverseresponseInverted U-shaped dose-response curve for ligands that downregulate their receptors.47Dose-response curve - Inverted U-shapedMaximalresponseMARROWDoseOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp21_img1_090c2580.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 22,
+      "question": "What does the area between the dotted lines in this graph indicate?Percentage ofpatients responding10050AR12346Concentration of drugin plasma (ng/ml)Therapeutic response- Adverse effectsOMARROWW31",
+      "options": {
+        "A": "Median effective dose",
+        "B": "Median lethal dose",
+        "C": "Therapeutic index",
+        "D": "Therapeutic window"
+      },
+      "correct_answer": "",
+      "explanation": "The area between the dotted lines in the graph shows the therapeutic window. It is the range ofsteady-state concentrations of a drug that provides therapeutic efficacy with minimal toxicity.The therapeutic index (TI) describes a relationship between the doses of a drug that causes lethalor toxic effects with the dose that causes therapeutic effects. It is also called the therapeutic ratio.Mathematically, you can calculate TI by following way:Therapeutic Index = LD50/ED50 (or) Therapeutic Index = TD50/ED50Where,.• LD50 (Median Lethal dose) is the minimum amount of drug that causes adverse effects in 50%of the population. LD50 could also be replaced with Toxic dose (TD50).ED50 (Median Effective dose) is the quantity of a drug that can produce desired therapeuticeffects in 50% of the population.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q22_img1_f842e258.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 23,
+      "question": "Therapeutic index is used for assessing which of the following factors?",
+      "options": {
+        "A": "Safety",
+        "B": "Efficacy",
+        "C": "Potency",
+        "D": "Toxicity"
+      },
+      "correct_answer": "D",
+      "explanation": "Therapeutic index is used to assess the safety of the drug administered.Therapeutic index = TD50/ED50• TD50 (Median toxic dose) = Dose required to produce a toxic effect in 50% of animals tested.• ED50 (Median effect dose) = Dose required to produce a therapeutic effect in 50% of theindividuals.Option B: Efficacy is defined as the maximum effect produced by the drug. It expresses the effectproduced by the receptors when bound by a certain drug.48Option C: Potency refers to the concentration (EC50) or dose (ED50) required to produce 50% ofmaximum effect where EC50 is the concentration of agonist resulting in a half-maximal response.Option D: Median toxic dose is the dose required to produce a toxic effect in 50% of animalstested. Lethal dose is the dose required to kill 50% of animals tested.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 24,
+      "question": "Therapeutic index is calculated with which of the following equations?",
+      "options": {
+        "A": "ED50/LD50",
+        "B": "LD50/ED50",
+        "C": "ED50-LD50",
+        "D": "ED50 X LD50"
+      },
+      "correct_answer": "B",
+      "explanation": "Therapeutic index is calculated with the following equation = LD50/ED50.Therapeutic index is used to assess the safety of the drug administered.LD50 (median lethal dose) refers to the dose of the drug at which 50% of the experimentalanimals die. Larger the LD50, the safer the drug. In humans, TD50 is considered. TD50 refers tothe dose of the drug that causes a toxic response in 50% of the population.ED50 (median effective dose) refers to the dose of the drug at which 50% of the experimentalanimals show the specific or desired effectClinically, the therapeutic range bound by the dose that produces the minimal necessarytherapeutic effect and the dose that produces the maximal acceptable adverse effect is morerelevant.Dose-response curve - Therapeutic indexPercentage of individualsresponding 100%50",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp24_img1_b703c480.jpeg",
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 25,
+      "question": "Calculate the therapeutic index of a drug whose dose-response curves are plotted as shownbelow:32",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "8Percent of individuals responding100Hypnosis80Death6040TARROW200ED50501004008001600LD1 ED99 LD50200Dose (mg)OMARROW"
+      },
+      "correct_answer": "",
+      "explanation": "The therapeutic index is 4.In the above graph,Median lethal dose (LD50) = 400TherapeuticeffectMedian effective dose (ED50) = 100ED50TherapeuticindexTD50Therapeutic index (TI)=LD50ED50OMARROWToxiceffect49Therapeutic index (TI) = LD50/ED50.Hence,Therapeutic index (TI) = 400/100 = 4Clinically, the therapeutic range bound by the dose that produces the minimal therapeutic effectand the dose that produces the maximal acceptable adverse effect is more relevant.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q25_img1_d77996b5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 26,
+      "question": "Therapeutic drug monitoring is required in all except",
+      "options": {
+        "A": "Phenytoin",
+        "B": "Metformin",
+        "C": "Tacrolimus",
+        "D": "Cylcosporine"
+      },
+      "correct_answer": "",
+      "explanation": "Metformin does not require therapeutic monitoring because it does not have a narrow therapeuticindex and the effect on blood sugar levels can be easily measured.Phenytoin, tacrolimus, and cyclosporine have the narrow therapeutic index and therapeuticmonitoring is necessary to avoid adverse effects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following statements about pharmacogenetics is correct?",
+      "options": {
+        "A": "It refers to the effect of drugs on genetic expression",
+        "B": "It refers to the genetic basis of variability in drug response",
+        "C": "It is not synonymous with pharmacogenomics",
+        "D": "Drug metabolism is not a highly heritable trait33"
+      },
+      "correct_answer": "",
+      "explanation": "Pharmacogenetics is the study of the genetic basis for variability in drug action.Genetic differences cause variability in the dose-response curve (DRC) due to alteration in drugaction and disposition in the body.The term is used interchangeably with pharmacogenomics.Drug metabolism is highly heritable, as assessed using drug exposure studies in monozygoticversus fraternal twins and from other related subjects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    },
+    {
+      "q_no": 28,
+      "question": "A 23-year-old male is diagnosed with G6PD deficiency. Which of the following drugs is notcontraindicated in his condition?",
+      "options": {
+        "A": "Cotrimoxazole",
+        "B": "Proguanil",
+        "C": "Nalidixic acid",
+        "D": "Ceftriaxone"
+      },
+      "correct_answer": "D",
+      "explanation": "Ceftriaxone is not contraindicated in G6PD deficient individuals as it does not possess oxidizingproperty, hence there is no hemolysis.Drugs having the potential to cause hemolysis in G6PD deficient individuals:• Anti-malarials - Primaquine, chloroquine, quinine, pyrimethamine, proguanil• Sulfonamides - Cotrimoxazole• Fluoroquinolones - Nalidixic acid.•Nitro furan antibacterial - Furazolidone, nitrofurantoin• Anti-hypertensives - Methyldopa, hydralazine• Anti-convulsants - Phenytoin•• Anti-arrythmics - Procainamide50",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacodynamics"
+    }
+  ]
+}

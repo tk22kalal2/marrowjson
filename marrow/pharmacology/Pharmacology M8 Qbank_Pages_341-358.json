@@ -1,0 +1,395 @@
+{
+  "chapter": "Antidepressant and Antianxiety Drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following best describes the mechanism of action of antidepressants?",
+      "options": {
+        "A": "Change in neurotransmitter receptor sensitivity",
+        "B": "Decrease in level of neurotransmitters",
+        "C": "Change in efficacy of neurotransmitters",
+        "D": "Increase the reuptake of neurotransmitters"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "Moclobemide belongs to which class of drugs?",
+      "options": {
+        "A": "SSRI",
+        "B": "SNRI",
+        "C": "MAO inhibitor",
+        "D": "Tricyclic antidepressant"
+      },
+      "correct_answer": "C",
+      "explanation": "Moclobemide is a reversible and selective inhibitor of the MAO-A enzyme.Monoamine hypothesis states that in depression, there is a decrease in monoamines like serotonin(5HT) and norepinephrine. These monoamines are metabolized by the enzyme monoamineoxidase (MAO). MAO inhibitors, therefore, increase these monoamines by inhibiting the enzyme.The various classes of drugs used in depression and anxiety are listed below:Class of drugsSelective serotonin reuptake inhibitors (SSRI)Serotonin-norepinephrine reuptake inhibitorsTricyclic antidepressantsExamplesFluoxetine FluvoxamineParoxetineSertralineCitalopramVenlafaxineDesvenlafaxineDuloxetine MilnacipranAtypical antipsychoticsAmitriptylineImipramineNortriptylineDesipramineAmoxapineAripiprazoleOlanzapineQuetiapineRisperidoneMonoamine oxidase inhibitor IsocarboxazidSelegilinePhenes (MAO)lzine MoclobemideAtypical antidepressants",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is a selective MAO-B inhibitor?",
+      "options": {
+        "A": "Moclobemide",
+        "B": "Isocarboxazid",
+        "C": "Phenelzine",
+        "D": "Selegiline"
+      },
+      "correct_answer": "D",
+      "explanation": "Selegiline is a selective MAO-B inhibitor.Bupropion Trazodone MirtazapineMianserinNonselective MAO inhibitorsPhenelzineIsocarboxazidTranylcypromineSelective MAO inhibitorsMAO-A inhibitors Moclobe-mideMAO-B inhibitors - Selegiline, Rasagiline349",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "In which of the following patients is transdermal selegiline approved for use?",
+      "options": {
+        "A": "30-year-old man with obsessive compulsive disorder",
+        "B": "64-year-old man with Parkinson's disease",
+        "C": "29-year-old woman with depression341",
+        "D": "33-year-old woman with generalized anxiety disorder"
+      },
+      "correct_answer": "",
+      "explanation": "Selegiline transdermal patch is approved for depression. The transdermal patch provides the highconcentration required for antidepressant action. At higher doses, MAO-A is also inhibited and ishighly effective in depression.Selegiline is a selective MAO-B inhibitor at low doses. It is used in Parkinson's disease at lowdoses, administered orally.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 5,
+      "question": "A college student on MAO inhibitor therapy for depression consumed two bottles of beerduring a party. The next day he started experiencing severe headache, nausea, and vomiting.He was taken to the casualty by his friends where his BP was recorded to be 180/110mmHg.Which of the following compounds would be responsible for this complication?",
+      "options": {
+        "A": "Tyramine",
+        "B": "Tyrptophan",
+        "C": "Threonine",
+        "D": "Thiamine"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical presentation of a hypertensive crisis in a patient on MAO inhibitor therapy issuggestive of cheese reaction, which is seen after consumption of foods rich in tyramine (beer).Tyramine is an indirect sympathomimetic. It induces the release of catecholamines from theneurons. Tyramine can be produced in high concentrations in protein-rich foods bydecarboxylation of tyrosine during fermentation.Normally tyramine is inactivated when taken orally because it is readily metabolized by MAO inthe liver. In patients who are on MAO inhibitor therapy, the tyramine taken in the diet is notinactivated and results in its increased sympathomimetic effect resulting in elevated bloodpressure, termed as hypertensive crisis or cheese reaction. Drug of choice for cheese reaction is IVphentolamine.When MAO inhibitors are taken along with SSRI or TCA, it results in serotonin syndrome due tothe overstimulation of 5HT receptors. The clinical features are a triad of:•Cognitive effect - delirium, coma•Autonomic effects- hypertension, tachycardia• Somatic effects- myoclonus, hyperreflexia, tremors350Cheese reactionDOC → PhentolamineCheese, beer, red wine, and banana contain tyramineIn the presence of MAO-I, it escapes degradationMAReaches systemic circulationUptake by adrenergic neuronWEnters storage vesicles and displaces NEHypertensive crisisOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp5_img1_3e5bc82f.jpeg",
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient presents to the medicine OPD with hypertension. He is already on imipramine fordepression. Which of the following antihypertensive drugs will not be effective in him?",
+      "options": {
+        "A": "Enalapril",
+        "B": "Atenolol",
+        "C": "Diltiazem",
+        "D": "Clonidine"
+      },
+      "correct_answer": "",
+      "explanation": "Clonidine will not be effective in this patient.Imipramine, a tricyclic antidepressant would abolish the antihypertensive effect of clonidine, byinhibiting its transport into the adrenergic neurons.Side effects of tricyclic antidepressants:Receptor blockedSide effectsMuscarinic receptorAnticholinergic - Dry mouth,dilated pupils, tachycardia, urinary retentionAlpha 1 adrenergic receptor Drowsiness, postural hypotension, sexual dysfunctionH1 receptorWeight gain, drowsiness",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "Which tricyclic antidepressant has an additional dopaminergic receptor antagonist action?",
+      "options": {
+        "A": "Clomipramine",
+        "B": "Doxepin",
+        "C": "Imipramine",
+        "D": "Amoxapine"
+      },
+      "correct_answer": "",
+      "explanation": "The tricyclic antidepressant having an additional dopaminergic receptor antagonist action isamoxapine.Tricyclic antidepressants block the transporter of norepinephrine (NET) and serotonin (SERT)thereby preventing their uptake. Some of the TCA additionally block other receptors like alpha 1,H1, and M1.⚫ TCA blocking NET selectively - desipramine, nortriptyline, amoxapine.• TCA blocking both NET and SERT equally - imipramine, amitriptyline.351Clomipramine, doxepin, and imipramine are tertiary amines and do not possess anydopaminergic antagonist effect.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following antidepressants can be used for the treatment of a 6-year-old childdiagnosed with nocturnal enuresis?342",
+      "options": {
+        "A": "Imipramine",
+        "B": "Amitriptyline",
+        "C": "Desipramine",
+        "D": "Clomipramine"
+      },
+      "correct_answer": "",
+      "explanation": "Imipramine is a tricyclic antidepressant that can be used for the treatment of nocturnal enuresis.In children above 5 years, imipramine 25 mg at bedtime is effective for nocturnal enuresis.Intranasal desmopressin is also effective in the treatment of nocturnal enuresis.Option B: Amitriptyline is used in postherpetic neuralgia. It is also used in neuropathic pain.Option C: Desipramine is used in the treatment of cocaine dependence.Option D: Clomipramine is the best TCA for OCD.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following side effects of tricyclic antidepressants are correctly matched to thereceptor involved in their pathogenesis?",
+      "options": {
+        "A": "1, 4 and 5",
+        "B": "1, 2 and 3",
+        "C": "3, 4 and 5",
+        "D": "4 and 5 only"
+      },
+      "correct_answer": "A",
+      "explanation": "The blockade of H1, alpha1, and muscarinic receptors causes sedation, postural hypotension, andconstipation respectively.Tricyclic antidepressants (TCAs) are drugs that act by inhibiting the reuptake of noradrenalineand serotonin from the synaptic clefts.The side effects of TCAs are due to blockade of other receptors:• Muscarinic (M) receptors: constipation, dry mouth (not sialorrhea), arrhythmia•• Histamine (H1) receptors: sedation• 5HT receptors: weight gain due to increased appetiteAlpha1 receptors: postural hypotension",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "A 30-year-old woman having depression took multiple tablets of amitriptyline in an attemptto commit suicide. Which of the following statements regarding the management is incorrect?",
+      "options": {
+        "A": "Physostigmine is not recommended",
+        "B": "Sodium bicarbonate should be administered to treat acidosis",
+        "C": "Atropine sulphate should be administered as an antidote",
+        "D": "Diazepam should be injected to control seizures"
+      },
+      "correct_answer": "",
+      "explanation": "Tricyclic antidepressants like amitriptyline are competitive antagonists of muscarinic receptors.Atropine being an antimuscarinic drug should not be administered.Tricyclic antidepressant overdose presents with anticholinergic effects. Hypotension occursbecause of alpha1 receptor blockade.TCAs act on Na+ channels and cause slowed conduction and depressed cardiac contractilityresulting in serious arrhythmias. Seizures and agitation may occur followed by depression.Management of TCA overdose:• Initial resuscitation by securing airway, breathing, and circulation..• Hypotension - IV fluids and norepinephrine infusion.352• Cardiac-depressant effects - bolus dose of sodium bicarbonate helps overcome Na+ blockade byincreasing extracellular Na+. It also addresses metabolic acidosis which is often present.• Arrhythmias - lignocaine for ventricular arrhythmias.•Seizures benzodiazepines like diazepam/lorazepam.-Physostigmine can reverse anticholinergic effects but can aggravate cardiac depression and causeseizures. Therefore physostigmine is not recommended.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 11,
+      "question": "A psychiatrist plans to prescribe an SSRI to a patient diagnosed with generalized anxietydisorder. Which of the following was not likely prescribed?",
+      "options": {
+        "A": "Fluoxetine",
+        "B": "Citalopram",
+        "C": "Paroxetine",
+        "D": "Duloxetine"
+      },
+      "correct_answer": "",
+      "explanation": "Duloxetine is not an SSRI but a serotonin-norepinephrine reuptake inhibitor (SNRI). It blocks theuptake of both serotonin and norepinephrine.The selective serotonin reuptake inhibitors (SSRIs) are:• Fluoxetine• Fluvoxamine•Citalopram•Escitalopram• Sertraline• Dapoxetine• Paroxetine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 12,
+      "question": "343In a middle-aged man with a history of closed-angle glaucoma, which of the following SNRIsshould be avoided?",
+      "options": {
+        "A": "Venlafaxine",
+        "B": "Duloxetine",
+        "C": "Desvenlafaxine",
+        "D": "Fluoxetine"
+      },
+      "correct_answer": "",
+      "explanation": "Duloxetine should be avoided as it is contraindicated in patients with closed-angleglaucoma. SNRIs like duloxetine and milnacipran have anticholinergic side effects likemydriasis which can precipitate closed-angle glaucoma attacks.Duloxetine is the longest-acting SNRI with no withdrawal symptoms. In addition to the treatmentof depression and anxiety, it is also used in fibromyalgia, peripheral neuropathy, and stressincontinence.Option A: Venlafaxine is the shortest acting SNRI with the maximum risk of withdrawalsymptoms. It is approved for use in PTSD, panic disorder, and depression associated withhypotension. It is contraindicated in pregnancy.Option C: Desvenlafaxine is a longer-acting SNRI and hence has lesser risk of withdrawalsymptoms.Option D: Fluoxetine is an SSRI, not an SNRI. It is avoided as it can cause mydriasis and narrowthe angle.353",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 13,
+      "question": "A 27-year-old man on antidepressant therapy with TCAs for the past five years is beingswitched to SSRIs. Which of the following would not be an advantage of this change?",
+      "options": {
+        "A": "Minimal lowering of seizure threshold",
+        "B": "Minimal anticholinergic side effects",
+        "C": "Minimal sexual dysfunction",
+        "D": "Minimal sedation"
+      },
+      "correct_answer": "",
+      "explanation": "SSRIs have a higher incidence of sexual dysfunction when compared to TCAs.SSRI-induced sexual dysfunction can result in loss of libido, delayed ejaculation, and interferencewith orgasm.Option A: The potential of SSRIs to lower the seizure threshold is less than that of TCAs.Options B and D: SSRIs have a selective action on serotonin reuptake with no effect on cholinergicor histaminergic receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 14,
+      "question": "Selective serotonin reuptake inhibitors are not the drug of choice in which of the followingpatients?",
+      "options": {
+        "A": "A college student with an acute panic attack",
+        "B": "An adolescent girl with social phobia",
+        "C": "A young lady with post traumatic stress disorder",
+        "D": "A middle-aged-man with generalized anxiety disorder"
+      },
+      "correct_answer": "A",
+      "explanation": "In acute panic attacks, benzodiazepines or propranolol are the preferred anxiolytics. SSRIs are notthe drug of choice as they have a long latent period before beneficial effects are seen.SSRIs are considered as the drug of choice for:• Social anxiety disorder• Post-traumatic stress disorder• Generalized anxiety disorder• Obsessive-compulsive disorder",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient diagnosed with depression has improved symptomatically after initiating SSRIs. Ondiscontinuing the drug, he became irritable and complained of insomnia, nausea, and flu-likesymptoms. Which of the following drugs has the least risk of causing these symptoms?",
+      "options": {
+        "A": "Paroxetine",
+        "B": "Fluoxetine",
+        "C": "Sertraline",
+        "D": "Fluvoxamine344"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical presentation is suggestive of drug discontinuation or withdrawal symptomswhich are seen after sudden discontinuation of SSRIs. Fluoxetine has the least risk of causingdrug-discontinuation symptoms.Drug discontinuation symptoms of SSRIs are:• Nausea• Paresthesia• Flu-like symptoms• Insomnia• Irritability• Fatigue.Withdrawal is least with fluoxetine as its metabolite norfluoxetine has the longest half-life. Thusthe plasma level of norfluoxetine is maintained for a long time even after stopping the drug,minimizing withdrawal symptoms. Withdrawal is seen maximum with paroxetine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 16,
+      "question": "A young man with obsessive-compulsive disorder is taking SSRIs. Which of the followingadverse effects would you not expect in him?",
+      "options": {
+        "A": "Diarrhea",
+        "B": "Nausea",
+        "C": "Weight loss",
+        "D": "Loss of libido"
+      },
+      "correct_answer": "",
+      "explanation": "354Weight loss is not an adverse effect of SSRIs.Side effects of SSRIS:•• Nausea and diarrhea (early)• Loss of libido•Erectile dysfunction• Headache•Sleep disturbances insomnia or hypersomnia.-",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following drugs is a serotonin receptor antagonist?",
+      "options": {
+        "A": "Milnacipran",
+        "B": "Trazodone",
+        "C": "Citalopram",
+        "D": "Fluoxetine"
+      },
+      "correct_answer": "B",
+      "explanation": "Trazodone is a serotonin receptor antagonist.Trazodone blocks postsynaptic 5HT2A receptors and is considered an atypical antidepressant. Ithas weak serotonin reuptake inhibitory effect.Nefazodone is another serotonin receptor antagonist.Option A: Milnacipran is a serotonin and norepinephrine reuptake inhibitor.Options C and D: Citalopram and fluoxetine are selective serotonin reuptake inhibitors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following drugs inhibit dopamine and noradrenaline reuptake?",
+      "options": {
+        "A": "Clozapine",
+        "B": "Bupropion",
+        "C": "Zolpidem",
+        "D": "Mirtazapine"
+      },
+      "correct_answer": "B",
+      "explanation": "Bupropion is an atypical antidepressant that inhibits the reuptake of noradrenaline anddopamine.Indications of bupropion are:• Prevention of a seasonal depressive disorder•Smoking cessation• ADHD• Peripheral neuropathyOption A Clozapine is an atypical antipsychotic that selectively blocks dopamine (D4) receptorsin the brain.Option C: Zolpidem - It is a nonbenzodiazepine hypnotic. It acts as a selective agonist inbenzodiazepine receptor.Option D: Mirtazapine - block histamine (H1) receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 19,
+      "question": "A young woman diagnosed with major depressive disorder is refractory to first-lineantidepressant therapy. The psychiatrist now decides to prescribe a recently approved NMDAantagonist. Which of the following was most likely prescribed?",
+      "options": {
+        "A": "Brexanolone",
+        "B": "Esketamine",
+        "C": "Lurasidone345",
+        "D": "Lemborexant"
+      },
+      "correct_answer": "B",
+      "explanation": "355Esketamine is an NMDA antagonist recently approved for the treatment oftreatment-resistant depression.Esketamine is a non-selective, non-competitive antagonist of the NMDA receptor, an ionotropicglutamate receptor. Though the exact mechanism by which it acts as an antidepressant isunknown, a single dose of intranasal Esketamine has shown to have short-term antidepressantefficacy suggesting a possible use in suicidality.Option A: Brexanolone has GABAA modulatory action. It is given via intravenous route forpost-partum depression.Option C: Lurasidone is a second-generation antipsychotic that is an antagonist at dopamine (D2)and serotonin (5-HT2A) receptors. It is approved for use in depressive episodes in bipolardisorder.Option D: Lemborexant is an orexin receptor antagonist indicated for the treatment of adultpatients with insomnia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 20,
+      "question": "A 30-year-old married man complains of low energy and lack of motivation. He mentions thathe feels useless and has no hope for the future. He is willing to take medication but isapprehensive about its side effects on his sexual life. Which of the following drugs would youprescribe to him?",
+      "options": {
+        "A": "Fluoxetine",
+        "B": "Venlafaxine",
+        "C": "Mirtazapine",
+        "D": "Imipramine"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical presentation is suggestive of depression. Mirtazapine can be prescribed to thispatient as sexual dysfunction is not a side effect associated with its use.Mirtazapine and mianserin block histamine (H1) receptors, and also have high antagonisticactivity against 5HT2A, 5HT2C, and 5HT3 receptors.Due to its sedative effect, mirtazapine is also used in depression with insomnia.Option A: Fluoxetine is an SSRI that can cause side effects like GI disturbances, risk of suicidalbehavior, sexual dysfunction, and weight gain. Vilazodone is an SSRI that is not associated withsexual dysfunction or weight gain.Option B: SNRIs like venlafaxine have side effects that include nausea, dizziness, sexualdysfunction, and risk of suicidal thoughts or behavior.Option D: TCAs like imipramine have side effects like orthostatic hypotension, weight gain, GIdisturbances, sexual dysfunction, seizures, and irregular heartbeats.The various classes of drugs used in depression and anxiety are listed belowClass of drugsExamplesSelective serotonin reuptake i FluoxetineFluvoxamineParoxnhibitors (SSRI)etineSertralineCitalopramSerotonin-norepinephrine reVenlafaxineDesvenlafaxineDuptake inhibitorsuloxetine MilnacipranTricyclic antidepressantsAmitriptylineImipramineNortriptylineDesipramineAmoxapineAtypical antipsychoticsAripiprazoleOlanzapineQuetiapineRisperidone356Class of drugsExamplesIzineMonoamine oxidase inhibitor IsocarboxazidSelegilinePhenes (MAO)Atypical antidepressantsBupropionTrazodoneMirtazapineMianserin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 21,
+      "question": "Which group does the antianxiety drug buspirone belong to?",
+      "options": {
+        "A": "Partial antagonist of 5-HT 1A",
+        "B": "Partial agonist of 5-HT 1A",
+        "C": "Partial antagonist of 5-HT 2A",
+        "D": "Partial agonist of 5-HT 2A"
+      },
+      "correct_answer": "B",
+      "explanation": "The antianxiety drug buspirone is a partial agonist of 5-HT1A receptors. The most importantlocations of the 5-HT1A receptor are raphe nuclei of brainstem and hippocampus.It mimics the antianxiety properties of benzodiazepines but does not interact with GABAAreceptors or display the sedative and anticonvulsant properties of benzodiazepines. Buspirone isprimarily used in the treatment of generalized anxiety disorder.5-HT1A partial agonists are:•⚫ Buspirone•Gepirone•Ipsapirone",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 22,
+      "question": "A psychiatry resident should not prescribe a tricyclic antidepressant to a patient having whichof the following co-morbidities?",
+      "options": {
+        "A": "Essential hypertension",
+        "B": "Asthma",
+        "C": "Narrow angle glaucoma",
+        "D": "Increased intracranial tension"
+      },
+      "correct_answer": "",
+      "explanation": "Tricyclic antidepressants produce anticholinergic effects of pupillary dilatation and are thus,contraindicated in narrow-angle glaucoma.Side effects of tricyclic antidepressants:Receptor blockedMuscarinic receptorSide effectAnticholinergic- dry mouth,dilated pupils, tachycardia, urinary retentionAlpha 1 adrenergic receptor Drowsiness, postural hypotenH1 receptorsion, sexual dysfunctionWeight gain, drowsiness",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 23,
+      "question": "A 35-year-old man was admitted to the emergency ward with priapism lasting for about 7hours. A detailed history revealed the initiation of a drug for a mood disorder by a346psychiatrist 3 weeks ago. Which of the following drugs is responsible for his condition?",
+      "options": {
+        "A": "Trazodone",
+        "B": "Venlafaxine",
+        "C": "Bupropion",
+        "D": "Mirtazapine"
+      },
+      "correct_answer": "A",
+      "explanation": "Trazadone causes priapism. Intracavernous injection of phenylephrine can be used to treatpriapism.357",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 24,
+      "question": "A man feels frustrated because of his wife's decreased sexual desire. She was recentlydiagnosed with depression and started on a drug for the same. Which of the following drugswas most likely prescribed?",
+      "options": {
+        "A": "Fluoxetine",
+        "B": "Mirtazapine",
+        "C": "Bupropion",
+        "D": "Trazodone"
+      },
+      "correct_answer": "A",
+      "explanation": "Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) that is associated with the side effectof sexual dysfunction.Fluoxetine is used in the treatment of major depression, obsessive-compulsive disorder,post-traumatic stress disorder, bulimia and anorexia nervosa, generalized anxiety disorders, andpremenstrual dysphoric disorder.Other adverse effects include dry mouth, urinary retention, insomnia, GI disturbances, risk ofsuicidal behavior, and weight gain.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following is not an adverse effect of escitalopram?",
+      "options": {
+        "A": "Nausea",
+        "B": "Vivid dreams",
+        "C": "Anorgasmia",
+        "D": "Sialorrhoea"
+      },
+      "correct_answer": "D",
+      "explanation": "Sialorrhoea is not an adverse effect of escitalopram.Escitalopram is a selective serotonin reuptake inhibitor (SSRI) mainly used to treat majordepressive disorder or generalized anxiety disorder.Nausea is the commonest side effect of SSRIs as they target the 5HT3 receptor.Vivid dreams may occur because the drug suppresses REM sleep (the stage of dream), hence whenpatients eventually fall into REM sleep it may be more intense.Anorgasmia is the persistent inability to achieve orgasm despite responding to sexual stimulation.A proposed mechanism of escitalopram causing sexual dysfunction involves stimulation of the5HT2C receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    },
+    {
+      "q_no": 26,
+      "question": "In children and adolescents treated with an SSRI, there appears to be an increased risk ofparticular ideations. Clinicians are therefore advised to remain vigilant of which of thefollowing?",
+      "options": {
+        "A": "Nihilistic ideations",
+        "B": "Schizotypal ideations",
+        "C": "Suicidal ideations",
+        "D": "Homicidal ideations347Solution to"
+      },
+      "correct_answer": "C",
+      "explanation": "Selective serotonin reuptake inhibitors (SSRIs) should be used carefully in the young for themanagement of depression due to increased suicidal ideation. In children and adolescents, thereappears to be a slightly increased risk of suicidal ideations and attempts, but not of completedsuicide.Somatic symptoms of depression improve faster than psychological symptoms when a patient isstarted on SSRIs and hence patients have the energy to act on their thoughts of deliberateself-harm and suicide (paradoxical suicide).358",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antidepressant and Antianxiety Drugs"
+    }
+  ]
+}

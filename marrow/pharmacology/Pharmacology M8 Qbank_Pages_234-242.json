@@ -1,0 +1,170 @@
+{
+  "chapter": "Hypolipidemic Drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 58-year-old patient with coronary artery disease has a deranged lipid profile and is startedon statins. Which enzyme does this drug act on?",
+      "options": {
+        "A": "Acyl coA synthase",
+        "B": "Acyl coA reductase",
+        "C": "HMG coA synthetase",
+        "D": "HMG coA reductase"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp1_img1_86acc737.jpeg",
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "Hepatic cholesterol synthesis is maximal between midnight and 2 am. So most of the statinsare preferably administered in the evening for maximal effect. Which statin can be takenirrespective of the time of the day?",
+      "options": {
+        "A": "Simvastatin",
+        "B": "Pravastatin",
+        "C": "Atorvastatin",
+        "D": "Lovastatin"
+      },
+      "correct_answer": "C",
+      "explanation": "Atorvastatin has a longer half-life (19 ± 9 hours) and may be taken at any time of the day.Other drugs that can be taken irrespective of the time of day:• Rosuvastatin - has a half-life of 20 ± 6 hours•-Pitavastatin has a half-life of 12 hoursAll other statins, which have a plasma half-life of around 4 hours or less, should preferably beadministered in the evening.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient with hypercholesterolemia on statin therapy presents to your OPD for follow-up.You notice his cholesterol is still high and decide to add on another drug that directly inhibitsthe absorption of cholesterol. Which of the following will you prescribe?",
+      "options": {
+        "A": "Ezetimibe",
+        "B": "Orlistat",
+        "C": "Cholestyramine",
+        "D": "Niacin"
+      },
+      "correct_answer": "A",
+      "explanation": "Ezetimibe is the drug that prevents hypercholesterolemia by directly inhibiting the absorption ofcholesterol.Ezetimibe acts by interfering with a specific cholesterol transport protein NPC1L1 in the intestinalmucosa and reduces the absorption of both dietary and biliary cholesterol. It causesa compensatory increase in hepatic cholesterol synthesis but LDL cholesterol is decreased. Statinsblock this enhanced cholesterol synthesis (cholesterol synthesis inhibitors) and so theircombination has a synergistic effect.Option B: Orlistat is an anti-obesity drug that acts by inhibiting pancreatic and gastric lipase andthus interferes with the digestion and absorption of dietary triglycerides.Option C: Cholestyramine is a bile acid sequestrant. The bile-acid sequestrants are highlypositively charged and bind negatively charged bile acids. Because of their large size, the resinsare not absorbed, and the bound bile acids are excreted in the stool.Cholestyramine primarily reduces LDL levels by increasing hepatic bile acid synthesis; whichresults in increased LDL uptake and diversion of cholesterol to bile acid production.Option D: Niacin reduces lipolysis by hormone-sensitive lipase (HSL) and reduces hepatictriglyceride synthesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "234Which drug decreases Lipoprotein(",
+      "options": {
+        "A": "?a) Fenofibrate",
+        "B": "Niacin",
+        "C": "Gemfibrozil",
+        "D": "Colestipol"
+      },
+      "correct_answer": "B",
+      "explanation": "The drug that decreases Lipoprotein(a) is niacin.Niacin is the only lipid-lowering agent that lowers lipoprotein(a) levels significantly. It also resultsin a decrease in LDL, VLDL, and triglycerides along with an increase in HDL cholesterol.The main adverse effect of niacin is cutaneous flushing and pruritus which can be controlled bypretreatment with aspirin. Niacin can also cause hepatotoxicity, GI toxicity, and hyperuricemia.238",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following drugs would you warn a patient taking statins against, due to thehighest risk of myopathy?",
+      "options": {
+        "A": "Fenofibrate",
+        "B": "Gemfibrozil",
+        "C": "Colestipol",
+        "D": "Niacin"
+      },
+      "correct_answer": "",
+      "explanation": "Myopathy risk is highest when statins are used along with gemfibrozil.Gemfibrozil is a fibrate that inhibits the uptake of statins into the hepatocytes and prevents itsmetabolism, thereby increasing its bioavailability. Thus, the risk of toxicity of statins increases.Other drugs interacting similarly with statins include:•Cyclosporine•Digoxin• Warfarin•Macrolide antibiotics• Azole antifungals.Option A: Fenofibrate does not have much interaction with statins.Option C: Colestipol is a bile acid sequestrant and does not have much effect on statinmetabolism.Option D: Niacin can also rarely increase the risk of statin-induced myopathy but the risk is muchlower than that with gemfibrozil. So here gemfibrozil is the best answer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient who is on statin therapy asks about a new drug called evolocumab that his friend istaking for hyperlipidemia. What is the route of administration of this drug?",
+      "options": {
+        "A": "Intramuscular",
+        "B": "Intradermal",
+        "C": "Subcutaneous",
+        "D": "Intravenous"
+      },
+      "correct_answer": "",
+      "explanation": "Evolocumab is a PCSK-9 inhibitor that is administered as a subcutaneous injection.PCSK-9 is a protease that binds to the LDL receptors on the surface of hepatocyte and enhancesthe lysosomal degradation of the LDL receptor. This results in higher plasma LDL levels.inhibition of PCSK-9 results in a reduction of plasma LDL levels.Two approved PCSK-9 inhibitors are alirocumab and evolocumab.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "Which among the following is a microsomal triglyceride transfer protein inhibitor?",
+      "options": {
+        "A": "Ticlopidine",
+        "B": "Gugulipid",
+        "C": "Lomitapide",
+        "D": "Evinacumab"
+      },
+      "correct_answer": "",
+      "explanation": "Microsomal triglyceride transfer protein (MTP) inhibitor is lomitapide.MTP adds triglycerides to nascent VLDL in the liver and to chylomicrons in the intestine. Itsinhibition decreases VLDL secretion and thus decreases the accumulation of LDL in the plasma. Itis approved for use in homozygous familial hypercholesterolemia.Options A: Ticlopidine is an antiplatelet agent.Option B: Gugulipid is a plant extract that is commonly used for hyperlipidemia but has verylittle/no evidence to support its use.239Option D: Evinacumab is a recently approved angiopoietin-like 3 (ANGPTL3) inhibitor. It isindicated as an adjunct to other LDL-cholesterol lowering therapies for homozygous familialhypercholesterolemia in adults and pediatric patients aged 12 years and older.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 8,
+      "question": "235A patient with hereditary hyperlipoproteinemia is prescribed a fibrate. What is themechanism of action of this drug?",
+      "options": {
+        "A": "Increased lipolysis of triglycerides",
+        "B": "Inhibit lipolysis in adipose tissues",
+        "C": "Inhibit HMG CoA synthetase",
+        "D": "Binds bile acids and bile salts in the intestine"
+      },
+      "correct_answer": "",
+      "explanation": "Fibrates increase the lipoprotein lipase activity through PPAR-° and cause increased lipolysis oftriglycerides.Lipoprotein lipase (LPL) is a key enzyme in the degradation of VLDL. Fibrates bind to PPAR alphaand cause stimulation of lipoprotein lipase enzyme. Increased LPL synthesis enhances theclearance of triglyceride-rich lipoproteins. Additionally, fibrates also stimulate fatty acid oxidationand reduce the expression of apo C-III (inhibitor of lipolysis).ClassHMG-CoA red Fibratesuctase inhibitorImportant exampless (statins)Lovastatin, atorvastatin, fluvastatin, pravastatin, simvastatin,rosuvastatin, pitavastatinNiacinBile acid-binding resinsEzetimibeGemfibrozil and NiacinfenofibrateColestipol, cholestyramine, colesevelamEzetimibeMechanism of actionInhibits HMG-CoA reductasePPAR- mediated increased lipolysisMajor effects on lipoprotein levelsReduces LDL levelsReduces triglyceride levelsA moderate increase in HDL levelsDecreases the production of VLDLs and decreases the catabolism of HDLsReduces triglycerides, LDL, and lipoprotein alevelsSignificantincrease HDLlevelsBinds to bile acids in the intestinal lumen and increases excretion. This resultsin increased conversion of hepatic cholesterolto bile acids, and reduction in hepatic cholesterol content.Reduces LDL levelsInhibits intestinal sterol absorptionReduces LDL cholesterolMinimal increase inHDL levelAlsodecreases the absorption of phytosterols240ClassImportant sideeffectsHMG-CoA reductase inhibitors (statins)MyopathyElevations of serum aminotransferase activityElevation of creatine kinase activityFibratesNiacinBile acid-binding resinsEzetimibeConstipationBloatingReversible hepatic function impairmentRarelymyositisRashes, gastrointestinal symptoms, myopathy,arrhythmiasHypokalemia, elevated aminotransferases, or alkaline phosphatasCutaneous vasodilationElevations in aminotransferases levelse",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "A 45-year-old obese man presented to your OPD. His lipid profile showed elevated levels ofcholesterol and triglycerides. On examination, you notice palmar xanthomas. What is thedrug of choice for his condition?",
+      "options": {
+        "A": "Statins",
+        "B": "Niacin",
+        "C": "Fibrates",
+        "D": "Alirocumab"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario of elevated cholesterol and triglycerides along with the presence of palmarxanthomas (pathognomonic sign) is indicative of type III hyperlipoproteinemia. The drugs ofchoice for this condition are fibrates.Fibrates are also preferred in patients having severe hypertriglyceridemia (TG &gt;1000 mg/dl)who are at risk for pancreatitis.The response to fibrate therapy in Type III hyperlipoproteinemia patients include:• Elevated cholesterol and triglyceride levels are dramatically lowered.•Tuberoeruptive and palmar xanthomas may regress completely.Angina and intermittent claudication also improve.The image below shows palmar xanthoma.241",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp9_img1_62e02afa.jpeg",
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "What is the drug of choice for type IIa and IIb hyperlipoproteinemias?",
+      "options": {
+        "A": "Statins",
+        "B": "Fibrates",
+        "C": "Niacin",
+        "D": "Bile acid sequestrants"
+      },
+      "correct_answer": "A",
+      "explanation": "The drugs of choice for type IIa and IIb hyperlipoproteinemias are statins.In type IIa or IIb hyperlipoproteinemias, there is increased LDL cholesterol with +/- increase inTG. Statins have the maximum LDL lowering property among the hypolipidemic drugs.Therefore, they are the drugs of choice in this case.In type III/IV hyperlipoproteinemias, there is mainly an increase in triglyceride(TG) level. Fibratesreduce the TGs contained in VLDL and increase the HDL. So they are the drugs of choice for theseconditions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypolipidemic Drugs"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient with homozygous familial hypercholesterolemia has mipomersen as part of histreatment regimen. By which of the following mechanisms does this drug act?",
+      "options": {
+        "A": "Inhibition of microsomal triglyceride transfer",
+        "B": "Inhibition of PCSK9",
+        "C": "Inhibition of apo B-100 synthesis",
+        "D": "Inhibition of cholesterol absorption236"
+      },
+      "correct_answer": "",
+      "explanation": "Mipomersen is an antisense oligonucleotide that acts as an inhibitor of apo B-100 synthesis.Mipomersen binds to the mRNA of apo B-100 resulting in degradation of apo B-100 mRNA andeventually reduction of apo B-100 synthesis.242",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypolipidemic Drugs"
+    }
+  ]
+}

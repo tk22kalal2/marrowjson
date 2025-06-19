@@ -1,0 +1,155 @@
+{
+  "chapter": "Alcohols",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Effect of acute ethanol consumption is inhibitory on which of the following ligand-gated ionchannels?",
+      "options": {
+        "A": "GABA-A receptor",
+        "B": "Glycine receptor",
+        "C": "NMDA receptor",
+        "D": "Nicotinic ACh receptor"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    },
+    {
+      "q_no": 2,
+      "question": "The black-outs associated with high levels of ethanol can be attributed to its action on whichof the following receptors?",
+      "options": {
+        "A": "GABA-A receptor",
+        "B": "GABA-B receptor",
+        "C": "NMDA receptor",
+        "D": "Glycine receptor"
+      },
+      "correct_answer": "C",
+      "explanation": "Blackouts are periods of memory loss that occur with high ethanol consumption and may resultfrom the ability of ethanol to inhibit the action of glutamate on NMDA receptors.NMDA receptor is implicated in many aspects of cognitive function including learning andmemory.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    },
+    {
+      "q_no": 3,
+      "question": "Ethanol ingestion results in enhanced diuresis. What is the most probable mechanismcausing this?",
+      "options": {
+        "A": "Inhibition of ADH action in collecting tubules",
+        "B": "Stimulation of ADH action in collecting tubules",
+        "C": "Stimulation of ADH release from pituitary gland",
+        "D": "Inhibition of ADH release from pituitary gland"
+      },
+      "correct_answer": "D",
+      "explanation": "Ethanol inhibits the release of antidiuretic hormone (ADH)/ vasopressin from the posteriorpituitary gland. This results in enhanced diuresis observed with ethanol ingestion.Inhibition of ADH action in collecting tubules is not the mechanism by which alcohol inducesdiuresis. Stimulation of ADH release or action will have an antidiuretic action.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    },
+    {
+      "q_no": 4,
+      "question": "What effect does acute consumption of ethanol have on cytochrome enzymes?",
+      "options": {
+        "A": "Induction397",
+        "B": "Inhibition",
+        "C": "Stimulation",
+        "D": "No effect"
+      },
+      "correct_answer": "",
+      "explanation": "Acute consumption of ethanol inhibits the function of several cytochrome enzymes that areinvolved in the metabolism of drugs. CYP2E1 is one of the isoenzymes that is specificallyinhibited.Chronic consumption of alcohol causes induction of cytochrome enzymes, particularly CYP2E1,increasing the rate of metabolism of drugs dependent on CYP2E1 for metabolism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is an aldehyde dehydrogenase inhibitor that you would prescribe forthe pharmacological management of a patient addicted to alcohol?",
+      "options": {
+        "A": "1 and 2",
+        "B": "2 only",
+        "C": "1, 2 and5",
+        "D": "1, 2, 3 and 4"
+      },
+      "correct_answer": "B",
+      "explanation": "Disulfiram is an irreversible inhibitor of both cytosolic and mitochondrial forms of aldehydedehydrogenase.Ethanol consumption during disulfiram therapy can lead to increased concentrations ofacetaldehyde. Increased acetaldehyde levels can cause flushing, pulsating headache, throbbingpain in the head and neck, and other aversive reactions.Disulfiram is indicated in alcohol deaddiction maintenance therapy.Option 1: Fomepizole is an inhibitor of alcohol dehydrogenase.Option 3: Acamprosate is an NMDA receptor antagonist with modest GABA-A receptor agonisticactivity.Option 4: Naltrexone is an opioid antagonist that suppresses craving in chronic alcoholics.401Option 5: Chlordiazepoxide is a benzodiazepine that can be used to treat acute alcohol withdrawaland anxiety.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    },
+    {
+      "q_no": 6,
+      "question": "A 51-year-old diabetic patient presents to your OPD with severe restlessness, palpitations,flushing, and sweating. His medication history includes OHAs and an antibiotic that wasstarted 3 days back. On enquiring, he admits that he consumed two shots of whiskey aftertaking his medications. Which of the following drugs is not likely to cause similar effects?",
+      "options": {
+        "A": "Metronidazole",
+        "B": "Chlorpropamide",
+        "C": "Cefoperazone",
+        "D": "Metformin"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical presentation is suggestive of a disulfiram-like reaction. Metformin is notassociated with a disulfiram-like reaction following alcohol ingestion.Disulfiram-like reaction with alcohol ingestion is seen with the following drugs:•Metronidazole• 1st generation sulfonylureas like chlorpropamide•Cephalosporins like cefoperazone, cefamandole• Griseofulvin• Procarbazine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    },
+    {
+      "q_no": 7,
+      "question": "A 40-year-old man with alcohol dependence is referred to a rehabilitation center fordeaddiction. Which of the following drugs would you not prescribe for maintenance ofdeaddiction?",
+      "options": {
+        "A": "Morphine",
+        "B": "Naltrexone",
+        "C": "Acamprosate",
+        "D": "Disulfiram398"
+      },
+      "correct_answer": "A",
+      "explanation": "Morphine, an opioid receptor agonist, is not indicated for alcohol deaddiction maintenance.Opioid receptor antagonist is indicated for this condition.Drugs approved for the maintenance therapy and to prevent relapse:••Naltrexone: It is an orally active opioid receptor antagonist.• Acamprosate: An NMDA receptor antagonist with modest GABA-A receptor agonistic activity.• Disulfiram: A deterrent drug that works by inhibiting aldehyde dehydrogenase enzyme.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following anti-epileptics is effective in maintaining abstinence in a patientundergoing treatment for alcohol deaddiction?",
+      "options": {
+        "A": "Vigabatrin",
+        "B": "Topiramate",
+        "C": "Phenytoin",
+        "D": "Zonisamide"
+      },
+      "correct_answer": "B",
+      "explanation": "Topiramate has shown efficacy in maintaining abstinence and reducing craving in chronicalcoholism.Though effective, topiramate is not yet approved for use in alcohol deaddiction maintenance. It isused off-label for this indication.Ondansetron and baclofen are other drugs that are found to be effective but not yet approved forthis use.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    },
+    {
+      "q_no": 9,
+      "question": "A young man presented to the ER with complaints of headache, vomiting, and blurring ofvision after he consumed a bottle of illicit liquor. His ABG shows a high anion gap metabolicacidosis. Which of the following statements would be incorrect regarding his management?",
+      "options": {
+        "A": "Fomepizole is used intravenously",
+        "B": "Intravenous ethanol is an alternative to fomepizole",
+        "C": "Hemodialysis is not effective",
+        "D": "Folinic acid is also used in treatment"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical picture and labs are suggestive of accidental methanol toxicity. Hemodialysis isused in severe cases of methanol toxicity.402A serum methanol concentration greater than 50 mg/dl is serious enough to considerhemodialysis. It can be used to remove both methanol and its toxic metabolite formic acid fromthe blood.Option A: Fomepizole, an alcohol dehydrogenase inhibitor, is administered intravenously inmethanol toxicity. It acts by inhibiting the formation of formic acid.Option B: Intravenous ethanol is an alternative to fomepizole. It has a higher affinity to alcoholdehydrogenase than methanol. Thus, saturation of ADH enzymes results in less formation of toxicformic acid.Option D: Folate-dependent systems are responsible for the oxidation of formic acid to CO2. Bothfolinic and folic acid are often administered during methanol toxicity but the exact benefit is yet tobe determined.Note: Ethanol is given intravenously in the management of methanol and ethylene glycolpoisoning.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    },
+    {
+      "q_no": 10,
+      "question": "How is the administration of ethanol going to help in the management of methanolpoisoning?",
+      "options": {
+        "A": "Ethanol accelerates metabolism of methanol",
+        "B": "Ethanol slows down metabolism of methanolEthanol reacts with methanol to form an inactive metabolited) Ethanol reverses the actions of methanolQuestion 11:A middle-aged man undergoing treatment for alcohol deaddiction was started on disulfiram.Which of the following statements is true regarding this drug?a) When used with alcohol it causes respiratory difficultiesb) It is an anticraving drug399",
+        "C": "It can be initiated even in minimally motivated persons",
+        "D": "Its action persists up to 2-3 days after stopping the drug"
+      },
+      "correct_answer": "",
+      "explanation": "Administration of ethanol slows down the metabolism of methanol.Ethanol has a higher affinity for alcohol dehydrogenase than methanol.Formic acid is the metabolite of methanol which is highly toxic. Therefore, slowing down themetabolism of methanol reduces its toxic effects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Alcohols"
+    }
+  ]
+}

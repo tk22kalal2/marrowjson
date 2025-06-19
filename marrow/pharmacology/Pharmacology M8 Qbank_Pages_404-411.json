@@ -1,0 +1,170 @@
+{
+  "chapter": "Neurodegenerative Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 70-year-old male patient is brought to the OPD by his son, with complaints of increasingforgetfulness. Neuroimaging shows marked cortical atrophy of temporal and parietal lobes.What is the most striking neurochemical disturbance in this condition?",
+      "options": {
+        "A": "Deficiency of acetylcholine",
+        "B": "Deficiency of dopamine",
+        "C": "Deficiency of serotonin",
+        "D": "Deficiency of glutamate"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is not a reversible cholinesterase inhibitor indicated in a patient withAlzheimer's disease?",
+      "options": {
+        "A": "Donepezil",
+        "B": "Rivastigmine",
+        "C": "Galantamine",
+        "D": "Memantine"
+      },
+      "correct_answer": "",
+      "explanation": "Memantine is an NMDA receptor antagonist used to treat moderate to severe dementia inAlzheimer's.Donepezil, rivastigmine, and galantamine are reversible cholinesterase inhibitors indicated inAlzheimer's disease. Irreversible antagonists are not indicated in Alzheimer's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "A neurology resident changed the current oral medication of a patient with Alzheimer'sdisease to a transdermal patch of a cholinesterase inhibitor. What must be the new drug thatwas prescribed?",
+      "options": {
+        "A": "Tacrine",
+        "B": "Donepezil",
+        "C": "Rivastigmine",
+        "D": "Galantamine"
+      },
+      "correct_answer": "",
+      "explanation": "Rivastigmine is a cholinesterase inhibitor that is available as a transdermal patch for use inAlzheimer's disease. It can be applied for over 24 hours. Transdermal delivery reduces thefluctuation and avoids direct gastric irritation effects associated with oral formulations.Option A: Tacrine is an anticholinesterase that is obsolete because of its association withhepatotoxicity.Options B and D: Donepezil and galantamine transdermal formulations are under developmentand yet to be available in the market.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "404Which of the following NMDA receptor antagonist would you prescribe to a patient withsevere Alzheimer's disease?",
+      "options": {
+        "A": "Memantine",
+        "B": "Ketamine",
+        "C": "Piracetam",
+        "D": "Amantadine"
+      },
+      "correct_answer": "",
+      "explanation": "Memantine is a noncompetitive N-methyl-D-aspartate (NMDA) receptor antagonist indicated inAlzheimer's disease. It slows the deterioration of patients with moderate and severe Alzheimer'sdisease. It is claimed to reduce the excitotoxicity of glutamate.Option B - Ketamine is an NMDA receptor antagonist indicated as an anesthetic agent.Option C - Piracetam is a nootropic agent (a drug that enhances cognitive function) that is usedoff-label to enhance memory.Option D - Amantadine is an antiviral agent with NMDA receptor antagonistic action which is alsoindicated in Parkinson's disease due to its action on dopamine release and reuptake.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following statements is incorrect regarding the management of Alzheimer'sdisease?",
+      "options": {
+        "A": "Monoclonal antibodies can be used in the treatment",
+        "B": "Cholinesterase inhibitors are commonly used",
+        "C": "Memantine is approved only in moderate to severe disease",
+        "D": "Cholinesterase inhibitors and memantine have no effect on behavioral and psychiatricsymptoms"
+      },
+      "correct_answer": "C",
+      "explanation": "Cholinesterase inhibitors and memantine reduce some of the behavioral and psychiatricsymptoms in Alzheimer's disease.SSRIs like citalopram or benzodiazepines for agitation and atypical antipsychotics for psychiatricsymptoms may be considered in severe cases. But atypical antipsychotics in dementia-relatedpsychosis have shown higher mortality.Option A - Amyloid beta-directed monoclonal antibodies approved for the treatment ofAlzheimer's disease are - lecanemab, donanemab, aducanumab408-Option B Cholinesterase inhibitors are commonly used and are considered as first-line in early ormild to moderate stages of Alzheimer's disease.-Option C Memantine is approved only in moderate-severe Alzheimer's disease. There is notenough data to support its use in mild to moderate stages.Note- Aducanumab has been discontinued in the treatment of Alzheimer's",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "A 35-year-old lady came to the OPD with complaints of occasional shock-like sensations downher spine and muscle spasms. T2 weighted MRI shows typical Dawson fingers and oligoclonalbands were detected in the CSF study. Which of the following is approved for the treatment ofher condition?",
+      "options": {
+        "A": "Interferon alpha",
+        "B": "Interferon beta",
+        "C": "Interferon gamma",
+        "D": "Infliximab"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario is suggestive of multiple sclerosis. Interferon beta is approved for use in thiscondition. It reduces the frequency of attacks in relapsing-remitting multiple sclerosis.The probable mechanisms of action of interferon-beta are:• Immune modulation and a decrease in T cell proliferation.•• Limiting the entry of T cells into CNS.Reducing pro-inflammatory and increasing regulatory cytokines.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "You plan to start disease-modifying therapy in a 40-year-old patient with relapsing-remittingmultiple sclerosis. Which of the following drugs would you not include in the treatmentregimen?",
+      "options": {
+        "A": "Glatiramer acetate",
+        "B": "Methylprednisolone405",
+        "C": "Fingolimod",
+        "D": "Cladribine"
+      },
+      "correct_answer": "",
+      "explanation": "The disease-modifying therapy of relapsing-remitting multiple sclerosis (MS) does not includemethylprednisolone. It is used in acute attacks and exacerbations for MS symptom control. Thelong-term value or disease-modifying potential of glucocorticoid therapy is unknown.FDA approved disease-modifying therapy of relapsing-remitting multiple sclerosis are:• Interferon-beta 1a• Interferon-beta 1b• Glatiramer• Dimethyl fumarate• Teriflunomide• Alemtuzumab• Natalizumab•Fingolimod•Mitoxantrone• Cladribine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "John Cunningham (JC) virus antibody titer is being measured in a patient with multiplesclerosis. During treatment with which of the following drugs are the titres mandatory?",
+      "options": {
+        "A": "Alemtuzumab",
+        "B": "Natalizumab",
+        "C": "Glatiramer",
+        "D": "Interferon"
+      },
+      "correct_answer": "B",
+      "explanation": "409John Cunningham (JC) virus antibody titre measurement is mandatory during treatment withmonoclonal antibodies like natalizumab. Progressive multifocal leukoencephalopathy (PML) is alife-threatening disease caused by the JC virus in patients with multiple sclerosis.It is more common when the patient is immunocompromised during their treatment withnatalizumab. The current recommendation is to start natalizumab only in a patient who testsnegative for JC antibodies.Seroconversion can occur anytime during treatment. Regular monitoring for JC antibody every 6months is recommended in JC antibody-negative patients on natalizumab.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "A 30-year-old lady presents with complaints of sudden, involuntary, and uncontrollabledance-like movements. Her mother had also developed similar symptoms at the age of 40.Which of the following drugs is indicated for the treatment of the involuntary movementsassociated with her condition?",
+      "options": {
+        "A": "Benzhexol",
+        "B": "Tetrabenazine",
+        "C": "Tetrahydrazoline",
+        "D": "Benztropine"
+      },
+      "correct_answer": "B",
+      "explanation": "This patient is most likely suffering from chorea associated with Huntington's disease, for whichtetrabenazine is indicated. It is a reversible inhibitor of vesicular monoamine transporter-2(VMAT-2).•Other drugs used in Huntington's disease are:Reserpine, an irreversible inhibitor of VMAT-2 and a longer-acting agent as compared totetrabenazine.• Deutetrabenazine refers to deuterium attached to carbon in place of hydrogen, in tetrabenazine(deuterated tetrabenazine). It is a newer form of tetrabenazine approved for the treatment ofchorea associated with Huntington's disease. It slows down its metabolism, hence it is longeracting than tetrabenazine. It is associated with better control of chorea.Option A - Benzhexol is a central anticholinergic indicated in parkinsonism.Option C - Tetrahydrozoline is a topical alpha-adrenergic agonist indicated for the relief ofconjunctival congestion.Option D - Benztropine is a muscarinic receptor antagonist that can be used for the managementof acute dystonia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not a mechanism of action of Riluzole?",
+      "options": {
+        "A": "Inhibition of glutamate release",
+        "B": "Inhibition of GABA reuptake",
+        "C": "NMDA glutamate receptor antagonism",
+        "D": "Kainate glutamate receptor antagonism"
+      },
+      "correct_answer": "B",
+      "explanation": "Riluzole does not act by causing inhibition of GABA reuptake.Riluzole is the only drug known to improve survival in amyotrophic lateral sclerosis (ALS), alsoknown as Lou Gehrig's disease. The mechanism of action involves the reduction ofglutamate-induced excitotoxicity by:• Inhibition of glutamate release•Antagonism of NMDA and kainate-type glutamate receptor• Direct action on the voltage-dependent sodium channels.410",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "406Which of the following new drugs has been approved for the treatment of amyotrophic lateralsclerosis?",
+      "options": {
+        "A": "Edaravone",
+        "B": "Piracetam",
+        "C": "Dabrafenib",
+        "D": "Trametinib"
+      },
+      "correct_answer": "A",
+      "explanation": "Edaravone was approved by the FDA for the treatment of amyotrophic lateral sclerosis (ALS).It has free radical scavenging properties that may reduce oxidative stress. The exact mechanism ofaction is unknown. It is to be administered as an IV infusion with an initial treatment cycle ofdaily dosing for 14 days, followed by a 14-day drug-free period. Subsequent treatment cyclesconsist of dosing on 10 of 14 days, followed by a 14 day drug-free period.The major adverse effect of edaravone is hypersensitivity because the infusion contains sodiumbisulfite. Other adverse effects include bruising, gait disorder, and headache.Tafinlar (dabrafenib) and Mekinist (trametinib), are both indicated as monotherapy in BRAFV600E/K (BRAF V600E mutation-positive) melanoma. They are approved for combinedadministration, for the treatment of anaplastic thyroid cancer (ATC) that cannot be removed bysurgery or that has spread to other parts of the body (metastatic).Piracetam is a nootropic agent (a drug that enhances cognitive function) that is used off-label toenhance memory. It is also used to treat myoclonus.411",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neurodegenerative Disorders"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "chapter": "ANS Introduction & Parasympathomimetics",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the principal post-ganglionic neurotransmitter of the parasympathetic system?",
+      "options": {
+        "A": "Dopamine",
+        "B": "Nor-epinephrine",
+        "C": "Acetylcholine",
+        "D": "GABA"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 2,
+      "question": "While conducting animal studies, a scientist is experimenting with different properties ofdrugs acting on the ANS. He identifies a drug that inhibits the rate-limiting step inacetylcholine synthesis in nerve terminals. What is this drug?",
+      "options": {
+        "A": "Choline",
+        "B": "Hemicholinium",
+        "C": "Acetylcholine esterase",
+        "D": "Botulinium toxin"
+      },
+      "correct_answer": "B",
+      "explanation": "The rate-limiting step in acetylcholine synthesis is the active uptake of choline into the nerveterminal, which is inhibited by hemicholinum.Option A: Choline is the precursor of acetylcholine and is taken up from the synaptic cleft into thenerve terminal.Option C: Acetylcholine esterase is involved in the breakdown of acetylcholine after it is releasedinto the synaptic cleft.Option D: Botulinum toxin inhibits the release of acetylcholine from nerve terminals.ANS- Parasympathetic systemMitochondriaGlycolysisB-oxidationPresynapticmembraneAcetyl-CoA + Choline↓Acetylcholine (Ach)PostsynapticmembraneVACHTVesamicolAchchAchAminoglycosidesACHCa2+0Hemicholinum(Rate-limitingstep)ActionpotentialBotulinum toxinSNAPROAchAnti AchEAch)Acetyl-CoA CholineCholinergic receptorAcetylcholinesteraseSNAPREVACHTSoluble N-ethylmalamide Attachment protein ReceptorVesicular acetylcholine transporterMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp2_img1_fa562a3b.jpeg",
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the drug that acts on SNARE?",
+      "options": {
+        "A": "Hemicholinum",
+        "B": "Botulinum toxin",
+        "C": "Hexamethonium",
+        "D": "Acetylcholinesterase"
+      },
+      "correct_answer": "B",
+      "explanation": "The drug which acts on SNARE (Soluble N-ethylmalimide Sensitive Factor (NSF) Attachmentprotein Receptor) is botulinum toxin.83SNARE proteins play a critical role in the fusion of the vesicle with the cell membrane and theexocytosis of the neurotransmitter from the pre-synaptic membrane. Inhibition of these SNAREproteins inhibits the release of acetylcholine from synaptic terminals.It is useful to treat spastic and neurological conditions associated with increased cholinergicactivity like:•BlepharospasmSpastic cerebral palsy• Torticollis• Chronic resistant migraineOption A: Hemicholinum inhibits the uptake of choline into nerve terminals.Option C: Hexamethonium is a ganglionic blocker.Option D: Acetylcholine esterase is involved in the breakdown of acetylcholine after it is releasedinto the synaptic cleft.ANS- Parasympathetic systemMitochondriaGlycolysisp-oxidationMPresynapticmembranePostsynapticmembraneSNAPR●VACHTAcetyl-CoA + Choline↓Acetylcholine (Ach)VACHTVesamicolHemicholinum(Rate-limitingstep)AchAchAvch(ACH)AchAch(AchCholinergic receptorAminoglycosidesActionpotentialCaBotulinum toxinSNAPReAnti AchEAcetyl-CoA CholineAcetylcholinesteraseSoluble N-ethylmalamide Attachment protein ReceptorVesicular acetylcholine transporter©MARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp3_img1_094c5b25.jpeg",
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements regarding acetylcholine is incorrect?",
+      "options": {
+        "A": "It has no systemic therapeutic use",
+        "B": "It is metabolised by both acetylcholine esterase and butyrylcholine esterase77",
+        "C": "It is used topically during ophthalmic surgery",
+        "D": "It has good CNS penetration"
+      },
+      "correct_answer": "D",
+      "explanation": "Acetylcholine does not have a good CNS penetration as it is a quaternary ammonium compound.Neostigmine and glycopyrrolate are also quaternary ammonium compounds and their entry intoCNS is limited. Tertiary ammonium compounds like physostigmine have good CNS penetration.Options A and B: Acetylcholine has virtually no systemic use because of its diffuse action andrapid hydrolysis by both acetylcholine esterase and plasma butyrylcholine esterase.Option C: Acetylcholine is used during ophthalmic surgery for producing rapid miosis.84",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following causes an increase in ACh release from the presynaptic neuron?",
+      "options": {
+        "A": "Potassium channel blocker",
+        "B": "Sodium channel blocker",
+        "C": "Calcium channel blocker",
+        "D": "Chlorine channel blocker"
+      },
+      "correct_answer": "A",
+      "explanation": "Potassium channel blockers cause an increase in ACh release from the presynaptic neuron.Presynaptic potassium channel block promotes the activation of voltage-gated calcium channels.This leads to a release of acetylcholine in the neuromuscular junction.Aminopyridines (K+ channel blockers) are used in the treatment of Lambert-Eaton myasthenicsyndrome which helps to improve muscle strength.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 6,
+      "question": "You notice your senior performing a vagal maneuver in a stable patient with PSVT. Which ofthe following muscarinic receptors mediate the therapeutic effect of this maneuver?",
+      "options": {
+        "A": "M1",
+        "B": "M2",
+        "C": "M3",
+        "D": "M4"
+      },
+      "correct_answer": "B",
+      "explanation": "In vagal maneuver, the parasympathetic nervous system mediates activity on the heart via the M2muscarinic receptor (most predominant subtype).The receptors in the autonomic nervous system (ANS) are of 2 types:• Muscarinic:• 5 Subtypes - M1, M2, M3, M4, M5•M1, M3, M5 are Gq coupled receptors• M2, M4 are Gi/Go coupled receptors• Nicotinic:• 2 Subtypes - Nm (Neuromuscular junction), Nn (CNS, Ganglion, Adrenal glands)• Nicotinic receptors are ion channels.Receptors of ParasympathetiSubtypec systemNicotinicNmSiteNeuromuscular junctionNnCNS, ganglia, Adrenal glandMuscarinicM1CNS, Ganglia, Salivary, and gastric glandsM2M3HeartSmooth muscles, secretory glands, eyes pupils, and bloodvesselsM4CNSM5CNS",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the mechanism by which acetylcholine causes a decrease in the heart rate?",
+      "options": {
+        "A": "Delayed diastolic depolarization",
+        "B": "Increase in plateau",
+        "C": "Decrease in preload",
+        "D": "Increase in afterload"
+      },
+      "correct_answer": "A",
+      "explanation": "The mechanism by which acetylcholine causes a decrease in the heart rate is by decreasing thediastolic depolarization.85The acetylcholine released from the vagal nerve acts on the M2 receptor (ẞy subunit of G protein)on the SA node. This opens a special set of potassium channels causing an efflux of potassium(IKAch) which hyperpolarizes the SA node (Ih). The resultant current (Ih) slows the diastolicdepolarization thereby causing bradycardia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 8,
+      "question": "A 40-year-old woman who was diagnosed with Sjogren's syndrome is on treatment withcevimeline. On which receptor does this drug mainly act for the expulsion of secretions fromthe salivary gland?",
+      "options": {
+        "A": "M178",
+        "B": "M2",
+        "C": "M3",
+        "D": "M4"
+      },
+      "correct_answer": "C",
+      "explanation": "Cevimeline is an M3 receptor agonist resulting in the expulsion of the secretions from the salivarygland. This drug also enhances expulsion of lacrimal secretions in Sjögren's syndrome.Both M1 and M3 receptors are present in a salivary gland. Activation of M1 increases secretionand M3 causes smooth muscle contraction and expulsion of the secretions.Receptors of ParasympathetiSubtypeSitec systemNicotinicNmNeuromuscular junctionNnCNS, ganglia, Adrenal glandMuscarinicM1CNS, Ganglia, Salivary, and gastric glandsM2M3M4M5HeartSmooth muscles, secretory glands, eyes - pupils, and bloodvesselsCNSCNS",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 9,
+      "question": "You are asked to prescribe a cholinergic agent to a patient suffering from Alzheimer's disease.Which of the following drugs cannot be chosen?",
+      "options": {
+        "A": "Galantamine",
+        "B": "Donepezil",
+        "C": "Tacrine",
+        "D": "Memantine"
+      },
+      "correct_answer": "D",
+      "explanation": "Memantine is an NMDA receptor antagonist (not a cholinergic agent) indicated for themanagement of moderate to severe Alzheimer's disease.Donepezil, galantamine, and tacrine are centrally acting cholinesterase inhibitors indicated forAlzheimer's disease.Note: In this scenario, you are asked to prescribe a cholinergic drug. Tacrine, a cholinergic drug,although hepatotoxic, is still approved for use in Alzheimer's disease. Hence, memantine is thebest answer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 10,
+      "question": "In which of the following conditions should cholinomimetic drugs be avoided?",
+      "options": {
+        "A": "Closed angle glaucoma",
+        "B": "Bradycardia",
+        "C": "Cobra bite",
+        "D": "Myasthenia gravis"
+      },
+      "correct_answer": "B",
+      "explanation": "Cholinomimetics cannot be used in bradycardia. They cause bradycardia by its action on M2receptors on the heart.86In bradycardia, an anticholinergic agent like atropine is indicated.-Option A Cholinomimetics like pilocarpine are used in both open-angle and closed-angleglaucoma.Option C Cobra venom contains a curare-like neurotoxin. Although antivenom is the specificantidote, symptoms can be controlled by a combination of neostigmine and atropine.Option D Cholinesterase inhibitors like neostigmine and pyridostigmine are indicated inmyasthenia gravis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 11,
+      "question": "Neostigmine is administered to a post-op patient to reverse neuromuscular blockade. What isits mechanism of action?",
+      "options": {
+        "A": "It blocks the action of acetylcholine",
+        "B": "It interferes with the action of choline transferase",
+        "C": "It interferes with the action of choline acetyl transferase",
+        "D": "It interferes with the action of acetylcholine esterase"
+      },
+      "correct_answer": "D",
+      "explanation": "Muscle weakness is improved by neostigmine as it interferes with the action of acetylcholineesterase.Neostigmine is a cholinesterase inhibitor used mainly to improve muscle tone in people withmyasthenia gravis, and also to reverse the effects of non-depolarizing muscle relaxants such asrocuronium and vecuronium at the end of an operation.Inhibition of acetylcholine esterase increases the acetylcholine levels in the synapse that can acton receptors over the large surface area and for longer periods of time, reducing the weakness.ANS- Parasympathetic systemMitochondriaGlycolysisB-oxidationAcetyl-CoAPresynapticmembranePostsynapticmembraneCholineAcetylcholine (Ach)ChaTVesamicolHemicholinum(Rate-limitingstep)AchAchAchAchAchAchAchCholinergic receptorAminoglycosidesActionpotentialBotulinum toxinSNAPReAnti AcHEAcetyl-CoA + CholineAcetylcholinesteraseSNAPReChaTSoluble N-ethylmalamide Attachment protein ReceptorCholine acetyl TranferaseOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp11_img1_f9fcece8.jpeg",
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 12,
+      "question": "A first-year anesthesia resident administered neostigmine to a patient who was accidentallygiven a slightly excessive bolus dose of suxamethonium. What is the most probable effect this79is likely to produce?",
+      "options": {
+        "A": "Complete reversal",
+        "B": "Incomplete reversal",
+        "C": "No effect",
+        "D": "Enhanced relaxation"
+      },
+      "correct_answer": "D",
+      "explanation": "Neostigmine prolongs the muscle relaxation caused by suxamethonium (succinylcholine) insteadof reversing the block.The contraction of a muscle is achieved by a cycle of ACh binding and itsdegradation. Depolarising neuromuscular blockers (such as suxamethonium) acts by binding tothe receptors much longer than ACh and causing a prolonged depolarization, resulting in aneventual blocking of neuromuscular transmission and flaccid paralysis.87AChE metabolizes ACh and plasma cholinesterase metabolizes suxamethonium (SCh).Neostigmine blocks both enzymes. By inhibiting AChE, neostigmine increases the AChconcentration in the synaptic cleft. But this cannot reverse the block as the depolarized nerves areunresponsive to any stimuli during this period. However, the simultaneous inhibition of plasmacholinesterase decreases the degradation of SCh and therefore potentiates the neuromuscularblock of suxamethonium, resulting in prolonged muscle relaxation.Neostigmine can be used only as a reversal agent for neuromuscular blockade caused bycompetitive non-depolarising blockers such as vecuronium.ANS- Parasympathetic systemMitochondriaGlycolysisB-oxidationAcetyl-CoAPresynapticmembranePostsynapticmembraneCholineAcetylcholine (Ach)Chat+VesamicolHemicholinum(Rate-limitingstep)AchAchAchAch)Ach)AchCholinergic receptorAminoglycosidesCa2+ActionpotentialBotulinum toxinSNAPReAnti AchEAcetyl-CoA + CholineAcetylcholinesteraseSNAPReChaTSoluble N-ethylmalamide Attachment protein ReceptorCholine acetyl Tranferase©MARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp12_img1_b3840d0f.jpeg",
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 13,
+      "question": "A 45-year-old woman presented to the medicine OPD with complaints of muscle weaknessand blurring of vision following exertion. On examination, the patient had ptosis. What is thedrug that can be used in the diagnosis of this condition?",
+      "options": {
+        "A": "Physostigmine",
+        "B": "Edrophonium",
+        "C": "Neostigmine",
+        "D": "Pyridostigmine"
+      },
+      "correct_answer": "B",
+      "explanation": "Edrophonium, a short-acting anticholinesterase agent is used for diagnosing myasthenia gravis. Itis also called the tensilon test.Initially, 2 mg is administered. If improvements of symptoms do not occur within 45 seconds, anadditional 8 mg can be administered. Improvement of strength unaccompanied by lingualfasciculations (generally present in non-myasthenics) is a positive test.Edrophonium is short-acting because:• The binding site of edrophonium to acetylcholine esterase - choline subsite of the active center•No reaction with the enzyme - reversible binding only-• Quaternary structure rapid eliminationNote: An excessive dose of anti-cholinesterase drugs results in a cholinergic crisis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 14,
+      "question": "What is the drug used to differentiate myasthenia gravis from cholinergic crisis?",
+      "options": {
+        "A": "Obidoxime",
+        "B": "Edrophonium",
+        "C": "Donepezil",
+        "D": "Atropine"
+      },
+      "correct_answer": "B",
+      "explanation": "The drug used to differentiate myasthenia gravis from a cholinergic crisis is edrophonium.88Muscle weakness is a common presentation in patients with myasthenia gravis and cholinergiccrisis (excessive dose of anti-ChE drugs). Intravenous injection of edrophonium improvesmuscular weakness in a patient with myasthenia gravis and not in a case of cholinergic crisis.The test used for this differentiation is known as the edrophonium test.Initially, 2 mg is administered; if improvements of symptoms do not occur within 45 seconds, anadditional 8 mg can be administered. Improvement of strength is a positive test for myastheniagravis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following drugs would you use in the treatment of a patient with myastheniagravis?",
+      "options": {
+        "A": "d-Tubocurarine",
+        "B": "Hexamethonium",
+        "C": "Ambenonium",
+        "D": "Gallamine80"
+      },
+      "correct_answer": "",
+      "explanation": "Ambenonium, pyridostigmine, and neostigmine are the anti-cholinesterase drugs indicated in thetreatment of myasthenia gravis.Neostigmine and its congeners can improve muscle contractions by allowing releasedacetylcholine to accumulate and act on the receptors over a large area. They also have anadditional direct depolarizing effect on the motor endplate.Options A and D: d-Tubocurarine and gallamine are non-depolarising neuromuscular blockersand can exacerbate myasthenia.Option B: Hexamethonium is a ganglionic blocker and not indicated for myasthenia gravis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient presents to the emergency department with diarrhea, sweating, excessivelacrimation, and salivation. His pulse rate is 55/min and his plasma cholinesterase level was50U/mL. Which of the following can be used to treat this patient?",
+      "options": {
+        "A": "Neostigmine",
+        "B": "Atropine",
+        "C": "Epinephrine",
+        "D": "Benztropine"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical features are suggestive of organophosphate poisoning and IV atropine is thetreatment of choice.The organophosphates commonly used as pesticides are anticholinesterases. Toxicity occurs byexcessive inhalation of vapors, ingestion, or percutaneous absorption. It inhibits thecholinesterase activity which results in an increase of acetylcholine, leading to cholinergicsymptoms.The predominant initial signs are of muscarinic excess which includes: (DUMBBELSS)• Diarrhea•Urination• Miosis•Bronchospasm•Bradycardia• Emesis• Lacrimation• Salivation•Sweating89This may be followed by cognitive disturbances, convulsions, and neuromuscular blockade.Treatment:●• Maintenance of vital signs particularly respiration• Removal of clothing and washing of the skin•• IV atropine 2- 5 mg. If IV administration is not possible, then 2 mg IM every 5-10 minutes (tillmuscarinic symptoms disappear)• Pralidoxime, a cholinesterase reactivator can also be used for treatment",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 17,
+      "question": "What is the mechanism of action of atropine in the management of organophosphatepoisoning?",
+      "options": {
+        "A": "Reactivates acetylcholineesterase",
+        "B": "Competes with acetylcholine release",
+        "C": "Binds with both nicotinic and muscarinic acetylcholine receptors",
+        "D": "Is a competitive antagonist of acetylcholine"
+      },
+      "correct_answer": "",
+      "explanation": "Atropine is useful in organophosphate poisoning because it is a competitive antagonist ofacetylcholine.An acetylcholinesterase enzyme has an esteratic and an anionic site. The organophosphates bindto the esteratic (active) site of AChEs (acetylcholine esterases) and deactivate it.This results in excessive Ach causing increased muscarinic activity like increased tracheobronchialand salivary secretions, bronchoconstriction, miosis, bradycardia, and to a lesser extent peripheralganglionic and CNS actions. It has relatively insignificant action on nicotinic receptors.Atropine antagonizes these parasympathetic effects by competitive inhibition of acetylcholine atthe muscarinic receptors.Pralidoxime reactivates the acetylcholinesterase, which had been deactivated in organophosphatepoisoning. Pralidoxime attaches to the anionic site of the enzyme that remains unoccupied. Thenit reacts with the phosphorus atom of the organophosphorous compound which is attached to theesteric site to form a phospho-oxime complex. It then dissociates from the enzyme, regeneratingthe active enzyme.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 18,
+      "question": "A sanitation worker presented with complaints of blurred vision, breathing difficulty andmuscle weakness. He gave a history of spraying malathion this morning. You administerpralidoxime as an antidote. What is the mechanism of action of this drug?",
+      "options": {
+        "A": "Stimulation of ACh receptors",
+        "B": "Inhibition of breakdown of ACh",
+        "C": "Blockade of ACh receptors",
+        "D": "Reactivation of AChE enzyme"
+      },
+      "correct_answer": "D",
+      "explanation": "Pralidoxime reactivates cholinesterase, which would have been deactivated by phosphorylationcaused by malathion.Pralidoxime attaches to the anionic site of the enzyme that remains unoccupied. Then it reactswith the phosphorus atom of the organophosphorous compound which is attached to the estericsite to form a phospho-oxime complex. It then dissociates from the enzyme, regenerating theactive enzyme.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 19,
+      "question": "A young man is brought to the ER with a history of ingestion of carbamate-based insecticide.He is agitated with excessive sweating, lacrimation, and salivation. Which of the followingshould not be used for treatment?",
+      "options": {
+        "A": "Pralidoxime81",
+        "B": "Atropine",
+        "C": "Magnesium sulfate purgative",
+        "D": "Gastric lavage with activated charcoal"
+      },
+      "correct_answer": "",
+      "explanation": "Pralidoxime may be hazardous in oral poisoning with carbamate insecticides. It is not effective incarbamate anti-ChE poisoning as the anionic site required for attachment of oximes is occupied.90Oximes are usually contraindicated in carbamate poisoning, as they do not reactivate the enzyme.They also have anti-ChE activity of their own that may worsen the condition.Option B: Atropine is the mainstay in the management of carbamate poisoning.Options C and D: Magnesium sulfate purgative and gastric lavage with activated charcoal can betried in oral carbamate poisoning.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    },
+    {
+      "q_no": 20,
+      "question": "A patient with diabetes and COPD developed post-operative urinary retention. Which of thefollowing drugs can be used for short-term treatment of the condition?",
+      "options": {
+        "A": "Tamsulosin",
+        "B": "Bethanechol",
+        "C": "Terazosin",
+        "D": "Methacoline"
+      },
+      "correct_answer": "A",
+      "explanation": "Tamsulosin is the drug used to relieve the symptoms in cases of postoperative urinary retention ina patient with COPD.It is also efficacious in the treatment of benign prostatic hyperplasia (BPH) with little effect onblood pressure.Option B: Bethanechol is the drug of choice to relieve the symptoms in cases of postoperativeurinary retention. However, it can cause bronchoconstriction in patients with COPD. Hencetamsulosin is the best answer here.Option C: Terazosin is an ° 1 receptor antagonist, used in the treatment of benign prostatichyperplasia (BPH).Option D: Methacholine is a muscarinic agonist but acts specifically on bronchial smooth musclecausing its contraction. It is available as an inhalational agent and is used for the diagnosis ofbronchial hyper-reactivity in patients who do not have clinically apparent asthma.91",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "ANS Introduction & Parasympathomimetics"
+    }
+  ]
+}

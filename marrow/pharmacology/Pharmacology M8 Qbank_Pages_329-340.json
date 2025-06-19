@@ -1,0 +1,260 @@
+{
+  "chapter": "Drugs for Parkinson's Disease",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following drugs crosses the blood-brain barrier?",
+      "options": {
+        "A": "Dopamine",
+        "B": "Levodopa",
+        "C": "Both A and B",
+        "D": "Carbidopa"
+      },
+      "correct_answer": "B",
+      "explanation": "Levodopa crosses the blood-brain barrier.It is a naturally occurring aromatic amino acid and an immediate precursor of dopamine that cancross the blood-brain barrier. Dopamine does not cross the blood-brain barrier because of thepolar nature of the molecule. Levodopa is also a polar compound but it can cross the blood-brainbarrier through an aromatic amino acid transporter.Therefore, levodopa is used therapeutically when dopamine is required for central action.Levodopa is converted to dopamine by the decarboxylase enzyme.Carbidopa is a peripheral decarboxylase inhibitor and does not penetrate the blood-brain barrier.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 2,
+      "question": "A 55-year-old is diagnosed with Parkinson's disease and is started on levodopa therapy.Which of the following statements is incorrect about the drug?",
+      "options": {
+        "A": "In parkinsonism, phenothiazines reduce its efficacy",
+        "B": "It is a prodrug",
+        "C": "Pyridoxine reduces effect of levodopa in parkinsonism",
+        "D": "Domperidone reduces levodopa induced emesis and its therapeutic potential"
+      },
+      "correct_answer": "D",
+      "explanation": "Domperidone is an antidopaminergic antiemetic that can reverse levodopa-induced emesiswithout affecting the therapeutic potential as it cannot cross the blood-brain barrier.The antiemetic effect is through its action on CTZ which is outside the blood-brain barrier.Option A: Typical antipsychotics like phenothiazines can reduce the efficacy of levodopa becauseof its central D2 blocking property.Option B: Levodopa is a prodrug. It is converted into dopamine by the decarboxylase enzyme inCNS.Option C: Pyridoxine can reduce the effect of levodopa by increasing its peripheral conversion todopamine by potentiating peripheral dopa decarboxylase enzyme.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 3,
+      "question": "After initiation of levodopa therapy, a 55-year-old patient starts experiencing adverse effects.Which of these side effects is not decreased by the addition of carbidopa?",
+      "options": {
+        "A": "Nausea and vomiting",
+        "B": "On and off effect",
+        "C": "Cardiac arrhythmias",
+        "D": "Hallucinations"
+      },
+      "correct_answer": "D",
+      "explanation": "Behavioral adverse effects like confusion, hallucinations, nightmares, delusions, posturalhypotension are not reduced after the addition of carbidopa.In fact, they are increased in patients who are taking levodopa with peripheral decarboxylaseinhibitors. This is because higher levels of dopamine are formed in CNS.The combination of levodopa with peripheral decarboxylase inhibitors like carbidopa inhibitsperipheral adverse effects of dopamine. This decreases the adverse effects like:• Anorexia, nausea, and vomiting•Cardiac arrhythmias• On and off effect of motor performance",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 4,
+      "question": "A 60-year-old male is brought to the casualty in a confused state. On examination, he hassevere muscle rigidity. His son says that the patient is on treatment for Parkinson's diseasebut has forgotten to take his medication as they went on a holiday trip. What is the likely329diagnosis in this patient?",
+      "options": {
+        "A": "Wearing off phenomenon",
+        "B": "On/Off phenomenon",
+        "C": "Neuroleptic malignant syndrome",
+        "D": "Serotonin syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "335Abrupt withdrawal of levodopa or dopaminergic agonists can precipitate neuroleptic malignantsyndrome. It is characterized by extreme rigidity, confusion, and hyperthermia.It is an emergency condition that can turn fatal if immediate intervention is not done. Neurolepticmalignant syndrome is commonly associated with the use of typical antipsychotics.Option A: Wearing off phenomenon - Each dose of levodopa improves mobility for a period of 1-2hours. After that, the effect of the drug wears off, and rigidity and akinesia return. This can besurpassed by increasing the dosing and frequency.Option B: On/off phenomenon - Rapid fluctuation between on and off periods.•On period: When the patient has a beneficial effect of the medications but with disablingdyskinesias• Off period: No beneficial effects from anti-Parkinsonism medications.'Wearing off' and 'On / Off' phenomenon occur with long-term treatment of levodopa.Option D: Serotonin syndrome occurs with co-prescription of MAO-inhibitors and SSRIs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient on long-term treatment with levodopa and carbidopa for Parkinson's disease isdiagnosed with on/off phenomenon. Which of the following drugs is used to treat thiscondition?",
+      "options": {
+        "A": "Safinamide",
+        "B": "Amantadine",
+        "C": "Benztropine",
+        "D": "Domperidone"
+      },
+      "correct_answer": "A",
+      "explanation": "Safinamide is used for the treatment of the on/off phenomenon.Management of On/Off phenomenon:•To prolong the 'On' phase:.• COMT inhibitor - entacapone, tolcapone• Irreversible MAO-B inhibitor - selegiline, rasagiline•Reversible MAO-B inhibitor - safinamide.• Rescue from 'Off' phase: injection apomorphineDopaminergic agonists like pramipexole, ropinirole, and rotigotine are also effective in thetreatment of the on/off phenomenon.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient who is on levodopa therapy presents with confusion, delusions of grandeur, andhallucinations. What is the most appropriate treatment for his condition?",
+      "options": {
+        "A": "Haloperidol",
+        "B": "Chlorpromazine",
+        "C": "Trifluperazine",
+        "D": "Quetiapine"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of levodopa-induced psychosis for which quetiapine is themost appropriate treatment.Quetiapine and clozapine are the two atypical antipsychotics that are most effective and besttolerated in levodopa-induced psychosis.Typical antipsychotics are effective against levodopa-induced psychosis but may cause markedworsening of parkinsonism. Hence, atypical antipsychotics are deemed safer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 7,
+      "question": "While discharging a patient with Parkinson's disease, the treating physician writes aprescription of levodopa along with another drug that can increase the bioavailability of theformer. Identify the drug.",
+      "options": {
+        "A": "Entacapone",
+        "B": "Ropinirole",
+        "C": "Amantadine",
+        "D": "Apomorphine330"
+      },
+      "correct_answer": "A",
+      "explanation": "336Entacapone is a peripheral COMT inhibitor that increases the bioavailability of levodopa.It inhibits the peripheral metabolism of levodopa thereby increasing the bioavailability oflevodopa.Options B and D: Ropinirole and apomorphine are dopamine receptor agonists and do not haveany significant effect on levodopa bioavailability.Option C: Amantadine which is an antiviral drug is also anti-Parkinsonian due to its varied actionsincluding increased release and decreased uptake of dopamine. It has no significant effect on thebioavailability of levodopa.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following anti-Parkinsonism drugs is correctly matched with its mechanism ofaction?",
+      "options": {
+        "A": "Tolcapone -COMT inhibition-",
+        "B": "Rasagiline Muscarinic antagonism",
+        "C": "Amantidine - MAO-B inhibition",
+        "D": "Apomorphine - Inhibition of dopa"
+      },
+      "correct_answer": "A",
+      "explanation": "Tolcapone and entacapone are selective, potent, and reversible COMT (catechol-O-methyltransferase) inhibitors.COMT metabolizes levodopa and blockade of this pathway prolongs the half-life of levodopa andallows a larger fraction of the administered dose to reach the brain.Option B: Rasagiline is a selective MAO-B inhibitor.Option C: Amantadine acts by antagonism of the NMDA type of glutamate receptors.Option D: Apomorphine is a dopaminergic agonist that is FDA-approved as a 'rescue therapy' forthe acute intermittent treatment of 'off' episodes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements is false regarding the use of selegiline in Parkinsonism?",
+      "options": {
+        "A": "It acts as a selective MAO A inhibitor",
+        "B": "Incidence of cheese reaction is minimal",
+        "C": "May be used for on/off phenomenon",
+        "D": "It forms amphetamines as metabolites"
+      },
+      "correct_answer": "A",
+      "explanation": "Selegiline acts as a selective MAO-B inhibitor.At higher doses, MAO-A can also be inhibited. Higher doses are used for depression andadministered in the form of the transdermal patch.Option B: Selective MAO-B inhibitors do not interfere significantly with the peripheralmetabolism of dietary amines and do not cause cheese reaction.Option C: It has lower efficacy than levodopa but when added with levodopa it prolongs its actionand also decreases the wearing-off effect of levodopa.Option D: Selegiline forms metabolites like amphetamine and methamphetamine that can resultin anxiety, insomnia, and other undesirable effects. Rasagiline, unlike selegiline, does not formamphetamines as metabolites.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following dopamine agonists is an ergot derivative?",
+      "options": {
+        "A": "3, 4 and 5",
+        "B": "1, 2 and 3",
+        "C": "1 and 2",
+        "D": "4 and 5"
+      },
+      "correct_answer": "",
+      "explanation": "Bromocriptine and pergolide are ergot derivatives that act as potent agonists at the D2 receptor.Pramipexole and ropinirole are non-ergot derivatives having D2/D3 receptor agonistic action.They are better tolerated and have fewer GI symptoms than bromocriptine.337Dopamine agonists can be classified as follows:••Ergot derivatives - Bromocriptine, pergolide, cabergoline⚫ Non-ergot derivatives - Pramipexole, ropinirole, apomorphine, rotigotineDopaminergic agonists exert subtype-selective activation of dopaminergic receptors involved inthe Parkinsonism circuit of the striatum.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 11,
+      "question": "A 50-year-old female patient visits the OPD with complaints of burning sensation associatedwith an irresistible urge to move her legs since 2 weeks. It occurs especially at night and thediscomfort gets relieved on moving her legs. Which is the first-line drug that can beprescribed for this patient?",
+      "options": {
+        "A": "Benztropine",
+        "B": "Gabapentin331",
+        "C": "Riluzole",
+        "D": "Clonazepam"
+      },
+      "correct_answer": "B",
+      "explanation": "The symptoms in this patient are suggestive of restless leg syndrome and gabapentin is thefirst-line choice of treatment for this condition.Restless leg syndrome is a typical sensory-motor disorder that generally affects the legs duringrest periods, especially sleep. There is an irresistible urge to shake the legs associated withburning sensation, itching, and cramps of the legs. In idiopathic cases, dopaminergichypofunction is postulated.In patients with restless legs syndrome, iron stores are initially repleted, and the aggravatingfactors are eliminated. If RLS still persists, initial therapy with a gabapentinoid (pregabalin,gabapentin, gabapentin enacarbil) are preferred, rather than a dopamine agonist (pramipexole,ropinirole, rotigotine). This is due to the high frequency of intermediate and long-termaugmentation with dopamine agonists, as well as their risk of impulse control disorders.FDA-approved drugs for the treatment of restless leg syndrome:•• Gabapentin•• Ropinirole• Pramipexole•⚫ RotigotineA dopamine agonist is used as an alternative in patients with increased risk for side effects fromgabapentinoids, such as those with obesity and its complications, a past or present history ofmoderate to severe depression, a disorder causing gait instability or respiratory failure, and ahistory of substance use disorder.Option A: Benztropine is an anticholinergic that can be used for drug-induced parkinsonism.Option C: Riluzole is a benzothiazole derivative that is used in amyotrophic lateral sclerosis.Option D: Benzodiazepines like clonazepam can be used as co-adjuvant drugs in the treatment ofrestless leg syndrome but should not be used as first-line therapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following dopamine receptor agonists has antioxidant properties?",
+      "options": {
+        "A": "Bromocriptine",
+        "B": "Pergolide",
+        "C": "Pramipexole",
+        "D": "Ropinirole"
+      },
+      "correct_answer": "",
+      "explanation": "Pramipexole is a dopamine receptor agonist that has an additional antioxidant effect.Pramipexole has a possible neuroprotective effect by its ability to scavenge hydrogen peroxide andenhance neurotrophic activity.338",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following drugs would you prescribe as a transdermal patch to patients withParkinson's disease?",
+      "options": {
+        "A": "Selegiline",
+        "B": "Rotigotine",
+        "C": "Entacapone",
+        "D": "Apomorphine"
+      },
+      "correct_answer": "B",
+      "explanation": "Rotigotine is a dopamine agonist used in Parkinson's disease as a transdermal patch.A transdermal patch can lead to various local reactions at the application site. Rotigotine waswithdrawn from some markets due to crystal formation on the patch but later reintroduced with anewer formulation.Selegiline transdermal patch is approved for depression and not for Parkinson's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 14,
+      "question": "A 30-year-old female is on treatment with ropinirole for restless leg syndrome. Which of thefollowing adverse effects are not expected to be seen in this patient?",
+      "options": {
+        "A": "Drowsiness",
+        "B": "Postural hypotensionCardiac fibrosisd) HallucinationQuestion 15:Which anti-Parkinsonism drug is an NMDA-glutamate receptor antagonist?a) Amantadine332b) Rotigotine",
+        "C": "Benzhexol",
+        "D": "Trihexyphenidyl"
+      },
+      "correct_answer": "",
+      "explanation": "Cardiac fibrosis is a side effect of pergolide, not ropinirole.The adverse effects of ropinirole include:• Nausea⚫ Drowsiness•⚫ Postural hypotension•• HallucinationsCardiac and pleural fibrosis are seen with pergolide which is also a dopamine agonist. Pergolidewas withdrawn from the market due to reports of serious valve damage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 16,
+      "question": "A 55-year-old patient presents to the dermatology OPD with findings as shown in the imagebelow. Which of the following drugs can result in this adverse effect?",
+      "options": {
+        "A": "Pergolide",
+        "B": "Memantine",
+        "C": "Amantadine",
+        "D": "Trihexyphenidyl00 201HLTO NOW"
+      },
+      "correct_answer": "C",
+      "explanation": "The above presentation is of livedo reticularis, which is an adverse effect of amantadine.The patient presents with a common skin finding consisting of a mottled vesicular pattern thatappears as a lace-like purplish discoloration of the skin which is due to the local release ofcatecholamines resulting in post-capillary vasoconstriction.Adverse effects of amantadine are:339• Insomnia, restlessness, confusion••Nightmares• Anticholinergic effects• Hallucinations••• Livedo reticularisEdema of ankles",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q16_img1_ae2afcc4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 17,
+      "question": "Which is the 5HT2A inverse agonist approved for use in psychosis associated withParkinsonism?",
+      "options": {
+        "A": "Lorcaserin",
+        "B": "Pimavanserin",
+        "C": "Pitolisant",
+        "D": "Mianserin333"
+      },
+      "correct_answer": "B",
+      "explanation": "Pimavanserin is a selective 5-HT2A receptor inverse agonist that is approved for the managementof delirium and hallucinations associated with Parkinson's disease.Option A: Lorcaserin is a 5-HT2C agonist indicated as an anti-obesity agent.Option C: Pitolisant is an H3 receptor inverse agonist approved for the treatment of narcolepsy.Option D: Mianserin is an anti-depressant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    },
+    {
+      "q_no": 18,
+      "question": "A 30-year-old male patient presented to the casualty department with bradykinesia, rigidity,and tremors. His attender reported that he had been diagnosed with schizophrenia and hadrecently started treatment. What is the drug of choice to treat the patient's presentingsymptoms?",
+      "options": {
+        "A": "Levodopa",
+        "B": "Benzhexol",
+        "C": "Amantadine",
+        "D": "Selegiline"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of drug-induced parkinsonism, for which the drug ofchoice is benzhexol, also known as trihexiphenidyl.Drug-induced parkinsonism is caused by certain drugs that have D2 antagonistic action, such astypical antipsychotics. Due to the decrease in dopaminergic activity, they result in an unbalancedcholinergic activity. Benzhexol is a centrally acting antimuscarinic agent. It acts by restoring thecholinergic balance in the striatal interneurons.The following drugs are implicated in drug-induced parkinsonism:Drug classTypical antipsychoticsAtypical antipsychoticsDopamine depletersAntiemeticsExamplesPhenothiazines, haloperidolRisperidone, olanzapineReserpine, tetrabenazineMetoclopramide, levosulpiridCalcium channel blockerseFlunarizine, cinnarizine340",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Parkinson's Disease"
+    }
+  ]
+}

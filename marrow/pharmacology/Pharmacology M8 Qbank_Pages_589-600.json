@@ -1,0 +1,260 @@
+{
+  "chapter": "Anti-virals (Non-retroviral)",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 54-year-old man was brought to the casualty with fever, headache, focal seizures, and righthemiparesis. MRI brain showed hyperintensity in the left frontotemporal region. PCR of hisCSF sample was positive for HSV DNA. What would be the drug of choice for this condition?",
+      "options": {
+        "A": "Valacyclovir",
+        "B": "Acyclovir",
+        "C": "Gancyclovir",
+        "D": "Foscarnet"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient diagnosed with shingles was prescribed acyclovir. Which of the followingstatements is false regarding this drug?",
+      "options": {
+        "A": "Acyclovir is a nucleoside congener",
+        "B": "Nephrotoxicity is a dose limiting side effect of acyclovir",
+        "C": "Valacyclovir has a higher bioavailability than acyclovir",
+        "D": "Acyclovir does not enter the CSF"
+      },
+      "correct_answer": "",
+      "explanation": "Acyclovir can enter CSF as it is widely distributed into all body fluid compartments,including vesicular fluid and aqueous humor. It can be used for treating shingles caused by HZV.Option A: Acyclovir is a guanosine nucleoside congener. The other nucleoside congeners arecidofovir, ganciclovir, and famciclovir.594Option B: Nephrotoxicity and neurotoxicity, though rare and reversible, are dose-limiting sideeffects of acyclovir.Option C: Acyclovir has a low bioavailability which is overcome by administering valacyclovir, aprodrug with higher bioavailability.Mechanism of action of anti-viral drugs:Mechanism of action of anti-viral drugsNucleosideVirus specific enzymes(eg. thymidine kinase, UL97)Valacyclovir(prodrug)Famciclovir(prodrug)AcyclovirGanciclovirPenciclovirMonophosphateTrifluridineCidofovirMARFoscarnet(Pyrophosphate analog)Host kinasesDiphosphateTriphosphateWDNA polymeraseViral DNAOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp2_img1_a0a4284c.jpeg",
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the most common cause of resistance to acyclovir in HSV-1?",
+      "options": {
+        "A": "Induction of efflux pumps",
+        "B": "Mutation of viral DNA polymerase",
+        "C": "Deficient viral thymidine kinase activity",
+        "D": "Expression of inactivating enzymes"
+      },
+      "correct_answer": "",
+      "explanation": "The most common cause of resistance to acyclovir in HSV-1 is deficient or absent viral thymidinekinase activity.Viral thymidine kinase is needed in the conversion of acyclovir to acyclovir triphosphate whichcompetitively inhibits the viral DNA polymerase activity.Mutation of viral DNA polymerase is rare.Mechanism of action of anti-viral drugs:595Mechanism of action of anti-viral drugsValacyclovir(prodrug)AcyclovirGanciclovirFarnciclovir(prodrug)PenciclovirNucleosideVirus specific enzymes(eg. thymidine kinase, UL97)MonophosphateTrifluridineCidofovirHost kinasesMARZOWDiphosphateFoscarnet(Pyrophosphate analog)TriphosphateDNA polymeraseViral DNAOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp3_img1_ae4e2e03.jpeg",
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 4,
+      "question": "In which of the following patients can valacyclovir be used as the drug of choice?",
+      "options": {
+        "A": "An elderly woman with avian influenza589",
+        "B": "An infant with RSV bronchiolitis",
+        "C": "An adolescent with chickenpox",
+        "D": "An immunocompromised patient with CMV retinitis"
+      },
+      "correct_answer": "C",
+      "explanation": "Oral valacyclovir 1g three times daily for 5-7 days is considered the drug of choice for chickenpox(VZV) in an immunocompetent patient. Treatment should be started ideally within 24 hours ofrash onset.Oral acyclovir (800 mg five times daily) is an alternative drug, but valacyclovir is preferred due toits higher bioavailability and less frequent dosing. In immunocompromised patients, varicellainfection is treated with IV acyclovir.Option A: Oseltamivir is used for the treatment of avian influenza.Option B: Ribavirin is used for treating RSV bronchiolitis.Option D: Ganciclovir, foscarnet, and cidofovir are approved for CMV retinitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient showed persistence of genital herpes lesions even after 7 days of high-dose oralacyclovir therapy. Which of the following antivirals can you use to manage this case?",
+      "options": {
+        "A": "Ganciclovir",
+        "B": "Abacavir",
+        "C": "Foscarnet",
+        "D": "Valacyclovir"
+      },
+      "correct_answer": "",
+      "explanation": "Intravenous foscarnet is used to treat acyclovir-resistant HSV (genital herpes) and VZV infections.It inhibits viral nucleic acid synthesis by directly inhibiting HSV DNA polymerase (or HIV reversetranscriptase). It is active against herpes simplex, CMV, VZV, and HIV.Metabolic abnormalities are very common with foscarnet. Symptomatic hypocalcemia andnephrotoxicity are major dose-limiting toxicities of foscarnet.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is a true statement about amantadine?",
+      "options": {
+        "A": "The most common side effect is CNS toxicity",
+        "B": "It is effective only against Influenza B",
+        "C": "It is routinely used for the treatment of influenza",
+        "D": "It is largely metabolised by the liver"
+      },
+      "correct_answer": "",
+      "explanation": "596The most common side effect of amantadine is minor CNS toxicity which includes nervousness,difficulty concentrating, and insomnia. It is effective only against Influenza A.Most strains of influenza are now resistant to amantadine and hence, it is not routinely used forthe treatment or prophylaxis of influenza infections. Amantadine is largely excretedunmetabolized in the urine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 7,
+      "question": "A young woman with a recent travel history presented with fever and respiratory difficulty.She was diagnosed with Influenza A and was started on oseltamivir. What is the mechanismof action of this drug?",
+      "options": {
+        "A": "DNA polymerase inhibition",
+        "B": "Protein synthesis inhibition",
+        "C": "Nucleoside analogue",
+        "D": "Neuraminidase inhibition"
+      },
+      "correct_answer": "",
+      "explanation": "Oseltamivir is a neuraminidase inhibitor.Drugs like oseltamivir and zanamivir competitively and reversibly interact with the enzyme sitesto inhibit viral neuraminidase activity. This interferes with the release of the progeny frominfected host cells, halting the spread of infection.Early administration hastens the resolution of symptoms if given within 48 h of infection.Oseltamivir is given at a dose of 75 mg, twice a day for 5 days for the treatment of influenza A andB. For prophylaxis, it is given at a dose of 75mg, once per day, and continued for the duration ofexposure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 8,
+      "question": "590Zanamivir is to be given for a patient with an influenza B infection. How will you administerthis drug?",
+      "options": {
+        "A": "Oral route",
+        "B": "Inhalational route",
+        "C": "Intravenous route",
+        "D": "Intramuscular route"
+      },
+      "correct_answer": "",
+      "explanation": "Zanamivir is delivered by oral inhalation of dry powder in a lactose carrier. Its oral bioavailabilityis very low (&lt;5%).Zanamivir is a neuraminidase inhibitor similar to oseltamivir and is active against both influenzaA and B.The different routes of administration of neuraminidase inhibitors are as follows:•Zanamivir: Inhalational• Oseltamivir: Oral• Peramivir: Intravenous",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 9,
+      "question": "A 22-year-old man is admitted with acute H1N1 influenza pneumonia. He is having severenausea and vomiting and is not able to take any oral medications. Which of the followingdrugs can be administered intravenously to him?",
+      "options": {
+        "A": "Oseltamivir",
+        "B": "Zanamivir",
+        "C": "Peramivir",
+        "D": "Entecavir"
+      },
+      "correct_answer": "",
+      "explanation": "Peramivir is a neuraminidase inhibitor available for intravenous administration for acuteinfluenza (H1N1).It is indicated in acute influenza infections where the patient is not able to take drugs via the oralroute or if inhalational (zanamivir) formulation is unavailable.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 10,
+      "question": "A 40-year-old man, who has history of contact with a known case of influenza, is having fever,cough, and runny nose since today morning. Rapid antigen test turns out to be positive. Theendonuclease inhibitor that can be used for his treatment is",
+      "options": {
+        "A": "Oseltamivir",
+        "B": "Baloxavir",
+        "C": "Zanamivir",
+        "D": "Favipravir"
+      },
+      "correct_answer": "",
+      "explanation": "597The endonuclease inhibitor which can be used for the treatment of acute uncomplicated influenzain adults is baloxavir marboxil.It is a novel drug that was approved by the FDA in 2018. It is used to treat acute uncomplicatedinfluenza in patients 12 years of age and older who have been symptomatic for less than 48 hours.It is a selective inhibitor of influenza cap-dependent endonuclease which blocks proliferation byinhibiting mRNA synthesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following drugs is approved for prophylaxis against respiratory syncytial virus(RSV) infection?",
+      "options": {
+        "A": "Omalizumab",
+        "B": "Palivizumab",
+        "C": "Denosumab591",
+        "D": "Ribavirin"
+      },
+      "correct_answer": "B",
+      "explanation": "Palivizumab is a monoclonal antibody approved for prophylaxis against respiratory syncytial virus(RSV) infection.It is a humanized monoclonal antibody against F-glycoprotein present on the surface of RSV. It isused in high-risk infants (prematurity and immunosuppressed conditions) and children (withcardiovascular and pulmonary diseases).The treatment of RSV infections is done with inhaled ribavirin.Option A: Omalizumab is a monoclonal antibody against IgE indicated in asthma.Option C: Denosumab is a monoclonal antibody against RANKL indicated in osteoporosis.Option D: Ribavirin is used for treatment of RSV infections but is not approved for prophylaxis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 12,
+      "question": "A hepatitis B infected patient awaiting liver transplantation is admitted with ascites andencephalopathy. Which of the following is the drug of choice for him?",
+      "options": {
+        "A": "Interferon alpha",
+        "B": "Lamivudine",
+        "C": "Tenofovir",
+        "D": "Telbivudine"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario of ascites and encephalopathy in a hepatitis B infected patient issuggestive of decompensated liver disease. Tenofovir is the drug of choice for decompensatedcirrhosis due to hepatitis B infection.Tenofovir is one of the first-line drugs for chronic hepatitis B infections. It is available as twoprodrug formulations tenofovir disoproxil fumarate (TDF) and tenofovir alafenamide (TAF).Option A: Interferon-alpha is one of the first-line agents in individuals with ongoing HBV-DNAreplication and liver inflammation. But it is contraindicated in decompensated cirrhosis with HBVinfection as they can precipitate clinical deterioration and increase the risk of bacterialinfections.Options B and D: Lamivudine and Telbivudine are not considered first-line agents for HBVinfections because of the increased frequency of resistance associated with their use.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 13,
+      "question": "Sofosbuvir is indicated in the treatment of which of the following patients?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1 and 3 only",
+        "C": "2 and 5 only",
+        "D": "2, 3 and 4 only"
+      },
+      "correct_answer": "",
+      "explanation": "Sofosbuvir is indicated in the treatment of hepatitis C infection only. It is a directly actingantiviral, NS5B nucleotide polymerase inhibitor.598The goal of treatment in hepatitis C is a sustained virologic response (SVR). It is defined as theabsence of a virus in the blood (undetectable HCV RNA), 12 weeks after completion of treatment.This can be achieved by the use of pan-genotypic directly acting antiviral drugs, irrespective of thedisease stage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following is not a direct-acting agent (DAAs) used in the treatment of HCVinfections?",
+      "options": {
+        "A": "NS5B polymerase inhibitors",
+        "B": "NS5A inhibitors",
+        "C": "NS3/4A protease inhibitors",
+        "D": "NS4B inhibitors"
+      },
+      "correct_answer": "",
+      "explanation": "NS4B inhibitors are not direct-acting agents (DAAs).Direct-acting agents (DAAs) are drugs that target specific viral proteins which are vital to thereplication and lifecycle of HCV.The currently available DAAS inhibit 3 specific non-structural (NS) proteins:NS3/4A protease inhibitorsNS5A inhibitorsNS5B polymerase inhibitors",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 15,
+      "question": "A 52-year-old woman with history of hepatitis B infection presents with fatigue, vomiting, andweight loss. Her serological markers are given in the table below. What is the treatment ofchoice for her condition?",
+      "options": {
+        "A": "Paritaprevir booster with ritonavir592",
+        "B": "Pegylated interferon-alpha",
+        "C": "Velpatasvir + Voxilaprevir + Sofosbuvir",
+        "D": "Tenofovir + Entecavir"
+      },
+      "correct_answer": "C",
+      "explanation": "The given scenario and serology are suggestive of chronic hepatitis D infection in a hepatitis Bcarrier for which the treatment of choice is pegylated interferon-alpha (pegIFN-°).It is the only drug currently available to treat chronic hepatitis D infection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 16,
+      "question": "A young woman presents with painless warty lesions on the vulva as shown in the imagebelow. Which of the following is a topical agent that can be prescribed for her condition?",
+      "options": {
+        "A": "Docosanol",
+        "B": "Nystatin",
+        "C": "Imiquimod",
+        "D": "Acyclovir"
+      },
+      "correct_answer": "C",
+      "explanation": "Warty lesions on the vulva as seen in the given image is suggestive of condyloma acuminatacaused by HPV (6, 11). Imiquimod is a topical agent with antiviral and immunomodulatoryproperties indicated in the treatment of external genital and perianal warts.Other topical agents that can be used include podophyllotoxin and trichloroacetic acid.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q16_img1_a5b9083a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following drugs is currently approved for the treatment of small pox?",
+      "options": {
+        "A": "Tecovirimat",
+        "B": "Lumacaftor",
+        "C": "Pegvaliase",
+        "D": "Apalutamide593"
+      },
+      "correct_answer": "A",
+      "explanation": "Tecovirimat has been recently approved as a treatment of smallpox.It was approved under the FDA's animal rule, which allows findings from animal studies tosupport an FDA approval when it is not feasible or ethical to conduct efficacy trials in599humans. Cidofovir has also been approved by the FDA for smallpox under this rule.Both these drugs are currently stockpiled by CDC's strategic national stockpile, which has themedical supplies required to protect the public in case of a public health emergency.Tecovirimat could also be used under an investigational new drug (IND) protocol to treat adversereactions from vaccinia vaccination.Option B: Lumacaftor is a drug approved for cystic fibrosis.Option C: Pegvaliase has been approved for the treatment of phenylketonuria in adults.Option D: Apalutamide is a nonsteroidal antiandrogen medication which is used in the treatmentof prostate cancer. It is specifically indicated for use in conjunction with castration in thetreatment of non-metastatic castration-resistant prostate cancer.600",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-virals (Non-retroviral)"
+    }
+  ]
+}

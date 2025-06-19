@@ -1,0 +1,305 @@
+{
+  "chapter": "Anti-Diabetic Drugs - Injectable",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the half-life of endogenously secreted insulin?",
+      "options": {
+        "A": "1-2 minutes",
+        "B": "5-6 minutes",
+        "C": "20-30 minutes",
+        "D": "1-2 hours"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 2,
+      "question": "A 28-year-old nurse was brought to the casualty with seizures and altered mental status. Herplasma glucose was 35 mg/dl. Which test would help to rule out the possibility of exogenousinsulin administration?",
+      "options": {
+        "A": "Glucagon",
+        "B": "C-peptide",
+        "C": "Pancreatic polypeptide",
+        "D": "Preproinsulin"
+      },
+      "correct_answer": "B",
+      "explanation": "C-peptide can be used to rule out the possibility of factitious hypoglycemia resultingfrom exogenously administered insulin.Endogenous insulin is initially synthesized as preproinsulin that is processed to proinsulin insidebeta cells. Proinsulin is released by secretory granules after processing it to form insulin andC-peptide.Synthetic insulin usually lacks C-peptide, so in factitious hypoglycemia secondary to exogenousinsulin administration, plasma insulin will be elevated, but there will be suppression of C-peptideand proinsulin, and insulin to C-peptide ratio will be greater than one.On the other hand, insulinomas and insulin secretagogues like sulfonylureas stimulateendogenous insulin production. As a result, plasma insulin, C-peptide, and proinsulin levels willbe all elevated. The only way to differentiate between insulinoma and insulinsecretagogues-induced hypoglycemia is by detecting the drug, e.g., sulfonylurea, in the blood orurine.665C-peptide has no known physiological function or receptor. It has a half-life of about 30 min.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient requires the shortest acting formulation of insulin to prevent postprandialhyperglycemia. Which of the following formulations would you choose?",
+      "options": {
+        "A": "Insulin lispro",
+        "B": "Insulin aspart",
+        "C": "Regular insulin",
+        "D": "Inhaled insulin"
+      },
+      "correct_answer": "D",
+      "explanation": "Inhaled insulin is the shortest acting formulation of insulin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 4,
+      "question": "A patient on basal-bolus regimen for type 1 diabetes wants an alternative to multiple dailyinjections. She read about the new drug Afrezza and wants to know more about it. Which of659the following is not true about this formulation?",
+      "options": {
+        "A": "Inhaled insulin",
+        "B": "Can be used as single or multiple pre meal doses",
+        "C": "If multiple doses used then no need of basal insulin",
+        "D": "Avoided in active smokers"
+      },
+      "correct_answer": "",
+      "explanation": "Afrezza should be used in combination with basal long-acting insulin to supplement it.Option A - Afrezza is an inhaled insulin that is available in dry powder form. It is the shortestacting insulin (2-3 hours) and it reduces the use of short-acting injectable insulin. Adverse eventsinclude cough and throat irritation.Option B - It is taken pre-meal to reduce postprandial hyperglycemia.Option D - Afrezza is contraindicated in active smokers, asthmatics and COPD patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following preparations of insulin is not rapid-acting?",
+      "options": {
+        "A": "Glargine",
+        "B": "Lispro",
+        "C": "Glulisine",
+        "D": "Aspart"
+      },
+      "correct_answer": "",
+      "explanation": "All of the following preparations of insulin are rapid-acting except glargine.Insulin preparations and duration of actionShort-acting:•• Insulin lispro, Insulin aspart, Insulin glulisine: 3-4 hoursRegular insulin: 4-6 hoursLong-acting:• Insulin NPH: 10-16 hours• Insulin detemir: 12-24 hours• Insulin glargine: 12-24 hours• Insulin degludec: 24-42 hours",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 6,
+      "question": "Identify the correct insulin combination option.30MASerum insulin (mU/L)102046100500-20",
+      "options": {
+        "A": "1 - Glargine, 2 - Detemir",
+        "B": "1 - Glargine, 2 - Degludec",
+        "C": "1 - Detemir, 2 - Aspart",
+        "D": "1 - Glulisine, 2 - Glargine4221Basal insulin6810 12 14 16182022 24Time of DayOMARROW660"
+      },
+      "correct_answer": "",
+      "explanation": "Detemir is a long-acting insulin and aspart is a rapid-acting insulin and matches with 1 and 2respectively in the image showing basal-bolus regimen.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q6_img1_f50463a9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 7,
+      "question": "A 30-year-old patient with type 1 diabetes presented with complaints of vomiting andabdominal pain. On examination, she had fast, deep breathing with a fruity odor. Hercapillary blood glucose was 450mg/dL. What is the clinical concern associated withadministering insulin alone?",
+      "options": {
+        "A": "Hypokalemia",
+        "B": "Hypernatremia",
+        "C": "Hyperkalemia",
+        "D": "Hyponatremia"
+      },
+      "correct_answer": "C",
+      "explanation": "666Deep breathing (Kussmaul respiration) and fruity breath (acetone odor) in a symptomatic patientwith type 1 diabetes are suggestive of diabetic ketoacidosis. Insulin therapy alone in a patient withdiabetic ketoacidosis (DKA) may result in hypokalemia.DKA is usually associated with a major K+ deficit. Potassium loss is caused by an extracellularshift of potassium (in exchange with hydrogen ions) due to acidosis. Much of the shiftedextracellular potassium is lost due to emesis and osmotic diuresis.When insulin therapy is initiated for DKA, the serum K+ is shifted intracellularly. Dangeroushypokalemia might occur if K+ supplementation is not initiated subsequently. Insulin should bewithheld if the serum level of potassium is below 3.3 mmol/L.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 8,
+      "question": "You see a nurse administering an insulin preparation that appears cloudy white. Whichformulation of insulin could it be?",
+      "options": {
+        "A": "Insulin glargine",
+        "B": "Insulin glulisine",
+        "C": "Insulin detemir",
+        "D": "Insulin NPH"
+      },
+      "correct_answer": "D",
+      "explanation": "The formulation is most likely NPH insulin as it produces a cloudy or whitish solution in contrastto the clear appearance of other insulin solutions.NPH or isophane insulin is a suspension of native insulin complexed with zinc and protamine inphosphate buffer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient was recently diagnosed with diabetes. She was prescribed the longest-acting insulinas it has the least risk of hypoglycemia. Which insulin preparation is she on?",
+      "options": {
+        "A": "Insulin NPH",
+        "B": "Insulin glargine",
+        "C": "Insulin detemir",
+        "D": "Insulin degludec"
+      },
+      "correct_answer": "",
+      "explanation": "Insulin degludec has the maximum duration of action (24-42 hours) among long-acting insulins.It is sometimes considered an ultra long-acting insulin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 10,
+      "question": "A diabetic patient is in the postoperative area following cardiac surgery. He is to be givenintravenous insulin for optimal glycemic control and to avoid sternal wound infection. Whichof the following should not be administered?",
+      "options": {
+        "A": "Insulin glulisine661",
+        "B": "Insulin detemir",
+        "C": "Regular insulin",
+        "D": "Insulin aspart"
+      },
+      "correct_answer": "",
+      "explanation": "Insulin detemir is a long-acting insulin and should not be given intravenously or intramuscularly.It is only given via subcutaneous route.Options A, C, and D: Regular insulin and short-acting insulins (glulisine and aspart) can be givenintravenously. While short-acting insulins are approved for intravenous administration undersupervision, regular insulin is preferred in perioperative glycemic control due to the lesser risk ofhypoglycemia.Intravenous insulin is used in diabetic ketoacidosis and other conditions where insulinrequirements change drastically like perioperative period, labor, and in intensive care situations.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following insulin precipitates into a cloudy white precipitate when mixed withshort acting insulins?",
+      "options": {
+        "A": "Insulin detemir",
+        "B": "Insulin degludec",
+        "C": "Insulin glargine",
+        "D": "Insulin glulisine"
+      },
+      "correct_answer": "",
+      "explanation": "Insulin glargine forms a cloudy white precipitate when mixed with short-acting insulins.Due to the acidic pH (4.0) of insulin glargine, it cannot be mixed with short-acting insulinpreparations that are formulated at a neutral pH as it aggregates at neutral pH into a cloudy white667precipitate. This reduces the effectiveness of the insulin dose.Insulin degludec and detemir have a pH of 7.4 that is very near to neutral pH and they do notform such aggregates when mixed with short-acting insulins.But the manufacturers do not advise manual mixing with short-acting insulin as it may alter theactivity profile of the combination that can turn unpredictable. Degludec is available as anapproved fixed-dose combination with aspart that can be used with predictable effects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 12,
+      "question": "Composition of Lente insulin is:",
+      "options": {
+        "A": "70% amorphous 30% crystalline",
+        "B": "70% crystalline 30% amorphous",
+        "C": "Only 70% amorphous",
+        "D": "Other name of NPH insulin"
+      },
+      "correct_answer": "D",
+      "explanation": "Lente insulin is an intermediate-acting insulin and is a combination of Ultralente and Semilentein the ratio of 7:3Two types of insulin zinc suspensions have been produced. The one with large particles iscrystalline and practically insoluble in water (Ultralente). It is long-acting. The other has smallerparticles and is amorphous (Semilente), is short-acting. Their 7:3 ratio mixture is called 'Lenteinsulin' and is intermediate-acting.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 13,
+      "question": "You are counseling a diabetic patient and teaching her the technique to self-administerinsulin at home every day. Which of the following sites would you not suggest as the preferredsite for insulin administration?",
+      "options": {
+        "A": "Anterior part of thigh",
+        "B": "Lateral part of thigh",
+        "C": "Buttocks",
+        "D": "Medial part of thigh"
+      },
+      "correct_answer": "",
+      "explanation": "The medial part of the thigh is not a preferred site for insulin administration in patients. This isbecause of the relatively higher density of blood vessels and nerves in this area. Anotherconsideration is that the inner thighs rub together while walking and may cause soreness at theinjection sites.The preferred sites for insulin administration are:•• Upper arm• Anterior and lateral aspects of the thigh• Buttocks•Abdomen (with the exception of a circle with a 2-inch radius around the navel)Rotation of the injection site is important to prevent lipodystrophy. However, rotating within onearea is recommended (e.g., rotating injections systematically within the abdomen) rather thanrotating to a different area with each injection. This helps decrease variability in absorption fromday to day.668Insulin Injection SitesFront of the BodyInsulin Injection SitesBack of the Body",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp13_img1_fafb838d.jpeg",
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following is incorrect regarding exenatide?662",
+      "options": {
+        "A": "It is a GLP-1 analogue",
+        "B": "It can be used for the treatment of type 1 diabetes mellitus",
+        "C": "It is given subcutaneously",
+        "D": "It decreases glucagon"
+      },
+      "correct_answer": "",
+      "explanation": "Exenatide is not indicated in type 1 diabetes mellitus.Exenatide is a GLP-1 analog that acts as an insulin secretagogue. As the beta cells are alreadydestroyed and do not secrete insulin in type 1 diabetes, there is no role of drugs that enhanceinsulin secretion.Option A - Exenatide is a GLP-1 analog and it is synthesized from exendin-4Option C - It is a peptide and hence has to be administered subcutaneouslyOption D - It increases insulin secretion, decreases glucagon secretion, delays gastric emptying,and reduces food intake",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is not a GLP-1 receptor agonist?",
+      "options": {
+        "A": "Liraglutide",
+        "B": "Semaglutide",
+        "C": "Pramlintide",
+        "D": "Exenatide"
+      },
+      "correct_answer": "C",
+      "explanation": "Pramlintide is an islet amyloid polypeptide (IAPP) or amylin analogue.Amylin analogues reduce glucagon secretion, slows gastric emptying, and centrally decreasesappetite.Options A, B and D - Liraglutide, semaglutide and exenatide are GLP-1 agonists.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following statements is not true about pramlintide?",
+      "options": {
+        "A": "It can be used in both type 1 and type 2 diabetes mellitus",
+        "B": "It has got weight reducing property by causing a central anorectic effect",
+        "C": "It should not be administered with insulin in the same syringe",
+        "D": "It is given orally"
+      },
+      "correct_answer": "D",
+      "explanation": "Pramlintide is administered as a subcutaneous injection.Option A - It is a synthetic analogue of amylin and is approved for both type 1 and type 2 diabetesmellitus669Option B - It has weight reducing property by causing a central anorectic effect. It acts byreducing glucagon secretion, delaying gastric emptying and decreasing appetite.Option C - It should not be administered with insulin in the same syringe because of a differencein pH",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 17,
+      "question": "A 40-year-old diabetic woman comes for follow up. Her BMI is 32 kg/m2 despite severalmonths of diet and exercise. Which of the following is the drug preferred for her condition?",
+      "options": {
+        "A": "Liraglutide",
+        "B": "Linagliptin",
+        "C": "Insulin lispro",
+        "D": "Pioglitazone"
+      },
+      "correct_answer": "",
+      "explanation": "Liraglutide is approved for the management of obesity.GLP-1 is a physiological regulator of appetite and calorie intake, and the GLP-1 receptor is presentin several areas of the brain involved in appetite regulation. Liraglutide is a GLP-1 analog andlowers body weight by decreasing calorie intake.Note: FDA has recently approved semaglutide subcutaneous injection once weekly for chronicweight management. This is for use in patients with obesity and overweight individuals with atleast one weight-related condition such as type 2 diabetes, hypertension or dyslipidemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 18,
+      "question": "A 45-year-old man comes for a routine health check-up. He has a family history of medullarythyroid cancer. His thyroid examination is normal but his HbA1c is found to be 7.5%. In view663of his history, which of the following should not be prescribed for him?",
+      "options": {
+        "A": "SGLT 2 inhibitors",
+        "B": "DPP4 inhibitors",
+        "C": "GLP 1 agonists",
+        "D": "Sulfonylureas"
+      },
+      "correct_answer": "",
+      "explanation": "GLP-1 analogues are contraindicated in patients with a personal or family history of medullarythyroid cancer and in patients with MEN 2 syndrome.GLP-1 analogues cause thyroid C-cell tumours at clinically relevant exposures in rodents.However, studies have not yet shown if they cause thyroid C-cell tumours like medullary thyroidcarcinoma in humans.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 19,
+      "question": "A 50-year-old man with superior mesenteric artery occlusion underwent extensive bowelresection. Following surgery, he developed short bowel syndrome and has been on parenteralnutrition. Which of the following drugs would be beneficial for his condition?",
+      "options": {
+        "A": "Liraglutide",
+        "B": "Lixisenatide",
+        "C": "Teduglutide",
+        "D": "Semaglutide"
+      },
+      "correct_answer": "",
+      "explanation": "Teduglutide is a GLP-2 analog and is approved for the treatment of short bowel syndrome.GLP-2 binds to enteric neurons and endocrine cells, stimulating the release of a number ofhormones such as insulin-like growth factor. This stimulates mucosal epithelial growth andenhances fluid absorption.GLP-1 analogs:• Exenatide⚫ Liraglutide• Albiglutide•Dulaglutide• Lixisenatide• SemaglutideNote: GLP-1 analogs are used for the treatment of Type II diabetes mellitus.670",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    },
+    {
+      "q_no": 20,
+      "question": "Identify the true statement regarding teduglutide.",
+      "options": {
+        "A": "It is not recommended for patients with colorectal cancer",
+        "B": "It's half life is 6 - 8 hours",
+        "C": "It can be administered orally",
+        "D": "It promotes gastric acid secretion and gastric emptying"
+      },
+      "correct_answer": "A",
+      "explanation": "Teduglutide can potentially cause bowel cancer, therefore it is not recommended for patients withactive malignancies.It is a GLP-2 analog that has been recently approved for the treatment of short bowel syndrome. Itinhibits gastric acid secretion and gastric emptying, stimulates mucosal epithelial growthand intestinal blood flow, and enhances nutrient and fluid absorptionThe drug has a t1/2 of 1-2 hours and is administered subcutaneously once daily.Note: GLP-1 analogs are used for the treatment of Type II diabetes mellitus.671",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Injectable"
+    }
+  ]
+}

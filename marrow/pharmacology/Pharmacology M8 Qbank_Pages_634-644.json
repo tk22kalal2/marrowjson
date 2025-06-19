@@ -1,0 +1,245 @@
+{
+  "chapter": "Osteoporosis and Calcium Metabolism",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following decreases both serum calcium and phosphate levels?",
+      "options": {
+        "A": "Vitamin D",
+        "B": "Parathyroid hormone",
+        "C": "Calcitonin",
+        "D": "Vitamin A"
+      },
+      "correct_answer": "",
+      "explanation": "Calcitonin decreases both serum calcium and phosphate levels.BoneInhibits osteoclasticactivityCalcitonin+Plasma (Ca2+) and P₁KidneyInhibits Ca2+ and P₁reabsorption",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp1_img1_83cbeb86.jpeg",
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following interferes with the absorption of calcium?",
+      "options": {
+        "A": "1,2 and 3",
+        "B": "4 and 5",
+        "C": "1,2,3 and 4",
+        "D": "1,2,3,4 and 5"
+      },
+      "correct_answer": "C",
+      "explanation": "Glucocorticoids, phenytoin, tetracyclines, phytates, and oxalates all interfere with the absorptionof calcium.Glucocorticoids and phenytoin depress intestinal calcium transport whereas,tetracyclines, phytates, phosphates, and oxalates form insoluble complexes with calcium andthereby interfere with calcium absorption.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 3,
+      "question": "Following a road traffic accident, a patient underwent transfusion with 5 units of packed redblood cells. Soon after, he developed tetany. His serum calcium level was 7.5 mg/dl on labreports. Which of the following is preferred as the treatment of choice for the givencondition?",
+      "options": {
+        "A": "Calcium chloride",
+        "B": "Calcium gluconate",
+        "C": "Calcium carbonate",
+        "D": "Calcium lactate"
+      },
+      "correct_answer": "B",
+      "explanation": "This is a case of hypocalcemia following a massive blood transfusion and IV calcium gluconate isthe preferred treatment.The hypocalcemia results from Ca2+ chelation by citrate (added to the blood product aspreservative and anticoagulant). Calcium gluconate is the preferred over calcium chloride for theemergency treatment of hypocalcemia because it is less irritating and better tolerated.However, calcium chloride may be preferable to calcium gluconate in the presence of abnormalliver function, because decreased citrate metabolism results in a slower release of ionized calcium.It is generally reserved for severe symptomatic hypocalcemia, (&lt;4 mg/dL) and when given,should be administered via a central venous access device to avoid extravasation and tissuenecrosis.Calcium carbonate and calcium lactate are oral preparations of calcium.639",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is true regarding plasma calcium?",
+      "options": {
+        "A": "Ca2+ sensing receptor is a voltage gated ion channel634",
+        "B": "Albumin bound calcium is physiologically most important",
+        "C": "Calcium is mainly absorbed from large intestine",
+        "D": "Acidosis favours ionization of calcium"
+      },
+      "correct_answer": "D",
+      "explanation": "Acidosis favors the ionization of calcium.Hyperventilation by causing alkalosis favors the deionization of calcium. Alkalosis result inprecipitation of tetany and laryngospasm in calcium-deficient patients-Option A Ca2+ sensing receptor is a type of G protein coupled receptor.Option B - 50% of the Ca2+ is in ionized form and is physiologically most important.Option C Calcium is mainly absorbed from the small intestine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 5,
+      "question": "A 57-year-old post menopausal lady has been on alendronate for the past two years. By whichof the following mechanisms does this drug act?",
+      "options": {
+        "A": "Increasing the osteoid formation",
+        "B": "Increasing the mineralization of osteoid",
+        "C": "Decreasing the osteoclast mediated resorption of bone",
+        "D": "Decreasing the activity of osteoprotegerin"
+      },
+      "correct_answer": "",
+      "explanation": "Alendronate is a bisphosphonate which acts by decreasing osteoclast mediated bone resorption.Osteoclasts internalize bisphosphonates as they are released along with calcium from the bonesurface and then reduce osteoclast activity by:••• Promoting apoptosis of osteoclastsDisrupting the cytoskeleton and ruffled border of osteoclastsInhibiting the differentiation of osteoclasts",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is not an indication to use bisphosphonates?",
+      "options": {
+        "A": "Paget's disease",
+        "B": "Vitamin D excess",
+        "C": "Postmenopausal osteoporosis",
+        "D": "Hypercalcemia of malignancy"
+      },
+      "correct_answer": "B",
+      "explanation": "Bisphosphonates are not indicated in the treatment of vitamin D excess.Indications for the use of bisphosphonates:•Osteoporosis• Paget's disease• Hypercalcemia of malignancy•⚫ Osteolytic bone metastasis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 7,
+      "question": "A 65-year-old lady has been taking zoledronate for the treatment of osteoporosis. She is at ahigh risk of developing which of the following side effects?",
+      "options": {
+        "A": "Acute renal failure",
+        "B": "Ventricular fibrillation",
+        "C": "Peptic ulcer",
+        "D": "Anterior uveitis"
+      },
+      "correct_answer": "A",
+      "explanation": "Zoledronate use has been associated with acute renal failure.It is nephrotoxic. So baseline renal function and monitoring of renal function during therapy withzoledronate is recommended.Long term complications seen with bisphosphonate therapy are osteonecrosis of jaw andsubtrochanteric fracture of femur.640",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is used in the first-line management of postmenopausal osteoporosis?635",
+      "options": {
+        "A": "Estrogen",
+        "B": "Bisphosphonates",
+        "C": "Raloxifene",
+        "D": "Combined oral contraceptives"
+      },
+      "correct_answer": "B",
+      "explanation": "Bisphosphonates are used in the first-line management of postmenopausal osteoporosis.Bisphosphonates are analogs of pyrophosphates. They specifically inhibit bone resorption andthus are very effective for the treatment of postmenopausal osteoporosis.Bisphosphonates concentrate at sites of active remodeling. They remain in the matrix until thebone is remodeled. Then, they are released in the acid environment of the resorption lacunae andinduce apoptosis in osteoclasts.Classification of bisphosphonates (mainly based on potency):First-generation:• Etidronate (least potent)• Clodronate• TiludronateSecond-generation: 10-100 times more potent than the first generation• Alendronate• Pamidronate• IbadronateThird-generation: 10,000 times more potent than the first generation• RisedronateZoledronate",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 9,
+      "question": "You start a patient on alendronate for osteoporosis. The patient enquires about the sideeffects and their management. Which of the following measures would you not recommend todecrease oesophageal irritation?",
+      "options": {
+        "A": "Remaining upright for 30 minutes",
+        "B": "Use of proton pump inhibitor at bedtime",
+        "C": "Shifting to intravenous formulation",
+        "D": "Administration with food"
+      },
+      "correct_answer": "D",
+      "explanation": "Bisphosphonates are not recommended to be administered with food to minimize esophagealirritation.Oral bisphosphonates have very limited bioavailability (&lt;1-10%). Bisphosphonates arerecommended to be administered after an overnight fast with a full glass of water at least 30minutes before breakfast.Options A and B- Remaining upright for 30 minutes after dosing and taking proton pumpinhibitors at bedtime can decrease the symptoms.Option C- As esophageal irritation is due to the local direct effect of the oral formulation, shiftingto intravenous formulations reduces the symptoms.Note- The prescribing information of all the oral bisphosphonates states that it has to be takenalong with tap or filtered water, and not mineral water as it contains higher amounts of calciumwhich can interfere with the absorption of bisphosphonates. It is prudent to inform patients to nothave the medications with water having higher calcium levels.641",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 10,
+      "question": "In which of the following conditions is teriparatide indicated?",
+      "options": {
+        "A": "Severe osteoporosis",
+        "B": "Paget disease",
+        "C": "Hypercalcemia",
+        "D": "Osteosarcoma"
+      },
+      "correct_answer": "A",
+      "explanation": "Teriparatide is indicated in severe osteoporosis.Teriparatide is a recombinant human parathyroid preparation. It increases bone formationespecially when given in low doses and intermittently.Although it may be more effective than bisphosphonates and estrogen, it has to be administeredsubcutaneously every day. Hence it indicated mostly in severe osteoporosis.Teriparatide increases the risk of osteosarcoma and it is contraindicated in conditions that causeshigh risk of osteosarcoma such as:• Paget disease• Prior h/o of radiotherapy• Young adults with open epiphysis• Unexplained elevated ALP•• HypercalcemiaAbaloparatide is also a PTHrP preparation available.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following drugs promotes bone formation?",
+      "options": {
+        "A": "Calcitonin",
+        "B": "Raloxifene",
+        "C": "Bisphosphonates",
+        "D": "Teriparatide"
+      },
+      "correct_answer": "D",
+      "explanation": "Teriparatide increases bone formation especially when given in low doses and intermittently.Teriparatide is a recombinant preparation of parathyroid hormone.The pharmacologic activity of teriparatide, which is similar to the physiologic activity of PTH,includes stimulating osteoblast function, increasing gastrointestinal calcium absorption, andincreasing renal tubular reabsorption of calcium.Although it may be more effective than bisphosphonates and estrogen, it has to be administeredsubcutaneously every day. Hence it is indicated mostly in severe osteoporosis.Teriparatide increases the risk of osteosarcoma and it is contraindicated in conditions that causehigh risk of osteosarcoma such as:• Paget disease•Prior h/o of radiotherapy• Young adults with open epiphysis• Unexplained elevated ALP• HypercalcemiaOption A: Calcitonin decreases bone resorption.Option B: Raloxifene is a selective estrogen receptor modulator, which decreases bone resorption.It is used to prevent and treat osteoporosis in postmenopausal women.Option C: Bisphosphonates like alendronate and etidronate decrease bone resorption.642",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 12,
+      "question": "636Which of the following acts by causing both decreased bone resorption and increased boneformation?",
+      "options": {
+        "A": "Strontium ranelate",
+        "B": "Ibandronate",
+        "C": "Teriparatide",
+        "D": "Calcitonin"
+      },
+      "correct_answer": "A",
+      "explanation": "Strontium ranelate acts by both decreased bone resorption and increased bone formation.It is generally reserved for severe osteoporosis. Due to an increased incidence of myocardialinfarction and other cardiovascular events, the use is restricted in all the approved regions.Option B- Ibandronate which is a bisphosphonate, decreases bone resorption only.Option C-The pharmacologic activity of teriparatide, which is similar to the physiologic activity ofPTH, includes stimulating osteoblast function, increasing gastrointestinal calcium absorption, andincreasing renal tubular reabsorption of calcium.Option D- Calcitonin also decreases bone resorption.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 13,
+      "question": "A 70-year-old patient with severe backache has a T-score of -3. He is started on a monoclonalantibody against RANKL. Identify the drug.",
+      "options": {
+        "A": "Romosozumab",
+        "B": "Denosumab",
+        "C": "Odanacatib",
+        "D": "Blosozumab"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical history depicts a case of osteoporosis. Denosumab is a monoclonal antibodyagainst RANKL that is indicated in the treatment of osteoporosis.It inhibits the binding of RANKL to RANK receptors on osteoclasts and thereby inhibiting theactivation of osteoclast and also promotes their apoptosis.Options A and D: Romosozumab and blosozumab are monoclonal antibodies against sclerostin(sclerostin blocks osteoblast proliferation).Option C: Odanacatib is an inhibitor of cathepsin K which is an enzyme in osteoclast thatfacilitates bone resorption.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 14,
+      "question": "A post-menopausal lady who is taking estrogen as part of her hormone replacement therapyreads about raloxifene on the internet and wants to change her current treatment. Which ofthe following is not an advantage of using raloxifene over estrogen?",
+      "options": {
+        "A": "Reduces fracture rates",
+        "B": "Avoids endometrial hyperplasia",
+        "C": "Reduces incidence of venous thrombosis",
+        "D": "No increase in incidence of breast carcinoma"
+      },
+      "correct_answer": "",
+      "explanation": "Raloxifene causes a 3-fold increase in deep vein thrombosis and pulmonary embolism.It is a selective estrogen receptor modulator (SERM) with the following actions:•••Agonist actions:Bone increases bone mineral density and reduces the risk of vertebral fracture-• Lipids - increases the risk of deep vein thrombosis and pulmonary embolism.•Antagonist actions:• Breast incidence of breast carcinoma is reduced• Uterus - endometrial hyperplasia is avoided",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 15,
+      "question": "A 45-year-old patient with chronic kidney disease developed secondary hyperparathyroidismfor which he was treated appropriately, and was started on cinacalcet. Which of the followingbest describes the mechanism of action of this drug?",
+      "options": {
+        "A": "Calcitonin preparation",
+        "B": "PTH preparation",
+        "C": "Calcimimetic637",
+        "D": "Vitamin D3 analog"
+      },
+      "correct_answer": "",
+      "explanation": "Cinacalcet is a calcimimetic agent.643It activates the calcium-sensing receptor (CaSR) in the parathyroids and blocks PTH secretion.Cinacalcet is a type II calcimimetic agent, it means that it needs either Ca2+ or some otheragonist to activate CaSR.It is indicated for secondary hyperparathyroidism due to chronic kidney disease and tumor ofparathyroid gland.Type I calcimimetic agents are those which can activate CaSR directly such as aminoglycoside andpolylysine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    },
+    {
+      "q_no": 16,
+      "question": "A 40-year-old male patient who requires weekly hemodialysis is started on sevelamer. Whichof the following best describes the mechanism of action of this drug?",
+      "options": {
+        "A": "Vitamin D analog",
+        "B": "Calcium-sensing receptor mimetic",
+        "C": "Phosphate binder",
+        "D": "Potassium binder"
+      },
+      "correct_answer": "",
+      "explanation": "Sevelamer is a phosphate binder indicated in chronic kidney disease.Sevelamer is a nonabsorbable polymer that acts as a nonselective anion exchanger that lowersserum phosphate concentration.It is indicated to lower phosphate levels in patients with chronic kidney disease who are ondialysis.Note: Patiromer is a potassium binder approved for use in hyperkalemia.644",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Osteoporosis and Calcium Metabolism"
+    }
+  ]
+}

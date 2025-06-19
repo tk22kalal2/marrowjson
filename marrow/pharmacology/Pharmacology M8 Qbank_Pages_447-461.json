@@ -1,0 +1,365 @@
+{
+  "chapter": "Antimicrobials Acting on 30s Subunit",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A patient diagnosed with tuberculosis is undergoing treatment with streptomycin. Which ofthe following is the primary intracellular site of action of this drug?",
+      "options": {
+        "A": "30S ribosomal subunit",
+        "B": "DNA helicase enzyme",
+        "C": "50S ribosomal subunit",
+        "D": "Topoisomerase IV enzyme"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements about aminoglycosides is false?",
+      "options": {
+        "A": "They are teratogenic",
+        "B": "They are excreted unchanged in urine",
+        "C": "They are bacteriostatic",
+        "D": "They are distributed only extracellularly"
+      },
+      "correct_answer": "C",
+      "explanation": "Aminoglycosides are rapid bactericidal agents.Aminoglycosides like streptomycin and tobramycin cause hearing loss in a newborn child whentaken during pregnancy. They are polar compounds and are excreted usually unchanged in theurine. They are distributed mainly in the extracellular compartment.Primarily bacteriostatic drugs are:• Sulfonamides•Erythromycin.• Tetracyclines•⚫ Clindamycin•⚫ Chloramphenicol454• Linezolid• EthambutolPrimarily bactericidal drugs are:• Penicillins•Cephalosporins• Aminoglycosides• Vancomycin.⚫ Polypeptides•Ciprofloxacin•Rifampin• Metronidazole• Isoniazid• Cotrimoxazole• Pyrazinamide",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 3,
+      "question": "A young man working in a rabbit farm presents with fever, lymphadenopathy and an ulcer onthe hand and is diagnosed with tularemia. What is the drug of choice for this condition?",
+      "options": {
+        "A": "Amikacin",
+        "B": "Neomycin",
+        "C": "Kanamycin",
+        "D": "Streptomycin"
+      },
+      "correct_answer": "D",
+      "explanation": "Streptomycin (if not available, gentamicin) is considered the drug of choice for the treatment oftularemia.Tularemia is caused by Francisella tularensis, an aerobic gram-negative bacteria.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 4,
+      "question": "A child presented with recurrent episodes of cough with expectoration. Investigationsrevealed a positive sweat chloride test. Inhalational formulation of which of the followingaminoglycosides is approved for use in this condition?447",
+      "options": {
+        "A": "Amikacin",
+        "B": "Gentamicin",
+        "C": "Tobramycin",
+        "D": "Streptomycin"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of cystic fibrosis. Inhalational formulation of tobramycinis approved for use in cystic fibrosis patients with Pseudomonas aeruginosa infections.Option A: Injectable formulation of amikacin is used in cystic fibrosis.Options B &amp; D: Inhalational formulations of gentamicin and streptomycin are available butthey are usually not used.Note: The question is about approved inhalational formulation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 5,
+      "question": "The organisms detected in culture and sensitivity reports of various specimens obtained fromthe patients from a medical ward are given below. In which of the following infections wouldamikacin not be indicated?",
+      "options": {
+        "A": "4 only",
+        "B": "1 and 4 only",
+        "C": "5 only",
+        "D": "2 and 3 only"
+      },
+      "correct_answer": "",
+      "explanation": "Amikacin has less activity against enterococci and hence is not indicated in infections caused bythis organism. In enterococcal infections, gentamicin along with penicillin (or ampicillin) is given.455Amikacin is used against serious nosocomial gram-negative bacillary infections which areresistant to gentamicin and tobramycin. It has good activity against most strains of the followingorganisms:•Pseudomonas aeruginosa• Serratia• Proteus• Klebsiella• Enterobacter• Escherichia coli",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 6,
+      "question": "Oral neomycin will not be effective for treating which of the following patients?",
+      "options": {
+        "A": "A patient requiring pre-operative antisepsis for bowel surgery",
+        "B": "A elderly man with hepatic encephalopathy",
+        "C": "A child with enteropathogenic E. coli associated diarrhea",
+        "D": "A woman with a cut wound on the finger"
+      },
+      "correct_answer": "D",
+      "explanation": "Topical neomycin is used widely for a variety of infections of the skin and mucous membranesand to prevent infection of minor cuts and wounds.Oral neomycin can be used for the eradication of bacteria confined to GIT in the followingconditions:•Pre-operative antisepsis for bowel surgery• Hepatic encephalopathy: To reduce deleterious ammonia producing bacteria•• Enteropathogenic E. coli associated diarrheaOrally administered neomycin is poorly absorbed from the GI tract and is eliminated unchangedin the feces.Neomycin is highly nephrotoxic in human beings and hence should not be administeredsystemically.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient with hospital-acquired pneumonia is being treated with an aminoglycosideantibiotic by a single daily dose administration method. This method is preferred over themultiple daily dosage method because of which of the following properties ofaminoglycosides?",
+      "options": {
+        "A": "Decreased CYP450 mediated metabolism",
+        "B": "Long post antibiotic effect",
+        "C": "Increased binding to plasma proteins",
+        "D": "Time dependent killing448"
+      },
+      "correct_answer": "B",
+      "explanation": "Single daily dose aminoglycoside administration is more preferable to multiple daily doseadministration because of the long post-antibiotic effect.For certain classes of drugs such as aminoglycosides and quinolones, its antimicrobial action isdependent on the peak concentration above MIC (Minimum Inhibitory Concentration). It isreferred to as concentration-dependent killing.High-dose, extended-interval dosing schemes take advantage of the concentration-dependentactivity of aminoglycosides to achieve maximal initial bacterial killing. And then because of thepostantibiotic effect of aminoglycosides, good therapeutic response can be attained even whenconcentrations fall below MIC for a substantial fraction of the dosing interval.Therefore, a single daily dose would be equal to or more effective than multiple 8 hourlydoses. This dosing strategy may also reduce the ototoxicity and nephrotoxicity of these drugs.456Time-dependent killing is an effect seen when the antimicrobial action is dependent on theduration, the drug concentration remains above the MIC. Beta-lactams, macrolides, andvancomycin have this property.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient who was diagnosed with urinary tract infection receives a single intramuscular doseof gentamicin. Within how many minutes of administration is the peak concentration of thisdrug achieved?",
+      "options": {
+        "A": "0-30 minutes",
+        "B": "30-90 minutes",
+        "C": "90-120 minutes",
+        "D": "120-180 minutes"
+      },
+      "correct_answer": "B",
+      "explanation": "Gentamicin is an aminoglycoside antibiotic and the peak concentration of aminoglycosidesfollowing intramuscular administration is achieved after 30-90 minutes.Aminoglycosides need therapeutic dose monitoring because of their low therapeutic indexespecially in patients in whom renal function is compromised. Both trough and peak levels arecalculated for aminoglycosides.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 9,
+      "question": "The urine culture and sensitivity report of a patient with urinary tract infection is positive foraminoglycoside-resistant Enterococcus faecalis. What is the most common mode of thisresistance?",
+      "options": {
+        "A": "Inhibition of transport across bacterial membranes",
+        "B": "Production of inactivating enzymes",
+        "C": "Low affinity of bacterial ribosome",
+        "D": "Drug efflux mechanism through the membrane"
+      },
+      "correct_answer": "B",
+      "explanation": "Clinically, the most common cause of aminoglycoside resistance is drug inactivation by enzymes.The inactivating enzymes are commonly acquired through conjugation and transfer of plasmidscontaining resistance genes.Causes of aminoglycoside resistance are:•• Drug inactivation by enzymes• Increased drug efflux••• Decreased permeability to the drug• Modifications of the 30S ribosomal subunit that interferes with binding of the aminoglycosides",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 10,
+      "question": "In which of the following patients will you prescribe aminoglycosides at a lower dose?",
+      "options": {
+        "A": "A urosepsis patient with associated AKI",
+        "B": "A cystic fibrosis patient with acute pulmonary exacerbation",
+        "C": "A diabetic patient with infected burn wounds",
+        "D": "A CLD patient with osteomyelitis"
+      },
+      "correct_answer": "A",
+      "explanation": "The dose of aminoglycosides is to be reduced in patients with renal failure (AKI) becauseclearance of the drug is reduced.Aminoglycosides undergo minimum metabolism and are primarily excreted almost entirely byglomerular filtration. Therefore, renal failure decreases the clearance of the drug. Because theincidence of nephrotoxicity and ototoxicity is likely related to the overall exposure toaminoglycosides, it is critical to reduce the maintenance dose and dosing interval of these drugs inpatients with impaired renal function.Option B: Renal clearances are increased and the half-life is reduced in cystic fibrosis patientsnecessitating higher doses.Option C: Burn patients have a more rapid drug clearance probably due to increased drug lossthrough burnt tissue and require higher doses in them.Option D: Aminoglycoside dose adjustment is not required in liver disease457",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient who was on aminoglycoside therapy presents with nausea and vomiting.Investigations revealed rising serum creatinine levels, and granular casts were seen on urinemicroscopy. Which of the following aminoglycosides is least likely to cause this condition?",
+      "options": {
+        "A": "Amikacin",
+        "B": "Gentamicin449",
+        "C": "Streptomycin",
+        "D": "Tobramycin"
+      },
+      "correct_answer": "",
+      "explanation": "The scenario depicts a case of aminoglycoside-induced nephrotoxicity and the least nephrotoxicamong aminoglycosides is streptomycin because it does not concentrate in the renal cortex.Among aminoglycosides, neomycin has the highest and streptomycin has the least nephrotoxicity.Adverse effects of aminoglycosides are:•⚫ Nephorotoxicity•⚫ Ototoxicity• Acute neuromuscular blockade and apnea• Hypersensitivity reactions (rare)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 12,
+      "question": "Vestibular toxicity is predominantly seen with which of the following aminoglycosides?",
+      "options": {
+        "A": "Amikacin",
+        "B": "Kanamycin",
+        "C": "Streptomycin",
+        "D": "Neomycin"
+      },
+      "correct_answer": "",
+      "explanation": "Vestibular toxicity is predominantly seen with streptomycin and gentamicin.Ototoxicity seen with aminoglycosides:••Cochlear toxicity (high-pitched tinnitus) - amikacin, kanamycin, neomycinVestibular toxicity (moderately intense headache and vertigo) - streptomycin &gt; gentamicin⚫ Both vestibular toxicity and cochlear toxicity - tobramycin•",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient who was recently started on i.v. gentamicin for enterococcal endocarditis presentedto the OPD with complaints of headache and dizziness. By which of the following mechanismsdoes the drug cause this adverse effect?",
+      "options": {
+        "A": "Direct hair cell toxicity",
+        "B": "Inhibition of hair cell Na+/K+ ATPase",
+        "C": "Non-cumulative toxicity",
+        "D": "Interference with Ca2+ channels"
+      },
+      "correct_answer": "A",
+      "explanation": "The scenario depicts a case of gentamicin-induced ototoxicity which is caused due to direct haircell toxicity. Degeneration of vestibular hair cells and neurons leads to vertigo and associatedheadache.Streptomycin and gentamicin produce predominantly vestibular effects. Amikacin, kanamycin,and neomycin primarily affect auditory function. Tobramycin affects both equally.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 14,
+      "question": "An elderly patient who was taken up for an emergency laparotomy showed prolongedrespiratory depression which did not resolve with neostigmine. On inquiry, the attendantconfirmed that the patient was on aminoglycoside therapy. Which of the following is leastlikely to cause this effect?",
+      "options": {
+        "A": "Amikacin",
+        "B": "Kanamycin",
+        "C": "Gentamicin",
+        "D": "Tobramycin"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario depicts the neuromuscular blockade effect of aminoglycosides, and tobramycinhas the least potency for blockade in this group.Decreasing order of potency for the neuromuscular blockade is:Neomycin &gt; Kanamycin &gt; Amikacin &gt; Gentamicin &gt; Tobramycin458It is a recognized clinical side effect of aminoglycoside antibiotics, and this effect becomessignificant (prolonged respiratory depression) when the drug is used in conjunction withneuromuscular blocking agents or calcium channel blockers. They are avoided in patients withmyasthenia gravis.Aminoglycosides cause neuromuscular blockade by interfering with calcium channels andthereby inhibiting acetylcholine's pre-junctional release and post-junctional sensitivity. Theneuromuscular blockade produced by these antibiotics is not reversed by neostigmine but isreversed by IV calcium gluconate.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 15,
+      "question": "450Which of the following is the drug of choice for scrub typhus?",
+      "options": {
+        "A": "Doxycycline",
+        "B": "Azithromycin",
+        "C": "Chloramphenicol",
+        "D": "Ciprofloxacin"
+      },
+      "correct_answer": "A",
+      "explanation": "Doxycycline is the drug of choice for scrub typhus.Azithromycin, chloramphenicol, or rifampin can be administered as alternatives in patientsallergic to doxycycline and in pregnancy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 16,
+      "question": "By which of the following mechanisms do tetracyclines inhibit protein synthesis?",
+      "options": {
+        "A": "Inhibition of initiation of translation and misreading of mRNA",
+        "B": "Binding to 30S subunit and inhibiting the binding of aminoacyl-tRNA to A site",
+        "C": "Binding to 30S subunit and inhibiting peptide bond formation",
+        "D": "Inhibits binding of aminoacyl-t-RNA to 50s subunit of ribosome"
+      },
+      "correct_answer": "B",
+      "explanation": "Tetracyclines inhibit protein synthesis by binding to 30s subunit and inhibiting the binding ofaminoacyl-tRNA to the A (acceptor) site of the mRNA - ribosome complex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following organisms is resistant to tetracyclines?",
+      "options": {
+        "A": "MRSA",
+        "B": "Pseudomonas aeruginosa",
+        "C": "Rickettsia",
+        "D": "Mycoplasma"
+      },
+      "correct_answer": "B",
+      "explanation": "All strains of Pseudomonas aeruginosa are resistant to the action of tetracyclines.Tetracyclines are active against MRSA and MSSA. Doxycycline and minocycline can be used incutaneous MRSA infections.Rickettsia and chlamydia are highly susceptible to tetracyclines. Tetracyclines are considered firstline agents for chlamydial infections like non-specific urethritis/ endocervicitis and rickettsialinfections like typhus, rocky mountain spotted fever, Q fever.They are also second-line drugs in patients with syphilis who are allergic to penicillin.Tetracyclines are bacteriostatic drugs which are more active against gram-positive thangram-negative. They are effective against spirochetes, Haemophilus ducreyi, Vibriocholera, Mycoplasma pneumoniae.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 18,
+      "question": "In patients with which of the following conditions is doxycycline not used?",
+      "options": {
+        "A": "Leptospirosis",
+        "B": "Lymphogranuloma veneruum",
+        "C": "Borrelliosis",
+        "D": "Typhoid fever"
+      },
+      "correct_answer": "D",
+      "explanation": "Doxycycline is not used in typhoid infection. Enterobacteriaceae and gram-negative anaerobes areresistant to tetracyclines, hence doxycycline is not used in intraabdominal infections.Third-generation cephalosporins and quinolones are used in treating typhoid fever.459Doxycycline treatment for 21 days is the first-line therapy for lymphogranuloma venereum. It isalso indicated as one of the first-line treatments for borreliosis.Doxycycline is the alternative to penicillin for the treatment of leptospirosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 19,
+      "question": "Tetracycline is used for the prophylaxis of which of the following conditions?451",
+      "options": {
+        "A": "Cholera",
+        "B": "Brucellosis",
+        "C": "Leptospirosis",
+        "D": "Meningitis"
+      },
+      "correct_answer": "A",
+      "explanation": "Tetracycline is used for the prophylaxis of cholera. It is recommended for close contacts of a caseof cholera. It is supposed to be effective in preventing spread.Doxycycline in combination with rifampicin is used for prophylaxis of brucellosis. It is also usedin the prophylaxis of leptospirosis.Note: The question is about the drug tetracycline and not about the class of tetracyclines as awhole.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 20,
+      "question": "The urine culture and sensitivity report of a patient is positive for tetracycline-resistantEnterococcus faecalis. Which among the following is a minocycline derivative that can beused in this condition?",
+      "options": {
+        "A": "Methacycline",
+        "B": "Lymecycline",
+        "C": "Doxycycline",
+        "D": "Tigecycline"
+      },
+      "correct_answer": "D",
+      "explanation": "Tigecycline is a glycylcycline and a derivative of minocycline that is active against most bacteriathat are resistant to classical tetracyclines, and hence can be used in this condition.The mechanism of action is similar to tetracyclines. It is used against enterobacteriaceae,gram-negative anaerobes, and enterococcus which are resistant to tetracyclines.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 21,
+      "question": "A patient diagnosed with the syndrome of inappropriate secretion of antidiuretic hormone isprescribed a drug known to cause nephrogenic diabetes insipidus. Identify this drug.",
+      "options": {
+        "A": "Minocycline",
+        "B": "Demeclocycline",
+        "C": "Tetracycline",
+        "D": "Doxycycline"
+      },
+      "correct_answer": "B",
+      "explanation": "The drug described here is demeclocycline. Nephrogenic diabetes insipidus is associated with theuse of this drug. This side effect of the drug is utilized in the treatment of SIADH (syndrome ofinappropriate secretion of antidiuretic hormone).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 22,
+      "question": "A patient develops dizziness, ataxia, and nausea after he was started on an antimicrobialdrug. Which of the following drugs can be implicated?",
+      "options": {
+        "A": "Tetracycline",
+        "B": "Oxytetracycline",
+        "C": "Doxycycline",
+        "D": "Minocycline"
+      },
+      "correct_answer": "D",
+      "explanation": "The drug described here is minocycline as it is associated with vestibular toxicity which manifestsas dizziness, ataxia, nausea, and vomiting. Symptoms usually occur soon after the initial dose isgiven and disappears 24-48 hours after drug administration is stopped.Uses of minocycline are:• Cutaneous MRSA infections••Along with sulfonamides for nocardiosis (alternative therapy)Subgingival administration in dentistry (extended-release preparations)460",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 23,
+      "question": "452An infant on antibiotics becomes very irritable. Investigations reveal increased intracranialpressure. However, the condition resolves on discontinuation of the drug. Which drug hadthe baby likely been on?",
+      "options": {
+        "A": "Aminoglycosides",
+        "B": "Tetracyclines",
+        "C": "Chloramphenicol",
+        "D": "Macrolides"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario depicts a case of pseudotumor cerebri and tetracyclines are associated withthis condition in infants, even when given in normal doses. Only elevated intracranial pressure isseen without any abnormality in the spinal fluid. Increased pressure returns to normal aftertherapy is discontinued.Other side effects of tetracyclines are:•Teratogenic• Deposit in developing teeth and bones, cause brownish discoloration of teeth (chelatingproperty)• Marked suppression of normal flora of intestine causing superinfection. Pseudomembranousenterocolitis is a rare side effect",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following drugs does not require dose reduction in patients with renal failure?",
+      "options": {
+        "A": "Gentamicin",
+        "B": "Vancomycin",
+        "C": "Amphotericin B",
+        "D": "Doxycycline"
+      },
+      "correct_answer": "D",
+      "explanation": "Doxycycline does not require dose reduction in renal failure. Doxycycline, minocycline, andglycylcyclines like tigecycline have fewer renal side effects.Antibiotics causing acute kidney injury are as follows:• Acute tubular necrosis:• Amphotericin B•Vancomycin•Acyclovir• Foscarnet• Tenofovir• Acute interstitial nephritis:• Penicillin•⚫ Cephalosporins• Quinolones• Rifampicin461",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antimicrobials Acting on 30s Subunit"
+    }
+  ]
+}

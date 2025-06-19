@@ -1,0 +1,395 @@
+{
+  "chapter": "Antihypertensive Drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is the most appropriate first-line medication for an elderly patient with hypertension?",
+      "options": {
+        "A": "Hydrochlorothiazide",
+        "B": "Furosemide",
+        "C": "Chlorthalidone",
+        "D": "Spironolactone"
+      },
+      "correct_answer": "C",
+      "explanation": "The most appropriate first-line antihypertensive among the given drugs is Chlorthalidone. Thiazide diuretics are recommended as one of the first-line antihypertensive drugs for elderly patients without any comorbidities. Among them, guidelines recommend Chlorthalidone over Hydrochlorothiazide because of its longer duration of action. First-choice drugs used in the treatment of hypertension in patients without any comorbidities include: • ACE inhibitors or ARBs: No evidence of superiority of one class over the other. However, ACE inhibitors have a higher risk of side effects like dry cough and angioedema. Calcium channel blockers: Extended-release, long-acting dihydropyridines are preferred. Thiazide diuretics: Chlorthalidone is usually preferred to Hydrochlorothiazide. Loop diuretics like Furosemide and Torsemide are less effective antihypertensives than thiazides. They are not indicated for the routine management of hypertension. In the presence of any associated conditions or comorbidities, the first choice drugs for the treatment of hypertension would be as follows: Comorbidities: Diabetes, Chronic kidney disease with proteinuria, Angina, Heart failure, Benign prostatic hyperplasia, Pregnancy, Atrial fibrillation. First choice drugs for hypertension: ACE inhibitors or ARBs, Beta-blockers or calcium channel blockers, ACE inhibitors and alpha+beta blockers (e.g., Carvedilol), ° 1 blockers, Labetalol, Diltiazem or Verapamil.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "Chlorthalidone is being prescribed to an elderly patient for the management of hypertension. Which of the following side effects would not be expected in this patient?",
+      "options": {
+        "A": "Hyperuricemia",
+        "B": "Hypercalcemia",
+        "C": "Hyperkalemia",
+        "D": "Hyperglycemia"
+      },
+      "correct_answer": "C",
+      "explanation": "Thiazide diuretics cause hypokalemia. Other side effects of thiazide diuretics include hyperuricemia, hypercalcemia, hyperglycemia, and erectile dysfunction. All thiazide diuretics cross the placenta and therefore should be avoided in pregnancy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient on lithium therapy developed hypertension. He was started on thiazides for hypertension. After a few days, he developed coarse tremors and other symptoms suggestive of lithium toxicity. Explain the likely mechanism of this interaction.",
+      "options": {
+        "A": "Thiazide inhibits the metabolism of lithium",
+        "B": "Thiazides act as an add-on drug to lithium",
+        "C": "Thiazides increase the tubular reabsorption of lithium",
+        "D": "Thiazides cause water loss, thereby increasing lithium levels"
+      },
+      "correct_answer": "C",
+      "explanation": "Thiazides act by increasing the tubular reabsorption of lithium. Thiazide use is accompanied by sodium loss, which is compensated in a few days by increased reabsorption of Na+ in the proximal tubule. The kidney handles both lithium and Na+ in the same way. Thus, along with Na+ reabsorption, there will be an increase in the reabsorption of lithium also, resulting in decreased excretion of lithium.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "A hypertensive patient on losartan requires an add-on drug to achieve his blood pressure goal. Which of the following drugs will not increase the risk of hyperkalemia when added to his current medication?",
+      "options": {
+        "A": "Atenolol",
+        "B": "Amiloride",
+        "C": "Indapamide",
+        "D": "Aliskiren"
+      },
+      "correct_answer": "C",
+      "explanation": "Indapamide is a thiazide diuretic that increases K+ excretion, decreasing the risk of hyperkalemia associated with ACE inhibitors or ARBs such as losartan. Option A: Beta-blockers can contribute to K+ retention by decreasing renin release and further reducing aldosterone secretion. Non-selective beta-blockers may also interfere with the cellular uptake of K+ ions. Option B: K+ sparing diuretics like amiloride cause a decrease in K+ excretion and increase the risk of hyperkalemia. Option D: Aliskiren is a direct renin inhibitor and increases the risk of hyperkalemia when combined with losartan.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 5,
+      "question": "Long-term reduction of blood pressure by thiazide diuretics is mainly by which of the following mechanisms?",
+      "options": {
+        "A": "Reduction in extracellular volume",
+        "B": "Reduction in sympathetic activity",
+        "C": "Reduction in peripheral vascular resistance",
+        "D": "Increase in extracellular volume"
+      },
+      "correct_answer": "C",
+      "explanation": "Long-term reduction of blood pressure by thiazide diuretics is mainly due to a reduction in peripheral vascular resistance. Thiazide diuretics initially decrease extracellular volume by their action on the NaCl transporter in distal convoluted tubules in the nephrons. However, the compensatory response from activation of RAAS raises the extracellular volume to almost pre-treatment levels after a few weeks.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "A diabetic patient is diagnosed with hypertension during his annual health check-up. What is the treatment of choice for him?",
+      "options": {
+        "A": "Chlorthalidone",
+        "B": "Carvedilol",
+        "C": "Captopril",
+        "D": "Nifedipine"
+      },
+      "correct_answer": "C",
+      "explanation": "ACE inhibitors such as captopril or ARBs can be considered as a treatment of choice in hypertensive patients with diabetes because of the renoprotective action. It benefits diabetic patients by reducing the risk of occurrence and progression of diabetic nephropathy. They are also recommended in patients with CKD irrespective of diabetes status as they can delay the progression of nephropathy. Option A: Thiazide diuretics worsen glycemic control and are not preferred in diabetic patients. Option B: Beta-blockers, especially non-selective blockers, worsen glycemic control. Option D: Calcium channel blockers have a neutral effect on glycemic control and can be used in diabetes if ACE inhibitors or ARBs cannot be given.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient is diagnosed with hypertension during routine health evaluation. Which of the following is not recommended as first-line therapy for him?",
+      "options": {
+        "A": "Verapamil",
+        "B": "Doxazosin",
+        "C": "Metolazone",
+        "D": "Quinapril"
+      },
+      "correct_answer": "B",
+      "explanation": "Alpha blockers like doxazosin are not recommended as first-line therapy for uncomplicated essential hypertension. As per the European Society of Cardiology 2018 guidelines for hypertension, the classes of drugs recommended as first-line therapy are: • ACE inhibitors • Angiotensin receptor blockers • Calcium channel blockers • Thiazide diuretics",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 8,
+      "question": "Which class of antihypertensive drugs has a favorable effect on lipid profile?",
+      "options": {
+        "A": "Thiazide diuretics",
+        "B": "Beta blockers",
+        "C": "Alpha 1 selective blockers",
+        "D": "Calcium channel blockers"
+      },
+      "correct_answer": "C",
+      "explanation": "Alpha 1 selective blockers have a favorable effect on lipid profile. They decrease plasma concentrations of triglycerides, total LDL-cholesterol and increase HDL cholesterol. Option A: Thiazides increase plasma concentrations of triglycerides, LDL-cholesterol and total cholesterol. HDL may decrease or remain unchanged. Option B: Non-selective beta-blockers increase triglycerides and decrease HDL levels. However, total cholesterol remains unchanged. Option D: Calcium channel blockers have a neutral effect on the lipid profile.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "Methyldopa is primarily used for which of the following conditions?",
+      "options": {
+        "A": "Hypertension in pregnancy",
+        "B": "Renovascular hypertension",
+        "C": "Hypertension with gout",
+        "D": "Refractory hypertension"
+      },
+      "correct_answer": "A",
+      "explanation": "Methyldopa is preferred for chronic hypertension in pregnancy based on its safety and efficacy data for both mother and fetus. Antihypertensives found safe in pregnancy: • Hydralazine • Methyldopa • Dihydropyridine CCBs like nifedipine, amlodipine - however, they should be stopped before labor as they weaken the uterine contractions • Cardioselective beta-blockers and those with intrinsic sympathomimetic activity. Antihypertensives to be avoided in pregnancy: • ACE inhibitors, Angiotensin II receptor blockers (ARB) • Diuretics • Nonselective beta-blockers • Nitroprusside. Labetalol is considered the first-line agent for hypertensive emergency in pregnancy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "A pregnant woman with hypertension, on treatment with methyldopa, comes for routine evaluation. She is found to have a positive Coombs test but is asymptomatic. What is the next course of action for this patient?",
+      "options": {
+        "A": "Immediately stop methyldopa",
+        "B": "Taper the dose of methyldopa",
+        "C": "Monitor for signs of hemolysis",
+        "D": "Switch to labetalol"
+      },
+      "correct_answer": "C",
+      "explanation": "The best course of action for the patient is close monitoring for any signs or symptoms of hemolysis. The Coombs test is done to test the presence of antibodies against Rh antigens on the red blood cells, which result in hemolysis. A positive Coombs test is seen in 20% of patients who receive methyldopa. However, only 1-5% of such patients develop hemolytic anemia, and hence, a positive Coombs test is not a necessary indication for stopping methyldopa treatment. They must be monitored closely, and any signs that indicate hemolytic anemia need prompt discontinuation of the drug.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is not true about clonidine?",
+      "options": {
+        "A": "Reduction in central sympathetic flow",
+        "B": "Prazosin completely antagonizes its action",
+        "C": "Sedation and xerostomia are common side effects",
+        "D": "It can be combined with vasodilators"
+      },
+      "correct_answer": "B",
+      "explanation": "Prazosin does not antagonize the effect of clonidine. Prazosin is a selective alpha 1 receptor antagonist, whereas clonidine is an alpha 2 receptor partial agonist. On oral administration, clonidine stimulates alpha 2A receptors in the CNS and results in decreased central sympathetic flow. This causes a decrease in blood pressure. However, on IV administration, postsynaptic alpha 2B receptors are activated at higher doses, which cause a transient rise in blood pressure. It also causes significant reductions in HDL lipids, apolipoproteins AI and AII. It can be combined with vasodilators but has to be used with caution, as potentiation of each other's actions can occur.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient presents with complaints of multiple episodes of intermittent palpitations, throbbing headache, and sweating. Blood pressure measured during one of these episodes is 210/120 mm Hg. The results of 24-hour urinary metanephrines were inconclusive. Which of the following could be used for diagnosis?",
+      "options": {
+        "A": "Phentolamine",
+        "B": "Phenoxybenzamine",
+        "C": "Clonidine",
+        "D": "Prazosin"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical vignette is suggestive of pheochromocytoma. When first-line investigations like measurement of 24-hour urinary metanephrines are inconclusive, clonidine suppression test is used in the diagnosis of pheochromocytoma. An oral dose of 0.3 mg clonidine is given, followed by the measurement of norepinephrine (NE) concentration at 3 hours. A concentration of >500 pg/mL of NE indicates a positive test. Option A: Phentolamine test is not recommended due to its low sensitivity and specificity. Options B and D: Phenoxybenzamine and prazosin are used in the treatment of pheochromocytoma but have no role in its diagnosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is a selective imidazoline receptor agonist?",
+      "options": {
+        "A": "Clonidine",
+        "B": "Methyldopa",
+        "C": "Moxonidine",
+        "D": "Brimonidine"
+      },
+      "correct_answer": "C",
+      "explanation": "Moxonidine is a selective imidazoline (I1) receptor agonist. It is indicated as a second-line agent in the long-term management of hypertension. It also has a weak alpha 2 agonist action. Rilmenidine is another selective imidazoline receptor agonist. Option A: Clonidine is an alpha 2 receptor partial agonist and has additional imidazoline (I1) receptor agonist action. But the main mode of action is through alpha 2 agonism. Option B: Methyldopa does not have any action on imidazoline receptors. Option D: Brimonidine is a congener of clonidine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following antihypertensives are not used in pregnancy?",
+      "options": {
+        "A": "Alpha methyldopa",
+        "B": "Hydralazine",
+        "C": "Propranolol",
+        "D": "Labetalol"
+      },
+      "correct_answer": "C",
+      "explanation": "Propranolol is a non-selective beta-blocker and is not safe for use during pregnancy. Antihypertensives to be avoided in pregnancy: • ACE inhibitors, ARBs • Diuretics • Nonselective beta-blockers • Nitroprusside. Antihypertensives found to be safe in pregnancy: • Hydralazine • Methyldopa • Dihydropyridine CCBs: should be stopped before labor as they weaken the uterine contractions. Cardioselective beta-blockers and those with intrinsic sympathomimetic activity: may be used as a last choice.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following drugs reduces blood pressure primarily by directly decreasing the heart rate?",
+      "options": {
+        "A": "Propranolol",
+        "B": "Prazosin",
+        "C": "Alpha methyl dopa",
+        "D": "Nitroprusside sodium"
+      },
+      "correct_answer": "A",
+      "explanation": "Propranolol reduces blood pressure by directly decreasing the heart rate. It is a nonselective beta-blocker and blocks the beta 1 receptor of the heart (SA node), thus reducing the heart rate and blood pressure. It also reduces renin secretion by blocking beta 1 receptors in JG cells. Reduction in renin release also contributes to blood pressure reduction. Option B: Prazosin is a selective alpha 1 blocker and dilates both arteries and veins and may cause reflex tachycardia. Option C: Alpha methyl dopa is a selective alpha 2 receptor agonist. Alpha 2 receptors are autoreceptors present on the presynaptic membrane. On stimulation, central sympathetic discharge is reduced. Alpha methyl dopa can indirectly reduce heart rate. Option D: Nitroprusside is a vasodilator and may cause reflex tachycardia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 16,
+      "question": "The blood pressure of a patient undergoing a coronary artery bypass surgery suddenly rises to 170/110 mm Hg. Which of the following can you administer intravenously for immediate management?",
+      "options": {
+        "A": "Nifedipine",
+        "B": "Amlodipine",
+        "C": "Clevidipine",
+        "D": "Felodipine"
+      },
+      "correct_answer": "C",
+      "explanation": "Clevidipine is a dihydropyridine available for intravenous administration and is indicated in the acute management of hypertension. It has a short half-life (1-2 minutes) and a rapid onset of action. Option A: Nifedipine is a short-acting dihydropyridine that is no longer indicated in the management of hypertension. The rapid reduction in blood pressure and concurrent surges in sympathetic activity are not desirable. Options B and D: Amlodipine and felodipine are longer-acting dihydropyridines that are available in tablet forms. They are used for long-term treatment of hypertension.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 17,
+      "question": "An elderly hypertensive patient is diagnosed with bilateral renal artery stenosis. He is also on treatment for diabetes mellitus. Which among the following drugs would be the most appropriate for him?",
+      "options": {
+        "A": "Enalapril",
+        "B": "Verapamil",
+        "C": "Metoprolol",
+        "D": "Metolazone"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, verapamil would be the most appropriate drug for the management of hypertension in the patient as it has no adverse effect on glycemic control. Option A: Efferent arteriolar constriction maintains the glomerular filtration pressure in bilateral renal artery stenosis. ACE inhibitors are contraindicated in bilateral renal stenosis as it can precipitate acute renal failure due to dilation of efferent arterioles and fall in glomerular filtration pressure. Options C and D: Beta-blockers and thiazides can worsen glycemic control and are not suitable in the given scenario.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is a direct renin inhibitor?",
+      "options": {
+        "A": "Captopril",
+        "B": "Sacubitril",
+        "C": "Aliskiren",
+        "D": "Losartan"
+      },
+      "correct_answer": "C",
+      "explanation": "Aliskiren is a direct renin inhibitor. Though its efficacy as an antihypertensive is comparable to that of ACE inhibitors, it is not considered a first-line agent due to a higher incidence of side effects. Option A: Captopril is an angiotensin-converting enzyme inhibitor. Option B: Sacubitril is a neprilysin inhibitor indicated in combination with valsartan in chronic heart failure patients. Option D: Losartan is an angiotensin receptor blocker.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following statements is incorrect about diazoxide?",
+      "options": {
+        "A": "It acts by causing prolonged opening of ATP-dependent K+ channels in beta cells",
+        "B": "It can cause severe hypoglycemia",
+        "C": "It can be used to treat patients with insulinoma",
+        "D": "It is used as an antihypertensive agent"
+      },
+      "correct_answer": "B",
+      "explanation": "Diazoxide causes hyperglycemia, not hypoglycemia. Diazoxide is a potent K+ channel opener and opens up the ATP-sensitive K+ channel and thus prevents depolarization of pancreatic beta cells and subsequent insulin release. It is used in some cases of insulinoma to reduce insulin secretion and prevent hypoglycemia. It was earlier used as an intravenous agent for hypertensive emergencies due to its strong vasodilatory action.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 20,
+      "question": "A pregnant woman with preeclampsia is started on hydralazine. Which of the following statements is incorrect about the drug?",
+      "options": {
+        "A": "It decreases cerebral vascular resistance",
+        "B": "It causes equal dilatation of both arteries and veins",
+        "C": "Postural hypotension is not a common problem",
+        "D": "It increases plasma renin activity"
+      },
+      "correct_answer": "B",
+      "explanation": "Hydralazine causes preferential dilatation of arteries over veins. Hydralazine acts directly on vascular smooth muscles. The precise mechanism is unknown but involves a decrease in intracellular Ca2+ concentrations. Option A: It causes a selective decrease in vascular resistance in coronary, cerebral, and renal circulation, with a smaller effect in skin and muscle. Option C: Because of preferential dilatation of arterioles over veins, postural hypotension is not a common problem. Option D: Hydralazine-induced vasodilation causes reflex activation of the sympathetic system through baroreceptor-mediated reflexes, resulting in increased plasma renin activity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 21,
+      "question": "The efficacy of an antihypertensive agent is being studied in a clinical trial. During the course of the trial, the researchers observed hair regrowth and generalized hypertrichosis in balding patients. What is the mechanism of action of the drug being studied?",
+      "options": {
+        "A": "Closes K+ channels in vascular smooth muscle",
+        "B": "Activates K+ channels in vascular smooth muscle",
+        "C": "Activates Ca2+ channels in vascular smooth muscle",
+        "D": "Closes Ca2+ channels in vascular smooth muscle"
+      },
+      "correct_answer": "B",
+      "explanation": "The antihypertensive drug with the side effect of excess hair growth is minoxidil, and it acts by activating ATP-sensitive K+ channels in smooth muscles. This causes hyperpolarization that results in the relaxation of smooth muscles of arterioles. Topical minoxidil is also used for the treatment of androgenetic alopecia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 22,
+      "question": "A patient presented to the ER with severe headache and vomiting. On examination, the blood pressure was found to be 220/130 mm Hg and papilledema was also seen. What is the mechanism of the drug of choice for the condition?",
+      "options": {
+        "A": "Increased cAMP",
+        "B": "Calcium channel blockage",
+        "C": "Stimulation of guanylyl cyclase",
+        "D": "K+ channel opener"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario of severe hypertension (blood pressure ≥180/≥120 mmHg) with fundoscopic changes (flame hemorrhages and/or papilledema) is suggestive of malignant hypertension. The drug of choice is IV nicardipine, which acts by calcium channel blockage. Nicardipine blocks the influx of extracellular calcium across the vascular and myocardial smooth muscle cell membranes by blocking the voltage-sensitive calcium channels during depolarization. The decrease in intracellular calcium causes dilation of the coronary and systemic arteries. Other preferred agents for malignant hypertension are clevidipine with labetalol or esmolol. Note: Sodium nitroprusside is no longer the treatment of choice for acute hypertensive problems.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 23,
+      "question": "A patient with malignant hypertension is being managed with sodium nitroprusside infusion. He is at risk of developing all of the following adverse effects except?",
+      "options": {
+        "A": "Methemoglobinemia",
+        "B": "Cyanide toxicity",
+        "C": "Drug-induced lupus syndrome",
+        "D": "Thiocyanate toxicity"
+      },
+      "correct_answer": "C",
+      "explanation": "Drug-induced lupus is not an adverse effect of sodium nitroprusside infusion. When nitroprusside is administered at a high rate, it can result in the production of methemoglobin and cyanide. Cyanide is further metabolized to thiocyanate. On prolonged infusion, thiocyanate toxicity can also occur, especially in patients with renal failure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 24,
+      "question": "A patient with gout develops hypertension. The uric acid level was found to be elevated. Which of the following is not administered?",
+      "options": {
+        "A": "Hydrochlorothiazide",
+        "B": "Atenolol",
+        "C": "Enalapril",
+        "D": "Prazosin"
+      },
+      "correct_answer": "A",
+      "explanation": "Hydrochlorothiazides are not given to this patient. Gout is a metabolic disease associated with hyperuricemia. Thiazides increase direct urate reabsorption in the proximal renal tubules and are associated with elevated serum uric acid levels and may precipitate gout. Hence, hydrochlorothiazides are not used to treat hypertension in gout patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 25,
+      "question": "You will counsel patients regarding first-dose phenomenon while prescribing which of the following drugs?",
+      "options": {
+        "A": "Propranolol",
+        "B": "Prazosin",
+        "C": "Metoprolol",
+        "D": "Hydralazine"
+      },
+      "correct_answer": "B",
+      "explanation": "First-dose phenomenon is characteristic of prazosin and patients must be counseled regarding the effects. Within 30-90 minutes of the initial dose of prazosin or when the dosage is increased, there is marked orthostatic hypotension or syncope. This is known as the first-dose phenomenon. After a few initial doses, tolerance develops to this side effect. Initiating low doses at bedtime is recommended to minimize this phenomenon.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    },
+    {
+      "q_no": 26,
+      "question": "Which of the following drugs can be given safely in a patient with chronic renal failure?",
+      "options": {
+        "A": "Aluminum hydroxide",
+        "B": "Candesartan",
+        "C": "Telmisartan",
+        "D": "Sucralfate"
+      },
+      "correct_answer": "C",
+      "explanation": "Telmisartan can be given safely in a patient with chronic renal failure (CRF) because it is mainly cleared from circulation by biliary excretion. Options A and D: Sucralfate is a basic aluminum salt of sucrose sulfate. Sucralfate, aluminum hydroxide, and magnesium hydroxide in CRF patients can cause the accumulation of Al3+ and Mg2+ ions as they are preferentially excreted via the kidney after systemic absorption. Absorbed Al3+ can contribute to osteoporosis, encephalopathy, and proximal myopathy in CRF patients. Option B: Candesartan is cleared from circulation by renal and biliary excretion. Hence, plasma clearance is affected by renal insufficiency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antihypertensive Drugs"
+    }
+  ]
+}

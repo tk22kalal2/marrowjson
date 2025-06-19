@@ -1,0 +1,335 @@
+{
+  "chapter": "Penicillins",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following organisms is most sensitive to penicillin?",
+      "options": {
+        "A": "Staphylococcus",
+        "B": "Streptococcus",
+        "C": "Pneumococcus",
+        "D": "Treponema pallidum"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements about penicillin-binding proteins is false?",
+      "options": {
+        "A": "Present within cell membrane of bacteria",
+        "B": "Mutation in the PBPs gives rise to resistance",
+        "C": "PBPs are involved in protein synthesis",
+        "D": "These are targeted by imipenem"
+      },
+      "correct_answer": "C",
+      "explanation": "The targets for the action of ß-lactam antibiotics are collectively termed penicillin-bindingproteins (PBPs) and they are not involved in protein synthesis.Transpeptidase enzyme and related proteins constitute the penicillin-binding proteins (PBPs)which are present in the bacterial cell membrane. Transpepetidase is involved in the synthesis ofpeptidoglycan of the bacterial cell wall. All ß-lactam groups of antibiotics bind to PBPs and inhibitthe last step in peptidoglycan synthesis.494Mutation in the different PBPs confers resistance to the bacteria against the beta-lactams.Methicillin resistance in Staphylococcus aureus (MRSA) occurs due to alteration in the PBPS.Imipenem targets the PBPS, disrupting cell wall synthesis and causing death of themicro-organism.Beta-lactam group of antibiotics include:• Penicillins• Cephalosporins•Carbapenems• Monobactam",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 3,
+      "question": "In which of the following patients is penicillin G is not used as treatment?",
+      "options": {
+        "A": "38-year-old man with bacterial meningitis",
+        "B": "23-year-old trekker with scrub typhus",
+        "C": "28-year-old pregnant lady with syphilis.",
+        "D": "30-year-old police officer infected with anthrax"
+      },
+      "correct_answer": "B",
+      "explanation": "Penicillin G is not used against rickettsial infections like scrub typhus, and tetracyclines are thedrug of choice in this condition.Penicillins are ineffective against amebae, plasmodia, rickettsiae, fungi or viruses.Uses of penicillin are:• Prophylaxis of rheumatic carditis (benzathine penicillin)• Syphilis•Leptospirosis• Cervicofacial actinomycosis•Rat-bite fever• Meningococcal meningitis• Anthrax⚫ Listeria",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 4,
+      "question": "In which of the following conditions is Penicillin G not the drug of choice?",
+      "options": {
+        "A": "Actinomycosis",
+        "B": "Syphilis",
+        "C": "Lyme disease488",
+        "D": "Rat-bite fever"
+      },
+      "correct_answer": "C",
+      "explanation": "Penicillin G is not the drug of choice for Lyme disease, but is an alternative to doxycycline,amoxixilline and cefuroxime in the treatment of Lyme disease.Penicillin G is the drug of choice for all forms of actinomycosis, syphilis and rat-bite fever.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is false about penicillins?",
+      "options": {
+        "A": "Penicillin V is absorbed orally",
+        "B": "Benzathine penicillin is short acting penicillin",
+        "C": "Cloxacillin is beta lactamase and acid resistant",
+        "D": "Ampicillin is not resistant to beta lactamases"
+      },
+      "correct_answer": "B",
+      "explanation": "Benzathine penicillin G and procaine penicillin G are repository preparations of penicillin G andare long-acting.495They are given as deep I.M. injection. Benzathine penicillin has the longest half-life and isadministered every 2-4 weeks.Penicillin V is an acid-resistant penicillin preparation that is administered orally.Ampicillin has an extended spectrum but is not resistant to beta-lactamases.Penicillinase-resistant penicillins are:• Cloxacillin• Dicloxacillin• Flucloxacillin• Methicillin• Nafcillin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient is prescribed probenecid along with penicillin. What is the rationale behind this?",
+      "options": {
+        "A": "It is a beta lactamase inhibitor",
+        "B": "It increases the duration of action of penicillins",
+        "C": "It increases the excretion of penicillins in kidney",
+        "D": "It decreases the metabolism of penicllins in liver"
+      },
+      "correct_answer": "",
+      "explanation": "Probenecid is used along with penicillin because it increases the duration of action of penicillin.Penicillin is excreted by tubular secretion in the kidney. Probenecid is a uricosuric drug used ingout that competes with the same transporter (OATP: organic anion transporter) used bypenicillin for tubular secretion. Therefore, it decreases the rate of excretion and increases theduration of action of penicillin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 7,
+      "question": "The culture and sensitivity report from a wound swab is positive for penicillinase-producingStaphylococcus aureus. Which of the following antimicrobials can be administered?",
+      "options": {
+        "A": "Amoxicillin",
+        "B": "Penicillin G",
+        "C": "Piperacillin",
+        "D": "Cloxacillin"
+      },
+      "correct_answer": "D",
+      "explanation": "The drug that can be used here is cloxacillin since it is not penicillinase susceptible.It is penicillinase-resistant penicillin.Bacteria can inactivate ß-lactam antibiotics by the action of the ß-lactamase enzyme. Theẞ-lactamases enzyme activity can be narrow or broad spectrum. In general, gram-positive bacteriaproduce and secrete a large amount of ß-lactamase. Most of these enzymes are penicillinases.Penicillinase-resistant penicillins are:• Cloxacillin• Dicloxacillin• Flucloxacillin•Methicillin• NafcillinOption B: Penicillin G encompasses the natural preparations and salts of penicillin. They have anarrow spectrum and are susceptible to penicillinase.Options A and C: Amoxicillin and piperacillin are extended-spectrum penicillins but aresusceptible to penicillinase.496",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is not an extended spectrum penicillin?",
+      "options": {
+        "A": "Ampicillin",
+        "B": "Cloxacillin",
+        "C": "Carbenicillin489",
+        "D": "Piperacillin"
+      },
+      "correct_answer": "",
+      "explanation": "Cloxacillin is not extended-spectrum penicillin. It is penicillinase-resistant penicillin.Extended-spectrum penicillins have greater activity than penicillin against gram-negative bacteriabecause of their enhanced ability to penetrate the Gram-negative outer membrane.•Extended-spectrum penicillins are:• Aminopenicillins - ampicillin, amoxicillinCarboxypenicillins carbenicillin, ticarcillin⚫ Ureidopenicillins - piperacillin, mezlocillin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 9,
+      "question": "A 22-year-old woman presented with dysuria and high-grade fever. Urine culture sensitivityshows the growth of carbenicillin-sensitive E. coli. Which of the following is true about theantibiotic?",
+      "options": {
+        "A": "Is effective in Pseudomonas infection",
+        "B": "Has no effect in Proteus infection",
+        "C": "Is a ureidopenicillins antibiotic",
+        "D": "Is administered orally"
+      },
+      "correct_answer": "",
+      "explanation": "Carbenicillin is effective in Pseudomonas infection.It is extended-spectrum penicillin belonging to the carboxypenicillins group. It has activity againstPseudomonas aeruginosa and indole-positive Proteus. It is acid labile and is not administeredorally.Antipseudomonal penicillins are:Carboxypenicillins - carbenicillin, ticarcillin• Ureidopenicillins - mezlocillin, piperacillin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 10,
+      "question": "Which among the following is not athe following is not a beta-lactamase enzyme inhibitor?",
+      "options": {
+        "A": "Tazobactam",
+        "B": "Clavulanic acid",
+        "C": "Piperacillin",
+        "D": "Avibactam"
+      },
+      "correct_answer": "",
+      "explanation": "Piperacillin is not a beta-lactamase enzyme inhibitor. It is an extended-spectrum beta-lactam(ureidopenicillin) drug having significant antipseudomonal action.Beta-lactamases are a family of enzymes produced by many gram-positive and gram-negativebacteria that inactivate beta-lactam antibiotics by opening the beta-lactam ring.Beta-lactamase inhibitors available for clinical use are:•Clavulanic acid• Sulbactam• Tazobactam.• Avibactam",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following antimicrobials is effective against an organism producingextended-spectrum beta-lactamases?",
+      "options": {
+        "A": "Amoxicillin - clavulanic acid",
+        "B": "Penicillin",
+        "C": "Piperacillin - tazobactam",
+        "D": "Ceftriaxone"
+      },
+      "correct_answer": "",
+      "explanation": "497Piperacillin-tazobactam is an antimicrobial that is effective against organisms producingextended-spectrum beta-lactamases.Extended-spectrum beta-lactamase (ESBL) enzyme produced by bacteria causes resistance tomost of the penicillins, cephalosporins (third and fourth generation), and monobactams. ESBL ismost prevalent among gram-negative organisms like Klebsiella and E. coli.ESBL can be inhibited by combining beta-lactamase inhibitors like clavulanic acid or tazobactam.Carbapenems and quinolones have inherent activity against ESBL.Note: As piperacillin has greater activity against Klebsiella and other gram-negative organismsthan amoxicillin, piperacillin-tazobactam can be considered as a better option in this question.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is an acid-susceptible penicillin?",
+      "options": {
+        "A": "Methicillin",
+        "B": "Ampicillin490",
+        "C": "Amoxicillin",
+        "D": "Cloxacillin"
+      },
+      "correct_answer": "B",
+      "explanation": "Methicillin and nafcillin are penicillinase-resistant penicillins that are acid susceptible and areadministered parenterally.Methicillin use is associated with higher incidence of interstitial nephritis.Ampicillin, amoxicillin and cloxacillin are acid-resistant penicillins.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient who is being treated with an antimicrobial agent presents with neutropenia. Whichof the following drugs could be the most likely cause?",
+      "options": {
+        "A": "Nafcillin",
+        "B": "Methicillin",
+        "C": "Carbenicillin",
+        "D": "Ampicllin"
+      },
+      "correct_answer": "",
+      "explanation": "Neutropenia is seen with nafcillin. It is penicillinase-resistant parenteral penicillin.It is associated with side effects like neutropenia and interstitial nephritis. In patients with renalfailure, it is associated with seizures.Methicillin is also a penicillinase-resistant penicillin. Its use is associated with a higher incidenceof interstitial nephritis than other penicillins, hence it is no longer used.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 14,
+      "question": "A 28-year-old man undergoing treatment with penicillin presents with fever, myalgia, andexacerbation of pre-existing cutaneous lesions. Which of the following diseases is he mostprobably being treated for?",
+      "options": {
+        "A": "Rheumatic endocarditis",
+        "B": "Gonorrhoea",
+        "C": "Syphilis",
+        "D": "Staphylococcal scalded skin syndrome"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario is suggestive of Jarisch-Herxheimer reaction and it is associated with the useof penicillin in syphilis.Jarisch-Herxheimer reaction is a host immune reaction due to the release of spirochetal antigenby the dying T.pallidum in patients on treatment with penicillin. This occurs in primary and mostcases of secondary syphilis and is characterized by fever, shivering, myalgia, exacerbation oflesions and vascular collapse. Symptomatic treatment suffices and penicillin treatment need notbe interrupted.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient who is undergoing treatment with antibiotics presents with diarrhea, fever, andleukocytosis. Clostridium difficile associated diarrhea is suspected. This condition is mostcommonly associated with the use of which of the following group of drugs?",
+      "options": {
+        "A": "Aminopenicillins",
+        "B": "Tetracyclines",
+        "C": "Carbapenems",
+        "D": "Macrolide"
+      },
+      "correct_answer": "A",
+      "explanation": "Clostridium difficile associated diarrhea is mostly due to aminopenicillins.498Antibiotic-associated colitis is caused by Clostridium difficile infection due to the destruction ofthe normal gut microbial flora by the use of antibiotics.Although all antibiotics can cause the condition, the most commonly implicated are:•• Ampicillin (aminopenicillin)• Clindamycin•Third-generation cephalosporins• Fluoroquinolones.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 16,
+      "question": "491A patient being treated with ampicillin presents with diarrhea, abdominal pain, and fever. C.difficile infection is suspected. Which of the following monoclonal antibodies is approved foruse in this patient?",
+      "options": {
+        "A": "Actoxumab",
+        "B": "Bezlotoxumab",
+        "C": "Bevacizumab",
+        "D": "Adalimumab"
+      },
+      "correct_answer": "B",
+      "explanation": "Bezlotoxumab is a monoclonal antibody that binds to Clostridium difficile toxin B, indicated toreduce the recurrence of Clostridium difficile infection (CDI).Actoxumab is a monoclonal antibody that binds to Clostridium difficile toxin A but it is notapproved because of lack of efficacy.Adalimumab is an anti-TNF alpha antibody used in rheumatoid arthritis and various otherconditions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 17,
+      "question": "Systemic use of bacitracin is restricted due to:",
+      "options": {
+        "A": "Ototoxicity",
+        "B": "Nephrotoxicity",
+        "C": "Cardiotoxicity",
+        "D": "Pulmonary toxicity"
+      },
+      "correct_answer": "B",
+      "explanation": "The systemic use of bacitracin is restricted due to nephrotoxicity.Bacitracin is a polypeptide antibiotic and it inhibits the synthesis of the bacterial cell wall.Currently, it is used topically for dermal infections and for ophthalmic infections. Parenteral useof this antibiotic leads to nephrotoxicity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 18,
+      "question": "Daptomycin is not indicated in which of the following conditions?",
+      "options": {
+        "A": "Complicated skin and soft-tissue infections",
+        "B": "Complicated bacteremia",
+        "C": "Community acquired pneumonia",
+        "D": "Right-sided endocarditis"
+      },
+      "correct_answer": "C",
+      "explanation": "Daptomycin is not indicated in community-acquired pneumonia because even though itpenetrates adequately into the lung, it is inactivated by pulmonary surfactant and thus is notuseful.Daptomycin is a cyclic lipopeptide antibiotic. It acts by depolarising bacterial membranesresulting in loss of membrane potential and cell death.Daptomycin is indicated in the following infections:• Complicated skin and soft-tissue infections•Complicated bacteremia caused by staphylococcus and streptococcus•Right-sided endocarditis• Vancomycin-resistant enterococcal infections499Its efficacy in the above-mentioned conditions is comparable to that of vancomycin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 19,
+      "question": "Polymyxins are effective against:",
+      "options": {
+        "A": "Gram-positive bacteria",
+        "B": "Gram-negative bacteria",
+        "C": "Acid-fast bacilli",
+        "D": "Anaerobic bacteria"
+      },
+      "correct_answer": "",
+      "explanation": "Polymyxins are effective against gram-negative bacteria.Polymyxin group of antibiotics includes polymyxin B and colistin which have their antimicrobialspectrum limited primarily to gram-negative aerobic bacteria. They interact with the phospholipidof the bacterial cell membranes and disrupt it.Polymyxins are used in various topical formulations. Parenteral formulations are used only inserious systemic infections that are resistant to other antimicrobials. Nephrotoxicity limitswidespread systemic use.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 20,
+      "question": "492What is the mechanism of resistance by lactamases to ß-lactam antibiotics?",
+      "options": {
+        "A": "Alteration of penicillin binding protein",
+        "B": "Degradation of antibiotics",
+        "C": "Drug efflux",
+        "D": "Alteration in 50s ribosome structure"
+      },
+      "correct_answer": "B",
+      "explanation": "Resistance by lactamases is through the degradation of antibiotics.The bacterial cell wall is made of heteropolymeric peptidoglycan that confers mechanical stability.The B-lactam antibiotics inhibit the last step in peptidoglycan synthesis by acylating thetranspeptidase via cleavage of the -CO-N- bond of the ß-lactam ring. These transpeptidasetargets are collectively called Penicillin Binding Proteins (PBPs)Beta-lactamases are enzymes produced by certain bacteria that inactivates ß-lactam antibiotics byhydrolysis of the ß-lactam ring in their structure.The resistance to penicillins and other beta-lactam antibiotics can be conferred through one of thefour mechanisms:• Inactivation of antibiotic by lactamases•• Modification of target PBPS• Impaired penetration of drug to target PBPS• Antibiotic efflux",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 21,
+      "question": "A known asthmatic patient with fever and sore throat was prescribed an antibiotic. Two dayslater he presents with a maculopapular rash. Which of the following drugs might have causedthis?",
+      "options": {
+        "A": "Prednisolone",
+        "B": "Salbutamol",
+        "C": "Fexofenadine",
+        "D": "Amoxicillin"
+      },
+      "correct_answer": "D",
+      "explanation": "Skin rashes of all types may be caused by allergy to penicillin.Amoxicillin and ampicillin are aminopenicillins. The incidence of skin rashes appears to behighest following the use of ampicillin, at about 9%.Amoxicillin is a close congener of ampicillin with the following features:•Better oral absorption; food does not interfere with the absorption•• Incidence of diarrhea is less• More active against penicillin-resistant pneumococci500",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following statements is correct for a patient on high dose of penicillin andgentamicin?",
+      "options": {
+        "A": "TDM is done with penicillin because of narrow therapeutic index",
+        "B": "TDM is done with gentamicin because of narrow therapeutic index",
+        "C": "TDM is done with both because of dangerous side effects",
+        "D": "Both drugs do not need monitoring"
+      },
+      "correct_answer": "B",
+      "explanation": "Gentamicin is an aminoglycoside antibiotic that requires therapeutic drug monitoring (TDM) as ithas a narrow therapeutic index. It is nephrotoxic and ototoxic (predominantly vestibular effects).The threshold for toxicity for gentamicin is the plasma concentration of 2 µg/mL, the maximumrecommended for prolonged exposure.Aminoglycoside antibiotics act by binding to the 30s ribosome and inhibiting protein synthesis.Their ability to cause misreading of DNA templates and the formation of aberrant proteins thatget incorporated into bacterial cell membranes makes them bactericidal agents.Common ototoxic drugs are:• Antibiotics aminoglycosides (gentamicin &gt; tobramycin &gt; amikacin &gt; neomycin),erythromycin, tetracyclines.••••Chemotherapeutic agents - cisplatin, bleomycin, nitrogen mustards.High dose aspirin, acetaminophen, NSAID's• Antimalarials - quinine, quinidinePhosphodiesterase-5 inhibitors - sildenafil501",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Penicillins"
+    }
+  ]
+}

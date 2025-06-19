@@ -1,0 +1,215 @@
+{
+  "chapter": "Sedatives and Hypnotics",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is a benzodiazepine?",
+      "options": {
+        "A": "Flurazepam",
+        "B": "Flumazenil",
+        "C": "Amobarbital",
+        "D": "Zaleplon"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 2,
+      "question": "A physician prescribes clonazepam to a patient with generalized anxiety disorder. Choose thefalse statement regarding its mechanism of action.",
+      "options": {
+        "A": "Bind at the ° / interface of GABA-A receptor",
+        "B": "Increase the affinity of the GABA-A receptor for GABA",
+        "C": "Activate GABA-A receptors directly opening the Cl channel",
+        "D": "Increase the frequency of opening of GABA receptor Cl channel"
+      },
+      "correct_answer": "C",
+      "explanation": "Clonazepam is a benzodiazepine. These are allosteric modulators of the GABAA receptor. They donot directly activate GABAA receptors to open the Cl- channel.GABAA receptor is a transmembrane inhibitory receptor in the CNS that functions as a chlorideion channel and has 5 subunits.Benzodiazepines are allosteric modulators of the GABAA receptor that bind at the ° /y interface ofthe receptor. This increases the affinity of the GABAA receptor for GABA thus increasing the263frequency of the opening of the channel.Barbiturates, on the other hand, have a different binding site to the receptor and they increase theduration of the GABA gated chloride channel opening.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 3,
+      "question": "Which is the shortest acting benzodiazepine?",
+      "options": {
+        "A": "Remimazolam",
+        "B": "Midazolam",
+        "C": "Lorazepam",
+        "D": "Temazepam"
+      },
+      "correct_answer": "A",
+      "explanation": "Remimazolam is the shortest-acting benzodiazepine. Its half-life is just around 37-53 mins.Classification of benzodiazepines:•⚫ Long-acting:• Flurazepam• Diazepam•••• QuazepamChlordiazepoxide• Intermediate-acting:•Alprazolam• Temazepam•• Lorazepam•Short-acting:• Triazolam• Midazolam• Ultra-short acting• RemimazolamNote: Remimazolam was approved by FDA in 2020.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following does not act via GABA potentiation?",
+      "options": {
+        "A": "Zopiclone",
+        "B": "Midazolam259",
+        "C": "Thiopentone",
+        "D": "Promethazine"
+      },
+      "correct_answer": "D",
+      "explanation": "Promethazine does not act via GABA potentiation. It is a first-generation H1 receptor antagonist.Zopiclone, midazolam, and thiopentone act via GABA potentiation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient diagnosed with insomnia is taking a drug belonging to the Z-compounds family.Which of the following does not belong to this family?",
+      "options": {
+        "A": "Zopiclone",
+        "B": "Zaleplon",
+        "C": "Zonisamide",
+        "D": "Eszopiclone"
+      },
+      "correct_answer": "C",
+      "explanation": "Zonisamide is a sulfonamide anticonvulsant drug, that has no activity on GABA receptors. It doesnot belong to the Z-compound drugs. It is an adjunct drug for Parkinson's disease, partial-onsetseizures, infantile spasm, mixed seizure types of Lennox-Gastaut syndrome, myoclonic andgeneralized tonic-clonic seizure.264Z compounds are benzodiazepine receptor agonists. They have less anticonvulsant and muscle.relaxant properties when compared to benzodiazepines.They are used for the treatment of insomnia. They include:• Zolpidem• Zaleplon••Zopiclone⚫ Eszopiclone",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following agents does not bind to GABA receptor chloride channel complex?",
+      "options": {
+        "A": "Ethanol",
+        "B": "Alphaxolone",
+        "C": "Zolpidem",
+        "D": "Buspirone"
+      },
+      "correct_answer": "",
+      "explanation": "Buspirone does not bind to the GABA receptor chloride channel complex. It is a partialagonist at 5-HT1A receptor used in the treatment of anxiety.Option A: Ethanol releases GABA and also has a binding site on the GABA receptor chloridechannel complex.Option B: Alphaxolone is a neurosteroid and it acts through activation of GABAA receptors. Thesereceptors are BZD insensitive.Option C: Zolpidem belongs to novel benzodiazepine receptor agonists called Z compounds. Itbinds to the BZD receptor present on the GABA receptor chloride channel complex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is an inverse agonist at the benzodiazepine receptor?",
+      "options": {
+        "A": "Phenobarbitone",
+        "B": "Beta-carboline",
+        "C": "Flumazenil",
+        "D": "Picrotoxin"
+      },
+      "correct_answer": "D",
+      "explanation": "The inverse agonist at the benzodiazepine receptor is beta-carboline.It impedes the action of GABA and can cause anxiogenic, convulsive, and memory-enhancingeffects.Option A: Barbiturates (phenobarbitone) are agonists at an allosteric site on the GABAA receptorthat facilitate the action of GABA.Option C: Flumazenil is a competitive antagonist at the benzodiazepine receptor.Option D: Picrotoxin blocks Cl- channel non-competitively.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 8,
+      "question": "A 33-year-old woman with suspected diazepam overdose was administered the antidote forbenzodiazepine poisoning. Which of the following statements is false about this antidote?",
+      "options": {
+        "A": "It is a specific antagonist of benzodiazepines260",
+        "B": "It may be used to treat barbiturate poisoning",
+        "C": "It is administered intravenously",
+        "D": "It acts at the same site on GABA channel where benzodiazepines bind"
+      },
+      "correct_answer": "",
+      "explanation": "Flumazenil is the antidote used in benzodiazepine poisoning. It is not used to treat barbituratepoisoning.Flumazenil is a benzodiazepine (BZD) receptor-specific antagonist. It has no affinity forbarbiturate binding sites on the GABA receptor Cl- channel complex. Flumazenil competes withBZD agonists and inverse agonists for the BZD receptors.265Flumazenil is available only for intravenous use. It is used to treat benzodiazepine overdose andfor the reversal of sedative effects produced by benzodiazepines administered during generalanesthesia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is a competitive antagonist of GABA at the GABA-A receptor?",
+      "options": {
+        "A": "Flumazenil",
+        "B": "Picrotoxin",
+        "C": "Bicuculline",
+        "D": "Propofol"
+      },
+      "correct_answer": "",
+      "explanation": "Bicuculline is a competitive antagonist of GABA at the GABA-A receptor.Option A: Flumazenil is a competitive antagonist at the alpha/gamma interface of thebenzodiazepine site. This is different from the binding site of GABA which is the alpha/betainterface.Option B: Picrotoxin blocks Cl- channel non-competitively.Option D: Propofol is an agonist at the GABA-A receptor.Note: Muscimol is an agonist at the GABA-A receptor.GABA receptor and action of drugsGABA-A receptorPropofol,MuscimolBBBicucullineChloride channelGABA SiteGABA SiteFlumazenilBenzodiazepinesiteCIporePicrotoxinBYOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp9_img1_4dc35661.jpeg",
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 10,
+      "question": "In which of the following patients is the administration of barbiturates contraindicated?",
+      "options": {
+        "A": "29-year-old lady with history of anxiety disorder",
+        "B": "33-year-old man with history of acute intermittent porphyria",
+        "C": "50-year-old man with refractory status epilepticus",
+        "D": "11-day-old neonate with kernicterus"
+      },
+      "correct_answer": "B",
+      "explanation": "The administration of barbiturates is contraindicated in acute intermittent porphyria.The rate-limiting enzyme in porphyria synthesis is 8-aminolaevulinic acid (ALA)-synthetase.Barbiturates are enzyme inducers and they result in the increased synthesis of porphyrins andsubsequent precipitation of acute intermittent porphyria.Options A and C: Barbiturates are used to treat anxiety and refractory status epilepticus.Option D: Phenobarbitone can be used to treat kernicterus in newborns as it increases hepaticglucuronosyltransferase (UGT) enzyme activity and the conjugation of bilirubin.266",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 11,
+      "question": "A 28-year-old man with insomnia is prescribed a melatonin analog by his physician. Which ofthe following drugs would have been prescribed?",
+      "options": {
+        "A": "Doxepin",
+        "B": "Suvorexant",
+        "C": "Ramelteon",
+        "D": "Trazodone"
+      },
+      "correct_answer": "",
+      "explanation": "Ramelteon is a melatonin analog approved for the treatment of insomnia, particularly withdifficulties of sleep onset.It acts on both MT1 and MT2 receptors.• MT1 receptor - promotes the onset of sleep (hence used for induction of sleep)• MT2 receptor - shifts the timing of the circadian system.The other melatonin agonists are:•Tasimelteon - used in insomnia in blind people• Agomelatine used in major depressive disorder-Option A: Doxepin is a tricyclic antidepressant and functions as a serotonin-norepinephrinereuptake inhibitor. It is used in depression, anxiety, and some forms of insomnia.Option B: Suvorexant is a dual orexin receptor antagonist used in the treatment of insomnia.Option D: Trazodone is a mixed agonist and antagonist at various serotonin receptors used as anantidepressant and in alcohol dependence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 12,
+      "question": "A young woman, who is blind, presented with complaints of night-time insomnia. What is thedrug of choice for her condition?261",
+      "options": {
+        "A": "Agomelatine",
+        "B": "Zolpidem",
+        "C": "Tasimelteon",
+        "D": "Ramelteon"
+      },
+      "correct_answer": "",
+      "explanation": "The drug of choice for insomnia in blind people is tasimelteon. It is a selective agonist of themelatonin (MT1, MT2) receptors.Tasimelteon is approved for the treatment of non-24-h sleep-wake syndrome (nighttime insomniaand daytime sleepiness, alternating with asymptomatic periods) in totally blind patientsexperiencing circadian rhythm disorder.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 13,
+      "question": "Your senior resident asks you to prescribe an orexin receptor inhibitor to a patient withinsomnia. Which of the following drugs would you prescribe?",
+      "options": {
+        "A": "Suvorexant",
+        "B": "Doxepin",
+        "C": "Ritanserin",
+        "D": "Agomelatine"
+      },
+      "correct_answer": "",
+      "explanation": "Suvorexant is an inhibitor of both orexin1 and orexin2 receptors. It is approved for the treatmentof insomnia.Orexins are produced in the lateral hypothalamus neurons and play a major role in maintainingthe sleep cycle. Orexins promote wakefulness, while antagonists at orexin receptors enhance REMand non-REM sleep.Option B: Doxepin is a tricyclic antidepressant and has H1 receptor antagonism effect. It is usedfor insomnia at lower doses.Option C: Ritanserin is a 5HT2A/2C receptor antagonist indicated in insomnia.Option D: Agomelatine is a melatonin receptor agonist and a 5HT2C receptor antagonist indicatedin insomnia.267",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    },
+    {
+      "q_no": 14,
+      "question": "A 68-year-old man with alcoholic liver disease is scheduled to undergo surgery. Which of thefollowing benzodiazepines should be avoided in him?",
+      "options": {
+        "A": "Lorazepam",
+        "B": "Oxazepam",
+        "C": "Triazolam",
+        "D": "Diazepam"
+      },
+      "correct_answer": "A",
+      "explanation": "Diazepam and its long-acting metabolites can accumulate significantly in elderly patients withliver disease and therefore should not be used in such cases.Diazepam is a long-acting benzodiazepine. It is metabolized in the liver to active metabolites likenordazepam which are long-acting. Nordazepam is further converted to oxazepam which isconjugated with glucuronic acid to form inactive metabolites.Lorazepam, oxazepam, and triazolam are also metabolized in the liver but do not form long-actingactive metabolites. As such, they can be used in elderly patients with liver disease but withcaution.Oxazepam and lorazepam are intermediate-acting and undergo glucuronide conjugation directlyto form inactive metabolites.Triazolam is a short acting benzodiazepine. It forms alpha-hydroxy active metabolites but they areshort-acting and undergo glucuronide conjugation to form inactive metabolites.268",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sedatives and Hypnotics"
+    }
+  ]
+}

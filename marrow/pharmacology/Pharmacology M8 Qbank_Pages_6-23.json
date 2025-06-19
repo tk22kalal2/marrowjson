@@ -1,0 +1,395 @@
+{
+  "chapter": "Pharmacokinetics",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Fundoscopic evaluation in an HIV patient showed CMV retinitis. He was started on intravenous foscarnet, a highly ionized drug. Which of the following statements is true about the drug?",
+      "options": {
+        "A": "Excreted mainly by the kidneys",
+        "B": "Can cross the blood-brain barrier easily",
+        "C": "Well absorbed from the intestine",
+        "D": "Accumulates in the cellular lipids"
+      },
+      "correct_answer": "A",
+      "explanation": "Foscarnet is excreted mainly by the kidneys.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 2,
+      "question": "Alkalinization of the urine is done in case of toxicity with which of the following substances?",
+      "options": {
+        "A": "Barbiturate",
+        "B": "Amphetamine",
+        "C": "Heparin",
+        "D": "Morphine"
+      },
+      "correct_answer": "A",
+      "explanation": "Alkalinization of the urine is done in barbiturate poisoning. When the urine is alkaline, weakly acidic drugs like barbiturates are present in a highly ionized form and excreted more rapidly. When the tubular urine is made more alkaline, weak acids like barbiturates become highly ionized and are excreted to a greater extent. Similarly, acidification of urine increases the excretion of weak bases. This property is used in the management of drug overdose. Drug: Weak acids (e.g., phenobarbital, aspirin), Weak bases (e.g., amphetamine). Treatment of overdose: Alkalinization of urine with sodium bicarbonate, Acidification of urine with ammonium chloride.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 3,
+      "question": "When the pH = pKa of a drug, which of the following statements is true?",
+      "options": {
+        "A": "Concentration of the drug is 50% ionic and 50% non-ionic",
+        "B": "Concentration of the drug is 90% ionic and 10% non-ionic",
+        "C": "Concentration of the drug is 75% ionic and 25% non-ionic",
+        "D": "Concentration of the drug is 25% ionic and 75% non-ionic"
+      },
+      "correct_answer": "A",
+      "explanation": "When the pH = pKa of a drug, the concentration of the drug is 50% ionic and 50% non-ionic. pKa is defined as the pH at which a drug exists as 50% ionized (hydrophilic) and 50% unionized (lipophilic). For example, phenobarbitone is an acidic drug with a pKa of 7.2. At a pH of 7.2, 50% will be unionized. In a more basic plasma (pH = 7.4), a lesser fraction (around 40%) will be unionized. Small changes in pH near the pKa of a drug may cause large variations in the degree of ionization.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 4,
+      "question": "In a patient with nephrotic syndrome, drug toxicity is least likely with which of the following drugs?",
+      "options": {
+        "A": "Efavirenz",
+        "B": "Morphine",
+        "C": "Diazepam",
+        "D": "Valproate"
+      },
+      "correct_answer": "B",
+      "explanation": "In a patient with nephrotic syndrome, drug toxicity is least likely with morphine. Acidic drugs generally bind to plasma albumin, while basic drugs bind to alpha-1 acid glycoprotein. Nephrotic syndrome reduces plasma albumin levels; therefore, there is a decrease in the protein-bound drug fraction and an increase in the free form, resulting in drug toxicity. This is less likely with drugs having low plasma protein binding, such as morphine (only around 35%). Efavirenz, diazepam, and valproate have a very high plasma protein binding of >90% and predominantly bind to albumin and are associated with toxicity in hypoalbuminemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 5,
+      "question": "What does time for peak plasma concentration (Tmax) indicate?",
+      "options": {
+        "A": "Rate of elimination",
+        "B": "Rate of absorption",
+        "C": "Duration of effect",
+        "D": "Intensity of effect"
+      },
+      "correct_answer": "B",
+      "explanation": "The time for peak plasma concentration (Tmax) indicates the rate at which the drug is absorbed from the administered site. It depends on both the administered site and the drug formulation. This is used to determine the timing of the administration of hypnotics with respect to sleep timings. A hypnotic with a higher rate of absorption might be preferred to induce sleep at a shorter latency as the target concentration can be achieved earlier.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 6,
+      "question": "The pharmacokinetics of an experimental drug is being studied. If its apparent volume of distribution is 6L/kg, which of the following is true regarding its distribution?",
+      "options": {
+        "A": "Highly bound to plasma proteins",
+        "B": "Confined to vascular compartment",
+        "C": "Sequestered in body tissues",
+        "D": "Distributed in extracellular fluid volume"
+      },
+      "correct_answer": "C",
+      "explanation": "In the present case, the volume of distribution of the drug is 6L/kg (420 L in a normal adult with a reference weight of 70kg), which is very high when compared to the total body water of 42L. Therefore, it can be implied that the drug is having high sequestration in tissues. The apparent volume of distribution (Vd) is an imaginary volume throughout which the drug is distributed if the plasma concentration remains constant throughout. Vd = Dose administered IV / plasma concentration. The difference in the volume of distribution based on drug type: \n   • Low Vd: Restricted to the intravascular compartment. Seen in drugs with high molecular weight (e.g., heparin) or high protein binding (e.g., warfarin - 9.8L).\n   • Medium Vd: Lipid-insoluble drugs (e.g., gentamicin - 20L) do not enter the cells and are distributed in the extracellular fluid volume. Small water-soluble molecules (e.g., ethanol - 42L) are distributed in the total body water.\n   • High Vd: Sequestered and accumulated in the tissues. Small lipophilic molecules (e.g., chloroquine - 13000L).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following parameters is used to assess the extent of drug absorption in a plasma concentration vs. time graph?",
+      "options": {
+        "A": "Tmax",
+        "B": "Cmax",
+        "C": "T1/2",
+        "D": "Area under the curve"
+      },
+      "correct_answer": "D",
+      "explanation": "The area under the curve of plasma concentration vs. time curve gives the extent of absorption, which is calculated by the trapezoidal rule. The following image shows a plasma concentration vs. time graph: Amount of drug in blood - Absorption - Cmax - AUC (Area Under the Curve) - Overall drug exposure - Elimination - t1/2 (Half-life) - Highest concentration of drug in blood - Time at which drug has lost half its maximum concentration. Two drugs may have the same rate of absorption but a different extent of absorption or bioavailability. The factors upon which the extent of drug absorption depends are: - Lipophilicity: If too lipophilic (e.g., acyclovir), the drug is not soluble enough to cross the water layer adjacent to the cell. - Hydrophilicity: If too hydrophilic (e.g., atenolol), the drug cannot cross the lipid cell membrane.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp7_img1_a9e96a6f.jpeg",
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following statements is true about first-order kinetics?",
+      "options": {
+        "A": "A constant amount of drug is eliminated in unit time",
+        "B": "The half-life increases with an increase in dose",
+        "C": "The rate of elimination is constant",
+        "D": "The rate of elimination is proportional to the plasma concentration"
+      },
+      "correct_answer": "D",
+      "explanation": "The rate of elimination is proportional to plasma concentration in first-order kinetics.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 9,
+      "question": "You would consider administering a loading dose for a patient if the drug has",
+      "options": {
+        "A": "High clearance",
+        "B": "High volume of distribution",
+        "C": "Long plasma half-life",
+        "D": "Short plasma half-life"
+      },
+      "correct_answer": "B",
+      "explanation": "The volume of distribution of the drug determines the loading dose of the drug. Loading dose is a relatively large dose of the drug given initially to rapidly achieve the target plasma concentration. It is given by the formula: Loading Dose = Volume of Distribution x Desired Steady-state plasma Concentration. The bioavailability determines the route of administration. Though bioavailability may affect the dose necessary, it will not be the primary factor considered during the calculation of the loading dose. Option A: Clearance is used to determine the maintenance dose. Maintenance dose = Clearance x Desired Steady-state plasma concentration. Options C and D: Plasma half-life primarily determines the frequency of dosing.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following drugs approach zero-order kinetics at higher therapeutic levels?",
+      "options": {
+        "A": "Penicillin",
+        "B": "Phenytoin",
+        "C": "Valproate",
+        "D": "Carbamazepine"
+      },
+      "correct_answer": "B",
+      "explanation": "Phenytoin kinetics changes from first-order to zero-order kinetics at higher therapeutic levels. True zero-order kinetics is shown only by ethanol. Some drugs have first-order kinetics at low plasma concentrations, while at higher plasma concentrations (within therapeutic range), the mechanism for elimination gets saturated and they change over to zero-order kinetics. Drugs that show early saturation kinetics include: Warfarin, Aspirin, Theophylline, Verapamil, Fluoxetine, and Phenytoin. Some drugs show zero-order kinetics at much higher (non-therapeutic / toxic) levels.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following routes of administration will not bypass hepatic first-pass metabolism?",
+      "options": {
+        "A": "Sublingual",
+        "B": "Oral",
+        "C": "Intravenous",
+        "D": "Transdermal"
+      },
+      "correct_answer": "B",
+      "explanation": "Hepatic first-pass metabolism occurs in drugs administered via the oral route. When drugs are given orally, they are absorbed in the intestine and reach the liver through the portal vein. During this process, the drug is acted on by enzymes of the liver and intestine. Additionally, the liver may excrete part of the drug in the bile, further reducing the bioavailability. This is called the first-pass metabolism. In all the other routes, the drug directly enters systemic circulation without reaching the liver. Note: Bioavailability is the fraction of an administered dose of unchanged drug that reaches the systemic circulation. Hence, the bioavailability of a drug administered intravenously (I.V.) is 100%. It is neither subjected to the first-pass metabolism as in the oral route nor does it depend on local factors as in subcutaneous, intramuscular, or transdermal.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 12,
+      "question": "In the metabolism of xenobiotics, all of the following are phase 1 reactions except?",
+      "options": {
+        "A": "Oxidation",
+        "B": "Reduction",
+        "C": "Acetylation",
+        "D": "Hydrolysis"
+      },
+      "correct_answer": "C",
+      "explanation": "Acetylation is a phase 2 reaction. Metabolizing enzymes in hepatic cells: • Microsomal enzymes - present in the smooth endoplasmic reticulum • Non-microsomal enzymes - present in mitochondria and cytoplasm",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 13,
+      "question": "Sulphonamides undergo which of the following metabolic reactions?",
+      "options": {
+        "A": "Acetylation",
+        "B": "Methylation",
+        "C": "Hydroxylation",
+        "D": "Oxidation"
+      },
+      "correct_answer": "A",
+      "explanation": "Sulphonamides undergo acetylation. It is a phase II metabolic reaction where compounds having amino or hydrazine residues are conjugated with the help of acetyl coenzyme-A. Drugs that undergo acetylation are: • Sulphonamides • Hydralazine • Isoniazid • PAS • Dapsone • Clonazepam • Procainamide",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 14,
+      "question": "All of the following can cause lupus-like syndromes except:",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Penicillin",
+        "C": "Hydralazine",
+        "D": "Sulphonamide"
+      },
+      "correct_answer": "B",
+      "explanation": "Penicillin is not associated with a lupus-like syndrome. Drug-induced lupus is a consequence of genetic polymorphism of N-acetyl transferase 2 (NAT2) enzyme, which results in slow acetylators and fast acetylators: Slow acetylators of isoniazid, hydralazine, and sulphonamides can have increased toxicity that includes lupus-like syndrome. Fast acetylators can have decreased efficacy as a result of faster metabolism of the active drug. Drugs that may result in lupus-like syndrome (The SHIP Mechanic has lupus-like syndrome) are: Sulphonamides/Sulfasalazine, Hydralazine, Isoniazid, Procainamide, Para-aminosalicylic acid, Methyldopa, Chlorpromazine, Quinidine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient on long-term anticoagulation therapy with warfarin would need an increased dose when coadministered with which of the following drugs?",
+      "options": {
+        "A": "Captopril",
+        "B": "Erythromycin",
+        "C": "Rifampicin",
+        "D": "Cimetidine"
+      },
+      "correct_answer": "C",
+      "explanation": "A patient on long-term anticoagulation therapy with warfarin would need an increased dose when coadministered with rifampicin. This is because rifampicin is a potent microsomal enzyme inducer and can decrease the effect of warfarin. Rifampicin induces CYP3A and CYP2D6 enzymes. Enzyme inducers: CYP3A, including carbamazepine; CYP2B1, including phenobarbitone; rifampicin (CYP2D6); phenytoin; glucocorticoids; CYP2E1, including isoniazid; and chronic alcoholism. Note: Isoniazid is an inducer for CYP2E1 but an inhibitor for CYP3A4.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 16,
+      "question": "Contraceptive failure while on oral contraceptive pills is unlikely to occur with which of the following drugs?",
+      "options": {
+        "A": "Valproate",
+        "B": "Rifampicin",
+        "C": "Phenytoin",
+        "D": "Phenobarbitone"
+      },
+      "correct_answer": "A",
+      "explanation": "Contraceptive failure in patients on the oral contraceptive pill is unlikely to occur with valproate. It is an enzyme inhibitor that inhibits the degradation of OCPs and increases their duration of action. Rifampicin, phenytoin, and phenobarbitone are enzyme inducers and can cause increased metabolism of OCPs leading to contraceptive failure. Enzyme inducers Mnemonic: CRAP GPSCarbamazepine Rifampicin Alcohol (chronic) Phenytoin Griseofulvin Phenobarbitone Sulfonylureas. Enzyme inhibitors Mnemonic: RED VICKRitonavir Erythromycin Diltiazem Verapamil, Valproate Itraconazole Clarithromycin, Cimetidine Ketoconazole",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following microsomal enzymes is important for the activation of procarcinogens?",
+      "options": {
+        "A": "CYP3A4",
+        "B": "CYP2C8/9",
+        "C": "CYP2C19",
+        "D": "CYP1A1/2"
+      },
+      "correct_answer": "D",
+      "explanation": "CYP1A1/2 enzymes are important in the activation of procarcinogens. They are involved in the metabolism of a few drugs like theophylline, caffeine, paracetamol, and carbamazepine. Inducers of CYP1A1/2: • Polycyclic hydrocarbons • Cigarette smoking • Charbroiled meat • Rifampicin • Carbamazepine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 18,
+      "question": "Cytochrome enzymes are not involved in which of the following processes?",
+      "options": {
+        "A": "Oxidation",
+        "B": "Production of bile acids",
+        "C": "Synthesis of steroids",
+        "D": "Acetylation"
+      },
+      "correct_answer": "D",
+      "explanation": "Cytochrome enzymes are not involved in acetylation. Cytochrome enzymes, such as CYP450, are involved in phase 1 reactions, such as oxidation. They are also involved in bile acid production from cholesterol; synthesis of steroids and fatty acid signaling molecules, like epoxyeicosatrienoic acids.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 19,
+      "question": "A patient is brought to the emergency in an unresponsive state. There is an alleged history of consumption of multiple prescription tablets in an attempt to commit suicide. After the drug was conclusively identified, the doctor recommends dialysis for definitive management. The drug most likely is:",
+      "options": {
+        "A": "Digoxin",
+        "B": "Verapamil",
+        "C": "Diazepam",
+        "D": "Lithium"
+      },
+      "correct_answer": "D",
+      "explanation": "The drug most likely is lithium as it is the only one amongst the given drugs that can be removed by dialysis. It is the treatment of choice in case of severe lithium toxicity (>4mEq/L). The distribution of lithium is mainly restricted to the vascular compartment and it is not bound to any plasma proteins. Dialysis is effective in removing the drugs if they are sufficiently present in the free form in the plasma. Therefore, lithium can be removed by dialysis during an overdose. Drugs not suitable for dialysis are those with: • High volume of distribution - digoxin, verapamil, and organophosphates • High level of plasma protein binding - diazepam",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 20,
+      "question": "10. Which of the following is not a prodrug?",
+      "options": {
+        "A": "Enalapril",
+        "B": "Imipramine",
+        "C": "Sulfasalazine",
+        "D": "Cyclophosphamide"
+      },
+      "correct_answer": "B",
+      "explanation": "Imipramine is not a prodrug. It is a tricyclic antidepressant and has therapeutic activity. It also forms an active metabolite, desipramine. Prodrugs are inactive precursors of active forms. They require metabolic alteration in the body to become active. Examples of prodrugs: • Prednisone • Levodopa • ACE inhibitors (except lisinopril and captopril) • Sulfasalazine • Methyldopa • Cyclophosphamide • Clopidogrel",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is not true about P-glycoprotein?",
+      "options": {
+        "A": "Pgp stands for permeability glycoprotein",
+        "B": "Also known as CD243",
+        "C": "Also known as ABCB1",
+        "D": "Also known as MDR2"
+      },
+      "correct_answer": "D",
+      "explanation": "P-glycoprotein is also known as multidrug resistance protein 1 or MDR1 (not MDR2). It is alsodenoted by cluster of differentiation 243 (CD243).P-glycoprotein (P-gp) is one of the first members of the ATP-binding cassette (ABC) transporter,which acts as an efflux membrane transporter. It is responsible for limiting cellular uptake andthe distribution of xenobiotics and toxic substances. It is associated with multidrug resistance(MDR).• Increased P-gp expression: Reduces the absorption of drugs that are substrates for P-gp• Decreased P-gp expression: Leads to supratherapeutic plasma concentrations and drug toxicity",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 22,
+      "question": "For which of the following drugs, is absorption increased after a fatty meal?",
+      "options": {
+        "A": "Griseofulvin",
+        "B": "Amphotericin B",
+        "C": "Ampicillin",
+        "D": "Aspirin"
+      },
+      "correct_answer": "",
+      "explanation": "The absorption of griseofulvin is increased after a fatty meal.Note: Fatty meals increase the rate of absorption of efavirenz to such an extent as to causetoxicity. Hence, efavirenz is recommended to be taken on an empty stomach.Drug absorption reduced /delayed by foodAmpicillinAspirinAtenololAzithromycinCaptoprilIndinavirIsoniazid RifampinSucralfateTetracyclineDoxycyclineDrug absorption increased byfoodAtovaquoneCarbamazepineChlorothiazideCefuroximeDiazepamGanciclovir LithiumMetoprolol RitonavirHydralazineLumefantrine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 23,
+      "question": "You prescribe an antibiotic course for a patient following a cesarean section. What advice would you give regarding breastfeeding?",
+      "options": {
+        "A": "No advice as most drugs are not present in breast milk",
+        "B": "Avoid breastfeeding during the antibiotic course",
+        "C": "Medications to be taken 3-4 hours before the next feeding",
+        "D": "She can take medications anytime"
+      },
+      "correct_answer": "C",
+      "explanation": "If the lactating mother needs to take medications that are deemed safe, the dosing optimally should be 30-60 minutes after nursing and at least 3-4 hours before the next feeding. A minimum interval of 3-4 hours allows time for partial clearance of the drug. This ensures the infants are not exposed to the peak maternal plasma concentration that may translate to higher levels secreted into milk. Option A: Most drugs administered are detected in breast milk but most of them are excreted in very small quantities that do not cause any effect in the infants. Option B: Breastfeeding should not be avoided altogether for all medications. Intake of cytotoxic agents and immunomodulatory agents are contraindications for breastfeeding. Option D: The timing of medication should preferably be at an interval where the infants are not exposed to higher maternal plasma concentrations.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 24,
+      "question": "11A 55-year-old patient is on omeprazole for gastroesophageal reflux disease. She is now to bestarted on dual antiplatelet therapy with aspirin and clopidogrel. You decide to switch topantoprazole because of the action of omeprazole on which enzyme?",
+      "options": {
+        "A": "CYP3A4",
+        "B": "CYP2D6",
+        "C": "CYP2C19",
+        "D": "CYP2C20"
+      },
+      "correct_answer": "C",
+      "explanation": "Omeprazole is replaced with another proton pump inhibitor (PPI) during coadministration withclopidogrel because of the action on CYP2C19.Clopidogrel is a prodrug that is activated to its active metabolite by the liver enzyme CYP2C19.Apart from CYP2C19, CYP3A4, and CYP2C9 are also involved to a certain extent.Omeprazole serves as both substrate and inhibitor for CYP2C19. It may inhibit the activation ofclopidogrel and decrease its antiplatelet action. Hence, they are not prescribed together.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 25,
+      "question": "Subfamily of CYP3A4 is",
+      "options": {
+        "A": "CYP",
+        "B": "A",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B",
+      "explanation": "The subfamily of CYP3A4 is A. In CYP enzymes nomenclature, the root CYP is followed by a number designating the family, a letter denoting the subfamily, and another number designating the gene. Therefore, in CYP3A4: • 3 - family • A - subfamily A • 4 - individual gene coding for one specific isoenzyme. There are numerous CYP isoenzymes in humans. Among them, CYP3A4 is the most abundant and carries out the metabolism of nearly 50% of clinically used drugs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    },
+    {
+      "q_no": 26,
+      "question": "How much drug will remain at the end of 6 hours when a patient is given 200 mg drug, 75 mgexcreted in 90 min and if the drug follows first-order kinetics?",
+      "options": {
+        "A": "50 mg",
+        "B": "30.5 mg",
+        "C": "12.5 mg",
+        "D": "6.25 mg"
+      },
+      "correct_answer": "B",
+      "explanation": "In first order kinetics, a constant fraction of the drug is excreted in a given time.75 mg of 200 mg is excreted in 90 minutes75/200 37.5/100 = 0.375 is eliminated=After 90 minutes; 200 mg-75 mg = 125 mg remainsThe next 90 minutes (after 180 minutes) = 125 x 0.375 = 46.875 mg is eliminated, and 125-46.875= 78.125 mg remainsThe next 90 minutes (after 270 minutes) = 78.125 x 0.375 = 29.297 mg is eliminated, and78.125-29.297 = 48.828 remainsThe next 90 minutes (after 360 minutes) = 48.828 x 0.375 = 18.310 mg is eliminated,48.828-18.310 = 30.518 mg remains after 6 hours.Simpler way to calculate3/8 fraction is excreted in 90 minutes →5/8 remains after 90 minutes.6 hours (360 min) is 4 times of 90 minutes.22So 200 x (5/8)(5/8)(5/8)(5/8) = 30.518 mg remains after 360 minutes23",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pharmacokinetics"
+    }
+  ]
+}

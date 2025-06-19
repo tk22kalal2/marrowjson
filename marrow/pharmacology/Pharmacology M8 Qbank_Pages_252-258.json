@@ -1,0 +1,125 @@
+{
+  "chapter": "Anti-diuretics",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 50-year-old man was rushed to the ER with impaired consciousness following a hungerstrike for a day. His wife reported, he had a head injury 1 month back and since then hadcomplaints of polyuria. On examination, he was found to be severely dehydrated and MRIbrain showed an absence of the characteristic bright spot in the pituitary. Which of thefollowing is the drug of choice for his condition?",
+      "options": {
+        "A": "Desmopressin",
+        "B": "Amiloride",
+        "C": "Thiazide diuretics",
+        "D": "Triamterene"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-diuretics"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient having polyuria and polydipsia is diagnosed with central diabetes insipidus. He isstarted on intranasal desmopressin. Which of the following is not a reason for choosing thisover intravenous vasopressin?",
+      "options": {
+        "A": "Higher potency",
+        "B": "Higher selectivity for V1 receptor",
+        "C": "Has lower vasoconstrictor activity",
+        "D": "Longer acting"
+      },
+      "correct_answer": "A",
+      "explanation": "Desmopressin is preferred in the treatment of central diabetes insipidus as it is a selective agonistof the V2 receptor.Desmopressin has minimal or no action on V1 receptors resulting in little vasoconstrictor activity.It is more potent than vasopressin. It is longer acting than vasopressin as enzymatic degradationof desmopressin is slow.Lypressin acts on both V1 and V2 receptors. Terlipressin is a synthetic vasopressin analog that hasmore selectivity for the V1 receptor and produces fewer adverse effects than lypressin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-diuretics"
+    },
+    {
+      "q_no": 3,
+      "question": "A 30-year-old woman with pituitary adenoma is non-compliant with her treatment withcabergoline. She has now presented with bitemporal hemianopia and features suggestive ofdiabetes insipidus. Which of the following drugs cannot be used to manage her condition?",
+      "options": {
+        "A": "Desmopressin",
+        "B": "FurosemideChlorpropamided) Carbamazepine252Question 4:Tachyphylaxis is a concern with the use of desmopressin in which of the following patients?a) A 50-year-old man with central DI post meningitisb) A 25-year-old woman on lithium therapy with nephrogenic DI",
+        "C": "A 17-year-old girl with von willebrand's disease",
+        "D": "A 7-year-old child with primary nocturnal enuresis"
+      },
+      "correct_answer": "B",
+      "explanation": "Furosemide is not used for the treatment of diabetes insipidus. It is a loop diuretic that mightfurther worsen diabetes insipidus.Option A: The drug of choice for central diabetes insipidus is desmopressin. Desmopressin is a V2receptor agonist and synthetic analog vasopressin.Option C: Chlorpropamide enhances the action of circulating vasopressin and reduces urineformation in central DI.255Option D: Carbamazepine also reduces urine formation in central DI. The exact mechanism isunknown.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-diuretics"
+    },
+    {
+      "q_no": 5,
+      "question": "A 50-year-old man who is on treatment for small cell carcinoma of the lung presents withacute onset confusion, nausea, and vomiting. He appears to be euvolemic. Laboratoryinvestigations reveal serum sodium levels to be 120 mEq/l and urine osmolality is 300mOsm/kg. Which of the following is not used as a treatment option in his condition?",
+      "options": {
+        "A": "Demeclocycline",
+        "B": "Desmopressin",
+        "C": "Restriction of free water intake",
+        "D": "3% NaCl"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of syndrome of inappropriate ADH secretion (SIADH)which can occur as a paraneoplastic syndrome of small cancer of the lung. Desmopressin is notused in the treatment of SIADH.Since excess vasopressin is the cause for SIADH, giving a vasopressin analog like desmopressinwould only worsen the condition.Management of SIADH:• Fluid restriction•Hypertonic saline( 3%) + loop diuretics is the treatment of choice in severe symptomatichyponatremia.• Tolvaptan and conivaptan (vasopressin receptor antagonists) are preferred for long-term use.•• Demeclocycline (a tetracycline drug) is used as an alternative.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-diuretics"
+    },
+    {
+      "q_no": 6,
+      "question": "The best approach in the treatment of chronic SIADH is",
+      "options": {
+        "A": "Tolvaptan",
+        "B": "Reducing fluid intake to &lt;500 ml per day",
+        "C": "Demeclocycline",
+        "D": "Fludrocortisone"
+      },
+      "correct_answer": "A",
+      "explanation": "The best approach in the treatment of chronic SIADH is the oral administration ofa vaptan like tolvaptan, which is a selective V2 receptor antagonist. This increases urinary water256excretion by blocking the antidiuretic effect of AVP.Other treatment options for chronic SIADH include:••• Fluid intake &lt; 500 ml/dayDemeclocyclineFludrocortisoneIncreased thirst is a frequently observed characteristic of hyponatremia in SIADH. Fluidrestriction is usually a burden to the patient. It is unreliable, impractical, and slow to work. Asthirst is particularly difficult to suppress, water restriction in SIADH frequently leads tonon-compliance in the long run. Vaptans would be especially suited for the treatment of thesepatients. Serum sodium concentrations are also corrected by vaptans and hence, vaptanssubstantially improve the quality of life in these patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-diuretics"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient with liver cirrhosis presenting with ascites and pedal edema is administeredconivaptan. Which of the following statements regarding the drug is true?",
+      "options": {
+        "A": "Vasopressin receptor antagonist",
+        "B": "V2 selective action",
+        "C": "Given orally253",
+        "D": "Used in hypernatremia"
+      },
+      "correct_answer": "A",
+      "explanation": "Conivaptan is a nonselective vasopressin receptor antagonist.Conivaptan antagonizes both Via and V2 receptors. It is administered intravenously and is usedin the treatment of euvolemic and hypervolemic hyponatremia. Vaptans have been proven tomobilize ascites and improve hyponatremia in patients with cirrhosis.Vasopressin receptor blockers are classified as:Classification of receptor bloc DrugskersNonselective (mixed V1/V2)ConivaptanV1 selective(V1 RA)RelcovaptanVib selective(V3 RA)NelivaptanV2 selective(V2 RA)LixivaptanMozavaptanSatavaptanTolvaptan",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-diuretics"
+    },
+    {
+      "q_no": 8,
+      "question": "A 50-year-old alcoholic with deranged liver function tests is to be started on treatment forchronic SIADH. Which of the following drugs should not be used in his treatment regimen?",
+      "options": {
+        "A": "Conivaptan",
+        "B": "Tolvaptan",
+        "C": "Demeclocycline",
+        "D": "Lixivaptan"
+      },
+      "correct_answer": "B",
+      "explanation": "Tolvaptan should not be used in patients with liver disease as it has been associated with liverdamage. Administration of tolvaptan is generally limited to 30 days to limit the risk ofhepatotoxicity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-diuretics"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient who was diagnosed with ADPKD was prescribed tolvaptan. After a few weeks, hepresented with dry mouth and increased thirst. What is the likely cause?",
+      "options": {
+        "A": "Increased free water clearance",
+        "B": "V2 receptor agonism",
+        "C": "Increased renal cAMP levels",
+        "D": "Increase in urine osmolalityCorrect Option"
+      },
+      "correct_answer": "A",
+      "explanation": "Tolvaptan causes increased free water clearance, which causes dehydration. Hence, the patientmay present with dry mouth and increased thirst.257Tolvaptan is a vasopressin V2 receptor antagonist. Decreased binding of vasopressin to the V2receptor in the kidney lowers the adenyl cyclase activity leading to decreased intracellular cAMP.Decreased cAMP concentrations prevent the fusion of aquaporin 2 containing vesicles with theplasma membrane, leading to an increase in urinary water excretion (free water clearance), and adecrease in urine osmolality.The common side effects of tolvaptan include:•⚫ dehydration•hypernatremia•hypovolemia•⚫ liver injuryTolvaptan is used to delay disease progression in patients with ADPKD.258",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-diuretics"
+    }
+  ]
+}

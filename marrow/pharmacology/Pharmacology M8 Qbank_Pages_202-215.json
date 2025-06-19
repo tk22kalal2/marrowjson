@@ -1,0 +1,320 @@
+{
+  "chapter": "Diuretics",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Choose the correct pair matching with the diagram: Bowman's capsule and loop of Henle",
+      "options": {
+        "A": "A: Loop diuretics, B: Carbonic anhydrase inhibitors",
+        "B": "A: Loop diuretics, B: Thiazides",
+        "C": "A: Thiazides, B: Loop diuretics",
+        "D": "A: Thiazides, B: Carbonic anhydrase inhibitors"
+      },
+      "correct_answer": "B",
+      "explanation": "Loop diuretics act on the loop of Henle, and thiazides act on the distal convoluted tubule.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q1_img1_14e03e1a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 2,
+      "question": "Diuretics acting on which part of the nephron have maximum efficacy?",
+      "options": {
+        "A": "Proximal tubule",
+        "B": "Thick ascending limb of the loop of Henle",
+        "C": "Collecting tubule",
+        "D": "Distal tubule"
+      },
+      "correct_answer": "B",
+      "explanation": "Loop diuretics have the maximum efficacy. They act on the thick ascending loop of Henle by blocking Na+-K+-2Cl- symporter. Option A: Although 65% of Na+ is reabsorbed in the proximal tubule, diuretics acting here do not have maximum efficacy. This is because the thick ascending limb of the loop of Henle has a great reabsorptive capacity and it absorbs most of the filtrate from the proximal tubule. Options C and D: Diuretics acting distal to the thick ascending limb of the loop of Henle have limited efficacy because most of the reabsorption of Na+ (>90%) would have already occurred by the time the tubular fluid reaches there.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements about furosemide is true?",
+      "options": {
+        "A": "Acute pulmonary edema is an indication",
+        "B": "Acts on the proximal convoluted tubules, causes mild diuresis, and is given only by the parenteral route",
+        "C": "Hypokalemia",
+        "D": "Acidosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Furosemide is indicated in acute pulmonary edema. It is a loop diuretic that acts on the thick ascending loop of Henle and inhibits the Na+-K+-2Cl- symporter. Loop diuretics have maximum efficacy amongst all the diuretics and are therefore called high-ceiling diuretics. They can be given by both the oral and parenteral routes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 5,
+      "question": "High ceiling diuretics are used in the treatment of all of the following patients except:",
+      "options": {
+        "A": "40-year-old man with anasarca",
+        "B": "35-year-old woman with a head injury and cerebral edema",
+        "C": "56-year-old woman with acute pulmonary edema",
+        "D": "48-year-old man with pulmonary hypertension"
+      },
+      "correct_answer": "D",
+      "explanation": "High ceiling diuretics are not used in pulmonary hypertension.High ceiling or loop diuretics have diuretic properties as well as vasodilatory action.• Diuretic property - removing excess fluid in hepatic, renal, and cardiac diseases•Vasodilatory action - quick symptomatic relief of symptoms in LVF and acute pulmonary edema.They are also used for the treatment of chronic CHF.Pulmonary artery hypertension is a condition where there is increased pulmonary vascularresistance. Since nitric oxide is an important regulator of pulmonary vascular resistance, PDE5inhibitors like sildenafil, vardenafil or tadalafil are primarily used in the treatment of pulmonaryarterial hypertension.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 6,
+      "question": "A 65-year-old woman with chronic kidney disease was given a diuretic intravenously. Following administration of the drug, she developed tinnitus and diminished hearing. Which of the following drugs was most likely given?",
+      "options": {
+        "A": "Thiazide",
+        "B": "Spironolactone",
+        "C": "Ethacrynic acid",
+        "D": "Triamterene"
+      },
+      "correct_answer": "C",
+      "explanation": "Ethacrynic acid is the diuretic that was most likely given as it is commonly associated with ototoxicity. Ototoxicity occurs with rapid intravenous infusion and the hearing impairment and deafness are usually reversible. Ethacrynic acid should be used only in patients who are not able to tolerate other loop diuretics.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 7,
+      "question": "Carbonic anhydrase inhibitors do not cause:",
+      "options": {
+        "A": "Increased bicarbonate excretion",
+        "B": "Urinary alkalinization",
+        "C": "Metabolic alkalosis",
+        "D": "Potassium loss"
+      },
+      "correct_answer": "C",
+      "explanation": "Carbonic anhydrase inhibitors do not cause metabolic alkalosis. They cause metabolic acidosis due to increased bicarbonate excretion. Option B: Increased bicarbonate excretion causes urinary alkalinization. Option D: Increased delivery of Na+ to distal tubules causes increased K+ excretion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following can be administered intravenously?",
+      "options": {
+        "A": "Brinzolamide",
+        "B": "Dorzolamide",
+        "C": "Acetazolamide",
+        "D": "Methazolamide"
+      },
+      "correct_answer": "",
+      "explanation": "Acetazolamide is a carbonic anhydrase inhibitor that can be administered intravenously. It isindicated in the acute management of angle-closure glaucoma for the rapid reduction of IOPbefore surgery. The oral formulation is given for open-angle glaucoma.Options A and B: Brinzolamide and dorzolamide are available only as ophthalmic drops and usedin open-angle glaucoma.Option D: Methazolamide is available as an oral formulation and used for open-angle glaucoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 9,
+      "question": "A 30-year-old man joins a pilgrimage to a shrine at a mountain peak. At the summit, hedevelops tightness in the chest, associated with breathlessness and altered sensorium. Whichof the following can be given for symptomatic relief?",
+      "options": {
+        "A": "Mannitol",
+        "B": "Digoxin",
+        "C": "Diltiazem",
+        "D": "Acetazolamide"
+      },
+      "correct_answer": "D",
+      "explanation": "The symptoms are suggestive of acute mountain sickness and acetazolamide can be given forsymptomatic relief.It can also be used for prophylaxis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient with a glioblastoma multiforme is started on mannitol as palliative therapy. Whichof the following statements is false regarding its diuretic action?Renal blood flow is increasedb) Reduction in medullary tonicityc) Extracellular fluid compartment is expandedd) GFR is decreased204Question 11:A 45-year-old woman presents with complaints of swelling of both feet and of breathlessness.on exertion. After evaluation, she was diagnosed with congestive cardiac failure. Which of thefollowing drugs is contraindicated in this patient?",
+      "options": {
+        "A": "Mannitol",
+        "B": "Spironolactone",
+        "C": "Furosemide",
+        "D": "Hydrochlorothiazide"
+      },
+      "correct_answer": "D",
+      "explanation": "Mannitol is an osmotic diuretic. These drugs do not cause much change in the GFR.Osmotic diuretics cause extraction of fluid from the intracellular compartment resulting in theexpansion of the extracellular compartment. The renal blood flow increases and renin release isinhibited. An increase in renal medullary blood flow removes NaCl and urea from the renalmedulla thus reducing medullary tonicity. There is not much change in the total GFR.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient with hypertension is prescribed chlorthalidone. What would be the effect of thisdrug on the excretion of electrolytes?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correct_answer": "",
+      "explanation": "Chlorthalidone is a thiazide diuretic which increases Na+ and K+ excretion and decreases Ca2+excretion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 13,
+      "question": "Thiazide diuretics are not used in the treatment of which of the following conditions?",
+      "options": {
+        "A": "Idiopathic hypercalciuria with nephrocalcinosis",
+        "B": "Hyperlipidemia",
+        "C": "Congestive heart failure",
+        "D": "Nephrogenic diabetes insipidus"
+      },
+      "correct_answer": "B",
+      "explanation": "Thiazide diuretics are not used in the treatment of hyperlipidemia. They result in an increase in the levels of LDL, total cholesterol, and triglycerides. Option A: Thiazide reduces Ca2+ excretion and is used in the treatment of idiopathic hypercalciuria with nephrocalcinosis. Option C: They are also used in the treatment of edema associated with CHF, hepatic cirrhosis, and nephrotic syndrome. Option D: Thiazides are the mainstay for the treatment of nephrogenic diabetes insipidus. They reduce the kidney's ability to excrete free water. They increase proximal tubular water absorption and block the ability of the DCT to form dilute urine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 14,
+      "question": "A 45-year-old man with hypertension is prescribed chlorthalidone. Which of the following isunlikely to occur in this patient?",
+      "options": {
+        "A": "Hyponatremia",
+        "B": "Hypokalemia",
+        "C": "Erectile dysfunction205",
+        "D": "Hypocalcemia"
+      },
+      "correct_answer": "D",
+      "explanation": "Hypocalcemia is unlikely to occur in a patient on chlorthalidone, a thiazide diuretic.Thiazide diuretics do not cause hypocalcemia. They result in hypercalcemia.Thiazide and loop diuretics share similar side effects except that loop diuretics causeCa2+excretion (loop loses calcium) whereas thiazides retain Ca2+ and cause hypercalcemia.Other side effects of thiazide diuretics are:• Hypokalemia•.HyponatremiaHypomagnesemia• Metabolic alkalosis• Hypercalcemia• Hyperuricemia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 15,
+      "question": "A 42-year-old man in the nephrology ward has a GFR of less than 30mL/min, suggestive ofsevere renal failure. What is the best drug that can be given to him?",
+      "options": {
+        "A": "Chlorthalidone",
+        "B": "Metolazone",
+        "C": "Xipamide",
+        "D": "Hydrochlorothiazide"
+      },
+      "correct_answer": "B",
+      "explanation": "Metolazone is effective in severe renal failure (GFR&lt;30ml/min).212Metolazone works primarily in the distal convoluted tubule, rather than the proximal convolutedtubule, and has little effect on GFR and can hence be used in patients with a reduced GFR.Indapamide is another thiazide diuretic that may be effective in severe renal failure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient has been on lisinopril since being diagnosed with hypertension last year. His bloodpressure readings are quite high, and the doctor considers adding a diuretic. Which amongstthe following would be the ideal add on drug?",
+      "options": {
+        "A": "Spironolactone",
+        "B": "Eplerenone",
+        "C": "Hydrochlorthiazide",
+        "D": "Amiloride"
+      },
+      "correct_answer": "C",
+      "explanation": "Hydrochlorothiazide would be the ideal add-on drug. It is a thiazide diuretic and causeshypokalemia, which can counteract the hyperkalemia caused by lisinopril, an ACE inhibitor.Aldosterone causes Na+ absorption in the collecting duct and the distal tubule in exchange for H+and K+. ACE inhibitors decrease angiotensin II levels and thereby, decrease aldosterone levels.Decreased aldosterone level causes K+ retention by reducing the exchange. Therefore, ACEinhibitors cause retention of K+.Diuretics that cause elevation of plasma K+ levels are not suitable for combining with ACEinhibitors.Potassium-sparing diuretics like spironolactone, eplerenone, and amiloride are contraindicatedwith ACE inhibitors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 17,
+      "question": "A 10-year-old boy is brought with complaints of vomiting and lethargy after swallowingseveral pills of his father's medication. Serum electrolytes indicate hyperkalemia. Which ofthe following drugs can you rule out?",
+      "options": {
+        "A": "Triamterene",
+        "B": "Spironolactone",
+        "C": "Amiloride",
+        "D": "Indapamide"
+      },
+      "correct_answer": "D",
+      "explanation": "Indapamide can be ruled out as it is a thiazide diuretic that causes hypokalemia. The other drugsare potassium-sparing diuretics that cause hyperkalemia.K+ sparing diuretics work by 2 mechanisms:••Blocking the ENaC (epithelial sodium channel)• Triamterene⚫ Amiloride• Aldosterone receptor antagonist• Spironolactone⚫ Eplerenone• Canrenone",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 18,
+      "question": "206Which of the following diuretics do not need to be present in the tubular lumen forpharmacological action?",
+      "options": {
+        "A": "Thiazide diuretics",
+        "B": "Loop diuretics",
+        "C": "Carbonic anhydrase inhibitors",
+        "D": "Aldosterone antagonists"
+      },
+      "correct_answer": "D",
+      "explanation": "Aldosterone antagonist acts from the interstitial side of the tubular cells. They do not have to bepresent in the tubular lumen for their action.Aldosterone antagonists enter the tubular cells from the basolateral membrane. Theycompetitively inhibit the binding of aldosterone to mineralocorticoid receptors.213Thiazide diuretics, loop diuretics, ENaC inhibitors, and carbonic anhydrase inhibitors have to bepresent in the lumen for its action. They are all secreted from the proximal tubule into the tubularfluid through the organic anion/ cation transport process.Osmotic diuretics reach the lumen via glomerular filtration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 19,
+      "question": "Canrenone is a metabolite of:",
+      "options": {
+        "A": "Acetazolamide",
+        "B": "Spironolactone",
+        "C": "Eplerenone",
+        "D": "Metolazone"
+      },
+      "correct_answer": "B",
+      "explanation": "Canrenone is a metabolite of spironolactone.Spironolactone is metabolized completely in the liver. It is also converted to an active metabolite,canrenone that is responsible for more than 50% of the spironolactone action. Spironolactone hasa half-life of 1-2 hours while canrenone has a half-life of around 18 hours.Eplerenone is an aldosterone receptor antagonist similar to spironolactone and metabolizedprimarily by CYP3A4, but no active metabolites have been identified.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 20,
+      "question": "A 52-year-old man with alcoholic cirrhosis develops ascites. What is the drug of choice formanagement?",
+      "options": {
+        "A": "Chlorothiazide",
+        "B": "Acetazolamide",
+        "C": "Spironolactone",
+        "D": "Mannitol"
+      },
+      "correct_answer": "",
+      "explanation": "The diuretic of choice in a patient with cirrhotic ascites is spironolactone.Spironolactone is a competitive inhibitor of the mineralocorticoid receptor in the late distal tubuleand collecting duct of the kidneys. It causes a decrease in sodium reabsorption and potassiumexcretion in the distal tubule. As a result, spironolactone promotes sodium diuresis but maintainsbody potassium levels.Spironolactone is particularly helpful in edematous states caused or exacerbated byhyperaldosteronism such as in cirrhotic ascites.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is not a side effect seen in a patient receiving spironolactone?",
+      "options": {
+        "A": "Gynaecomastia",
+        "B": "Hyperkalemia",
+        "C": "Metabolic alkalosis",
+        "D": "Renal insufficiency"
+      },
+      "correct_answer": "",
+      "explanation": "Aldosterone antagonists cause hyperchloremic metabolic acidosis and not metabolic alkalosis.They inhibit H+ secretion in parallel with K+ secretion thus resulting in acidosis.Other side effects are:• Hyperkalemia.Gynecomastia• Renal insufficiency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 22,
+      "question": "207Which of the following is not an indication for amiloride use?",
+      "options": {
+        "A": "Lithium induced polyuria",
+        "B": "Cystic fibrosis",
+        "C": "Calcium nephrolithiasis",
+        "D": "Liddle syndrome"
+      },
+      "correct_answer": "",
+      "explanation": "Amiloride is not used in the treatment of calcium nephrolithiasis. The condition is sometimestreated with thiazide diuretics but not amiloride.214Amiloride is a K+ sparing diuretic that acts by inhibiting the epithelial Na+ channels. The varioususes of amiloride are:• Edema/hypertension - usually in combination with thiazides• Lithium-induced polyuria - blocks lithium transport into collecting tubules•Cystic fibrosis aerosolized amiloride enhances mucociliary clearance; acts by inhibiting Na+-absorption from epithelial surfaces and increasing hydration of secretions• Liddle syndrome - hyperactive epithelial sodium channels (ENaC) activity is reduced",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    },
+    {
+      "q_no": 23,
+      "question": "A 35-year-old man with asthma presents with complaints of increased urination. The doctorchecks that he has been taking theophylline and counsels that it could be a side effect. Whatis the mechanism of action causing diuresis?",
+      "options": {
+        "A": "Adenosine antagonism",
+        "B": "PDE-4 inhibition",
+        "C": "Beta-2 agonism",
+        "D": "PDE-3 inhibition"
+      },
+      "correct_answer": "C",
+      "explanation": "The diuretic effect of theophylline is due to the blockade of adenosine (A1) receptors.Theophylline is a methylxanthine drug that acts by• Inhibition of phosphodiesterase enzyme (PDE)•PDE3 inhibition - relaxation of bronchial smooth muscle• PDE4 inhibition - inhibition cytokines and chemokine release, which leads to a decrease inimmune cell migration and activation•Blockade of adenosine receptors inhibits bronchoconstriction, however, blockade of A1 receptorsin the glomerular afferent arteriole and PCT causes diuresis.• Activating enzyme histone deacetylase-2, which is responsible for its anti-inflammatory action215",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diuretics"
+    }
+  ]
+}

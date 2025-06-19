@@ -1,0 +1,140 @@
+{
+  "chapter": "Anti-rheumatoid drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A patient with rheumatoid arthritis has been on treatment for the past 15 years. During anannual eye check-up, her fundus appeared as shown in the picture given. Which of thefollowing anti-rheumatoid drugs likely led to this side effect?",
+      "options": {
+        "A": "Cyclophosphamide",
+        "B": "Methotrexate",
+        "C": "Hydroxychloroquine",
+        "D": "Leflunomide"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q1_img1_9094b986.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anti-rheumatoid drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "A middle-aged woman with rheumatoid arthritis was on DMARD therapy with a drug thatincreases extracellular adenosine. Which drug was she likely on?",
+      "options": {
+        "A": "Methotrexate",
+        "B": "Lefunamide",
+        "C": "Sulphasalazine",
+        "D": "Hydroxychloroquine724"
+      },
+      "correct_answer": "A",
+      "explanation": "Methotrexate is the DMARD that increases extracellular adenosine.It is a dihydrofolate reductase (DHFR) inhibitor that leads to purine synthesis inhibition and thisis cytotoxic to lymphocytes.It also inhibits amino-imidazole carboxamide ribonucleotide (AICAR) transformylase andthymidylate synthetase. This leads to increased extracellular adenosine which isanti-inflammatory.The increased extracellular adenosine is hepatotoxic and hence monitoring with LFT is neededevery 2-3 months.Mechanism of action of methotrexateDihydrofolatereductaseMethotrexateAICAR(Amino-imidazole carboxamideribonucleotide transformylase)+Tetrahydrofolate andmethyltetrahydrofolate+Purine andpyrimidine synthesis+PolyaminesDe-novo purinesynthesis+LymphotoxinsOMARROW+AICARmetabolitesAdenosine deaminaseand AMP deaminase+Adenosine",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp2_img1_b091e0fd.jpeg",
+      "chapter_heading": "Anti-rheumatoid drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient with rheumatoid arthritis on treatment with methotrexate came for a follow-upvisit. Her peripheral blood smear shows the following finding. What drug can beadministered to alleviate this side effect?",
+      "options": {
+        "A": "Ascorbic acid",
+        "B": "Cyanocobalamin",
+        "C": "Thiamine",
+        "D": "Folinic acid"
+      },
+      "correct_answer": "D",
+      "explanation": "The peripheral smear findings point to a diagnosis of megaloblastic anemia. Folinic acid is givenwith methotrexate to decrease its side effects.Methotrexate is a dihydrofolate reductase (DHFR) inhibitor and thus can lead to a deficiency offolic acid which may present as megaloblastic anemia.Folinic acid/leucovorin calcium/citrovorum factor is the 5-formyl derivative of tetrahydrofolic acid.Thus, it decreases the side effects caused due to folate deficiency.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q3_img1_53842c1d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anti-rheumatoid drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following drugs can be used for the treatment of a patient with rheumatoidarthritis?",
+      "options": {
+        "A": "Sulfacetamide",
+        "B": "SulfasalazineSilver sulfadiazined) MafenideQuestion 5:How does etanercept act?725a) Interleukin 1 inhibitionb) Interleukin 6 inhibition",
+        "C": "TNF alpha inhibition",
+        "D": "Janus kinase inhibition"
+      },
+      "correct_answer": "B",
+      "explanation": "728Sulfasalazine can be used in the treatment of rheumatoid arthritis, as a conventional DMARD. Itis also used in the management of ulcerative colitis and regional enteritis.Sulfasalazine is metabolized into the following:•5-amino salicylic acid (5-ASA) - it is not absorbed and is used to treat ulcerative colitis.Sulfapyridine - it is absorbed and is used to treat rheumatoid arthritis.It is used as monotherapy in mild cases and as an add-on drug in moderate to severe cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-rheumatoid drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "You are using TNF alpha inhibitors in the treatment of a patient with rheumatoid arthritis.Which of the following is not true regarding these drugs?",
+      "options": {
+        "A": "They can also be used in the treatment of plaque psoriasis",
+        "B": "They can be used in the treatment of psoriatic arthritis",
+        "C": "They can be used in the treatment of lymphomas",
+        "D": "They can be used in the treatment of ulcerative colitis"
+      },
+      "correct_answer": "",
+      "explanation": "TNF- inhibitors are not used in the treatment of lymphomas.Despite their benefits, multiple potential adverse effects following the use of TNF-alpha inhibitorshave been reported. These include:•Malignancy (lymphoma)• Injection site reactions•• Infusion reactions• Opportunistic infections.TNF- inhibitors can be used in the treatment of:• Rheumatoid arthritis•Ankylosing spondylitis•Crohn's disease• Ulcerative colitis•Plaque psoriasis• Psoriatic arthritis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-rheumatoid drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "A middle-aged man with rheumatoid arthritis on treatment with methotrexate presents toyour OPD complaining of no improvement in his condition. Which of the following is an IL-1receptor antagonist that can you prescribe for him?",
+      "options": {
+        "A": "Anakinra",
+        "B": "Rituximab",
+        "C": "Tofacitinib",
+        "D": "Golimumab"
+      },
+      "correct_answer": "A",
+      "explanation": "The IL-1 receptor antagonist that is used in the treatment of rheumatoid arthritis is anakinra.Anakinra is a biological DMARD (Disease Modifying Anti-Rheumatoid Drug) used in thetreatment of rheumatoid arthritis. All biological DMARDs downregulate the immune system andcan lead to adverse effects like opportunistic infections and flaring of latent TB.729",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-rheumatoid drugs"
+    },
+    {
+      "q_no": 8,
+      "question": "Which is the monoclonal antibody approved for the treatment of rheumatoid arthritis?",
+      "options": {
+        "A": "Durvalumab",
+        "B": "Sarilumab",
+        "C": "Nivolumab",
+        "D": "Pembrolizumab"
+      },
+      "correct_answer": "B",
+      "explanation": "The monoclonal antibody approved for the treatment of rheumatoid arthritis is sarilumab.It is an IL-6 receptor antagonist indicated for the treatment of adults with moderate to severerheumatoid arthritis who show inadequate response or intolerance to one or moredisease-modifying antirheumatic drugs (DMARDs).Option A: Durvalumab is an anti PD-L1 antibody approved for metastatic urothelial cancer.Option C: Nivolumab is a fully human monoclonal IgG4 antibody that blocks the interactionbetween PD-1 (Programmed cell Death-1) receptor and its ligands.Option D: Pembrolizumab (formerly called lambrolizumab or MK-3475) is a humanizedmonoclonal IgG4-к isotype antibody that blocks the interaction between PD-1 and its ligands.Nivolumab and pembrolizumab are used to treat advanced melanoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-rheumatoid drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "726Which of the following is a Janus kinase inhibitor approved for use in rheumatoid arthritis?",
+      "options": {
+        "A": "Ruxolitinib",
+        "B": "Baricitinib",
+        "C": "Denosumab",
+        "D": "Dasatinib"
+      },
+      "correct_answer": "B",
+      "explanation": "Baricitinib was approved for use in patients with rheumatoid arthritis. It is a Janus kinaseinhibitor.Oral Janus kinase inhibitors for rheumatoid arthritis and upadacitinib and tofacitinib.Option A: Ruxolitinib is a Janus kinase inhibitor, approved for use in various forms ofmyelofibrosis, polycythemia vera, and acute graft vs host disease.Option C: Denosumab is a RANK-L inhibitor that is approved for the treatment of osteoporosis.Option D: Dasatinib and ponatinib are BCR-ABL tyrosine kinase inhibitors indicated for thetreatment of CML.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-rheumatoid drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "Which among the following is not an indication for the use of corticosteroids in the treatmentof rheumatoid arthritis?",
+      "options": {
+        "A": "Management of acute disease flares while on therapy with DMARDs",
+        "B": "As bridging therapy initially, till DMARDs take effect",
+        "C": "Chronic therapy in cases that cannot be controlled with DMARDs",
+        "D": "As monotherapy for the treatment of rheumatoid arthritis"
+      },
+      "correct_answer": "D",
+      "explanation": "Glucocorticoids are not used as monotherapy for the treatment of rheumatoid arthritis (RA).High doses of glucocorticoids may be needed to treat severe extraarticular manifestations of RA.Intraarticular injection of triamcinolone can be considered for one/few actively inflamed joints.Option A: A burst of glucocorticoids for 1-2 weeks may be prescribed to manage acute diseaseflares.Option B: They may be administered as bridging therapy initially to achieve rapid disease controltill DMARDs take effect, which may take several weeks or even months.Option C: Chronic therapy with low doses may be needed to control the disease in patients withan inadequate response to DMARD therapy.730",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-rheumatoid drugs"
+    }
+  ]
+}

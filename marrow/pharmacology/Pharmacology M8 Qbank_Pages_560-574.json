@@ -1,0 +1,320 @@
+{
+  "chapter": "First Line Drugs for Tuberculosis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 35-year-old lady presents with pulmonary TB is started on anti-tubercular therapy. What isthe rationale for administering multi-drug therapy to her?",
+      "options": {
+        "A": "To delay development of resistance",
+        "B": "To reduce toxicity",
+        "C": "To broaden antimicrobial spectrum",
+        "D": "To prevent toxin release from the organism"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 2,
+      "question": "Which is the most effective drug against extracellular mycobacteria?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Rifampicin",
+        "C": "Pyrazinamide",
+        "D": "Ethambutol"
+      },
+      "correct_answer": "",
+      "explanation": "The most effective drug against extracellular mycobacteria is Rifampicin.567Option A: Isoniazid and Rifampicin act against both intracellular andextracellular mycobacterium. But, Rifampicin inhibits the extracellular mycobacteria at muchlower drug concentrations than isoniazid.Option B: Pyrazinamide acts only against intracellular mycobacterium.Option C: Ethambutol acts against only extracellular mycobacteria but is not as effective asrifampicin. It is a bacteriostatic drug. Fast-multiplying bacteria are highly susceptible to itsaction.Note: Streptomycin is primarily active against only the extracellular tubercle bacilli as itspenetration into the cells is very poor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient was diagnosed with pulmonary tuberculosis and was started on first-lineantitubercular drugs. Which of the following drug acts by inhibiting the synthesis of themarked layer shown in the image?560",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Rifampicin",
+        "C": "Pyrazinamide",
+        "D": "Ethambutol8Mycobacterial cell wall structureLipoarabinomannan (LAM)Capsular proteins andcarbohydratesOMARROW8Mycolicacid layerLipoteichoicacidArabinogal-actan layerPeptidoglycanlayerCytoplasmicmembrane"
+      },
+      "correct_answer": "",
+      "explanation": "Isoniazid is the first-line antitubercular drug that acts by inhibiting the synthesis of mycolic acid.Isoniazid is a first-line bactericidal drug that is used for the treatment of tuberculosis. This drugenters bacilli by passive diffusion. It then gets activated to its toxic form by the enzymecatalase-peroxidase(the enzyme encoded by the Kat gene).Normally, InhA and KasA are involved in the synthesis of mycolic acid. Upon activation, thereactive metabolite of isoniazid forms complexes with NAD that inhibit InhA and KasA. Hence,isoniazid inhibits the production of mycolic acid.The reactive isoniazid metabolite also forms complexes with NADP. This complex inhibitsmycobacterial dihydrofolate reductase which results in the interruption of DNA synthesis.Side effects of isoniazid include:• Peripheral neuritis due to interference with the production of active coenzyme pyridoxalphosphate from pyridoxine. Therefore, pyridoxine 10mg/day (vitamin B6) is given prophylacticallyalong with isoniazid to prevent neurotoxicity.•Hepatitis - isoniazid must be stopped at the first sign of hepatotoxicity.• Rashes• Anaemia• ArthralgiaToxicity of isoniazid results in metabolic acidosis, seizures, and coma.Other options:Option B: Rifampin acts by binding to DNA-dependent RNA polymerase to form a stabledrug-enzyme complex. This complex suppresses RNA synthesis. Side effects of rifampin arehepatitis, flu-like illness, orange-red colored urine, and body secretions.Option C: Pyrazinamide is a prodrug, it is converted into an active metabolite pyrazinoic acidwhich makes the intracellular environment acidic and collapses the transmembrane protonmotive force, thereby killing the bacteria. Side effects include hyperuricemia and hepatotoxicity.Option D: Ethambutol inhibits arabinose transferase III, thereby decreasing arabinogalactanbiosynthesis. This results in disruption in mycobacterial cell wall synthesis. Optic neuritis is an568important side effect of ethambutol. It results in decreased visual acuity and loss of red-greendiscrimination.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q3_img1_5e643cbe.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 4,
+      "question": "A study was conducted to genotype NAT2 gene polymorphisms in patients receiving ATT.Among the 300 patients genotyped, 200 were slow acetylators (group",
+      "options": {
+        "A": ", 70 wereintermediate (group",
+        "B": "and 30 were fast acetylators (group",
+        "C": ". Patients in group A are proneto develop which of the following?a) Failure of therapyb) Peripheral neuropathyc) Hepatotoxicity",
+        "D": "Allergic reactions"
+      },
+      "correct_answer": "B",
+      "explanation": "Isoniazid, a key agent in the ATT, is metabolized primarily through N-acetylation by thegenetically polymorphic N-acetyltransferase-2 (NAT2) enzyme. Slow acetylators (group A) ofisoniazid are prone to develop peripheral neuropathy.The rate of metabolism of isoniazid is determined by the genetic polymorphism of NAT2 enzymeand classified broadly into two groups - slow and fast acetylators.In slow acetylators, the drug accumulates due to slow metabolism resulting in an increased riskof side effects, and hence they should undergo periodic monitoring. Peripheral neuropathy is amore frequent side effect of INH when compared to hepatotoxicity.Fast acetylators metabolize the drug rapidly and show less response to standard doses and thetherapy may be less effective.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 5,
+      "question": "Line probe assay done on sputum sample of a patient with TB revealed over-expression ofInhA gene. This can lead to cross-resistance of isoniazid with which of the following drugs?",
+      "options": {
+        "A": "Rifampicin",
+        "B": "Ethionamide",
+        "C": "Cycloserine561",
+        "D": "Ethambutol"
+      },
+      "correct_answer": "",
+      "explanation": "Over-expression of the gene for InhA leads to cross-resistance of isoniazid (INH) withethionamide.Mechanisms of INH resistanceMutation of KatGOverexpression of InhAOverexpression of ahpCmost common mechanismconfers a high level of resistanceconfers alow level of resistancecross-resistance with ethionamideincreases the bacterial survival under oxidative stresscross-resistance with ethambInduction of efflux pumpsutol",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 6,
+      "question": "A 4-month-old boy was brought to the ER with recurrent seizures. His mother informs youthat he is receiving isoniazid prophylaxis as she was diagnosed with TB during pregnancy.ABG revealed a high anion gap metabolic acidosis. What would be the mainstay of treatment?",
+      "options": {
+        "A": "Benzodiazepines",
+        "B": "Barbiturates",
+        "C": "Pyridoxine",
+        "D": "Thiamine"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of isoniazid overdose for which the mainstay of treatmentis intravenous pyridoxine.Isoniazid overdose results in decreased pyridoxine availability to neurons. This decreases thelevels of GABA, which in turn lowers the seizure threshold. Benzodiazepines can be used to569control seizures.Prolonged treatment with isoniazid leads to the deficiency of pyridoxine which can lead toperipheral neuropathy and other neurological manifestations like ataxia, paresthesia, andnumbness.Clinical triad of isoniazid overdose:• Seizures refractory to treatment with phenytoin and barbiturates• High anion gap metabolic acidosis (HAGMA) resistant to treatment with sodium bicarbonate• Coma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 7,
+      "question": "A 30-year-old man undergoing treatment for TB visits your OPD for follow-up. His wife statesthat recently he is forgetting the names of his colleagues and neighbors, but later recollectsthem correctly. Which drug is implicated to cause this condition?",
+      "options": {
+        "A": "Ethionamide",
+        "B": "Isoniazid",
+        "C": "Ethambutol",
+        "D": "Pyrazinamide"
+      },
+      "correct_answer": "B",
+      "explanation": "Isoniazid is the antitubercular drug that is implicated in the causation of transient memory loss.Neurological toxicities like peripheral neuropathy, optic neuritis, and seizures can occur withisoniazid therapy. It is also associated with abnormalities like:•Euphoria• Transient memory loss•Separation of ideas and reality• Loss of self-control• Florid psychosisPyridoxine therapy can prevent and reverse most of the neurological toxicity and mentalabnormalities.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 8,
+      "question": "A 66-year-old woman, on anti-tubercular therapy, presented with pain in the right hand andshoulder for the past 1 month. On physical examination, her wrist was swollen and hershoulder was extremely painful with a limited range of motion. Which drug is most likelyassociated with this condition?",
+      "options": {
+        "A": "Levofloxacin",
+        "B": "Isoniazid",
+        "C": "Rifampin",
+        "D": "Ethambutol"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical presentation is suggestive of shoulder-hand syndrome which is associated withthe use of isoniazid.This syndrome is characterized by painful arthropathy in the upper extremity joints. It can alsopresent as generalized arthropathy.Other drugs that can cause shoulder-hand syndrome are phenobarbitone and phenytoin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 9,
+      "question": "562Before initiating treatment for a sputum-positive TB patient, the physician orders forCartridge Based Nucleic Acid Amplification Test in order to test for drug resistance. Whichanti-tubercular drug resistance is he checking for?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Rifampicin",
+        "C": "Pyrazinamide",
+        "D": "Ethambutol"
+      },
+      "correct_answer": "B",
+      "explanation": "The Cartridge Based-Nucleic Acid Amplification Test (CBNAAT) is a molecular test fortuberculosis that detects the DNA of tubercle bacilli within 2 hours and mutations in the rpoBgene responsible for rifampicin resistance.570",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following rifamycin drugs would you advise a patient to take on an emptystomach?",
+      "options": {
+        "A": "Rifabutin and rifapentine",
+        "B": "Rifabutin and rifampicin",
+        "C": "Rifampicin only",
+        "D": "Rifapentine only"
+      },
+      "correct_answer": "C",
+      "explanation": "Rifampicin should be advised to be taken on an empty stomach because food decreases itsabsorption.Rifabutin absorption is not altered by food.Rifapentine absorption is enhanced by fatty food and hence it is recommended to be taken withfood.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 11,
+      "question": "An HIV-positive patient on ART with zidovudine, lamivudine, and indinavir developspulmonary tuberculosis. Which of the following anti-tubercular drugs should be avoided inhim?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Rifampicin",
+        "C": "Streptomycin",
+        "D": "Ethambutol"
+      },
+      "correct_answer": "B",
+      "explanation": "Rifampicin should be avoided as it is a potent inducer of CYP enzymes including CYPs 1A2, 3A4,2C9, and 2C19, which in turn can induce the metabolism of indinavir and results in therapeuticfailure of ART.Rifabutin causes the least induction of cytochrome enzymes and is therefore preferred in HIVpatients who are on protease inhibitors/NNRTIs.Cytochrome enzyme-inducing potency of rifamycins is: rifampicin &gt; rifapentine &gt; rifabutin.Note:Cytochrome P-450 inducersBarbituratesCarbamazepineRifampin PhenytoinAminoglutethimideCigarette smokingChronic alcoholismCytochrome P-450 inhibitorsMacrolide antibioticsAzole antifungalsChloramphenicolOmeprazoleSelective serotonin reuptake inhibitors (SSRIs) HIV protease inhibitorsCimetidineCiprofloxacinMetronidazole",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following rifamycins is not used for mycobacterial infections?",
+      "options": {
+        "A": "Rifampicin",
+        "B": "Rifaximin",
+        "C": "Rifapentine",
+        "D": "Rifabutin563"
+      },
+      "correct_answer": "B",
+      "explanation": "Rifaximin is not used for mycobacterial infections. It is a synthetic rifamycin that is poorlyabsorbed from the GIT and is indicated in the management of GI conditions like:•• Traveler's diarrhea•Irritable bowel syndrome with diarrhea• Hepatic encephalopathyRifamycins indicated in mycobacterial infections are rifampicin, rifapentine, and rifabutin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 13,
+      "question": "A Gene Xpert test was conducted on the sputum sample of a patient with suspected TB. Theresults were positive and showed resistance to rifampicin. What is the primary mechanism ofresistance against this drug?",
+      "options": {
+        "A": "Alteration in target enzyme",
+        "B": "Induction of efflux pumps",
+        "C": "Alteration in activation pathway",
+        "D": "Drug inactivating enzymes"
+      },
+      "correct_answer": "A",
+      "explanation": "Rifampicin resistance is primarily due to alteration in the target enzyme.571Rifampicin acts by binding to the ẞ subunit of DNA-dependent RNA polymerase (rpoB) andinhibits chain formation in RNA synthesis. Rifampicin is a potent inducer of cytochromeenzymes CYP3A4, CYP1A2, CYP2C9, and CYP2C19. Alteration of the target enzyme (rpoB) by amutation in the gene coding for rpoB is the primary mechanism of resistance to rifampicin. GeneXpert identifies mutations in the rpoB gene to detect rifampicin resistance.Efflux pump induction has also been demonstrated as a mechanism of rifampicin resistance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 14,
+      "question": "In which of the following conditions can rifampicin be used?",
+      "options": {
+        "A": "1, 3 and 5",
+        "B": "2 and 4 only",
+        "C": "1, 3, 4 and 5",
+        "D": "1, 2, 3 and 5"
+      },
+      "correct_answer": "D",
+      "explanation": "Besides its anti-tubercular action, rifampicin also has certain non-tubercular uses which include:• Prophylaxis of meningococcal and H. influenzae meningitis• Treatment of MRSA, diphtheroid, and legionella infections••• Eradication of staphylococcal nasal carrier state in patients with chronic furunculosisA combination of doxycycline and rifampicin is used as the first-line therapy for brucellosis• A part of the WHO regimen for standard therapy of both paucibacillary andmultibacillary leprosyRifampicin is not used in the treatment of Nocardia species. Cotrimoxazole is considered the drugof choice for pleuropulmonary nocardiosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 15,
+      "question": "You are prescribing first-line anti-tubercular therapy to a patient newly diagnosed with TB.Which of the following is incorrect about his therapy?",
+      "options": {
+        "A": "Red green color impairment is an early sign of ethambutol induced optic neuritis",
+        "B": "Ethambutol accumulates in renal failure",
+        "C": "Flu-like syndrome is usually seen if rifampicin is taken on a daily basis",
+        "D": "Hyperuricemia is a recognised side effect of pyrazinamide"
+      },
+      "correct_answer": "",
+      "explanation": "Flu-like syndrome is usually seen when rifampicin is administered less than twice weekly (highdose) and it is uncommon when administered daily (lower dose).Flu-like syndrome, characterized by fevers, chills, malaise, and arthralgia is a knowndose-dependent adverse effect of rifampicin therapy and tends to occur late into the patient'streatment course. It resolves with either discontinuation of rifampin or switching to a daily-doseregimen. It can often be confused with occult infections or treatment failure.Options A and B: Red-green colour impairment is one of the early signs of ethambutol-inducedoptic neuritis. Ethambutol is primarily excreted unchanged by kidneys and accumulation occursin renal failure. Ethambutol does not undergo hepatic metabolism and can be safely prescribedfor the treatment of TB in patients with hepatitis.Option D: Pyrazinamide interferes with urate excretion and can result in hyperuricemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 16,
+      "question": "A young woman undergoing treatment for tuberculosis visits your OPD for a routine checkup.She informs you that recently she has noticed an orange-colored discoloration of her contactlenses. Which of the following drugs is most likely to be responsible for this?",
+      "options": {
+        "A": "Isoniazid564",
+        "B": "Pyrazinamide",
+        "C": "Ethambutol",
+        "D": "Rifampicin"
+      },
+      "correct_answer": "D",
+      "explanation": "Rifampicin is the drug most likely to cause orange-colored discoloration of contact lenses in thiscase.572Drugs like rifampicin and rifabutin are known to cause reddish-orange discoloration of the skin,urine, feces, saliva, sweat, and tears (which can stain the patient's contact lenses).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q16_img1_6f09fcce.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 17,
+      "question": "You are planning to start treatment in a middle-aged man diagnosed with pulmonarytuberculosis. He has a history of chronic kidney disease and his current creatinine clearanceis 25 mL/min. Which of the following drugs is least likely to require dose modification?",
+      "options": {
+        "A": "Ethambutol",
+        "B": "Streptomycin",
+        "C": "Rifampicin",
+        "D": "Isoniazid"
+      },
+      "correct_answer": "C",
+      "explanation": "Rifampicin is the least likely drug to require dose modification in renal failure patients as it ismetabolized in the liver and primarily excreted in bile.In patients with renal failure, the half-life of isoniazid will be prolonged, but its adverse effects arenot significantly increased. Hence dose modification is not usually done for isoniazid in clinicalpractice as a reduction in dose may render the regimen ineffective and increase the chances ofresistance.Ethambutol and streptomycin are primarily excreted unchanged through the renal system andneed dose modification in renal failure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 18,
+      "question": "Pseudojaundice is an adverse effect of which of the following drugs?",
+      "options": {
+        "A": "Phenytoin",
+        "B": "Rifabutin",
+        "C": "Pyrazinamide",
+        "D": "Isoniazid"
+      },
+      "correct_answer": "B",
+      "explanation": "Pseudojaundice is an adverse effect of rifabutin. It resolves on discontinuation of the drug.Unique adverse effects of rifabutin are:• Polymyalgia/arthralgia• Pseudojaundice• Anterior uveitis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 19,
+      "question": "Mycobacterium tuberculosis nicotinamidase is involved in the activation of which of thefollowing antitubercular drug?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Ethambutol",
+        "C": "Pyrazinamide",
+        "D": "Cycloserine"
+      },
+      "correct_answer": "",
+      "explanation": "Mycobacterium tuberculosis nicotinamidase is involved in the activation of pyrazinamide.Nicotinamidase which is produced by M. tuberculosis is also called pyrazinamidase. It is encodedby the pncA gene and its mutations are associated with pyrazinamide resistance. It convertspyrazinamide to active pyrazinoic acid.Pyrazinoic acid has the following actions:• Inhibition of fatty acid synthetase type 1 leads to interference in mycolic acid synthesis•Reduction of intracellular pH•Disruption of membrane transport",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 20,
+      "question": "565A 47-year-old man on treatment for TB presents with complaints of severe pain and swellingin his left great toe since today morning, as shown in the image below. Which of the followingdrugs is most likely to cause this?",
+      "options": {
+        "A": "1 and 2",
+        "B": "2, 3 and 4",
+        "C": "2 and 4",
+        "D": "1, 3 and 5"
+      },
+      "correct_answer": "",
+      "explanation": "573The given clinical history and findings of first metatarsophalangeal joint swelling are suggestive ofan acute episode of gout. Antitubercular drugs that are most likely to cause hyperuricemia andprecipitate gout are pyrazinamide and ethambutol.Both pyrazinamide and ethambutol inhibit uric acid excretion in the kidney causinghyperuricemia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q20_img1_1499c54e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 21,
+      "question": "A 33-year-old woman receiving treatment for TB presents to your OPD with complaints ofblurry vision and pain on movement of the left eye for the past 2 days. Examination showedMarcus Gunn pupil. Which anti-tubercular drug is most likely associated with this condition?",
+      "options": {
+        "A": "Ethambutol",
+        "B": "Isoniazid",
+        "C": "Ethionamide",
+        "D": "Cycloserine"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical features along with Marcus Gunn pupil are suggestive of optic neuritis, which isa dose-dependent adverse effect associated with ethambutol.Optic neuritis resulting in decreased visual acuity and loss of red-green discrimination is the mostserious adverse effect of ethambutol. It can be unilateral or bilateral and usually recovers whenthe drug is stopped.Tests of visual acuity and red-green discrimination before the start of therapy and periodicallythereafter are recommended.574",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "First Line Drugs for Tuberculosis"
+    }
+  ]
+}

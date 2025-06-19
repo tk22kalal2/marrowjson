@@ -1,0 +1,545 @@
+{
+  "chapter": "Anticoagulants",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A patient with sustained atrial fibrillation was given heparin cover. What is the primarymechanism of action of the drug?",
+      "options": {
+        "A": "Activation of thrombin",
+        "B": "Activation of antithrombin",
+        "C": "Inhibition of antithrombin",
+        "D": "Direct inhibition of thrombin"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is not true about heparin?",
+      "options": {
+        "A": "It is the weakest acid found in the body",
+        "B": "It is commonly obtained from pig intestine.",
+        "C": "It acts by activation of antithrombin",
+        "D": "It can lead to thrombocytopenia"
+      },
+      "correct_answer": "",
+      "explanation": "Heparin is the strongest organic acid present in the body.Option B: Most commercial preparations of heparin are extracted from the porcine intestinalmucosa.Option C: Heparin acts indirectly through the activation of antithrombin and inhibition of factorsIIa and Xa.Option D: Heparin use can result in thrombocytopenia due to the development of antibodies toheparin-platelet factor 4 complex.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient is receiving low dose heparin infusions after hip replacement surgery to preventthromboembolism. Which of the following abnormalities are least likely to be expected in thispatient?",
+      "options": {
+        "A": "Prolonged aPTT",
+        "B": "Alopecia",
+        "C": "Hypokalemia",
+        "D": "Thrombocytopenia"
+      },
+      "correct_answer": "B",
+      "explanation": "Hypokalemia is least likely seen in this patient because heparin-induced hypoaldosteronismcauses hyperkalemia.770aPTT is prolonged in heparin therapy and is used to monitor its anticoagulant effect.The other side-effects of heparin are (OATH):O - OsteoporosisA - Alopecia (reversible)T- Thrombocytopenia (Heparin-Induced Thrombocytopenia - HIT)H - Hemorrhage, Hyperkalemia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 4,
+      "question": "For the action of heparin as an anticoagulant, availability of which of the following chemicalsubstances is mandatory?759",
+      "options": {
+        "A": "Thrombin",
+        "B": "Plasmin",
+        "C": "Antithrombin-III",
+        "D": "Thrombomodulin"
+      },
+      "correct_answer": "C",
+      "explanation": "Antithrombin-III is mandatory for the action of heparin as an anticoagulant. Reducedantithrombin levels can lead to resistance.Heparin resistance refers to failure to achieve a therapeutic aPTT with daily doses of heparin of35,000 units or more.In true heparin resistance, there is an actual blunting of heparin's anticoagulant effect. Thisoccurs due to:• Low ATIII levels (most common cause)• Increased heparin-binding plasma proteins (acute phase reactants)• Increased heparin clearance (e.g. due to splenomegaly in liver disease)Low ATIII levels could be due to decreased synthesis (hereditary, hepatic failure), increasedconsumption (DIC, MAHA, or in a bypass circuit) or increased loss (nephrotic syndrome).The dose of heparin has to be increased to achieve therapeutic aPTT. Severe antithrombindeficiency may require antithrombin concentrate as well.Heparin, LMWH, andFondaparinux – the structure and their actionsUnfractionated heparinPentasaccharideAntithrombin IHeteropolysaccharide chainFactor XaLow molecular-weight HeparinFondaparinuxPentasaccharideOMARROWThrombin (lla)771",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp4_img1_af76e573.jpeg",
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient scheduled for a CABG procedure receives preoperative heparin for anticoagulation.During the surgery, the patient starts bleeding massively and there is a drop in BP. Which ofthe following would you use to manage this patient?",
+      "options": {
+        "A": "Protamine sulfate",
+        "B": "Prothrombin complex concentrate",
+        "C": "Aminocaproic acid",
+        "D": "Tranexamic acid"
+      },
+      "correct_answer": "A",
+      "explanation": "Protamine sulfate is the drug used to treat life-threatening, heparin-induced bleeding.It is a mixture of basic polypeptides isolated from salmon sperm. It binds to acidic heparin withhigh affinity and neutralizes anticoagulant activity. The resultant protamine-heparin complexesare cleared. Protamine binds only to long heparin molecules (UFH). Therefore, protamine onlypartially reverses the activity of LMWH and has no effect on fondaparinux.It is most commonly used to neutralize heparin-induced anticoagulation after separation fromcardiopulmonary bypass. It is also utilized in the setting of dialysis, invasive vascular procedures,and acute ischemic strokes.Note: Protamine sulfate has anticoagulant activity at higher doses and hence, only small amountsof protamine (1mg/100 units of heparin) are used for heparin-induced bleeding.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 6,
+      "question": "Life-threatening bleeding in a patient receiving heparin is treated immediately with a drug Xthat reverses its effects. Identify the type of antagonism between X and heparin.",
+      "options": {
+        "A": "Chemical",
+        "B": "Physical",
+        "C": "Physiological",
+        "D": "Competitive"
+      },
+      "correct_answer": "A",
+      "explanation": "The drug antagonism between heparin and protamine sulfate (Drug X) is an example of chemicalantagonism.Protamine sulfate is a mixture of basic polypeptides that are positively charged. They bind to thehighly acidic heparin with a strong negative charge and form protamine-heparin complexes thatare cleared.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 7,
+      "question": "Predominant activity of low-molecular-weight heparin is seen against which clotting factor?",
+      "options": {
+        "A": "IIa",
+        "B": "IXa",
+        "C": "XIIa",
+        "D": "Xa"
+      },
+      "correct_answer": "D",
+      "explanation": "Low-molecular-weight heparin (LMWH) has predominant activity against factor Xa.LMWH has an anti-factor activity against both Xa and IIa with a greater effect on Xa.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 8,
+      "question": "760LMWH is given by which route?",
+      "options": {
+        "A": "Intravenous",
+        "B": "Subcutaneous",
+        "C": "Intramuscular",
+        "D": "Intradermal"
+      },
+      "correct_answer": "B",
+      "explanation": "LMWH is given by the subcutaneous route.Heparin, low molecular weight heparin (LMWH), and fondaparinux are not absorbed through GImucosa and must be given parenterally.LMWH and fondaparinux are given subcutaneously.Heparin can be given through intravenous infusion and subcutaneous routes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 9,
+      "question": "As compared to unfractionated heparin, which of the following is true about enoxaparin?",
+      "options": {
+        "A": "Is absorbed more uniformly when given subcutaneously",
+        "B": "Requires more frequent laboratory monitoring",
+        "C": "Can be given to patients with heparin induced thrombocytopenia",
+        "D": "Predisposes to a higher risk of osteopenia"
+      },
+      "correct_answer": "A",
+      "explanation": "Enoxaparin (LMWH) has a very high bioavailability and is absorbed more uniformly whencompared to unfractionated heparin. Hence, it does not require frequent monitoring.772LMWH can also lead to heparin-induced thrombocytopenia (HIT) and hence, it cannot be given inpatients with HIT.LMWH preparations:• Enoxaparin• Dalteparin•· Tinzaparin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 10,
+      "question": "Which is the anticoagulant of choice for the management of cancer-associatedthromboembolism?",
+      "options": {
+        "A": "Unfractionated Heparin",
+        "B": "Warfarin",
+        "C": "Low molecular weight heparin",
+        "D": "Dabigatran"
+      },
+      "correct_answer": "A",
+      "explanation": "The anticoagulant of choice for the management of cancer-associated thromboembolism islow-molecular-weight heparin (LMWH).It is the preferred agent because of more bioavailability, lack of need for anticoagulantmonitoring, and a long t1/2.Venous thromboembolism (including deep vein thrombosis, pulmonary embolism, and splanchnicvein thrombosis), is a frequent complication of cancer and is the second-leading cause of death incancer patients receiving chemotherapy.Based on the results from the Comparison of Low-molecular-weight heparin vs. Oralanticoagulants for long-term anticoagulation in cancer patients with venous Thromboembolism(CLOT) Trial, all recent guidelines now advise LMWH for cancer-associated thromboembolism.However, unfractionated heparin (UFH) can be used in patients with renal failure, andfondaparinux can be considered in patients with heparin-induced thrombocytopenia (HIT).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 11,
+      "question": "Fondaparinux can be best described as which of the following?",
+      "options": {
+        "A": "Low molecular weight heparin",
+        "B": "Antithrombin activator",
+        "C": "Direct thrombin inhibitor",
+        "D": "Direct factor Xa inhibitor"
+      },
+      "correct_answer": "B",
+      "explanation": "Fondaparinux is an antithrombin activator.It is a synthetic analog of the pentasaccharide unit of heparin that binds and activatesantithrombin. Activation of antithrombin causes the inactivation of factor Xa. So it is alsodescribed as an indirect factor Xa inhibitor.It is not a direct factor Xa inhibitor. Direct factor Xa inhibitors include rivaroxaban, apixaban, andedoxaban.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 12,
+      "question": "761A 65-year-old patient has been scheduled for cardiopulmonary bypass surgery. Which is theanticoagulant of choice for this patient?",
+      "options": {
+        "A": "Unfractionated heparin",
+        "B": "LMWH",
+        "C": "Fondaparinux",
+        "D": "Warfarin"
+      },
+      "correct_answer": "A",
+      "explanation": "Unfractionated heparin is the anticoagulant of choice for patients requiring cardiopulmonarybypass.Cardiopulmonary bypass circuits activate factor XII which can lead to clotting in the oxygenator.This process is called catheter-induced thrombosis.773Unfractionated heparin is better than LMWH or fondaparinux for blocking it. Also, reversal ofanticoagulation using protamine sulfate is easier for UFH compared to the other heparins.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 13,
+      "question": "Lab reports of a 45-year-old female patient, who was recently started on heparin, showedrapidly falling platelet counts. She was suspected to have heparin-induced thrombocytopenia.What is the most common presentation seen in this condition?",
+      "options": {
+        "A": "Bleeding",
+        "B": "Venous thrombosis",
+        "C": "Skin necrosis",
+        "D": "Arterial thrombosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common presentation of heparin-induced thrombocytopenia is venous thrombosis.HIT is an immune complication of heparin therapy caused by IgG antibodies against theheparin-platelet factor 4 complex. This results in the activation of platelets to propagate ahypercoagulable state culminating in life-threatening thrombosis.It is characterized by thrombocytopenia (Platelet count &lt;1,00,000/μL or reduced by over 50%from pre-treatment value) and clinically presents as venous thrombosis (in the formof DVT or pulmonary embolism)It occurs around 5-10 days after starting heparin. It is more common with UFH when comparedto LMWH. It is also more common in women surgical patients. Arterial thrombosis (resulting inMI or stroke), as well as bilateral adrenal hemorrhage, can rarely occur.Mechanism of heparin-induced thrombocytopeniaAntibodies againstplatelet-factor 4Release ofprocoagulantmicroparticlesBinds to plateletFc receptorPlatelet activationPlatelet releaseROforms heparinplatelet-factor 4complexPlatelet removalby macrophagesin spleenThrombocytopeniaPlatelet aggregationThrombosisMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp13_img1_86906e3e.jpeg",
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 14,
+      "question": "A 64-year-old man was started on heparin postoperatively for thromboprophylaxis. After aweek he developed sudden difficulty in breathing. His platelet count was found to be70,000/microliter. Which of the following is incorrect regarding the management of thispatient?",
+      "options": {
+        "A": "Heparin should be discontinued immediately",
+        "B": "Alternative anticoagulant such as argatroban should be administered",
+        "C": "Low molecular weight heparins should be avoided",
+        "D": "Heparin should be replaced with warfarin"
+      },
+      "correct_answer": "D",
+      "explanation": "The patient in the above scenario has heparin-induced thrombocytopenia (HIT). Direct thrombininhibitors, such as argatroban is the anticoagulant of choice in HIT.Management of HIT:•Stop heparin/LMWH• Give an alternative anticoagulant, such as lepirudin, argatroban, bivalirudin, fondaparinux orrivaroxaban• Do not give platelet transfusions (it only worsens the consumptive coagulopathy)774• Do not give warfarin until the platelet count returns to its baseline level. If warfarin wasadministered, give vitamin K to restore the INR to normal.Increased thrombin generation associated with HIT can cause consumption of protein C. Warfarinadministration can further decrease protein C levels and cause skin necrosis. Therefore warfarin isavoided in HIT.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient on anticoagulant therapy presented to the casualty with an uncontrolled bleedingepisode and was given IV protamine sulfate. However, the patient did not respond to thetreatment. Which of the following anticoagulant agents was most likely being used by thepatient?",
+      "options": {
+        "A": "Unfractionated heparin762",
+        "B": "Enoxaparin",
+        "C": "Dalteparin",
+        "D": "Fondaparinux"
+      },
+      "correct_answer": "D",
+      "explanation": "Since no effect was noted with protamine sulfate, the likely anticoagulant in use must befondaparinux. This is because protamine sulfate fails to bind the drug.Protamine sulfate binds tightly to heparin and neutralizes its anticoagulant effect. It partiallyreverses the anticoagulant activity of LMWH also. But it has no effect on fondaparinux.There is no known specific antidote approved for use in fondaparinux overdose.Fondaparinux-associated bleeding complications are managed by treatment discontinuation andsearch for the primary cause. Surgical hemostasis, blood replacements, fresh plasma transfusion,plasmapheresis should be considered.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 16,
+      "question": "A clinical trial is done to compare the safety profile of a certain direct thrombin inhibitor(drug X) with that of heparin in patients undergoing coronary angioplasty. Identify drug X.",
+      "options": {
+        "A": "Enoxaparin",
+        "B": "Bivalirudin",
+        "C": "Fondaparinux",
+        "D": "Dalteparin"
+      },
+      "correct_answer": "B",
+      "explanation": "Among the given options, the direct thrombin inhibitor is bivalirudin.Bivalirudin is a parenteral direct thrombin inhibitor (DTI) frequently used for anticoagulation ininvasive cardiology, particularly percutaneous coronary intervention (PCI). Unlike other DTIs, itundergoes predominant non-organ elimination (proteolysis) and has the shortest half-life(approximately 25 min).It can be used in patients with, or at risk for, heparin-induced thrombocytopenia.Other options:Options A and D: Enoxaparin and dalteparin are low-molecular-weight-heparin (LMWH)preparations.Option C: Fondaparinux is a synthetic analog of the pentasaccharide unit of heparin.Heparins and their analogs produce anticoagulant effects indirectly by activatingantithrombin-III.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 17,
+      "question": "The oral thrombin inhibitor which can be used for prevention of stroke in patients withnon-valvular atrial fibrillation is?",
+      "options": {
+        "A": "Dabigatran",
+        "B": "Ximelgatran",
+        "C": "Lepirudin",
+        "D": "Saxagliptin"
+      },
+      "correct_answer": "A",
+      "explanation": "The oral thrombin inhibitor which can be used for the prevention of stroke in patients withnon-valvular atrial fibrillation is dabigatran. However, it is contraindicated in patients withmechanical heart valves.775Option B: Ximelagatran is also an oral thrombin inhibitor, but it has been discontinued due to therisk of hepatotoxicity.Option C: Lepirudin is a parenteral direct thrombin inhibitor used mainly in heparin-inducedthrombocytopenia.Option D: Saxagliptin is a DPP-4 inhibitor used in the management of type 2 diabetes mellitus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is a parenteral direct thrombin inhibitor?",
+      "options": {
+        "A": "Apixaban",
+        "B": "Argatroban",
+        "C": "Dabigatran",
+        "D": "Enoxaparin"
+      },
+      "correct_answer": "B",
+      "explanation": "The parenteral direct thrombin inhibitor is argatroban.Argatroban binds reversibly to thrombin and inhibits it. It is metabolized in the liver and excretedin bile, so it can be safely used in patients with renal impairment.It can be used for prophylaxis and treatment of heparin-induced thrombocytopenia (HIT).Other parenteral direct thrombin inhibitors are their indications:•-Lepirudin was indicated in HIT but is discontinued now•• Desirudin - indicated for thromboprophylaxis in hip replacement surgery• Bivalirudin - used in procedures like coronary angioplasty or cardiopulmonary bypass surgeryand HIT.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is an oral factor Xa inhibitor?763",
+      "options": {
+        "A": "Bivalirudin",
+        "B": "Dabigatran",
+        "C": "Rivaroxaban",
+        "D": "Enoxaparin"
+      },
+      "correct_answer": "C",
+      "explanation": "Rivaroxaban is an oral direct factor Xa inhibitor. They represent a new class of oral anticoagulantdrugs that do not require monitoring.This group of drugs inhibit factor Xa in the final common pathway of clotting [conversion ofProthrombin (Factor II) to thrombin (Factor IIa)]. They are given as fixed doses and have a rapidonset of action.Oral direct factor Xa inhibitors are indicated in:• Prevention of embolic stroke in patients with atrial fibrillation (without valvular heart disease)•.Venous thromboembolic disease (VTE)• Postoperative thromboprophylaxis in patients undergoing hip and knee arthroplasty",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 20,
+      "question": "A patient on apixaban for nonvalvular atrial fibrillation requires urgent aortic surgery for apseudoaneurysm. Identify the decoy factor Xa used for reversal of apixaban action before thesurgery.",
+      "options": {
+        "A": "Dornase alfa",
+        "B": "Andexanet alfa",
+        "C": "Idarucizumab",
+        "D": "Protamine sulfate"
+      },
+      "correct_answer": "B",
+      "explanation": "Andexanet alfa is the decoy factor Xa approved for reversal of oral Xa inhibitors. It was approvedin May 2018.Option A: Dornase alfa is a recombinant human DNase 1 that is used in cystic fibrosis to reducethe viscosity of mucosal secretions.776Option C: Idarucizumab is a chimeric monoclonal antibody against dabigatran. It has a higheraffinity towards dabigatran than thrombin and is approved as a reversal agent for dabigatran.Option D: Protamine sulfate is an antidote for heparin overdose.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 21,
+      "question": "A patient with a history of regular oral anticoagulant therapy suffers a traumatic injury. Hereceives idarucizumab before damage control surgery to reverse the anticoagulant effect.Identify the oral anticoagulant that was being used by the patient.",
+      "options": {
+        "A": "Heparin",
+        "B": "Warfarin",
+        "C": "Dabigatran",
+        "D": "Rivaroxaban"
+      },
+      "correct_answer": "C",
+      "explanation": "Idarucizumab is a reversal agent for dabigatran. It is a humanized mouse monoclonal antibodyfragment.It binds irreversibly to dabigatran and forms a complex that is cleared by the kidneys.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following drugs is under clinical trials and shows a reversal in the action of alldirect anticoagulants?",
+      "options": {
+        "A": "Protamine",
+        "B": "Idarucizumab",
+        "C": "Andexanet alfa",
+        "D": "Ciraparantag764"
+      },
+      "correct_answer": "D",
+      "explanation": "Ciraparantag is a synthetic cationic molecule that binds to all direct anticoagulants (dabigatranand other oral factor Xa inhibitors) as well as heparin and LMWH and reverses their actions. It isstill under trial.Option A: Protamine sulfate reverses the action of heparin and LMWH.Option B: Idarucizumab is a specific antidote for dabigatran overdose.Option C: Andexanet alfa is a decoy for oral factor Xa inhibitors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 23,
+      "question": "Coagulation profile monitoring is needed in therapy with which of the following drugs?",
+      "options": {
+        "A": "Fondaparinux",
+        "B": "Enoxaparin",
+        "C": "Dabigatran",
+        "D": "Lepirudin"
+      },
+      "correct_answer": "D",
+      "explanation": "Coagulation profile monitoring is needed for lepirudin.Lepirudin is a direct irreversible thrombin inhibitor and its most adverse reaction is bleeding. Therisk of bleeding can be reduced by implementing an appropriate monitoring and dose adjustmentstrategy. Thus, coagulation profile monitoring is required for lepirudin.However, enoxaparin, fondaparinux, and dabigatran do not bind to endothelium or many plasmaproteins and thus, the response to these drugs at the usual doses is consistent from patient topatient. Hence, monitoring is not required.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following anticoagulants can be safely used in a pregnant patient?",
+      "options": {
+        "A": "Heparin",
+        "B": "Warfarin",
+        "C": "Dicumarol",
+        "D": "Phenindione"
+      },
+      "correct_answer": "A",
+      "explanation": "Heparin is the anticoagulant that can be safely used in pregnancy.Heparin, LMWH, and fondaparinux do not cross the blood-brain barrier or placenta and hencethey are the anticoagulants preferred in pregnancy.Warfarin and other vitamin K antagonists are contraindicated during pregnancy due to the risk ofteratogenicity.777",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 25,
+      "question": "A patient is on DVT prophylaxis with warfarin. It has an inhibitory action on which of thefollowing enzymes?",
+      "options": {
+        "A": "Gamma glutamyl carboxylase",
+        "B": "Vitamin K epoxide reductase",
+        "C": "Thrombin",
+        "D": "HMG-CoA reductase"
+      },
+      "correct_answer": "B",
+      "explanation": "Warfarin directly inhibits the enzyme Vitamin K epoxide reductase.It inhibits the conversion of vitamin K epoxide to its reduced form - vitamin K hydroquinonewhich is a co-factor for the enzyme gamma-glutamyl carboxylase. This enzyme catalyzes they-carboxylation process of vitamin K dependent clotting factors.Mechanism of action of WarfarinInhibited bywarfarinVitamin K epoxide(inactive)Vitamin K epoxidereductaseWReduced Vitamin K(active)Factors 2,7,9,10InactiveActivey-glutamylcarboxylaseOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp25_img1_ac923521.jpeg",
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 26,
+      "question": "Which of the following is vitamin K dependent clotting factor?",
+      "options": {
+        "A": "Factor I",
+        "B": "Factor VII",
+        "C": "Factor XI",
+        "D": "Factor XII765"
+      },
+      "correct_answer": "B",
+      "explanation": "Factor VII is a vitamin K dependant clotting factor.The vitamin K dependent factors:•Clotting factors: Factors II, VII, IX, X•Anticoagulant factors: Protein C and Protein S",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 27,
+      "question": "A patient suffering from non-valvular atrial fibrillation is prescribed warfarin tablets. Whichof the following clotting factors would you expect to decline the earliest in this patient afterdrug administration?",
+      "options": {
+        "A": "Factor II",
+        "B": "Factor VII",
+        "C": "Factor IX",
+        "D": "Factor X"
+      },
+      "correct_answer": "B",
+      "explanation": "Factor VII activity declines most rapidly when warfarin is administered. It has the shortest plasmahalf-life among the vitamin K dependent clotting factors.Clinical importance: Because of the long half-life of the other clotting factors, especially factor II,the full anticoagulant effect of warfarin is not seen for several days. Initially, parenteralanticoagulants are used along with warfarin until the full effect of warfarin is achieved.778",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 28,
+      "question": "In a patient receiving warfarin tablets, which enzyme primarily metabolizes the drug?",
+      "options": {
+        "A": "CYP2C19",
+        "B": "CYP2C9",
+        "C": "CYP3A4",
+        "D": "CYP1A2"
+      },
+      "correct_answer": "B",
+      "explanation": "Clotting factorSIIPlasma half-life (hours)50VII6IX24☑30Warfarin is primarily metabolized by CYP2C9.Genetic polymorphisms of CYP2C9 and drugs inhibiting or inducing CYP2C9 can result invariable response to warfarin administration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 29,
+      "question": "Which of the following drugs does not increase the risk of bleeding in patients undergoingwarfarin therapy?",
+      "options": {
+        "A": "Cimetidine",
+        "B": "Carbamazepine",
+        "C": "Isoniazid",
+        "D": "Amiodarone"
+      },
+      "correct_answer": "B",
+      "explanation": "Carbamazepine does not increase the risk of bleeding in patients undergoing warfarin therapy.Warfarin is mainly metabolized by the CYP2C9 enzyme. Drugs that inhibit CYP2C9 enzymereduce the metabolism of warfarin and thus, enhance the anticoagulant effect of warfarin andincrease the risk of bleeding.Drugs causing CYP2C9 inhibition:•⚫ Amiodarone• Azole antifungals• Cimetidine• Clopidogrel• Cotrimoxazole• Disulfiram• Isoniazid• Metronidazole",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 30,
+      "question": "While prescribing warfarin, a decreased effect of the drug is expected in patients with whichof the following conditions?",
+      "options": {
+        "A": "Nephrotic syndrome",
+        "B": "Hepatic impairment",
+        "C": "Gastroenteritis on treatment with metronidazole766",
+        "D": "Congestive heart failure"
+      },
+      "correct_answer": "",
+      "explanation": "Decreased effect of warfarin is seen in patients with nephrotic syndrome.Warfarin is highly bound to plasma protein and in nephrotic syndrome there is proteinuria. Drugsthat are bound to plasma proteins are lost in the urine. Similarly, warfarin is lost in urine innephrotic syndrome, resulting in a decreased effect.779Option C: Warfarin is mainly metabolized by the CYP2C9 enzyme. In patients being treated withmetronidazole (a CYP2C9 inhibitor), the metabolism of warfarin is decreased. Hence, the effect ofwarfarin is increased.Options B and D: Hepatic impairment, congestive heart failure, and hyperthyroidism lead to lowconcentrations of clotting factors and thus the effect of warfarin is enhanced in these conditions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 31,
+      "question": "A patient with splanchnic vein thrombosis has been started on warfarin therapy. Which of thefollowing can be used to monitor the treatment in this patient?",
+      "options": {
+        "A": "Prothrombin time",
+        "B": "Activated partial thromboplastin time",
+        "C": "Bleeding time",
+        "D": "Clotting time"
+      },
+      "correct_answer": "",
+      "explanation": "Warfarin therapy is usually monitored by measuring prothrombin time.Prothrombin time is sensitive to the reduction in levels of prothrombin, factor VII, and factor X.The test is performed by adding thromboplastin, which is a reagent containing tissue factor,phospholipid and calcium to citrated plasma and determining the time to clot formation.Due to the variable sensitivity of thromboplastin, the International normalized ratio (INR) wasdeveloped to standardize the reporting of prothrombin time. In INR, the patient's prothrombintime is divided by mean normal prothrombin time and this ratio is multiplied by the InternationalSensitivity Index (ISI) of the particular thromboplastin reagent.Warfarin therapy should be monitored with INR every 3-4 weeks. The target INR is 2.0–3.0. Inpatients with mechanical heart valves, the target INR is 2.5–3.5.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 32,
+      "question": "A 50-year-old patient admitted with atrial fibrillation was started on bisoprolol and warfarin.After 4 days of admission, she started experiencing painful ecchymoses on her right lowerlimb. It progressed to the condition shown in the image over the next few days. Deficiency inwhich of the following can lead to this condition?",
+      "options": {
+        "A": "Protein C",
+        "B": "Protein S",
+        "C": "Either a or b",
+        "D": "Thrombin767"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical features and the image given are suggestive of warfarin-induced skin necrosis seendue to a congenital or acquired deficiency in either protein C or protein S.Warfarin therapy in such patients leads to a rapid fall in protein C or protein S, which are vitaminK dependent anticoagulants. This occurs before warfarin can exert an antithrombotic effect.Treatment: Warfarin should be discontinued and vitamin K (the antidote for warfarin) should beadministered.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q32_img1_bcce1dd8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 33,
+      "question": "A 27-year-old male patient on anticoagulant therapy for his DVT started coughing up blood.He has a history of irregular warfarin intake. Workup revealed elevated INR and diffusealveolar hemorrhage. Which of the following agents would be the best choice for immediatereversal of bleeding?",
+      "options": {
+        "A": "Cryoprecipitate",
+        "B": "Fresh frozen plasma",
+        "C": "Prothrombin complex concentrates",
+        "D": "Vitamin K1"
+      },
+      "correct_answer": "",
+      "explanation": "Immediate or urgent reversal of warfarin-induced bleeding is best achieved by the administrationof prothrombin complex concentrates (PCC).These are highly purified concentrates prepared from pooled plasma and contain factors II, IX,and X. Factor VII may be included or produced separately.Option D: Vitamin K1 is the specific antidote for warfarin-induced bleeding, but it takes 6-24hours for the clotting factors to be resynthesized and released in blood after Vitamin Kadministration and hence its action is delayed for several hours.Option A: Cryoprecipitate mainly contains factor VIII and fibrinogen and therefore is not suitablefor warfarin-induced bleeding, as warfarin inhibits factors II, VII, IX, X.780Option B: Fresh frozen plasma can also be used but prothrombin complex concentrate normalizesthe INR more rapidly.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 34,
+      "question": "Which among the following is not a fetal abnormality expected after warfarin administrationto a pregnant patient?",
+      "options": {
+        "A": "Nasal hypoplasia",
+        "B": "Fetal haemorrhage",
+        "C": "Stippled epiphyses",
+        "D": "Macrocephaly"
+      },
+      "correct_answer": "D",
+      "explanation": "Macrocephaly is not a fetal abnormality caused by warfarin administered during pregnancy.Warfarin crosses the placenta and can cause fetal abnormalities which include nasal hypoplasiaand stippled epiphyses leading to abnormal bone formation. Fetal or neonatal hemorrhage is alsoseen.The risk of embryopathy is highest with exposure in the first trimester of pregnancy. CNSabnormalities have also been reported following exposure during the second and third trimesters.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 35,
+      "question": "In patients with indications for warfarin usage, what is the recommended range of INRnecessary for safe administration of the drug?",
+      "options": {
+        "A": "1.0 - 1.5",
+        "B": "2.0 - 3.0",
+        "C": "2.5-3.5",
+        "D": "3.5-4.5"
+      },
+      "correct_answer": "B",
+      "explanation": "The INR ratio recommended for the administration of warfarin in most of the indications is in therange of 2.0-3.0.Option A: The range of 1.0-1.5 is too low for beneficial effects.Option C: In selected patients with mechanical heart valves, the INR target is around 2.5-3.5.Option D: INR &gt;3.5 can result in increased adverse effects and is not recommended for anycondition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    },
+    {
+      "q_no": 36,
+      "question": "Apixaban belongs to which of the following class of drugs?",
+      "options": {
+        "A": "Antifibrinolytic",
+        "B": "Factor Xa inhibitor768",
+        "C": "Oral direct thrombin inhibitor",
+        "D": "Parenteral direct thrombin inhibitorCorrect Option"
+      },
+      "correct_answer": "B",
+      "explanation": "Apixaban, a novel oral anticoagulant (NOAC), is a factor Xa inhibitor that is used in the treatmentof VTE (venous thrombo embolism)/DVT and in its prophylaxis after major orthopedic surgeries.Direct factor Xa inhibitors:• Rivaroxaban•Apixaban• Edoxaban• BetrixabanParenteral direct thrombin inhibitors:• Bivalirudin•Argatroban• DesirudinOral direct thrombin inhibitor-Dabigatran is the only oral direct thrombin inhibitor available forclinical use.781The FDA recently approved the drug Apixaban for a new indication. The drug is now used toreduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation.782",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anticoagulants"
+    }
+  ]
+}

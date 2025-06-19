@@ -1,0 +1,350 @@
+{
+  "chapter": "Heart Failure Drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the half-life of digoxin?",
+      "options": {
+        "A": "24 hours",
+        "B": "40 hours",
+        "C": "36-48 hours",
+        "D": "60 hours"
+      },
+      "correct_answer": "B",
+      "explanation": "The half-life of digoxin is approximately 40 hours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "Digitalis inhibits Na+/K+ ATPase pump in cardiac muscle cell membrane. How does this leadto its positive inotropic effect?",
+      "options": {
+        "A": "By decreasing activity of Na+/Ca++ exchanger causing decreased influx of sodium anddecreased efflux of Ca++",
+        "B": "By decreasing efflux of Na+ leading to less negative resting membrane potential and opening ofvoltage gated Ca++ channels on the T tubules",
+        "C": "By increasing intracellular Na+ causing increased efflux of Na+ and increased influx of Ca++through Na+/Ca++ exchanger",
+        "D": "By increasing intracellular Na+ decreasing the activity of Ca++ pump in the sarcoplasmicreticulum"
+      },
+      "correct_answer": "",
+      "explanation": "The positive ionotropic effect of digitalis is due to decreased activity of Na+/Ca2+ exchangercausing a decreased influx of sodium and decreased efflux of Ca2+.Digitalis selectively binds and inhibits the Na+/K+ATPase pump of myocardial fiberswhich normally pushes Na+ outside and brings K+ inside. When this pump is inhibited, there isan intracellular accumulation of Na+ ions. This results in a relative decrease in the expulsion ofCa2+ ions via the Na+-Ca2+ exchanger (NCX) leading to the accumulation of calcium inside thecells resulting in increased contractility.Mechanism of action of digoxinMyocardial cell+Na+Ca2+3Na+Na+ K+ATPase2K+Ca2+↑ InotropyMARROW178DigoxinNa+",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp2_img1_0b7d0b1b.jpeg",
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "The action of digoxin will not be affected in which of the following patients?",
+      "options": {
+        "A": "43-year-old man with chronic liver disease",
+        "B": "30-year-old woman with electrolyte disturbances",
+        "C": "82-year-old man with renal failure",
+        "D": "60-year-old woman with myocardial infarction"
+      },
+      "correct_answer": "",
+      "explanation": "The action of digoxin is not affected in chronic liver disease.Option B: Electrolyte disturbances like hypokalemia, hypomagnesemia, andhypercalcemia increase digitalis toxicity.Option C: Digoxin is excreted unchanged primarily by kidneys by glomerular filtration. Therefore,dose adjustment of digoxin has to be done in renal failure.Option D: Chances of arrhythmias increases manifold in post-MI duration. Hence, it is generallyavoided post-MI as digitalis itself causes arrhythmias.DigitoxinDigoxinOral absorptionVery good (90-100Good (60-80%) i/v also%)ngPlasma protein bindiElimination95%25%Hepatic metabolismRenal excretion (by glomerular filtration)Dose adjustment inLiver failureKidney failure",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following does not increase the risk of digoxin toxicity?171",
+      "options": {
+        "A": "Renal impairment",
+        "B": "Hyperkalemia",
+        "C": "Hypercalcemia",
+        "D": "Hypomagnesemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Digoxin toxicity is not increased by hyperkalemia.In hyperkalemia, the ATPase alpha subunit is dephosphorylated, which is the binding site ofdigoxin. This reduces it's binding and effect. Therefore, hyperkalemia does not increase digoxintoxicity.Factors predisposing digoxin toxicity:.Hypokalemia (more digoxin binds to the Na+/K+ ATPase)• Hypercalcemia (increases the risk of arrhythmia)•⚫ Hypomagnesemia (Mg++ is a co-factor for Na+/K+ ATPase)• Renal failure (for digoxin)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient is to be started on digoxin therapy for heart failure. Despite already being onanother drug, dose adjustment of digoxin is not necessary for this patient. Identify this drug.",
+      "options": {
+        "A": "Amiodarone",
+        "B": "Quinidine",
+        "C": "Captopril",
+        "D": "Levosimendan"
+      },
+      "correct_answer": "D",
+      "explanation": "Levosimendan does not increase digitalis toxicity and hence would not require dose adjustment ofdigoxin.It is a combined Ca2+ channel sensitizer (troponin C binding) and PDE3 inhibitor.179Digoxin is metabolized by P-glycoprotein and drugs that inhibit it increase the plasma levels ofdigoxin and may result in toxicity. The drugs that increase digoxin toxicity are:⚫ Amiodarone•• Quinidine•Propafenone•Verapamil•Captopril• Erythromycin•Gentamycin• Ranolazine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the most appropriate treatment for a patient with severe digoxin toxicity?",
+      "options": {
+        "A": "Potassium supplements",
+        "B": "Propafenone",
+        "C": "Quinidine",
+        "D": "Fab fragments of digoxin antibodies"
+      },
+      "correct_answer": "D",
+      "explanation": "The most appropriate treatment for severe digoxin toxicity is purified Fab fragments of digitalisantibodies (Digibind).It neutralizes the digoxin action and its dosage is based upon the total dose of digoxin ingested.Option A: KCl infusion is indicated in mild toxicity as hyperkalemia decreases the binding ofdigoxin by dephosphorylating Na/K ATPase pump. In acute severe poisoning, potassium is notindicated as it may already be high in plasma. Potassium is also not indicated when a higherdegree of AV block is present.Options B and C: Quinidine and propafenone are not indicated in arrhythmias caused by digoxin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "An ECG is done for a patient suspected to have digoxin toxicity. Which of the following wouldyou not expect to see on the ECG?",
+      "options": {
+        "A": "Ventricular bigeminy",
+        "B": "Paroxysmal atrial tachycardia with fast ventricular rate",
+        "C": "Regularisation of atrial fibrillation",
+        "D": "Bidirectional ventricular tachycardia"
+      },
+      "correct_answer": "B",
+      "explanation": "Digoxin can cause either paroxysmal or non-paroxysmal atrial tachycardia with variable A-V blockbut not a fast ventricular rate.Regularisation of atrial fibrillation with complete A-V block and junctional or ventricular escaperhythm can occur because of the blockade of A-V conduction. Due to the blockade of AV node bydigoxin, it is contraindicated in WPW syndrome.Common arrhythmias associated with digoxin toxicity:•⚫ Ventricular bigeminy••Atrioventricular junctional rhythm• Bidirectional ventricular tachycardia• Premature ventricular depolarizations.180",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 8,
+      "question": "172A patient with heart disease presents to the emergency with severe vomiting and blurry visionand mentions that he sees a greenish-yellow tinge over all objects. He then developsventricular arrhythmia. What would be the most appropriate drug for immediatemanagement?",
+      "options": {
+        "A": "Procainamide",
+        "B": "Lignocaine",
+        "C": "Atropine",
+        "D": "Propranolol"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of digoxin toxicity. Xanthopsia i.e., yellowing of vision ischaracteristically seen in this condition. Lignocaine (and phenytoin) has the least effect on AVnodal conduction and is the most appropriate drug for the treatment of digoxin-inducedarrhythmias.Option A: Procainamide and other class IA anti-arrhythmic agents are not indicated in digoxintoxicity because of their inhibitory effects on AV nodal conduction.Option C: Atropine is used for atrial bradyarrhythmias associated with digoxin toxicity.Option D: Propranolol is used for atrial tachyarrhythmias associated with digoxin toxicity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient is diagnosed with congestive heart failure. Which of the following is not prescribedto prevent progression and revert cardiac remodelling?",
+      "options": {
+        "A": "Beta blocker",
+        "B": "ACE inhibitor",
+        "C": "Digoxin",
+        "D": "Aldosterone antagonist"
+      },
+      "correct_answer": "",
+      "explanation": "Digoxin has no role in preventing cardiac remodelling. It increases cardiac contractility andis indicated for symptomatic management of congestive heart failure.Drugs preventing ventricular remodelling:• ACE inhibitors/ ARBS• Beta-blockers•Aldosterone antagonists (spironolactone, eplerenone)The activation of RAAS and the sympathetic nervous system leads to the remodelling andprogressive LV dysfunction. The RAAS activation is prevented by the ACE inhibitors/ARBs andthe aldosterone antagonists (spironolactone), while the overactive sympathetic system is inhibitedby the beta-blockers.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp9_img1_83ba6c8f.jpeg",
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "You are starting a treatment regimen containing an angiotensin-converting enzyme inhibitorfor a patient with congestive heart failure. Which of the following is true regarding its role inthe regimen?",
+      "options": {
+        "A": "It is the drug of choice unless contraindicated",
+        "B": "Used as an alternative to diuretics",
+        "C": "It is a substitute for digitalis",
+        "D": "Used as adjuncts only in resistant cases"
+      },
+      "correct_answer": "A",
+      "explanation": "Heart Failure PathophysiologyMyocardial injuryMyocardialtoxicityActivation of RAAS, and SNSARMorbidityand mortalityNatriureticpeptidesPeripheralvasoconstrictionHemodynamicalterationRemodeling and progressiveworsening of LV functionHeart failuresymptomsOMARROW181ACE inhibitors and ARBS are the first choice drugs in congestive heart failure (CHF) unlesscontraindicated.Renin-angiotensin-aldosterone system (RAAS) activation is pivotal in the development of thesymptoms and disease progression in CHF.ACE inhibitors and ARBS afford symptomatic as well as disease-modifying benefits in CHF bycausing vasodilation, retarding/preventing ventricular hypertrophy, myocardial cell apoptosis andfibrosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following drugs can overcome an increase in heart rate and renin release seen inpatients with CHF?",
+      "options": {
+        "A": "Minoxidil",
+        "B": "Metoprolol173",
+        "C": "Metolazone",
+        "D": "Milrinone"
+      },
+      "correct_answer": "B",
+      "explanation": "Metoprolol is a selective ẞ1 blocker. Beta blockade reduces the sympathetic stimulation of the SAnode and thus reduces the heart rate. In the same way, ẞ1 receptors in the JG apparatus are alsoinhibited by metoprolol, and thus, renin release is reduced.Option A: Minoxidil is a K+ channel opener that was earlier used in hypertensive emergencies forits vasodilatory action on blood vessels. This has no effect on renin release and heart rate canincrease due to reflex sympathetic stimulation.Option C: Metolazone is a thiazide diuretic that can be used even in severe renal failure.Option D: Milrinone is an inodilator. It increases cardiac contractility and causes vasodilation byinhibiting the enzyme PDE3.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 12,
+      "question": "You see the cardiologist prescribe a non-selective beta-blocker for a patient with congestiveheart failure. He mentions that the drug has several beneficial effects. Identify the drug.",
+      "options": {
+        "A": "Propranolol",
+        "B": "Pindolol",
+        "C": "Metoprolol",
+        "D": "Carvedilol"
+      },
+      "correct_answer": "D",
+      "explanation": "The drug most likely being discussed is carvedilol which is a non-selective beta-blocker approvedfor use in mild to severe CHF.Additional actions of carvedilol:• Blockade of alpha receptors• Blockade of L-type calcium channels•• Antioxidant effect• Antiproliferative effectOptions A and B: Propranolol and pindolol are non-selective beta-blockers but they are notapproved for use in CHF.Option C: Metoprolol is approved for use in CHF but it is a cardioselective beta-blocker.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 13,
+      "question": "ẞ blocker therapy is to be started on a patient with congestive heart failure. Which of thefollowing statements is false about the therapy?",
+      "options": {
+        "A": "The drugs should be started at optimum doses",
+        "B": "The dose should be gradually increased over weeks",
+        "C": "Special precautions should be taken in cases of NYHA class III and IV",
+        "D": "Carvedilol and metoprolol are the preferred drugs"
+      },
+      "correct_answer": "A",
+      "explanation": "Beta-blockers are not started with optimum doses in patients with heart failure.182Beta-blocker therapy in CHF requires caution, proper patient selection, and observance of severalguidelines such as:• Generally, the starting dose is less than 1/8th (low dose) of the target dose is and then titratedupwards slowly over weeks (doubling every 4 weeks)•The greatest utility of beta-blocker therapy has been seen in mild to moderate CHF (NYHA I, II)• There is no place for beta-blockers in decompensated heart disease•⚫ Carvedilol, bisoprolol, and metoprolol are commonly used beta-blockers in CHF.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 14,
+      "question": "You are going through the treatment chart of a patient with chronic congestive heart failure.Which of the following drugs will you not expect to see?",
+      "options": {
+        "A": "Ivabradine",
+        "B": "Digoxin",
+        "C": "Spironolactone",
+        "D": "Adrenaline"
+      },
+      "correct_answer": "D",
+      "explanation": "Adrenaline is used for the treatment of acute decompensated heart failure, not chronic congestiveheart failure.Drugs used in chronic congestive heart failure include:• Diuretics• ACE inhibitors•Angiotensin receptor blockers• Angiotensin receptor-neprilysin inhibitor - sacubitril-valsartan• Hydralazine• Nitrates• Digoxin• Mineralocorticoid receptor antagonists• Ivabradine - sinus node inhibitor",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 15,
+      "question": "A 70-year-old man is brought with complaints of severe chest pain. The ECG showsanterolateral wall MI and echocardiography shows an ejection fraction of 38%. Which of the174following is the drug of choice for his condition?",
+      "options": {
+        "A": "Dopamine",
+        "B": "Dobutamine",
+        "C": "Epinephrine",
+        "D": "Norpepinephrine"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of acute congestive heart failure with systolic dysfunction.Dobutamine is administered as it is the beta-adrenergic agonist of choice for managing thiscondition.Dobutamine has a well-balanced action with stimulation of cardiac output. It causes lesstachycardia than epinephrine and also has an added advantage of a decrease in pulmonary arterywedge pressure.At doses that result in a positive inotropic effect, the beta-1 action on the myocardiumpredominates. In the vasculature, the alpha-1 effects are counterbalanced by beta-2 effects. Thenet result is an increase in stroke volume, augmented by a small decrease in systemic vascularresistance, thereby resulting in a decrease in afterload.183",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is false about nesiritide?",
+      "options": {
+        "A": "It is a BNP analogue",
+        "B": "It can be used in decompensated CHF",
+        "C": "It can be administered orally",
+        "D": "It causes loss of Na+ in the urine"
+      },
+      "correct_answer": "",
+      "explanation": "Nesiritide is available for intravenous administration only as it is a peptide and is digested bypeptidases in the GIT.Nesiritide is a recombinant brain natriuretic peptide (BNP). It causes natriuresis and vasodilation.It has a half life of 18 minutes. It is approved to relieve dyspnoea and other symptoms in acuterefractory decompensated CHF.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 17,
+      "question": "Which enzyme degrades BNP?",
+      "options": {
+        "A": "Neutral endopeptidase",
+        "B": "Elastase",
+        "C": "Pseudocholinesterase",
+        "D": "Carboxypeptidase"
+      },
+      "correct_answer": "A",
+      "explanation": "Brain natriuretic peptide (BNP) is degraded by neutral endopeptidase.Natriuretic peptides:• Atrial natriuretic peptide (ANP)• Brain natriuretic peptide•C-type natriuretic peptideNesiritide is a recombinant BNP approved to relieve dyspnoea and other symptoms in acuterefractory decompensated CHF.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 18,
+      "question": "Isosorbide dinitrate is indicated for congestive heart failure in combination with which of thefollowing vasodilators?",
+      "options": {
+        "A": "Minoxidil",
+        "B": "Hydralazine",
+        "C": "Nimodipine",
+        "D": "Nitrendipine"
+      },
+      "correct_answer": "B",
+      "explanation": "Isosorbide dinitrate (ISDN) is indicated in combination with hydralazine for CHF.Hydralazine is a direct vasodilator and its mechanism of action is not known. It also reducesnitrate tolerance.The combination of ISDN and hydralazine showed mortality benefits in a specific group ofpopulation (African-Americans).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 19,
+      "question": "175A patient with congestive heart failure develops hyponatremia. Which oral vasopressinreceptor antagonist will you prescribe for him?",
+      "options": {
+        "A": "Tolvaptan",
+        "B": "Conivaptan",
+        "C": "Both a and b",
+        "D": "Sacubitril"
+      },
+      "correct_answer": "A",
+      "explanation": "Tolvaptan is an oral vasopressin receptor antagonist.It preferentially binds to V2 receptors over Via receptors. It has been used in decompensated CHFpatients to restore normal sodium levels.Conivaptan is also a vasopressin receptor antagonist that is administered intravenously and bindsto both V2 and Via receptors with similar affinity. It is more commonly used for hyponatremiarather than CHF. Oral conivaptan is not yet available.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 20,
+      "question": "What is the mechanism of action of milrinone?",
+      "options": {
+        "A": "Stimulation of PDE3",
+        "B": "Inhibition of PDE3",
+        "C": "Inhibition of PDE5",
+        "D": "Stimulation of PDE5"
+      },
+      "correct_answer": "B",
+      "explanation": "184Milrinone acts by inhibition of the enzyme phosphodiesterase-3 (PDE 3).The PDE-3 inhibitors decrease cellular cAMP degradation, resulting in increased levels of cAMP.This results in positive ionotropic and chronotropic action of the heart. It also dilates veins andarteries thereby decreasing the preload and afterload.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 21,
+      "question": "A trial is being conducted to determine the efficacy of a myofilament calcium sensitizer inpatients with heart failure. Which among the following is the drug likely being studied?",
+      "options": {
+        "A": "Levosimendan",
+        "B": "Omapatrilat",
+        "C": "Sacubitril",
+        "D": "Enoximone"
+      },
+      "correct_answer": "A",
+      "explanation": "Levosimendan is a myofilament calcium senstizer.Calcium sensitizers bind and induce a conformational change in thin-filament regulatory proteintroponin C. Thus increasing the sensitivity of contractile myofilaments to calcium. The result is anincreased force of contraction for a given cytosolic calcium concentration.Option B: Omapatrilat is a dual ACE and neprilysin inhibitor that failed clinical trials due toincreased risk of angioedema.Option C: Sacubitril is a neprilysin inhibitor approved in combination with valsartan for CHF.Option D: Enoximone is a PDE-3 inhibitor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 22,
+      "question": "Sacubitril is a new drug approved for chronic heart failure. The mechanism of action ofsacubitril is:",
+      "options": {
+        "A": "Angiotensin II inhibitor",
+        "B": "ACE inhibitor",
+        "C": "Renin inhibitor",
+        "D": "Neutral endopeptidase inhibitor176"
+      },
+      "correct_answer": "D",
+      "explanation": "Sacubitril is a neutral endopeptidase (neprilysin) inhibitor.Sacubitril is a prodrug that is activated to sacubitrilat. It can inhibit the enzyme neprilysin(neutral endopeptidase), which is responsible for the degradation of atrial and brain natriureticpeptides (reduction of blood volume). Therefore, it increases the levels of atrial and brainnatriuretic peptides and lowers blood pressure.In 2015, the FDA approved the use of sacubitril in combination with valsartan, at a ratio of 1:1, forthe treatment of chronic heart failure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following is not used in heart failure?",
+      "options": {
+        "A": "Trimetazidine",
+        "B": "Sacubitril",
+        "C": "Metoprolol",
+        "D": "Nesiritide"
+      },
+      "correct_answer": "A",
+      "explanation": "Trimetazidine is not used in heart failure.Trimetazidine is a newer antianginal drug that is a pFOX inhibitor which partially inhibits thefatty acid oxidation pathway in the myocardium. This decreases the oxygen requirement of theheart.Nesiritide (natriuretic peptide), sacubitril (neprilysin inhibitor) and metoprolol (beta-blocker) areused in the treatment of heart failure.185",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Heart Failure Drugs"
+    }
+  ]
+}

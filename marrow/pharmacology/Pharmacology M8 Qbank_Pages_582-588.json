@@ -1,0 +1,170 @@
+{
+  "chapter": "Anti-leprosy drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the mechanism of action of dapsone, considering that it is used in the treatment ofleprosy, fungal infections and, also for immunomodulatory actions?",
+      "options": {
+        "A": "Cell wall synthesis inhibitor",
+        "B": "Folic acid synthesis inhibitor",
+        "C": "Protein synthesis inhibitor",
+        "D": "Cell membrane inhibitor"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "Dapsone would not be helpful in which of the following patients?",
+      "options": {
+        "A": "HIV positive patient with CD4&lt;100 and IgG positive for Toxoplasma",
+        "B": "An elderly man with pemphigoid",
+        "C": "HIV positive patient with Pneumocystis jiroveci pneumonia",
+        "D": "A child with schistosomiasis"
+      },
+      "correct_answer": "D",
+      "explanation": "Dapsone is not used in the treatment of schistosomiasis. Praziquantel is the drug recommendedfor this condition.Dapsone with pyrimethamine and leucovorin can be given for prophylaxis of Toxoplasmaencephalitis in HIV patients with CD4&lt;100. Along with trimethoprim, it can be given forprophylaxis and treatment of Pneumocystis pneumonia. However, cotrimoxazole remains thedrug of choice in both conditions.The uses of dapsone are:Infections• Leprosy•Pneumocystis jerovecii infections (prophylaxis and treatment)•Malaria• Toxoplasma gondi infections (prophylaxis)Inflammatory conditions• Dermatitis herpetiformis• Pemphigoid• Relapsing chondritis• Linear IgA bullous disease",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the treatment of choice for the patient's condition depicted below?582DAILYROUNDS",
+      "options": {
+        "A": "Rifampicin + dapsone + cycloserine, for 12 months",
+        "B": "Rifampicin + dapsone + clofazimine, for 6 months",
+        "C": "Rifampicin + ofloxacin + minocycline, for 6 months",
+        "D": "Rifampicin + dapsone + clofazimine, for 12 months."
+      },
+      "correct_answer": "D",
+      "explanation": "The given image of a man with nodular lesions on his face depicts lepromatous leprosy and istreated by standard multidrug regimen (MDR-WHO recommended) for 12 months.It consists of:586••Rifampicin: 600 mg once a month· Dapsone: 100 mg daily• Clofazimine: 300 mg once a month + 50 mg once daily",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q3_img1_eb24268c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "All of the following are administered under supervision in India except?",
+      "options": {
+        "A": "Clofazimine",
+        "B": "Pyrazinamide",
+        "C": "Rifampicin",
+        "D": "Dapsone"
+      },
+      "correct_answer": "D",
+      "explanation": "Dapsone is administered daily in both multibacillary and paucibacillary leprosy withoutsupervision.Clofazimine is indicated as a once-monthly supervised dose (300 mg) and daily unsuperviseddoses (50 mg) in multibacillary leprosy and paucibacillary leprosy.Pyrizanamide is an ATT drug which is administered under direct supervision.Rifampicin is indicated as a once-monthly supervised dose for both multibacillary andpaucibacillary leprosy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient presented with multiple hypopigmented skin lesions and loss of sensation over thelesions. What is the most bactericidal drug for the condition?",
+      "options": {
+        "A": "Clofazimine",
+        "B": "Dapsone",
+        "C": "Rifampicin",
+        "D": "Ethionamide"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of leprosy and rifampicin is the most bactericidalanti-leprotic drug.Clofazimine and dapsone are bacteriostatic agents, while ethionamide is not indicated in leprosy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the most bactericidal anti leprotic drug amongst the given drugs?",
+      "options": {
+        "A": "Amoxicillin",
+        "B": "Ciprofloxacin",
+        "C": "Ofloxacin",
+        "D": "Erythromycin"
+      },
+      "correct_answer": "C",
+      "explanation": "Ofloxacin is the most bactericidal anti leprotic drug amongst the given drugs.It exhibits high activity against M. leprae, and it is being used in alternative multidrug therapy(MDT) regimens in rifampicin-resistant cases. As a component of MDT, it has been found tohasten the bacteriological and clinical response.Among the macrolides, clarithromycin has activity against leprosy bacilli and is used foralternative MDT in cases resistant to both rifampicin and fluoroquinolones. Azithromycin showsactivity against Mycobacterium avium complex but not lepra bacilli.Note: Rifampicin is the most potent bactericidal anti leprotic drug.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "Thalidomide is useful in the treatment of which of the following conditions?583",
+      "options": {
+        "A": "Downgrading reactions",
+        "B": "Reversal reactions",
+        "C": "Erythema nodosum leprosum",
+        "D": "All of the above"
+      },
+      "correct_answer": "",
+      "explanation": "Thalidomide is useful in the treatment of erythema nodosum leprosum (ENL) or type 2 leprareaction. It is indicated in recurring and persistent ENL lesions despite the completion of at leasttwo courses of glucocorticoid therapy.587Thalidomide is not effective in type 1 lepra reaction. If type 1 reactions occur after initiation ofantimycobacterial therapy, they are termed reversal reactions and it is histologically moretuberculoid. When they occur before the initiation, they are termed downgrading reactions and itis histologically more lepromatous.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient with borderline leprosy develops severe type 1 lepra reaction during the course ofhis multidrug therapy. What would be the most appropriate treatment for him?",
+      "options": {
+        "A": "Glucocorticoids",
+        "B": "Clofazimine",
+        "C": "Thalidomide",
+        "D": "Plasmapheresis"
+      },
+      "correct_answer": "A",
+      "explanation": "The most appropriate therapy for severe type 1 lepra reactions is glucocorticoids.Clofazimine, though effective in type 1 lepra reaction, is less efficacious than glucocorticoids.Thalidomide and plasmapheresis are not indicated in the treatment of type 1 lepra reaction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient with leprosy, who is on multidrug therapy, presents with painful raised lesions onhis forehead as shown in the image. Which of the following must be avoided in his condition?",
+      "options": {
+        "A": "Clofazimine",
+        "B": "Corticosteroids",
+        "C": "Thalidomide",
+        "D": "RifampicinDAILY ROUNDS584"
+      },
+      "correct_answer": "D",
+      "explanation": "The presence of tender, erythematous, subcutaneous nodules as seen in the image is suggestiveof Type II lepra reaction in which rifampicin must be avoided.Rifampicin is highly bactericidal to M. leprae and results in high kill rates and massive release ofbacterial antigens and may aggravate type 2 lepra reactions (also called erythema nodosumleprosum).Options A and B: Clofazimine and corticosteroids are indicated in both type 1 and type 2 leprareactions.Option C: Thalidomide is indicated in type 2 lepra reactions.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q9_img1_d8e0536a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient presents with complaints of reddish-black discolouration of skin and bodysecretions. Which anti-mycobacterial agent can cause this condition?",
+      "options": {
+        "A": "Clofazimine",
+        "B": "Cycloserine",
+        "C": "Capreomycin",
+        "D": "Ciprofloxacin"
+      },
+      "correct_answer": "A",
+      "explanation": "Reddish-black discolouration of skin and body secretions is observed with the use of clofazimine.Clofazimine has good penetration into many tissues and results in reddish-black discolouration ofskin and body secretions. This may take a long time to resolve.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    },
+    {
+      "q_no": 11,
+      "question": "Rifampin is not active against which of the following Mycobacterial species?",
+      "options": {
+        "A": "Mycobacterium avium complex",
+        "B": "Mycobacterium leprae",
+        "C": "Mycobacterium abscessus",
+        "D": "Mycobacterium kansasii"
+      },
+      "correct_answer": "C",
+      "explanation": "Rifampin is not active against Mycobacterium abscessus. It is innately resistant to rifampicin.First-line therapy for Mycobacterium abscessus includes cefoxitin (or imipenem) + amikacin +clarithromycin.Rifampicin is effective against Mycobacterium avium complex, Mycobacterium leprae, andMycobacterium kansasii. (Options A, B, D)588",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-leprosy drugs"
+    }
+  ]
+}

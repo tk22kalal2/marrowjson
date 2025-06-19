@@ -1,0 +1,335 @@
+{
+  "chapter": "Drugs for Glaucoma",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "You want to prescribe a drug that increases uveo-scleral outflow while treating a patient withopen-angle glaucoma. Which of the following drugs would you choose?",
+      "options": {
+        "A": "Prostaglandin analogues",
+        "B": "Carbonic anhydrase inhibitors",
+        "C": "Rho-kinase inhibitors",
+        "D": "Beta-blockers"
+      },
+      "correct_answer": "",
+      "explanation": "The class of anti-glaucoma drugs which act by increasing the uveo-scleral outflow areprostaglandin analogues.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following anti-glaucoma agents has no effect on aqueous outflow?",
+      "options": {
+        "A": "Netarsudil",
+        "B": "Timolol",
+        "C": "Brimonidine",
+        "D": "Latanoprost"
+      },
+      "correct_answer": "",
+      "explanation": "Timolol is a non-selective beta-blocker. Beta-blockers reduce intra-ocular pressure primarily byreducing aqueous humor production. Another hypothesis states that by reducing ocular bloodflow, there may be a decrease in ultrafiltration responsible for aqueous production.Netarsudil is a rho-kinase inhibitor that acts by increasing trabecular outflow.Brimonidine is an alpha-agonist that has a small effect on increasing both uveoscleral andtrabecular outflow.Latanoprost is a prostaglandin PGF2-alpha analog that primarily acts by releasing matrixmetalloproteinases, thereby increasing trabecular and uveoscleral outflow.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 3,
+      "question": "Dipevefrine is a prodrug of",
+      "options": {
+        "A": "Noradrenaline",
+        "B": "Adrenaline",
+        "C": "Clonidine",
+        "D": "Dopamine"
+      },
+      "correct_answer": "",
+      "explanation": "Dipivefrine is a prodrug of adrenaline (epinephrine).Adrenaline has poor corneal penetration. Dipivefrine penetrates the cornea and is converted intoadrenaline by the esterases.Adrenaline lowers intraocular pressure by:• Increasing trabecular outflow - beta-2 receptor-mediated.• Increasing both trabecular and uveoscleral outflow, and decreasing aqueous production - alphareceptor-mediated.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 4,
+      "question": "What is the primary mechanism of action of topical carbonic anhydrase inhibitors inglaucoma?",
+      "options": {
+        "A": "Increasing trabecular outflow",
+        "B": "Increasing uveoscleral outflow144",
+        "C": "Reducing aqueous formation",
+        "D": "Relaxation of trabecular meshwork"
+      },
+      "correct_answer": "C",
+      "explanation": "The primary mechanism of action of topical carbonic anhydrase inhibitors in glaucomais reducing the aqueous formation. Topical carbonic anhydrase inhibitors act by inhibiting type IIisoenzyme of carbonic anhydrase in ciliary body epithelium. This leads to a reduction in fluidtransport and decreases aqueous formation and IOP.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 5,
+      "question": "A 40-year old man who is suffering from open-angle glaucoma reads about netarsudil beingapproved as a novel agent for his condition. What is the mechanism of action of this drug?",
+      "options": {
+        "A": "Carbonic anhydrase inhibition",
+        "B": "Phosphodiesterase 5 inhibition",
+        "C": "Rho kinase inhibition",
+        "D": "GPCR inhibition"
+      },
+      "correct_answer": "",
+      "explanation": "Netarsudil is a rho kinase inhibitor that acts by relaxing the trabecular meshwork. This increasesthe outflow of aqueous humor and reduces intraocular pressure.152",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient who was started on treatment for glaucoma comes to the casualty with acute onsetbreathlessness. On auscultation, bilateral wheeze is heard. Which of the following drugsmight have led to this adverse effect?",
+      "options": {
+        "A": "Timolol",
+        "B": "Betaxolol",
+        "C": "Latanaprost",
+        "D": "Acetazolamide"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of acute bronchial asthma which was most likelyprecipitated by timolol.Timolol is a non-selective beta-blocker that reduces intraocular pressure by decreasing aqueousformation. It precipitates bronchial asthma in susceptible individuals by beta-2 blockade.Betaxolol is a beta-1 selective blocker that is used in glaucoma and has a lower propensity toprecipitate bronchial asthma.Latanoprost is a prostaglandin (PGF-2 alpha) analog and does not precipitate bronchial asthma.Acetazolamide is a carbonic anhydrase inhibitor and does not precipitate bronchial asthma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient with diabetic macular edema developed glaucoma. Which of the following drugswould you consider giving last?",
+      "options": {
+        "A": "Beta blocker",
+        "B": "Alpha agonist",
+        "C": "Pilocarpine",
+        "D": "Prostaglandin analogues"
+      },
+      "correct_answer": "D",
+      "explanation": "Prostaglandin analogs are the last drugs to be considered in this patient since macular edema isone of their side effects.Adverse effects of PGF 2alpha analogs are:•Blurring of vision• Macular edema (especially in aphakic patients)• Eyelash hypertrichosis• Iris pigmentation (Heterochromia iridis)• Peri-orbital fat depletion",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 8,
+      "question": "145Which of the following is the most appropriate first-line medical therapy in a patient withopen-angle glaucoma?",
+      "options": {
+        "A": "Beta blockers",
+        "B": "Miotics",
+        "C": "PGF 2 alpha analogs",
+        "D": "Carbonic anhydrase inhibitors"
+      },
+      "correct_answer": "C",
+      "explanation": "The most appropriate first-line medical therapy for open-angle glaucoma is PGF-2 alpha analogs.They act by increasing the aqueous outflow. They have largely replaced beta-blockers and can beconsidered as first-line agents for open-angle glaucoma because of their following properties:• Once-daily dosing•• Low incidence of systemic side effects• Potent IOP-lowering effectWhen the use of PGF-2 alpha analogs or beta-blockers is contraindicated, topical carbonicanhydrase inhibitors or alpha-2 agonists are used.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 9,
+      "question": "You diagnose a patient with primary open-angle glaucoma and decide to prescribe a PGF2alpha analog. Which of the following drugs would you not choose?",
+      "options": {
+        "A": "Bimatoprost",
+        "B": "Travoprost",
+        "C": "Dinoprost",
+        "D": "Tafluprost"
+      },
+      "correct_answer": "",
+      "explanation": "153Dinoprost is a derivative of natural PGF-2 alpha. It is indicated in the termination of pregnancyand post-partum hemorrhage and not for use in glaucoma.PGF2 alpha analogs that are used topically for the treatment of glaucoma are:•⚫ Latanoprost•Bimatoprost•Travoprost• Tafluprost",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following antiglaucoma medications is unsafe in infants?",
+      "options": {
+        "A": "Timolol",
+        "B": "Brimonidine",
+        "C": "Latanoprost",
+        "D": "Dorzolamide"
+      },
+      "correct_answer": "B",
+      "explanation": "The use of brimonidine is unsafe in infants. It is an alpha-2 agonist that can cross the blood-brainbarrier. This may result in CNS depression and apnoea in neonates. Therefore it iscontraindicated in children less than 2 years.○2 agonists, through the activation of G-protein coupled receptor activation, inhibit the activity ofadenylate cyclase. This reduces CAMP and hence reduces aqueous humor production by ciliaryaction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following can be administered orally for the treatment of glaucoma?",
+      "options": {
+        "A": "1 and 5",
+        "B": "1, 2 and 3",
+        "C": "2, 3 and 4",
+        "D": "1, 2, 3, 4, 5"
+      },
+      "correct_answer": "A",
+      "explanation": "Acetazolamide and methazolamide are carbonic anhydrase inhibitors that can be used orally inthe treatment of glaucoma.Acetazolamide can also be administered intravenously.Dorzolamide and brinzolamide are topical carbonic anhydrase inhibitors.Dichlorphenamide is a carbonic anhydrase inhibitor approved for the treatment of familialperiodic paralysis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 12,
+      "question": "146Intravenous mannitol is used in",
+      "options": {
+        "A": "Pulmonary edema",
+        "B": "Congestive cardiac failure",
+        "C": "Acute kidney injury with anuria",
+        "D": "Glaucoma?"
+      },
+      "correct_answer": "D",
+      "explanation": "Intravenous mannitol is used for the treatment of acute attacks of glaucoma.Uses of mannitol are:• To reduce cerebral edema and intracranial pressure•Enhancement of urinary excretion of salicylates, barbiturates, bromides, and lithium• Diagnosis of bronchial hyperreactivity (inhalation)• Antihemolytic urological irrigation during transurethral procedures• Treatment of acute attacks of glaucoma.154",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following drugs should not be given in a patient prone to developingangle-closure glaucoma?",
+      "options": {
+        "A": "Pilocarpine",
+        "B": "Clozapine",
+        "C": "Rivastigmine",
+        "D": "Neostigmine"
+      },
+      "correct_answer": "B",
+      "explanation": "Clozapine is an atypical antipsychotic having significant anticholinergic action. Drugs havingsignificant anticholinergic action should be avoided or used with extreme caution in patientsprone to developing acute angle-closure glaucoma.The anticholinergic action results in the relaxation of the sphincter pupillae muscle. This results inthe iris coming in contact with the lens and thereby obstructing the movement of the aqueousfrom the posterior to the anterior chamber.This results in bulging of the iris and further leads to the obliteration of the narrow iridocornealangle. This blocks the outflow of aqueous precipitating an acute attack of glaucoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 14,
+      "question": "While examining a patient using a corneal esthesiometer, you find that corneal sensations aredecreased. Which of the following drugs could have led to this adverse effect?",
+      "options": {
+        "A": "Beta blockers",
+        "B": "Carbonic anhydrase inhibitors",
+        "C": "Cholinomimetics",
+        "D": "Prostaglandin analogs"
+      },
+      "correct_answer": "A",
+      "explanation": "Corneal hypoesthesia is a side effect of ocular beta-blockers.For topical use in glaucoma, beta-blockers with no/minimal membrane-stabilizing action areused. This is the reason why propranolol is not formulated for ocular use. It has the highestmembrane-stabilizing action and causes maximum corneal hypoesthesia if used.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient presents with severe eye pain to the ophthalmology OPD. On examination, there iscircumcorneal congestion and the IOP is 40 mm Hg. Which of the following drugs should notbe administered immediately to this patient?",
+      "options": {
+        "A": "Acetazolamide",
+        "B": "Timolol",
+        "C": "Latanoprost",
+        "D": "Pilocarpine147"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario is suggestive of acute angle-closure glaucoma. Pilocarpine should not beadministered immediately in this condition.During an acute attack, the elevated pressure in the anterior chamber causes pressure-inducedischemic paralysis of the iris. Pilocarpine would be ineffective in this phase.Once the IOP is reduced by other agents and reperfusion is achieved, pilocarpine can be used toovercome the pupillary block.Pilocarpine is avoided in conditions like pseudo-exfoliation syndrome, phacomorphic glaucoma,and aqueous misdirection syndrome as it may exacerbate pupillary block in such cases.Topical beta-blockers, alpha-2 agonists and prostaglandin analogs can be used to decrease the IOPinitially at presentation. Oral or intravenous acetazolamide can also be used.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient who is on treatment for glaucoma presented with the following finding during hisroutine follow-up. Which of the following drugs can cause this adverse effect?",
+      "options": {
+        "A": "Timolol",
+        "B": "Latanoprost",
+        "C": "Brimonidine",
+        "D": "Apraclonidine"
+      },
+      "correct_answer": "D",
+      "explanation": "The patient has presented with lid retraction which is most likely caused by the useof apraclonidine. It is a congener of clonidine that has primary ° 2 agonist action and a subsidiary° 1 agonist action.Adverse effects like mydriasis and lid retraction are common with apraclonidine.155Brimonidine is also a congener of clonidine with more ° 2 selectivity. Mydriasis and lid retractionare uncommon with this agent.Timolol and latanoprost do not cause lid retraction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q16_img1_209cbebb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 17,
+      "question": "The ophthalmologic examination of a patient who is on anti-glaucoma drugs shows thefollowing finding. Identify the drug that might have resulted in this adverse effect.148",
+      "options": {
+        "A": "Carbonic anhydrase inhibitors",
+        "B": "Anticholinesterase agents",
+        "C": "Muscaranic antagonists",
+        "D": "Sympathomimetic agents"
+      },
+      "correct_answer": "B",
+      "explanation": "The ophthalmological examination shows a pearly white opacity of the lens suggestive of cataract.Anticholinesterase agents like echothiophate and cholinergic agonists like pilocarpine are knownto be associated with cataract formation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 18,
+      "question": "A patient who is on anti-glaucoma therapy presents with corneal findings as shown in theimage below. This finding is most commonly observed with which of the following drugs?",
+      "options": {
+        "A": "Timolol149",
+        "B": "Apraclonidine",
+        "C": "Netarsudil",
+        "D": "Brimonidine"
+      },
+      "correct_answer": "",
+      "explanation": "The bilateral whorl-like pattern of cream-colored lines on the cornea seen in the image is calledcornea verticillata or vortex keratopathy. It is observed with the use of netarsudil. It is usuallymild and reversible and not associated with any significant visual abnormalities.Netarsudil is approved for lowering intraocular pressure in patients with open-angle glaucoma orocular hypertension.Other causes of corneal verticillata are:• Fabry's disease⚫ Amiodarone•••ChloroquineHydroxychloroquine• Indomethacin• Phenothiazines.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q18_img1_47b2b443.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 19,
+      "question": "A patient on treatment for glaucoma presented with complaints of floaters and flashing lights.He complains of seeing a dark grey curtain move across his field of vision. Which of thefollowing can lead to this condition?",
+      "options": {
+        "A": "Beta-blockers",
+        "B": "Prostaglandin analogs",
+        "C": "Cholinergic agonists",
+        "D": "Muscarinic antagonists"
+      },
+      "correct_answer": "C",
+      "explanation": "The given scenario is suggestive of retinal detachment. It is associated with the use of miotics i.e.,both cholinergic agonists and anticholinesterase agents.Miotics produce ciliary body contraction which can lead to altered forces at the vitreous baseresulting in retinal tears. Hence, they are to be used with extreme caution in patients who are atrisk of developing retinal detachment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 20,
+      "question": "Your friend who is on treatment for glaucoma tells you that she feels her eyes look prettierthan before. On examination, you notice increased iris pigmentation and eyelashhypertrichosis. Which of the following drugs is associated with this effect?",
+      "options": {
+        "A": "Pilocarpine",
+        "B": "Acetazolamide",
+        "C": "Brimonidine",
+        "D": "Bimatoprost"
+      },
+      "correct_answer": "D",
+      "explanation": "Bimatoprost is a PGF-2 alpha analog. PGF-2 alpha analogs are associated with eyelashhypertrichosis and iris hyperpigmentation.156Bimatoprost is approved for topical application in the treatment of eyelash hypotrichosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 21,
+      "question": "What is the most probable diagnosis in a patient with a dilated pupil not responsive to 1%pilocarpine?",
+      "options": {
+        "A": "Diabetic 3rd nerve palsy",
+        "B": "Adie's tonic pupil",
+        "C": "Uncal herniation",
+        "D": "Pharmacological block"
+      },
+      "correct_answer": "D",
+      "explanation": "The most appropriate answer would be a pharmacological block. Antimuscarinic will occupy thereceptors and results in non-responsiveness to pilocarpine.In diabetic third nerve palsy, the dilated pupil is due to the loss of innervation to constrictorpupillae. Muscarinic receptors on constrictor pupillae will be intact resulting in miosis bypilocarpine.In Adie's tonic pupil, there is denervation hypersensitivity. Pupil responds to even lowerconcentrations of pilocarpine.Uncal herniation causes pressure on the third nerve leading to ipsilateral mydriasis. Butmuscarinic receptors are intact and thus the pupil responds to pilocarpine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    },
+    {
+      "q_no": 22,
+      "question": "150Which of the following cannot be used to decrease intraocular pressure in glaucoma?",
+      "options": {
+        "A": "Dexamethasone",
+        "B": "Acetazolamide",
+        "C": "Apraclonidine",
+        "D": "Mannitol"
+      },
+      "correct_answer": "A",
+      "explanation": "Dexamethasone is a long-acting glucocorticoid and is not used to decrease the intraocularpressure in glaucoma.Acetazolamide, apraclonidine, and mannitol are used in lowering intraocular pressure inglaucoma.157",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Drugs for Glaucoma"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "chapter": "Hypothalamus and Pituitary",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "You decide to start recombinant growth hormone therapy in a child with idiopathic shortstature. The treatment primarily works by the activation of which of the following?",
+      "options": {
+        "A": "G protein coupled receptors",
+        "B": "JAK/STAT pathway",
+        "C": "Nuclear receptors",
+        "D": "PI3/Akt pathway"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 2,
+      "question": "In which of the following conditions is growth hormone therapy not indicated?",
+      "options": {
+        "A": "Turner syndrome",
+        "B": "Prader Willi syndrome",
+        "C": "Sotos syndrome",
+        "D": "Noonan syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "604Growth hormone therapy is not indicated in Sotos syndrome.Indications for GH therapy are:• GH Deficiency in children &amp; adults• AIDS-associated wasting• Malabsorption associated with the short-bowel syndrome (As GH stimulates the adaptation of GIepithelial cells).• Children with other conditions associated with short stature despite adequate GH production:• Turner syndrome• Noonan syndrome• Prader-Willi syndrome•Chronic renal insufficiency• Small for gestational age babies• Idiopathic short statureSotos syndrome (cerebral gigantism) is characterized by excessive physical growth during the firstfew years of life resulting in a disproportionately large and long head with a slightly protrusiveforehead, large hands and feet, hypertelorism, and down-slanting eyes. It is accompanied by mildcognitive impairment, developmental abnormalities, hypotonia, and speech abnormalities.The image given below shows a large head, large hands, and characteristic eye features in a childwith Sotos syndrome.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp2_img1_31f02774.jpeg",
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 3,
+      "question": "All of the following are sound advice to the respective patients except:",
+      "options": {
+        "A": "1, 2 and 5",
+        "B": "only 5",
+        "C": "2 and 4",
+        "D": "3, 4 and 5"
+      },
+      "correct_answer": "B",
+      "explanation": "GH deferral is only recommended for the first year after treatment of leukemia.605Because of the anti-insulin action of GH, there is an increased incidence of type 2 diabetes.mellitus and therefore, fasting glucose levels should be monitored periodically during GHtherapy. Due to the rare potential for developing intracranial hypertension, fundoscopicexamination is recommended at the initiation of therapy and at periodic intervals thereafter.Rapid growth induced by GH can cause slipped epiphyses or scoliosis in children.Estrogens (OCPs and estrogen supplements) inhibit GH action so that a larger dose is needed tomaintain the same IGF-1 level.The adverse effects of growth hormone are:ChildrenAdultsIntracranial hypertension Increased risk oftype 2 diabetesSlipped epiphysisScoliosisPeripheral edemaCarpal tunnel syndrome ArthralgiasMyalgia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 4,
+      "question": "A middle-aged man with tall stature, frontal bossing, prognathism, large hands, and feet isstarted on a growth hormone receptor antagonist. Identify the drug.",
+      "options": {
+        "A": "Octreotide",
+        "B": "Lanreotide601",
+        "C": "Pegvisomant",
+        "D": "Cabergoline"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario depicts acromegaly. Pegvisomant is a growth hormone receptorantagonist that is indicated for the treatment of acromegaly.Octreotide and lanreotide are synthetic somatostatin analogs that can be used in the managementof acromegaly.Cabergoline is a dopamine agonist used primarily to treat hyperprolactinemia also has anindication in the management of acromegaly.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 5,
+      "question": "A 23-year-old lady presented to the gynecology OPD with complaints of amenorrhea andmilky discharge from her breasts. Her urine pregnancy test is negative and her serumprolactin level is 175 µg/L. The resident prescribes a long-acting D2 agonist. Which of thefollowing drugs is she likely to have been prescribed?",
+      "options": {
+        "A": "Bromocriptine",
+        "B": "Lisuride",
+        "C": "Cabergoline",
+        "D": "Apomorphine"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario depicts hyperprolactinemia. Cabergoline is a long-acting D2 agonist.Its t1/2 is &gt;60 hours. It is indicated for the treatment of hyperprolactinemia and acromegaly.Bromocriptine, lisuride, and apomorphine are short-acting when compared with cabergoline.Bromocriptine is an ergot alkaloid derivative used in the management of type 2 diabetes mellitus,hyperprolactinemia, acromegaly, and Parkinson's disease. Cabergoline is preferred overbromocriptine for hyperprolactinemia due to lower adverse effects such as nausea and also due todosing advantage (twice a week instead of daily dosing).Lisuride is indicated in early Parkinson's disease but is also known to decrease prolactin levelsand prevent migraine attacks. Apomorphine is a morphine derivative used to treat hypomobile\"off\" episodes of advanced Parkinson's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 6,
+      "question": "In which of the following conditions is octreotide not used?",
+      "options": {
+        "A": "Glucagonoma",
+        "B": "Insulinoma",
+        "C": "Short bowel syndrome",
+        "D": "Glioma"
+      },
+      "correct_answer": "D",
+      "explanation": "606Octreotide is not used in glioma.Uses of octreotide are:•Secretory diarrhea in carcinoid syndrome and VIPoma• Short bowel syndrome, AIDS• Pituitary tumors causing acromegaly•⚫ Islet cell tumors like glucagonoma, insulinoma•Acute bleeding in esophageal varices•Thyrotrope adenomaAdverse effects include gall stones, sinus bradycardia, and conduction abnormalities. Vit B12deficiency can occur on long term use.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 7,
+      "question": "Valvular heart disease is not associated with the use of which of the following drugs?",
+      "options": {
+        "A": "Bromocriptine",
+        "B": "Quinagolide",
+        "C": "Cabergoline",
+        "D": "Pergolide"
+      },
+      "correct_answer": "B",
+      "explanation": "Quinagolide is not associated with valvular heart disease.Quinagolide is a non-ergot D2 receptor agonist.Cabergoline, Bromocriptine, and Pergolide are ergot derivatives and are associated with valvularheart disease. The risk of valvular heart disease from ergot therapy is associated with higher dosesof the drug (necessary for Parkinson's disease treatment) but not with the lower doses used intreating hyperprolactinemia.Note: Pergolide was withdrawn from the market due to reports of serious valve damage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 8,
+      "question": "In which of the following patients is bromocriptine not indicated?",
+      "options": {
+        "A": "A 35-year-old lady with galactorrhea-amenorrhea complex602",
+        "B": "A 30-year-old male patient with acromegaly",
+        "C": "A 23-year old lady with endogenous depression",
+        "D": "A 45-year old parkinson's patient with type 2 diabetes mellitus"
+      },
+      "correct_answer": "",
+      "explanation": "Bromocriptine is not indicated in endogenous depression.It is a semisynthetic ergot D2 receptor agonist.Uses of bromocriptine:•Hyperprolactinemia (causing galactorrhoea, amenorrhea, or infertility in womenand gynecomastia or infertility in men)• Parkinsonism• Acromegaly• Type 2 diabetes mellitus•• Hepatic coma.Supression of lactation607",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 9,
+      "question": "A 60-year-old chronic alcoholic patient with a history of coronary bypass surgery presentswith haematemesis to the casualty. An upper GI endoscopy shows the following finding.Which of the following drugs will you administer to this patient?",
+      "options": {
+        "A": "Desmopressin",
+        "B": "Propranolol",
+        "C": "Octreotide",
+        "D": "TerlipressinBush7/20050:37A2/4Cr: Nician:nent:8.600"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical history of the patient and the endoscopic image showing prominent cherry-redspots are suggestive of bleeding esophageal varices.Octreotide is indicated in the treatment of acute variceal bleeding. It is a somatostatin analog thatreduces azygous blood flow significantly and decreases variceal bleeding.Other drugs that can be used for the management of bleeding esophageal varices:• Terlipressin• Vasopressin• PropranololOption A: Desmopressin is a selective V2 receptor agonist used for central diabetes insipidus andnocturnal enuresis.Option B: Propranolol (non-selective beta-blocker) is used in the prophylaxis of variceal bleedingand not in its acute management.Option D: Terlipressin is a vasoconstrictor used for bleeding esophageal varices but maycompromise cardiac function and induce ischemia and hence can't be used in this case.Note: Although terlipressin is a vasoconstrictor and is be used for bleeding oesophagal varices, thepatient in this scenario has a history of MI (undergone coronary bypass surgery). Terlipressin cancompromise cardiac function (reduces cardiac output and ejection fraction) and induce ischemia.Hence, it is not preferred in this case.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q9_img1_e065de25.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 10,
+      "question": "Pulsatile dosing of GnRH agonist is used for the treatment of",
+      "options": {
+        "A": "Male infertility",
+        "B": "Endometriosis",
+        "C": "Precocious puberty",
+        "D": "Prostate cancer603"
+      },
+      "correct_answer": "A",
+      "explanation": "Pulsatile administration of GnRH agonists results in increased FSH and LH secretion and istherefore used to treat male and female infertility.Non-pulsatile or continuous dose of GnRH agonist results in suppression and decreasedconcentrations of gonadotropins LH and FSH. They are used in:• Endometriosis•Uterine fibroids• Central precocious puberty•⚫ Ca prostate•Ca ovary and breast• Controlled ovary stimulation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    },
+    {
+      "q_no": 11,
+      "question": "A 30-year-old lady who is suffering from dysmenorrhea and infertility is diagnosed withendometriosis. She has been prescribed an intranasal spray containing a GnRH agonist. Whatis the likely drug?",
+      "options": {
+        "A": "Leuprolide",
+        "B": "Goserelin",
+        "C": "Histrelin",
+        "D": "Nafarelin"
+      },
+      "correct_answer": "D",
+      "explanation": "Nafarelin is a GnRH agonist administered via nasal spray.608It is approved for use in endometriosis and central precocious puberty.Routes of administration of other GnRH agonists:• Intranasal and subcutaneous - Buserelin•Intramuscular and subcutaneous - Leuprolide•Subcutaneous implants - Histrelin and GoserelinSome GnRH antagonists are:•Degarelix• Ganirelix• Cetrorelix (Synthetic)All GnRH antagonists are administered subcutaneously.609",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypothalamus and Pituitary"
+    }
+  ]
+}

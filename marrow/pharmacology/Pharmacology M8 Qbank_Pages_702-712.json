@@ -1,0 +1,260 @@
+{
+  "chapter": "NSAIDS",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following statements is true?",
+      "options": {
+        "A": "NSAIDS act by inhibiting lipooxygenase.",
+        "B": "NSAIDs act by inhibiting the phospholipases.",
+        "C": "Cyclooxygenase-1 is a housekeeping enzyme.",
+        "D": "Phospholipase-A2 is a housekeeping enzyme."
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient with a history of myocardial infarction asks you why he is being prescribed aspirin.You tell him it prevents the formation of clots which reduces the risk of MI. Formation ofwhich of the following eicosanoids is blocked by aspirin for this purpose?",
+      "options": {
+        "A": "PGI2",
+        "B": "PGD2",
+        "C": "Thromboxane A2",
+        "D": "All of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "707Thromboxane A2 is a pro-aggregatory eicosanoid whose formation requires the activity of COXenzyme. Aspirin blocks this step, thus reducing the chances of clot formation.Thromboxane A2 is an inducer of platelet aggregation and amplifies the signal of more potentplatelet agonists, such as thrombin and ADP.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following helps in maintaining the patency of ductus arteriosus?",
+      "options": {
+        "A": "PGF2°",
+        "B": "PGE1",
+        "C": "PGH2",
+        "D": "PGI2"
+      },
+      "correct_answer": "B",
+      "explanation": "Prostaglandin E1 (PGE1) maintains the patency of ductus arteriosus (PDA). This is used in termneonates with underlying cyanotic congenital heart disease awaiting surgical intervention as theyhave duct-dependant circulation.Indomethacin and Ibuprofen are the NSAID indicated for closing the ductus arteriosus inpremature infants and neonates.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 4,
+      "question": "A patient of CREST syndrome has developed pulmonary hypertension. Which of the followingdrugs will you not prescribe to treat this?",
+      "options": {
+        "A": "Epoprostenol702",
+        "B": "Iloprost",
+        "C": "Treprostinil",
+        "D": "Rioprostil"
+      },
+      "correct_answer": "D",
+      "explanation": "Rioprostil is a PGE1 analog and is not indicated in the treatment of pulmonary hypertension.Long term therapy with PGI2 analogs can delay or preclude the need for lung or heart-lungtransplantation. PGI2 analogs used for the treatment of pulmonary hypertension are:• Epoprostenol (IV)• Iloprost (IV)• Treprostinil (IV or SC)PGI2 (Epoprostenol) can also be used to prevent platelet aggregation and damage duringhaemodialysis or cardiopulmonary bypass. It also improves the harvest of platelets fortransfusion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 5,
+      "question": "A 65-year-old man has presented to the OPD with a complaint of erectile dysfunction notresponding to oral medication. The issue is determined to be of vascular origin. Whichprostaglandin preparation can be given as a local injection to treat this?",
+      "options": {
+        "A": "Dinoprost",
+        "B": "Epoprostenol",
+        "C": "Enprosnil",
+        "D": "Alprostadil"
+      },
+      "correct_answer": "D",
+      "explanation": "Alprostadil (PGE1) is given as an intracavernosal injection or urethral suppository for erectiledysfunction.It is considered as a second-line therapy. Its use has been largely replaced by phosphodiesterase-5inhibitors like sildenafil and tadalafil which are the drugs of choice.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements is false about aspirin?",
+      "options": {
+        "A": "It is an irreversible inhibitor of the cyclooxygenase enzyme.",
+        "B": "Its clearance is independent of plasma concentration at low dose.",
+        "C": "Alkalinization of urine increases its rate of excretion.",
+        "D": "Its antiplatelet effect at low dose is related to presystemic COX inhibition."
+      },
+      "correct_answer": "B",
+      "explanation": "Aspirin clearance is dependent on plasma concentration at a lower dose.Aspirin shows saturation kinetics. This means that at lower plasma concentrations it hasfirst-order kinetics where the rate of elimination is proportional to the plasma708concentration but at higher plasma concentrations it has zero-order kinetics where the rate ofelimination is independent of its plasma concentration.Around 80-90% of aspirin (salicylates) are bound to plasma proteins, especially albumin.Low dose aspirin acetylates the COX enzyme of platelets in the portal circulation (pre-systemic)and deactivates it which is responsible for antiplatelet action.Aspirin and salicylates are acidic in nature. Alkalinization of the urine increases the rate ofexcretion of aspirin, as ionised form of aspirin increases which is not reabsorbed from the tubularfluid in kidney.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 7,
+      "question": "A 12-year-old child developed fever during an epidemic of influenza. Which of the followingdrugs is contraindicated in this child?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Aspirin",
+        "C": "Oseltamivir",
+        "D": "Baloxavir"
+      },
+      "correct_answer": "B",
+      "explanation": "Aspirin is contraindicated in this child due to the risk of development of Reye syndrome.Children and young adults less than 20 years of age with viral fever have a risk of developingReye's syndrome on administration of aspirin or other salicylates.•Features of Reye syndrome include:••• Acute onset of encephalopathyLiver dysfunction• Fatty infiltration of the liverOption A - Acetaminophen is considered the antipyretic of choice in children with viral infections.Options C and D - Oseltamivir and baloxavir are antiviral drugs used in influenza.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 8,
+      "question": "703A 30-year-old pilot with low back pain requires a painkiller that is effective at once-dailydosing. You decide to prescribe the NSAID with the longest plasma half-life. Which drug willyou choose?",
+      "options": {
+        "A": "Aspirin",
+        "B": "Phenylbutazone",
+        "C": "Piroxicam",
+        "D": "Ibuprofen"
+      },
+      "correct_answer": "",
+      "explanation": "Piroxicam is chosen as it has the longest plasma half-life among NSAIDS.Piroxicam is absorbed completely and undergoes enterohepatic circulation. Due to the longhalf-life, once-daily administration of the drug is sufficient for the therapeutic response.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient with a history of gastritis complains of joint pain. You diagnose it to be a case ofosteoarthritis and prescribe celecoxib. Which of the following statements is true regardingthis drug?",
+      "options": {
+        "A": "It causes renal toxicity",
+        "B": "It is more likely to cause gastric ulcers compared to ibuprofen",
+        "C": "It is not associated with cardiotoxicity",
+        "D": "It has antiplatelet action"
+      },
+      "correct_answer": "A",
+      "explanation": "Celecoxib is a selective COX-2 inhibitor. As COX-2 enzyme is constitutively active within thekidney, recommended doses of selective COX-2 inhibitors cause renal toxicities similar to thoseassociated with traditional NSAIDs.Option B - It is less likely to cause gastric ulcers. Celecoxib has analgesic, antipyretic, andanti-inflammatory effects similar to those of non-selective NSAIDs but with better gastrointestinaltolerability.Option C - It inhibits COX-2-mediated prostacyclin synthesis in the vascular endothelium. As aresult, use of celecoxib is associated with increased cardiovascular risk.709Option D - Celecoxib at usual doses does not inhibit platelet aggregation. This is because plateletaggregation is mediated by thromboxane produced by the COX-1.These points are also true for other selective COX-2 inhibitors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following drugs has the least COX-2 selectivity?",
+      "options": {
+        "A": "Lumiracoxib",
+        "B": "Etoricoxib",
+        "C": "Valdecoxib",
+        "D": "Celecoxib"
+      },
+      "correct_answer": "D",
+      "explanation": "Celecoxib has the least COX-2 selectivity among the following.Some selective COX-2 inhibitors are withdrawn or have restricted use because of an increase inthe risk of cardiovascular events like myocardial infarction, serious skin reactions (valdecoxib),fatal hepatic failure (lumiracoxib).Nowadays, dual inhibitors inhibiting 5-LOX and COX like licofelone and tepoxalin are also usedfor their anti-inflammatory property.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 11,
+      "question": "Your senior asks you to administer a selective COX-2 inhibitor intravenously to a patient forpost-op analgesia. Which of the following will you choose?",
+      "options": {
+        "A": "Celecoxib",
+        "B": "Etoricoxib",
+        "C": "Rofecoxib",
+        "D": "Parecoxib704"
+      },
+      "correct_answer": "D",
+      "explanation": "Parecoxib is chosen as it is the only injectable COX-2 selective drug among the given options.It is a water-soluble prodrug of valdecoxib. It is effective in the perioperative period when oralmedications are not indicated.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is a true statement about acetaminophen?",
+      "options": {
+        "A": "It has significant analgesic, antiinflammatory and antipyretic action.",
+        "B": "Acetaminophen toxicity causes periportal necrosis.",
+        "C": "It does not antagonize effects of uricosuric drugs.",
+        "D": "It has significant anti-platelet effect."
+      },
+      "correct_answer": "C",
+      "explanation": "Acetaminophen does not antagonize effects of uricosuric agents. It may be used concomitantlywith probenecid in the treatment of gout as it does not have any effect on uric acid levels.Option A - Acetaminophen has analgesic and antipyretic action equivalent to aspirin but lacks asignificant anti-inflammatory effect.Option B Acetaminophen toxicity causes centrilobular necrosis.--Option D It is a weak inhibitor of both COX-1 and COX-2 and has minimal or no effect onplatelet activity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 13,
+      "question": "A 25-year-old patient of major depression presented to the ER after having consumed 20tablets of acetaminophen (500 mg each) 1 hour ago in a self-harm attempt. She does not haveany symptoms at the moment. Which of the following should you administer to her?",
+      "options": {
+        "A": "Flumazenil",
+        "B": "N-acetylcysteine",
+        "C": "Methylene blue",
+        "D": "Nothing as she is asymptomatic"
+      },
+      "correct_answer": "",
+      "explanation": "The patient in the given clinical scenario has ingested a potentially toxic dose of acetaminophen.N-acetylcysteine is considered as a definitive antidote for acetaminophen poisoning to preventhepatic injury.N-acetyl-p-benzoquinone imine (NAPQI) is a toxic metabolite of acetaminophen which causeshepatotoxicity. In adults, hepatotoxicity may occur after ingestion of a single dose of 10-15 g(150-250 mg/kg) of acetaminophen; doses of 20–25 g or more are potentially fatal.710In acetaminophen poisoning, due to increased NAPQI, there is utilization of glutathione (GSH).This in turn leads to depletion of GSH leading to oxidative cellular damage of thehepatocytes. N-acetylcysteine replenishes GSH stores and also conjugates with NAPQI andprevents oxidative damage to the cell. It also protects against extrahepatic injury due to itsantioxidant and anti-inflammatory properties.Option A: Flumazenil is an antidote for benzodiazepine toxicity.Option C: Methylene blue is used in methemoglobinemia.Option D: Symptoms may take upto 2 days to develop in a case of acetaminophen poisoning bywhich time the hepatic damage may become irreversible. Thus, early treatment is initiated in allsuspected cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following drugs is not considered a hit and run drug?",
+      "options": {
+        "A": "Phenelzine",
+        "B": "Omeprazole",
+        "C": "Piroxicam",
+        "D": "Aspirin"
+      },
+      "correct_answer": "B",
+      "explanation": "Piroxicam is a reversible inhibitor of cyclooxygenase enzyme and cannot be considered as a hitand run drug.Hit and run drugs are a group of drugs whose half-life is short, but cause irreversible inhibition ofa particular enzyme. So, the effect of the drug is present even after the drug is cleared from thesystem. Examples include:• MAO inhibitors (e.g.: Phenelzine)• PPI (e.g.: omeprazole)• Guanethidine•Reserpine• Aspirin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following patients should be prescribed NSAIDs for pain relief?",
+      "options": {
+        "A": "A hypertensive patient on chlorthalidone having osteoarthritis",
+        "B": "Patient suffering from primary dysmenorrhea",
+        "C": "Patient complaining of low back pain who is a known case of CKD705",
+        "D": "Patient having painful diabetic neuropathy"
+      },
+      "correct_answer": "B",
+      "explanation": "NSAIDs can be used in the treatment of primary dysmenorrhea. Prostaglandin release fromendometrium causes cramps and other symptoms. NSAIDs inhibit the synthesis of prostaglandinand cause symptomatic relief.Option A: NSAIDs interfere with the antihypertensive effect of diuretics. The exact mechanism isnot yet known. So it should be avoided in such cases.Option C: NSAIDs are generally avoided in renal diseases as inhibition of prostaglandin synthesisworsens renal function.Option D: NSAIDs generally lack efficacy in cases of neuropathic pain like diabetic neuropathy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient of chronic low back pain has presented to your OPD with deranged LFT reports. Hetells you he has been on long term treatment with a painkiller for his condition. WhichNSAID has he most likely been taking?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Diclofenac",
+        "C": "Piroxicam",
+        "D": "Indomethacin"
+      },
+      "correct_answer": "B",
+      "explanation": "Diclofenac is the NSAID that has the highest risk of hepatotoxicity within the therapeutic dose.711Liver injury occurs in acetaminophen overdose but it is extremely rare in therapeutic dose.NSAIDs are not recommended in advanced hepatic and renal failure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    },
+    {
+      "q_no": 17,
+      "question": "A 30-year-old male on multiple drugs presents with a round macule on his right leg for thelast 7 days. The patient gives a history of similar episodes in the past which resolvedspontaneously. Which of the following drugs is the most likely cause?",
+      "options": {
+        "A": "Ibuprofen",
+        "B": "Phenytoin",
+        "C": "Captopril",
+        "D": "Carbamazepine2012 Logical Images, Inc.706"
+      },
+      "correct_answer": "A",
+      "explanation": "This is a case of fixed drug eruption and the most likely cause is ibuprofen.Fixed drug eruptions are characterized by sharply demarcated dull red to brown lesions. Theyoccur in lips, hands, legs, face, genitalia, and oral mucosa, and cause a burning sensation. Thelesion recurs in the same locations upon re-exposure to the offending drug.Some of the drugs commonly known to cause fixed drug eruptions are Sulphonamides, NSAIDs,Analgesics, and Hypnotics.Diagnosis is based on history and lesion morphology. Discontinuation of the offending drug is thefirst step in management.Phenytoin and carbamazepine can lead to Stevens-Johnson syndrome (SJS)/toxic epidermalnecrolysis (TEN) and drug reaction with eosinophilia and systemic symptoms (DRESS syndrome).712",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q17_img1_a433ac5d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "NSAIDS"
+    }
+  ]
+}

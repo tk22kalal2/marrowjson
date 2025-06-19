@@ -1,0 +1,335 @@
+{
+  "chapter": "Anti-Anginal Drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 50-year-old male was rushed to the ER with complaints of chest pain for the past 45minutes and was started on isosorbide mononitrate. How does this drug act?",
+      "options": {
+        "A": "By decreasing cAMP",
+        "B": "By increasing cAMP",
+        "C": "By decreasing cGMP",
+        "D": "By increasing cGMP"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp1_img1_d8879fe1.jpeg",
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following drugs is not used in angina?",
+      "options": {
+        "A": "Fasudil",
+        "B": "Sacubitril",
+        "C": "Atenolol",
+        "D": "Amlodipine"
+      },
+      "correct_answer": "",
+      "explanation": "Sacubitril is not used in angina. Sacubitril is a neprilysin inhibitor, approved for use in thetreatment of heart failure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient with Prinzmetal angina is administered isosorbide mononitrate and is noticed tohave symptomatic relief. What is the mechanism of action of nitrate in this case?",
+      "options": {
+        "A": "Endothelium independent coronary vasodilation",
+        "B": "Reduced cardiac contractility",
+        "C": "Increased left ventricular end diastolic volume",
+        "D": "Decreased diastolic perfusion pressure"
+      },
+      "correct_answer": "",
+      "explanation": "The mechanism of action of nitrates in prinzmetal angina is endothelium-independent coronaryvasodilatation.Prinzmetal angina occurs due to vasospasm of the coronary arteries. Nitrates relax the smoothmuscles of epicardial coronary arteries and relieve coronary artery spasm.In the case of stable angina, the primary mechanism of action of nitrates is preferential dilatationof veins (by increasing cGMP). Venous dilatation leads to a decrease in the venous return to theheart (preload). This decreases the ventricular end-diastolic volume and thereby a decrease inmyocardial oxygen consumption. The diastolic perfusion pressure (aortic blood pressure indiastole - left ventricular pressure in diastole) is increased.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "A 45-year-old patient who suffers from prinzmetal angina requires a formulation ofnitroglycerine which has the most rapid onset of action. Which of the following formulationsof nitroglycerin can be administered to the patient?158",
+      "options": {
+        "A": "Sublingual spray",
+        "B": "Sublingual tablet",
+        "C": "Transdermal patch",
+        "D": "Topical ointment"
+      },
+      "correct_answer": "D",
+      "explanation": "The sublingual route of administration has a very rapid onset of action (1-3 mins). The onset ofaction is more rapid when administered as a spray when compared to a tablet.The sublingual route is used for the termination of attacks. Oral extended-release capsule andtransdermal patch are used for prophylaxis. The onset of action is approximately ≥60 min.165Topical nitroglycerine ointment can be used to provide symptomatic relief in patients with analfissures.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 5,
+      "question": "In patients with angina, nitroglycerine should not be administered by which of the followingroutes?",
+      "options": {
+        "A": "Oral",
+        "B": "Sublingual",
+        "C": "Intramuscular",
+        "D": "Intravenous"
+      },
+      "correct_answer": "",
+      "explanation": "Intramuscular nitroglycerin should be avoided due to severe pain in the injection area in patientswith angina.Sublingual and intravenous nitroglycerin can be used for acute effects. Oral extended-releasecapsules are available for prophylactic use in angina.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "A 30-year-old man suspected to have cyanide poisoning is brought to the ER. The medicalofficer stabilizes the patient and asks the nurse to bring an ampoule of amyl nitrite. By whichof the following routes is this drug administered?",
+      "options": {
+        "A": "Oral",
+        "B": "Inhalational",
+        "C": "Intravenous",
+        "D": "Sublingual"
+      },
+      "correct_answer": "B",
+      "explanation": "Amyl nitrite is administered via the inhalational route for acute relief in angina and cyanidepoisoning.Amyl nitrite is a highly volatile liquid available in glass ampoules. Its unpleasant odor and veryshort duration of action have made its use obsolete in angina.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "An 18-year-old boy was brought to the ER in an unconscious state. His coworker states heworks in a factory manufacturing pesticides. Based on this, the medical officer suspectscyanide poisoning and administers sodium nitrite. Which of the following is the mechanismof action of this drug in this case?",
+      "options": {
+        "A": "Produces methemoglobinemia",
+        "B": "Produces sulfhemoglobinemia",
+        "C": "Produces carboxyhemoglobinemia",
+        "D": "Produces deoxyhemoglobinemia159"
+      },
+      "correct_answer": "A",
+      "explanation": "The mechanism of action of sodium nitrite as an antidote for cyanide poisoning is by thedevelopment of methemoglobinemia.Cyanide binds to the cytochrome oxidase (complex IV) of the electron transport chain (ETC),thereby blocking it. When sodium nitrite is administered, it releases the nitrite ion. This ion bindsto hemoglobin to form methemoglobin. The methemoglobin so formed, has a high affinity for thecyanide ion and binds to it, thus, detaching it from the cytochrome oxidase. This regeneratesactive cytochrome normalizing the function of ETC.The cyanide ion with methemoglobin forms cyanmethemoglobin. Sodium thiosulphate isadministered for the elimination of this compound. The thiosulfate forms thiocyanate ion withthe cyanide and this is readily excreted.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 8,
+      "question": "A middle-aged man came to the casualty with complaints of abdominal pain. On examination,it is noted that the pain radiates from the loin to the groin of the patient. The resident wantsto administer a drug to the patient for symptomatic relief. Which drug is not effective in thiscondition?",
+      "options": {
+        "A": "Paracetamol",
+        "B": "Aspirin",
+        "C": "Morphine",
+        "D": "Nitrates"
+      },
+      "correct_answer": "D",
+      "explanation": "Abdominal pain radiating from loin to groin is suggestive of renal colic. Nitrates are not effectivein renal colic.In renal colic, NSAIDs, and morphine are used for acute pain relief. Due to the short time ofaction of nitrates, their clinical efficacy as relaxants in genitourinary system is quite low.Therapeutic Uses of nitrates are:•Angina pectoris166• Acute coronary syndrome• Myocardial infarction••• CHF• Biliary colic• Esophageal spasm",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient who is on treatment for angina, presents to you with erectile dysfunction. Youdecide against prescribing sildenafil because the patient is being treated with",
+      "options": {
+        "A": "Calcium channel blockers",
+        "B": "Beta blockers",
+        "C": "Nitrates",
+        "D": "ACE inhibitors"
+      },
+      "correct_answer": "",
+      "explanation": "The patient would be on nitrates for angina and thus should not be prescribed sildenafil assildenafil causes dangerous potentiation of nitrate action resulting in severe hypotension.The combination of the two drugs has a synergistic action on the intracellular cGMP levels thatcan result in uninhibited vasodilation and a precipitous fall in blood pressure. Hence, the use ofsildenafil is a contraindication when on nitrates.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "A 30-year-old male, who works in a factory that manufactures explosives, came to the OPDwith a peculiar complaint. He says that he gets headaches and feels transient dizziness everyMonday after his weekend off. Exposure to which compound is likely to produce hissymptoms?",
+      "options": {
+        "A": "Nitroglycerin",
+        "B": "Benzodiazepines",
+        "C": "Propranolol",
+        "D": "Verapamil"
+      },
+      "correct_answer": "A",
+      "explanation": "The patient is most likely suffering from Monday disease which is associated with exposureto nitroglycerin.Continuous exposure to high levels of nitrates can occur in the chemical industry, especially whereexplosives are manufactured.When contamination of the workplace with nitrate compounds is severe, workers find that uponstarting their week, they suffer headaches and transient dizziness. After a day or so back at work,tolerance develops. Over the weekend, when exposure to the chemicals is reduced, tolerancedisappears, so symptoms recur each Monday.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 11,
+      "question": "A 60 year old male is on verapamil for angina. Which of the following is not an adverse effectof this medication?160",
+      "options": {
+        "A": "Gingival hyperplasia",
+        "B": "Headache",
+        "C": "Constipation",
+        "D": "Tachycardia"
+      },
+      "correct_answer": "D",
+      "explanation": "Tachycardia is not an adverse effect of verapamil.Verapamil has a direct negative chronotropic effect on the heart. It is more likely to causebradycardia because of its significant cardio depressant action. Any reflex stimulation of heart dueto peripheral vasodilation is effectively countered by the direct effect.Common side effects of verapamil include headache, gingival hyperplasia, and constipation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 12,
+      "question": "Nifedipine acts by blocking calcium channels.",
+      "options": {
+        "A": "T-type",
+        "B": "R-type",
+        "C": "N-type",
+        "D": "L-type"
+      },
+      "correct_answer": "D",
+      "explanation": "Nifedipine acts by blocking L-type calcium channels.167Verapamil, diltiazem, and dihydropyridines block L-type calcium channels by binding to alpha 1subunit. Verapamil was the first clinically used calcium channel blocker.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 13,
+      "question": "Which among the following is a newer dihydropyridine with additional N-type calciumchannel blocking activity?",
+      "options": {
+        "A": "Amlodipine",
+        "B": "Nimodipine",
+        "C": "Clevidipine",
+        "D": "Cilnidipine"
+      },
+      "correct_answer": "D",
+      "explanation": "Cilnidipine is a novel dihydropyridine calcium channel blocker that blocks both L- and N-typecalcium channels.Blockage of N-type calcium channels results in the reduction of sympathetic activity. It providesadditional anti-hypertensive action without inducing reflex tachycardia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following is more likely to precipitate angina?",
+      "options": {
+        "A": "Amlodipine",
+        "B": "Nifedipine",
+        "C": "Diltiazem",
+        "D": "Verapamil"
+      },
+      "correct_answer": "B",
+      "explanation": "Amongst the given calcium channel blockers, nifedipine is more likely to precipitate angina.Nifedipine is a dihydropyridine calcium channel blocker having a rapid onset and short durationof action. It results in an abrupt decrease in blood pressure resulting in reflex tachycardia.Increased contractility leads to an increase in O2 demand which may precipitate angina.Option A: Amlodipine and extended-release preparations of nifedipine do not cause a steep fall inblood pressure and subsequent activation of sympathetic tone. Therefore, they are less likely toprecipitate angina.Options C and D: Verapamil and diltiazem have relatively less action on peripheral vascularsmooth muscles. They have a direct inhibitory effect on cardiac tissue causing negative ionotropiceffect (verapamil &gt; diltiazem).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient with polycystic kidney disease came to the ER with complaints of severe headache.An NCCT brain was taken and it showed subarachnoid hemorrhage. Which of the following161drugs is most appropriate for this patient?",
+      "options": {
+        "A": "Nifedipine",
+        "B": "Amlodipine",
+        "C": "Nicardipine",
+        "D": "Nimodipine"
+      },
+      "correct_answer": "D",
+      "explanation": "Nimodipine is the most appropriate drug that can be given to this patient.Nimodipine is indicated in cerebral vasospasm following subarachnoid hemorrhage. It has a highaffinity for cerebral blood vessels and appears to reduce mortality after subarachnoid hemorrhage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 16,
+      "question": "Peripheral edema seen with the use of calcium channel blockers is primarily due to which ofthe following mechanisms?",
+      "options": {
+        "A": "Reduced glomerular filtration rate and renal blood flow",
+        "B": "Increased hydrostatic pressure in the capillaries of lower extremeties",
+        "C": "Decreased oncotic pressure due to loss of plasma proteins in urine",
+        "D": "Precapillary constriction and post capillary dilation"
+      },
+      "correct_answer": "B",
+      "explanation": "Calcium channel blockers induced peripheral edema is most likely due to increased hydrostaticpressure in the capillaries of the lower extremities.The increased hydrostatic pressure occurs due to precapillary dilation and reflex postcapillaryconstriction.168",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 17,
+      "question": "A 30-year-old athlete complained of chest pain during his practice sessions. He is diagnosedto be suffering from exertional angina and is prescribed atenolol. Which of the followingchanges are not caused by this drug?",
+      "options": {
+        "A": "Decrease in cardiac contractility",
+        "B": "Decrease in heart rate",
+        "C": "Decrease in blood pressure",
+        "D": "Decrease in coronary collateral circulation"
+      },
+      "correct_answer": "D",
+      "explanation": "Atenolol is a beta-blocker which increases the coronary collateral circulation, thereby increasingthe blood flow towards the ischaemic region. This provides relief in exertional angina.Beta-blockers decrease the heart rate, contractility, and arterial blood pressure. These effects arebeneficial by decreasing the myocardial 02 demand. A decrease in heart rate increases the timeavailable for myocardial perfusion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following drugs can be used to balance the undesirable effects of beta-blockersin angina?",
+      "options": {
+        "A": "Verapamil",
+        "B": "Nitrates",
+        "C": "Ivabradine",
+        "D": "Diltiazem162"
+      },
+      "correct_answer": "B",
+      "explanation": "Beta-blockers cause an increase in end-diastolic volume and ejection time. These effects can bebalanced using nitrates by preferential venous dilatation, thus reducing preload.Beta-blockers also block the baroreceptor mediated reflex tachycardia caused by nitrates due tovasodilation.Options A and D: Verapamil and diltiazem are not combined with beta-blockers as they can causeadditive suppression of SA node and AV nodal conduction.Option C: Ivabradine is a pacemaker I(f) \"funny\" current inhibitor. Its addition does not reversethe undesirable effect but only adds to the bradycardia caused by beta blockers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following drugs is associated with coronary steal phenomenon?",
+      "options": {
+        "A": "Dipyridamole",
+        "B": "Diltiazem",
+        "C": "Propranolol",
+        "D": "Verapamil"
+      },
+      "correct_answer": "",
+      "explanation": "Coronary steal phenomenon is seen with dipyridamole.In patients with partial obstruction of coronary vasculature, a region of ischemia develops in themyocardium. In the absence of drugs, arterioles in the ischemic areas are usually maximallydilated as a result of local compensatory mechanisms.When dipyridamole is administered, it acts as a nonselective arteriolar dilator. It can only dilatethe vessels of the normal myocardium as the vessels of the ischemic myocardium are alreadymaximally dilated. This diverts (steals) the blood away from the ischemic myocardium towardsthe normal myocardium. This is termed as coronary steal phenomenon.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following statements about ranolazine is not true?",
+      "options": {
+        "A": "It is recommended as first-line treatment for acute angina.",
+        "B": "Hypotension is uncommon.",
+        "C": "It improves glycemic control.",
+        "D": "It is metabolised by CYP3A4"
+      },
+      "correct_answer": "A",
+      "explanation": "Ranolazine is not recommended as a first-line agent for acute angina. It is approved as asecond-line agent for chronic angina.Ranolazine acts by reducing late sodium current (INa) that facilitates calcium entry via thesodium-calcium exchanger. The reduction in intracellular calcium concentration results indecreased cardiac contractility. Additionally, it also reduces cardiac fatty acid oxidation andstimulates glucose metabolism. It results in a small decrease in HBA1c, thus improving glycemiccontrol.169It is metabolized by CYP3A4 and hence should not be used with CYP3A4 inhibitors such asmacrolides, imidazole antibiotics, and HIV protease inhibitors.The most frequent side effects are dizziness, headache, nausea, and constipation. Hypotension isuncommon.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is a rho-kinase inhibitor?",
+      "options": {
+        "A": "Fasudil",
+        "B": "Ranolazine",
+        "C": "Trimetazidine",
+        "D": "Nicorandil"
+      },
+      "correct_answer": "A",
+      "explanation": "Fasudil is a selective RhoA /rho-kinase inhibitor.The Rho kinases (ROCK) are a family of enzymes that inhibit vascular relaxation. Their excessiveactivity has been noted in coronary spasm and pulmonary hypertension. Inhibiton of theseenzymes results in vascular relaxation.Option B: Ranolazine acts by reducing late sodium current (INa). This reduces calcium entry viathe sodium-calcium exchanger.Option C: Trimetazidine is a partial fatty acid oxidation (pFOX) inhibitor.Option D: Nicorandil is an agonist of KATP channels",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following drugs causes activation of K+-ATP channels?",
+      "options": {
+        "A": "Nicorandil",
+        "B": "Molsidomine",
+        "C": "Isosorbide dinitrate",
+        "D": "Nitroglycerin163"
+      },
+      "correct_answer": "A",
+      "explanation": "Nicorandil causes activation of K+-ATP channels. This leads to the hyperpolarization of thesmooth muscle cells leading to vasodilatation.It also has nitrate like cGMP dependent action. Nicorandil dilates both arteries and veins leadingto a decrease in afterload and preload of the heart.Molsidomine, isosorbide dinitrate, and nitroglycerin are nitrates. They do not act on K-ATPchannels.170",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Anginal Drugs"
+    }
+  ]
+}

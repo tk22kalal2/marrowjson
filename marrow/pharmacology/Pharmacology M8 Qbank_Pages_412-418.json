@@ -1,0 +1,185 @@
+{
+  "chapter": "General Principles of Antimicrobial Therapy",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A young man who collapsed at a concert was suspected to have bacterial meningitis. Theother attendees of the concert were administered ciprofloxacin by the medical staff on duty.What is this kind of antimicrobial therapy called?",
+      "options": {
+        "A": "Preemptive therapy",
+        "B": "Prophylactic therapy",
+        "C": "Empirical therapy",
+        "D": "Suppressive therapy"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 2,
+      "question": "The total microbial population was found to be susceptible to antimicrobials on testing but asubset of the same population was resistant which was undetected. What is this phenomenoncalled?",
+      "options": {
+        "A": "Cross resistance",
+        "B": "Heteroresistance",
+        "C": "Idioresistance",
+        "D": "Alloresistance"
+      },
+      "correct_answer": "B",
+      "explanation": "Heteroresistance occurs when a subset of the total microbial population is resistant, despite thetotal microbial population being susceptible on testing. The resistant subpopulation is usually wellbelow the assay-detection limits.Heteroresistant Staphylococci and M. tuberculosis have led to therapeutic failures and mortality.C. albicans and C. neoformans with heteroresistance to fluconazole have resulted in increasedtreatment failures.Note: For viruses, the resistant viral species occurring due to the above phenomenon is termed as'quasi-species'. Quasi-species resistant to antiretroviral agents have resulted in the failure ofantiretroviral therapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following drugs shows concentration-dependent killing?",
+      "options": {
+        "A": "Penicillins",
+        "B": "5-fluorocytosine",
+        "C": "Aminoglycosides",
+        "D": "Vancomycin"
+      },
+      "correct_answer": "C",
+      "explanation": "Aminoglycosides exhibit concentration-dependent killing and are preferably dosed once daily formaximum effect.Peak concentration above MIC (minimum inhibitory concentration) matters for certain classes ofdrugs for their antimicrobial action. It is referred to as concentration-dependent killing. Theperiod during which the concentration remains above MIC is not relevant for such drugs.Aminoglycosides and quinolones have this property.Time-dependent killing: The antimicrobial action is dependent on the period for which theconcentration of drug remains above the MIC. Penicillins, 5-fluorocytosine and vancomycin havethis property.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 4,
+      "question": "412A patient having pneumococcal pneumonia could not be treated using penicillin G as themicrobe was found to be resistant to it. How is this resistance mainly acquired?",
+      "options": {
+        "A": "Conjugation",
+        "B": "Transduction",
+        "C": "Transformation",
+        "D": "Lysogenic conversion"
+      },
+      "correct_answer": "",
+      "explanation": "Transformation is the molecular basis of penicillin G resistance in pneumococci andmeningococci.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the extrachromosomal DNA present in bacteria that transmits drug resistance called?",
+      "options": {
+        "A": "Cytochrome",
+        "B": "Plasmid",
+        "C": "Introns",
+        "D": "Exons"
+      },
+      "correct_answer": "B",
+      "explanation": "Drug resistance transmitting extrachromosomal DNA present in bacteria is a plasmid.416They are usually involved in the horizontal transfer of drug resistance gene inbacteria. Chromosomal DNA can also be involved in the transfer of resistance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 6,
+      "question": "How is multidrug resistance transferred among bacteria?",
+      "options": {
+        "A": "Conjugation",
+        "B": "Transformation",
+        "C": "Transduction",
+        "D": "Transfection"
+      },
+      "correct_answer": "A",
+      "explanation": "Multidrug resistance is transferred through conjugation.Multiple genes, each encoding for resistance to a drug can be present in a single bacterial cell.Typically such genes are present on resistance (R) plasmids. The main mode of transfer ofresistant gene-containing plasmids is through conjugation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 7,
+      "question": "An example of a bacteriostatic drug is",
+      "options": {
+        "A": "Aminoglycoside",
+        "B": "Vancomycin",
+        "C": "Metronidazole",
+        "D": "Linezolid"
+      },
+      "correct_answer": "D",
+      "explanation": "Linezolid is an example of a bacteriostatic drug.Primarily bacteriostatic drugsSulfonamidesErythromycinTetracyclinesClindamycinChloramphenicolLinezolidEthambutolPrimarily bactericidal drugsPenicillins, CephalosporinsAminoglycosidesVancomycinPolypeptidesCiprofloxacin RifampinMetronidazoleIsoniazidCotrimoxazolepyrazinamide",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 8,
+      "question": "413You want to prescribe a bactericidal drug to a patient having an infection. Which of thefollowing drugs will you not choose?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Tigecycline",
+        "C": "Daptomycin",
+        "D": "Ciprofloxacin"
+      },
+      "correct_answer": "B",
+      "explanation": "Tigecycline is not a bactericidal drug. Tigecycline belongs to a new class of glycylcyclines which isa congener of teteracycline. It is a protein synthesis inhibitor and generally considered as abacteriostatic.Isoniazid, daptomycin and ciprofloxacin are all bactericidal agents.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient developed a surgical site infection with Klebsiella, which is found to be sensitive to acell wall synthesis inhibitor. Which of the following antibiotics is this likely to be?",
+      "options": {
+        "A": "Aminoglycosides",
+        "B": "Cefepime",
+        "C": "Doxycycline",
+        "D": "Erythromycin"
+      },
+      "correct_answer": "B",
+      "explanation": "Cefepime is an antibiotic that acts by inhibiting cell wall synthesis.Cefepime is a fourth-generation cephalosporin. Cephalosporins act by inhibiting cell wallsynthesis.Aminoglycosides, doxycycline, and erythromycin are protein synthesis inhibitors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient has presented to your OPD complaining of vomiting and rice water stools. Youdecide to treat him with a protein synthesis inhibitor. Which antibiotic do you choose?",
+      "options": {
+        "A": "Cefotetan",
+        "B": "Doxycycline",
+        "C": "Ciprofloxacin",
+        "D": "Oxacillin"
+      },
+      "correct_answer": "B",
+      "explanation": "417Doxycycline is a tetracycline that acts by inhibiting protein synthesis. It is the drug of choice forcholera.Options A &amp; D: Cefotetan and oxacillin are beta-lactam antibiotics that act by inhibiting cellwall synthesis.Option C: Ciprofloxacin is a fluoroquinolone that acts by inhibiting DNA gyrase.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following antibacterial agents does not act by inhibiting cell wall synthesis?",
+      "options": {
+        "A": "Carbapenems",
+        "B": "Monobactams",
+        "C": "Cephalosporins",
+        "D": "Nitrofurantoin414"
+      },
+      "correct_answer": "D",
+      "explanation": "Nitrofurantoin is an antibacterial drug that does not act by inhibiting cell wall synthesis.The antibacterial activity of nitrofurantoin appears to correlate with the rapid intracellularconversion of nitrofurantoin to highly reactive intermediates by bacterial reductases. Theseintermediates react nonspecifically with many ribosomal proteins and disrupt the synthesis ofproteins, RNA, DNA, and metabolic processes.Carbapenems, monobactams, and cephalosporins are beta-lactam antibiotics that act by inhibitingcell wall synthesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    },
+    {
+      "q_no": 12,
+      "question": "You are studying the susceptibility of Streptococci to bacitracin in the lab. What is the site ofaction of this drug?",
+      "options": {
+        "A": "Cell wall",
+        "B": "Cell membrane",
+        "C": "Nucleic acid",
+        "D": "Ribosome"
+      },
+      "correct_answer": "A",
+      "explanation": "Bacitracin acts on the cell wall by inhibiting the synthesis of the cell wall.It interferes with the dephosphorylation of bactoprenol (lipid carrier) which carries peptidoglycansubunits outside the cell membrane to the growing cell wall. It can also alter the integrity of thecell membrane.Bacitracin is mainly active against gram-positive cocci and bacilli.418",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Principles of Antimicrobial Therapy"
+    }
+  ]
+}

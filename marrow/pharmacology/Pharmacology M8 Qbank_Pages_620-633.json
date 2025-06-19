@@ -1,0 +1,320 @@
+{
+  "chapter": "Corticosteroids",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Glucocorticoids act on which of the following?",
+      "options": {
+        "A": "G protein couple receptor",
+        "B": "Intracellular cytoplasmic receptor",
+        "C": "Ligand gated ion channel",
+        "D": "JAK-STAT pathway"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 2,
+      "question": "Glucocorticoids do not have permissive action on which of the following?",
+      "options": {
+        "A": "Angiotensin",
+        "B": "Adrenaline",
+        "C": "Noradrenaline",
+        "D": "Bradykinin"
+      },
+      "correct_answer": "B",
+      "explanation": "Glucocorticoids do not have permissive action on bradykinin. They inhibit inflammatorymediators such as histamine, bradykinin, and eicosanoids.Glucocorticoids possess permissive action on the vasoconstrictor effect of angiotensin andlipolytic action of adrenaline and noradrenaline. In the absence of glucocorticoids, thesehormones have low activity but the presence enhances their activity several folds.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 3,
+      "question": "A pregnant woman diagnosed with Cushing's syndrome does not want surgery and requestsmedical treatment. Which of the following drugs can be recommended?",
+      "options": {
+        "A": "Mifepristone",
+        "B": "Flutamide",
+        "C": "Finasteride",
+        "D": "Metyrapone"
+      },
+      "correct_answer": "D",
+      "explanation": "Metyrapone can be recommended as it is approved in the treatment of pregnant women withCushing's syndrome. It inhibits the synthesis of cortisol by inhibiting steroid 11 ẞ-hydroxylasereversibly.Cushing's syndrome (CS) is a manifestation of symptoms that are precipitated by excessivecortisol production. Transsphenoidal surgery, radiation, and pharmacotherapy constitute thestandard treatment for tumor-related causes of CS (e.g. pituitary adenoma).The three main pharmacological approaches are:•Cortisol synthesis inhibitors: Ketoconazole, metyrapone, mitotane, etomidate,aminoglutethimide⚫ ACTH secretion inhibitors: Cyproheptadine, pasireotide, octreotide, cabergoline•Glucocorticoid receptor antagonist: MifepristoneNote: Metyrapone is also used to test the hypothalamic-pituitary feedback pathway in thediagnosis of Cushing syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 4,
+      "question": "The enzyme A in the following image corresponds to?620HOcortisolHOOHNAD A NADHNADPBNADPH",
+      "options": {
+        "A": "17ẞ-Hydroxysteroid dehydrogenase",
+        "B": "3ẞ-Hydroxysteroid dehydrogenase",
+        "C": "11ẞ-Hydroxysteroid dehydrogenase1",
+        "D": "11ẞ-Hydroxysteroid dehydrogenase2"
+      },
+      "correct_answer": "D",
+      "explanation": "\"A\" here corresponds to 11-beta-HSD2 (11ẞ-Hydroxysteroid dehydrogenase2). It converts activecortisol to inactive cortisone.Cortisol is active and can bind to both glucocorticoids and mineralocorticoid receptors whereascortisone is inactive and does not bind to either. The selective inactivation of cortisol is requiredin certain sites such as the distal nephron so that the specific autoregulatory responses toaldosterone can be achieved.Therefore, cortisol (active) is metabolized to cortisone (inactive) by 11-beta-HSD2 in the kidney, soas to protect renal mineralocorticoid receptors from cortisol binding. Some tissues, like the liver,can convert inactive cortisone back to active cortisol through an enzyme called 11-beta-HSD1 (\"B\"in the image). This completes the \"cortisone-cortisol shuttle\" because the kidney can inactivatecortisol where it is not needed and the liver can reactivate it afterward.627The Cortisol - Cortisone ShuntMineralocorticoidreceptorCortisoneCortisone11ẞ-hydroxysteroiddehydrogenase - 111ẞ-hydroxysteroiddehydrogenase - 2CortisolCortisolGlucocorticoidreceptorCentral nervous systemLiverAdipose tissuePlacentaOMARROWSalivary glandsSweat glandsKidneyColonPlacentaHowever, when circulating cortisol levels are very high, as in severe Cushing syndrome, they canoverwhelm this protective mechanism, allowing cortisol to bind to and activate themineralocorticoid receptor. This leads to volume expansion, hypertension, and hypokalemia oftenobserved in hypercortisolism. A mutation of 11-beta-HSD2 also causes a similar clinical pictureand is the reason for the syndrome of apparent mineralocorticoid excess.17ẞ-Hydroxysteroid dehydrogenase and 3ẞ-Hydroxysteroid dehydrogenase are involved in themetabolism of sex steroids.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q4_img1_5298b633.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp4_img1_1462f65d.jpeg",
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is a prodrug?",
+      "options": {
+        "A": "Prednisolone",
+        "B": "Methylprednisolone",
+        "C": "Hydrocortisone",
+        "D": "PrednisoneHOOHcortisone"
+      },
+      "correct_answer": "",
+      "explanation": "Prednisone is a prodrug.It is a synthetic glucocorticoid that is biologically inert until converted via hepaticmetabolism (11-beta HSD1) to the active component, prednisolone.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient with moderate COVID-19 was started on a long-acting glucocorticoid. Which of thefollowing drugs could it be?",
+      "options": {
+        "A": "Triamcinolone",
+        "B": "Prednisolone",
+        "C": "Dexamethasone",
+        "D": "Hydrocortisone621"
+      },
+      "correct_answer": "",
+      "explanation": "Dexamethasone is the longest acting glucocorticoid. Its t1/2 is &gt;36 hours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 7,
+      "question": "Highest mineralocorticoid activity is seen with which of the following?",
+      "options": {
+        "A": "Aldosterone",
+        "B": "DOCA",
+        "C": "Fludrocortisone",
+        "D": "Triamcinolone"
+      },
+      "correct_answer": "",
+      "explanation": "The highest mineralocorticoid activity is seen with aldosterone.However, it cannot be used clinically. The highest mineralocorticoid activity in a drug that is usedclinically is fludrocortisone.628Short-acting glucocorticoidsCortisone HydrocortisoneIntermediate-acting glucocorticoidsGlucocorticoid activity Mineralocorticoid activity0.810.81Prednisone-prednisoloneMet450.80.5hylprednisoloneLong-acting glucocorticoidsDexamethasone Betamethaso 303000neMineralocorticoidsDeoxycorticosterone (DOCA) 0.2150Fludrocortisone Aldosterone100150200-500",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is not a mineralocorticoid receptor antagonist?",
+      "options": {
+        "A": "Spironolactone",
+        "B": "Eplerenone",
+        "C": "Drospirenone",
+        "D": "Metyrapone"
+      },
+      "correct_answer": "",
+      "explanation": "Metyrapone is not a mineralocorticoid receptor antagonist.It is a selective inhibitor of 11ẞ-hydroxylase and thereby reduces cortisol and corticosteronesynthesis.Options A and B - Spironolactone and eplerenone are aldosterone antagonist that is used inhypertension and chronic CHF for reversing the effects of aldosteroneOption C - Drospirenone is a 4th generation progestin used as an oral contraceptive havingmineralocorticoid antagonist action",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 9,
+      "question": "A woman diagnosed with Sheehan's syndrome is planned for the initiation of hormonereplacement. Glucocorticoids should be administered prior to thyroxine supplementation dueto what concern?",
+      "options": {
+        "A": "Interference in absorption of glucocorticoids",
+        "B": "Precipitation acute adrenal insufficiency",
+        "C": "Decrease in the metabolism of glucocorticoids",
+        "D": "Suppression the HPA axis"
+      },
+      "correct_answer": "D",
+      "explanation": "Glucocorticoids are administered before initiating treatment with thyroid hormones asadministration of thyroxine can precipitate acute adrenal insufficiency.In the case of combined adrenal insufficiency and hypothyroidism, as in panhypopituitarism (dueto surgery or Sheehan's syndrome), adrenal insufficiency is generally treated first. This is becausegiving thyroxine first can enhance cortisol clearance and precipitate an adrenal crisis. Also,levothyroxine increases the basal metabolic rate (BMR) leading to an increased requirement ofcortisol, which if not met can also precipitate an adrenal crisis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 10,
+      "question": "A pregnant woman came for routine antenatal screening. During prenatal testing, the fetuswas suspected to have congenital adrenal hyperplasia. What is the drug of choice for treatingthe fetus in-utero?",
+      "options": {
+        "A": "Dexamethasone",
+        "B": "Betamethasone",
+        "C": "Hydrocortisone622",
+        "D": "Prednisolone"
+      },
+      "correct_answer": "",
+      "explanation": "The drug of choice for treating the fetus in-utero when suspected of having congenital adrenalhyperplasia is dexamethasone.629Dexamethasone readily crosses the placenta and suppresses the secretion of steroids andandrogens by fetal adrenal glands. If started by 6 weeks of gestation, it reduces the virilization ofexternal genitalia in affected females.Chorionic villus biopsy is then performed to determine the sex and the genotype of the fetus andtherapy is only continued if the fetus is an affected female.This is not widely accepted currently due to insufficient data on long-term risks especially inunaffected females and males who derive no benefit from the treatment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient is started on hormone replacement for chronic adrenal insufficiency. What is thereplacement dose of hydrocortisone that has to be given (in mg/day)?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "5"
+      },
+      "correct_answer": "A",
+      "explanation": "The replacement dose of hydrocortisone for chronic adrenal insufficiency is 20 mg/day.The treatment of chronic adrenal insufficiency (not in crisis) requires glucocorticoid replacementat a dose that replaces the physiologic daily cortisol production. This is achieved by administeringan oral replacement dose of 15-25mg Hydrocortisone.A midpoint dose of 20mg is given in 2-3 divided doses: 10mg + 5mg + 5mg.A higher morning dose is given at 8:30 am (usually 1/2 to 2/3 of the total dose). The next dose isgiven at 1:30 pm and in the evening (4:30-5:00 pm). This is to follow the normal circadianrhythm.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 12,
+      "question": "A pregnant woman at 33 weeks of gestation presents to your antenatal clinic with pretermlabour. Which corticosteroid will you administer for stimulation of fetal lung maturation?",
+      "options": {
+        "A": "Hydrocortisone",
+        "B": "Triamcinolone",
+        "C": "Methylprednisolone",
+        "D": "Betamethasone"
+      },
+      "correct_answer": "D",
+      "explanation": "Betamethasone is indicated for the stimulation of fetal lung maturation in preterm labor.As compared to cortisol, betamethasone binds to maternal proteins less and has less placentalmetabolism. This allows increased transfer to the fetus. Additionally, infants exposed tobetamethasone are less likely to require postnatal resuscitation. 2 doses of 12 mg each areadministered 18-24 hours apart when the delivery is anticipated before 34 weeks of gestation.Dexamethasone is another long-acting glucocorticoid that can be given. It has benefits such as lessrisk of intraventricular hemorrhage and a shorter length of stay in the NICU.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient with chronic adrenal insufficiency is on long term corticosteroid therapy. Which ofthe following side effects is he unlikely to experience?",
+      "options": {
+        "A": "Muscular hypertrophy",
+        "B": "Peptic ulceration",
+        "C": "Psychosis",
+        "D": "Hypertension"
+      },
+      "correct_answer": "A",
+      "explanation": "Corticosteroid therapy does not cause muscular hypertrophy and the patient is unlikely toexperience it as a side effect.Excess glucocorticoid activity results in muscle wasting and myopathy while excessmineralocorticoid activity results in hypokalemia and causes muscle weakness.Options B and C: Peptic ulceration and psychosis are known adverse effects of corticosteroids.Option D: Glucocorticoids with some mineralocorticoid activity will result in sodium and waterretention and may cause hypertension.630",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 14,
+      "question": "You are planning to add oral steroids to manage a case of severe asthma. Presence of which ofthe following comorbidities is not a relative contraindication for starting the medication?",
+      "options": {
+        "A": "Diabetes mellitus623",
+        "B": "Hypertension",
+        "C": "Eczematous skin disease",
+        "D": "Peptic ulcer disease"
+      },
+      "correct_answer": "C",
+      "explanation": "Eczematous skin diseases are not a contraindication for the use of oral corticosteroids. In fact,they are highly effective and are indicated in this condition.All the contraindications to steroids are relative because of the life-saving nature of steroids.Risk-benefit should be assessed cautiously when initiating steroids in the following conditions:• Diabetes mellitus•⚫ Hypertension• Peptic ulcer•• Viral and fungal infections•Tuberculosis and other infections•Osteoporosis• Herpes simplex keratitis•Epilepsy●• CHF• Renal failure",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 15,
+      "question": "A 54-year-old woman is being evaluated for chronic back pain. She mentions that she hadbeen on corticosteroids for asthma since childhood. Which of the following actions of thedrug would not cause her condition?",
+      "options": {
+        "A": "Inhibition of gonadal steroidal hormones",
+        "B": "Reduced gastrointestinal absorption of calcium",
+        "C": "Suppressive action on osteoblasts",
+        "D": "Inhibition of action of osteoclasts"
+      },
+      "correct_answer": "D",
+      "explanation": "Chronic back pain following long term corticosteroid therapy is suggestive ofosteoporosis. Glucocorticoids do not inhibit of the action of osteoclasts.It causes stimulation of osteoclasts and increases bone resorption.Mechanism of glucocorticoids induced osteoporosis:•Inhibition of gonadal steroidal hormones•Reduced gastrointestinal absorption of calcium• Secondary effect of decreased calcium absorption: increased parathyroid hormone leading tofurther resorption•Suppressive action on osteoblasts• Stimulation of osteoclasts",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 16,
+      "question": "Osteonecrosis following glucocorticoid therapy is most commonly associated with which site?",
+      "options": {
+        "A": "Femoral head",
+        "B": "Distal femur",
+        "C": "Jaw bone",
+        "D": "Humeral head"
+      },
+      "correct_answer": "A",
+      "explanation": "The femoral head is the most frequently affected site by osteonecrosis due to glucocorticoidtherapy.631The earliest symptoms are joint pain and stiffness. When patients on steroid therapy develop hip,shoulder or knee pain, osteonecrosis must be considered and ruled out.Options B and D - It can also affect the distal femur and humeral headOption C Osteonecrosis of the jaw is associated with the use of bisphosphonates",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 17,
+      "question": "A patient with Cushing's syndrome has very high levels of ACTH. Which of the following is aCRH preparation that can be used to determine if it is a pituitary source or an ectopic source?",
+      "options": {
+        "A": "Gonadorelin",
+        "B": "Corticorelin",
+        "C": "Ganirelix",
+        "D": "Cosyntropin"
+      },
+      "correct_answer": "B",
+      "explanation": "Corticorelin is a corticotrophin-releasing hormone (CRH) preparation used in CRH stimulationtest which helps to differentiate between a pituitary source and an ectopic source forACTH-dependent hypercortisolism.Pituitary tumors tend to be sensitive to CRH stimulation and responds with a rise in cortisol whileectopic tumors do not usually respond. Ectopic sources of ACTH include carcinoid, medullarythyroid carcinoma, and pheochromocytoma.It can also be used to test the HPA axis.Option A - Gonadorelin is a recombinant GnRH.Option C - Ganirelix is a GnRH antagonist.Option D - Cosyntropin is a synthetic preparation of ACTH.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 18,
+      "question": "624Which of the following is a steroid receptor antagonist that can be given to a patient withCushing's syndrome due to ectopic ACTH?",
+      "options": {
+        "A": "Ketoconazole",
+        "B": "Metyrapone",
+        "C": "Mifepristone",
+        "D": "Aminoglutethimide"
+      },
+      "correct_answer": "C",
+      "explanation": "Mifepristone is a steroid receptor antagonist that can be used in Cushing's syndrome.It is used in Cushing's syndrome especially in inoperable cases with ectopic ACTH secretion oradrenal carcinoma.Options A, B, and D - Ketoconazole, metyrapone, and aminoglutethimide reduce steroid synthesisby enzyme inhibition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following intravenous anaesthetics can be used for acute control ofhypercortisolism?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Propofol",
+        "C": "Ketamine",
+        "D": "Etomidate"
+      },
+      "correct_answer": "D",
+      "explanation": "The intravenous anesthetic that can be used for acute control of hypercortisolism is etomidate.Etomidate at sub-hypnotic doses inhibits cortisol secretion by selectively inhibiting11-beta-hydroxylase activity.It is used off-label to treat hypercortisolism when rapid control is needed and the patient is notable to take oral medication.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 20,
+      "question": "A patient is diagnosed with inoperable adrenocortical carcinoma and needs medicaladrenalectomy. Which of the following drugs could be used for him?",
+      "options": {
+        "A": "Mitotane",
+        "B": "Methotrexate",
+        "C": "Doxorubicin",
+        "D": "5-Fluorouracil"
+      },
+      "correct_answer": "A",
+      "explanation": "632Mitotane is used for medical adrenalectomy in this patient.It has a non-selective toxic action on the adrenal cortex. It causes suppression of adrenal cortexhormone secretion comparable to that of adrenalectomy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following antifungal drugs can be used in the treatment of a patient withCushing syndrome?",
+      "options": {
+        "A": "Ketoconazole",
+        "B": "Fluconazole",
+        "C": "Itraconazole",
+        "D": "Miconazole625"
+      },
+      "correct_answer": "A",
+      "explanation": "Ketoconazole can be used in the treatment of Cushing syndrome for symptomatic control.It is a non-selective inhibitor of adrenal and gonadal steroid synthesis. These actions are moreapparent at higher doses than those used for fungal infections.633",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corticosteroids"
+    }
+  ]
+}

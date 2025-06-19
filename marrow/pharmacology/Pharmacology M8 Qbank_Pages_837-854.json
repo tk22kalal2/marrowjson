@@ -1,0 +1,410 @@
+{
+  "chapter": "Cell Cycle Specific Cytotoxic Drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The Nobel Prize in Physiology or Medicine, 2018 was awarded to James P. Allison andTasuku Honjo for which of the following discoveries?",
+      "options": {
+        "A": "Discovery of mechanisms of autophagy",
+        "B": "Discoveries of molecular mechanisms controlling the circadian rhythm",
+        "C": "Discovery of cancer therapy by inhibition of negative immune regulation",
+        "D": "Discovery that mature cells can be reprogrammed to become pluripotent"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is a cell-cycle specific agent?",
+      "options": {
+        "A": "Ifosfamide",
+        "B": "Melphalan",
+        "C": "Vinblastine",
+        "D": "Cyclophosphamide"
+      },
+      "correct_answer": "C",
+      "explanation": "Vinblastine is a cell cycle-specific agent and a vinca alkaloid. It arrests mitosis and acts specificallyon M-phase.Cyclophosphamide, melphalan, and ifosfamide are nitrogen mustards and are cell-cyclenon-specific agents.Cell cycle specific agents:• Antimetabolites: S phase• Camptothecin analogs: S Phase• Taxanes, Vinca alkaloids: M phase846•⚫ Epipodophyllotoxin: G1-S phase•Bleomycin: G2-M phaseCell cycle non-specific agents:•Alkylating agents• Platinum analogs• Anthracyclines•Mitomycin, dactinomycin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is an antimetabolite?",
+      "options": {
+        "A": "Cyclosporine",
+        "B": "Methotrexate",
+        "C": "Etoposide",
+        "D": "Vinblastine"
+      },
+      "correct_answer": "B",
+      "explanation": "Methotrexate is an antimetabolite. It is a folic acid analog that inhibits the enzyme dihydrofolatereductase (DHFR). Methotrexate and its polyglutamate also inhibit the enzymes involvedin denovo purine and thymidylate synthesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following disease-modifying anti rheumatoid drug increases extracellularadenosine?",
+      "options": {
+        "A": "Methotrexate",
+        "B": "Lefunamide837",
+        "C": "Sulphasalazine",
+        "D": "Hydroxychloroquine"
+      },
+      "correct_answer": "A",
+      "explanation": "Methotrexate is the disease-modifying anti rheumatoid drug that increases extracellularadenosine. Methotrexate's principal mechanism of action relates to inhibition of amino-imidazolecarboxamide ribonucleotide (AICAR) transformylase and thymidylate synthetase.AICAR accumulates intracellularly, competitively inhibits AMP deaminase, leading to anaccumulation of AMP. The AMP is released and converted extracellularly to adenosine, which is apotent inhibitor of inflammation. As a result, the inflammatory functions of neutrophils,macrophages, dendritic cells, and lymphocytes are suppressed.Mechanism of action of methotrexateInhibitsAICARtransformylase+AICARmetabolitesMethotrexateInhibitsdenovopurinesynthesisInhibitsadenosinedeaminaseand AMPdeaminase† AdenosineInhibitsdihydrofolatereductaseReducedpurine/pyrimidinesynthesisReducedtetrahydrofolateandmethyltetrahy-drofolateMARROWReducedpolyaminesReducedlymphotoxins847",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp4_img1_91eb80e8.jpeg",
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 5,
+      "question": "In which of the following conditions is methotrexate not used?",
+      "options": {
+        "A": "Giant cell arteritis",
+        "B": "Psoriasis",
+        "C": "Sickle cell anemia",
+        "D": "Organ transplantation"
+      },
+      "correct_answer": "C",
+      "explanation": "Indications for methotrexate (inflammatory conditions) include:• Rheumatoid arthritis⚫ Psoriasis•• Psoriatic arthritis•Ankylosing spondylitis• Polymyositis• Dermatomyositis• Wegener's granulomatosis• Giant cell arteritis•Systemic lupus erythematosus• Other systemic vasculitis• Graft versus host disease associated with organ transplantation.Sickle cell anemia appears to be the most appropriate answer among the options. Though smalltrials have shown positive results in sickle cell disease, it is neither extensively used nor approvedfor this indication.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "In which of the following conditions is high dose methotrexate indicated in?",
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Rhabdomyosarcoma",
+        "C": "Retinoblastoma",
+        "D": "Ewing's sarcoma"
+      },
+      "correct_answer": "A",
+      "explanation": "High-dose methotrexate with leucovorin rescue (HDM-L) is a standard agent for adjuvant therapyof osteosarcoma. HDM is critical in the management of childhood acute lymphocytic leukemia(ALL). HDM-L also produces a high response rate in CNS lymphomas.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "A 32-year-old lady was diagnosed with gestational trophoblastic neoplasia and started onmethotrexate. However the hCG levels of the patient kept rising. What could be the cause ofthis phenomenon?",
+      "options": {
+        "A": "Depletion of folate",
+        "B": "Overproduction of DHFROverproduction of thymidylate kinased) Decreased DHFRQuestion 8:A patient with impaired renal function, undergoing chemotherapy, develops methotrexatetoxicity. Which of the following drugs is a methotrexate cleaving enzyme that can be used tomanage this condition?838a) Adenyl cyclaseb) Glucarpidase",
+        "C": "Rasburicase",
+        "D": "Serine protease"
+      },
+      "correct_answer": "B",
+      "explanation": "The scenario depicts a case of Methotrexate resistance. This happens due to the overproduction ofDHFR (dihydrofolate reductase).Mechanism of resistance to methotrexate includes:• Impaired transport of methotrexate into cells••Production of altered forms of DHFR that have decreased affinity for methotrexate• The increased concentration of intracellular DHFR through gene amplification or generegulation•• Decreased ability to form methotrexate polyglutamates• Increased expression of drug efflux transporter848",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements about methotrexate is false?",
+      "options": {
+        "A": "Folinic acid enhances its action",
+        "B": "It inhibits dihydrofolate reductase",
+        "C": "Non-proliferative cells are resistant to it.",
+        "D": "It targets the S-phase of the cell cycle"
+      },
+      "correct_answer": "A",
+      "explanation": "Folinic acid, also known as leucovorin, the active form of folic acid, is administered withmethotrexate to reduce the toxicity associated with higher doses. It does not enhance the action ofmethotrexate.Methotrexate is an antimetabolite that inhibits dihydrofolate reductase. It is a cell cycle (S-phase)specific antineoplastic agent and non-proliferative cells are relatively resistant to it.Bone marrow suppression and gastrointestinal mucosa inflammation (mucositis) are the commonside effects seen due to inhibition of DNA synthesis.Methotrexate toxicity:••• Prevention - administration of leucovorin/folinic acid.· Treatment - maintaining adequate hydration and forced alkaline diuresis in patients with normalrenal function.•Glucarpidase is an intravenous drug administered in patients who have impaired renal function.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient is on methotrexate therapy as part of his chemotherapy regimen. Which of thefollowing tests is not indicated for monitoring in this patient?",
+      "options": {
+        "A": "Liver function test",
+        "B": "Lung function test",
+        "C": "Fundoscopy",
+        "D": "Hemogram"
+      },
+      "correct_answer": "",
+      "explanation": "Fundoscopy is not monitored in a patient on methotrexate therapy. This is because no significanteye-related adverse effect is associated with either low, normal or high-dose methotrexate use,mandating frequent monitoring.-Option A Hepatic fibrosis or cirrhosis is a significant side effect of long-term therapy ofmethotrexate that requires regular hepatic function monitoring.Option B - Allergic interstitial pneumonitis and other pulmonary-related adverse effects areassociated with methotrexate.-Option D Myelosuppression is a common and a serious adverse effect that mandates routinemonitoring of hemogram.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 11,
+      "question": "During rounds, one of your colleagues suggested alkalization of urine with sodiumbicarbonate for a patient, to reduce the toxicity of a chemotherapeutic agent. Which is thechemotherapeutic drug being discussed here?",
+      "options": {
+        "A": "Arabinoside-cytosine",
+        "B": "Ifosfamide",
+        "C": "Cisplatin",
+        "D": "Methotrexate"
+      },
+      "correct_answer": "D",
+      "explanation": "849The drug being discussed here is methotrexate. Alkalization of urine ameliorates the toxicity ofmethotrexate. Methotrexate is an acidic drug and the excretion is increased by alkalization ofurine.High-dose methotrexate with leucovorin (HDM-L) used in some conditions has a higher incidenceof nephrotoxicity. It is attributed to the precipitation of methotrexate in the acidic tubularfluid. Vigorous hydration and alkalinization of urine prior to HDM-L administration is required tominimize the chance of nephrotoxicity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 12,
+      "question": "839Which of the following is an inhibitor of DNA synthesis?",
+      "options": {
+        "A": "6-mercaptopurine",
+        "B": "Mitomycin",
+        "C": "Actinomycin",
+        "D": "Asparaginase"
+      },
+      "correct_answer": "A",
+      "explanation": "6-Mercaptopurine is an inhibitor of DNA synthesis.6-Mercaptopurine is inactive in its parent form. It must be metabolized byhypoxanthine-guanine phosphoribosyltransferase to form monophosphate nucleotide6-thioinosinic acid. This inhibits several enzymes of de novo purine nucleotide synthesis.Option B- Mitomycin acts as an alkylating agent and crosslinks DNA. It also generates freeradicals which damage DNA.Option C- Actinomycin causes single-strand breaks in DNA. It blocks RNA transcription as well.Option D- L-Asparaginase causes the breakdown of asparagine and thus interferes with proteinsynthesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 13,
+      "question": "What should be done to the dose of intravenous 6-mercaptopurine when it is administered ina patient taking allopurinol?",
+      "options": {
+        "A": "Reduce by 75%",
+        "B": "Reduce by 50%",
+        "C": "Increase by 50%",
+        "D": "No dose adjustment necessary"
+      },
+      "correct_answer": "D",
+      "explanation": "Intravenous dosing of 6-mercaptopurine (6MP) does not require any dosing adjustment whenadministered with allopurinol.6MP undergoes the first-pass metabolism by xanthine oxidase in the liver and intestine. Sinceallopurinol inhibits xanthine oxidase, it causes elevated levels of 6-MP. Hence, the oral dose of6MP needs to be reduced by 75 % if allopurinol is given.In the case of intravenous administration, the dosage need not be changed as it escapes thefirst-pass metabolism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient developed the following lesions after 10 days of initiation of chemotherapy. Thepatient also complains of similar lesions over soles and they are sensitive to touch. Which isthe most likely agent to cause this adverse effect?",
+      "options": {
+        "A": "Cisplatin",
+        "B": "Vincristine840",
+        "C": "Capecitabine",
+        "D": "Mitomycin-C"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image depicts classical findings of hand-foot syndrome and capecitabine is commonlyassociated with this prominent side effect.Hand foot syndrome or palmar-plantar erythrodysesthesia consists of erythema, desquamation,pain and sensitivity to touch of the palms and soles.Drugs commonly implicated are:•⚫ Capecitabine850•5-Fluorouracil•Cytarabine• Pemetrexed• Doxorubicin",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q14_img1_fed19c27.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 15,
+      "question": "In which of the following patients is pemetrexed the drug of choice?",
+      "options": {
+        "A": "A patient with malignant mesothelioma",
+        "B": "A patient with small cell carcinoma",
+        "C": "A patient with stage II non-small cell lung carcinoma",
+        "D": "A patient with inflammatory breast cancer"
+      },
+      "correct_answer": "",
+      "explanation": "Pemetrexed is the drug of choice for the treatment of malignant mesothelioma. It is an antifolatedrug that belongs to the antimetabolite group.It acts by inhibiting thymidylate synthase and dihydrofolate reductase (DHFR) and prevents theformation of DNA and RNA, which are required for the growth and survival of both normal cellsand cancer cells.Pemetrexed is used for the treatment of stage IV non-small cell carcinoma along with cisplatin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient who is undergoing chemotherapy is to be started on allopurinol. Which of thesedrugs might require dose reduction?",
+      "options": {
+        "A": "6-mercaptopurine",
+        "B": "Cyclophosphamide",
+        "C": "6-thioguanine",
+        "D": "Methotrexate"
+      },
+      "correct_answer": "A",
+      "explanation": "A patient receiving allopurinol requires a dose reduction of 6-mercaptopurine.Allopurinol is a potent xanthine oxidase inhibitor that is often used in acute leukemias assupportive care to prevent the development of hyperuricemia due to tumor lysis syndrome.6-mercaptopurine is converted to an inactive metabolite (6-thiouric acid) by xanthine oxidase inthe liver and intestine. Therefore, the oral bioavailability of the 6-mercaptopurine is reducedsignificantly due to high first-pass metabolism.Concomitant allopurinol use increases 6-mercaptopurine availability which leads to toxicity,thereby mandating oral dose reduction.Note: Intravenous dosing of 6-mercaptopurine need not require any dosing adjustment whenadministered with allopurinol.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following enzymes is inhibited by pentostatin?",
+      "options": {
+        "A": "Adenosine deaminase",
+        "B": "Aldolase",
+        "C": "Adenosine aminase",
+        "D": "Adenylyl cyclase"
+      },
+      "correct_answer": "A",
+      "explanation": "Pentostatin mimics adenosine and inhibits the enzyme adenosine deaminase. Adenosinedeaminase inhibition leads to the accumulation of adenosine and deoxyadenosine nucleotides thatblocks DNA synthesis by inhibiting RNR (ribonucleotide reductase).Pentostatin also inhibits RNA synthesis, its triphosphate derivative is incorporated into DNAcausing strand breakage.It is indicated in the treatment of hairy cell leukemia.851",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 18,
+      "question": "A 50-year-old patient presented with weakness, fatigue, and abdominal discomfort. Onexamination, splenomegaly was present. Investigations revealed pancytopenia, and hisperipheral blood smear is shown below. Immunophenotype testing revealed CD11c, CD25,and CD103 positive. What is the drug of choice for this condition?841",
+      "options": {
+        "A": "Pentastatin",
+        "B": "Cladribine",
+        "C": "Fludarabine",
+        "D": "ClofarabineDo"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical scenario, characteristic immunophenotype, and the presence of hairy cells on theWright-stained peripheral blood smear point to a diagnosis of hairy cell leukaemia. Cladribine isconsidered the drug of choice for hairy cell leukemia.It is administered daily by continuous infusion for 7 days. A single course of therapy achieves acomplete response in about 80% of the patients.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q18_img1_e64bfee2.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following drugs is a topoisomerase I inhibitor?",
+      "options": {
+        "A": "Doxorubicin",
+        "B": "Irinotecan",
+        "C": "Etoposide",
+        "D": "Vincristine"
+      },
+      "correct_answer": "B",
+      "explanation": "Irinotecan is a topoisomerase I inhibitor.Doxorubicin and etoposide inhibit topoisomerase II.Vincristine is a vinca alkaloid derivative that inhibits microtubule polymerization.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is a mitotic polymerization inhibitor?",
+      "options": {
+        "A": "Vinblastine",
+        "B": "Paclitaxel",
+        "C": "Dactinomycin",
+        "D": "Gemcitabine842"
+      },
+      "correct_answer": "A",
+      "explanation": "Vinca alkaloids like vinblastine and vincristine bind to beta-tubulin and inhibit its polymerizationwith alpha-tubulin into microtubules.Paclitaxel does not inhibit polymerization, rather it stabilizes polymerization and inhibits thebreakdown of microtubules.Gemcitabine is an antimetabolite and a pyrimidine analog.Dactinomycin or actinomycin D is an actinomycin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 21,
+      "question": "A patient who was diagnosed with myocardial infarction underwent PCI and stenting withpaclitaxel coated drug-eluting stent. What is the mechanism of action of this drug?",
+      "options": {
+        "A": "Topoisomerase inhibition",
+        "B": "Increases the polymerisation of tubulin",
+        "C": "Inhibits protein synthesis",
+        "D": "Alkylation of DNA"
+      },
+      "correct_answer": "B",
+      "explanation": "Paclitaxel binds specifically to beta-tubulin and promotes the polymerization and inhibits thedisassembly of this cytoskeletal protein, resulting in the arrest of the cell cycle in M-phase.The first generation drug eluting stents used in PCI were coated with paclitaxel or sirolimus as ananti-proliferative agent. Second-generation drug-eluting stents use newer agents such aseverolimus, biolimus, and zotarolimus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 22,
+      "question": "Bone marrow suppression is not seen with which of the following drugs?",
+      "options": {
+        "A": "Vincristine",
+        "B": "Vinblastine",
+        "C": "Vinorelbine",
+        "D": "Methotrexate"
+      },
+      "correct_answer": "A",
+      "explanation": "Bone marrow suppression is not seen with vincristine. Vinblastine and vinorelbine have prominent bone marrow depression. Bone marrow sparing cytotoxic drugs are: • Vincristine • Bleomycin • L-asparaginase",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 23,
+      "question": "A 60-year-old man was diagnosed with AML and initiated on chemotherapy. During thecourse of his treatment, he develops ataxia and slurred speech. Which of the following drugscould have caused this?",
+      "options": {
+        "A": "Cisplatin",
+        "B": "Cytarabine",
+        "C": "Bleomycin",
+        "D": "Actinomycin D"
+      },
+      "correct_answer": "",
+      "explanation": "This scenario describes a case of cerebellar toxicity and cytarabine is associated with thiscondition.It is seen especially with intrathecal administration or high dose systemic use. Cerebellar toxicitymanifests as ataxia and slurred speech. Cerebral toxicity (seizures, dementia, and coma) is alsoseen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following statements is false regarding vincristine?",
+      "options": {
+        "A": "It is an alkaloid",
+        "B": "Its use is associated with neurotoxicity",
+        "C": "It does not cause alopecia",
+        "D": "It is a useful drug for induction of remission in ALL843"
+      },
+      "correct_answer": "",
+      "explanation": "Vincristine use is associated with alopecia. It is usually reversible frequently withoutdiscontinuation of the drug.Vincristine is a vinca alkaloid derivative. It is mainly indicated for induction of remission in acuteleukemias including ALL. Neurotoxicity is one of the main side effects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 25,
+      "question": "In which of the following conditions can all-trans-retinoic acid be used for treatment?",
+      "options": {
+        "A": "Acute promyelocytic leukemia",
+        "B": "Acute lymphoblastic leukemia",
+        "C": "Chronic myelogenous leukemia",
+        "D": "Chronic lymphocytic leukemia"
+      },
+      "correct_answer": "",
+      "explanation": "All-trans-retinoic acid (tretinoin) is used in the treatment of acute promyelocytic leukemia(APL). RAR-alpha and retinoid X receptor dimer binds tretinoin tightly and causes differentiationof promyelocytes resulting in decreased proliferation.As monotherapy, tretinoin induces a high rate of complete remission and in combination withanthracyclines cures most of the patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 26,
+      "question": "Which of the following antineoplastic agents is extracted from the plant shown below?",
+      "options": {
+        "A": "Epothilones",
+        "B": "Camptothecin analogs",
+        "C": "Vinca alkaloids",
+        "D": "Taxanes"
+      },
+      "correct_answer": "",
+      "explanation": "The image shown is of the periwinkle plant (Catharanthus roseus). Vinca alkaloids like vinblastineand vincristine are extracted from this plant.Sources of few other drugs are:••Epothilones - Myxobacterium Sorangium cellulosumCamptothecin analogs - Camptotheca acuminata tree• Taxanes bark of the western yew tree.-853",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q26_img1_2b2fd3dc.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 27,
+      "question": "A 60-year-old woman is diagnosed with melanoma. On examination, a palpable lymph nodewas present in the posterior triangle. Biopsy revealed presence of tumour cells. Which of thefollowing drugs used to treat this condition is a MEK inhibitor?844",
+      "options": {
+        "A": "Dabrafenib",
+        "B": "Vemurafenib",
+        "C": "Trametinib",
+        "D": "Ipilimumab"
+      },
+      "correct_answer": "",
+      "explanation": "The scenario is suggestive of metastatic melanoma and trametinib is used in this condition. It is areversible inhibitor of mitogen-activated extracellular signal regulated kinase (MEK). It inhibitsthe serine-threonine kinase domain of BRAF V600E mutant of MEK.It is widely used in the treatment of metastatic or unresectable melanoma. It can be used as asingle agent but it is more effective when used with BRAF inhibitors like dabrafenib.Adverse effects of this drug include rash, diarrhea, increased ALT, abdominal pain, stomatitis,increased AST, anemia, etc.Dabrafenib and vemurafenib are BRAF inhibitors used in metastatic melanoma.Ipilimumab is a human cytotoxic T-lymphocyte antigen 4 (CTLA-4) blocking antibody used inmetastatic or unresectable melanoma.Recent update: The FDA has approved the combination of the BRAF inhibitor encorafenib and theMEK inhibitor binimetinib for the treatment of patients with BRAF-mutant unresectable ormetastatic melanoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 28,
+      "question": "A 55-year-old woman had undergone modified radical mastectomy followed by chemotherapywith trastuzumab. She now presents with liver metastases. Which of the following drugscould be used in this condition?",
+      "options": {
+        "A": "Lapatinib",
+        "B": "Panitumumab",
+        "C": "Erlotinib",
+        "D": "Imatinib"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario depicts a case of trastuzumab-refractory breast cancer and lapatinib is used inthis condition.DrugLapatinibPanitumumabUseRefractory and metastatic breast carcinomaColorectal carcinomaErlotinibNon small cell lung carcinomaPancreatic carcinomaImatinibChronic myeloid leukemiaGastrointestinal stromal tumour854",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Cell Cycle Specific Cytotoxic Drugs"
+    }
+  ]
+}

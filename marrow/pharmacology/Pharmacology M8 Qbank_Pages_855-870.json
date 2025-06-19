@@ -1,0 +1,440 @@
+{
+  "chapter": "Non Cell Cycle Specific Cytotoxic Drugs",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is more likely to be susceptible to alkylation with a bifunctionalalkylating agent?",
+      "options": {
+        "A": "N3 of guanine",
+        "B": "N1 of adenosine",
+        "C": "N3 of adenosine",
+        "D": "N7 of guanine"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 2,
+      "question": "During a study on the cytotoxic effects of alkylating agents, you observe thatcyclophosphamide has a higher cytotoxic effect compared to procarbazine. Which property ofcyclophosphamide is the reason for this?",
+      "options": {
+        "A": "Cross-linking of DNA",
+        "B": "Methylation of DNA",
+        "C": "Additional inhibition of topoisomerase I",
+        "D": "Additional inhibition of topoisomerase II"
+      },
+      "correct_answer": "A",
+      "explanation": "Cyclophosphamide (nitrogen mustard) is a bifunctional alkylating agent and it results incross-linking of DNA that causes a major disruption in nucleic acid function and increasedcytotoxicity.Procarbazine is a monofunctional alkylating agent.Differences between bifunctional and monofunctional alkylating agents are:Bifunctional alkylating agentSUsually transfers ethyl groupto DNA resulting in cross-linkingHigher cytotoxicity because of cross-linking results in a greater threat to cellular survivalMonofunctional alkylating agentsUsually transfers a methyl group resulting in simple methylation. No cross-linking of DNAHigher carcinogenesis risk assimple methylation can be bypassed by DNA polymerasesresulting in permanent modification of DNA sequence",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 3,
+      "question": "Which among the following is not an alkylating agent?",
+      "options": {
+        "A": "Carmustine",
+        "B": "Melphalan",
+        "C": "Chlorambucil",
+        "D": "5-Flourouracil"
+      },
+      "correct_answer": "",
+      "explanation": "5-Flourouracil is a pyrimidine analogue and is an antimetabolite.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not a nitrogen mustard?",
+      "options": {
+        "A": "Mechlorethamine855",
+        "B": "Melphalan",
+        "C": "Cyclophosphamide",
+        "D": "Carmustine"
+      },
+      "correct_answer": "D",
+      "explanation": "Carmustine belongs to the nitrosourea class of alkylating agents.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 5,
+      "question": "Temozolomide is used as a first-line agent for the management of which of the followingconditions?",
+      "options": {
+        "A": "Anaplastic astrocytoma",
+        "B": "Glioblastoma multiforme",
+        "C": "Acoustic neuroma",
+        "D": "Craniopharyngioma"
+      },
+      "correct_answer": "",
+      "explanation": "Temozolomide is used as a first-line agent for the management of glioblastoma multiforme. It isused for newly diagnosed cases along with radiotherapy and also used for maintenance therapy.864Temozolomide belongs to the triazene group of alkylating agents and is administered orally. Theoral bioavailability of temozolomide is nearly 100%.In anaplastic astrocytoma, refractory cases with disease progression are treated with a regimencontaining nitrosourea and procarbazine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient is diagnosed with astrocytoma. Which of the following drugs crosses the blood brainbarrier and hence can be used for the treatment of this condition?",
+      "options": {
+        "A": "Cisplatin",
+        "B": "Lomustine",
+        "C": "Vincristine",
+        "D": "Vinblastine"
+      },
+      "correct_answer": "B",
+      "explanation": "Lomustine can cross the blood-brain barrier and is used in the management of brain tumours likeastrocytoma.Nitrosoureas like lomustine and carmustine are highly lipophilic drugs and can easily cross theblood-brain barrier. Hence, they are indicated in the management of brain tumors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following drugs is not an anthracycline antibiotic?",
+      "options": {
+        "A": "Doxorubicin",
+        "B": "Dactinomycin",
+        "C": "Mitoxantrone",
+        "D": "Epirubicin"
+      },
+      "correct_answer": "B",
+      "explanation": "Dactinomycin or actinomycin D is an actinomycin and not an anthracycline antibiotic.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 8,
+      "question": "Topical mitomycin C is used in which of the following patients?856",
+      "options": {
+        "A": "A patient with Sturge-Weber syndrome",
+        "B": "A patient with laryngotracheal stenosis",
+        "C": "A patient undergoing endoscopic treatment of angiofibroma",
+        "D": "A patient with hand-foot syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Topical mitomycin C is used in laryngotracheal stenosis.Mitomycin C is an antitumor antibiotic that inhibits cell division, protein synthesis and fibroblastproliferation. Topical mitomycin C has been shown to cause symptomatic improvement whenapplied to patients with laryngotracheal stenosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient with superficial bladder carcinoma is being treated with a drug by intravesicaltherapy. Identify this drug.",
+      "options": {
+        "A": "Actinomycin",
+        "B": "Mitomycin",
+        "C": "Cisplatin",
+        "D": "Vincristine"
+      },
+      "correct_answer": "B",
+      "explanation": "Mitomycin C is used in the treatment of superficial transitional cell carcinoma by intravesicalinstillation. It is also used in upper gastrointestinal cancers (e.g. esophageal carcinoma), analcancers, and breast cancers.Topical mitomycin C is used in:•Superficial bladder cancer• Intraperitoneal tumors.• Strabismus surgery to reduce scarring• To prevent tracheal and esophageal stenosis• Post nasal surgery synechae formation865",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient was diagnosed with acute promyelocytic leukemia and chemotherapy was initiated.The patient achieved complete remission. However, after a few months molecular relapse wasdetected. Which of the following drugs would be highly effective in this case?",
+      "options": {
+        "A": "Tretinoin",
+        "B": "Arsenic trioxide",
+        "C": "Idarubicin",
+        "D": "Cytarabine"
+      },
+      "correct_answer": "B",
+      "explanation": "Arsenic trioxide (ATO) is highly effective in relapsed or refractory acute promyelocytic leukemia(APL). It acts by enhancing reactive oxygen free radical generation in APL cells.Tretinoin and idarubicin (anthracycline) are usually first-line agents for acute promyelocyticleukemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient with osteosarcoma was initiated on chemotherapy. After a few days, he developeddysuria and hematuria. Which group of drugs among the following is most likely to havecaused this complication?",
+      "options": {
+        "A": "Alkylating agents",
+        "B": "Antimetabolites",
+        "C": "Mitotic inhibitors",
+        "D": "Topoisomerase inhibitors857"
+      },
+      "correct_answer": "A",
+      "explanation": "This scenario depicts haemorrhagic cystitis and the possible cause could be alkylating agents likeifosfamide.Chemotherapeutic agents used for the treatment of osteosarcoma include ifosfamide, which is oneof the commonest drugs causing haemorrhagic cystitis.Ifosfamide is a nitrogen mustard and belongs to the alkylating agents.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 12,
+      "question": "Hemorrhagic cystitis is a characteristic side effect of which of the following drugs?",
+      "options": {
+        "A": "Melphalan",
+        "B": "Busalfan",
+        "C": "Cyclophosphamide",
+        "D": "Procarbazine"
+      },
+      "correct_answer": "",
+      "explanation": "Hemorrhagic cystitis is a characteristic side effect of cyclophosphamide. The metaboliteresponsible for hemorrhagic cystitis is acrolein. This can be decreased by vigorous hydration andby the use of mercapto ethane sulfonic acid (mesna).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 13,
+      "question": "A 62-year-old woman with breast carcinoma is started on cyclophosphamide. What is therationale behind using sodium 2-mercaptoethanesulfonate along with this drug?",
+      "options": {
+        "A": "Increase absorption",
+        "B": "Decrease excretion",
+        "C": "Ameliorate hemorrhagic cystitis",
+        "D": "Decrease metabolism"
+      },
+      "correct_answer": "C",
+      "explanation": "Sodium 2-mercaptoethanesulfonate (MESNA) is given along with cyclophosphamide to reduce theincidence of hemorrhagic cystitis.MESNA concentrates in the bladder where acrolein accumulates after administration ofcyclophosphamide and ifosfamide. It forms a conjugate with acrolein and other urotoxicmetabolites. This conjugation reaction inactivates the urotoxic compounds to harmlessmetabolites which are excreted in the urine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following statements about ifosfamide is false?",
+      "options": {
+        "A": "Metabolised by cytochrome P450 enzymes",
+        "B": "Less neurotoxic than cyclophosphamide",
+        "C": "Chloroacetaldehyde is the metabolite of ifosfamide",
+        "D": "It is a nitrogen mustard"
+      },
+      "correct_answer": "B",
+      "explanation": "Ifosfamide is more neurotoxic than cyclophosphamide. It causes greater platelet suppression,nephrotoxicity, and urothelial damage when compared to cyclophosphamide.Ifosfamide is a nitrogen mustard (alkylating agent). It is metabolized by hydroxylation bycytochrome P450 enzymes. Chloroacetaldehyde is a metabolite of ifosfamide that is responsiblefor severe neurological adverse effects.866",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 15,
+      "question": "A 67 year old woman with a malignant lump in the breast who is undergoing chemotherapy,presents with shortness of breath, tachycardia and hypertension. ECG shows ST and T wavechanges. Which among the following drugs could have led to this?",
+      "options": {
+        "A": "Doxorubicin",
+        "B": "Mitomycin-C",
+        "C": "Bleomycin",
+        "D": "Actinomycin-D858"
+      },
+      "correct_answer": "A",
+      "explanation": "This scenario depicts Doxorubicin induced cardiotoxicity. It is a unique adverse effect ofdoxorubicin. It is an anthracycline group of anticancer antibiotics.Doxorubicin-induced cardiomyopathy takes two forms:• Acute: pericarditis-myocarditis syndrome, arrhythmias, ST and T wave changes in ECG.• Chronic: dilated cardiomyopathy.Note: Dexrazoxane is a cardioprotective iron-chelating agent that is indicated for use along withhigh dose doxorubicin to avoid cardiotoxicity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 16,
+      "question": "A 54-year-old man is diagnosed with Kaposi sarcoma. You are planning to start chemotherapywith doxorubicin, which can cause cardiotoxicity. Which of the following drugs would youprescribe to prevent this?",
+      "options": {
+        "A": "Leucovorin",
+        "B": "Mesna",
+        "C": "Dexrazoxane",
+        "D": "Dexamethasone"
+      },
+      "correct_answer": "",
+      "explanation": "Dexrazoxane is a cardioprotective iron-chelating agent that is indicated for use along with highdose doxorubicin to avoid cardiotoxicity. The exact cardioprotective mechanism of dexrazoxane isunknown and it appears not to compromise with anticancer activity of doxorubicin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 17,
+      "question": "Least cardiotoxicity is seen with which of the following anthracycline antibiotic?",
+      "options": {
+        "A": "Doxorubicin",
+        "B": "Daunorubicin",
+        "C": "Idarubicin",
+        "D": "Epirubicin"
+      },
+      "correct_answer": "",
+      "explanation": "Idarubicin has least cardiotoxicity when compared to other anthracyclines.It is approved for use in acute myeloid leukemia along with cytarabine. Doxorubicin,daunorubicin and epirubicin share similar cardiotoxicity profile.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 18,
+      "question": "While reviewing the drug chart of a patient undergoing radiotherapy, which of the followingdrugs would require a dose adjustment to prevent radiation toxicity?",
+      "options": {
+        "A": "Vincristine",
+        "B": "Doxorubicin",
+        "C": "Cyclophosphamide",
+        "D": "6-mercaptopurine"
+      },
+      "correct_answer": "B",
+      "explanation": "Doxorubicin requires dose adjustment during or after radiotherapy in order to prevent radiationtoxicity.Anthracyclines like doxorubicin can result in a radiation recall reaction, where erythema anddesquamation of skin are observed at sites of previous radiation injury. The risk of cardiotoxicityalso increases with previous irradiation. Therefore, careful monitoring and dosage adjustmentsare required for doxorubicin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 19,
+      "question": "A patient is undergoing chemotherapy for glioblastoma multiforme. You notice that his serialblood investigations reveal sustained neutropenia. Which of the following drugs could havecaused this?",
+      "options": {
+        "A": "Carmustine859",
+        "B": "Cisplatin",
+        "C": "Vinblastine",
+        "D": "Cyclophosphamide"
+      },
+      "correct_answer": "A",
+      "explanation": "Sustained neutropenia is seen with nitrosoureas. Nitrosoureas like carmustine and lomustinecause profound and delayed myelosuppression with recovery 4-6 weeks after a single dose.867",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 20,
+      "question": "A patient with Hodgkin's disease on chemotherapy with an alkylating agent developsbehavioral disturbances and experiences sedation. He presented to the emergency room witha disulfiram-like reaction. What is the drug being described here?",
+      "options": {
+        "A": "Dacarbazine",
+        "B": "Procarbazine",
+        "C": "Carmustine",
+        "D": "Lomustine"
+      },
+      "correct_answer": "B",
+      "explanation": "The most likely alkylating agent being described here is procarbazine. It is associated withbehavioural disturbances and sedation. Concomitant CNS depressants should be avoided.Procarbazine is a weak MAO inhibitor and can potentiate tyramine and catecholamines action. Italso has disulfiram-like actions and alcohol should be avoided.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 21,
+      "question": "A 50 year old man who presented with dysphagia was diagnosed with esophageal carcinomaand underwent multiple cycles of chemotherapy. During the cycles, he had developed tinglingand numbness in the lower limbs and the symptoms progressed even after cessation of thecycles. Which drug could have led to this?",
+      "options": {
+        "A": "Cisplatin",
+        "B": "Paclitaxel",
+        "C": "Mitomycin",
+        "D": "Vincristine"
+      },
+      "correct_answer": "A",
+      "explanation": "The scenario depicts coasting effect neuropathy, which is seen with cisplatin.The coasting effect means the progression of symptoms even after the cessation of the drug.Neurotoxicity is usually dependent on the cumulative dose of anticancer drugs. The severity ofneuropathy increases with the duration of treatment and progression stops once drug treatment iscompleted.Platinum compounds are an exception, where sensory loss progresses for several months aftercessation of treatment. The coasting effect is more common with cisplatin and oxaliplatin thanwith carboplatin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 22,
+      "question": "A 65 year old man who was diagnosed with small cell carcinoma of the lung had undergonechemotherapy about 5 years ago. Now he presents with features suggestive of AML. Which ofthe following drugs could have caused this condition?",
+      "options": {
+        "A": "Vinblastine",
+        "B": "Paclitaxel",
+        "C": "Cisplatin",
+        "D": "Bleomycin860"
+      },
+      "correct_answer": "C",
+      "explanation": "The scenario is suggestive of secondary leukemia which is associated with cisplatin. Cisplatin is aplatinum-containing anticancer agent that forms DNA adduct. It is associated with thedevelopment of AML usually more than 4 years after treatment.Procarbazine, a methylhydralazine (alkylating agent), is most commonly associated with thedevelopment of leukemias with a 5-10% risk of acute leukemia in patients treated with the MOPPregimen.Cisplatin produces responses in cancers of the bladder, head and neck, cervix, and endometrium;all forms of carcinoma of the lung; anal and rectal carcinomas; and neoplasms of childhood.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 23,
+      "question": "A patient who was diagnosed with gastric carcinoma is undergoing chemotherapy. His serumcreatinine levels are rising and you suspect renal tubular damage caused by one of hischemotherapeutic drugs. Which drug could it be?",
+      "options": {
+        "A": "Cisplatin",
+        "B": "Streptozocin",
+        "C": "Methysergide",
+        "D": "Cyclophosphamide"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario is suggesstive of nephrotoxicity and it is one of the dose-limiting toxicity ofcisplatin therapy. Cisplatin achieves a high concentration in nephrons. Both direct toxicity andinflammation are responsible for nephrotoxicity. A high concentration of chloride stabilizescisplatin and reduces nephrotoxicity. Therefore, chloride diuresis is used to reduce nephrotoxicity.Option B Streptozotocin use can result in diabetes mellitus due to the destruction of beta cells ofthe pancreas.Option C-Methysergide use is associated with retroperitoneal fibrosis.Option D - Cyclophosphamide causes hemorrhagic cystitis as one of its characteristic side effect.868",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 24,
+      "question": "Which among the following is a highly emetogenic anticancer drug?",
+      "options": {
+        "A": "Paclitaxel",
+        "B": "Vincristine",
+        "C": "Cisplatin",
+        "D": "5-Fluorouracil"
+      },
+      "correct_answer": "",
+      "explanation": "Cisplatin is a highly emetogenic anticancer drug. Cisplatin causes marked nausea and vomiting inalmost all cases and is usually administered along with anti-emetic regimens.This can usually be controlled with 5HT3 receptor antagonists, neurokinin (NK1) receptorantagonists (e.g., aprepitant), and high-dose corticosteroids.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 25,
+      "question": "A patient who is undergoing chemotherapy for testicular cancer, now presents with dyspneaand dry cough. Investigations suggest pulmonary fibrosis. This condition is commonlyassociated with which of the following drugs?",
+      "options": {
+        "A": "Bleomycin",
+        "B": "Cisplatin",
+        "C": "Methotrexate",
+        "D": "Actinomycin D"
+      },
+      "correct_answer": "A",
+      "explanation": "Pulmonary fibrosis is commonly seen with bleomycin. The main abnormality in bleomycin toxicityoccurs in endothelial and epithelial cells. This leads to the destruction and desquamation of type Ipneumocytes and the resultant hyperplasia of type II pneumocytes.Pulmonary toxicity begins with a dry cough, fine rales, and diffuse basal infiltrates on X-ray andmay progress to life-threatening pulmonary fibrosis. No specific treatment is available toameliorate the toxicity and managed by general symptomatic care.Note: Few case reports of methotrexate causing pulmonary fibrosis are reported. The associationis still uncertain as the underlying disease process like RA can also contribute to fibrosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 26,
+      "question": "A patient who is undergoing chemotherapy, now presents with weight gain, ascites,hepatomegaly and hyperbilirubinemia. You suspect sinusoidal obstruction syndrome. Whichdrug is the most common cause of this condition?",
+      "options": {
+        "A": "Ifosfamide",
+        "B": "Cyclophosphamide861",
+        "C": "Bleomycin",
+        "D": "Busulfan"
+      },
+      "correct_answer": "D",
+      "explanation": "Sinusoidal obstruction syndrome is most commonly associated with high-dosebusulfan. Incidence increases when coadministered with CYP inhibitors.Sinusoidal obstruction syndrome, previously known as veno-occlusive hepatic disease (VOD),involves primary hepatic sinusoidal injury that progresses to diffuse hepatocyte involvement andpanvasculitis. This leads to multi-organ failure, and can be life-threatening.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 27,
+      "question": "A patient undergoing chemotherapy was brought to the ER with seizures. He is diagnosedwith cerebrovascular accident which you suspect to be due to a drug-induced hypercoagulablestate. Which of the following drugs is implicated?",
+      "options": {
+        "A": "5-FU",
+        "B": "L-asparaginase",
+        "C": "Melphalan",
+        "D": "Carmustine"
+      },
+      "correct_answer": "B",
+      "explanation": "L-asparaginase causes a hypercoagulable state. It is an enzyme and toxicity results due to theinhibition of protein synthesis in normal tissues.Side effects of L-asparaginase:••Thrombosis and increased coagulation - physiological anticlotting factors are impaired•Hemorrhage and bleeding - clotting factors are impaired• Hyperglycemia - insulin deficiency.869",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 28,
+      "question": "Which of the following drugs causes flagellate pigmentation?",
+      "options": {
+        "A": "Bleomycin",
+        "B": "Doxorubicin",
+        "C": "Vincristine",
+        "D": "Minocycline"
+      },
+      "correct_answer": "A",
+      "explanation": "Flagellate hyperpigmentation/flagellate erythema is a characteristic cutaneous reaction totreatment with bleomycin.Clinical features include multiple linear streaks (erythematous or hyperpigmented) at sites oftrauma and generalized pruritus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    },
+    {
+      "q_no": 29,
+      "question": "Which of the following drugs cause carcinoma bladder?",
+      "options": {
+        "A": "Cyclophosphamide",
+        "B": "Cisplatin",
+        "C": "Taxane",
+        "D": "Tamoxifen"
+      },
+      "correct_answer": "A",
+      "explanation": "The only chemotherapeutic agent that has been proven to cause bladder cancer iscyclophosphamide.The risk of the bladder cancer formation is linearly related to the duration and intensity ofcyclophosphamide treatment, supporting a causative role. Phosphoramide mustard is the primarymutagenic metabolite that causes bladder cancer in patients exposed to cyclophosphamide.870",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Non Cell Cycle Specific Cytotoxic Drugs"
+    }
+  ]
+}

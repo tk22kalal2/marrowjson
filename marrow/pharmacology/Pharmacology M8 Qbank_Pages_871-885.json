@@ -1,0 +1,335 @@
+{
+  "chapter": "Monoclonal Antibodies",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Cetuximab is approved for use in which of the following conditions?",
+      "options": {
+        "A": "Palliation in head and neck cancer",
+        "B": "Anal canal carcinoma",
+        "C": "Gastric carcinoma",
+        "D": "Lung carcinoma"
+      },
+      "correct_answer": "A",
+      "explanation": "Cetuximab is approved for use in the palliation of head and neck cancer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient diagnosed with metastatic colorectal carcinoma is being treated with panitumumab.This drug acts against which of the following receptors?",
+      "options": {
+        "A": "PDGFR",
+        "B": "EGFR",
+        "C": "HER2/neu receptor",
+        "D": "VEGF receptor"
+      },
+      "correct_answer": "A",
+      "explanation": "Panitumumab is a recombinant fully-humanized monoclonal antibody that binds specifically tothe external domain of the epidermal growth factor receptor (EGFR).It is approved for use in patients with metastatic colorectal carcinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 3,
+      "question": "A 57-year-old woman is diagnosed with HER 2/neu positive breast cancer. Which of thefollowing monoclonal antibodies is indicated for the management of this patient?",
+      "options": {
+        "A": "Panitumumab",
+        "B": "Cetuximab",
+        "C": "Trastuzumab",
+        "D": "Bevacizumab"
+      },
+      "correct_answer": "",
+      "explanation": "Trastuzumab is indicated for adjuvant therapy in early and metastatic HER2 positive breastcancer.Trastuzumab is a humanized monoclonal antibody that binds to the extracellular domain ofHER2/Neu.Human epidermal growth factor receptor 2 tyrosine kinase receptor (HER-2-TK) inhibitors are:878• Lapatinib• NeratinibAnti-Her-2 monoclonal antibodies are:• Trastuzumab•• Pertuzumab",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 4,
+      "question": "A 57-year-old woman diagnosed with breast carcinoma was prescribed trastuzumab. Which ofthe following statements regarding this drug is true?",
+      "options": {
+        "A": "It is an antibody produced entirely from mouse containing no human component871",
+        "B": "It is a monoclonal antibody produced by injecting HER-2 antigen",
+        "C": "It is a polyclonal antibody",
+        "D": "It is a monoclonal antibody containing only human component"
+      },
+      "correct_answer": "B",
+      "explanation": "Trastuzumab is a humanized monoclonal antibody against the external domain of HER2/neu. Inhumanized antibodies, all components are identical to human antibodies (95% humancomponent), except the complementary region of the variable chain that contains sequences fromother species.It is indicated in the management of adjuvant therapy in early and metastatic HER-2 positivebreast cancer.Human epidermal growth factor receptor 2 tyrosine kinase receptor (HER-2-TK) inhibitors are:• Lapatinib• NeratinibAnti-Her-2 monoclonal antibodies are:•• Trastuzumab• Pertuzumab",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient was diagnosed with HER2/neu positive breast cancer and was started on adjuvanttherapy with trastuzumab. Which of the following is the most serious and dose-limitingtoxicity of this drug?",
+      "options": {
+        "A": "Nephrotoxicity",
+        "B": "Neurotoxicity",
+        "C": "Cardiotoxicity",
+        "D": "Ototoxicity"
+      },
+      "correct_answer": "C",
+      "explanation": "The most serious toxicity of trastuzumab is cardiac failure. Cardiac failure is a potentiallydisabling or fatal side effect unless recognized early and the drug is discontinued.Cardiotoxicity is caused by the interruption of HER2/4 heterodimer signaling in cardiomyocytes,which is a type of signaling that is essential for the maintenance of contractile function.Clinical correlation:• Baseline ECG and cardiac ejection fraction should be monitored to rule out underlying heartdisease• Careful clinical follow-up for signs and symptoms of CHFOther side effects include fever, chills, nausea, dyspnea, and rashes.Dose-limiting toxicities are side effects of a drug or other treatment that are serious enough toprevent an increase in dose or level of that treatment.879",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient diagnosed with wet age-related macular degeneration is being administeredranibizumab intravitreally. All of the following are known side effects of the drug, except",
+      "options": {
+        "A": "Eye pain",
+        "B": "Fall in IOP",
+        "C": "Conjunctival hemorrhage",
+        "D": "Floaters"
+      },
+      "correct_answer": "B",
+      "explanation": "Ranibizumab is associated with a raise in IOP, not a fall.Ranibizumab is a monoclonal antibody directed against VEGF-A (vascular endothelial growthfactor-A). Ranibizumab is indicated in wet age-related macular degeneration and is usedintravitreally where it inhibits VEGF-A induced ocular neovascularization.Inhibitors of VEGF and VEGFR antibodiesAnti-VEGF antibodies⚫ Bevacizumab- Ranibizumab• Brolucizumab⚫ AfilberceptAnti-VEGFR antibodiesRamucirumabVEGFR tyrosine kinaseantibodies• Sunitinib• Sorafenib• Axitinib⚫ Pazopanib• Vandetanib⚫ Lenavatinib0Vasoendothelial growthfactor (VEGF)OMARROWVEGF receptor(VEGFR)|Tyrosine kinase",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp6_img1_c525ca81.jpeg",
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 7,
+      "question": "Which among the following is the monoclonal antibody that is targeted specifically againstVEGFR?",
+      "options": {
+        "A": "Bevacizumab",
+        "B": "Ranibizumab",
+        "C": "Ramucirumab",
+        "D": "Aflibercept"
+      },
+      "correct_answer": "C",
+      "explanation": "Ramucirumab is a monoclonal antibody that binds to VEGFR-2 and inhibits the binding ofVEGFR ligands. It is indicated in NSCLC, gastric cancer and metastatic colorectal cancer.Bevacizumab, aflibercept and ranibizumab are monoclonal antibodies against VEGF ligands andnot the receptor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 8,
+      "question": "872Rituximab is not used in which of the following conditions?",
+      "options": {
+        "A": "Non-Hodgkin lymphoma",
+        "B": "Paroxysmal nocturnal hemoglobinuria",
+        "C": "Rheumatoid arthritis",
+        "D": "Systemic lupus ertythematosis"
+      },
+      "correct_answer": "",
+      "explanation": "Rituximab is used in all conditions, except paroxysmal nocturnal hemoglobinuria.Indications for rituximab include: (mnemonic- CANT MIS Ritu):• CLL• Autoimmune hemolytic anemia•Non-Hodgkin lymphoma• TTPMarginal zone lymphomas, mantle cell lymphoma, myasthenia gravis• ITP880• SLE• Rheumatoid arthritisIt is a chimeric monoclonal antibody targeted against the CD20 receptor that is present on thesurface of B lymphocytes.Ofatumumab and obinutuzumab are the other monoclonal antibodies directed against CD20receptors. They are also approved for use in CLL.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 9,
+      "question": "A 70-year-old man is found to have leukocytosis on his yearly health check-up. Furtherevaluation led to a diagnosis of chronic lymphocytic leukemia. Immunophenotyping waspositive for CD52. Which is the monoclonal antibody indicated in this condition?",
+      "options": {
+        "A": "Rituximab",
+        "B": "Alemtuzumab",
+        "C": "Cetuximab",
+        "D": "Obinutuzumab"
+      },
+      "correct_answer": "B",
+      "explanation": "Alemtuzumab is a humanized monoclonal antibody against CD52 that is indicated in themanagement of chronic lymphocytic leukemia (CLL).Rituximab and obinutuzumab are monoclonal antibodies against CD20 that are also indicated inthe treatment of chronic lymphocytic leukemia.Cetuximab is a chimeric human-mouse anti-epidermal growth factor receptor monoclonalantibody against the extracellular domain of EGFR.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following monoclonal antibodies is not a HER1 inhibitor?",
+      "options": {
+        "A": "Pertuzumab",
+        "B": "Cetuximab",
+        "C": "Necitumumab",
+        "D": "Panitumumab"
+      },
+      "correct_answer": "A",
+      "explanation": "Pertuzumab is a monoclonal antibody against the HER2 receptor.Pertuzumab is indicated in HER2-positive breast cancer in combination with trastuzumab anddocetaxel.Monoclonal antibodies against EGFR (HER1) are:• Panitumumab• Cetuximab• Necitumumab",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is a monoclonal antibody directed against PDGFR-alpha?",
+      "options": {
+        "A": "Panitumumab",
+        "B": "Pertuzumab",
+        "C": "Cetuximab",
+        "D": "Olaratumab"
+      },
+      "correct_answer": "D",
+      "explanation": "Olaratumab is a monoclonal antibody against PDGFR-alpha and blocks ligand-mediated receptoractivation. It is indicated along with doxorubicin for adult patients with soft tissue sarcoma.Panitumumab and cetuximab are monoclonal antibodies against EGFR (HER1).Pertuzumab is a monoclonal antibody against HER2.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 12,
+      "question": "873Which of the following is a bispecific monoclonal antibody?",
+      "options": {
+        "A": "Daratumumab",
+        "B": "Alemtuzumab",
+        "C": "Blinatumomab",
+        "D": "Panitumumab"
+      },
+      "correct_answer": "C",
+      "explanation": "Blinatumomab is a bispecific monoclonal antibody.881Bispecific monoclonal antibody simultaneously binds to two different types of antigen. It bindssimultaneously to CD3 on T cells and to CD19 on B cells. This links the two cells and activates Tcells to exert cytotoxic activity against CD19 B cells.Blinatumomab is approved for the treatment of Philadelphia chromosome-negative relapsed orrefractory B-cell precursor ALL.Option A: Daratumumab is a monoclonal antibody against CD-38.Option B: Alemtuzumab is a monoclonal antibody against CD-52.Option D: Panitumumab is a monoclonal antibody against EGFR.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 13,
+      "question": "A 40-year-old man who presented with fever, night sweats and weight loss was evaluated anddiagnosed with diffuse large B-cell lymphoma. Which of the following is aradioimmunoconjugate that can be used in this condition?",
+      "options": {
+        "A": "Gemtuzumab ozogamicin",
+        "B": "Brentuximab vedotin",
+        "C": "Denileukin deftitox",
+        "D": "Ibritumomab tiuxetan"
+      },
+      "correct_answer": "D",
+      "explanation": "Ibritumomab tiuxetan is a radioimmunoconjugate that is approved for use in non-Hodgkin'slymphoma. Diffuse large B-cell lymphoma is a subtype of non-Hodgkin's lymphoma.Ibritumomab is a monoclonal antibody against CD20 which is attached to the radioactive isotopeyttrium-90 using the chelator tiuxetan. Beta emission from Y-90 destroys the surroundingtissues.Radioimmunoconjugates provide targeted delivery of radionuclides to tumor cells. It is made byattaching a radioactive molecule to a monoclonal antibody.Option A: Gemtuzumab ozogamicin is a monoclonal antibody against CD33 covalently linked to asemisynthetic derivative of calicheamicin which is a potent antitumor antibiotic.Option B: Brentuximab vedotin is a monoclonal antibody against CD30 linked with microtubuledisrupting agent MMAE.Option C: Denileukin diftitox is an immunotoxin produced by genetic recombination of IL-2 andthe catalytically active fragment of diphtheria toxin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 14,
+      "question": "What is basiliximab?",
+      "options": {
+        "A": "IL-1 receptor antagonist",
+        "B": "Anti-CD3 antibody",
+        "C": "IL-2 receptor antagonist",
+        "D": "TNF inhibitor"
+      },
+      "correct_answer": "",
+      "explanation": "Basiliximab exhibits a high affinity towards IL-2 receptor and inhibits it. It is an anti- CD-25monoclonal antibody.It has a short plasma half-life of 1 week. It is used to prevent transplant rejection reactions. Itsadverse effects are anaphylactic reactions &amp; opportunistic infections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 15,
+      "question": "A 2-year-old girl was brought to the hospital by her mother with complaints of abdominalpain and diarrhea. Examination revealed a palpable abdominal mass. Investigations showedelevated levels of urinary homovanillic acid and vanillyl mandelic acid. The lesion could notbe completely resected during surgery and histopathology findings are shown in the image.Which of the following is a monoclonal antibody approved for use in this condition?874",
+      "options": {
+        "A": "Alirocumab",
+        "B": "AlemtuzumabDinutuximabd) DenosumabQuestion 16:Which of the following drugs is recently approved for the treatment of colorectal cancerarising through Lynch Syndrome?a) Ipilimumabb) Nivolumab",
+        "C": "Pembrolizumab",
+        "D": "Atezolimumab"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario and the histopathology (image) showing small round blue tumor cells withHomer-Wright pseudorosettes, point towards a diagnosis of paediatric neuroblastoma.Dinutuximab is the monoclonal antibody against glycolipid GD2 which is indicated in thiscondition.882GD2 glycolipid is expressed on neuroblastoma cells and on normal cells of neuroectodermalorigin, including the central nervous system and peripheral nerves.NeuroblastomaHomer-Wright pseudorosettes",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q15_img1_756d19ce.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp15_img1_38bbb3a9.jpeg",
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 17,
+      "question": "Pembrolizumab is not approved for use in which of the following malignancies?",
+      "options": {
+        "A": "Non-metastatic small cell lung cancer",
+        "B": "Metastatic squamous cell lung cancer",
+        "C": "Refractory classical hodgkin's lymphoma",
+        "D": "Urothelial cancer875"
+      },
+      "correct_answer": "",
+      "explanation": "Pembrolizumab is not approved for use in non-metastatic small-cell lung cancer. It is approved formetastatic small cell lung cancer (SCLC).Pembrolizumab is a monoclonal antibody (IgG4) against PD-1 and blocks interaction betweenPD-1 and its ligands PD-L1 and PD-L2. It is used in the following conditions:•Metastatic SCLC•⚫ Hodgkin's lymphoma883• Metastatic urothelial cancer• Metastatic non SCLC• Merkel cell carcinoma• Chemotherapy-refractory head and neck cancers• Refractory melanoma• Triple-Negative Breast Cancer• Esophageal Cancer• Colorectal cancer due to Lynch syndrome",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 18,
+      "question": "Which among the following is the Interleukin-5 antagonist indicated in the management ofasthma?",
+      "options": {
+        "A": "Omalizumab",
+        "B": "Lebrikizumab",
+        "C": "Reslizumab",
+        "D": "Atezolimumab"
+      },
+      "correct_answer": "",
+      "explanation": "Reslizumab is a monoclonal antibody against interleukin-5 that is approved for use insevere asthma.Option A &amp; B: Omalizumab is an anti-IgE antibody and lebrikizumab is an antibody againstinterleukin 13, which are also indicated in the management of asthma.Option D: Atezolizumab is an immune checkpoint modulator that inhibits the interaction of PD-L1with PD-1 and B7-H1. It is approved for use in metastatic urothelial cancer and for NSCLC.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is the monoclonal antibody developed against Bacillus anthracis?",
+      "options": {
+        "A": "Alemtuzumab",
+        "B": "Omalizumab",
+        "C": "Obiltoxaximab",
+        "D": "Abciximab"
+      },
+      "correct_answer": "",
+      "explanation": "Obiltoxaximab is a monoclonal antibody against the protective antigen of Bacillus anthracis.It is indicated in the treatment of inhalational anthrax due to B. anthracis in combination withappropriate antibacterial drugs. It is also indicated for prophylaxis of inhalational anthrax.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is an immune checkpoint inhibitor?",
+      "options": {
+        "A": "Alemtuzumab",
+        "B": "Denosumab",
+        "C": "Durvalumab",
+        "D": "Abciximab"
+      },
+      "correct_answer": "",
+      "explanation": "Durvalumab is an immune checkpoint inhibitor. It is an antagonist of PD-L1 which is aprotein-ligand that is present on antigen-presenting cells, T cells, B cells, and some cancer cells.Immune checkpoint inhibitors inhibit proteins that help the cancer cells evade the immuneresponse. When these proteins are blocked, the brake on the immune system is released and Tcells are able to kill cancer cells more efficiently.Durvalumab is approved for use in metastatic urothelial and Merkel cell cancer. The FDAapproved Durvalumab in combination with etoposide and either carboplatin or cisplatin asfirst-line treatment of patients with extensive-stage small-cell lung cancer.Other PD-L1 inhibitors include:• Atezolizumab884• Avelumab• Durvalumab",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 21,
+      "question": "A patient with rheumatoid arthritis has inadequate disease control with methotrexate. WhichJanus kinase inhibitor can you add to his treatment regimen?",
+      "options": {
+        "A": "Ruxolitinib",
+        "B": "Baricitinib",
+        "C": "Dasatinib",
+        "D": "Ponatinib876"
+      },
+      "correct_answer": "B",
+      "explanation": "Baricitinib is a Janus kinase inhibitor approved for use in rheumatoid arthritis.Oral Janus kinase inhibitors for rheumatoid arthritis are:• Baricitinib• TofacitinibOption A: Ruxolitinib is a Janus kinase inhibitor approved for use in various forms ofmyelofibrosis, polycythemia vera and acute graft vs host disease.Options C and D: Dasatinib and ponatinib are BCR-ABL tyrosine kinase inhibitors indicated forCML.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 22,
+      "question": "A patient has presented to the OPD with raised erythematous plaques on his arms and torsocovered in silvery scales. You decide to prescribe a monoclonal antibody targetinginterleukin-23 for treatment. Identify this drug.",
+      "options": {
+        "A": "Secukinumab",
+        "B": "Ixekizumab",
+        "C": "Brodalumab",
+        "D": "Tildrakizumab"
+      },
+      "correct_answer": "D",
+      "explanation": "The scenario described in the question points towards a diagnosis of chronic plaque psoriasis.Tildrakizumab is a monoclonal antibody directed against IL-23 used in the treatment of thiscondition.IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses.Tildrakizumab prevents the interaction of IL-23 with its receptors. It is indicated inmoderate-to-severe plaque psoriasis.Secukinumab, ixekizumab, brodalumab are other monoclonal antibodies directed against IL-17Aand indicated in moderate-to-severe plaque psoriasis.Note: Ustekinumab is a monoclonal antibody against both IL-12 and IL-23. It is used for thetreatment of Crohn's disease, ulcerative colitis, plaque psoriasis and psoriatic arthritis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    },
+    {
+      "q_no": 23,
+      "question": "Dupilumab is indicated in the management of",
+      "options": {
+        "A": "Resistant osteoporosis",
+        "B": "Moderate atopic dermatitis",
+        "C": "Guttate psoriasis",
+        "D": "Severe rheumatoid arthritis"
+      },
+      "correct_answer": "B",
+      "explanation": "Dupilumab is indicated in the treatment of moderate-to-severe atopic dermatitis.Dupilumab inhibits interleukins IL-4 and IL-13. When these interleukins are inhibited, they areunable to form complexes with their receptors. This results in a decrease in the immuneresponse including the release of proinflammatory cytokines, chemokines, and IgE.885",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Monoclonal Antibodies"
+    }
+  ]
+}

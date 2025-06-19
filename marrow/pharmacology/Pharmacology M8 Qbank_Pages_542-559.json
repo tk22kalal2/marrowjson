@@ -1,0 +1,380 @@
+{
+  "chapter": "Antifungal Agents",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is a polyene antifungal agent?",
+      "options": {
+        "A": "Capsofungin",
+        "B": "Griseofulvin",
+        "C": "Amphotericin B",
+        "D": "Terbinafine"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the site of action of amphotericin B in fungi?",
+      "options": {
+        "A": "Nucleic acid",
+        "B": "Ribosome",
+        "C": "Cell membrane",
+        "D": "Cytoplasm"
+      },
+      "correct_answer": "C",
+      "explanation": "The site of action of amphotericin B in fungi is the cell membrane.Amphotericin B binds to the ergosterol in the cell membrane of fungi and forms pores orchannels. They increase the permeability of the membrane to ions and cause leakage of cytosolicmolecules. This leads to a loss of integrity of the cell membrane and causes fungicidal effects.Recent evidence suggests that the amphotericin B sequesters ergosterol from lipid layers, muchlike a sponge, resulting in fungal cell death.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 3,
+      "question": "Which formulation of amphotericin B has the highest risk of nephrotoxicity?",
+      "options": {
+        "A": "Liposomal amphotericin B",
+        "B": "Conventional amphotericin B",
+        "C": "Amphotericin B lipid complex",
+        "D": "Amphotericin B colloidal dispersion"
+      },
+      "correct_answer": "B",
+      "explanation": "Nephrotoxicity risk is highest with conventional amphotericin B.Conventional amphotericin B (C-AMB) is not a lipid-based formulation of amphotericinB. Amphotericin B is insoluble in water, hence C-AMB is formulated by complexing with bile saltdeoxycholate to make it suitable for intravenous infusion.Nephrotoxicity risk with amphotericin B formulations in decreasing order:• C-AMB &gt; Amphotericin B lipid complex (ABLC) &gt; Liposomal amphotericin B (L-AMB)•All lipid formulations of amphotericin B (ABLC, L-AMB, ABCD) are less nephrotoxic thanconventional amphotericin BNote: Amphotericin B colloidal dispersion (ABCD) has not been compared with other lipid-basedformulations",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 4,
+      "question": "A diabetic patient presents with periorbital swelling as shown below. She complains ofsignificant visual impairment and a fungal etiology is suspected. What is the most appropriatedrug for this patient?542",
+      "options": {
+        "A": "Itraconazole",
+        "B": "Liposomal amphotericin B",
+        "C": "Ketoconazole",
+        "D": "Broad spectrum antibiotics"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario is suggestive of invasive mucormycosis in the form of orbital cellulitis.Intravenous administration of amphotericin B is the treatment of choice for invasivemucormycosis.Mucormycosis is an opportunistic infection seen in patients with diabetes mellitus, leukaemia,lymphoma and other immunocompromised states. The most prevalent species is Rhizopus Oryza.552",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q4_img1_9a1caaf7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient diagnosed with mucormycosis is being treated with intravenous amphotericin B.Following administration of the drug, he starts experiencing chills, fever and dyspnea. Thesesymptoms occur most frequently with which formulation?",
+      "options": {
+        "A": "Liposomal amphotericin B",
+        "B": "Conventional amphotericin BAmphotericin B lipid complexd) Amphotericin B colloidal dispersionQuestion 6:An immunocompromised patient with invasive mucormycosis is administered intravenousamphotericin B. Which frequently associated electrolyte disturbance would you be concernedabout?a) Hypokalemiab) Hyperkalemia",
+        "C": "Hypermagnesemia543",
+        "D": "Hyponatremia"
+      },
+      "correct_answer": "D",
+      "explanation": "Development of fever and chills following intravenous administration is suggestive ofinfusion-related reactions which occur most frequently with amphotericin B colloidal dispersions.Infusion-related adverse events are commonly seen with amphotericin B and it has beennicknamed 'shake and bake syndrome' due to the associated chills and fever.Decreasing order of frequency of infusion-related reactions with amphotericin B formulations:Amphotericin B colloidal dispersions (ABCD) &gt; conventional amphotericin B (C-AMB) &gt;amphotericin B lipid complex (ABLC) &gt; liposomal amphotericin B (L-AMB).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 7,
+      "question": "An HIV-positive patient presents with headache and nuchal stiffness. The CD4 count is 90and CSF sample with India-ink staining shows the presence of encapsulated yeast cells.Which of the following is the treatment of choice for the patient?",
+      "options": {
+        "A": "Fluconazole",
+        "B": "Amphotericin B",
+        "C": "Flucytosine",
+        "D": "Amphotericin B plus flucytosine"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario and the presence of encapsulated yeast cells in CSF with India inkstaining are suggestive of cryptococcal meningitis. Amphotericin B plus flucytosine is thetreatment of choice for this patient.Cryptococcal meningitis is an AIDS-defining opportunistic fungal CNS infection that generallyoccurs in untreated patients, with CD4+ T cell counts &lt;100/μL.In cryptococcal meningitis, amphotericin B combined with flucytosine is the current goldstandard treatment in immunocompromised patients, especially in AIDS patients.In non-immunocompetent patients, the role of additional flucytosine along with amphotericin B isless clear.Oral fluconazole is used for consolidation and maintenance therapy after two weeks of inductiontherapy with amphotericin B.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q7_img1_2479ce10.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 8,
+      "question": "Identify the wrongly matched pair of antifungals with its mechanism of action:",
+      "options": {
+        "A": "Ketoconazole : Lanosterol-14-demethylase inhibition",
+        "B": "Flucytosine Inhibits microtubule synthesis and thus hinders mitosis",
+        "C": "Terbinafine: Squalene epoxidase inhibition",
+        "D": "Amphotericin B : Sequesters ergosterol"
+      },
+      "correct_answer": "B",
+      "explanation": "Flucytosine acts by inhibition of fungal DNA synthesis.It is a pyrimidine antimetabolite. After uptake into fungal cells, fungal cytosine deaminaseactivates it to 5-fluorouracil, which is an anticancer drug. This is further converted intometabolites that inhibit thymidylate synthase which is necessary for DNA synthesis. Thus fungalDNA synthesis is inhibited. Mammalian cells are spared as they lack cytosine deaminase enzyme.553Flucytosine has clinically useful activity against (3C):•Cryptococcus• Candida speciesAgents causing chromoblastomycosis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 9,
+      "question": "544A washerman presents with itchy, annular scaly plaques in the groin. He is prescribed with anantifungal that acts by interfering with mitosis. Identify the drug.",
+      "options": {
+        "A": "Caspofungin",
+        "B": "Ciclopirox",
+        "C": "Natamycin",
+        "D": "Griseofulvin"
+      },
+      "correct_answer": "D",
+      "explanation": "Itchy annular plaques in the groin are suggestive of tinea cruris and the drug most likely givenwas griseofulvin which acts by interfering with fungal mitosis.Microtubule function is necessary for the formation of the mitotic spindle during cell division.Griseofulvin inhibits microtubule function and thereby disrupts mitotic spindle formation andinhibits cell division.Tinea cruris is a dermatophytosis involving the groin and is also known as jock itch or dhobi'sitch.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 10,
+      "question": "To which of the following patients will you not prescribe griseofulvin?",
+      "options": {
+        "A": "A middle aged man with tinea capitis",
+        "B": "A student with tinea cruris",
+        "C": "A child with tinea versicolor",
+        "D": "An athlete with tinea pedis"
+      },
+      "correct_answer": "",
+      "explanation": "Griseofulvin is not useful in the treatment of tinea versicolor. It is treated with topical azoles.Tinea capitis, tinea cruris and tinea pedis are dermatophytoses. Griseofulvin is indicated only fordermatophytoses caused by species of Microsporum, Epidermophyton, and Trichophyton. It isconsidered the drug of choice for tinea capitis in children. It is reserved only for large topical tineainfections when topical therapy is inadequate.Tinea versicolor is not a dermatophytosis. It is a superficial mycosis caused by lipophilic yeastMalassezia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following can cause contraceptive failure in a lady on oral contraceptive pills?",
+      "options": {
+        "A": "Ketoconazole",
+        "B": "Fluconazole",
+        "C": "Griseofulvin",
+        "D": "Flucytosine"
+      },
+      "correct_answer": "",
+      "explanation": "Griseofulvin is a cytochrome enzyme inducer and can cause contraceptive failure when taken withoral contraceptive pills.It induces hepatic CYP enzymes and can increase the metabolism of drugs. Warfarin metabolismis increased and the dose has to be adjusted according to the change in response. Estrogenmetabolism is also increased thereby reducing the efficacy of low-dose estrogen-based oralcontraceptives.Note: Ketoconazole is a cytochrome enzyme inhibitor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 12,
+      "question": "Fungal cell wall synthesis is altered by which of the following drugs?",
+      "options": {
+        "A": "Caspofungin",
+        "B": "Amphotericin B",
+        "C": "Nystatin",
+        "D": "Flucytosine"
+      },
+      "correct_answer": "A",
+      "explanation": "554Fungal cell wall synthesis is altered by caspofungin.1,3-ẞ-D glucan is an essential component of the fungal cell wall which maintains cellintegrity. Echinocandin group of antifungals like caspofungin, anidulafungin, and micafungin actsby inhibiting the synthesis of 1,3-ẞ-D-glucan and thereby weakens the fungal cell wall andincreases the osmotic susceptibility.Echinocandins are fungicidal against Candida species. They show fungistatic activity againstAspergillus species.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 13,
+      "question": "545What is the mechanism of triazoles?",
+      "options": {
+        "A": "Interferes with DNA and RNA synthesis",
+        "B": "Inhibition of ergosterol synthesis",
+        "C": "Forms pores in fungal membranes",
+        "D": "Inhibits epoxidation of squalene in fungi"
+      },
+      "correct_answer": "B",
+      "explanation": "Triazoles act by inhibition of ergosterol synthesis.The azole group inhibits the fungal cytochrome P450 enzyme called 14-° -sterol demethylase andresults in an impairment of conversion of lanosterol to ergosterol. This results in the depletion ofmembrane ergosterol.Azole antifungals are of two types:• Imidazoles clotrimazole, ketoconazole, luliconazole• Triazoles - itraconazole, fluconazole, voriconazole, posaconazole and isavuconazole",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient was diagnosed with coccidioidal meningitis. What is the drug of choice for thecondition?",
+      "options": {
+        "A": "Itraconazole",
+        "B": "Fluconazole",
+        "C": "Amphotericin B",
+        "D": "Griseofulvin"
+      },
+      "correct_answer": "B",
+      "explanation": "Fluconazole is the drug of choice for coccidioidal meningitis caused by Coccidioides immitisbecause of better CSF penetration.Itraconazole is also effective in this condition but it is not the drug of choice. Amphotericin B isindicated in patients in whom triazoles have failed.Note: Amphotericin B is the drug of choice for initial treatment of cryptococcal meningitis causedby Cryptococcus neoformans and fluconazole is used for maintenance therapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 15,
+      "question": "A middle aged man presents with the condition shown in the image. Which of the followingdrugs can cause this condition?",
+      "options": {
+        "A": "Fluconazole",
+        "B": "Itraconazole",
+        "C": "Ketoconazole546",
+        "D": "Voriconazole"
+      },
+      "correct_answer": "C",
+      "explanation": "The image above depicts gynecomastia and can be caused by ketoconazole due to itsantiandrogenic action.Ketoconazole use results in various antiandrogenic effects. It decreases testosterone productionand displaces testosterone from protein binding sites in plasma. It also decreases hydrocortisoneproduction, especially at higher doses. Adverse effects that can occur are gynecomastia, loss ofhair, libido, and oligozoospermia.Fluconazole, itraconazole and voriconazole do not have antiandrogenic action.555",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q15_img1_62cff83b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is not an indication for ketoconazole use?",
+      "options": {
+        "A": "Cushing's syndrome",
+        "B": "Dermal leishmaniasis",
+        "C": "Addison's disease",
+        "D": "Kala azar"
+      },
+      "correct_answer": "",
+      "explanation": "Ketoconazole is not indicated for use in Addison's disease.It is a potent nonselective inhibitor of adrenal and gonadal steroidogenesis by inhibiting 17°-hydroxylase enzymes which are involved in steroid hormone synthesis and it can hence worsenAddison's disease. However, this property also makes it useful in the treatment of Cushing'ssyndrome.Azoles interfere with leishmanial cell membrane biosynthesis and are therefore used in dermalleishmaniasis and kala-azar.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 17,
+      "question": "While administering which of the following drugs will you counsel patients regardingtransient visual and auditory hallucinations?",
+      "options": {
+        "A": "Oral voriconazole",
+        "B": "Intravenous voriconazoleOral itraconazoled) Intravenous itraconazoleQuestion 18:Omeprazole dose is reduced when given along with voriconazole because of what action of thelatter drug?a) CYP3A4 inhibitionb) CYP3A4 induction",
+        "C": "CYP2C19 inhibiton",
+        "D": "CYP2C19 induction"
+      },
+      "correct_answer": "B",
+      "explanation": "Transient visual or auditory hallucinations are commonly seen with the use of intravenousvoriconazole. These usually occur at night.Other side effects of voriconazole are:• Hepatotoxicity• Prolonged QTc interval and increased risk of torsades de pointes•Anaphylactoid reaction when given intravenously",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 19,
+      "question": "In a patient with athlete's foot, which keratolytic ointment would you prescribe to enhancetreatment outcome?",
+      "options": {
+        "A": "Benzoic acid",
+        "B": "Salicylic acid547",
+        "C": "Undecylenic acid",
+        "D": "Ciclopirox olamine"
+      },
+      "correct_answer": "B",
+      "explanation": "Salicylic acid is a keratolytic agent that can be prescribed to enhance the treatment outcome inpatients with athlete's foot (i.e. tinea pedis).Salicylic acid accelerates the desquamation of the stratum corneum. It is used in combination witha fungistatic drug called benzoic acid because eradication of infection is possible only if theinfected stratum corneum is shed. This combination is called Whitfield's ointment and is used inthe treatment of tinea pedis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 20,
+      "question": "A patient presented with multiple annular itchy skin lesions with central clearing over hisback. You may prescribe any of the following except?",
+      "options": {
+        "A": "Itraconazole",
+        "B": "Terbinafine",
+        "C": "Amphotericin B",
+        "D": "Griseofulvin"
+      },
+      "correct_answer": "",
+      "explanation": "556Pruritic annular skin lesions with central clearing are suggestive of dermatophytosis for whichamphotericin B must not be prescribed. Azoles, terbinafine, and griseofulvin are indicated for thetreatment of dermatophytosis.Dermatophytes are inhibited by amphotericin B but drug concentrations attained in the skin arevery low and ineffective for the treatment of dermatophytosis.The uses of amphotericin B are:•Treatment of choice in invasive mucormycosis•Candida albicans infection•Cryptococcus neoformans infection• Endemic mycosis",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q20_img1_0216bb58.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following drugs is not used to treat candida infections?",
+      "options": {
+        "A": "Ketoconazole",
+        "B": "Nystatin",
+        "C": "Amphotericin B",
+        "D": "Griseofulvin"
+      },
+      "correct_answer": "",
+      "explanation": "Griseofulvin is not used to treat candida infection. It is active against most dermatophytes but notagainst candida and other fungi causing deep mycosis.Ketoconazole, nystatin, and amphotericin B are used in the treatment of candida infections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following is not true about antifungal drugs?",
+      "options": {
+        "A": "Amphotericin B is more effective parenterally",
+        "B": "Griseofulvin is effective orally",
+        "C": "Ciclopirox olamine is effective in systemic mycoses",
+        "D": "Fluconazole is effective orally as well as intravenously"
+      },
+      "correct_answer": "",
+      "explanation": "Ciclopirox olamine is a topical antifungal agent and is not effective in systemic mycoses.Ciclopirox olamine is a broad spectrum fungicidal agent that acts by chelating trivalent metal ionswhich leads to inhibition of the metal-dependent enzyme that degrades free radicals. It is availableas a nail lacquer formulation in the treatment of onychomycosis.Option A: Amphotericin B is more effective parenterally for systemic mycoses. However, local ortopical administration of amphotericin B drops is used in mycotic corneal ulcers.Option B: The absorption of griseofulvin is less when administered orally but microfining the drugparticles increases the absorption.Option D: Fluconazole can be administered orally as well as intravenously.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 23,
+      "question": "Topical antifungal agents have no role in the treatment of patients with which of the followingconditions?",
+      "options": {
+        "A": "Dermatophytosis548",
+        "B": "Tinea versicolor",
+        "C": "Tinea nigra",
+        "D": "Chromoblastomycosis"
+      },
+      "correct_answer": "",
+      "explanation": "Topical antifungal agents have no role in the treatment of subcutaneous mycoses likechromoblastomycosis. Itraconazole is the first-line antifungal indicated in this condition.Topical antifungal agents are used in the treatment of:• Dermatophytosis• Candidiasis557• Piedra• Tinea versicolor•Tinea nigra• Fungal keratitis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following antifungal drugs are used topically?",
+      "options": {
+        "A": "1, 2, 3",
+        "B": "1, 3, 5",
+        "C": "1, 2, 3, 4, 5",
+        "D": "1, 3, 4, 5"
+      },
+      "correct_answer": "D",
+      "explanation": "Tolnaftate, butenafine, naftifine, and clotrimazole are used topically.Allylamine antifungals available for topical application are:• Terbinafine• Naftifine• ButenafineAzoles that are used topically are:• Clotrimazole• Miconazole• EconazoleTolnaftate is a topical synthetic antifungal agent. It distorts the mycelial growth of yeast-like fungiand molds. It is effective in the treatment of dermatomycosis and tinea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 25,
+      "question": "A 48-year-old woman presented with yellowish discolouration of toenails. The discolourationspread proximally as a streak in the nail and later, the entire nail separated from the nailbed.What is the mechanism of action of the drug of choice for her?",
+      "options": {
+        "A": "Inhibition of microtubule formation",
+        "B": "Binding to ergosterol and altering membrane functions",
+        "C": "Formation of pore in cell membrane",
+        "D": "Inhibition of ergosterol synthesis549"
+      },
+      "correct_answer": "D",
+      "explanation": "The clinical features are suggestive of tinea unguium or onychomycosis. The drug of choice is oralterbinafine which acts by inhibition of ergosterol synthesis.Terbinafine acts as a non-competitive inhibitor of squalene epoxidase, an early step enzyme in thesynthesis of fungal ergosterol. This results in the accumulation of sterol squalene which is toxic tothe organism.The efficacy of terbinafine in onychomycosis is improved when combined with amorolfine 5% naillacquer.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q25_img1_a9007b88.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 26,
+      "question": "A farmer presented with complaints of redness and excessive watering from the right eye.Slit-lamp examination reveals the following finding. Microscopy of the corneal ulcer scrapingshows branched septate hyphae. Which of the following drugs can be used in the treatment ofthis patient?",
+      "options": {
+        "A": "Nystatin 3.5%",
+        "B": "Fluconazole 0.2%",
+        "C": "Natamycin 5%",
+        "D": "Oral voriconazole"
+      },
+      "correct_answer": "C",
+      "explanation": "Slit-lamp examination showing a corneal ulcer with satellite lesions and a thick hypopyon aresuggestive of mycotic keratitis (fungal corneal ulcer) while branched septate hyphae are seenwith Aspergillus and Fusarium. Natamycin 5% suspension is the drug of choice in this condition.Treatment of fungal corneal ulcer:558• Topical antifungals: Aspergillus and Fusarium infections are treated with natamycin,amphotericin B and voriconazole while Candida infections are treated with nystatin.•Systemic antifungals: Ketoconazole or voriconazole may be needed if there is a severe cornealulcer, perforated ulcer, or suspicion of endophthalmitis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q26_img1_ae1d1c74.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    },
+    {
+      "q_no": 27,
+      "question": "Voriconazole is not effective against which of the following?",
+      "options": {
+        "A": "Candida albicans",
+        "B": "Mucormycosis",
+        "C": "Candida tropicalis",
+        "D": "Aspergillosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Voriconazole is not effective against mucormycosis.Mucormycosis is treated by amphotericin B. Posaconazole can also be used. However, other azolesare not effective against this fungus.Voriconazole is the drug of choice for the treatment of aspergillosis. It can also be used forCandida species (including glabrata and krusei), Scedosporium and Fusarium.559",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antifungal Agents"
+    }
+  ]
+}

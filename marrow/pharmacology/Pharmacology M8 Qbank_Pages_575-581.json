@@ -1,0 +1,155 @@
+{
+  "chapter": "Second Line Drugs for Tuberculosis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following drugs is not hepatotoxic?",
+      "options": {
+        "A": "Pyrazinamide",
+        "B": "Isoniazid",
+        "C": "Cycloserine",
+        "D": "Ethionamide"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 2,
+      "question": "A 24-year-old woman who was started on treatment for MDR-TB 6 months back, presentedwith complaints of fatigue, amenorrhea, and constipation since the past 1 month. Onexamination, a swelling was noticed on the anterior aspect of her neck. Her lab reports showraised TSH levels with low free T3 and T4 levels. Which anti-tubercular drug is likely to causethis adverse effect?",
+      "options": {
+        "A": "Streptomycin",
+        "B": "Pyrazinamide",
+        "C": "Cycloserine",
+        "D": "Ethionamide"
+      },
+      "correct_answer": "",
+      "explanation": "578The given clinical features and lab reports are suggestive of hypothyroidism with goiter, which is aknown adverse effect of ethionamide.MDR-TB is treated with 2nd line agents that include ethionamide (ETH). ETH is not a first-lineagent due to its gastrointestinal side effects. It is structurally related to thionamides(propylthiouracil and methimazole) and therefore causes hypothyroidism by preventingorganification of iodine in thyroid hormone synthesis. Another antitubercular drug that can causehypothyroidism is Para-amino salicylic acid (PAS).ETH/PAS-induced hypothyroidism should be treated with thyroxine replacement therapy, insteadof changing the regimen. Thyroid function usually optimizes within 2 months after completingMDR therapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the mechanism of anti-mycobacterial action of bedaquiline?",
+      "options": {
+        "A": "Inhibition of mycolic acid synthesis",
+        "B": "Inhibition of protein synthesis",
+        "C": "Inhibition of ATP synthase",
+        "D": "Inhibition of RNA synthesis"
+      },
+      "correct_answer": "",
+      "explanation": "The mechanism of anti-mycobacterial action of bedaquiline is by inhibition of ATP synthase.Bedaquiline is a diarylquinoline that targets the subunit c of the ATP synthase of M. tuberculosis.This leads to inhibition of the proton pump activity of the ATP synthase and causes a failure in thebacillary energy metabolism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 4,
+      "question": "575A 68-year-old man with hypertension was diagnosed with drug-resistant pulmonary TB. Oneweek after starting ATT he presented to the casualty following an episode of syncope. ECGshowed a corrected QT interval of 477ms, which is shown below. Which drug used in hisanti-tubercular therapy is responsible for this adverse effect?",
+      "options": {
+        "A": "Clofazimine",
+        "B": "Isoniazid",
+        "C": "Bedaquiline",
+        "D": "Para-amino salicylic acidav12V5.VE"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario along with a corrected QT (QTc) interval of 477ms is suggestive of QTcprolongation which is an adverse effect associated with bedaquiline.In the ECG QTc (corrected QT interval= QT/√RR) is 477ms. Normal QTc is about 440ms. Valuesof more than 440ms in males and 460ms in females are considered to be prolonged. QTcprolongation usually presents as syncope or cardiac arrest.Although QT prolongation can cause Torsades de pointes, no cases have been reported withbedaquiline. A 5-fold higher rate of death has been reported in patients on bedaquiline versusthose on placebo. Therefore, the World Health Organization (WHO) advises caution whenadministering this medication. Bedaquiline is contraindicated in the age group of &lt;18 years.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q4_img1_e322569e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the mechanism of action of delamanid?",
+      "options": {
+        "A": "Inhibition of ATP synthase",
+        "B": "Inhibition of mycolic acid synthesis",
+        "C": "Inhibition of DNA gyrase",
+        "D": "Inhibition of alanine racemase"
+      },
+      "correct_answer": "",
+      "explanation": "Delamanid acts by inhibiting mycolic acid synthesis.Pretomanid and delamanid are bicyclic nitroimidazoles that act by inhibiting mycolic acid (acomponent of the mycobacterial cell wall) and protein synthesis in the mycobacteria.Pretomanid in combination with bedaquiline and linezolid was approved by FDA in 2019 for thetreatment of adult patients with extensively drug-resistant (XDR) TB and for patients whoare treatment-intolerant or nonresponsive to multidrug-resistant pulmonary(MDR) TB treatment.579In India, delamanid is only approved for the management of MDR-TB.Isoniazid also acts by inhibiting mycolic acid synthesis.Other options:Option A: Bedaquiline acts by inhibition of ATP synthase. It is a diarylquinoline that targetsthe subunit c of the ATP synthase of M. tuberculosis. This leads to inhibition of the proton pumpactivity of the ATP synthase and causes a failure in the bacillary energy metabolism.Option C: Fluoroquinolones act by inhibition of DNA gyrase. They are used as second-line agentsin the treatment of tuberculosis.Option D: Cycloserine is a D-alanine analogue used as a second-line drug for MDR-TB that actsby inhibition of alanine racemase. Alanine racemase converts L-alanine to D-alanine which isneeded for the mycobacterial cell wall.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 6,
+      "question": "A 30-year-old pregnant woman was diagnosed with tuberculosis. Which of the followingantitubercular drugs should not be used in her?",
+      "options": {
+        "A": "Isoniazid576",
+        "B": "Streptomycin",
+        "C": "Rifampicin",
+        "D": "Ethambutol"
+      },
+      "correct_answer": "B",
+      "explanation": "Streptomycin should not be used for the treatment of TB in a pregnant patient as it can causehearing loss in the newborn.First-line treatment for tuberculosis in pregnancy is done with isoniazid (along with pyridoxine),rifampicin, ethambutol, and pyrazinamide.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 7,
+      "question": "An HIV-positive patient with a CD4 count of 40/mm3 requires prophylaxis against M. aviumcomplex bacteremia. Which of the following drugs would you prefer?",
+      "options": {
+        "A": "Azithromycin",
+        "B": "Dapsone",
+        "C": "Isoniazid",
+        "D": "Rifabutin"
+      },
+      "correct_answer": "A",
+      "explanation": "Azithromycin 1200 mg given once a week, is preferred for prophylactic therapy againstbacteremia caused by Mycobacterium-avium complex (MAC) in people living with AIDS.Clarithromycin 500 mg twice daily, may also be administered for prophylaxis. Rifabutin 300 mgonce daily is used for patients who are intolerant to macrolides.Prophylaxis is indicated when CD4 counts are less than 50/mm3 and should be discontinued oncethe CD4 count is more than 100/mm3.Dapsone is used as an alternative agent for prophylaxis of pneumocystis jirovecii infection,whereas isoniazid is used for prophylaxis of mycobacterium tuberculosis infection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 8,
+      "question": "An elderly woman on ART with a CD4 count of 35/µL and a high viral load presents with a 2week history of cough, fever, and night sweats. She was diagnosed with pulmonary M. aviumcomplex infection. Which of the following is not included in the triple-drug therapy for themanagement of her condition?",
+      "options": {
+        "A": "Rifabutin",
+        "B": "Isoniazid",
+        "C": "Ethambutol",
+        "D": "Clarithromycin"
+      },
+      "correct_answer": "B",
+      "explanation": "Triple drug therapy for pulmonary Mycobacterium avium complex (MAC) infections does notinclude isoniazid.Treatment for pulmonary MAC infection is triple-drug therapy with:• A rifamycin, like rifampicin or rifabutin (In HIV patients on ART, rifabutin is preferred)• Ethambutol580• A macrolide, like clarithromycin or azithromycinMAC infection is an AIDS-defining opportunistic infection, occurring predominantly at CD4+ Tcell counts of &lt;50/µL and high viral load. The average CD4+ T cell count at the time of diagnosisis 10/µL. The most common presentation is disseminated disease with fever, weight loss, andnight sweats.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient undergoing treatment for TB developed resistance to rifampicin and isoniazid after3 months. He can be treated with all the following drugs except",
+      "options": {
+        "A": "Tobramycin",
+        "B": "Amikacin",
+        "C": "Moxifloxacin",
+        "D": "Ofloxacin"
+      },
+      "correct_answer": "A",
+      "explanation": "Tobramycin cannot be used in the treatment of MDR-TB (rifampicin and isoniazid resistant) as itis not considered a second-line antitubercular drug.Injectable aminoglycosides like amikacin, kanamycin, capreomycin, and fluoroquinolones likemoxifloxacin and ofloxacin are second-line drugs used for treating MDR-TB.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    },
+    {
+      "q_no": 10,
+      "question": "577Which of the following beta lactam class has shown activity against MDR-TB?",
+      "options": {
+        "A": "Aminopenicillins",
+        "B": "Monobactams",
+        "C": "Carboxypenicllins",
+        "D": "Carbapenems"
+      },
+      "correct_answer": "D",
+      "explanation": "Carbapenems have shown activity against Mycobacterium tuberculosis.Note: Until recently beta-lactams were assumed to lack action against Mycobacteriumtuberculosis. However, carbapenems in conjunction with clavulanate have demosntratedefficacy against Mycobacterium tuberculosis.581",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Second Line Drugs for Tuberculosis"
+    }
+  ]
+}

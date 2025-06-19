@@ -1,0 +1,305 @@
+{
+  "chapter": "Anti-Diabetic Drugs - Oral",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following does not cause insulin release?",
+      "options": {
+        "A": "Rosiglitazone",
+        "B": "Nateglinide",
+        "C": "Glimepiride",
+        "D": "Tolbutamide"
+      },
+      "correct_answer": "A",
+      "explanation": "Rosiglitazone is a thiazolidinedione, which decreases insulin resistance, but does not directly cause insulin release. Nateglinide, Glimepiride, and Tolbutamide are all insulin secretagogues.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 2,
+      "question": "Insulin release due to the closure of K+ channels is seen with?",
+      "options": {
+        "A": "Repaglinide",
+        "B": "Metformin",
+        "C": "Exenatide",
+        "D": "Sitagliptin"
+      },
+      "correct_answer": "A",
+      "explanation": "651Repaglinide acts by increasing insulin secretion by blockage of ATP-sensitive K+ channels of thebeta cells of the pancreas.When ATP-sensitive K+ channels are blocked, it will lead to depolarization of beta cells and therelease of insulin.Sulfonylureas also act by this similar mechanism.Option B - Metformin is an insulin sensitizer and also inhibits gluconeogenesis and increaseshepatic uptake of glucose.Option C - Exenatide is a GLP-1 analog.Option D - Sitagliptin is a DPP-4 inhibitor.GLUT-2Glucose (diffusion)GlucokinaseGlucose-6-PhosphateOxidation↑InsulinATP--K+++Ca(Depolarizationof membrane)Closure of K* Channel (ATP sensitive)Opening of Ca** Channel (Depolarization effect)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/exp2_img1_9401f946.jpeg",
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 3,
+      "question": "A diabetic patient being treated with an oral hypoglycemic agent develops dilutionalhyponatremia. Which one of the following could be responsible for the effect?",
+      "options": {
+        "A": "Tolbutamide",
+        "B": "Chlorpropamide",
+        "C": "Glyburide",
+        "D": "Glimepiride"
+      },
+      "correct_answer": "",
+      "explanation": "Chlorpropamide use is associated with dilutional hyponatremia.It is a first generation sulfonylurea and can lead to SIADH.Along with alcohol use, it can also lead to disulfiram-like reaction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 4,
+      "question": "A 62-year-old woman presents with complaints of fatigue. She is a known case of type 2diabetes mellitus on treatment. On examination, there is pallor and knuckle pigmentation.Which of the following drugs could have caused her condition?",
+      "options": {
+        "A": "Gliclazide645",
+        "B": "Acarbose",
+        "C": "Metformin",
+        "D": "Rosiglitazone"
+      },
+      "correct_answer": "",
+      "explanation": "Metformin can cause vitamin B12 deficiency which manifests as megaloblastic anemia (pallor,fatigue) with knuckle pigmentation.The most common side effect of metformin is GI intolerance as nausea, bloating, abdominalcramps and diarrhoea.Note: The exact reason why metformin causes vitamin B12 deficiency is not known.The proposed mechanisms include:652• Alterations in small bowel motility, which stimulates bacterial overgrowth and consequentialvitamin B12 deficiency•Competitive inhibition or inactivation of vitamin B12 absorption• Alterations in intrinsic factor (IF) levels and interaction with the cubilin endocytic receptor.• Inhibition of the calcium-dependent absorption of the vitamin B12-IF complex at the terminalileum.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is incorrect regarding metformin?",
+      "options": {
+        "A": "Causes little or no hypoglycemia in non-diabetic patients",
+        "B": "Acts by increased insulin secretion",
+        "C": "Increases peripheral utilization of glucose and decreases absorption of glucose from theintestine",
+        "D": "Increase intake of calcium may prevent metformin induced B12 malabsorption"
+      },
+      "correct_answer": "",
+      "explanation": "Metformin does not act by increasing insulin secretion.It decreases insulin resistance and increases the peripheral utilization of glucose.Metformin is a biguanide that acts by activation of AMP-dependent protein kinase activation andthereby mediates a series of actions that helps in reducing hepatic glucose production.-Option A Metformin has minimal to nil effect on insulin secretion and as a result, has minimalor no hypoglycemic effect in non-diabetic patients.-Option C Metformin reduces hepatic gluconeogenesis, increases the insulin-mediated peripheralglucose uptake and also decreases the absorption of glucose from the gut.-Option D Increase intake of calcium will decrease the B12 malabsorption because metformininterferes with Ca2+ dependent B12 absorption.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the central pharmacological action of metformin in type 2 diabetes?",
+      "options": {
+        "A": "Reduction in glucose absorption",
+        "B": "Reduction in insulin resistance",
+        "C": "Reduction in hepatic glucose production",
+        "D": "Reduction in effects of glucagon"
+      },
+      "correct_answer": "B",
+      "explanation": "The central pharmacological action of metformin is to reduce hepatic glucose production byinhibiting gluconeogenesis. Metformin effect is mainly mediated through activation of AMPK andaltering the energy dynamics at mitochondrial respiration.Option A - The reduction in glucose absorption can also occur but the contribution to theantihyperglycemic action is not significantOption B - Metformin increases peripheral glucose utilization by both insulin-dependent (reducinginsulin resistance) and independent ways. But the current evidence does not support thereduction in insulin resistance as the primary mechanism of metformin's action.Option D - Recent evidence shows blunting of glucagon effects as one of the mechanisms ofmetformin's actionNote: All are mechanisms of metformin, however, the key action is Option C and it is the mostappropriate answer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 7,
+      "question": "A 58-year-old woman with chronic kidney disease with recently diagnosed Type 2 DM wasstarted on metformin therapy. Her repeat eGFR was 40/min/1.73 m2. Which of the followingis not true regarding the further management of this lady?",
+      "options": {
+        "A": "Metformin dose has to be decreased.",
+        "B": "Metformin should be discontinued and replaced with insulin.",
+        "C": "eGFR should be measured at least annually in her.",
+        "D": "eGFR is preferred over serum creatinine concentration to assess renal function for metformintherapy."
+      },
+      "correct_answer": "B",
+      "explanation": "653According to current guidelines (KDIGO 2020), metformin should be discontinued only inpatients with eGFR less than 30 ml/min/1.73 m2 or kidney failure. Metformin dose should bereduced when the eGFR is less than 45 ml/min/1.73 m2.Metformin is excreted by the kidneys, and accumulation with reduced kidney function mayincrease the risk of lactic acidosis (due to inhibition of hepatic gluconeogenesis). It iscontraindicated below eGFR&lt;30.eGFR is obtained at baseline and at least annually in all patients taking metformin. It isrecommended that the eligibility of CKD patients for metformin administration be changed fromone based on a single laboratory parameter (blood creatinine concentration) to one that provides abetter estimate of kidney function in patients with kidney disease i.e., glomerular filtration rateestimating equation (eGFR).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 8,
+      "question": "646A 13-year-old boy is diagnosed with type 2 diabetes mellitus. Which of the following drugs canbe prescribed?",
+      "options": {
+        "A": "Glimepiride",
+        "B": "Metformin",
+        "C": "Sitagliptin",
+        "D": "Pioglitazone"
+      },
+      "correct_answer": "B",
+      "explanation": "Metformin can be prescribed as it is FDA approved for medical treatment of type 2 diabetes inpediatric population as young as 10 years of age.It is available as a liquid oral formulation (100mg/ml) for pediatric use.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is incorrect regarding pioglitazone?",
+      "options": {
+        "A": "Metabolised in the liver by CYP3A4",
+        "B": "Selective agonist for the nuclear peroxisome proliferator activated receptor",
+        "C": "It can modulate the transcription of genes for carbohydrate and fat metabolism in the absenceof insulin",
+        "D": "It should be avoided in any patient with cardiovascular disease"
+      },
+      "correct_answer": "D",
+      "explanation": "Pioglitazone need not be avoided in all patients with cardiovascular disease.Pioglitazone is known to cause fluid retention and edema and is therefore avoided in patients whohave heart failure. It is not avoided in all cardiovascular diseases.Option A Pioglitazone is metabolized by CYP3A4 and CYP2C8.-Option B - Pioglitazone is a selective agonist of nuclear peroxisome proliferator-activated receptor(PPAR). It modulates the expression of genes involved in lipid and glucose metabolism, insulinsignal transduction and adipocyte differentiation. These effects increase the sensitivity of thetissues to insulin.Option C - Pioglitazone does not increase insulin levels in the body. It sensitizes the tissues to theaction of insulin. Hence, insulin is needed for the action of pioglitazone. However, it does notneed insulin to modulate the expression of genes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 10,
+      "question": "A 55-year-old diabetic man on treatment presents with complaints of difficulty reading.Fundoscopy shows the following findings. Which antidiabetic drug class is likely to causethis?",
+      "options": {
+        "A": "Thiazolidinediones647",
+        "B": "DPP-4 inhibtors",
+        "C": "SGLT-2 inhibitors",
+        "D": "Sulfonylureas"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows diabetic macular edema, with hard exudates surrounding the blood vessels. It isa rare adverse effect seen with thiazolidinediones, and it resolves when the drug is discontinued.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpharmacology/q10_img1_3a48be92.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 11,
+      "question": "An elderly man was diagnosed with hypertension 2 years ago and has been on losartan.During a routine health checkup, his HbA1c was found to be 7.3%. Which of the following is abetter alternative to losartan for this patient?",
+      "options": {
+        "A": "Irbesartan",
+        "B": "Telmisartan",
+        "C": "Candesartan",
+        "D": "Olmesartan"
+      },
+      "correct_answer": "B",
+      "explanation": "654This patient has hypertension and diabetes mellitus (HbA1c &gt;6.5% is diagnostic for diabetes).Telmisartan would be a better alternative to losartan in patients with both hypertension anddiabetes, due to its additional PPAR gamma agonist action.PPAR gamma agonists act by inducing several insulins sensitizing genes and thereby reducing theoverall insulin resistance.While other angiotensin receptor blockers have been found to have PPAR gamma action,telmisartan has the highest and has been extensively studied in diabetes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 12,
+      "question": "A 60-year-old woman with a known history of hypertension and dyslipidemia was admittedfor evaluation of recurrent TIA. On workup, she was diagnosed with diabetes mellitus. Whichof the following drugs should be avoided in the management of this patient?",
+      "options": {
+        "A": "Pioglitazone",
+        "B": "Rosiglitazone",
+        "C": "Metformin",
+        "D": "Troglitazone"
+      },
+      "correct_answer": "B",
+      "explanation": "Rosiglitazone should be avoided as it increases the risk of cardiovascular events like myocardialinfarction and stroke.It remains banned in Europe, India, and other countries. It has not been withdrawn in the US andis marketed with a black box warning of increased risk of myocardial infarction and stroke.Option A: Several studies have shown relative cardiovascular safety of pioglitazone overrosiglitazone.Option C: Metformin use is associated with decreased risk of microvascular complications indiabetes.Option D: Troglitazone was withdrawn due to increased hepatotoxicity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 13,
+      "question": "A professional boxer is diagnosed with diabetes mellitus. He is concerned about weightchanges as a side effect of anti-diabetic drugs and explains that he has to maintain his currentweight category. Which of the following will you prescribe?",
+      "options": {
+        "A": "Pioglitazone",
+        "B": "Saxagliptin",
+        "C": "Liraglutide",
+        "D": "Gliclazide648"
+      },
+      "correct_answer": "B",
+      "explanation": "Saxagliptin, a DPP-4 inhibitor, can be prescribed for this patient as it has a weight-neutral effect.Note: *Metformin classification is a bit difficult. It can cause mild weight loss in some patients butfew authorities do consider metformin as weight neutral.EFFECTWeight gainWeight lossWeight neutralDRUGSSulfonylureas, Insulin, ThiazolidinedionesGLP-1 analogues, Pramlintide, SGLT-2 inhibitors. Metformin*Alpha-glucosidase inhibitors,DPP-4 inhibitors",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 14,
+      "question": "In a middle-aged diabetic patient with chronic kidney disease stage 5, which of the followingdrugs can be given safely without altering the dose?",
+      "options": {
+        "A": "Vildagliptin",
+        "B": "Linagliptin",
+        "C": "Saxagliptin",
+        "D": "Sitagliptin"
+      },
+      "correct_answer": "B",
+      "explanation": "Linagliptin can be given safely without altering the dose for this patient.655Linagliptin is a dipeptidyl-peptidase-4 (DPP-4) inhibitor and is eliminated by the hepatobiliaryroute. Hence no dosage adjustment is needed in renal failure.It is used in type 2 diabetes as monotherapy or as combination therapy with other drugs whenmetformin is not tolerated or contraindicated.Other DPP-4 inhibitors like sitagliptin, vildagliptin, saxagliptin, alogliptin show renal elimination.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is not true about dapagliflozin?",
+      "options": {
+        "A": "It is indicated in heart failure",
+        "B": "It causes weight gain",
+        "C": "It is effective orally",
+        "D": "It will increase the risk of fractures"
+      },
+      "correct_answer": "B",
+      "explanation": "Dapagliflozin does not cause weight gain. It results in weight loss.It acts by inhibiting the SGLT2 (sodium glucose-2) transporter, which is present on the proximalsegment of the renal tubule and responsible for the reabsorption of 80-90% of filtered glucose.It inhibits glucose reabsorption resulting in glycosuria and a decrease in blood glucose level. It iseffective orally.The common adverse effects include urinary tract infections and genital mycotic infections due tothe high glucose content of the urine and also the high risk of fractures.Other SGLT2 inhibitors include empagliflozin, canagliflozin, and ertugliflozin.Note: Empagliflozin has been found to decrease the risk of mortality from cardiovascular causes indiabetic patients. Dapagliflozin has been recently approved by the FDA for the treatment of heartfailure with reduced ejection fraction (HFrEF) in both diabetic and non-diabetic patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient with diabetes mellitus came to the OPD with a history suggestive of recurrentepisodes of hypoglycemia. She was recently put on combination therapy. Her symptoms areleast likely to be caused by which of the following drugs?",
+      "options": {
+        "A": "Acarbose",
+        "B": "Insulin",
+        "C": "Gliclazide",
+        "D": "Repaglinide"
+      },
+      "correct_answer": "A",
+      "explanation": "Acarbose is least likely to cause hypoglycemia among the given options.It is an alpha-glucosidase inhibitor. It inhibits the intestinal degradation and absorption of starchand disaccharides and thereby lowers the postprandial rise in glucose levels.It has no role in stimulating insulin secretion and is therefore, least likely to cause hypoglycemiaduring monotherapy.Insulin and insulin secretagogues like sulfonylureas (gliclazide) and meglitinides (repaglinide) canresult in hypoglycemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 17,
+      "question": "While at a bakery, a man complains of giddiness and palpitations. As the only doctor there,you're asked for help. The man says he had just taken his diabetic medications and shows aprescription listing insulin and acarbose. What would you give for immediate management?",
+      "options": {
+        "A": "Honey",
+        "B": "Bread649",
+        "C": "Sugar",
+        "D": "Cake"
+      },
+      "correct_answer": "A",
+      "explanation": "Giddiness and palpitations after taking insulin and acarbose are suggestive ofhypoglycemia. Honey is the most suitable agent among the given options for the management ofhypoglycemia in a patient who is on acarbose therapy.Acarbose is an alpha-glucosidase inhibitor. It inhibits the intestinal degradation of starch anddisaccharides into glucose. Honey contains monosaccharides (fructose and glucose) that do notneed to be broken down and are directly absorbed and would be beneficial in hypoglycemia656caused by alpha-glucosidase inhibitors. However, glucose or dextrose tablets is recommendedwhen available.While alpha-glucosidase inhibitors themselves do not cause hypoglycemia, the risk ofhypoglycemia is increased when they are taken along with insulin or insulin secretagogues.Disaccharides and complex carbohydrates will not be completely broken down and absorbed in apatient who is on alpha-glucosidase inhibitors.Option B - Bread predominantly contains complex carbohydrates like starchOption C - Sugar contains sucrose, a disaccharideOption D Cake contains sugar (disaccharide) and other complex carbohydrates",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 18,
+      "question": "A 52-year-old diabetic patient presented to the ED with complaints of chest pain on exertion.Laboratory tests showed dyslipidemia and features of metabolic syndrome. Which of thefollowing drugs was recently approved for this condition?",
+      "options": {
+        "A": "Aleglitazar",
+        "B": "Saroglitazar",
+        "C": "Muraglitazar",
+        "D": "Rosiglitazone"
+      },
+      "correct_answer": "B",
+      "explanation": "Saroglitazar is a dual PPAR alpha/gamma agonist and is approved for diabetic dyslipidemia onlyin India.Peroxisome proliferator-activated receptors (PPARs) are a superfamily of nuclear receptorsinvolved in the regulation of energy homeostasis and metabolic function. It has three subtypes:••PPAR° - reduces triglyceride level•PPARY causes insulin sensitization-• PPARS - enhances fatty acids metabolismOf the three PPAR isoforms, synthetic pharmaceutical ligands that activate PPARalpha (theantidyslipidemic fibrates) and PPARgamma (the antidiabetic thiazolidinediones) have beenstudied extensively. Recently developed dual PPARalpha/gamma agonists combine the therapeuticeffects of these drugs to be used in type 2 diabetes with dyslipidemia.Options A and C - Aleglitazar and muraglitazar are also dual PPAR alpha/gamma agonists buttheir development was halted due to increased risk of cardiovascular mortality.Option D - Rosiglitazone is a PPAR gamma agonist indicated in type 2 diabetes mellitus. It hasbeen withdrawn from many countries including India due to increased cardiovascular mortality.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is approved as an adjunctive treatment for type 2 diabetes mellitus?",
+      "options": {
+        "A": "Bromocriptine",
+        "B": "Phenytoin",
+        "C": "Ropinirole",
+        "D": "Metoclopromide"
+      },
+      "correct_answer": "A",
+      "explanation": "Bromocriptine is a dopamine agonist that has been approved as an adjunctive treatment fordiabetes mellitus.The exact mechanism is unknown but may involve alteration in circadian (hypothalamic) controlof blood glucose levels. A fast-release, low-dose formulation of bromocriptine is approved for type2 diabetes that has to be administered within 3 hours of awakening.Option B - Phenytoin is a Na+ channel blocker and is an antiepileptic drugOption C - Ropinirole is an antiparkinsonian drug that is a dopamine agonist and is also approvedfor treatment of restless leg syndrome657Option D Metoclopramide is a 5HT4 agonist and D2 blocker and used as an antiemetic agent",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    },
+    {
+      "q_no": 20,
+      "question": "A 54-year-old woman comes to the diabetic clinic for follow up. Her lipid profile shows highLDL cholesterol. Which bile acid sequestrant would you prescribe for her?",
+      "options": {
+        "A": "Colesevelam",
+        "B": "Colestipol",
+        "C": "Cholestyramine",
+        "D": "Ezetimibe"
+      },
+      "correct_answer": "A",
+      "explanation": "Colesevelam can be prescribed for her as it is the only bile acid sequestrant that is specificallyapproved for the treatment of type 2 diabetes mellitus.It is used to reduce LDL cholesterol and improve glycemic control in diabetics.658",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anti-Diabetic Drugs - Oral"
+    }
+  ]
+}
