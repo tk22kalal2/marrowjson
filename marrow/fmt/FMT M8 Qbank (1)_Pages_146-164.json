@@ -1,0 +1,350 @@
+{
+  "chapter": "Thermal Injuries",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a thermal injury?",
+      "options": {
+        "A": "Lightning stroke",
+        "B": "Burns",
+        "C": "Electrical injuries",
+        "D": "Gunshot"
+      },
+      "correct_answer": "D",
+      "explanation": "A gunshot wound is a mechanical or penetrating injury, not a thermal injury.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 2,
+      "question": "A person is considered to be hypothermic when their temperature falls below:",
+      "options": {
+        "A": "30° C",
+        "B": "32° C",
+        "C": "34° C",
+        "D": "35° C"
+      },
+      "correct_answer": "B",
+      "explanation": "Hypothermia occurs when the body's core temperature drops below 35°C. Mild hypothermia - Core temperature 32 to 35°C (90 to 95°F). Moderate hypothermia - Core temperature 28 to 32°C (82 to 90°F). Severe hypothermia - Core temperature below 28°C (82°F).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 3,
+      "question": "Temperature regulation by the hypothalamus completely fails below which body temperature?",
+      "options": {
+        "A": "28 °C",
+        "B": "34 °C",
+        "C": "32 °C",
+        "D": "30 °C"
+      },
+      "correct_answer": "D",
+      "explanation": "Once the body temperature has fallen below about 85°F (30 °C), the ability of the hypothalamus to regulate temperature is lost. For each 10 °F decrease in body temperature, the rate of chemical heat production in each cell is depressed almost twofold. This is the reason for diminished temperature regulation. Sleepiness followed by coma depresses the activity of the CNS heat control mechanisms and prevents shivering.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 4,
+      "question": "An elderly man was brought to the OPD with cold hands and feet. He was found unconscious in a snowstorm near his village. On examination, his temperature showed 32.5°C. Which among the following is least likely to develop in this patient?",
+      "options": {
+        "A": "Pulmonary edema",
+        "B": "Gastric erosions",
+        "C": "Acute pancreatitis",
+        "D": "Extradural hematoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Extradural hematoma is not a common finding in patients with hypothermia. Autopsy findings of hypothermia: • Pink discoloration of the skin - due to persistent oxyhemoglobin in the skin capillaries. • Acute gastric erosions - The stomach mucosa is frequently studded with numerous shallow ulcers called Wischnewski spots. The floor of each spot contains a dark brown plug of altered blood. • Acute pancreatitis - present in less than half the deaths from proven hypothermia. • Pulmonary edema. • Perivascular hemorrhages. The image below shows Wischnewski spots: Note: A condition resembling extradural hematoma may be found in burns patients, called heat hematoma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp4_img1_7c8974f1.jpeg",
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 5,
+      "question": "A body of a hiker is found naked on a snow trail. It is hypothesized that he actively undressed just minutes prior to his death. Which of the following statements regarding this phenomenon is true?",
+      "options": {
+        "A": "Indicator of mild to moderate hypothermia",
+        "B": "Associated with increased carbon monoxide in circulation",
+        "C": "Always associated with hide-and-die syndrome",
+        "D": "The mechanism is that of peripheral vasodilation"
+      },
+      "correct_answer": "D",
+      "explanation": "The given phenomenon of paradoxical undressing is likely due to peripheral vasodilation. It is a phenomenon encountered in severe hypothermic states. It is characterized by the act of active undressing, despite low ambient temperatures. Proposed mechanisms are: • Reflex vasoconstriction, which happens in the first stage of hypothermia, leads to paralysis of the vasomotor center thus giving rise to the sensation that the body temperature is higher than it really is. • Vasodilatation happens when cold-induced paralysis of the nerves in the vessel walls gives an absurd feeling of heat. Other associated features include: • Bruises and scratches of the knees, shanks, and upper limbs caused by late-phase attempts at crawling. • The hide-and-die phenomenon in some cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 6,
+      "question": "An elderly woman was found dead during winter in her wardrobe. On house inspection, the heater was found to be broken. She was also identified to be a known case of hypothyroidism. Which of the following most likely explains her scenario?",
+      "options": {
+        "A": "Myxedema coma",
+        "B": "Terminal burrowing behaviour",
+        "C": "Paradoxical undressing",
+        "D": "Sudden cardiac arrest"
+      },
+      "correct_answer": "B",
+      "explanation": "The most likely explanation for the given scenario is terminal burrowing behaviour or hide and die syndrome. An elderly lady with hypothyroidism is more likely to develop hypothermia. About 20% of hypothermia cases are associated with terminal burrowing behaviour. In some cases, the bodies were found in strange situations, i.e., lying under a bed, behind a wardrobe, or on a shelf, etc., indicating that the final positions were a kind of self-protective burrowing-like behaviour.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 7,
+      "question": "A farmer suddenly collapsed on a hot summer afternoon after working on the field since morning. On examination, his pupils were constricted, associated with dry, hot, flushed skin and no sweating. This is seen at a core body temperature above:",
+      "options": {
+        "A": "40.5° C",
+        "B": "38.5° C",
+        "C": "39.5° C",
+        "D": "41.5° C"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario is suggestive of heatstroke, and a core temperature >40.5°C helps establish the diagnosis. As body core temperature rises, excessive cutaneous vasodilation can lead to a fall in arterial pressure and therefore to a decrease in brain perfusion. This leads to a total loss of thermoregulatory function. As core temperature approaches 41ºC, sweating stops, confusion and, ultimately, loss of consciousness occurs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following scoring systems is used to assess the risk of mortality in a burn patient?",
+      "options": {
+        "A": "Glasgow score",
+        "B": "Flinn score",
+        "C": "Baux score",
+        "D": "Rockall score"
+      },
+      "correct_answer": "C",
+      "explanation": "The Baux score was used for many years to predict mortality in burns. Baux score: Mortality risk = age + %TBSA. Advancements in burn care have lowered overall mortality to the point that the Baux score may no longer be accurate. However, age and burn size, as well as inhalation injury, continue to be the most robust indicators for burn mortality.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements about burns is true?",
+      "options": {
+        "A": "Minimum temperature for producing a burn is 42°C for 5-6 hours",
+        "B": "Minimum temperature for producing a burn is 40°C for 3 hours",
+        "C": "Minimum temperature for producing a burn is 44°C for 5-6 hours",
+        "D": "Minimum temperature for producing a burn is 44°C for 3 hours"
+      },
+      "correct_answer": "C",
+      "explanation": "The lowest temperature that causes burn damage is 44°C and requires 5-6 hours before a burn appears.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 10,
+      "question": "The three-stage classification of burns was provided by:",
+      "options": {
+        "A": "Dupuytren",
+        "B": "Wilson",
+        "C": "Heister",
+        "D": "Rockall"
+      },
+      "correct_answer": "B",
+      "explanation": "The three-stage classification of burn degrees was provided by Wilson. Wilson's classification of burns: • First degree - Erythema and blistering without loss of dermis • Second degree - Destruction of the full thickness of skin • Third degree - Destruction of deeper tissues below the skin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 11,
+      "question": "Which among the following is the most precise method of estimation of burn surface area?",
+      "options": {
+        "A": "Wallace's rule of nines",
+        "B": "Lund-Browder chart",
+        "C": "Parkland formula",
+        "D": "Dupuytren's classification"
+      },
+      "correct_answer": "B",
+      "explanation": "The Lund-Browder burn diagram is the most precise method of estimation of burn surface area in children and adults. This allows an accurate age-adjusted determination of burn size for a given depth, allowing for the anatomical differences of children. Methods of estimation of burn surface area: Rule of nines (Wallace) - It divides the body into segments that are approximately 9% or multiples of 9%, with the perineum forming the remaining 1%. Because of the proportionately larger heads and smaller legs of infants and children, this method must be modified in pediatric burn injuries. Use of patient's hand - The area of the back of the patient's hand is approximately 1% of their total body surface area. The number of 'hands' that equal the area of the burn can approximate the percentage of body surface area burned.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp11_img1_8bdadabe.jpeg",
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 12,
+      "question": "What is the primary cause of late mortality in burns?",
+      "options": {
+        "A": "Laryngeal edema",
+        "B": "Multi-organ failure",
+        "C": "Hypovolemic shock",
+        "D": "Electrolyte imbalance"
+      },
+      "correct_answer": "B",
+      "explanation": "The primary cause of late mortality in burns is septicemia and multi-organ failure. The primary cause of early mortality in burns is burn shock. The term burn shock describes the rapidly developing hypovolemic circulatory failure seen in the first 72 hours after burns.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 13,
+      "question": "An autopsy was done on a burn victim. Which of the following is a reliable indicator that the victim was alive while the fire was in progress?",
+      "options": {
+        "A": "Vital reaction in the burned area",
+        "B": "Redness of the exposed skin surface",
+        "C": "Elevated carboxyhemoglobin levels",
+        "D": "Blistering of the skin"
+      },
+      "correct_answer": "C",
+      "explanation": "Elevated levels of carbon monoxide in the circulating blood and carbon particles in the air passages and lungs are reliable indicators suggesting that the victim was alive while the fire was in progress. The carbon monoxide concentration in blood depends on various factors like the concentration of carbon monoxide in the air, blood hemoglobin level, duration of exposure, etc. The presence of carbon particles and elevated carboxyhemoglobin levels are absolute proof that the victim was alive when the fire occurred. Though there is no definite level that confirms the presence or absence of carboxyhemoglobin in the blood, a level of 10% is needed to confirm unless the person is a heavy smoker.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 14,
+      "question": "In which of the following injuries is the pugilistic attitude of the victim seen?",
+      "options": {
+        "A": "Electrical injury",
+        "B": "Lightning injury",
+        "C": "Burn injury",
+        "D": "Blast injury"
+      },
+      "correct_answer": "C",
+      "explanation": "The attitude of general flexion called the pugilistic attitude is seen in a burn victim. Muscle contractures are common where substantial heat has reached the body. The muscle becomes shortened by dehydration and protein denaturation. The flexors, being bulkier than the extensors, contract more and force the limbs into a position of general flexion, the so-called boxer's or pugilistic attitude.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 15,
+      "question": "A victim who allegedly died in a fire at his house was brought in for an autopsy. On examination, he has wounds that appear like lacerations on his forehead and extensor surfaces. There is no sign of bleeding within the deeper tissues in the wound. Which of the following can be an indicator of homicidal death?",
+      "options": {
+        "A": "There is no evidence",
+        "B": "Lacerated-looking wounds",
+        "C": "Bleeding in the epidural space",
+        "D": "Elevated HbCO in the blood of the heat hematoma"
+      },
+      "correct_answer": "D",
+      "explanation": "In the above scenario, there is no evidence that indicates the victim may have died from a homicidal injury, and that the fire may have been used to cover up the crime. The lacerated-looking wounds found in this victim are spurious findings commonly found in burn victims. Spurious wounds in burns: • Skin splits - Heated skin contracts markedly and splits often appear. These splits may be anywhere but are especially seen over extensor surfaces and joints, as well as on the head. The false split will show no bleeding in the deeper tissues and its position is usually suggestive. • Heat hematoma - the mass of blood resembling a true extradural hematoma may form between the skull and the dura. This may arise either from venous sinuses or out of the diploic space in the skull through emissary venous channels. If death occurred during the fire (antemortem), levels of carboxyhemoglobin will be elevated in the blood and the heat hematoma. If the victim died before the fire (postmortem), the levels of carboxyhemoglobin will be little to none.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following statements about heat fractures of the skull is false?",
+      "options": {
+        "A": "It resembles a spider-web fracture",
+        "B": "Seen at the base of the skull",
+        "C": "It requires 20 minutes of heat application",
+        "D": "It does not involve the suture lines"
+      },
+      "correct_answer": "B",
+      "explanation": "Heat fractures of the skull are most commonly seen at the sides of the skull, usually bilaterally. Fractures to the base of the skull are unheard of in the case of thermal fractures and should be considered to be an antemortem injury. Heat fractures of the skull take approximately 20 minutes of heat application before the skull starts to crack. The pattern of fracture commonly resembles a spider web. They may cross the suture line but usually do not involve the sutures, even in young persons with un-united sutures.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 17,
+      "question": "In a 45-year-old man with a history of burns, the following finding was seen. What is the most likely diagnosis?",
+      "options": {
+        "A": "Curling ulcer",
+        "B": "Marjolin's ulcer",
+        "C": "Basal cell carcinoma",
+        "D": "Cushing's ulcer"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows a 'Marjolin ulcer', which is a rare type of SCC (squamous cell carcinoma) that arises in sites of chronic wounds or scars. The malignant transformation is slow, with an average latency time of approximately 30 years. The tumor may initially present as: • Ulceration • Nodules • Rolled or everted wound margins • Excessive granulation tissue • A rapid increase in size • Bleeding on touch.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q17_img1_a46e08b4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 18,
+      "question": "In which of the following conditions can Curling's ulcer be seen?",
+      "options": {
+        "A": "Head injury",
+        "B": "Burn victims",
+        "C": "Electrical injury",
+        "D": "Abdominal trauma"
+      },
+      "correct_answer": "B",
+      "explanation": "Curling's ulcers are seen in burn victims. This is seen due to intravascular depletion leading to mucosal ischemia and disruption of the protective mucosal barrier. H2-receptor antagonists or PPIs have proved effective against the development of stress gastritis. Note: Brain tumors, traumatic head injury, and other intracranial processes, including infections, can cause increased intracranial pressure. This leads to overstimulation of the vagus nerve. As a result, increased secretion of gastric acid may occur, which leads to gastro-duodenal ulcer formation known as Cushing's ulcer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 19,
+      "question": "A patient presents with a skin lesion, as shown in the image below. Which of the following is least likely to cause it?",
+      "options": {
+        "A": "Steam",
+        "B": "Chemical fire",
+        "C": "Hot water",
+        "D": "Molten rubber"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows a scald injury. A chemical fire is going to cause a burn, not a scald. Scalds are sharply demarcated lesions with reddening, desquamation, and blistering. When tipped or splashed, the hot liquid runs under gravity so that trickle patterns may be seen. It is caused due to tissue damage from hot liquids like: hot water, hot oils, molten rubber, liquid chemicals, and steam.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q19_img1_e3a94130.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 20,
+      "question": "A lineman working on an electric pole suffered an electrical injury. Which of the following statements is false about this condition?",
+      "options": {
+        "A": "The most common cause of death is ventricular fibrillation ending in cardiac arrest",
+        "B": "The most dangerous contact path is entry through the right hand and exit through the opposite feet",
+        "C": "With repeated exposure, tolerance develops to electric shock",
+        "D": "Direct current is more damaging than alternating current"
+      },
+      "correct_answer": "D",
+      "explanation": "Alternating current is more damaging than direct current. It has been claimed that the most dangerous current path is contacted with the right hand and exits through the left foot, as this causes the maximum of the total body current to flow through the heart, when compared with head to feet, left hand to feet, hand to hand, or foot to foot. Most deaths from electricity are from cardiac arrhythmias, usually ventricular fibrillation ending in cardiac arrest. It is commonly said that tolerance can be gained to electric shock and that professional electricians often work on live 240 V conductors with impunity. Pathways of current in electrocution: respiratory muscle paralysis, 'hold-on' muscle spasm, entry mark - 240V, COMA, 600V cable, paralysis of respiratory centres, ventricular fibrillation, path of current, exit of current.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp20_img1_115de7c8.jpeg",
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 21,
+      "question": "While performing an autopsy on a burn victim, the following cutaneous findings were noted. What is the term used to describe these burns?",
+      "options": {
+        "A": "Crocodile skin",
+        "B": "Joule burn",
+        "C": "Spark lesion",
+        "D": "Filigree burn"
+      },
+      "correct_answer": "D",
+      "explanation": "The term used to describe the burns shown in the image is filigree burn or arborescent burn or Lichtenberg's flower or feathering. It is a finding in burns due to lightning. The fern-like pattern of erythema in the skin indicates the path taken by the electrical discharge. It usually occurs over the shoulder or the flanks within an hour of the injury and disappears in a day or two. It occurs due to the rupture of small vessels and is seen in a fern-like pattern or the branching of a tree. Option B: When the skin is in firm contact with an electrical conductor, splitting of the layers of the epidermis or those of the epidermal-dermal junction occurs. This may in turn produce a raised blister known as a Joule burn. Option C: When the contact is less firm, an air gap is formed between the skin and the conductor. Thus, the current traverses the gap as a spark. This leads to a distinct hard brownish keratin nodule raised above the surrounding surface known as a spark lesion. Option A: The crocodile skin effect is caused by high-tension current burns, where the voltage is in the multi-kilovolt range, sparking may occur over many centimeters. This can cause multiple spark lesions, giving rise to a crocodile-skin effect.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q21_img1_c72be512.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp21_img1_a1d9910b.jpeg",
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following features of electrical injury will develop if the contact with the electrocuting surface is poorly established?",
+      "options": {
+        "A": "Crocodile skin",
+        "B": "Joule burn",
+        "C": "Bone pearl",
+        "D": "Spark lesion"
+      },
+      "correct_answer": "D",
+      "explanation": "When the contact with the electrocuting surface is not firm, the skin lesion that develops is called a spark lesion. When the contact is less firm, an air gap (albeit narrow) exists between skin and conductor; the current jumps the gap as a spark. This causes the outer skin keratin to melt over a small area. On cooling, the keratin fuses into a hard brownish nodule, usually raised above the surrounding surface. Various skin lesions in electrical injury: • When the skin has been in firm contact with an electrical conductor, this may split the layers of the epidermis or the epidermal-dermal junction and produce a raised blister called Joule burns. • In high-voltage burns, such as those sustained from high-tension grid transmission cables, where the voltage is in the multi-kilovolt range, sparking may occur over many centimeters. This can cause multiple spark lesions giving rise to a 'crocodile-skin' effect. • The heat generated by the current may melt the calcium phosphate, which is radiologically seen as typical round dense foci called 'bone pearls' or 'wax drippings'.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    },
+    {
+      "q_no": 23,
+      "question": "The 'hold-on effect' is characteristically seen in",
+      "options": {
+        "A": "Pugilistic attitude",
+        "B": "Immersion foot",
+        "C": "Electrical injury",
+        "D": "Lightning injury"
+      },
+      "correct_answer": "C",
+      "explanation": "The hold-on effect is seen in electrical injuries. When the entry point is in the hand, the stronger flexor muscles of the arm go into spasm and cause a hold-on effect. Any object being held in the hand is involuntarily clenched and the current thus continues to flow.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Thermal Injuries"
+    }
+  ]
+}

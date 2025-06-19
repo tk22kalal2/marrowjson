@@ -1,0 +1,380 @@
+{
+  "chapter": "Poisoning: General Considerations",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the science dealing with toxins produced by animals, plants, and microbes called?",
+      "options": {
+        "A": "Toxicology",
+        "B": "Toxology",
+        "C": "Toxinology",
+        "D": "Ecotoxicology"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following substances are irritant poisons?",
+      "options": {
+        "A": "1, 4 and 5",
+        "B": "2, 3 and 5",
+        "C": "3 and 4",
+        "D": "4 and 5"
+      },
+      "correct_answer": "",
+      "explanation": "Phosphorus and lead are inorganic irritant poisons.Sodium hydroxide, ammonia, and sulphuric acid are all corrosive poisons.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is considered as an ideal homicidal poison?",
+      "options": {
+        "A": "Thallium",
+        "B": "Arsenic",
+        "C": "Aconite",
+        "D": "Strychnine"
+      },
+      "correct_answer": "C",
+      "explanation": "Thallium is considered an ideal homicidal poison because poisoning with thallium resemblesnatural death.When considering suicide with poison, the suicide victim prefers to terminate life as quickly aspossible with the least agony. Whereas for an act of homicide with poison, the criminal would liketo kill his victim without creating any suspicion in the mind of the victim or people around.Following are the characteristics of ideal suicidal and homicidal poisons:Thallium and organic compounds of fluorine satisfy some of the criteria for an ideal homicidalpoison.Arsenic and aconite are commonly used as homicidal poisons but are not considered idealhomicidal poisons.Note: Though no single poison would fulfill all the characteristics mentioned in the table givenabove, a few examples mentioned are often considered.CharacteristicsSuicidalHomicidalAccessibility to the poisonAntidotes availabilityEasy and freeNilNot particularNilClinical diagnosisDifficultCost of the poisonMetabolism and excretionOnset of signs and symptomsPostmortem detectionSigns and symptomsSolubility in food/drinksExamplesCheapNot particularQuick and fatalDifficultNil/ fewPositiveDifficultNot particularRapidSlow and fatalDifficultResemble diseasesPositiveOpium, cyanide, barbiturates, Arsenic, aconite, thallium, etorganophosphorus compounds259",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 4,
+      "question": "A farmer is found guilty of leaving his pesticides carelessly in the kitchen. It caused his wife tounknowingly consume pesticides and suffer from poisoning. Which section of the BNS wouldhe be charged with?",
+      "options": {
+        "A": "BNS Section 229 (IPC 193)",
+        "B": "BNS Section 286 (IPC 284)251",
+        "C": "BNS Section 106 (IPC 304A)",
+        "D": "BNS Section 123 (IPC 328)"
+      },
+      "correct_answer": "",
+      "explanation": "He would be charged with Section 286 (IPC 284) of the Bharatiya Nyaya Sanhita. This sectiondeals with negligent conduct with respect to poisons.BNS Section 123 (IPC 328) deals with causing hurt through poison, with intent to commit anoffense. In this case, the farmer had no intent of committing any offense and the poisoning wasdue to negligence. Hence BNS Section 123 does not apply here.BNS Section 106 (IPC 304A) deals with causing death by act of negligence. In this case, thefarmer's wife suffered poisoning, her death is not mentioned. Hence, BNS Section 106 does notapply here.BNS Section 229 (IPC 193) deals with punishment for false evidence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 5,
+      "question": "A servant adds sleeping pills to his master's food with the intention of robbery. Under whichsection of the BNS would he be charged?",
+      "options": {
+        "A": "BNS Section 106 (IPC 304A)",
+        "B": "BNS Section 122 (IPC 334)",
+        "C": "BNS Section 123 (IPC 328)",
+        "D": "BNS Section 117 (IPC 322)"
+      },
+      "correct_answer": "",
+      "explanation": "This man would be charged with BNS Section 123 (IPC 328) which deals with administeringpoison/ any stupefying, intoxicating, or unwholesome drug, with the intention of causing hurt orcommitting an offense.Option A: BNS Section 106 (IPC 304A) deals with causing death by negligence.Option B: BNS Section 122 (IPC 334) deals with voluntarily causing hurt / grievous hurt on suddenprovocation.Option D: BNS Section 117 (IPC 322) deals with voluntarily causing grievous hurt.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 6,
+      "question": "You are a registered medical practitioner working at a PHC. A patient is brought to you with ahistory of consuming poison in a suicide attempt. Which of the following statements is true?",
+      "options": {
+        "A": "It is mandatory to inform the police before starting any treatment",
+        "B": "It is mandatory to register a police complaint prior to inpatient admission",
+        "C": "It is mandatory to inform the police regardless of whether suicidal, accidental or homicidal",
+        "D": "It is mandatory to call the police to the hospital prior to discharge"
+      },
+      "correct_answer": "",
+      "explanation": "All cases of Poisoning, whether suicidal, homicidal or accidental are categorised underMedicolegal cases.In the given clinical scenario, the patient attempts to suicide by poisoning which is labelled asMLC(Medicolegal case) and warrants the need to inform the police. Considering the legalimplications, there may be a biased history from relatives or friends or aquaintances; wherein it isalways advisable to report each and every suspected case of poisoning to the police and thequestion of suicide/ homicide/ accident to be considered by the police. The treatment must not bewitheld before informing the police.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following routes of administration of a poison leads to the most rapid onset ofaction?",
+      "options": {
+        "A": "Intravenous injection",
+        "B": "Application to a mucosal surface",
+        "C": "Inhalation of gaseous form",
+        "D": "Application to a wound"
+      },
+      "correct_answer": "B",
+      "explanation": "The most rapid onset of action of poison is associated with inhalation in gaseous form/vapors.Routes of administration in the decreasing order of onset of action are:260•Inhalation (most rapid)• Intravenous• Intramuscular, subcutaneous, intradermal injection•• Application to a wound• Application to a serous surface• Application to a mucous surface•Ingestion• Application to unbroken skin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 8,
+      "question": "A woman was drugged with a substance, which was slipped into her coffee without herknowledge by a man at her workplace. The man confessed that he tried to make her notice252him by adding a love philter to her coffee. Which of the following would he have used?",
+      "options": {
+        "A": "CNS depressants",
+        "B": "Deliriants",
+        "C": "Stupefying agents",
+        "D": "Aphrodisiacs"
+      },
+      "correct_answer": "",
+      "explanation": "A love philter is a magical potion that is supposed to make the person who receives the potionlove the one who gave it. These are usually aphrodisiacs.Some aphrodisiacs that are used as love philter are:• Cantharides•• Arsenic• Alcohol•Opium• Cocaine• CannabisThe use of a love philter might lead to accidental poisoning.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 9,
+      "question": "During a post-mortem examination, the forensic expert reports a peculiar chocolate-coloreddiscoloration of the body. It did not blanch on pressure. Which of the following statements isfalse regarding this scenario?",
+      "options": {
+        "A": "The discolouration is due to formation of methemoglobin",
+        "B": "This condition is associated with poisoning by nitrates",
+        "C": "The discolouration is likely to disappear in 24-48 hours after death",
+        "D": "The victim could have been saved by the timely use of methylene blue"
+      },
+      "correct_answer": "",
+      "explanation": "The chocolate-brown discoloration which does not blanch on pressure is suggestive ofpostmortem hypostasis/ lividity. It usually develops within 4 hours and persists untilputrefaction.Chocolate-coloured post-mortem lividity is associated with nitrates, nitrites, aniline, bromates,chlorates. It is due to the formation of methemoglobin.Toxicity from nitrates can be treated with methylene blue to reverse the formation ofmethemoglobin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 10,
+      "question": "A deceased man is being evaluated for suspected poisoning. During an autopsy, you get apeculiar garlicky smell from the nose and mouth of the body. Which of the following agentswould you suspect?",
+      "options": {
+        "A": "Thallium sulphate",
+        "B": "Hydrogen sulphide",
+        "C": "Cyanide",
+        "D": "Phosphorus"
+      },
+      "correct_answer": "D",
+      "explanation": "261This scenario is suggestive of phosphorus poisoning as it is associated with a garlic-like odor,usually around the mouth and nose of the victim.Other substances associated with a garlic-like odor are arsenic, thallium carbonate, and zincphosphide.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient was brought in with a history of consumption of acid. His last meal was one hourago. What pattern of gastric mucosal injury would you expect to see in this patient?253",
+      "options": {
+        "A": "Image 1",
+        "B": "Image 2",
+        "C": "Image 3",
+        "D": "Image 412MORROW34Red color indicates the area of injuryOMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "The area marked in image 2 depicts the most likely pattern of gastric mucosal injury in thispatient.The pathway that fluids (acid, alkali, water) take in a food-filled stomach is known asmagenstrasse. It is present along the lesser curvature of the stomach. This is where the greatestdamage to gastric mucosa takes place, in corrosive injury.MagenstrasseMAROMARROWIn an empty stomach, the maximum injury occurs to the lower half to two-thirds of the body, withsparing of the fundus (image 3).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q11_img1_1f879d8f.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp11_img1_cfd5ecb8.jpeg",
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following poisons cause bluish discoloration of the stomach mucosa on postmortem examination?",
+      "options": {
+        "A": "Oxalic acid",
+        "B": "Sodium amytal",
+        "C": "Soneryl",
+        "D": "Arsenic"
+      },
+      "correct_answer": "B",
+      "explanation": "In sodium amytal poisoning, the capsules stain the stomach mucosa and its contents, turquoiseblue. Bluish discolouration of the stomach mucosa is also seen in copper sulphate poisoning.The appearance of the gastric mucosa in specific poisons:PoisonArsenicAppearance of Gastric Mucosa262Red velvety mucosaPoisonSulphuric acidCarbolic acidHNO3HCNKCNPhosphorousSodium amytal, Copper sulphateAppearance of Gastric MucosaBrown or black with erosionperforation and CarbonizationGrey leathery and thickenedmucosaYellowPinkBrick red to brownYellow or grey whiteBlue",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is associated with the phenomenon of drug automatism?",
+      "options": {
+        "A": "Alcohol",
+        "B": "Cocaine",
+        "C": "Datura",
+        "D": "Lysergic acid"
+      },
+      "correct_answer": "A",
+      "explanation": "CNS depressants and alcohol are associated with the phenomenon of drug automatism. Drug automatism develops due to the depressant effect of these drugs. It leads to the development of an 'automatism state', where the patient takes additional doses of the drug, without realizing it. This can lead to accidental poisoning.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 14,
+      "question": "Gastric lavage can be performed in case of poisoning by:",
+      "options": {
+        "A": "Sulphuric acid",
+        "B": "Strychnine",
+        "C": "Carbolic acid",
+        "D": "Kerosene oil"
+      },
+      "correct_answer": "",
+      "explanation": "Gastric lavage can be performed in case of carbolic poisoning.In carbolic acid poisoning, if the patient survives for 48 hrs, there will be carboluria followed byanuria. The victim will pass dark, smoky urine which soon turns olive green on standing due tooxidation of hydroquinone and pyrocatechol.It is a corrosive acid, however, it hardens the GI mucosa producing a leather bottle stomach andanesthetizes the nerve endings. This allows for gastric lavage.Contraindications of gastric lavage:••Corrosives poisoning (except carbolic acid)Convulsants/CNS stimulants• Comatose patients• Volatile poison•Upper GI pathology (eg. esophageal varices)• Hypothermic patient•Severe heart disease263• Advanced pregnancySulphuric acid and kerosene are corrosives and strychnine is a convulsant. Hence gastric lavage isnot done in these poisonings.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 15,
+      "question": "In which of the following patients is performing gastric lavage an absolute contraindication?",
+      "options": {
+        "A": "A patient with a history of kerosene consumption",
+        "B": "A patient with a history of acetaminophen overdose",
+        "C": "A patient with a history of tricyclic antidepressant overdose",
+        "D": "A patient with a history of opioid poisoning"
+      },
+      "correct_answer": "A",
+      "explanation": "Gastric lavage is not done in a case of kerosene poisoning. It can cause aspiration andpneumonitis.Gastric lavage is rarely indicated as the procedure has numerous complications. It may beconsidered in cases where there is recent (&lt;1 hour) ingestion of life-threatening amounts of atoxin, for which there is no treatment once absorbed.With drugs that slow down gastrointestinal motility or cause pylorospasm (e.g., anticholinergics,opioids, salicylates), lavage can be done up to 24 hours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 16,
+      "question": "You have been asked to administer gastric lavage to a patient with salicylate poisoning. Whichof the following positions is most appropriate for performing this procedure?",
+      "options": {
+        "A": "Right lateral position",
+        "B": "Supine position",
+        "C": "Left lateral position",
+        "D": "Erect position"
+      },
+      "correct_answer": "",
+      "explanation": "The left lateral position is the ideal position for performing gastric lavage.Position the patient on the left side with the head down at an angle of 20 degrees. The patient'smouth should be at a lower level than the larynx, to prevent aspiration.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp16_img1_39392d73.jpeg",
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following tube is ideally used for performing gastric lavage in patients withsuspected poisoning?",
+      "options": {
+        "A": "Ryle's tube",
+        "B": "Ewald tube",
+        "C": "Salem-sump tube",
+        "D": "Sengstaken-Blakemore tube255"
+      },
+      "correct_answer": "B",
+      "explanation": "The tube used for performing gastric lavage is an Ewald tube. It is also known as Boa's tube,stomach tube, or orogastric lavage tube.Ewald tubeRubber tube.FunnelRR-SuctionbulbOMARROW264Gastric lavage is the administration and evacuation of small volumes of liquid through anorogastric tube to remove toxic substances within the stomach. In adults, small amounts of warmwater or saline are administered and, via a siphoning action, removed again. In children, normalsaline is used, as children are more at risk of developing hyponatremia if lavaged with water.In an unconscious patient, gastric lavage is performed after induction of general anesthesia withthe patient intubated, to prevent aspiration.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp17_img1_b0081151.jpeg",
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 18,
+      "question": "A patient presents to the ER with suspected poisoning. Which of the following is the next beststep for management in this case?",
+      "options": {
+        "A": "Induction of emesis by giving ipecac",
+        "B": "Administrations of cathartics",
+        "C": "Perform stomach dilution with normal saline",
+        "D": "Administer the antidote"
+      },
+      "correct_answer": "D",
+      "explanation": "The next best step in the management of the patient with suspected poisoning is to eitheradministration an antidote or enhanced the elimination of the poison.The following modalities of gastrointestinal decontamination have been used in the past butare no longer routinely recommended:• Emetics•Cathartics• Dilution was historically recommended following the ingestion of acidic or alkaline corrosives todecrease the concentration and prevent tissue damage.• Gastric lavage is rarely indicated and is associated with high rates of complications.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 19,
+      "question": "A 20-year-old woman was rushed to the ER due to an attempted suicide by ingesting anunknown substance. Administration of activated charcoal will have no effect if the patientingested which of the following substances?",
+      "options": {
+        "A": "Barbiturates",
+        "B": "Lead",
+        "C": "Carbamazepine",
+        "D": "Salicylate"
+      },
+      "correct_answer": "B",
+      "explanation": "Activated charcoal is not effective in case of poisoning with heavy metals like lead, corrosives,cyanide, hydrocarbons, and alcohol.Indications for use of activated charcoal:• Ingestion within the previous 1 hour [except in cases of poisons that slow gastric emptying(anticholinergics) or after ingestion of a substance that leads to bezoar formation (salicylates), itmay be given after one hour]• The toxic substance should be known to be adsorbed by activated charcoal•The benefits of administration should outweigh the risksContraindications to use of activated charcoal:• Non-toxic ingestion•Toxin not adsorbed by activated charcoal· Unprotected airway• Possibility of upper GI perforation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 20,
+      "question": "How is multi-dose activated charcoal useful in cases of poisoning?",
+      "options": {
+        "A": "Gastrointestinal decontamination",
+        "B": "Enhanced elimination of toxin",
+        "C": "Administration of antidote",
+        "D": "Neutralisation of toxin"
+      },
+      "correct_answer": "B",
+      "explanation": "265Multidose activated charcoal (MDAC) is used for the enhanced elimination of a toxin.In some instances, patients may benefit from the repeated administration of activated charcoal.MDAC facilitates the passage of substances from plasma into the intestinal lumen, enhancingelimination. Currently, MDAC is indicated for only the following poisons:• Carbamazepine• Theophylline• Phenobarbital•Salicylates• Dapsone•• QuinineThe techniques used for general management of poisoning can be classified intoMechanismTechniquesGastrointestinal decontamina Orogastric lavageActivated chtionEnhanced eliminationAdministration of antidotearcoal Whole bowel irrigationMulti-dose activated charcoalUrinary alkalinizationExtracorporeal removal (Hemodialysis, Hemoperfusion)Mechanical antidotesChemical antidotesPhysiological antidotes Pharmacological antidotes",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 21,
+      "question": "Dimercaprol is indicated as an antidote in patients with which of the following poisoning?",
+      "options": {
+        "A": "Iron",
+        "B": "Thallium",
+        "C": "Arsenic",
+        "D": "copper256"
+      },
+      "correct_answer": "",
+      "explanation": "Dimercaprol (BAL) is an antidote for gold, arsenic (except arsine), or acute mercury poisoning(except non-alkyl mercury). It is also an adjunct to edetate calcium disodium in acute leadpoisoning.Dimercaprol has also been approved by the FDA to treat Wilson's disease but not acute copperpoisoning. The use of dimercaprol in the management of poisoning for other heavy metals has notbeen validated.Note: Mnemonic: B.A.L. for M.A.L. (Mercury, arsenic, and lead).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 22,
+      "question": "A 35-year-old man presents with complaints of constipation, abdominal cramps, and tinglingin the extremities. His bloodwork shows a lead level of 50 µg/dL. What is the antidotepreferred for this patient?",
+      "options": {
+        "A": "Dimercaprol",
+        "B": "DMSA",
+        "C": "Penicillamine",
+        "D": "DMPS"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of lead poisoning. Calcium EDTA and DMSA(succimer) are the preferred antidotes for lead poisoning.In a patient highly exposed to lead, chelation with oral DMSA (succimer) is recommended.266In case of acute poisoning with encephalopathy, IV or IM Calcium EDTA is given along withdimercaprol. Calcium EDTA redistributes lead to the brain and increases the risks of leading toencephalopathy, which is prevented by dimercaprol.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 23,
+      "question": "With regard to forced alkaline diuresis, which of the following pairs is true?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "D",
+      "explanation": "Urinary alkalinization (forced alkaline diuresis) is most effective for weak acids, primarilyeliminated by the renal tract. It is performed with sodium bicarbonate.Acetazolamide should not be used to produce alkaline urine, because it may worsen toxicity bycausing a concomitant systemic acidosis. It results in an increase in the amount of the unionizeddrug in the blood and enhanced tissue distribution. It may also compete with acidic drugs fortubular secretion and thereby inhibit their elimination.Drugs most commonly treated with forced alkaline diuresis are salicylates and phenobarbital.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 24,
+      "question": "Why is forced acidic diuresis not recommended as a treatment in case of poisoning?",
+      "options": {
+        "A": "It can cause acute liver injury",
+        "B": "It can cause lung injury",
+        "C": "It can cause cardiac arrhythmia",
+        "D": "It can cause rhabdomyolysis"
+      },
+      "correct_answer": "D",
+      "explanation": "Forced acidic diuresis is not indicated in any scenario as its potential risks (suchas rhabdomyolysis, acute renal injury) outweigh any potential benefits.Note: Though some books say that acidic diuresis is indicated in few poisoning, it is onlytheoretic. Forced acidic diuresis is never indicated due to the associated risks.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    },
+    {
+      "q_no": 25,
+      "question": "While considering hemoperfusion, which of the following properties of poison are notimportant?",
+      "options": {
+        "A": "1, 2 and 5",
+        "B": "1, 2 and 3",
+        "C": "2 and 3257",
+        "D": "4 and 5Solution to"
+      },
+      "correct_answer": "C",
+      "explanation": "Hemoperfusion uses adsorbents like a charcoal filter, which comes into direct contact with blood,partially overcoming molecular weight and protein-binding limitations.Properties of toxins to be considered for hemodialysis and hemoperfusion:Toxin requirementsIndicationsHemodialysisLow volume of distributionLow protein bindingLow endogenous clearanceLow molecular weightHemoperfusionLow volume of distributionLow endogenous clearanceBound by activated charcoalSalicylates LithiumAlcoholsM TheophyllineCarbamazepineetformin267",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Poisoning: General Considerations"
+    }
+  ]
+}

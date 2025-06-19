@@ -1,0 +1,410 @@
+{
+  "chapter": "Regional injuries",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which is the most common intracranial lesion due to head injury?",
+      "options": {
+        "A": "Extradural hemorrhage",
+        "B": "Subarachnoid hemorrhage",
+        "C": "Subdural hemorrhage",
+        "D": "Cerebral contusion"
+      },
+      "correct_answer": "C",
+      "explanation": "Subdural hemorrhage is the most common intracranial lesion due to head injury.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following are true statements regarding scalp injuries?",
+      "options": {
+        "A": "1, 2 and 3",
+        "B": "3, 4 and 5",
+        "C": "1, 2 and 5",
+        "D": "2, 3 and 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Contusions may occur in the superficial fascia, in the temporalis muscle, in the loose areolar tissue between galea aponeurotica and the pericranium. They are better felt than seen. Multiple contusions of the scalp may join together and it is often difficult to determine the number of blows inflicted. The bruises of the scalp are associated with prominent edema. Subgaleal hematoma remains the same color till it resolves.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 3,
+      "question": "What type of skull fracture is shown in the given image?",
+      "options": {
+        "A": "Diastatic fracture",
+        "B": "Pond fracture",
+        "C": "Gutter fracture",
+        "D": "Depressed fracture"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image shows a gutter fracture of the skull as part of the outer table is missing. Gutter fractures form a furrow in the outer table of the skull, usually as a result of a glancing blow by a missile from a rifled firearm. They may also be associated with comminuted depressed fractures of the inner table of the skull.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q3_img1_d2ef3a25.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 4,
+      "question": "Police are chasing a murderer who jumps from a multistoried building to escape. He lands on his feet but dies immediately on the spot. Which of the following skull fractures is most likely to have caused this fatal injury?",
+      "options": {
+        "A": "Ring fracture",
+        "B": "Hinge fracture",
+        "C": "Spider web fracture",
+        "D": "Pond fracture"
+      },
+      "correct_answer": "A",
+      "explanation": "In the given scenario, ring fracture is most likely to have caused the fatal injury. These are the most common fractures that occur due to a fall from height. These occur in the posterior fossa around the foramen magnum. If the kinetic energy of the fall is not absorbed by fractures of the legs, pelvis, or spine, the impact is transmitted up the cervical spine. This force may be rammed into the skull, carrying a circle of occipital bone with it.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp4_img1_70f4c69d.jpeg",
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 5,
+      "question": "During postmortem examination of the skull of a person who committed suicide on a railway track, the following finding is noted. What is the inference?",
+      "options": {
+        "A": "Depressed Fracture",
+        "B": "Mosaic Fracture",
+        "C": "Diastatic Fracture",
+        "D": "Pond Fracture"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows multiple fracture lines dividing the skull into fragments. Hence, it is a mosaic fracture/spider-web fracture of the skull. It is a comminuted depressed fracture that also has fissures radiating from it, forming a spider's-web or mosaic pattern. These fractures are formed due to a significant force striking over a broad area. The below image shows a spider-web fracture of the skull.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q5_img1_c19411a8.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp5_img1_df5c289f.jpeg",
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 6,
+      "question": "Name the type of skull fracture.",
+      "options": {
+        "A": "Depressed fracture",
+        "B": "Hinge fracture",
+        "C": "Pond fracture",
+        "D": "Comminuted fracture"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows a hinge fracture, also known as a motorcyclist's fracture. Here, the base of the skull is divided into two halves, each moving independently of the other like a hinge.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q6_img1_b10c5e7a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following statements about skull fractures is true?",
+      "options": {
+        "A": "In hammer injury to the skull, the most common complication is subdural hemorrhage",
+        "B": "Fracture lines on the skull usually cross each other to form a grid-like pattern",
+        "C": "At the point of contact with the hammer injury, the inner table of the skull fractures",
+        "D": "The most common skull fracture type is the depressed skull fracture"
+      },
+      "correct_answer": "C",
+      "explanation": "At the point of contact of the weapon (hammer) with the skull, the inner table is likely to fracture. When the skull receives a focal impact, there is a momentary distortion of the shape of the cranium. The area under the point of impact bends inwards. As the contents of the skull are virtually incompressible, there must consequently be a compensatory distortion or bulging of other areas. This is the struck hoop analogy. Both these intruded and extruded areas can be the site of fracturing if the distortion of the bone exceeds the limits of its elasticity. The inner table will fracture where the skull is indented and the outer table will fracture at the margins of the deformed area. Option A: Trauma most commonly causes subarachnoid hemorrhage, not subdural hemorrhage. Option B: Fracture lines of the skull do not cross each other. This forms the basis for Puppe's rule. Option D: The most common type of skull fracture is linear.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp7_img1_cec90de0.jpeg",
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 8,
+      "question": "A 65-year-old woman falls in the bathroom and hurts her head. She regains her consciousness after a few minutes and continues with her daily activities. After 3 hours, she again becomes unconscious and collapses. What is the most likely diagnosis?",
+      "options": {
+        "A": "Subdural hemorrhage",
+        "B": "Cerebral contusion",
+        "C": "Extradural hemorrhage",
+        "D": "Subarachnoid hemorrhage"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario describes a lucid interval, and it is classically associated with extradural/epidural hemorrhage (EDH). Patients with EDH present with 3 phases: \n   1. The patient is initially unconscious from the concussive aspect of the head trauma.\n   2. The patient then awakens and has a lucid interval while the hematoma sub-clinically expands.\n   3. As the volume of the hematoma grows, intracranial pressure (ICP) increases, and the patient rapidly becomes lethargic and unconscious. \n   A lucid interval is a period of normal consciousness, and here the person is legally bound by the laws that affect normal people.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp8_img1_1f056c32.jpeg",
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements about extradural hemorrhage is false?",
+      "options": {
+        "A": "Extradural hemorrhage may be ruled out in the absence of a skull fracture",
+        "B": "A minimum of 35 ml of blood is required to accumulate for clinical signs to appear",
+        "C": "The most common vessel affected is the middle meningeal artery",
+        "D": "It is the least common type of traumatic brain membrane hemorrhage"
+      },
+      "correct_answer": "A",
+      "explanation": "Extradural hemorrhages (EDH) cannot be ruled out in the absence of a skull fracture. Most EDH are associated with skull fractures. They usually occur unilaterally in the parieto-temporal area, caused by the rupture of the middle meningeal artery (usually the posterior branch). However, they can occur rarely in the absence of any skull fractures or external injuries. It is the least common type of brain membrane bleeding. A minimum volume of 35 ml is needed before clinical signs are apparent. The clinical signs of an epidural hemorrhage are classically those of a lucid or latent interval.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp9_img1_adda1748.jpeg",
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 10,
+      "question": "A victim of a house fire is brought to you for autopsy. On examination, you find an intracranial collection of blood. It is brown and friable, and the adjacent brain tissue shows discoloration. The carboxyhemoglobin level in the extradural blood is found to be the same as in the peripheral blood. What is the likely diagnosis?",
+      "options": {
+        "A": "Extradural hemorrhage",
+        "B": "Subdural hemorrhage",
+        "C": "Heat hematoma",
+        "D": "A or C, depending on further pathological examination"
+      },
+      "correct_answer": "D",
+      "explanation": "The diagnosis in the given scenario is that of a heat hematoma. Heat hematoma is an artifact that mimics EDH (extradural hemorrhage). This occurs when the head has been exposed to severe external heat sufficient to burn the scalp and skull. The blood may be extruded from the diploë and venous sinuses into the extradural space to produce a heat hematoma. This false hematoma is brown and friable, and the adjacent brain tissue shows hardening and discoloration from the heat. There is often a significant level of carboxyhemoglobin in the body if the death occurred when the fire was in progress. This should be of the same concentration in the heat hematoma as in the peripheral blood. If the victim suffered a head injury before the fire started (indicating an extradural hemorrhage), then there should be little or no carboxyhemoglobin in the hematoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is likely to be seen in an autopsy of a boxer suspected to have died of punch-drunk syndrome?",
+      "options": {
+        "A": "Cervical spine injury",
+        "B": "Subarachnoid hemorrhage",
+        "C": "Cerebral concussion",
+        "D": "Subdural hemorrhage"
+      },
+      "correct_answer": "D",
+      "explanation": "A subdural hemorrhage is likely to be seen in an autopsy of victims of punch-drunk syndrome. The punch-drunk syndrome is also known as dementia pugilistica. In this condition, gross findings of the brain include: • Cortical atrophy, slight hydrocephalus, • Perforated septum pellucidum, • Enlargement of the cavum septi pellucidi, • Tearing of the septal leaves. The cortical atrophy leads to stretching of the bridging veins, which predisposes to a subdural hemorrhage. It is a cumulative process and many episodes of minor head injury add up to produce the typical lesions described.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is a false statement regarding contrecoup injuries?",
+      "options": {
+        "A": "Fracture of the skull may not occur, even in the presence of severe coup and contrecoup injuries",
+        "B": "A fall on the frontal region will produce an occipital contrecoup",
+        "C": "A fall on the temporal region will produce a contrecoup in the ipsilateral lobe",
+        "D": "The most common site for contrecoup injury is the frontal and temporal lobes"
+      },
+      "correct_answer": "C",
+      "explanation": "A fall on the frontal region will not produce an occipital contrecoup injury. This is due to the relatively smooth internal surface of the posterior cranial fossa. Coup injury is damage that occurs on the same side of the direct trauma. Contrecoup injuries are present opposite to the site of trauma and are due to shear strain. Fracture of the skull may not occur, even in the presence of severe coup and contrecoup injuries (option A). The skull's anterior and middle cranial fossae have sharp edges. This makes the temporal and frontal lobes highly prone to contrecoup injuries (option D). A fall on the temporal region can produce a contrecoup injury on the contralateral lobe due to the presence of the falx cerebri, not the ipsilateral lobe (option C). During the impact, the brain moves in the opposite direction, striking the falx cerebri, resulting in contrecoup injury on the opposite lobe, not the same lobe as the impact, but opposite to the site of initial trauma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp12_img1_099d4ada.jpeg",
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 13,
+      "question": "A 48-year-old man was brought unconscious into the ER after he was involved in a head-on collision accident. His GCS was 4/15 and a CT brain scan did not reveal any significant hemorrhage. An MRI of the brain revealed multiple small elliptical lesions. Which is the most reliable indicator of this condition?",
+      "options": {
+        "A": "Retraction globes",
+        "B": "Amyloid precursor protein",
+        "C": "Neurofibrillary tangles",
+        "D": "There is no reliable indicator"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario is most likely suggestive of diffuse axonal injury. The most reliable indicator is beta-amyloid precursor protein, which is seen earliest at 2-3 hours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient died after a car accident and the cause was suspected as diffuse axonal injury. Forensic pathological examination revealed the following finding. After how many hours of injury does this finding appear?",
+      "options": {
+        "A": "2 hours",
+        "B": "8 hours",
+        "C": "10 hours",
+        "D": "12 hours"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image shows retraction balls/globes, which appear at 12-18 hours after injury. Retraction balls are bulbous and clubbed axons. The number of retraction balls begins to decrease 2-3 weeks after injury. This is followed by the appearance of a cluster of microglial cells, astrocytosis, and demyelination.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q14_img1_b2b5fa22.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 15,
+      "question": "While doing an autopsy on a victim of strangulation, you are examining his brain. Which of the following areas of the brain is the most likely to show evidence of hypoxic damage in this victim?",
+      "options": {
+        "A": "Hippocampus",
+        "B": "Thalamus",
+        "C": "Pituitary gland",
+        "D": "Motor area"
+      },
+      "correct_answer": "A",
+      "explanation": "From the given options, the hippocampus is most likely to show evidence of damage in the case of a hypoxic brain injury like strangulation. However, third and fourth cortical layers are best for displaying the histological changes of hypoxia. The parts of the brain most suitable for seeking evidence of hypoxic damage are: • Boundary zones of the cerebral cortex (the grey matter) - most vulnerable because they lie at the terminal reach of the arterial supply; Hippocampus (especially CA1 sector = Sommer's area and subiculum); • Cerebellar folia; • Globus pallidus in the basal ganglia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 16,
+      "question": "Which is the most commonly injured part of the spinal cord?",
+      "options": {
+        "A": "Lumbar spine",
+        "B": "Cervical spine",
+        "C": "Thoracic spine",
+        "D": "Thoraco-lumbar"
+      },
+      "correct_answer": "B",
+      "explanation": "The cervical spine is the most commonly injured part of the spinal cord. The cervical spine accounts for 2/3 of adult spine injuries. The most common part of the spine to be injured is the upper cervical vertebrae (C1-C4). The order of frequency of injury to the spinal cord is cervical > thoracolumbar > lumbar > thoracic > sacral level.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 17,
+      "question": "Which is the most dangerous type of cervical spinal injury?",
+      "options": {
+        "A": "Hyperextension injury",
+        "B": "Hyperflexion injury",
+        "C": "Compression of the spine",
+        "D": "Lateral flexion injury"
+      },
+      "correct_answer": "A",
+      "explanation": "Hyperextension is much more dangerous in causing spinal damage. It is because the weak anterior longitudinal ligament is incapable of preserving the integrity of the cervical spine during hyperextension. Hyperflexion is protected by the contraction of the strong posterior neck muscles.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 18,
+      "question": "A 35-year-old man fell from a ladder and injured his neck while he was painting the roof of a building. He was coming to the hospital with his friend but died before reaching it due to cardiorespiratory arrest. Above what level of cervical vertebrae must the fracture have occurred for this fatal injury?",
+      "options": {
+        "A": "C7",
+        "B": "C6",
+        "C": "C5",
+        "D": "C4"
+      },
+      "correct_answer": "D",
+      "explanation": "Injury to the brainstem and spinal cord above the C4 vertebral level (as C4 vertebrae correspond to the C5 spinal level) can be rapidly fatal from disruption of cardiorespiratory regulation centers. The spinal respiratory center (origin of the phrenic nerve) is mostly composed of the C4 segment of the spinal cord, with a smaller contribution from C3 and C5 segments.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is not a concussion?",
+      "options": {
+        "A": "Railway spine",
+        "B": "Rugger jersey spine",
+        "C": "Commotio cordis",
+        "D": "Berlin edema"
+      },
+      "correct_answer": "B",
+      "explanation": "Rugger jersey spine is not a concussion. It is an X-ray finding, which is characteristic of hyperparathyroidism seen in renal osteodystrophy. However, railway spine, commotio cordis, and Berlin edema are concussions. A concussion is a violent jerk or shock, or the condition that results from such an injury. The following are concussions of different organs: \n   • Railway spine - It can occur without any evidence of external injury to the spinal column. It results from a forcible blow on the back, a fall from height, or a bullet injury. It is commonly seen in railway accidents and motor car collisions, also known as the concussion of the spine.\n   • Berlin edema - It is the edema around the macular region of the retina, caused by a severe blow to the eyeball. It is also known as the concussion of the retina.\n   • Commotio Cordis - It is the damage to the heart that is frequently fatal. It is due to a sharp, non-penetrating blow to the adjacent body surface.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 20,
+      "question": "A man walks into the ER with a knife sticking out of his heart. He is likely to survive this injury if the knife has penetrated which of the following chambers?",
+      "options": {
+        "A": "Left atrium",
+        "B": "Right atrium",
+        "C": "Left ventricle",
+        "D": "Right ventricle"
+      },
+      "correct_answer": "C",
+      "explanation": "The patient would survive the injury if it penetrates the left ventricle. In this chamber, the contraction of the layered thick wall may partly or wholly seal the wound, and bleeding can be slight. Hence, chances of survival are high. The right ventricle is more commonly injured by a stab wound as it presents the largest frontal area. The injury to the right ventricle usually leads to copious bleeding into the pericardial sac. It is because of the inability of the thin wall to close the defect by muscle overlap and contraction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 21,
+      "question": "During postmortem examination of a 24-year-old man, ladder rung tears were seen in the aorta. What is the likely mechanism of the sustained injury?",
+      "options": {
+        "A": "Deceleration trauma",
+        "B": "Acceleration trauma",
+        "C": "Rotational stress",
+        "D": "Compressive force"
+      },
+      "correct_answer": "A",
+      "explanation": "Ladder rung tears are multiple parallel intimal tears of the aorta, that are seen in deceleration trauma. In these injuries, when the thorax is suddenly decelerated, the heart continues to move in the original direction. This causes severe traction on the root of the heart. This leads to ladder rung tears of the aorta. These may or may not be associated with a complete transection of the aorta. If death is delayed, false aneurysms and dissections may be seen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 22,
+      "question": "Which is the most commonly injured organ in blunt trauma of the abdomen?",
+      "options": {
+        "A": "Spleen",
+        "B": "Liver",
+        "C": "Kidney",
+        "D": "Intestine"
+      },
+      "correct_answer": "A",
+      "explanation": "Spleen is the most common organ injured in blunt abdominal trauma. In blunt trauma, organs that cannot yield to impact by elastic deformation are most likely to be injured, namely, the solid organs (spleen, liver, and kidneys). The liver is the second most common organ involved in blunt abdominal trauma. The liver is the most commonly injured organ in penetrating trauma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 23,
+      "question": "Where are pincer contusions seen?",
+      "options": {
+        "A": "Skin",
+        "B": "Brain",
+        "C": "Liver",
+        "D": "Lungs"
+      },
+      "correct_answer": "D",
+      "explanation": "Pincer contusions may be seen in trauma to the lungs. The trauma may lead to bleeding in the lungs, which expands the lower parts of the lungs. The lower margins become trapped in the narrow costophrenic angles, causing the contusions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 24,
+      "question": "A person walks into the ER with lacerations on his face that look like sparrow footmarks. What might be the most likely cause of this injury?",
+      "options": {
+        "A": "Shattered windshield glass injury",
+        "B": "Shotgun injury",
+        "C": "Vitriolage",
+        "D": "Fall from a ladder"
+      },
+      "correct_answer": "A",
+      "explanation": "The likely cause of injury in the given scenario is shattered windshield glass injury. In a road traffic accident, the shattered windshield glass produces multiple lacerations, usually on the face. These lacerations resemble sparrow footmarks due to contact with the shattered windscreen glass.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 25,
+      "question": "A pedestrian hit by a car hurls up onto the windshield, following which his head strikes the road. How is the head injury described?",
+      "options": {
+        "A": "Primary impact injury",
+        "B": "Secondary impact injury",
+        "C": "Tertiary impact injury",
+        "D": "Quaternary impact injury"
+      },
+      "correct_answer": "C",
+      "explanation": "In this case, the head injury is an example of a tertiary impact injury. The pedestrian sustained impacts twice (car bumper - primary, windshield - secondary) before hitting the road. Injuries to pedestrians: Primary impact injuries are caused by the first impact of the vehicle on the victim. Secondary impact injuries are further injuries caused by the vehicle. Tertiary impact injuries are caused when the victim strikes other objects or falls on the ground after being hit by the vehicle. Note: In case a pedestrian is hit by the vehicle only once (i.e., only primary impact and no secondary impact by the vehicle) and then sustains injuries by falling on the road, it would be an example of a secondary injury.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 26,
+      "question": "Which among the following is a true statement?",
+      "options": {
+        "A": "The rear seats are more dangerous than the front seats in a car",
+        "B": "Airbags have greatly improved the safety of cars and are not associated with any injuries",
+        "C": "Thoracic injuries are more common in the front-seat passenger than the driver",
+        "D": "Tail-gating refers to injuries caused by a head-on collision with a car"
+      },
+      "correct_answer": "A",
+      "explanation": "The rear seats of a car are more dangerous than the front seats. Option B: Airbags have greatly improved the safety of cars; however, they are associated with injuries themselves, like amputation of fingers, fracture of arms, cervical spine, and head injury. Option C: Thoracic injuries are more common in the driver than the front-seat passenger due to the steering wheel. Option D: Tail-gating accident occurs when a bike rider drives into the back of a truck. The bike passes underneath, but the head of the motorcyclist impacts on the tail-board. It may also happen to motor cars, and the rear of the truck smashes into the windscreen and driver.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional injuries"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following is not a major injury to the unrestrained driver of a vehicle in a deceleration impact?",
+      "options": {
+        "A": "Lumbar spine injury",
+        "B": "Cervical spine injury",
+        "C": "Pelvic fracture",
+        "D": "Leg fracture"
+      },
+      "correct_answer": "A",
+      "explanation": "Lumbar spinal injury is not a major injury to the unrestrained driver of a vehicle in a deceleration impact. However, in these cases, cervical spinal injury is common. The below image shows major points of injury to an unrestrained driver of a vehicle in deceleration impact. Injuries in an unrestrained driver: face and head injury, cervical spine injury - steering wheel impact, pelvic fracture, braced leg fracture.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp27_img1_10be3fa5.jpeg",
+      "chapter_heading": "Regional injuries"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "chapter": "Medico Legal Autopsy",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following best describes the legal term corpus delicti?",
+      "options": {
+        "A": "Medico-legal autopsy",
+        "B": "The body of the offense",
+        "C": "Criminal negligence",
+        "D": "Exhumation"
+      },
+      "correct_answer": "B",
+      "explanation": "Corpus delicti refers to the body of the offense, meaning the essential facts or material substance of a crime that must be proven in order to secure a conviction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements is false regarding medico-legal autopsy?",
+      "options": {
+        "A": "Consent from relatives is required",
+        "B": "Legal permission is necessary",
+        "C": "Magistrate is the authorizing officer in case of exhumation",
+        "D": "In India, all registered medical practitioners can perform an autopsy"
+      },
+      "correct_answer": "A",
+      "explanation": "In the case of a medicolegal autopsy, consent of the relatives is not required. For conducting a medicolegal autopsy: legal authorization is a must; Magistrate is the authorizing officer in case of exhumation; preferably, a forensic pathologist or medicolegal expert does the autopsy. However, in India, due to the lack of adequate qualified experts, all registered medical practitioners can perform this with authorization by the state. Note: Clinical/pathological autopsy requires consent from the relatives of the deceased.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 3,
+      "question": "An autopsy may be performed at the site of recovery of the body in all of the following cases except?",
+      "options": {
+        "A": "Putrefied body",
+        "B": "Exhumation",
+        "C": "District Magistrate orders",
+        "D": "Deaths due to RTA"
+      },
+      "correct_answer": "D",
+      "explanation": "In deaths due to RTA, autopsy is usually performed in an equipped mortuary. An autopsy may be performed at the site of recovery of the body, in the following scenarios: • Advanced stage of putrefaction as materials of evidentiary value may be lost during transportation • Exhumation • If the District Magistrate desires it to be conducted at the site due to some law and order problems. An autopsy is preferably performed in an equipped mortuary.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 4,
+      "question": "The police hand over the body of a person who died due to hanging to you for an autopsy. Which of the following incisions is preferred in this case?",
+      "options": {
+        "A": "I-shaped incision",
+        "B": "Modified Y-shaped incision",
+        "C": "Y-shaped incision",
+        "D": "Inverted Y-shaped incision"
+      },
+      "correct_answer": "B",
+      "explanation": "The incision preferred in the case of asphyxial death due to neck compression (as in hanging) is the modified Y-shaped incision. In strangulation, hanging, and any condition where the larynx might be damaged, a modified Y-shaped incision is to be preferred. This incision is used because the skin of the upper neck can then be dissected off the mandible and raised to give a wide approach to the neck structures. Given below are types of incisions done for an autopsy: 1. Y-Shaped Incision: Commences at the acromial process on the shoulder on either side. It runs downwards and anteriorly beneath the breasts as to meet at the xiphisternum in the midline. It then runs downwards as in an I-shaped incision to the symphysis pubis. It is preferred in females. It is more cosmetically accepted as the incision and the stitches are minimally seen after the autopsy. 2. Modified Y-shaped incision: Commences at the angle of the mandible on either side, brought forwards and downwards to meet at the suprasternal notch. It is then run downwards as a midline incision up to the pubic symphysis. Indicated in cases of strangulation or death due to compression of the neck. 3. I-Shaped Incision: Extends from symphysis menti to symphysis pubis, taking a curve towards the left around the umbilicus. It is used routinely in practice. It is simple and convenient. 4. Elongated X-shaped Incision: This is a special incision used to dissect out subcutaneous structures in the back to identify and evaluate the extent of blunt injuries, which are usually missed where superficial imprints are faint, particularly when present on skin not overlying bone. This is helpful in the reconstruction of events prior to death and should be practiced in cases of custodial death. 5. Inverted Y-shaped incision is used in infants.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp4_img1_e1cf5b75.jpeg",
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 5,
+      "question": "You observe a forensic surgeon doing en masse removal of organs during an autopsy. Which of the following autopsy techniques is he performing?",
+      "options": {
+        "A": "Virchow technique",
+        "B": "Rokitansky technique",
+        "C": "Ghon technique",
+        "D": "Letulle technique"
+      },
+      "correct_answer": "D",
+      "explanation": "The en masse removal of organs is done in the Letulle technique. It is the removal of the cervical, thoracic, abdominal, and pelvic organs as a single organ mass. They are subsequently dissected into organ blocks.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 6,
+      "question": "Match the following.",
+      "options": {
+        "A": "1-iii, 2-iv, 3-ii, 4-i",
+        "B": "1-iv, 2-iii, 3-i, 4-ii",
+        "C": "1-ii, 2-iii, 3-iv, 4-i",
+        "D": "1-iv, 2-i, 3-iii, 4-ii"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct match is: Negative autopsy: An autopsy in which the cause of death remains unknown, even after all laboratory examinations, including biochemical, microbiological, virological, microscopic, and toxicological examination. Obscure autopsy: An autopsy done meticulously, but presents with no clear-cut findings as to give a definite cause of death. Further lab investigations are required to know the details of the cause of death in this type of autopsy. Column A: Negative autopsy, Obscure autopsy, Virtual autopsy, Clinical autopsy. Column B: Cause of death remains unknown even after detailed laboratory investigations, No definite cause of death after an autopsy, further evaluation is needed, Cause of death is assessed by non-invasive methods, Done for academic purposes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following organs is tested in Breslau's second life test?",
+      "options": {
+        "A": "Lungs",
+        "B": "Stomach",
+        "C": "Liver",
+        "D": "Heart"
+      },
+      "correct_answer": "B",
+      "explanation": "In Breslau's second life test, also known as the stomach bowel test, the stomach and the duodenum are tested. This test is done to determine whether the baby was born alive or not. It works on the principle that some air is swallowed during respiration in a live-born child. Detecting the presence of this air in these viscera constitutes the basis for this test. Procedure: The stomach and duodenum are removed separately and placed in water. If they float, make a small cut while underwater to see air bubbles coming up. A floating viscera giving out air bubbles when opened underwater is a positive test. Interpretation: • A positive test proves live birth even in the absence of a positive hydrostatic lung test. This may happen if there had been some obstruction in the respiratory passages. • A negative test does not mean stillbirth since air does not necessarily enter the stomach in adequate amounts during the breathing act. Note: Breslau's first life test is when the same test is performed on the lungs. Also known as Hydrostatic test/ Floatation test / Raygat's test.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 8,
+      "question": "While doing the Raygat's test, an unrespired lung may float due to:",
+      "options": {
+        "A": "Lung edema",
+        "B": "Lung collapse",
+        "C": "Putrefaction",
+        "D": "Consolidation"
+      },
+      "correct_answer": "C",
+      "explanation": "In Raygat's test, an unrespired lung (stillbirth) may float due to gases of decomposition, as seen in putrefaction. It is also known as the floatation test/ Breslau's first life test/ hydrostatic test. It is done to determine whether the newborn has respired or not: • If the lung pieces float in water, it means that respiration has taken place, indicating a live birth. • If the pieces sink, respiration has not taken place, signifying stillborn. A respired lung (live birth) may sink in water in the following conditions: • Lung edema • Lung collapse • Pneumonia (consolidation) • Congenital syphilis. Other tests to determine if respiration has taken place or not are: • Fodere's test: Weight of lungs before respiration - 30-40g, after respiration - 60-66g. Ploucquet's test: Weight of lungs before respiration - 1/70 of body weight, after respiration - 1/35 of body weight. • Wredin's test: Assesses the changes in the middle ear. The gelatinous substance in the middle ear is replaced by air if respiration has taken place.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 9,
+      "question": "An ASHA worker brings the body of a newborn to casualty saying that the child was delivered dead at home. You suspect it as a live birth and request an autopsy. All of the following will confirm a live birth except:",
+      "options": {
+        "A": "Presence of milk in the stomach",
+        "B": "Skin exfoliation",
+        "C": "Presence of meconium in the large bowel",
+        "D": "Closure of fetal channels"
+      },
+      "correct_answer": "C",
+      "explanation": "The absence (and not presence) of meconium in the large bowel is a confirmatory sign of live birth. Confirmatory signs of live birth: • Presence of milk in the stomach • Absence of meconium in the large bowel, exception being breech delivery. • Exfoliation of skin • Closure of fetal channels • Changes in the umbilical cord. Live birth can be excluded if: • Signs of maceration are present. • Signs of immaturity are present. If the child has not attained the viable age (7 months), it could not have been born alive.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 10,
+      "question": "A second autopsy is performed in which of the following scenarios?",
+      "options": {
+        "A": "1 and 5 only",
+        "B": "2, 4, and 5",
+        "C": "3 and 4 only",
+        "D": "1, 2, and 3"
+      },
+      "correct_answer": "D",
+      "explanation": "A second autopsy may be performed when relatives are not satisfied, new circumstances emerge, or an investigating officer demands it. After an autopsy, when a repeat medicolegal postmortem is performed with authorization by law, it is called a second autopsy. The magistrate/commissioner of the police, vested with such power, orders the second autopsy. A second autopsy may be performed in the following cases: • The relatives of the deceased are not satisfied with the first autopsy report and they have pointed out certain lapses in the first autopsy. • The first autopsy was not performed in the light of the circumstances that are now available. • The investigating authority demands a second autopsy for setting the investigation on the right track.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following metals can be detected even in conflagrated human remains?",
+      "options": {
+        "A": "Lead",
+        "B": "Mercury",
+        "C": "Arsenic",
+        "D": "Cadmium"
+      },
+      "correct_answer": "C",
+      "explanation": "Arsenic can be detected even in conflagrated human bones. Hence, it is possible to detect poisoning by arsenic even when the body has been burnt for a long time. Arsenic is volatile, but much of the arsenic in bones is converted into arsenates, which are non-volatile. In suspected cases of poisoning by arsenic, all the available ashes and burnt bones should be preserved for chemical analysis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    },
+    {
+      "q_no": 12,
+      "question": "A person died following bee stings. Which of the following enzymes is of diagnostic value at autopsy in this case?",
+      "options": {
+        "A": "Amylase",
+        "B": "Chymase",
+        "C": "Tryptase",
+        "D": "Lactase"
+      },
+      "correct_answer": "C",
+      "explanation": "The given case is of a suspected anaphylactic death in which tryptase is of diagnostic value. The postmortem diagnosis of anaphylaxis remains difficult due to the lack of specific biomarkers. Mast cell tryptase (MCT) / tryptase is a sensitive measure of mast cell activation, and high levels will be found after severe anaphylactic reactions, especially those causing severe shock. Diagnostic tests for suspected anaphylactic deaths are serum tryptase and radio-allergosorbent testing (RAST for IgE).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medico Legal Autopsy"
+    }
+  ]
+}

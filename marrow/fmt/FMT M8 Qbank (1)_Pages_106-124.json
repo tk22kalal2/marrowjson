@@ -1,0 +1,305 @@
+{
+  "chapter": "Mechanical Injuries",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Identify the injury in the image below.",
+      "options": {
+        "A": "Abrasion",
+        "B": "Laceration",
+        "C": "Bruise",
+        "D": "Imprint"
+      },
+      "correct_answer": "A",
+      "explanation": "The image depicts an abrasion, which is an injury caused by superficial damage to the skin, no further information is provided.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q1_img1_e0a37859.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 2,
+      "question": "An abrasion involves which of the following layers of the skin?",
+      "options": {
+        "A": "Partial thickness of the epidermis",
+        "B": "Full thickness of the epidermis",
+        "C": "Epidermis + superficial dermis",
+        "D": "Epidermis + dermis"
+      },
+      "correct_answer": "A",
+      "explanation": "An abrasion is the most superficial of injuries and is one that does not penetrate the full thickness of the epidermis. Thus, the pure abrasion does not bleed, as blood vessels are confined to the dermis. The dermal papillae are corrugated in nature. Therefore, many abrasions enter the dermis, and bleeding commonly occurs. Abrasions are commonly known as grazes or scratches.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 3,
+      "question": "In an abrasion caused by a tangential force, which of the following indicates the direction of said force?",
+      "options": {
+        "A": "Fishtailing of the wound",
+        "B": "Epidermal tags",
+        "C": "Tailing of the wound",
+        "D": "Crushed hair follicles"
+      },
+      "correct_answer": "B",
+      "explanation": "In an abrasion caused by a tangential force, the direction of the force is determined by epidermal tags. Abrasions caused by a tangential force are known as 'brush abrasions' or 'grazes' or 'brush burns.' They are commonly seen when a body is dragged over a rough surface, such as a road. This scrapes linear furrows across the skin. The epidermal tags raised by the impact tend to pile up at the distal end. The method of formation of epidermal tags is given in the image below. Terminal epidermal tag, tags direct the impact. Option A: Fishtailing is the shape of the stab wound caused by a single-edged weapon. Option C: Tailing of the wound indicates the direction of injury in incised wounds. Option D: Crushed hair follicles are seen at the edge of the wound in a laceration.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp3_img1_b4daee74.jpeg",
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 4,
+      "question": "Abrasions are noted on the body of a person who was found dead at his home. Which of the following indicates that these might be produced after death?",
+      "options": {
+        "A": "Vital reaction positive",
+        "B": "Congestion seen",
+        "C": "Present over bony prominences",
+        "D": "Bright reddish brown in color"
+      },
+      "correct_answer": "C",
+      "explanation": "Abrasions present over bony prominences indicate that they might be produced after death. Antemortem abrasions may be located anywhere. Difference between antemortem and postmortem wounds: Postmortem wounds Trait: Site - Usually over bony prominences, Colour - Yellowish, translucent, parchment-like, Exudation - Less, Microscopic - No intravital reaction and congestion. Antemortem wounds: Anywhere on the body, Colour - Bright reddish brown, Exudation - More, Microscopic - Intravital reaction and congestion seen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following statements is falsely matched?",
+      "options": {
+        "A": "Antemortem wound - positive vital reaction",
+        "B": "Antemortem wound - negative vital reaction",
+        "C": "Postmortem wound - negative vital reaction",
+        "D": "Postmortem wound - no vital reaction"
+      },
+      "correct_answer": "C",
+      "explanation": "Postmortem wounds show no/absent vital reaction because no enzyme activity will be found in a wound sustained after death. This is not the same as a negative vital reaction, as it is indicative of decreased enzymatic activity and is seen in antemortem wounds. Vital reactions are local tissue reactions at the site of tissue damage. Only antemortem wounds show vital reactions, as cells are active at the time of wound infliction. The vital reactions of an antemortem wound are of two zones: \n   • Negative vital reaction (decrease in enzymatic activity of wound): It occurs in the central necrotic area, close to the edge of the wound, where there is irreversible damage to tissues.\n   • Positive vital reaction (increase in enzymatic activity of wound): It occurs just outside the necrotic area of the wound in order to salvage damaged (but not irreversibly damaged) tissues.\n   Difference between antemortem and postmortem wounds:\n   Trait: Site, Colour, Exudation, Microscopic\n   Antemortem wounds: Anywhere on the body, Bright reddish brown, More, Intravital reaction and congestion seen\n   Postmortem wounds: Usually over bony prominence, Yellowish, translucent, Parchment-like, Less, No intravital reaction and congestion\n   Vital reaction in antemortem and postmortem wounds: \n   Normal enzyme activity, Wound, Zone of positive vital reaction, Zone of negative vital reaction, No vital reaction\n   Normal enzyme activity, Antemortem, Postmortem",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp5_img1_2f700881.jpeg",
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements regarding a bruise is false?",
+      "options": {
+        "A": "They lie underneath an intact epidermis",
+        "B": "They are caused due to capillary bleeding",
+        "C": "Blood commonly collects in the subcutaneous layer",
+        "D": "It may become visible 1-2 days after the traumatic incident"
+      },
+      "correct_answer": "B",
+      "explanation": "Contusions/bruises are caused by damage to veins, venules, and small arteries. Capillary bleeding would not be visible to the naked eye. A pure bruise lies beneath an intact epidermis. There is an extravascular collection of blood that has leaked from blood vessels damaged by mechanical impact. The usual bruise from a blunt impact is situated in the subcutaneous tissues, often in the fat layer. Obese people tend to bruise more easily due to the greater volume of subcutaneous tissue. Delayed bruising refers to bruises that become more prominent with the passage of hours or days. This is caused by the percolation of blood from deeper tissues upwards towards the epidermis. It is also partly due to continued bleeding from the ruptured vessels.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following sites is more prone to bruising with blunt trauma?",
+      "options": {
+        "A": "Shins",
+        "B": "Abdomen",
+        "C": "Buttocks",
+        "D": "Arms"
+      },
+      "correct_answer": "A",
+      "explanation": "The shins are particularly prone to bruising with blunt trauma. Resilient areas, such as the abdominal wall and buttocks, bruise less with a given impact. The head, chest, and shins are more prone to bruising. This is because these regions have underlying bone and less subcutaneous tissue.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 8,
+      "question": "The police brought a victim of alleged domestic violence with a big bruise for evaluation. She claimed that it was inflicted by her husband three days ago, after which he had gone out of town. Which of the following is correct while determining the age of this injury?",
+      "options": {
+        "A": "Histological examination is the most reliable method",
+        "B": "The appearance of green colour is the most significant change",
+        "C": "Perl's reaction is the most useful criterion",
+        "D": "Bright yellow colour indicates that it is less than 18 hours old"
+      },
+      "correct_answer": "C",
+      "explanation": "The most useful criterion for dating a bruise is Perl's reaction for detecting haemosiderin. It becomes positive about 24-90 hours after infliction. Sometimes, there can be an earlier appearance, even down to 12 hours. Color changes in a bruise cannot be reliably used to estimate the age of a bruise. The most significant change is the appearance of a yellow color. This indicates that the bruise is more than 18 hours old. Histological examination is unreliable in the accurate dating of bruises.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 9,
+      "question": "A bruise on the upper arm of an alleged victim of an assault has the following appearance. What is the age of the injury based on the color of this bruise?",
+      "options": {
+        "A": "2 weeks old",
+        "B": "1-3 days old",
+        "C": "7-12 days old",
+        "D": "4-5 days old"
+      },
+      "correct_answer": "C",
+      "explanation": "The bruise in the given image has a yellow appearance, which is attributed to the presence of bilirubin. This finding makes the bruise about 7-12 days old. Bruises are mechanical injuries that are characterized by the extravasation of blood into subcutaneous or subepithelial tissue spaces. The continuity of the overlying skin is preserved. These injuries are typical consequences of blunt force trauma. The extravasated blood serves as a sign of inflammation to attract macrophages, which degrade the hemoglobin into various compounds (hemosiderin, haematoidin, and bilirubin). This gives rise to shifting color changes that begin at the wound's periphery and migrate towards the center as time goes on.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q9_img1_2750cf19.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not true about ectopic contusions?",
+      "options": {
+        "A": "Bruising on the neck may indicate a jaw fracture",
+        "B": "Bruising at the nape of the neck indicates a fracture of the posterior cranial fossa",
+        "C": "A black eye may be from a fracture of the anterior cranial fossa",
+        "D": "Bruising behind the ear indicates a fracture of the middle cranial fossa"
+      },
+      "correct_answer": "B",
+      "explanation": "Bruising at the nape of the neck does not indicate a fracture of the posterior cranial fossa. Ectopic bruises are also called migratory or percolated bruising. They are found at a different location than the actual site of injury. They are caused by the percolation of blood in the subcutaneous tissue from one site to another. Examples are: a black eye, which may be due to actual trauma to the eye, or maybe an ectopic bruise, and it may be from trauma to the forehead or from a fracture of the anterior cranial fossa. Battle sign, which is bruising seen over the mastoid process, is from a fracture of the middle cranial fossa. Bruising on the neck may indicate a jaw fracture.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 11,
+      "question": "You are asked to conduct an autopsy of a person who was found dead at his home. You notice the given findings on the body. Which test can be used to differentiate this from antemortem bruising?",
+      "options": {
+        "A": "Gettler's test",
+        "B": "Incision test",
+        "C": "Precipitin test",
+        "D": "Breslau's test"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows postmortem hypostasis. The classic test used to differentiate a bruise from hypostasis is the incision test. The suspected area is incised to see if the underlying blood is intravascular (hypostasis) or infiltrating the tissues outside the vessels (contusion). Option A: Gettler's chloride test is used to differentiate between freshwater and saltwater drowning. It is not widely used now. Option C: In the precipitin test, a specific antiserum is made to react with the seminal fluid, blood, or saliva. A positive test will confirm human origin. Option D: Breslau's second life test is done to determine whether a child was born alive or not.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q11_img1_76d416b4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 12,
+      "question": "The autopsy of a victim reveals similar findings seen in the given image. Which of the following would have caused this injury?",
+      "options": {
+        "A": "Road traffic accident",
+        "B": "Iron rod",
+        "C": "Serrated knife",
+        "D": "Double-edged knife"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows 'tram-line' bruising. It would have most likely been produced by a stick or an iron rod. It occurs when the skin surface is struck by a rod or rectangular-sectioned object. The weapon sinks into the skin on impact. This causes the edges to drag the skin downwards, and the traction tears the marginal blood vessels. The centre compresses the skin, causing little or no damage to the vessels in the absence of underlying bone.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/q12_img1_259cde52.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp12_img1_7afaf6ff.jpeg",
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following tissues is most resistant to knife penetration?",
+      "options": {
+        "A": "Muscle",
+        "B": "Subcutaneous tissue",
+        "C": "Uncalcified cartilage",
+        "D": "Skin"
+      },
+      "correct_answer": "D",
+      "explanation": "The tissue most resistant to knife penetration is the skin, apart from bone or calcified cartilage. When a knife-point impacts against the skin, the latter dimples and resists. The tension developed in the stretched skin appears to act as an elastic reservoir, and when the threshold of resistance is exceeded, penetration suddenly occurs. Muscle offers little resistance to penetration. Uncalcified cartilage and subcutaneous tissue are easily penetrated by a sharp knife.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 14,
+      "question": "An assault victim is rushed to the emergency department with a stab wound. You observe that the wound is wedge-shaped. Which weapon would have most likely produced this wound?",
+      "options": {
+        "A": "Single-edged knife",
+        "B": "Serrated knife",
+        "C": "Double-edged knife",
+        "D": "Screwdriver"
+      },
+      "correct_answer": "A",
+      "explanation": "A wedge-shaped wound is produced by a single-edged knife. A double-edged knife produces an elliptical wound. The image given below shows the types of wounds produced by different weapons: Stab Wounds by Different Weapons. Page of the stab wound: Single-edged knife, Double-edged dagger, Top river, Dining Fork, Serrated knife, Arrow, Murder",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp14_img1_dd2b2ea9.jpeg",
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 15,
+      "question": "In a case of suspected stabbing, you are trying to identify the murder weapon using the wound characteristics. All of the following factors might lead to a false interpretation except:",
+      "options": {
+        "A": "If the knife tapers beyond the point to which it was driven into the wound",
+        "B": "If the knife was driven up to the hilt into the wound",
+        "C": "If the weapon was moved after insertion",
+        "D": "If the wound is parallel to the Langer lines"
+      },
+      "correct_answer": "D",
+      "explanation": "If the wound is parallel to the Langer lines, it would appear normal. In contrast to a wound that is perpendicular to the Langer lines, which would be longer than normal. This is because such wounds tend to gape more, giving a false interpretation of the weapon. Option A: The taper of the blade is related to wound size. The length of the wound would be equal to the width of the blade at the point to which it was inserted. Thus, the length of the wound varies according to the depth to which it was inserted. Once the blade edges become parallel, the wound size remains constant for further penetration of the knife. Option B: If a knife is driven up to the hilt, the depth of the wound as measured at autopsy may be greater than the true length of the blade. This is usually seen in the abdomen, and to a lesser extent in the chest. A forceful stab can cause the abdominal or chest wall to indent, allowing the knife tip to reach tissues that would normally be beyond its reach. Option C: If the weapon is moved after insertion, it distorts wound characteristics.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp15_img1_95a262c2.jpeg",
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 16,
+      "question": "What type of injury is scalping?",
+      "options": {
+        "A": "Contusion",
+        "B": "Abrasion",
+        "C": "Incised wound",
+        "D": "Laceration"
+      },
+      "correct_answer": "D",
+      "explanation": "Scalping is a type of laceration. Here, a large area of skin and subcutaneous tissue is rolled off the scalp. These lesions could be caused by the traction of hair being trapped in machinery. This was formerly a common industrial accident. 'Hairnets' were worn by women factory workers to prevent this. Flaying is also a type of laceration, caused by a shearing force. This is where a large area of skin and subcutaneous tissue is rolled off a limb.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following findings in a patient suggests an incised wound, rather than a split laceration?",
+      "options": {
+        "A": "Sharp linear injury in underlying bone",
+        "B": "Hairs crossing the wound",
+        "C": "Tissue strands across the interior of the wound",
+        "D": "Bruising around the margin of the wound."
+      },
+      "correct_answer": "A",
+      "explanation": "Sharp linear injury in the underlying bone suggests an incised wound, rather than a split laceration. An incised wound is a clean-cut wound caused by a sharp-cutting instrument. A split laceration is a type of laceration that usually occurs in areas where the skin overlies bone. An example of such an area is the scalp. Split lacerations can resemble incised wounds. A laceration can be distinguished from an incised wound by: • Bruising and crushing of the margins • Persistence of tissue strands across the interior of the wound, including fascial bands, vessels, and nerves • Absence of a sharply linear injury in the underlying bone • In areas covered by hair, as on the scalp, intact hairs will cross the wound. The image given below shows an incised wound. The image given below shows a lacerated wound. Note: Lacerations are also commonly known as cuts or tears.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp17_img1_1e138dcf.jpeg",
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 18,
+      "question": "You notice tearing of the skin at the ends of a laceration on a victim. What is this finding known as?",
+      "options": {
+        "A": "Sparrow's foot",
+        "B": "Wedging",
+        "C": "Fish tails",
+        "D": "Swallow tails"
+      },
+      "correct_answer": "D",
+      "explanation": "Tearing at the ends of a laceration are called swallow-tails. These are seen at angles diverging from the main laceration itself. The image below shows swallow-tails in a lacerated wound. Laceration: Main laceration. Tear at one angle giving rise to swallowtail appearance. Option A: Sparrow's foot marks are seen in windshield injuries in car accidents. Option B: Wedge-shaped injuries are seen in stabbing with a single-edged weapon. Option C: Fish-tails: These may be seen in stab wounds where the skin splits at the corner. The image below shows fish-tail in a stab wound.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mfmt/exp18_img1_7bef4f15.jpeg",
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 19,
+      "question": "You are examining the body of a patient who was found dead at his house. Multiple linear incised wounds are noted on the ulnar border of the forearm. What are these suggestive of?",
+      "options": {
+        "A": "Defence wounds",
+        "B": "Self-mutilation",
+        "C": "Tentative cuts",
+        "D": "Hesitation wounds"
+      },
+      "correct_answer": "A",
+      "explanation": "In the given scenario, multiple linear incised wounds on the ulnar border of the forearm are most likely to be defence wounds. They are sustained when a victim is trying to protect himself from attacks (homicide). The attack may be by fists, feet, and blunt or sharp instruments. In case of a blunt instrument, fist or feet: bruises are most common along with abrasions; commonly on the extensor and ulnar aspect of the forearms, wrists, back of the hand, and knuckles; may be seen on thighs due to an attempt to protect genitals. In the case of a sharp instrument: seen on the ulnar side of the forearm, wrist, hand, and fingers; cuts on the flexures of phalanges occur if the victim tries to seize the weapon. Firearm injury: arms may be used to shield the trunk or head from the blast; an entrance and an exit wound in the upper arm may be seen; the missile may then re-penetrate the trunk. Options C and D: Tentative cuts or hesitation wounds are self-inflicted wounds made while attempting to commit suicide. They are usually on the radial side of the forearm.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    },
+    {
+      "q_no": 20,
+      "question": "When is leucocyte infiltration into wounds seen?",
+      "options": {
+        "A": "0-4 hours",
+        "B": "4-12 hours",
+        "C": "12-24 hours",
+        "D": "1-3 days"
+      },
+      "correct_answer": "B",
+      "explanation": "Leucocyte infiltration in wounds is seen at 4-12 hours. Histological changes in wounds: Time after injury: 30 minutes-4 hours, 4-12 hours, 12-24 hours, 24-72 hours, 3-6 days, 10-15 days, 2 weeks - several months. Histological changes: Margination of leucocytes in blood vessels, Mast cells lose their granules, Fibrin appears in the wound, Leucocyte infiltration (mostly polymorphs), Tissue edema, start of epithelial regeneration, Mononuclear leukocytes increase, Epidermis begins to spread across the wound, Leukocyte infiltration reaches a peak at 48 hours, Granulation tissue appears, Collagen formation, Collagen reaction subsides, Vascularity decreases, Cell population drops, Consolidation of healing tissue.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mechanical Injuries"
+    }
+  ]
+}
