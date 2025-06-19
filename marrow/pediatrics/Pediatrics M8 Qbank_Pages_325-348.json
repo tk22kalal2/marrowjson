@@ -1,0 +1,365 @@
+{
+  "chapter": "Measles, Mumps, Rubella and Other Viral Infections",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A mother brought her 7-year-old child to the OPD because of fever and facial swelling for thepast 2 days. She says that he has been refusing to eat because of the pain near the jaw. He hasnot been vaccinated since birth because of his parent's fear of side effects. On examination, atender swelling is noted on the jaw as shown in the picture. Which of the following statementis true regarding this patient's diagnosis?",
+      "options": {
+        "A": "Meningoencephalitis can precede parotitis",
+        "B": "Salivary gland involvement is limited to the parotids",
+        "C": "Patient is not infectious prior to clinical parotid enlargement",
+        "D": "Orchitis frequently leads to infertility"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q1_img1_4325b0bd.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 2,
+      "question": "An outbreak of mumps infection was reported from a local school a few days ago. A boystudying in the 2nd standard of that school presented with painful bilateral swelling near hisjaw and cheek for 3 days. His mother is anxious about the possible complications of thedisease. Which of the following is the most common complication that can occur in thispatient?",
+      "options": {
+        "A": "Orchitis",
+        "B": "Pancreatitis325",
+        "C": "Meningoencephalitis",
+        "D": "Myocarditis"
+      },
+      "correct_answer": "C",
+      "explanation": "Meningoencephalitis is the most common complication that can occur in mumps in children.Most common complications in mumps:•Children - Meningoencephalitis•• Adolescents and adult males - Orchitis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 3,
+      "question": "On your pediatrics rotation, you notice a 2-day-old baby with the rash shown in the image.below. Which among the following is the most likely cause for this baby's rash?",
+      "options": {
+        "A": "Rubella",
+        "B": "Measles",
+        "C": "Erythema infectiosum",
+        "D": "VaricellaDAILY ROUNDS"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows purple papulonodular lesions, which are suggestive of blueberry muffin rash.It is seen in congenital rubella.Blueberry muffin rash represents dermal erythropoiesis. In addition to congenital rubella, it canbe seen in:•Congenital viral infections such as cytomegalovirus and parvovirus•Neoplasms such as neuroblastoma and acute myeloid leukemia• Rh hemolytic disease337",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q3_img1_961de690.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 4,
+      "question": "A woman who came with complaints of fever, myalgia, and rash at 12 weeks of gestation isfound to have positive IgM titers for rubella. She is advised MTP. If the pregnancy is taken tofull term, which of the following triad of complications would you expect to see in the child?",
+      "options": {
+        "A": "Chorioretinitis, hydrocephalus, intracranial calcifications",
+        "B": "Sensorineural hearing loss, blueberry muffin rash, microcephaly",
+        "C": "Cataracts, cicatricial skin lesions, limb defects",
+        "D": "Sensorineural hearing loss, cataract, congenital heart defects326"
+      },
+      "correct_answer": "D",
+      "explanation": "The patient has an increased risk of congenital rubella if the pregnancy is taken full term. Thetriad of complications that would be expected in the child include:••Sensorineural hearing loss: Nerve deafness is the single most common finding among infantswith congenital rubella syndromeCongenital cataractCongenital heart disease: The most common cardiac defect is patent ductus arteriosusOption A: Chorioretinitis, hydrocephalus, intracranial calcifications - congenital toxoplasmosis.Option B: Sensorineural hearing loss, blueberry muffin rash, microcephaly - congenital CMVinfection.Option C: Cataracts, cicatricial skin lesions, limb defects - congenital varicella syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 5,
+      "question": "Palak, a neonate is being evaluated for the finding shown in the image. The mother's prenatalhistory is significant for viral exanthem in early pregnancy. On examination, a grade 3murmur is heard on auscultation. Which of the following is the most likely cause for thispatient's murmur?",
+      "options": {
+        "A": "Patent ductus arteriosus",
+        "B": "Ventricular septal defect",
+        "C": "Atrial septal defect",
+        "D": "Pulmonary stenosis"
+      },
+      "correct_answer": "",
+      "explanation": "The image shows a bilateral cataract, which along with the antenatal history of viral exanthem issuggestive of congenital rubella syndrome. Patent ductus arteriosus (PDA) is the most commoncongenital heart disease associated with rubella, followed by pulmonary artery stenosis (PS).Frequency of heart disease in congenital rubella: PDA &gt; PS &gt; VSD &gt; ASD.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q5_img1_edad66f1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 6,
+      "question": "You are evaluating a baby in NICU with diffuse petechiae. On examination, mildhepatosplenomegaly, bilateral cataract, and a continuous murmur suggestive of patent ductusarteriosus are noted. Which of the following investigations would you do to diagnose thisbaby's condition?",
+      "options": {
+        "A": "RT-PCR of CSF sample",
+        "B": "Blood spot test",
+        "C": "IgM antibody in infant blood",
+        "D": "IgG antibody in infant blood"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of congenital rubella syndrome. IgM antibody detection ininfant blood are done to diagnose congenital rubella syndrome in a newborn.Congenital rubella syndrome is diagnosed by:• Presence of IgM rubella antibodies in the infant shortly after birth (since IgM does not cross theplacenta), or• Persistence of IgG antibodies for &gt;6 months (maternally derived antibody would havedisappeared)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 7,
+      "question": "327A 2-year-old girl is brought to the clinic with a high fever, cough, red eyes, and rash. Thechild's parents say that the rash started on the forehead and behind the ears, thensubsequently spread to the neck and body. On examination, a confluent maculopapular rashis noted as shown below. Which of the following is false regarding this child's condition?",
+      "options": {
+        "A": "The period of infectivity is 4 days before and 5 days after the appearance of rash",
+        "B": "The most common complication is pneumonia",
+        "C": "Warthin-Finkeldey giant cells are present",
+        "D": "Koplik spots are pathognomonic"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of measles. The most common complication of measles isacute otitis media. The most common cause of death is pneumonia (Hecht's giantcell pneumonia).338Measles (rubeola) is caused by RNA paramyxovirus. The infection is spread via droplets, with asecondary attack rate ≥of 90%. The patients are infectious from 4 days before upto 5 days afterthe appearance of the rash. The rash appears on the 4th day of fever. It starts from the retroauricular region. Koplik spots are pathognomonic.The most common cause of death is pneumonia. Measles can lead to subacute sclerosingpanencephalitis (SSPE) as a late complication.Measles can be prevented by administering live attenuated, Edmonston-Zagreb strain orcombined MMR given at 9 months of age.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q7_img1_a2c99e68.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 8,
+      "question": "Ayoung child presented with fever and cough in the OPD. He is observed to have the findingshown in the image below on the inner aspect of cheeks. Which of the following statement isfalse regarding this clinical finding?328",
+      "options": {
+        "A": "It appears 1 to 4 days before the rash",
+        "B": "It appears as tiny-rose colored lesionsIt is seen at the level of molarsd) It may also occur in conjunctivaQuestion 9:A 10-year-old boy presents with a history of myoclonic jerks, seizures, and rapid decline incognitive function. The mother gives a history of fever with a rash at 1.5 years of age. The rashhad started behind the ears, progressed to involve the whole body, and resolved on its own.What is the diagnosis?a) Subacute sclerosing panencephalitisb) Multiple sclerosis",
+        "C": "Meningitis",
+        "D": "Guillian-Barre syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows discrete red lesions with white spots in the center on the inner aspect of thecheeks, suggestive of Koplik spots. They do not appear as tiny rose-colored lesions.Koplik spots are pathognomonic of measles. These are the spots present at the level of molars.They appear 1-4 days prior to the rash. They may also occur in conjunctival folds and vaginalmucosa.Forchheimer spots: Tiny red-colored lesions in the oropharynx or petechial hemorrhages on thesoft palate, seen in rubella (German measles).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q8_img1_518ca8b9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 10,
+      "question": "Akshay developed a fever, headache, and a diffuse rash as shown below. The rash is mostprominent on the face and chest. He says the rash is very itchy bothering his everyday life. Heis a football player and has an upcoming tournament in the next few days. He wants to knowif he'll be able to play by then. Considering the rash infectivity, until when would you advisehim to stay isolated?329",
+      "options": {
+        "A": "4 days after the appearance of lesions",
+        "B": "7 days after the appearance of lesions",
+        "C": "14 days after the appearance of lesions",
+        "D": "After crust formation has occurred over lesions"
+      },
+      "correct_answer": "D",
+      "explanation": "339The above scenario is suggestive of chickenpox. You would advise the boy to stay isolateduntil after crust formation has occurred over lesions.People with chickenpox are contagious 24-48 hours before the rash is evident and until thevesicles have crusted, which is usually 3-7 days after the onset of rash.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q10_img1_4245c7c8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 11,
+      "question": "There is an outbreak of chickenpox among the children at a daycare center. What is the mostcommon extracutaneous site of involvement of this disease?",
+      "options": {
+        "A": "Liver",
+        "B": "CNS",
+        "C": "Joints",
+        "D": "Lungs"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common extracutaneous site of involvement by the varicella-zoster virus in children isthe central nervous system. It is a benign complication of VZV infection in children and generallydoes not require hospitalization.The most common infectious complication of varicella is secondary bacterial superinfection of theskin, which is caused by Streptococcus pyogenes or Staphylococcus aureus.The most common serious complication of varicella is varicella pneumonia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 12,
+      "question": "Seema is brought to the OPD due to the development of a very itchy rash. Her father says he'sworried because she has been constantly scratching her body leading to scratch marks. Beforethe development of the rash, she had a fever and headache for 2 days. On examination, younote a vesicular rash, which is in different stages of evolution. Which of the following is not apossible complication of this condition?",
+      "options": {
+        "A": "Subacute sclerosing panencephalitis",
+        "B": "Acute cerebellar ataxia330",
+        "C": "Hepatitis",
+        "D": "Herpes Zoster"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of chickenpox caused by the varicella-zoster virus (VZV).Subacute sclerosing panencephalitis (SSPE) is not a complication of Varicella-zoster infection. Itoccurs due to measles.The characteristic rash of chickenpox is present in different stages of evolution.Complications of VZV occur with disseminated varicella or with reactivation of infection. Thismore commonly occurs in immunocompromised patients. Complications include:• Bacterial infections of the skin and soft tissues• Pneumonia•⚫ Hepatitis• Acute cerebellar ataxia•Encephalitis• Disseminated intravascular coagulopathy•⚫ Sepsis•Shingles/Herpes Zoster: vesicular lesions are confined to the unilateral segment of the sensorynerve (dermatome). In children, the rash is mild, with complete resolution within 1-2 week. Unlikein adults, postherpetic neuralgia is unusual in children.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 13,
+      "question": "A child presents with fever, headache, and a diffuse rash as shown below. The rash resolvesby crusting and the child recovers in 10 days. Which spinal segments are most commonlyinvolved in a latent reactivation of this infection?",
+      "options": {
+        "A": "C2-C7",
+        "B": "T3-L3",
+        "C": "S1-S3",
+        "D": "It involves all spinal segments equally"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical scenario suggests a diagnosis of chickenpox. Latent reactivation of the infection orshingles most commonly occurs in the T3 to L3 spinal segments.340Herpes zoster/shingles are characterized by a unilateral vesicular dermatomal eruption associatedwith severe pain.Herpes zoster ophthalmicus affects the ophthalmic branch of the trigeminal nerve. It is shownbelow:Ramsay-Hunt syndrome (herpes zoster oticus) affects the facial nerve with an eruption on thetympanic membrane, the external auditory canal, and facial palsy.341",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q13_img1_df2710d7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp13_img1_7adea8bd.jpeg",
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 14,
+      "question": "You are a pediatrics resident posted in the labor room. You are examining a baby which wasdelivered via C-section a few minutes ago. You notice that the baby has zig-zag hypertrophiccutaneous scarring in a dermatomal distribution on the left side of the limbs and face. He alsohas a small head and small limbs. Antenatal history of the mother will be significant forwhich of the following infection?",
+      "options": {
+        "A": "Varicella",
+        "B": "Herpes",
+        "C": "Cytomegalovirus331",
+        "D": "Syphilis"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of congenital varicella syndrome. Hence, antenatal historyof varicella infection would be significant in the mother of this baby.Fetal varicella infection occurs if the mother gets infected during the first half of pregnancy.Clinical features include:•Cicatrix, a zigzag scarring in a dermatomal distributionMicrophthalmia• Cataracts•• Optic atrophy• Chorioretinitis•Microcephaly• Limb hypoplasia• Motor and sensory deficits.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 15,
+      "question": "A baby in the NICU is being evaluated for his features of microcephaly and hepatomegaly. CTscan revealed nodular periventricular calcifications. Congenital CMV infection is suspected.Which of the following samples is the best to detect the organism using PCR?",
+      "options": {
+        "A": "Liver biopsy",
+        "B": "CSF",
+        "C": "Blood",
+        "D": "Urine"
+      },
+      "correct_answer": "D",
+      "explanation": "Among the following options, urine is the best sample to be sent for the diagnosis of congenitalcytomegalovirus (CMV) infection.In congenital CMV infections, the investigation of choice is PCR or viral culture. It should be donewithin the first three weeks of life (after this period, it is difficult to distinguish between acongenital and an acquired infection). Since not all affected infants are viremic at birth, urine isa more reliable sample than blood.342Most CMV transmission occurs in the first trimester. The risk of transmission is high in the thirdtrimester. 90% of the infected babies are asymptomatic and have lesser chances of having latesequelae.The clinical manifestations includehepatosplenomegaly, petechial rashes, jaundice, chorioretinitis, and microcephaly. Neuroimagingshows intracranial periventricular calcifications. One of the long-term sequelae is sensorineuralhearing loss.There is no definitive treatment for congenital CMV infection. Treatmentwith ganciclovir is indicated only in patients with progressive neurologic disease and deafness.The image below shows periventricular calcifications:MedPixⓇObe31f6d-1996-44f6-8731-0b7b0f4d3fc5,Uploader: Alice Boyd SmithSource Alice Boyd Smith, 07-02-2003",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp15_img1_6cfcc59b.jpeg",
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 16,
+      "question": "A child is brought to the OPD with complaints of a rash and fever. The worried parents saythe rash appeared on his cheeks yesterday. However, this morning, they observed it hasspread to the trunk as well. The image of the child is given below. Which of the following istrue regarding this condition?",
+      "options": {
+        "A": "It is also known as sixth disease",
+        "B": "It is caused by an RNA virus",
+        "C": "It is associated with a transient arrest of erythropoiesis",
+        "D": "It is associated with immune fetal hydrops332"
+      },
+      "correct_answer": "",
+      "explanation": "The image shows a characteristic slapped cheek appearance of a rash, which is classically presentin parvovirus B-19 infection or erythema infectiosum. This is associated with transient aplasticcrisis and erythropoiesis is mainly affected.Erythema infectiosum is also known as the fifth disease. The rash appears first on the cheekscalled the slapped cheek appearance then spreads to the trunk. It is caused by parvovirus B-19,which a single-stranded DNA virus.Clinical features:• Febrile, non-toxic child with a nonspecific prodrome• Transient aplastic anemia, pure red cell aplasia• Petechial/ purpuric skin eruptions: Papular purpuric \"gloves and socks\" syndrome (PPGSS)• Myocarditis• Primary maternal infection is associated with non-immune fetal hydrops and intrauterine fetaldemise343• Arthritis and arthralgia (adults)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q16_img1_66dc1147.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 17,
+      "question": "Niki, a 9-month-old baby is brought to the OPD for a rash. The mother says the baby had ahigh fever of 103 F for 3 days for which she was given paracetamol. This morning, the babyhad no fever but the mother noticed a rash on the trunk. On oral examination, ulcers at theuvulopalatoglossal junction are present. Which of the following statements is false regardingthis disease?",
+      "options": {
+        "A": "It is also called as erythema subitum",
+        "B": "Nagayama spots are commonly seen",
+        "C": "It is caused by human herpes virus-6",
+        "D": "It is a non-pruritic, morbilliform rash on the trunk"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of roseola infantum. It is also called exanthemasubitum, not erythema subitum.Roseola infantum is also called as sixth disease or exanthema subitum (exanthema=breaking out,subitum=sudden rash). It is caused by a human herpesvirus (HHV) -6A, 6B, and 7.Clinical features:••.Prodrome of high-grade feverNon-pruritic, morbilliform rash, which appears as the fever comes down.• Leucopenia and relative lymphocytosisNagayama spots: ulcers at uvulo-palatoglossal junctionImage: Exanthem subitum",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp17_img1_f7bac850.jpeg",
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 18,
+      "question": "A 14-year-old boy came to the OPD with the complaint of fever and sore throat. Onexamination, you noted generalized lymphadenopathy and hepatosplenomegaly. A peripheralblood smear revealed the following picture. What is the most probable diagnosis of thispatient?",
+      "options": {
+        "A": "Infectious mononucleosis",
+        "B": "Kimura disease",
+        "C": "Scrofuloderma",
+        "D": "Acute lymphoblastic leukemia333"
+      },
+      "correct_answer": "A",
+      "explanation": "The image of the peripheral blood film shows atypical lymphocytes, also known as Downey cells.The given clinical scenario along with characteristic atypical lymphocytes is suggestiveof infectious mononucleosis.Infectious mononucleosis, also called, glandular fever is caused by Epstein-Barr virus (EBV). It istransmitted person-to-person through salivary secretions and blood transfusion. The incubationperiod is 4 to 5 weeks. It presents with a classic triad of• Fever344•• Pharyngitis• LymphadenopathyOther clinical features include fatigue and hepatosplenomegaly. The patients are advised to avoidcontact sports for 3-4 weeks due to the risk of splenic rupture.The screening test of choice is the monospot test. This is a heterophile antibody test. Atypicallymphocytosis of &gt;10% is a characteristic laboratory finding. These are CD8 T lymphocytes thatdevelop in response to the infected B lymphocytes.Other diseases caused by EBV include:• Hodgkin's lymphoma•Non-Hodgkin lymphoma• Burkitt's lymphoma• Post-transplant lymphoproliferative disease• Nasopharyngeal carcinomaOption B: Kimura disease is s a chronic inflammatory disorder of unknown etiology that mostcommonly presents as painless lymphadenopathy.Option C: Scrofuloderma is the result of cutaneous infection adjacent to a tuberculous focus,which may correspond to peripheral ganglionar tuberculosis (the most common form ofextrapulmonary tuberculosis in HIV-positive patients and in children).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q18_img1_daababb6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is the most common cause of infantile diarrhea worldwide?",
+      "options": {
+        "A": "Rotavirus",
+        "B": "Lactose intolerance",
+        "C": "Norwalk virus",
+        "D": "Vibrio cholerae"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common cause of infantile diarrhea worldwide is rotavirus.Rotavirus causes diarrhea in children of 3-5 years of age, via the fecal-oral route. The incubationperiod is 1-3 days. Most cases are asymptomatic or with mild symptoms like watery diarrhea,vomiting, low-grade fever, and temporary lactose intolerance. This is presumably because of theprotection by maternal antibodies in breast milk. Diagnosis can be made by rapid antigendetection of rotavirus in stool specimensLactose intolerance is actually not very common in infants and typically only starts showing upafter age 3. All babies are born with lactase in their intestines. As they grow older,the lactase enzyme decreases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is not a mode of transmission of hepatitis B from the infected motherto the baby?",
+      "options": {
+        "A": "Transplacental transmission",
+        "B": "Perinatal transmission",
+        "C": "Amniocentesis",
+        "D": "Breast feeding"
+      },
+      "correct_answer": "D",
+      "explanation": "Breastfeeding is not a mode of transmission of hepatitis B from an infected mother to the baby.Mother-to-child transmission of HBV can occur via the following three routes:• Intrauterine transmission•Transmission during delivery (most frequent method)345• Postpartum transmissionPostpartum transmission: A proportion of babies may acquire the infection after birth due to closecontact with the mother. However, breastfeeding is not a risk factor for HBV infection.Transmission following amniocentesis has been described, but the risk appears low.Newborns born to seropositive Hepatitis B mothers are given Hep B immunoglobulin as well asHep B vaccination at birth.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 21,
+      "question": "Which fungal infection spreads in neonates through the care giver's hand?",
+      "options": {
+        "A": "Candida albicans",
+        "B": "Candida parapsilosis",
+        "C": "Candida tropicalis",
+        "D": "Candida glabrata"
+      },
+      "correct_answer": "B",
+      "explanation": "Candida parapsilosis is increasingly responsible for hospital outbreaks, and the hands ofhealthcare workers may be predominant environment sources.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 22,
+      "question": "A 16-year-old boy presented with rigidity and difficulty in movement. He has a history ofinvoluntary movements in a single group of muscles of legs suggestive of myoclonic jerks. Onexamination, choreoathetosis movements and lead pipe rigidity is noted in the limbs. EEGshows suppression-burst episodes which are characteristic for subacute sclerosingpanencephalitis. This clinical presentation is a complication of which of the followinginfection?",
+      "options": {
+        "A": "Mumps",
+        "B": "Chickenpox334",
+        "C": "Herpes",
+        "D": "Measles"
+      },
+      "correct_answer": "D",
+      "explanation": "Subacute sclerosing panencephalitis (SSPE) is a rare complication of measles. Hence, priorinfection with measles is most likely.SSPE occurs 3-8 years after a primary measles infection. It is the least common complication ofmeasles but is almost always fatal.The clinical manifestations occur in 4 stages:Stage I: Maybe missed due to mild symptoms like irritability and reduced attention span.Stage II: Hallmark is massive Myoclonus. Involuntary muscle movements and myoclonic jerksstart from one group of muscles but gives way to massive spams and jerks.Stage III: Involuntary movements disappear and are replaced by choreoathetosis, immobility,dystonia, and lead-pipe rigidity due to destruction of deeper parts of basal ganglia.Stage IV: Loss of critical centers that lead to coma and then death.•Diagnosis of SSPE is by:• Detection of measles antibody in CSF• Characteristic findings on EEG•Typical histological findings or/and isolation of virus or virus antigen from brain tissue obtainedby biopsy or after postmortem.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 23,
+      "question": "Most common heart defect in congenital rubella syndrome is:",
+      "options": {
+        "A": "ASD",
+        "B": "VSD",
+        "C": "PDA",
+        "D": "PS"
+      },
+      "correct_answer": "C",
+      "explanation": "Patent ductus arteriosus (PDA) is the most common congenital heart disease associated withrubella, followed by pulmonary artery stenosis (PS).Cardiac anomalies have been observed in 50% of children infected during the first 8 weeks ofgestation. The incidence of heart disease in congenital rubella syndrome is: PDA &gt; PS (right346&gt;left) &gt; ventricular septal defect &gt; atrial septal defect.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 24,
+      "question": "A 3-year-old male has the following buccal mucosa finding. After three days, he presents toyour OPD with a rash. What is your diagnosis?",
+      "options": {
+        "A": "Measles",
+        "B": "Leukoplakia",
+        "C": "Scarlet fever",
+        "D": "Kawasaki disease"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows small red lesions with bluish-white spots in the center on the inner aspectsof the cheek opposite to the lower premolar, indicating the presence of Koplik spots. Theappearance of these spots, along with a rash appearing three days later, strongly suggests adiagnosis of measles.The measles virus is a single-stranded RNA virus. Measles infection has 4 phases: the incubationperiod, prodromal illness, exanthematous phase (characterized by the rash), and recovery phase.After an incubation period of 8-12 days, the prodromal phase of measles starts with mild fever andis followed by conjunctivitis, photophobia, coryza, cough, and increasing fever. Koplik spots,appearing 1-4 days prior to the rash, are a characteristic sign of measles.Symptoms gradually intensify over a period of 2-4 days until the first day of the rash. The rashtypically begins on the forehead (around the hairline), behind the ears, and on the upper neck as ared maculopapular eruption. It then spreads downward to the torso and extremities, oftenbecoming confluent on the face and upper trunk.Complications include acute otitis media (most common), pneumonia (the most common cause ofdeath), croup, bronchiolitis, reactivation of tuberculosis, diarrhea, appendicitis, febrile seizures,and encephalitis. Subacute sclerosing panencephalitis is a rare chronic complication of measles.Other options:Option B: Leukoplakia appears as a white patch in the oral cavity that cannot be wiped off.Option C: Scarlet fever is Group A Streptococcus (GAS) pharyngitis and is characterized by adistinctive sandpaper rash. The rash appears as a diffuse, finely papular, erythematous eruptionthat turns the skin bright red and blanches on pressure. It starts around the neck and spreads tothe trunk and extremities.Option D: Kawasaki disease (KD) is a systemic inflammatory disorder with arteritis of medium tolarge-sized vessels. It presents with fever, rash (maculopapular, erythema multiforme urticarial, ormicropustular), conjunctivitis, and cervical lymph node enlargement.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q24_img1_777c7e6e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    },
+    {
+      "q_no": 25,
+      "question": "335What is the secondary attack rate of chickenpox?",
+      "options": {
+        "A": "60%",
+        "B": "40%",
+        "C": "85%",
+        "D": "50%"
+      },
+      "correct_answer": "",
+      "explanation": "The secondary attack rate of chicken pox is 85% (range 61-100%)Chicken pox:• Causative agent: Varicella-zoster virus••Incubation period: 2 to 3 weeks• Rash: On 1st day, centripetal, pleomorphic, vesiculopapular lesions with erythematous base (dewdrops on rose petal)Treatment: Acyclovir 20 mg/kg/dose; four doses per day; for 5 days347Complications:• Cutaneous: Secondary bacterial superinfection of the skin•Systemic: Acute cerebella ataxia, Guillain-Barre syndrome, transverse myelitis, optic neuritis,facial nerve palsy, pneumonia, Reye's syndrome•Aspirin is contraindicated due to risk of Reye's syndrome.Vaccine:• Oka strain (live attenuated)• All adults who have never had chickenpox should receive 2 doses 0.5 mL in the deltoid areasubcutaneously.• For &lt;13 years of age, the first dose is administered at 12-15 months and the second dose at age4-6 years.• For people older than 13 years, the two doses are administered 4-8 weeks apart.• For those already immunized, booster doses are not needed if titers are adequate.348",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Measles, Mumps, Rubella and Other Viral Infections"
+    }
+  ]
+}

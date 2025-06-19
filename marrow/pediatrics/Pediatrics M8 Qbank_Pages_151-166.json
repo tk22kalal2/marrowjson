@@ -1,0 +1,245 @@
+{
+  "chapter": "Elements",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Li Jing, a young tourist boy from the Keshan district of China, visits India for a novel scientific exchange program. He presents to the ER with severe breathlessness. His previous medical records give the diagnosis of congestive cardiomyopathy. Which micronutrient deficiency is most likely seen in this case?",
+      "options": {
+        "A": "Zinc",
+        "B": "Copper",
+        "C": "Magnesium",
+        "D": "Selenium"
+      },
+      "correct_answer": "D",
+      "explanation": "The Keshan district of China is known for having selenium-deficient soil, which can lead to a higher incidence of selenium deficiency in the local population. Selenium deficiency is associated with congestive cardiomyopathy, also known as Keshan disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 2,
+      "question": "Anika, a 6-year-old girl good at sprint events, has been avoiding her track practices over the recent few weeks. Her mother informs that she skips her classes owing to her knee pain. Her X-ray reveals subperiosteal hemorrhages. What is the likely diagnosis?",
+      "options": {
+        "A": "Vitamin C deficiency",
+        "B": "Vitamin B6 deficiency",
+        "C": "Vitamin B1 deficiency",
+        "D": "Vitamin B3 deficiency"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical vignette is suggestive of pseudoparalysis, which is a feature of scurvy - vitamin C deficiency. The subperiosteal hemorrhages in the lower limb bones can cause acute swelling and pain; the condition might mimic acute osteomyelitis or arthritis. The child refuses to walk because of the pain; hence, it is called pseudoparalysis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 3,
+      "question": "A four-year-old boy presents with petechiae, perifollicular hemorrhages, and swollen, bleeding gums. On examination, you identify the child to be malnourished and suspect scurvy. Which of the following is/are part of biochemical functions of the vitamin deficient in this condition?",
+      "options": {
+        "A": "2, 3, 4",
+        "B": "1 and 4 only",
+        "C": "1, 3, 5",
+        "D": "1, 2, 3, 4, 5"
+      },
+      "correct_answer": "C",
+      "explanation": "Scurvy is a deficiency of vitamin C. The correct answer is 1, 3, 5. Vitamin C is a water-soluble vitamin, which cannot be synthesized in the human body due to a deficient L-gulonolactone oxidase enzyme. Breast milk contains adequate amounts of ascorbic acid, whereas the pasteurization of animal milk at high temperature destroys vitamin C. Functions of Vitamin C / Ascorbic Acid : • Synthesis of collagen (hydroxylation of proline, which is vital for collagen; in the formation of the bone matrix). • Neurotransmitter metabolism (conversion of dopamine to norepinephrine and tryptophan to serotonin) • Cholesterol metabolism (conversion of cholesterol to steroid hormones and bile acids) • Biosynthesis of carnitine • Antioxidation (electron donor) • For the cellular and immunologic functions of the hematopoietic system.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp3_img1_ff246188.jpeg",
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 4,
+      "question": "A child in your unit is receiving treatment for chronic diarrhea. His diet history is remarkable for a high phytate-rich diet. His labs reveal low serum zinc. Which of the following findings is least likely to be seen in this child?",
+      "options": {
+        "A": "Dwarfism",
+        "B": "Incomplete development of gonads",
+        "C": "Dermatitis of extremities",
+        "D": "Predominant impairment of humoral immunity"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical vignette is suggestive of chronic zinc deficiency. Zinc deficiency affects both cell-mediated and humoral immunity. The cell-mediated immunity is impaired predominantly, as zinc is essential for T-cell division, maturation, and differentiation. In a child with a phytate-rich diet, a chronic deficiency of zinc and iron usually co-exist. Isolated chronic zinc deficiency can be seen in the setting of a child suffering from chronic diarrhea, repeated pneumonia or chest infections, and congenital malabsorption disorders. Chronic zinc deficiency manifests as: • Dwarfism. • Hypogonadism • Dermatitis of extremities and around orifices • T-cell immunodeficiency • Diarrhea. The features of acute zinc deficiency include: • Decreased growth • Poor wound healing • Diarrhea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 5,
+      "question": "The X-ray of a 7-year-old child diagnosed with scurvy showed the white line of Frankel. This would be best described as?",
+      "options": {
+        "A": "Lucent metaphyseal band",
+        "B": "Calcified cartilage at metaphysis",
+        "C": "Opaque radiologic shadow surrounding epiphyseal centers of ossification",
+        "D": "Lateral prolongation of metaphyseal calcification"
+      },
+      "correct_answer": "B",
+      "explanation": "Calcified cartilage at metaphysis is known as the white line of Frankel and it is seen in scurvy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 6,
+      "question": "The eldest child of a ragpicker from the urban slums of Bandra presents with severe lower limb pain. Examination reveals swelling of costochondral junctions. The X-ray image obtained is given below. What is the most probable diagnosis?",
+      "options": {
+        "A": "Scurvy",
+        "B": "Achondroplasia",
+        "C": "Osteomyelitis",
+        "D": "Rickets"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical vignette involving a neglected child (eldest usually) from a poor socio-economic background with bone pains due to subperiosteal hemorrhages and scorbutic rosary (swelling of costochondral junctions) is suggestive of scurvy. Radiological features of scurvy: Early changes - The white line of Frankel on the ends of the shafts of the tibia and fibula - Wimberger ring sign: Sclerotic rings around the epiphyses of the femur and tibia. Late changes - Trummerfeld zone: Zones of destruction in the femur and tibia - Pelkan spur at the cortical end. The image sums up the X-ray features noted in scurvy. Subperiosteal Hemorrhage, Scorbutic Zone, Trümmerfeld's zone, Dense Zone of Provisional Calcification (White line of Frankel), Ring Epiphysis, Wimberger's ring, Pelken's Spur. The image attached below shows a child with the scorbutic rosary.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q6_img1_3bc88a88.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp6_img1_aaf4e3e2.jpeg",
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 7,
+      "question": "A farmer from Hoshiarpur, Punjab rushes his 10-year-old boy to the pediatric ER. The father complained of intractable nausea and diarrhea in the child. On examination, the child has a garlicky odor and is severely dehydrated. You notice neurologic manifestations along with nail and hair changes in the child. Which of the following mineral toxicities would you suspect?",
+      "options": {
+        "A": "Selenium toxicity",
+        "B": "Chromium toxicity",
+        "C": "Molybdenum toxicity",
+        "D": "Iodine toxicity"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical vignette is suggestive of acute selenium toxicity. Selenium toxicity is characterized by nausea, diarrhea, neurologic manifestations, nail and hair changes, and a garlicky odor. It is commonly seen in areas where drinking water and the cultivated soil is extremely rich in selenium. In India, selenium toxicity is endemic to agricultural sites located in the states of Punjab and Haryana. The presentations are usually acute in nature rather than chronic. Chromium toxicity (Option B) is commonly seen only in adults with occupational exposure. Chromium is a pulmonary irritant and the symptoms are predominantly respiratory complaints similar to bronchitis. They also cause chronic allergic dermatitis and are carcinogenic too. Molybdenum toxicity (Option C) is very rarely seen in humans. It manifests usually as acute diarrhea. Iodine toxicity (Option D) can range from mild GI illness to chronic thyroid dysfunction varying from hyperthyroidism to papillary thyroid carcinoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 8,
+      "question": "A 2-month-old infant is brought to your OPD. The mother complains that the child refuses to feed and is not gaining adequate weight. She has recently noticed changes in her child's hair. On examination, the hair seems to resemble steel wool. Labs reveal low serum copper levels. What is the diagnosis?",
+      "options": {
+        "A": "De Vivo disease",
+        "B": "Menkes disease",
+        "C": "Keshan disease",
+        "D": "Kashin-Beck disease"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical vignette is suggestive of Menkes disease or Tricholipodystrophy or Steely hair disease, caused by copper deficiency. It is an X-linked recessive disorder caused by a mutation in ATP7A, which encodes for a copper-transporting ATPase polypeptide, leading to the disruption of copper transport in the intestine. The clinical features include: \n      • Failure to thrive (first presenting complaint)\n      • Neurological degeneration (myeloneuropathy)\n      • Infections\n      • Hair abnormalities (kinky hair with pili torti seen on a trichogram).\n      These infants have a characteristic cherubic appearance with a depressed nasal bridge, pudgy cheeks, 'Cupid's bow' upper lip, and doughy skin. A therapeutic trial with copper-histidine may be helpful. Option A: De Vivo disease is a metabolic disorder due to GLUT1 deficiency. Options C and D: Keshan disease (cardiomyopathy) and Kashin-Beck disease (endemic osteochondropathy) are caused by selenium deficiency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 9,
+      "question": "The anxious mother of a 5-month-old baby informs you that the baby incessantly cries on touching or lifting. The baby is comfortable when it is made to lie down. Diet history is significant for the child being fed exclusively on cow's milk. What could be the probable cause?",
+      "options": {
+        "A": "Scurvy",
+        "B": "JRA",
+        "C": "Rickets",
+        "D": "Caffey's disease"
+      },
+      "correct_answer": "A",
+      "explanation": "The above scenario is suggestive of scurvy. A child who presents with a cry on touching or lifting is usually due to subperiosteal hemorrhages. Scurvy/Barlow's Disease is caused due to the deficiency of vitamin C, especially in children fed predominantly on heat-treated cow's milk. High temperature destroys vitamin C. JRA - Juvenile Rheumatoid arthritis (Option B) rarely presents in infancy. Rickets (Option C) presents with growth retardation or other features such as craniotabes, craniosynostosis in infancy. It is generally associated with individuals who have a milk-deficient diet. Caffey's disease (Option D) is infantile cortical hyperostosis. It usually presents at 6 months of age with painful soft tissue swelling and bone thickening. The mandible is the most common bone involved.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 10,
+      "question": "A child is born with the following abnormality. What advice do you give to the mother, with regards to the next pregnancy? Dura Mater-Spinal Cord-Spinal Fluid-Vertebra",
+      "options": {
+        "A": "4 mcg of folic acid periconceptionally",
+        "B": "400 mcg of folic acid periconceptionally",
+        "C": "400 mcg of folic acid after confirmation of pregnancy",
+        "D": "4000 mcg of folic acid periconceptionally"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image shows spina bifida, the most common neural tube defect (NTD). 4000 mcg of folic acid periconceptionally is given to prevent NTDs in subsequent pregnancies. The normal dose of folic acid in pregnancy is 400 mcg (0.4 mg). However, the history of a previous pregnancy with an NTD raises the risk of another NTD in subsequent pregnancies. An increased dose of folic acid is thus prophylactically given during the periconceptional period to prevent NTD in the next child.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q10_img1_03ed8163.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 11,
+      "question": "A 10-year-old girl presented with the triad of diarrhoea, dermatitis, and delayed mental development. The child had neutral aminoaciduria and a positive Obermeyer test. Which of the following statements is false regarding the vitamin deficient in this child?",
+      "options": {
+        "A": "Carcinoid syndrome can cause secondary deficiency of this vitamin",
+        "B": "Tyrosine is its precursor",
+        "C": "It decreases the levels of lipoprotein (a)",
+        "D": "Most fatal complication with high dose of this vitamin is fulminant hepatitis"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical vignette is suggestive of Pellagra secondary to Hartnup's disease. The vitamin deficient in this condition is niacin. The precursor of niacin is tryptophan and not tyrosine. Niacin/vitamin B3 is a constituent of NAD and NADP. Its deficiency occurs in a maize-based diet (maize is deficient in tryptophan), carcinoid syndrome (all the tryptophan is converted to serotonin), and Hartnup disease (defective absorption from intestine and kidney). Niacin is the only lipid-lowering agent that lowers lipoprotein(a) levels significantly. It also results in a decrease in LDL, VLDL, and triglycerides along with an increase in HDL cholesterol. Niacin deficiency causes pellagra (3Ds) - Diarrhoea, Dermatitis (Cassal's necklace), Dementia, and finally death. Niacin toxicity manifests as: prostaglandin-mediated cutaneous flushing, glucose intolerance, and fulminant hepatitis (most fatal complication). Hartnup's disease is due to impaired renal and intestinal absorption of tryptophan and other neutral amino acids. It is characterized by a varied clinical presentation including ataxia (lack of muscle control), delayed mental development, diarrhoea, and dermatitis (pellagra-like symptoms as tryptophan is a precursor of niacin). Diagnosis of niacin deficiency secondary to Hartnup's disease is based on neutral aminoaciduria and increased excretion of indole compounds detected by the Obermeyer test.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp11_img1_a6fed786.jpeg",
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 12,
+      "question": "A 7-month-old child was brought by her mother with complaints of diarrhea and mucocutaneous lesions as shown in the image. The symptoms have been present since weaning was started. What is the diagnosis?",
+      "options": {
+        "A": "Wiskott Aldrich syndrome",
+        "B": "Acrodermatitis enteropathica",
+        "C": "Pediatric epidermolysis bullosa",
+        "D": "Atopic dermatitis"
+      },
+      "correct_answer": "B",
+      "explanation": "A child with eczematous rash typically in the perioral and perineal region is characteristic of acrodermatitis enteropathica, which is due to secondary zinc deficiency. It is an autosomal recessive disorder seen in infants due to a defect in the intestinal zinc-specific transporter gene. Oral zinc therapy is the preferred management. It classically presents while weaning from breast milk to formula, which has lower zinc bioavailability than breast milk. The symptoms are perioral and perineal rashes, periungual dermatitis - Beau's lines on nails, chronic diarrhea, and alopecia. Children commonly present with symmetrical, eczematous plaques that become vesicular, bullous, pustular, or erosive with characteristic crusting at the edges. The perioral eruption usually spares the upper lip, giving it a U-shaped or horseshoe-shaped appearance. Investigations would reveal low serum zinc. Oral zinc therapy is the treatment of choice (3mg/kg/24 hour). Option A: Wiskott Aldrich syndrome is the classical triad of thrombocytopenia, eczema, and recurrent pyogenic infections. No history of bleeding rules out this option. Option C: Epidermolysis bullosa presents as bullous lesions in pressure-handling areas. Option D: In atopic dermatitis, usually the lesions will be itchy and distributed in extensor aspects (flexural in adults).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q12_img1_c9c383af.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp12_img1_aaf3cbb5.jpeg",
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 13,
+      "question": "A young school-going girl, a known case of seizure disorder controlled with valproic acid,complaints of constant bullying by her classmates for her patchy hair loss. Local scalpexamination reveals scaly dermatitis and hair loss with intermittent constrictions. Which ofthe following deficiencies is associated with this condition?",
+      "options": {
+        "A": "Vitamin B3",
+        "B": "Vitamin H",
+        "C": "Vitamin B6",
+        "D": "Vitamin B1"
+      },
+      "correct_answer": "",
+      "explanation": "Biotin (Vitamin H or Vitamin B7) deficiency can cause alopecia, dermatitis (periorificial), andthinning of hair. It is commonly seen in individuals who are on long term valproate therapy.Scarring alopecia with islands of dense hair referred to as intermittent constrictions is classicallyseen in biotin deficiency.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q13_img1_83d44c6f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 14,
+      "question": "A 2-day-old neonate is noted to have multifocal-clonic seizures. These seizures areunresponsive to pharmacologic therapy. Which vitamin dependency is responsible for suchseizures?",
+      "options": {
+        "A": "Pyridoxine",
+        "B": "Thiamine",
+        "C": "Niacin",
+        "D": "Folic acid"
+      },
+      "correct_answer": "B",
+      "explanation": "Pyridoxine is one of the causes of refractory seizures in the neonatal period and infancy.Pyridoxine and pyridoxal dependency disorders can cause severe seizures. These seizures, whichare often multifocal clonic, usually start during the first few hours of life. It involves a mutation inthe ALDH7A1 gene causing a deficiency of an enzyme involved in the degradation ofI-alpha-aminoadipic semialdehyde.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 15,
+      "question": "Cardiac edema and neuropathy are seen in which of the following vitamin deficiencies?",
+      "options": {
+        "A": "Biotin",
+        "B": "Thiamine",
+        "C": "Pyridoxine",
+        "D": "Riboflavin"
+      },
+      "correct_answer": "B",
+      "explanation": "Cardiac edema and neuropathy are associated with the deficiency of thiamine (vitamin B1).Early symptoms of thiamine deficiency include peripheral neuropathy, irritability, loss of deeptendon reflexes, and proprioception. As the disease progresses, increased intracranial pressure,meningismus, and coma develop.165Wet beriberi (cardiac) is associated with tachycardia, cardiomegaly, cardiac failure, and edema. Itis commonly seen in the refugee camps where people consume polished rice based monotonousdiets. Diagnosis of thiamine deficiency can be established by erythrocyte transketolase activityassessment.Dry beriberi is associated with neurological deficits such as optic atrophy, ataxia, and irritability.Complications include lactic acidosis and Wernicke encephalopathy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Elements"
+    },
+    {
+      "q_no": 16,
+      "question": "During the routine ophthalmic examination of a 6-year-old child as a part of a school health survey, you notice the following finding as shown in the image. This is characteristically associated with a deficiency of",
+      "options": {
+        "A": "Thiamine",
+        "B": "Riboflavin",
+        "C": "Biotin",
+        "D": "Pyridoxine"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows corneal vascularization, which is characteristic of Riboflavin deficiency. Other features include glossitis, cheilosis, and photophobia, collectively called ariboflavinosis.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp16_img1_e5b930db.jpeg",
+      "chapter_heading": "Elements"
+    }
+  ]
+}

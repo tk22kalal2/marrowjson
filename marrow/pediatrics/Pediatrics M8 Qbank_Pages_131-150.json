@@ -1,0 +1,305 @@
+{
+  "chapter": "Deficiency of Fat Soluble Vitamins",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is an 'anti-infective' vitamin?",
+      "options": {
+        "A": "Vitamin E",
+        "B": "Vitamin A",
+        "C": "Vitamin D",
+        "D": "Vitamin C"
+      },
+      "correct_answer": "B",
+      "explanation": "Vitamin A is known for its anti-infective properties.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 2,
+      "question": "What would be the ideal dose of vitamin A that you should prescribe to a 9-month-old infant along with the measles vaccine?",
+      "options": {
+        "A": "10,000 IU",
+        "B": "100,000 IU",
+        "C": "50,000 IU",
+        "D": "200,000 IU"
+      },
+      "correct_answer": "B",
+      "explanation": "For a child aged 9 months, the dose of vitamin A given is 100,000 IU.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 3,
+      "question": "A 2-year-old unvaccinated girl is brought to the OPD with high-grade fever and maculopapular rashes for 2 days. On examination, she has blue-white spots on her buccal mucosa as shown in the image attached below. Which of the following vitamin deficiencies is associated with this condition?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin E",
+        "C": "Vitamin C",
+        "D": "Vitamin K"
+      },
+      "correct_answer": "A",
+      "explanation": "The girl is suffering from measles. It is associated with vitamin A deficiency. Vitamin A deficiency is associated with an increased risk of infection and increased mortality with a variety of infectious diseases, particularly measles. Hence, vitamin A therapy is indicated in all patients with measles. The main functions of vitamin A are as follows: • Maintenance of vision, especially night vision • Maintenance of epithelial tissues • Differentiation of various tissues, particularly during reproduction and gestation, by regulating gene expression. Features of vitamin A deficiency: • Eyes: Defective dark adaptation is a characteristic early clinical feature, resulting in night blindness (earliest manifestation). This can further progress to xerophthalmia, Bitot's spots, conjunctivitis, or keratomalacia, leading to blindness. • Poor overall growth, anemia • Diarrhea, susceptibility to infections • Increased intracranial pressure • Keratinization of mucous membranes and skin (hyperkeratosis)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q3_img1_fbb2dd44.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 4,
+      "question": "A young girl of Class 4 complains of a burning sensation in the eye. Clinical examination of eyes reveals the finding shown below. What could be the mechanism for the development of such lesions?",
+      "options": {
+        "A": "Deposition of calcium in the conjunctiva",
+        "B": "Scarring of the conjunctiva",
+        "C": "Excessive growth of conjunctival tissue",
+        "D": "Keratinization of the conjunctival epithelium"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical image is showing Bitot spots, which occur due to keratinization of the conjunctival epithelium. Bitot spots are triangular, frequently bilateral, and present on the bulbar conjunctiva. Normally, bulbar conjunctiva is a stratified, columnar, non-keratinized epithelium. In vitamin A deficiency, there is squamous metaplasia of the conjunctival epithelium and tangles of keratin admixed with gas-forming bacteria producing a dry, scaly patch with a foamy appearance called Bitot spots. Option A: Deposition of calcium in the conjunctiva is termed conjunctival concretions, which usually occurs over the palpebral conjunctiva, in chronic inflammatory conditions of the eye. Option B: Scarring of the conjunctiva is seen in chlamydial infection of the eye. Option C: Excessive growth of conjunctival tissue is seen in the pterygium of the eye.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q4_img1_5e38c546.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 5,
+      "question": "A 6-year-old boy with complaints of dry, itchy eyes and night blindness had the following ophthalmic finding as given in the image. What is the stage of vitamin A deficiency as per WHO classification?",
+      "options": {
+        "A": "Stage X1B",
+        "B": "Stage X3A",
+        "C": "Stage X2",
+        "D": "Stage XF"
+      },
+      "correct_answer": "B",
+      "explanation": "The image depicts a corneal ulcer occupying <1/3rd of the cornea under a slit lamp with a fluorescein stain. This corresponds to stage X3A of vitamin A deficiency.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q5_img1_18902014.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 6,
+      "question": "A 6-year-old boy is brought to the OPD with complaints of headache, desquamation of the skin, and bone pain. Pathological examination revealed lysosomal rupture within the cells, prompting a suspicion of hypervitaminosis A. Which of the following statements is false about the principle vitamin that is in excess in the given condition?",
+      "options": {
+        "A": "1, 3, 4, 5",
+        "B": "1 and 4 only",
+        "C": "2 and 5 only",
+        "D": "4 and 5 only"
+      },
+      "correct_answer": "D",
+      "explanation": "Both hypervitaminosis A and deficiency of vitamin A cause raised intracranial pressure (ICP) (not just hypervitaminosis A). 11-cis retinal (not trans) is required for vision. Hypervitaminosis A causes headache, vomiting, desquamation of the skin, and hyperostosis of long bones. Rupture of lysosomes in the cells is the pathological feature of hypervitaminosis A. All-trans retinoic acid is the most bioactive form of vitamin A, and it is required for cell differentiation and the regulation of transcription. On the other hand, 11-cis retinal is required for vision. Protein-energy malnutrition can cause vitamin A deficiency because of the impaired synthesis of retinol-binding protein (RBP).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 7,
+      "question": "Your best friend is recently worried that she has a lot of hair fall. Which of the following vitamin capsules, if added to her diet, can help prevent free radical injury and thus be beneficial for her?",
+      "options": {
+        "A": "A",
+        "B": "E",
+        "C": "K",
+        "D": "D"
+      },
+      "correct_answer": "B",
+      "explanation": "Vitamin E/Tocopherol is a potent antioxidant and is helpful in preventing hair fall. It promotes hair growth and prevents hair roots from getting damaged by free radical injury. Alpha-tocopherol is the active component of vitamin E and it is mainly located within cell membranes, preventing lipid peroxidation and the formation of free radicals. Deficiency of this can also lead to neurological defects, hemolysis, and posterior column defect. Treatment includes vitamin E supplementation (25–50 units/day for a week). Note: The other vitamins having antioxidant properties are vitamins A, C, and E (vitamin E is the most important). The other vitamin beneficial in the treatment of hair fall is biotin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 8,
+      "question": "An anxious mother brings her 6-month-old child with concerns about not gaining weight and height. On examination, stunted growth, craniotabes, frontal bossing, and craniosynostosis are noted. What is the most likely diagnosis?",
+      "options": {
+        "A": "Scurvy",
+        "B": "Rickets",
+        "C": "Rhizomelic chondrodysplasia punctata",
+        "D": "Achondroplasia"
+      },
+      "correct_answer": "B",
+      "explanation": "Craniotabes (soft skull), frontal bossing, stunted growth, and craniosynostosis are clinical features of rickets. General features include failure to thrive, listlessness, protruding abdomen, proximal muscle weakness, and fractures. Head-to-toe examination would include the following features: Head examination would include craniotabes, frontal bossing, delayed fontanel closure, delayed dentition, and craniosynostosis. Chest examination would reveal rachitic rosary, Harrison's sulcus, and repeated respiratory infections and atelectasis. Spinal deformities could include kyphosis, scoliosis, lordosis. Limb examination and extremities may show windswept deformity, anterior bowing of tibia, coxa vara, and enlargement of wrists and ankles. Bowings of legs (genu varum) or knock knees (genu valgum) may be noted. These changes can be seen only in children of the weight-bearing age group/toddlers.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp8_img1_b17bd83c.jpeg",
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 9,
+      "question": "The X-ray image of a child with muscle weakness and failure to thrive is attached below. What is the likely diagnosis?",
+      "options": {
+        "A": "Scurvy",
+        "B": "Rickets",
+        "C": "Osteomalacia",
+        "D": "Osteopetrosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical vignette with the above X-ray image shows fraying and cupping of the metaphysis, suggestive of rickets. Radiological features in rickets include: fraying (widening and irregularity of the growth plate), cupping (concavity of the metaphysis), splaying at metaphysis (widening of metaphyseal ends), and generalized rarefaction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q9_img1_5e447366.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 10,
+      "question": "An 8-year-old child from a rural slum area is brought to your OPD with a deformity as shown in the image. Which of the following conditions is characteristically associated with this deformity?",
+      "options": {
+        "A": "Scurvy",
+        "B": "Rickets",
+        "C": "Achondroplasia",
+        "D": "Rheumatoid arthritis"
+      },
+      "correct_answer": "B",
+      "explanation": "Windswept deformity (a combination of valgus deformity of one leg with varus deformity of the other leg) is seen in rickets. It is also seen in rheumatoid arthritis but is characteristically seen in rickets. Other deformities of extremities seen in rickets include: • Enlargement of wrists and ankles • Valgus or varus deformities of limbs • Anterior bowing of the tibia and femur • Coxa vara",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q10_img1_4cfdf375.png",
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 11,
+      "question": "Your school friend brings his 5-year-old son to your OPD with small swellings on the chest that he had felt while giving the child a bath. On examination, you note swellings at the costochondral junctions. Which of the following conditions would be your differentials for this clinical presentation?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "2 and 3 only",
+        "C": "2 only",
+        "D": "1, 2, 3"
+      },
+      "correct_answer": "D",
+      "explanation": "Swelling of the costochondral junctions is seen in all the 3 conditions mentioned above. Rachitic rosary: Scorbutic rosary: Beaded (rounded) in appearance, non-tender, due to metaphyseal widening. Angulated in appearance, tenderness on palpation (subperiosteal hemorrhage), due to epiphyseal separation. Note: Tietze syndrome is the benign inflammation of the costochondral junction. Image: Given below is a photo of the chest cage with pectus excavatum. Image: The above image shows a rachitic rosary type of appearance.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp11_img1_0b00472f.jpeg",
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 12,
+      "question": "A 22-month-old girl presents with failure to thrive and delayed achievement of motor milestones. On examination, she seems irritable and is noted to have bowed legs, thick wrists, and dental caries. Which of the following is not a radiographic sign of this condition?",
+      "options": {
+        "A": "Increase in the width of the growth plate",
+        "B": "Decreased bone density",
+        "C": "Splaying",
+        "D": "Subperiosteal hemorrhage"
+      },
+      "correct_answer": "D",
+      "explanation": "The child is suffering from rickets. Subperiosteal hemorrhage is not a radiographic sign of rickets. On the contrary, it is seen in scurvy. Radiographic features of rickets: • Widening of the growth plate: Decreased calcification leads to reduced bone density. • Fraying: The edge of the metaphysis loses its sharp border. • Cupping: The edge of the metaphysis changes from a convex or flat surface to a more concave surface. Splaying: Weight-bearing and stress on the uncalcified bone gives rise to the widening of the metaphyseal end. Enlargement of the wrists and ankles due to the widening of the distal end of the metaphysis. • Coarse trabeculation of the diaphysis. • Generalized rarefaction.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp12_img1_2f2b5aab.jpeg",
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 13,
+      "question": "A 2-year-old child from an urban slum is diagnosed with nutritional rickets. Which of the following biochemical markers can be seen in this child?",
+      "options": {
+        "A": "Increased alkaline phosphatase",
+        "B": "Hyperphosphatemia",
+        "C": "Reduced parathyroid hormone",
+        "D": "Alkalosis"
+      },
+      "correct_answer": "A",
+      "explanation": "In nutritional rickets, serum alkaline phosphatase levels are increased. Biochemical findings in nutritional rickets (nutritional vitamin D deficiency): • Normal or low calcium (since due to low calcium and vitamin D deficiency, PTH increases, which will try to normalize the low calcium) • Parathyroid hormone levels are elevated (in order to increase the serum calcium) • Hypophosphatemia (because of increased parathyroid hormone [PTH]) • Metabolic acidosis (secondary to PTH-induced renal bicarbonate wasting)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 14,
+      "question": "A child in your unit is admitted with alopecia, oligodontia, and features of rickets with elevated serum levels of alkaline phosphatase activity and 1,25-dihydroxy vitamin D. What could be the pathology?",
+      "options": {
+        "A": "Nutritional deficiency of vitamin D",
+        "B": "Defect in 1 alpha hydroxylase",
+        "C": "Autoantibodies against vitamin D",
+        "D": "End-organ resistance to vitamin D"
+      },
+      "correct_answer": "D",
+      "explanation": "Alopecia and oligodontia (reduced number of teeth) with features of rickets in a child is classically seen in vitamin D-dependent rickets type 2, where the pathology is end-organ resistance (receptor hyposensitivity) to vitamin D. Rickets causes: nutritional vitamin D deficiency, secondary vitamin D deficiency, vitamin D-dependent rickets, type 1 (defect in 1-alpha hydroxylase), vitamin D-dependent rickets, type 2 (end-organ resistance), chronic kidney disease, hypophosphatemic rickets, X-linked dominant hypophosphatemic rickets (PHEX gene mutation), autosomal dominant (fibroblast growth factor [FGF] resistance to endopeptidases), and oncogenous rickets (increased FGF 23). Note: Vitamin D antibodies are found in most patients of systemic sclerosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 15,
+      "question": "Stoss therapy is used in the treatment of which of the following micronutrient deficiencies?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin E",
+        "C": "Vitamin D",
+        "D": "Vitamin K"
+      },
+      "correct_answer": "C",
+      "explanation": "Stoss therapy is used in the treatment of vitamin D deficiency. There are two strategies for the administration of vitamin D: • Stoss therapy: Here, 300,000-600,000 IU of vitamin D are administered orally or intramuscularly as 2 or 4 doses over 1 day. The alternative strategy is daily vitamin D with a minimum dose of 2,000 IU/day for a minimum of 3 months. Both strategies should be followed by a daily vitamin D intake of 400 IU/day if the child is <1-year-old or 600 IU/day if the child is >1-year-old. Children must also receive adequate dietary calcium and phosphorus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 16,
+      "question": "A child with rickets not responding to treatment is being evaluated. Investigations showserum calcium level of 9 mg/dL, low phosphate level of 2 mg/dL, elevated alkalinephosphatase, and normal parathyroid hormone levels with normal arterial blood gas levels.What is the diagnosis?",
+      "options": {
+        "A": "Renal tubular acidosis",
+        "B": "Hypophosphatemic rickets",
+        "C": "Chronic kidney disease",
+        "D": "Vitamin D-dependant rickets, type 2"
+      },
+      "correct_answer": "A",
+      "explanation": "This clinical scenario of a child with a history of treatment-resistant rickets, normal levels ofcalcium (9 to 11 mg/dL), parathyroid hormone, arterial blood gas (ABG), with decreasedphosphate (normal, 2.5 to 4.3 mg/dL), and elevated levels of alkaline phosphatase (normal, 33 to96 U/L) is suggestive of hypophosphatemic rickets.Hypophosphatemic rickets:X-linked dominant hypophosphatemic rickets is the most common genetic cause of rickets whilethe most common, overall is nutritional vitamin Ddeficiency. PHEX gene (phosphate-regulating endopeptidase on x chromosome) products areresponsible for the inactivation of phosphatonin. Mutation of this PHEX leads to increasedphosphatonin (FGF 23) levels, and hence, the excretion of phosphorous is increased. This is alsoassociated with impaired renal tubular reabsorption of phosphate leading to its excess excretion.The chart attached below summarizes the evaluation of hypophosphatemic rickets.AcidosisSerum phosphorusLow or normalABGHighRickets associated withchronic renal failureNo acidosisROWRenal tubularCheck PTH &acidosiscalciumincreased PTH.low/normalcalciumVit D dependantricketsPTH & calciumnormalHypophosphatemia©MARROWTreatment-resistant rickets:Patients respond well to a combination of oral phosphorus and 1,25-D (calcitriol). Frequent dosinghelps prevent prolonged decrements in serum phosphorus levels because there is a rapid declineafter each dose. In addition, frequent dosing decreases diarrhea, which is a complication ofhigh-dose oral phosphorus.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp16_img1_4da0119f.jpeg",
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 17,
+      "question": "A concerned mother of an infant, a known case of cystic fibrosis, presents to your OPD with complaints of abdominal pain, loose stools not settling with antibiotics, and other medications. She recently stopped breastfeeding and switched to formula feeds. On examination, you find petechial rashes. Which of the following below-mentioned causes would not prompt you to suspect a deficiency of Vitamin K in this child?",
+      "options": {
+        "A": "Biliary obstruction",
+        "B": "Artificial milk feeds",
+        "C": "Oral antibiotic therapy",
+        "D": "Cystic fibrosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Vitamin K deficiency occurs mostly in breastfed infants, not in artificial milk-fed babies, as the formula milk is fortified. The use of broad-spectrum antibiotics that eliminate the intestinal vitamin K2-producing bacteria can cause vitamin K deficiency. Biliary atresia causes malabsorption of vitamin K, due to defective fat absorption. There are three forms of vitamin K deficiency bleeding (VKDB) of the newborn: Early VKDB of the newborn is prevented by the administration of a single intramuscular (IM) injection of vitamin K (1 mg) at birth. Secondary to maternal intake, Early VKDB (classic hemorrhagic disease of the newborn) occurs from 1 to 14 days. Late VKDB occurs from 2 to 12 weeks, often in breastfed babies and in those with malabsorption of vitamin K (cystic fibrosis, biliary atresia).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 18,
+      "question": "What is the recommended dietary allowance (RD",
+      "options": {
+        "A": "of vitamin D in a 4-year-old child?a) 400 IU",
+        "B": "600 IU",
+        "C": "200 IU",
+        "D": "1000 IU"
+      },
+      "correct_answer": "B",
+      "explanation": "In a child of age 4 years, the recommended dietary allowance (RDA) of vitamin D is 600 IU.Note:• Vitamin A: 1 IU = 1 IU retinol = 0.3 mcg of Retinol Equivalents (RE)• Vitamin C: 1 IU = 50 mcg of ascorbic acid• Vitamin D: 1 IU = 0.025 mcg cholecalciferol",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 19,
+      "question": "Rickets in an infant presents as all except",
+      "options": {
+        "A": "Craniotabes",
+        "B": "Widened fontanelle",
+        "C": "Rachitic rosary",
+        "D": "Bow legs"
+      },
+      "correct_answer": "D",
+      "explanation": "Bowing of legs is not a feature of rickets in infants, because it appears only after weight-bearing. Thus, bow legs are a feature of rickets in toddlers. Image: Rachitic rosary (widening of the costochondral junctions). Image: Wrist X-ray image",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp19_img1_55efb951.jpeg",
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is false regarding phosphatonins?",
+      "options": {
+        "A": "It is a phosphate-regulating factor",
+        "B": "It increases the renal reabsorption of phosphate",
+        "C": "It is produced by osteocytes",
+        "D": "FGF 23 is an important phosphatonin"
+      },
+      "correct_answer": "B",
+      "explanation": "Phosphatonin is a group of phosphate-regulating factors produced by osteocytes, and FGF 23 isthe most important phosphatonin. Phosphatonin increases renal excretion (not reabsorption) ofphosphate.Mechanism of phosphatonin action:Vitamin D receptor activation by 1,25 dihydroxy D (active vit D)↓FGF 23 release by osteocytes149↓Reduces expression of sodium-phosphate transporter in proximal convoluted tubules of thekidney↓Increased urinary phosphate excretionMeanwhile, phosphatonin decreases the activity of 1 alpha hydroxylase and, therefore, theproduction of 1,25-D as well. So, the absorption of phosphate from the intestine is also reduced.150",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Deficiency of Fat Soluble Vitamins"
+    }
+  ]
+}

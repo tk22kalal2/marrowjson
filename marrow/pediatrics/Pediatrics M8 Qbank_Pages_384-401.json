@@ -1,0 +1,305 @@
+{
+  "chapter": "Disorders of the Liver",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A mother observed unusual redness on the palms of her young child while putting him tosleep. She brings him to your OPD and on examination, you find mild abdominal distension,splenomegaly, and pedal edema. You admit the child for further evaluation, but on the nightof admission, he suddenly starts vomiting fresh blood. Which is the most likely diagnosis?",
+      "options": {
+        "A": "Mallory Weis tear",
+        "B": "Esophageal varices",
+        "C": "Kala azar",
+        "D": "AML"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 2,
+      "question": "A 10-year-old boy was brought by his mother to the ER after having a sudden episode ofvomiting blood. On examination, splenomegaly is detected with engorged superficial veinsaround his umbilicus. Which is the investigation of choice in this patient?",
+      "options": {
+        "A": "Abdominal USG",
+        "B": "Capsule endoscopy",
+        "C": "Triphasic CT",
+        "D": "Upper GI endoscopy"
+      },
+      "correct_answer": "D",
+      "explanation": "A child presenting with hematemesis and splenomegaly is presumed to have variceal bleeding andhence, upper GI endoscopy is the investigation of choice.The upper GI endoscopy provides a definitive diagnosis and an option to treat via band ligation orsclerotherapy.Capsule endoscopy, ultrasound, CT, MRI, and elastography are not recommended because of theirsuboptimal accuracy compared to endoscopy. Capsule endoscopy is used to investigate anoccult/obscure gastrointestinal bleed mostly suspected to be in the small intestine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 3,
+      "question": "Unconjugated hyperbilirubinemia, which did not subside even after 3 weeks of birth, wasobserved in a neonate. On investigating, liver enzymes, PT/INR and albumin levels werenormal. No hemolysis was seen on a peripheral blood smear. A drop in bilirubin level wasobserved within a week after treating with phenobarbital. What is the most likely diagnosis?",
+      "options": {
+        "A": "Rotor syndrome",
+        "B": "Crigler Najjar type 2",
+        "C": "Dubin Johnson syndrome",
+        "D": "Crigler Najjar type 1384"
+      },
+      "correct_answer": "B",
+      "explanation": "Jaundice persisiting 3 weeks after birth is suggestive of pathological jaundice. Among the givenoptions, Crigler Najjar type 2 presents with unconjugated hyperbilirubinemia which respondsto phenobarbital therapy.Dubin Johnson (option C) and Rotor (option A) syndromes lead to conjugatedhyperbilirubinemia.Crigler Najjar type 2 is an autosomal recessive disease with non-hemolytic, unconjugatedhyperbilirubinemia caused by homozygous missense mutations in the enzyme UDPUGT1A1 resulting in reduced (partial) enzymatic activity.The differences between Crigler-Najjar type 1 and type 2 are described in the table below:Crigler Najjar Type 1Autosomal recessiveUDPGT isabsentSevere unconjugated hyperbilirubinemiaPale stoolsMay proceed tokernicterusanddoes notrespond to phenobarbitoneCrigler Najjar Type 2Autosomal recessiveUDPGT isreducedLess severeNormal-coloured stoolsDoes not proceed to kernicterus andis responsive to phenobarbitone",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 4,
+      "question": "A 14-year-old boy was brought to the OPD by his father who observed a yellowish tinge to hisskin and eyes. He gives a history of recent onset fatigue after playing football for a fewminutes and cannot stay active on the playground for a long time like before. Investigationsrevealed isolated conjugated hyperbilirubinemia but are normal otherwise. Liver histologyrevealed a black pigment. What is the most likely diagnosis?",
+      "options": {
+        "A": "Gilbert syndrome",
+        "B": "Crigler-Najjar syndrome",
+        "C": "Dubin-Johnson syndrome",
+        "D": "Rotor syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "The presence of fatigue, conjugated hyperbilirubinemia and black pigment on liver biopsy, termedas \"black liver\" is suggestive of Dubin-Johnson syndrome.Dubin-Johnson syndrome is an autosomal recessive inherited defect in hepatocyte secretion ofbilirubin glucuronide. Disease results from absent function of multiple drug-resistant protein2, an ATP dependent canalicular transporter.392The most commonly reported symptoms are abdominal pain and fatigue, jaundice, dark urine,and slight enlargement of the liver.Inherited conjugated hyperbilirubinemia-Dubin-Johnson syndromeRotor syndromeAutosomal recessiveAutosomal recessiveAbsent function ofmultiple dr Defect in anion transportug-resistant protein (MRP-2)Black liveron biopsy (due to accumulation of epinephrinemetabolite)Normal levels of coproporphyrin in urineGall bladder is not visualizedon oral cholecystographyBlack liver is not seenIncreased levels of coproporphyrin in urineGall bladder is visualized onoral cholecystography",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 5,
+      "question": "You are an intern posted in the paediatrics department and a child with Dubin-Johnsonsyndrome is admitted to your unit. During rounds, the attending paediatrician asks youwhich molecular defect causes liver disease in this patient. Your answer would be",
+      "options": {
+        "A": "ATP7A",
+        "B": "ATP7B",
+        "C": "ABCC2",
+        "D": "SERPINA 1"
+      },
+      "correct_answer": "",
+      "explanation": "Molecular defect causing liver disease in Dubin-Johnson syndrome is ABCC2 (codes forcanalicular protein with ATP-binding cassette), it leads to the mutation of multiple drug-resistantprotein 2 (MRP2) receptor. Hence, there is a defect in the transfer of conjugated bilirubin fromthe liver to bile in Dubin-Johnson syndrome.Important diseases and their molecular defects:ATP7AMenke's diseaseATP7BWilson diseaseCFTRCystic fibrosisSERPINA 1ABCC2 (MRP2 protein defect)α-1 antitrypsin deficiencyDubin Johnson syndrome",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 6,
+      "question": "All are true about transient familial neonatal hyperbilirubinemia, except:",
+      "options": {
+        "A": "Increased unconjugated bilirubin",
+        "B": "Occurs due to maternal antibody against fetal UGT1A1",
+        "C": "It is also known as Lucey Driscoll syndrome",
+        "D": "Stop breast feeding when jaundice sets in"
+      },
+      "correct_answer": "D",
+      "explanation": "Lucey Driscoll syndrome or transient familial neonatal hyperbilirubinemia is a self-limitingcondition and there is no need to stop breastfeeding.Lucey Driscoll syndrome is an autosomal recessive metabolic disorder affecting enzymes involvedin bilirubin metabolism. It causes transient familial neonatal unconjugated hyperbilirubinemiaand jaundice occurs during the first 4 days of life. It is due to maternal antibodies against fetalUGT1A1 (UDP glucuronosyltransferase family 1 member A1).393",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 7,
+      "question": "Lately, a teacher observed that an anxious young girl had started drooling saliva from hermouth while listening in the classroom. She had also developed a deterioration in herhandwriting while taking down notes. Her mother was informed and she brought her child to385your clinic. On examination, she had tremors and mild hepatomegaly. A slit-lampexamination was done and showed the following picture. The right statement about thisdisease is -",
+      "options": {
+        "A": "It is autosomal dominant.",
+        "B": "Serum ceruplasmin levels are high.",
+        "C": "Coombs-positive hemolytic anaemia may be present.",
+        "D": "Patient can be treated with triethylenetetramineDAILYROUNDS"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shows the Kayser-Fleischer ring, which is characteristic of Wilson's disease. It is anautosomal recessive disorder, characterised by low serum ceruloplasmin levels. Coomb's negativehemolytic anemia may be present. The patient can be treated with triethylenetetramine alsoknown as trientine.Wilson's disease is caused due to a loss-of-function mutation in the ATP7B gene on Chr.13q. Thegene encodes a copper transporting ATPase (ATP7B) which has 2 functions:• Maintains copper in bound form by binding copper to apoceruloplasmin• Helps excrete free copper in bile.Thus, an ATP7B deficiency leads to excess deposition of free copper within tissues.The drugs used in the management of Wilson's disease include:•Chelating agents as first-line drugs• D-penicillamine• Trientine or triethylenetetramine• Elemental zinc as maintenance therapy.Lab markersChange in Wilson's diseasReasoneSerum ceruloplas↓↓min24h urinary coppe↑↑rTotal serum coppe↓rATP7B deficiency results in reduced bound copperExcess free copper excreted in urineDue to marked reduction in ceruloplasmin",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q7_img1_0473ee45.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 8,
+      "question": "A mother observed deterioration in her young child's academic performance and loss ofinterest in everyday activities for the last few weeks. She has also lost the ability to play catchwith her brother and complains of muscle weakness. There is mild hepatomegaly noted onexamination. Her serum ceruloplasmin levels were reduced. All of the followingmanifestations can occur in a patient with this disease except?",
+      "options": {
+        "A": "Sparse depigmented hair",
+        "B": "Shrinkage of liver",
+        "C": "Ascites and portal hypertension",
+        "D": "Renal Fanconi syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "The presence of reduced ceruloplasmin levels, motor incoordination, and hepatomegaly suggestthe patient is suffering from Wilson's disease. Sparse depigmented hair is not a feature of Wilson'sdisease. It is a feature of Menke's disease.Wilson's disease is caused due to a mutation in the ATP7B gene that leads to excess deposition offree copper within tissues.It has the following clinical features:Note: Wilson's disease may also present as cirrhosis and hepatic failure, where shrinkage of liveroccurs.394SystemHepatic(most common)NeurologicalOphthalmicOthersClinical featuresJaundiceAbdominal painHepatomegalyFatigueAscitesVariceal bleedCoagulation defectsDysarthriaDystoniaParkinsonismSubcortical dementiaDepression Wing beating tremorsDecreased scholastic performanceKayser-Fleischer (KF) ringsSunflower cataractHemolytic anemia (Coombs negative)Acute pancreatitis Fanconi's syndrome HyperparathyroidismCardiomyopathySpontaneous abortionsInfertility",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 9,
+      "question": "In Wilson Disease, hepatic copper content usually exceeds μg/g dry weight.386",
+      "options": {
+        "A": "150",
+        "B": "250",
+        "C": "350",
+        "D": "450"
+      },
+      "correct_answer": "B",
+      "explanation": "In Wilson disease, hepatic copper content usually exceeds 250 µg/g dry weight.Hepatic copper accumulation is the hallmark of Wilson disease. It is measured using neutronactivation analysis/atomic absorption spectrometry.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 10,
+      "question": "A male infant was born to a mother with chronic hepatitis B infection. The infant is suspectedto have been exposed at the time of delivery. At 4 months, which of the following viralmarkers signifies ongoing viral replication in the infant?",
+      "options": {
+        "A": "Anti-HBs",
+        "B": "Anti-HBc",
+        "C": "HBe Ag",
+        "D": "HBs Ag"
+      },
+      "correct_answer": "C",
+      "explanation": "HBeAg signifies the ongoing viral replication in case of hepatitis B infection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 11,
+      "question": "A 9-year-old boy was brought to the OPD by his mother with a history of fatigue and myalgiafor a few days, associated with rashes that started a week before it. On examination,coppery-red coloured skin lesions were seen on the face and limbs including palms and soles.His serology was positive for HBsAg. What is the diagnosis?",
+      "options": {
+        "A": "Erythema infectiosum",
+        "B": "Gianotti Crosti syndrome",
+        "C": "Henoch schonlein purpura",
+        "D": "Erythema multiformae"
+      },
+      "correct_answer": "B",
+      "explanation": "The coppery-red colored papules along with a positive HBsAg are suggestive of Gianotti-Crostisyndrome, also known as papular acrodermatitis.It is an immunologic reaction to viral infections. The most common associations are Epstein-Barrvirus, hepatitis B virus, Coxsackievirus A16, and parainfluenza virus, as well as with manychildhood immunizations.Skin lesions are monomorphic, firm, coppery red papules sized 1-10 mm. They occur in crops andmay become profuse and coalesce into plaques, forming a symmetric eruption on the face, ears,buttocks, and limbs, including the palms and soles. The trunk, scalp, and mucous membrane arerelatively spared.The image given below shows the coppery red papules seen in Gianotti-Crosti syndrome.395",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp11_img1_3e38202b.jpeg",
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following drugs are not used in the treatment of hepatitis B?",
+      "options": {
+        "A": "Interferon α2b",
+        "B": "Lamivudine",
+        "C": "Adefovir",
+        "D": "Ribavirin387"
+      },
+      "correct_answer": "D",
+      "explanation": "Ribavirin is a drug used in the treatment of hepatitis C, not hepatitis B.Indications for starting antiviral therapy in chronic hepatitis B are:• Patients without cirrhosis•HBeAg + with HBV DNA &gt;20,000 IU/mL and ALT level &gt;2 times the upper limit of normal• HBeAg -ve with HBV DNA &gt;2000 IU/mL and ALT level &gt;2 times the upper limit of normal• Patients with compensated cirrhosis and an HBV DNA &gt;2000 IU/mL• Patients developing acute liver failure or decompensated cirrhosis.Drugs used in the treatment of hepatitis B are:• First-line treatment: Entecavir or tenofovir• Other drugs:•Pegylated interferon-alpha• Telbivudine•• Lamivudine• Adefovir",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 13,
+      "question": "A young child developed sudden bouts of vomiting and was brought to the ER. Her conditionrapidly worsened as she developed seizures. She had a history of influenza infection one weekago. The patient's liver biopsy will show",
+      "options": {
+        "A": "Non-alcoholic steatohepatitis (NASH)",
+        "B": "Centri zonal hemorrhagic necrosis",
+        "C": "Marked microvesicular steatotis",
+        "D": "Ring granuloma"
+      },
+      "correct_answer": "C",
+      "explanation": "Severe vomiting in a 5-year-old child, rapidly worsening to seizures, with a history of viralinfection (influenza) is suggestive of Reye's syndrome. Hence, liver biopsy will show markedmicrovesicular steatosis.396Reye's syndrome is a secondary mitochondrial hepatopathy. It is precipitated due to• Viral infection (influenza, adenovirus, herpes, coxsackievirus A, Epstein-Barr virus)•Salicylate or antiemetic use• Inborn error of metabolism such as single enzyme defects of B oxidation.•• ToxinsThere is an acute onset of vomiting and encephalopathy, rapidly progressing to seizures,coma, and death. There is no jaundice.Investigations• ↑ ALT and AST⚫ ↑ Ammonia•⚫ normal bilirubin•• Hypoglycemia• PT prolonged• INR increased• Liver biopsy: marked microvesicular steatosis. Necrosis is not seen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 14,
+      "question": "A 12-year old girl was rushed to the ER by her parents due to hematemesis. They gave ahistory of weakness and fatigue for the last few weeks. On examination, the patient hadspider telangiectasias and mild palmar erythema. Liver function tests showed the followingresults- AST-1100IU/L, serum bilirubin- 8mg/dl, albumin- decreased, globulin- elevated, PT-prolonged along with Anti-Nuclear Antibody positive. What is the diagnosis?",
+      "options": {
+        "A": "Type 1 autoimmune hepatitis",
+        "B": "SLE",
+        "C": "Type 2 autoimmune hepatitis",
+        "D": "Hepatitis C"
+      },
+      "correct_answer": "A",
+      "explanation": "The symptoms of liver failure and portal hypertension along with a positive anti-nuclearantibody(ANA) is suggestive of Type 1 autoimmune hepatitis. It is associated with-•Elevated serum aminotransaminase concentrations.• Liver-associated serum autoantibodies.• Hypergammaglobulinemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 15,
+      "question": "A 2-week-old low-birth-weight neonate presents with jaundice. Stools are pale/clay coloured.Liver biopsy shows loss of architecture. The most likely diagnosis is",
+      "options": {
+        "A": "Neonatal hepatitis",
+        "B": "Extrahepatic biliary atresia",
+        "C": "Wilson disease",
+        "D": "Hereditary hemochromatosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Neonatal jaundice in a low-birth-weight (LBW) neonate with consistently pale/clay coloured stoolswith liver biopsy finding of loss of architecture is suggestive of neonatal hepatitis.Wilson disease and hereditary hemochromatosis will not present with jaundice in the neonatalstage. Hence, they can be excluded. Injury to liver cells can present the clinical and histologicpicture of \"neonatal hepatitis.\"Differentiation between Neonatal hepatitis and EHBA397DefinitionClinical featuresInvestigationsNeonatal hepatitisIt implies intrahepatic cholestasis which includes Hepatic injury due to metabolic, viral,or idiopathic causes Intrahepatic bile duct injuryFamily history is presentPremature or LBW babyClay-coloured stoolsLiver biopsy: Loss of liver architectureExtrahepatic biliary atresia (EHBA)Obliteration of the entire extrahepatic biliary tree at or above the porta hepatis(85% cases) ORdistal segmental bile duct obliteration with patentextrahepatic ducts up to the porta hepatis(uncommon)Family history absentNormalappearance, without lookingsickPersistent acholic stoolsHIDA scan: screening testUSG: triangular cord signLiver biopsy: bile duct proliferation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 16,
+      "question": "A mother is concerned about her 3-week-old baby having yellowish discolouration of skin andeyes. On examination, the baby is chubby and playful. Stools are pale in color. Further388evaluation with USG shows triangular cord sign and liver biopsy shows bile ductproliferation. The most likely diagnosis is",
+      "options": {
+        "A": "Neonatal hepatitis",
+        "B": "Hallervorden Spatz disease",
+        "C": "Wilson disease",
+        "D": "Extrahepatic biliary atresia"
+      },
+      "correct_answer": "D",
+      "explanation": "Neonatal jaundice in a neonate without a sick-looking appearance and with acholic stools, USGshowing triangular cord sign, and liver biopsy showing bile duct proliferation is suggestive ofbiliary obstruction, which may be seen in biliary atresia.Wilson disease and Hallervorden Spatz disease (neurodegeneration with iron accumulation in thebrain) do not present with jaundice in the neonatal stage. Hence, they can be excluded.Differentiation between neonatal hepatitis and EHBALiver biospy:•Biliary atresia is characterized by proliferation of the bile ductule, presence of bile plugs, andportal or perilobular edema and fibrosis, with the basic hepatic lobular architecture intact.• In neonatal hepatitis, there is severe, diffuse hepatocellular disease, with distortion of lobulararchitecture, marked infiltration of inflammatory cells, and focal hepatocellular necrosis.Neonatal hepatitisIt implies intrahepatic cholestasis which includes:Hepaticinjury due to metabolic, viral,or idiopathic causeIntrahepatic bile duct injuryClinical featuresFamily history is presentPremature or LBW babyPigmented stoolsInvestigationsExtrahepatic biliary atresia (EHBA)Obliteration of the entire extrahepatic biliary tree at or above the porta hepatis(85% cases) ORDistal segmental bileduct obliteration with patentextrahepatic ducts up to theporta hepatis (uncommon)Family history absentNormalappearance, without lookingsickPersistent acholic stools398Neonatal hepatitisLiver biopsy: Loss of liver architectureExtrahepatic biliary atresia (EHBA)USG: triangular cord signHIDA scan: screening testLiverbiopsy: bile duct proliferation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 17,
+      "question": "A mother leaves her 3-year-old son unattended for 20 mins and later finds him holding a bluecoloured empty strip of tablets with a few tablets scattered on the floor. A few hours later heis rushed to the ER with nausea and vomiting. As an intern taking the history, you suspectaccidental ingestion of paracetamol tablets. The pattern of liver injury you would expect inthis case is",
+      "options": {
+        "A": "Cholestasis",
+        "B": "Centrilobular necrosis",
+        "C": "Microvesicular steatosis",
+        "D": "Fibrosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The pattern of liver injury caused by paracetamol (acetaminophen) is centrilobular necrosis.Acetaminophen toxicity results from the formation of a highly reactive intermediate metabolite, N-acetyl-p-benzoquinone imine (NAPQI). In therapeutic use, only about 5% is metabolized by thehepatic cytochrome P450 enzyme CYP2E1 to NAPQI, which is then immediately joined withglutathione to form a nontoxic mercapturic acid conjugate.In overdose, glutathione stores are overwhelmed, and free NAPQI is able to combine with hepaticmacromolecules to produce hepatocellular necrosis. Single acute toxic dose of APAP is generallyconsidered to be &gt;200 mg/kg in children.Patterns of hepatic drug injury:DiseaseCentrilobular necrosisDrugAcetaminophen, HalothaneMicrovesicular steatosisValproic acidAcute hepatitisFibrosisCholestasisVeno occlusive diseaseIsoniazidMethotrexateChlorpromazine, Erythromycin, EstrogenPortal and hepatic vein thrombosisBiliary sludgeular carcinomaBusulphan, CyclophosphamideEstrogen, AndrogenCeftriaxoneHepatic adenoma/hepatocell Oral contraceptive pills, Anabolic steroids",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 18,
+      "question": "You are examining a young child who presented to the ER with a high fever and abdominalpain. The patient winces on abdominal palpation of the right upper quadrant. USG showedhydrops of the gallbladder. All of the following conditions are associated with hydrops of thegallbladder except",
+      "options": {
+        "A": "Group A streptococcal pharyngitis",
+        "B": "Kawasaki disease",
+        "C": "Total parenteral nutrition",
+        "D": "Cystic fibrosis"
+      },
+      "correct_answer": "D",
+      "explanation": "Hydrops of the gallbladder is not associated with cystic fibrosis.Hydrops of gallbladder is the acute acalculous non-inflammatory distension of the gallbladder,which occurs in infants and children. It is characterized by the absence of calculi, bacterialinfections or congenital anomalies of the biliary system.399Hydrops is distinguished from acalculous cholecystitis by the absence of a significantinflammatory process and a generally benign prognosis.Conditions associated with hydrops of GB:• Infections: Streptococcal pharyngitis, staphylococcal infection, ascariasis, leptospirosis, typhoidfever, and viral hepatitis• Kawasaki disease• Total parenteral nutrition, prolonged fasting• Sickle cell crisis, thalassemiaSepsis• Mesenteric adenitis, necrotizing enterocolitisNote: In cystic fibrosis cholelithiasis, cholecystitis, micro gallbladder is seen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 19,
+      "question": "The commonest indication for liver transplantation in children is",
+      "options": {
+        "A": "Alagille syndrome",
+        "B": "Biliary atresia389",
+        "C": "Caroli disease",
+        "D": "Hepatcellular carcinoma"
+      },
+      "correct_answer": "B",
+      "explanation": "Biliary atresia is the most common indication for liver transplantation in children.Extrahepatic biliary atresia (EHBA) is defined as a partial or total absence of permeable bile ductbetween the porta hepatis and the duodenum. It is due to inflammatory fibrosis of the biliarytree. It leads to obstruction to bile flow thereby causing the leaking of conjugated bilirubin intothe circulation.Infants have symptoms of jaundice, pale stools, and dark urine right after birth. In advanceddisease, infants present with failure to thrive, hepatomegaly, and ascites due to liver cirrhosis.HIDA scan is the investigation of choice for extrahepatic biliary atresia. An intraoperativecholangiogram is a gold standard investigation for diagnosis.Children with biliary atresia, who do not achieve successful drainage afterhepatoportoenterostomy (Kasai's procedure), require liver transplantation within the first year oflife.Management of extrahepaticbiliary atresiaType IAtresia restricted to the common bile ductRoux-en-Y hepaticojejunostomyType IIc ductAtresia of the common hepati Kasai procedure (Roux-en-Y hepatoportoenterostomy)Type IIIAtresia of the right and left hepatic duct",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    },
+    {
+      "q_no": 20,
+      "question": "A young boy was admitted with complaints of fever and abdominal pain for 2 days. ESR andCRP were elevated and CT Abdomen obtained was as shown in the picture. Which of thefollowing is not a common feature in the given condition?",
+      "options": {
+        "A": "Hepatomegaly",
+        "B": "Hypoalbuminemia",
+        "C": "Jaundice",
+        "D": "Leukocytosis"
+      },
+      "correct_answer": "C",
+      "explanation": "400The symptoms of fever and abdominal pain and a hypodense lesion on the CT are suggestive of aLiver abscess in this patient.Signs and symptoms of a liver abscess include fever, chills, night sweats, malaise, nausea,hepatomegaly, as well as pain and tenderness in the right upper quadrant. They also showelevated inflammatory markers, hypoalbuminemia and leukocytosis. However, jaundice isuncommon.401",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q20_img1_e58b81eb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Liver"
+    }
+  ]
+}

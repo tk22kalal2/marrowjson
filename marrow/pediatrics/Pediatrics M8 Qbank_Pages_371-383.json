@@ -1,0 +1,245 @@
+{
+  "chapter": "Medical Gl disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "If you were to conduct a death audit on all the cases of under-five paediatric deaths secondaryto infective diarrhoea, which of the following pathogens would be responsible for the largestfraction of deaths?",
+      "options": {
+        "A": "Adeno virus",
+        "B": "Rotavirus",
+        "C": "Salmonella typhimurium",
+        "D": "Shigella dysenteriae"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "A child from an urban slum area is admitted to your unit with diarrhea. Given below are fiveimportant micronutrients. The deficiency of which of the following factors increases the riskof death due to diarrhea in this child?",
+      "options": {
+        "A": "2, 4, 5",
+        "B": "1 and 3 only",
+        "C": "2 and 5 only",
+        "D": "2 and 4 only"
+      },
+      "correct_answer": "",
+      "explanation": "The risk of death from diarrhoea is increased in the presence of deficiencies of micronutrientssuch as vitamin A, and zinc (2 and 4 only).Both these micronutrients are essential for maintaining mucosal immunity. Vitamin A deficiencyincreases mortality from diarrhoea, measles, and malaria while Zinc deficiency increases mortalityfrom diarrhoea, pneumonia, and malaria.Recent studies also indicate the usefulness of folic acid in the prevention of diarrhoea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "The Nutritionist in your hospital prepares the diet charts for all the children admitted withdiarrhoeal disease. One of the advice papers has fallen off from the case file. The advice sheetmentions that the child has to be put on fasting some times of the day. You would attach thesheet back to the case file with the diagnosis of",
+      "options": {
+        "A": "Motility diarrhea",
+        "B": "Infective diarrhea",
+        "C": "Osmotic diarrhea",
+        "D": "Secretory diarrhea371"
+      },
+      "correct_answer": "",
+      "explanation": "Osmotic diarrhoea results from the presence of osmotically active, poorly absorbed solutes in thebowel lumen that inhibit normal water and electrolyte absorption. This type of diarrhoea ceaseswith fasting.Secretory diarrhoea, infective diarrhoea, dysentery and motility diarrhoea occurs independent ofdietary intake and do not subside with fasting.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "A 5-year-old child with chronic malnutrition presents with diarrheal episodes lasting for morethan 2 weeks. The stool sample is positive for Aeromonas and entero-adherent Escherichiacoli. What is the likely diagnosis?",
+      "options": {
+        "A": "Acute diarrhea",
+        "B": "Persistent diarrhea",
+        "C": "Subacute diarrhea",
+        "D": "Secondary diarrhea"
+      },
+      "correct_answer": "D",
+      "explanation": "Persistent diarrhoea (Chronic diarrhoea) is defined as a diarrhoeal episode that lasts for more than14 days.Diarrhoea is defined as•stool volume of more than 10 g/kg/day in toddlers/infants (or)stool volume greater than 200 g/day in older childrenPersistent diarrhoea is increasingly observed in children with malnutrition. These are due toinfections commonly caused due to enteroadherent Escherichia coli and Aeromonas.Acute diarrhoeas generally last less than 7 days while chronic diarrhoea lasts more than 14days and is usually a non-infectious pathology.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "A young child had milk-based dessert at his friend's birthday party. Later, the same eveninghe developed complaints of bloating, abdominal discomfort, and flatulence. His medicalhistory is significant for viral gastroenteritis a couple of weeks back. Stool examinationreveals an acidic pH and is positive for reducing substances. Which type of diarrhea is mostlikely to be seen in this child?",
+      "options": {
+        "A": "Osmotic diarrhoea",
+        "B": "Protracted diarrhoea",
+        "C": "Secretory diarrhoea",
+        "D": "Dysentry"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical vignette is suggestive of acquired lactose intolerance which is an example of osmoticdiarrhoea.Lactose is present in milk and dairy products. If it is not absorbed in the small intestine, it reachesthe colon, where it is fermented to short-chain organic acids. This releases hydrogen that can bedetected in the lactose breath test and also generates an osmotic overload.377The child with lactose intolerance generally has perianal excoriations. The condition is diagnosedby using stool examination which shows acidic stool positive for reducing substances. Treatmentis by diet control using a diet devoid of lactose. It can be congenital due to lactase deficiency oracquired after post-viral gastroenteritis. In secretory diarrhoea, the epithelial cells' ion transportprocesses are turned into a state of active secretion. The most common cause of acute-onsetsecretory diarrhoea is a bacterial infection of the gut.Chronic diarrhoea is, in many cases, the result of an intestinal infection that persists longer thanexpected.Dysentery/Shigellosis is a type of food poisoning caused by infection with the Shigella species. It isspread by means of faeco-oral transmission.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "A 4-year-old child was brought to the hospital with a history of loose stools. No history offever or blood in stools. The mother says he is irritable and eagerly drinks water if given. Onexamination, eyes are sunken and in the skin pinch test, the skin retracted within twoseconds but not immediately. What treatment is advised for the child?",
+      "options": {
+        "A": "Give oral fluids and zinc supplementation only and ask mother to come back if danger signdevelops.",
+        "B": "Give oral fluids and ask mother to continue the same and visit again the next day.",
+        "C": "Consider severe dehydration start IV fluids, IV antibiotics, and refer to higher centre.",
+        "D": "Wait and observe."
+      },
+      "correct_answer": "A",
+      "explanation": "In a child with diarrhea, thirst (eagerly drinks water), sunken eyes, restless and irritable behavior,and skin pinch showing slow retraction (&lt;2 seconds) point towards some dehydration.Treatment includes oral rehydration therapy, zinc supplementation, and continued breastfeedingaccording to WHO integrated management of neonatal and childhood diseases (IMNCI) plan B.The degree of dehydration is assessed and managed using the WHO IMNCI PLAN given below:SIGNSTwo of the following signs:• Lethargic orunconsciousSunken eyesNot able to drink ordrinking poorlySkin pinch goes backvery slowlyTwo of the following signs:\"Restless, irritableSunken eyes⚫ Drinks eagerly, thirstySkin pinch goes backslowly.Not enough signs toclassify as some orsevere dehydrationCLASSIFY ASSEVEREDEHYDRATIONSOMEDEHYDRATIONNODEHYDRATIONIDENTIFY TREATMENT(Urgent pre-referral treatments are in bold print)If child has no other severe classification- Give fluid for severe dehydration (Plan C).ORIf child also has another severe classification:Refer URGENTLY to hospital with mother givingfrequent sips of ORS on the way. Advise the mother tocontinue breastfeeding.If child is 2 years or older, and there is cholera inyour area, give antibiotic for cholera.Give fluid, Zinc supplements and food for somedehydration (Plan B)If Child also has a severe classification:Refer URGENTLY to hospital with mother givingfrequent sips of ORS on the way. Advise the motherto continue breastfeeding.Advise mother when to return immediately.Follow-up in 5 days if not improving.If confirmed/symptomatic HIV, follow-up in 2days if not improving.Give fluid, Zinc supplements and food to treatdiarrhoea at home (Plan A)Advise mother when to return immediately.Follow-up in 5 days if not improving.If confirmed/symptomatic HIV, follow-up in 2days if not improving.378Does the child have diarrhoea?IF YES, ASK: LOOK AND FEEL:For how long?Is there blood in thestool?Look at the child's general condition.Is the child:Lethargic or unconscious?Restless and irritable?• Look for sunken eyes.Two of the following signs:forLethargic or unconsciousSunken eyesDEHYDRATIONNot able to drink or drinking poorlySkin pinch goes back very slowly.SEVEREDEHYDRATIONIf child has no other severe classification:-Give fluid for severe dehydration (Plan C).ORIf child also has another severe classification:-Refer URGENTLY to hospital with mothergiving frequent sips of ORS on the way.Advise the mother to continue breastfeeding.If child is 2 years or older and there is cholera in your area,give antibiotic for cholera.Give fluid, zinc supplements and food for some dehydration (PlanOffer the child fluid. Is the child:Not able to drink or drinking poorly?Drinking eagerly, thirsty?ClassifyDIARRHOEATwo of the following signs:Restless, irritableSunken eyesB).Drinks eagerly, thirstySOMEDEHYDRATIONIf child also has a severe classification:Skin pinch goes back slowly.Pinch the skin of the abdomen.Does it go back:Very slowly (longer than 2 seconds)?Slowly?Not enough signs to classify as someor severe dehydration.NODEHYDRATIONRefer URGENTLY to hospital with mothergiving frequent sips of ORS on the way.Advise the mother to continue breastfeeding.Advise mother when to return immediately.Give fluid, zinc supplements and food to treat diarrhoea at home(Plan A).Advise mother when to return immediately.Dehydration present.and if diarrhoeaSEVEREPERSISTENTTreat dehydration before referral unless the child has anothersevere classification.14 days or moreDIARRHOEARefer to hospital.No dehydration.PERSISTENTDIARRHOEAand if bloodBlood in the stool.in stoolBLOOD IN STOOLAdvise the mother on feeding a child who hasPERSISTENT DIARRHOEA.Give multivitamin and minerals (including zinc) for 14 days.➤Follow-up in 5 days.Treat for 5 days with an oral antimicrobial recommended forShigella in your area. Treat dehydration and give zincFollow-up in 2 days.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp6_img1_81018ca5.jpeg",
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "372Ramya, a 6-year-old child with acute diarrhoea is admitted and started on fluid therapy withreduced osmolarity Oral Rehydration Solution. Which of the following statement is falseabout reduced osmolarity ORS?",
+      "options": {
+        "A": "Glucose concentration 75 mmol/L",
+        "B": "Sodium concentration 75 mmol/L",
+        "C": "Total Osmolarity is 311 mosm/L",
+        "D": "Potassium concentration is 20 mmol/L"
+      },
+      "correct_answer": "",
+      "explanation": "The total osmolarity of reduced osmolarity ORS is 245 mOsm/L (not 311 mOsm/L)Reduced osmolarity ORS is now the global standard of care in the management of acutegastroenteritis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "Sathish, your gym partner and father of a 12-month-old child, calls you for a teleconsult. Hischild has been passing loose watery stools without fever. He wants to know the medicationsto be given to his child. What dose of oral zinc would you prescribe to this child?",
+      "options": {
+        "A": "40 mg/day for 10-14 days",
+        "B": "10 mg/day for 10-14 days",
+        "C": "30 mg/day for 10-14 days.",
+        "D": "20 mg/day for 10-14 days"
+      },
+      "correct_answer": "D",
+      "explanation": "All children older than 6 months of age with acute diarrhoea should receive oral zinc (20 mg/day)for 10-14 days during and after diarrhoea.Most of the cases of under-five acute diarrhoea are infectious in aetiology with more than 50%due to the Rotavirus, which is self-limiting. Treatment will include fluid and electrolyte correctionand zinc supplementation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "In a child admitted with viral enteritis along with signs of dehydration, which type ofacid-base imbalance is likely to be seen?",
+      "options": {
+        "A": "Isotonic dehydration with acidosis",
+        "B": "Isotonic dehydration with alkalosis",
+        "C": "Hypotonic dehydration with acidosis",
+        "D": "Hypotonic dehydration with alkalosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Isotonic dehydration with acidosis is the most common finding in children with severe viralenteritis.Viruses that cause human diarrhoea selectively infect and destroy the villus tip cells in the smallintestine.In the small intestine, the upper villus enterocytes are differentiated cells, which have absorptivefunctions, such as the transport of water and electrolytes. On the other hand, the cryptenterocytes are undifferentiated cells and are net secretors of water and electrolytes.379Selective viral infection of intestinal villus tip cells thus leads to decreased absorption of salt andwater (proportionate loss of water and salt-isotonic dehydration) and an imbalance in the ratioof intestinal fluid absorption to secretion.Metabolic acidosis may be a result of stool bicarbonate losses in children with diarrhoea. Thesecan also be seen due to secondary renal insufficiency or lactic acidosis as a sequelae to diarrhoea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "The intestinal biopsy report of a 7-year-old boy evaluated for chronic watery diarrhoearevealed a flat intestinal mucosa. Which of the following conditions would you suspect in thischild?",
+      "options": {
+        "A": "1, 2, 3, 4, 5",
+        "B": "3,45373",
+        "C": "1, 2, 3",
+        "D": "1, 2, 4"
+      },
+      "correct_answer": "D",
+      "explanation": "Chronic diarrhoea with a flat intestinal mucosa can be seen in conditions Tropical sprue,giardiasis, and HIV enteropathy.Causes of the flat intestinal mucosa (subtotal or total villous atrophy):• Celiac disease.• Tropical sprue•Giardiasis• Bacterial overgrowth• HIV enteropathy•Eosinophilic gastroenteritis•Cow's milk or soy protein enteropathy•Graft versus host disease• Chemo or radiotherapy• Protein-energy malnutrition⚫ Tuberculosis or lymphoma•Amoebiasis and neutrophilic gastroenteritis may also rarely have villous atrophy but thepresentation is generally acute. Amoebiasis is characteristically associated with dysentery andbiopsy would reveal a flask-shaped ulcer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "Suyash, a 10-year-old boy presented to the clinic with a history of malabsorption, diarrhoea,and poor appetite after having his favourite white sauce pasta. His mother adds that hedevelops such symptoms only when he takes pasta or roti. The duodenal biopsy revealedcrypt hyperplasia and CD8+ cells in lamina propria. Which of the following tests is least likelyto be used for the diagnosis of the condition?",
+      "options": {
+        "A": "Anti-gliadin antibodies",
+        "B": "Anti-nuclear antibodies",
+        "C": "Anti-endomysial antibodies",
+        "D": "Anti-tissue transglutaminase antibodies"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical vignette is suggestive of celiac disease and an anti-nuclear antibody test is not used inthe diagnosis of celiac disease.Symptoms are pre-dominantly seen after consuming a diet rich in gluten (Wheat pasta or roti).Diagnosis of celiac disease is made based on lab and histopathological findings.Celiac disease-specific antibodies are as follows:• Anti-tissue transglutaminase (Anti-TG2) IgA antibodies• Anti deaminated IgG forms of gliadin peptides antibodies•-Endomysial antibodies (EMA)380The duodenal biopsy will show crypt hyperplasia, villous atrophy and CD8+ cells in laminapropria",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "A 9-year-old boy presented with vomiting for 5 days. His sister, who has coeliac disease hadsimilar symptoms. IgA-tissue transglutaminase titre is 5 times the upper limit of normal.Which of the following is not an extraintestinal manifestation of this condition?",
+      "options": {
+        "A": "Polycythemia",
+        "B": "Osteoporosis",
+        "C": "Short stature",
+        "D": "Alopecia"
+      },
+      "correct_answer": "A",
+      "explanation": "The boy is suffering from coeliac disease. Polycythemia is not an extraintestinal manifestation ofcoeliac disease.On the contrary, the most common extraintestinal manifestation of celiac disease in the paediatricage group is iron-deficiency anaemia that is refractory to iron therapy, and not polycythemia.Celiac disease is an immune-mediated systemic disorder triggered by the ingestion of wheatgluten and related prolamines from rye and barley.The intestinal symptoms are caused by the atrophy of the small bowel mucosa andmalabsorption. The symptoms include diarrhoea, vomiting, anorexia, weight loss, failure tothrive, rectal prolapse, and intussusception.The extraintestinal manifestations are caused due to malnutrition and autoimmunity and theyinclude the following:SystemHematologicManifestationAnaemia (Most common extraintestinal manifestation)Possible CauseIron malabsorptionSkeletalRickets Osteoporosis Enamelhypoplasia of the teethCalcium/vitamin D malabsorptionMuscularAtrophyMalnutritionNeurologicEndocrinologicDermatologiPeripheral neuropathyEpilepsyIrritabilityCerebral calcificationsCerebellar ataxiaShort statureSecondary hyperparathyroidismDermatitis herpetiformisAlopecia areataErythema nodosuIdiopathic pulmonary hemosiderosisThiamine/vitamin B12 deficiencyMalnutrition calcium/vitaminDmalabsorptionAutoimmunitymRespiratory",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is the most common cause of pancreatic insufficiency in childhood?",
+      "options": {
+        "A": "Chronic pancreatitis",
+        "B": "Cystic fibrosis",
+        "C": "Shwachman-Diamond syndrome",
+        "D": "Congenital pancreatic lipase deficiency"
+      },
+      "correct_answer": "B",
+      "explanation": "Cystic fibrosis is the most common cause of pancreatic insufficiency in children, which, ifuntreated, will lead to malnutrition.Other rare causes include:• Shwachman-Diamond syndrome381•Isolated enzyme deficiencies• Chronic pancreatitis• Protein-energy malnutrition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "374A 12-year-old boy presented to the emergency department with fever, severe epigastric pain,nausea and vomiting for 6 hours. He feels comfortable when he bends forward and assumes aknee-chest position. Which of the following tests is not useful in the diagnosis of acutepancreatitis?",
+      "options": {
+        "A": "Serum lipase",
+        "B": "Serum amylase",
+        "C": "Serum elastase",
+        "D": "CT abdomen"
+      },
+      "correct_answer": "C",
+      "explanation": "Serum elastase is not used for the diagnosis of acute pancreatitis. The measurement of faecalelastase is used as a screening test for pancreatic insufficiency.The criteria for the diagnosis of pancreatitis in children is defined as 2 of 3 of the following:Epigastric abdominal pain;•Serum amylase and/or lipase activity at least 3 times greater than the upper limit of normal; and• Imaging findings characteristic of, or compatible with, acute pancreatitis.Serum lipase is now considered the test of choice for acute pancreatitis as it is more specific thanamylase.CT scan has a major role in the diagnosis and follow-up of children with pancreatitis. Other usefulinvestigations are USG, ERCP, and MRCP.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 15,
+      "question": "Anwesha, an orator preparing for her international debate finale presents to your clinic withlesions on her lower lip as shown below. She is concerned as these lesions are painful,recurrent and hamper the flow of her speech. Which of the following points about thiscondition is incorrect?",
+      "options": {
+        "A": "These are due to stress",
+        "B": "These are contagious",
+        "C": "They heal without scarring",
+        "D": "They are seen in Gluten-sensitive enteropathy"
+      },
+      "correct_answer": "B",
+      "explanation": "The lesions given in the above image are aphthous ulcers, and they are not contagious. All theother points are true.Aphthous ulcers are painful, recurrent, and non-contagious oral lesions. They arewell-circumscribed, ulcerative lesions with a white necrotic base surrounded by a red halo. Theyheal in 10-14 days without scarring. Their aetiology is unclear but the following factors have beenimplicated:• Allergic or immunologic reactions• Emotional stress.• Genetics.••Injury to soft tissues in the mouthInflammatory bowel disease• Gluten-sensitive enteropathy• Behcet disease•Sweet syndrome.• Human immunodeficiency virus (HIV) infection•• Cyclical neutropenia382Treatment generally includes local anaesthetic to relieve pain and B-complex supplementation toenhance healing.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q15_img1_b557df9b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    },
+    {
+      "q_no": 16,
+      "question": "375The nanny of a 3-year-old boy brings the child to the ER after he had accidentally ingestedbutton batteries from the mobile phone toy that he was playing with. What would be the nextbest step in the management of this child?",
+      "options": {
+        "A": "Urgent endoscopy and removal",
+        "B": "Observation and follow up in 24 hours",
+        "C": "Observation until the foreign body passes out in faeces",
+        "D": "Repeat Xray after 4 hours"
+      },
+      "correct_answer": "A",
+      "explanation": "Button batteries and sharp objects in the oesophagus and foreign bodies associated withrespiratory symptoms all mandate urgent endoscopic removal.Button batteries, in particular, are very dangerous foreign bodies, which must be expedientlyremoved because they can cause:• Mucosal injury in 1-hour contact time• Involve all layers of the oesophagus in 4 hoursInjury is thought to be secondary to electrochemical burns from electrical discharge. Chemicalburns from electrolyte alkali leakage and pressure necrosis also may contribute to mucosal injury.Asymptomatic blunt objects and coins lodged in the oesophagus can be observed for up to 24 hrin anticipation of passage into the stomach.383",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Gl disorders"
+    }
+  ]
+}

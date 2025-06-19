@@ -1,0 +1,170 @@
+{
+  "chapter": "Apgar score and Neonatal Resuscitation",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "While assessing the Apgar score of newborns, you would assess and score all of the following except:",
+      "options": {
+        "A": "Color",
+        "B": "Heart rate",
+        "C": "Respiratory effort",
+        "D": "Muscle tone"
+      },
+      "correct_answer": "C",
+      "explanation": "The Apgar score assesses color, heart rate, respiratory effort, muscle tone, and reflexes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 2,
+      "question": "A baby assessed 5 minutes after birth, is found to be cyanosed with irregular gasping respiration. Heart rate is 60 beats/min, and shows minimal response to stimulation with some flexion of extremities. The Apgar score for this newborn is",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "D",
+      "explanation": "The Apgar score in this baby is 4. It is calculated as: Appearance: blue - score 0, Pulse: <100 beats/min - score 1, Grimace: with minimal response to stimulation - score 1, Activity: some flexion of the extremities - score 1, Respiratory effort: irregular - score 1. The total score is 4. Apgar score is not used to guide resuscitation, and resuscitation must be initiated before the 1-minute score. The change of score at sequential time points following birth reflects how well the baby is responding to resuscitative efforts. Causes for low Apgar score are: Fetal distress, Prematurity, Drugs like analgesics, narcotics, sedatives, magnesium sulfate, Acute cerebral trauma, Precipitous delivery, Airway obstruction (choanal atresia), Congenital pneumonia or sepsis, Haemorrhage-hypovolemia. False-negative Apgar score is seen in maternal acidosis and high fetal catecholamine levels. A total score of 10 indicates that the infant is in the best possible condition. An infant with a score of 0-3 requires immediate resuscitation. If the score at 5 minutes remains less than 7, the infant should be assessed again every 5 minutes for the next 20 minutes.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp2_img1_416dfde1.jpeg",
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 3,
+      "question": "Where would you attach the oxygen inlet in the instrument given below?",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "12 OMARROW 34"
+      },
+      "correct_answer": "B",
+      "explanation": "The above image shows a self-inflating bag and mask. It is used in neonatal resuscitation; it inflates automatically, without a compressed gas source. Marking 1 is the pressure release valve. Marking 2 is the 360-degree swivel. Marking 3 is the oxygen inlet. Marking 4 is the air inlet. The parts of the self-inflating bag and mask are labeled in the image below: Self-inflating bag and mask. Self-inflating bag. Pressure release valve. Face mask. 360° Swivel. Air-inlet and pressure release valves. Oxygen inlet. Reservoir bag. Oxygen tube. OMARROW 62. Absolute contraindication for using the bag and mask ventilation is congenital diaphragmatic hernia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q3_img1_d02df635.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp3_img1_5e584622.jpeg",
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 4,
+      "question": "A 35-week neonate with grade 2 meconium-stained amniotic fluid is delivered by emergency LSCS. There is no spontaneous cry and the baby is unresponsive to tactile stimulation also. As the intern assisting in resuscitation, what is the order of suctioning that you will follow?",
+      "options": {
+        "A": "Mouth-nose",
+        "B": "Nose-mouth",
+        "C": "Mouth-nose-oesophagus",
+        "D": "Trachea-nose-mouth"
+      },
+      "correct_answer": "A",
+      "explanation": "During neonatal resuscitation, the mouth is suctioned first and then the nares, in order to decrease the risk of aspiration. A 12 or 14 French suction catheter is used, with the suction pressure kept between 80-100 mmHg. Routine suctioning of the trachea during neonatal resuscitation is not recommended. The suctioning of the oesophagus and stomach is avoided if not indicated specifically. It may produce a vagal response - apnea and/or bradycardia due to stimulation of the nerve in the posterior pharynx.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the ideal ratio of compression to ventilation that you would use in the resuscitation of a newborn?",
+      "options": {
+        "A": "30:2",
+        "B": "5:1",
+        "C": "3:1",
+        "D": "2:1"
+      },
+      "correct_answer": "C",
+      "explanation": "The ratio of compressions to ventilation in the resuscitation of the newborn is 3:1 (90 compressions: 30 breaths in one minute). A 3:1 compression-to-ventilation ratio is used for neonatal resuscitation where compromise of gas exchange is nearly always the primary cause of the cardiovascular collapse. Chest compressions are indicated if the heart rate is below 60/min even after 30 seconds of positive pressure ventilation. Once the HR is 60/min or more, chest compressions should be discontinued within 1 minute.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp5_img1_0ad2c745.jpeg",
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 6,
+      "question": "A neonate with suspected birth asphyxia is intubated in the labor room after bag and mask ventilation did not yield successful results. All of the following parameters would indicate successful ventilation except",
+      "options": {
+        "A": "Zero reading of end-tidal CO2 measurement",
+        "B": "Heart rate more than 100 beats/min",
+        "C": "Symmetric breath sounds",
+        "D": "Good chest rise"
+      },
+      "correct_answer": "A",
+      "explanation": "End-tidal CO2 should be present (EtCO2 should not be zero). This is an important sign of successful ventilation. Successful ventilation is signified by the following: adequate chest rise, symmetric breath sounds, improved pink color, heart rate > 100 beats/min, spontaneous respirations, presence of end-tidal CO2 (EtCO2 should not be zero), and improved tone.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp6_img1_c9935835.jpeg",
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 7,
+      "question": "A panicked primigravida, at 38 weeks of gestation, rushes to the ER at 3 am as she had not appreciated any fetal movements since 10 pm. She is taken up for an emergency c-section in view of fetal distress. Following delivery, the infant was cyanotic and apneic. What is the preferred initial gas for neonatal resuscitation?",
+      "options": {
+        "A": "30% oxygen",
+        "B": "Hyperbaric oxygen",
+        "C": "70% oxygen",
+        "D": "Room air"
+      },
+      "correct_answer": "D",
+      "explanation": "Room air is the preferred initial gas for neonatal resuscitation in term infants. Resuscitation with room air in term infants is as effective as using 100% oxygen. By using room air, we may reduce the risk of hyperoxia, which is associated with decreased cerebral blood flow and generation of oxygen free radicals. If the neonate does not achieve normal oxygen saturation levels within 90 seconds, increased concentrations of oxygen are administered until normal saturation levels are achieved. If pulmonary hypertension is suspected (meconium aspiration, diaphragmatic hernia), one may consider 100% oxygen as the initial gas for resuscitation. Resuscitation of most preterm infants can be initiated with a slightly higher fraction of inspired oxygen (21-30%).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp7_img1_f17e7b6e.jpeg",
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 8,
+      "question": "During neonatal resuscitation, when would you consider administering IV adrenaline? a) Heart rate < 60 beats/minute despite effective compressions and ventilations. b) Heart rate < 100 beats/minute despite effective compressions and ventilations. c) Heart rate does not improve after 30 seconds with bag and mask ventilation. d) Severe respiratory depression, and failure to respond to positive-pressure ventilation with bag and mask ventilation. A 34-year-old lady is taken up for an emergency C-section due to meconium-stained amniotic fluid. The neonate does not cry after tactile stimulation and the heart rate is 60 beats/min. In order to determine the course of resuscitation, you assess if the baby is vigorous. For this, you would consider all of the following parameters except:",
+      "options": {
+        "A": "Color",
+        "B": "Tone",
+        "C": "Respiratory effort",
+        "D": "Heart rate"
+      },
+      "correct_answer": "D",
+      "explanation": "If the heart rate remains at < 60 beats/minute despite effective compressions and ventilation, consider administering epinephrine in neonatal resuscitation. Note: Umbilical venous catheter is the preferred method of obtaining emergency vascular access in the delivery room. Birth term gestation? Breathing or crying? Good muscle tone? No. Warm, open airway, dry, stimulate. Yes, stay with mother. 30 sec HR 100, gasping. No or apnea? Yes. PPV, consider SPO, monitoring. 60 sec. No. No. HR = 100? ↓ Yes. Ensure adequate ventilation. Consider endotracheal intubation. HR 60? Yes. Chest compressions, coordinate with PPV. HR 60? Yes. IV epinephrine. Routine care - provide warmth, open airway, dry, ongoing evaluation. No. Labored breathing or persistent cyanosis? Yes. Consider SPO, monitoring, consider CPAP. Post-resuscitation care.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp8_img1_29746a11.jpeg",
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 10,
+      "question": "A term primiparous lady with moderate mitral stenosis received 2 doses of meperidine, 2hours before delivery. She delivers a female baby vaginally, but the baby is apneic at birth.What is the most important immediate management of the newborn in this case?",
+      "options": {
+        "A": "Obtain a cord blood pH",
+        "B": "Perform bag-mask ventilation",
+        "C": "Administer naloxone in the endotracheal tube",
+        "D": "Begin chest compressions"
+      },
+      "correct_answer": "B",
+      "explanation": "The most important immediate management is to maintain adequate ventilation via bag andmask, because the baby is apneic.Meperidine is a narcotic and the administration of narcotics such as opioids or barbiturates, tothe mother shortly before delivery (within 4 hours prior) result in narcosis and respiratorydepression in the newborn.In these babies, naloxone hydrochloride is given while adequate ventilation (bag and mask) ismaintained. Breathing in the depressed infant should be maintained until a response to naloxoneis noted.Naloxone hydrochloride, 0.1 mg/kg, can be given intravenously or intramuscularly.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 11,
+      "question": "Antenatal imaging in an infant delivered late preterm, showed severe congenitaldiaphragmatic hernia with tracheal occlusion. An airway is secured before the placenta isremoved from the circulation. What is this procedure called?",
+      "options": {
+        "A": "Bilevel airway positive pressure (BiPAP)",
+        "B": "Ex utero intrapartum treatment procedure (EXIT)",
+        "C": "Extracorporeal membrane oxygenation (ECMO)",
+        "D": "Continous positive airway pressure (CPAP)"
+      },
+      "correct_answer": "B",
+      "explanation": "Ex-utero intrapartum treatment procedure (EXIT) is a procedure by which the airway is securedbefore the infant is separated from the placenta.It allows time to secure the airway in an infant known to have airway obstruction due to variouscauses, including laryngeal atresia or stenosis, teratomas, hygromas, and oral tumors before theinfant is separated from the placenta. Uteroplacental gas exchange is maintained throughout theprocedure.Option A: BiPAP machines provide positive airway pressure during exhalation and additionalpositive pressure during inspiration. It allows for adjusting of inspiratory and expiratorypressures. The additional pressures augment tidal volume and improve alveolar ventilation.Children with neuromuscular weakness and intrathoracic airway obstruction benefit from this.Option C: Extracorporeal membrane oxygenation (ECMO) is a form of cardiopulmonary bypassthat augments systemic perfusion and provides gas exchange. This may be helpful to prevent andtreat hypoxia and respiratory acidosis and decrease the work of breathing in ARDS, central apnea,refractory shock, severe sepsis, pulmonary hypertension, etc.66Option D: CPAP is provided via a high-flow nasal cannula, with a gas flow of 4-16 L/min. It is usedin diseases with mildly decreased lung compliance, and low functional residual capacity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    },
+    {
+      "q_no": 12,
+      "question": "A newborn baby has respiratory distress in the delivery room. Attempts to pass a nasogastrictube through both the nares are unsuccessful. Genital and ear abnormalities are also noted onthe preliminary examination. What is the likely diagnosis?",
+      "options": {
+        "A": "Potter sequence59",
+        "B": "VATER syndrome",
+        "C": "CHARGE syndrome",
+        "D": "Pierre-Robbin syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "Inability to pass the nasogastric tube through both the nares along with the presence ofrespiratory distress, suggests choanal atresia. The presence of ear and genital anomalies alongwith choanal atresia suggests the diagnosis of CHARGE syndrome.It consists of• Coloboma of the eye•Heart anomaly• Choanal Atresia• Retardation• Genital anomalies• Ear anomaliesVATER syndrome: Vertebral defects, imperforate anus, tracheoesophageal fistula, as well as radialand renal dysplasia.Potter's sequence: Renal agenesis, oligohydramnios, and pulmonary hypoplasiaPierre-Robin syndrome: Micrognathia, retrognathia, and glossoptosis.67",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Apgar score and Neonatal Resuscitation"
+    }
+  ]
+}

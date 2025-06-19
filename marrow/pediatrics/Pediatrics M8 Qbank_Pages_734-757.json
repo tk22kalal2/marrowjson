@@ -1,0 +1,365 @@
+{
+  "chapter": "Pediatric Anemias",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "As a part of the Anemia Mukt Bharat program, you screen preschool children for anemia.What Hb values would prompt you to diagnose anemia in this age group?",
+      "options": {
+        "A": "&lt; 13 g/dL",
+        "B": "&lt;12 g/dL",
+        "C": "&lt;11.5 g/dL",
+        "D": "&lt;11 g/dL"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 2,
+      "question": "A 7-year-old child is brought to the pediatric OPD by his parents with complaints of excessivesleepiness, and poor scholastic performance. On examination, the child has pallor involvingthe tongue, conjunctiva, and nail beds. A flow murmur is heard upon auscultation. Which ofthe following is the most likely cause of the underlying disease?",
+      "options": {
+        "A": "Congenital hypoplastic anemia",
+        "B": "Acquired hypoproliferative anemia",
+        "C": "Congenital hemoglobinopathies",
+        "D": "Hyperproliferative anemia"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical signs and symptoms are suggestive of anemia. Acquired hypoproliferativeanemia, is the most common cause of anemia in children among the given options.Iron-deficiency anemia (which is classified as an acquired hypoproliferative anemia) is the mostcommon cause of anemia in children and adults worldwide. Iron deficiency is also the mostcommon nutrient deficiency worldwide.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is true regarding iron?",
+      "options": {
+        "A": "Breast milk has higher iron content than cow's milk.",
+        "B": "Cow's milk has higher oral bio-availability of iron than breast milk.",
+        "C": "Introduction of cow's milk at 5 months of age decreases the risk of iron deficiency.",
+        "D": "Cow's milk protein can cause chronic intestinal blood loss in infants."
+      },
+      "correct_answer": "D",
+      "explanation": "Exposure to whole cow's milk protein can cause chronic intestinal blood loss in infants. Therefore,the American Academy of Pediatrics (AAP) recommends delaying the introduction of cow's milk ininfancy and limiting it to &lt;700 mL/day.Both cow's milk and breast milk have the same iron content (≈0.1mg/dL).The bioavailability of breast milk iron is 2-3 times higher than cow's milk iron.Exclusive breastfeeding until 6 months of age and complementary feeding with iron-rich foodsthereafter reduces the risk of iron-deficiency anemia in infants.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 4,
+      "question": "734An 8-year-old child who has been recently diagnosed with iron deficiency anemia is startedon iron therapy. What is the earliest hematological response that you would expect to seefollowing treatment?",
+      "options": {
+        "A": "Reticulocytosis",
+        "B": "Increase in hemoglobin level",
+        "C": "Increase in ferritin levels",
+        "D": "Bone marrow erythroid hyperplasia"
+      },
+      "correct_answer": "D",
+      "explanation": "Bone marrow erythroid hyperplasia is the earliest hematological response observed following irontherapy in iron-deficiency anemia.Responses to iron therapy in iron deficiency anemia:743Time after administration12 to 24 h36 to 48 hResponseSubjective improvements - decreased irritability, increasedappetiteBone marrow response- erythroid hyperplasia48 to 72 h (peaks at 5-7 days) Reticulocytosis4 to 30 days1 to 3 monthsIncrease in hemoglobin levelRepletion of stores (ferritin)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 5,
+      "question": "A child who was diagnosed 3 months back with iron deficiency anemia presents with lowhemoglobin despite being on oral iron therapy. What is the most likely cause for thenon-responsiveness that you should consider in your differential?",
+      "options": {
+        "A": "Poor compliance",
+        "B": "Incorrect dose or formulation",
+        "C": "Occult blood loss from parasitic infestations.",
+        "D": "Thalassemia misdiagnosed as iron-deficiency anemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Poor compliance is the most likely cause of non-responsiveness to oral iron therapy.Differential diagnosis of microcytic anemia that fails to respond to oral iron:• Poor compliance (most common cause)• Incorrect dose or formulation•Malabsorption of administered iron•Ongoing blood loss, including gastrointestinal, menstrual, and pulmonaryConcurrent infection or inflammatory disorder• Concurrent vitamin B12 or folate deficiency• Diagnosis other than iron deficiency• Thalassemias• Hemoglobins C and E disorders•• Anemia of chronic disease• Lead poisoning• Sickle thalassemias, hemoglobin SC disease.• Iron refractory iron-deficiency anemia (IRIDA)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following tests can be used to screen a newborn with a family history of sicklecell disease?",
+      "options": {
+        "A": "Hemoglobin electrophoresis",
+        "B": "High-performance liquid chromatography",
+        "C": "Heel-prick Guthrie test",
+        "D": "Tandem mass spectrometry"
+      },
+      "correct_answer": "",
+      "explanation": "High-performance liquid chromatography (HPLC) is used to screen a newborn with a familyhistory of sickle cell disease.Option A: Hemoglobin electrophoresis is the confirmatory test for sickle cell anemiaOption C: Heel-prick Guthrie test is the neonatal screening test for phenylketonuria.Option D: Tandem mass spectrometry is being used for neonatal screening of inheritedmetabolic disorders.744",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 7,
+      "question": "Ravi, an adolescent with sickle cell disease presents to the emergency room with chest painand respiratory distress. Pulse oximeter shows 85% saturation in room air. Chest X-ray showsnew radiodensities. Sputum and blood culture showed no growth. Which of the following areused in the management of this condition?",
+      "options": {
+        "A": "1, 2, and 3 only",
+        "B": "1, 3, and 5 only735",
+        "C": "2, 4, and 5 only",
+        "D": "1, 2, 3, 4, 5"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of acute chest syndrome and all of the above are used inthe management.Acute chest syndrome (ACS) refers to a life-threatening pulmonary complication of sickle celldisease. It is diagnosed with the presence of a new radiodensity on chest radiography with any 2of the following:• Fever••• Respiratory distress⚫ Hypoxia• Cough⚫ Chest painIn this case, the child with sickle cell anemia satisfies the above criteria. He presented with chestpain and respiratory distress and his chest X-ray image shows new radiodensities.Most patients with ACS do not have a single identifiable cause. Infection is the most well-knownetiology, yet only 30% of ACS episodes will have positive sputum or bronchoalveolar culture. Themost common bacterial pathogens implicated are S. pneumoniae, Mycoplasma pneumoniae, andChlamydia spp.Oxygen should be supplemented to all patients who demonstrate hypoxia.Blood transfusion is the only method to abort a rapidly progressing episode of ACS.Because of the clinical overlap between pneumonia and ACS, all episodes should be treatedpromptly with antimicrobial therapy, including at least a macrolide and possibly athird-generation cephalosporin.Regular use of an incentive spirometer at 10-12 breaths every 2 hours can significantly reduce thefrequency of subsequent acute chest pain episodes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 8,
+      "question": "A 6-year-old boy who is a known case of sickle cell disease presents with acute chestsyndrome. Which of the following is the drug of choice to reduce such painful crises in thefuture?",
+      "options": {
+        "A": "Hydrocodone",
+        "B": "Hydroxyurea",
+        "C": "Corticosteroids",
+        "D": "Ruxolitinib"
+      },
+      "correct_answer": "B",
+      "explanation": "Hydroxyurea is the drug of choice for reducing painful crises in sickle cell anemia.Hydroxyurea is a myelosuppressive agent that is effective in reducing the frequency of painfulepisodes like dactylitis and acute chest syndrome, decreasing the rate of hospitalization, andrequirement for blood transfusion. It is safe and well-tolerated in children and infants.Option A: Hydrocodone (opioid) is used in the treatment of pain crisis in sickle cell anemia.Option C: Corticosteroids is one of the first-line therapies for acute idiopathic thrombocyticpurpura (ITP) with risk factors for bleeding.Option D: Ruxolitinib is the drug of choice for the treatment of polycythemia vera.745",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 9,
+      "question": "Kevin and Anita both have sickle cell traits. They are devastated when they find out both theirchildren have sickle cell anemia. Kirti is an active 9-year-old. Kamal is her 3-month-oldbrother. Which of the following prophylactic measures would you not recommend to them?",
+      "options": {
+        "A": "Oral penicillin prophylaxis up to 5 years of age in Kamal",
+        "B": "Annual transcranial Doppler ultrasound for Kirti upto age 16",
+        "C": "Annual ophthalmology screening from the age of 10 years in both",
+        "D": "Hydroxyurea prophylaxis regardless of disease severity or symptoms in both"
+      },
+      "correct_answer": "D",
+      "explanation": "Hydroxyurea prophylaxis regardless of disease severity is recommended in children over 9months of age. Hydroxyurea can be considered for use in infants between six and nine monthswith symptomatic disease.Oral penicillin VK is recommended until at least 5 years of age. It is continued beyond 5 years ofage in children with a history of pneumococcal infection. Erythromycin ethyl succinate is used ifthe patient is allergic to penicillin. Pneumococcal and meningococcal vaccinations areadministered because of the risk of functional asplenia.Transcranial Doppler ultrasound is recommended, starting at age of 2 years. This has lead toa decrease in the prevalence of overt stroke among children with sickle cell anemia. Screeningshould occur annually from age 2-16.Annual ophthalmology screening should commence from the age of 10 years to screen forretinopathy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is responsible for the most common cause of congenital hemolyticanemia due to an enzyme deficiency?",
+      "options": {
+        "A": "Deficiency of an enzyme in glycolysis pathway",
+        "B": "Deficiency of an enzyme in Hexose monophosphate pathway",
+        "C": "Deficiency of an enzyme in Kreb's cycle",
+        "D": "Deficiency of an enzymes in fructose metabolism pathway"
+      },
+      "correct_answer": "B",
+      "explanation": "Deficiency of an enzyme in the hexose monophosphate pathway ie., glucose 6-phosphatedehydrogenase deficiency(G6PD Deficiency), is the most common cause of congenital hemolyticanemia due to an enzyme deficiencyMost common enzymopathies causing hemolytic anemia (in order of most common to least):•Glucose 6-phosphate dehydrogenase deficiency (G6PD)•Pyruvate kinase deficiency• 5' nucleotidase deficiency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 11,
+      "question": "736Which of the following is not a cause of non-immune hydrops fetalis?",
+      "options": {
+        "A": "Alpha thalassemia",
+        "B": "Parvovirus B19 infection",
+        "C": "Rh incompatibility",
+        "D": "Twin-twin transfusion syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "Rh incompatibility causes immune hydrops fetalis, whereas alpha-thalassemia, parvovirus B19infection, and twin-twin transfusion syndrome cause non-immune hydrops fetalis.Hydrops fetalis refers to the abnormal fluid collections in fetal soft tissues and serouscavities. Edema, signs of heart failure, and profound intra-uterine anemia are the presentingfeatures in the fetus. Other clinical features include marked hepatosplenomegaly, retardation inbrain growth, hydrocephaly, urogenital and cardiovascular deformities, and extramedullaryerythropoiesis.Non-immune hydrops fetalis (NIHF) comprises the subgroup of cases not caused by red cellalloimmunization (e.g., Rh(D), Kell)Bart's hydrops fetalis (alpha-thalassemia) is caused by the deletion or inactivation of all fouralpha-globin alleles, leading to a severe deficiency in alpha-globin chains of Hb and to the746production of gamma-4 tetramers (Hb Bart). Hb Bart tetramers have an extremely high oxygenaffinity and are incapable of effective tissue oxygen delivery.Parvovirus B19 infection can cause fetal anemia, non-immune fetal hydrops, and fetal death.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following statements about abnormal hemoglobins and their mechanisms istrue?",
+      "options": {
+        "A": "HbS is due to substitution of lysine for glutamine in the 6th position of the beta-globin gene.",
+        "B": "HbH is the deletion of three alpha-globin genes.",
+        "C": "Hb Bart is the deletion of all four beta-globin genes.",
+        "D": "HbC is due to substitution of valine for lysine in the 6th position of the beta-globin gene."
+      },
+      "correct_answer": "B",
+      "explanation": "HbH is the deletion of three alpha globin chains.HbS is due to the substitution of valine for glutamic acid in the 6th position of the beta-globingene (option A).Hb Bart is the deletion of all four alpha-globin genes. (There are only 2 beta-globin genes) (optionC)HbC is due to the substitution of lysine for glutamic acid in the 6th position of the beta-globingene (option D).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 13,
+      "question": "A 5-year-old child presented with pallor, massive hepatosplenomegaly, and hemolytic facies.Which of the following is the most likely iron profile in this patient?",
+      "options": {
+        "A": "Iron - low, Ferritin - low, TIBC-high, TSAT-low",
+        "B": "Iron-high, Ferritin - normal, TIBC-normal, TSAT-normal",
+        "C": "Iron-low, Ferritin - high, TIBC-low, TSAT-low-",
+        "D": "Iron low, Ferritin - low, TIBC-low, TSAT-low"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of thalassemia and the most likely iron profile is ironnormal/high, ferritin - normal, total iron-binding capacity (TIBC) - normal, and transferrinsaturation (TSAT) - normal.Iron- low, ferritin-low, TIBC-high, TSAT-low is seen in iron-deficiency anemia.Iron-low, ferritin-high, TIBC-low, TSAT-low is seen in anemia of chronic disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 14,
+      "question": "A toddler presented with progressive pallor and abdominal distention. On investigations, hehad low hemoglobin. Which of the following red cell indices can be used to distinguishthalassemia from iron deficiency anemia?",
+      "options": {
+        "A": "Mean corpuscular volume",
+        "B": "Mean corpuscular hemoglobin",
+        "C": "Mean corpuscular volume/ Red blood cell count",
+        "D": "Mean corpuscular hemoglobin concentration737"
+      },
+      "correct_answer": "C",
+      "explanation": "Mean corpuscular volume/ Red blood cell count (MCV/RBC) also known as Mentzer index can beused to distinguish thalassemia from iron-deficiency anemia (IDA).MCV (mean corpuscular volume) and MCH (mean corpuscular hemoglobin) are low in both IDAand thalassemia. RBC count may be normal in thalassemia, whereas it is reduced in IDA. A lowerRBC count in IDA means the denominator is smaller, yielding a greater MCV/RBC ratio.Mentzer index is:••More than 13 in iron-deficiency anemiaLess than 13 in thalassemia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 15,
+      "question": "A 14-month-old child with Hb 6.3 was undergoing repeated blood transfusions. The lasttransfusion was given in the 9th month. Which of the following investigation is used for adefinitive diagnosis?",
+      "options": {
+        "A": "High performance liquid chromatography",
+        "B": "Ferritin levels estimation",
+        "C": "Bone marrow aspiration",
+        "D": "Globin gene sequencing"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario of repeated transfusion, low hemoglobin level, and target cells in thesmear are suggestive of thalassemia. Globin gene sequencing is used for its definitive diagnosis.747High-performance liquid chromatography (HPLC) is used as a screening test for thalassemia(option A).Thalassemia is a hemoglobinopathy that arises due to deficient synthesis of the globin chains.Depending on the chain affected, it is classified into α-thalassemia and ẞ-thalassemia.ẞ-thalassemia is caused by point mutations of the ẞ-thalassemia gene on chromosome 11, whichdiminish the synthesis of ẞ-globin chains. Splicing mutations are the most common cause of (ẞ+)thalassemia.There is a deficit in the synthesis of HbA with an elevation of HbA2 and HbF levels inB-thalassemia. Children with severe thalassemia present with distinctive facial features such asmaxilla hyperplasia, a flat nasal bridge, and frontal bossing. Other manifestations includepathologic bone fractures, significant hepatosplenomegaly, and cachexia.Blood smears show marked anisocytosis, poikilocytosis, and microcytic hypochromic anemia.Target cells, basophilic stippling, and fragmented red cells also are common. A radiographicimage of the skull shows the classic 'crew cut' appearance.Hb Electrophoresis and high-performance liquid chromatography (HPLC) are used as screeningtests for thalassemia. DNA diagnosis to detect ẞ-thalassemia mutations is used for definitivediagnosis. The Mentzer index is the ratio of MCV to RBC count. It is used to differentiate betweeniron-deficiency anemia and ẞ-thalassemia trait. The Mentzer index is &lt;13 in thalassemia minorsyndrome.Transfusions are administered every 3-4 weeks to maintain a pretransfusion hemoglobin level of9.5-10.5 g/dL. Transfusion-induced hemosiderosis is a significant complication intransfusion-dependent thalassemia. Iron deposition occurs in the liver, endocrine organs, andheart, resulting in complications including hypothyroidism, hypogonadotropic hypogonadism,growth hormone deficiency, hypoparathyroidism, diabetes mellitus, heart failure, andarrhythmias.The image below shows thalassemic facies and crew cut appearance on X-ray:74819 12:31DAILYROUNDS",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q15_img1_78239fc2.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp15_img1_985acdee.jpeg",
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 16,
+      "question": "You see a child in the hematology unit who has developed anemia which is progressive alongwith cardiac decompensation requiring transfusion. He is in the latter half of infancy. Yoususpect transfusion-dependent thalassemia. Which of the following electrophoresis pattern isseen here?",
+      "options": {
+        "A": "HbA=95%, HbA2=3.5%, HbF =1.5%",
+        "B": "HbA=90%, HbA2=5%, HbF=5%",
+        "C": "HbA=45%, HbA2=5%, HbF=50%",
+        "D": "HbA=0%, HbA2=5%, HbF=95%"
+      },
+      "correct_answer": "D",
+      "explanation": "HbA=0%, HbA2=5%, HbF=95% is seen on hemoglobin electrophoresis in transfusion-dependentthalassemia.Given clinical picture where the child becomes symptomatic during the second 6 months of liferequiring transfusion is suggestive of beta-thalassemia major or transfusion-dependentthalassemia.••Normal pattern- HbA=95%, HbA2=3.5%, HbF =1.5%• Beta-thalassemia trait- HbA=90%, HbA2=5%, HbF=5%• Beta-thalassemia intermedia- HbA=45%, HbA2=5%, HbF=50%Alpha and beta-thalassemia are inherited disorders in which there is reduced production ofalpha-globin or beta-globin chains, respectively. This leads to precipitation of the excess(unpaired) chains, interfering with red blood cell (RBC) production and survival. Disease severityis inversely correlated with the number of functioning globin chains. Each individual carries 2beta-chain genes and 4 alpha-chain genes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 17,
+      "question": "738You are given the following x-ray in the viva session. Which of the following is the likelyreason behind this abnormal appearance?",
+      "options": {
+        "A": "Effective erythropoiesis",
+        "B": "Thinning of trabeculae",
+        "C": "Narrowing of the diploic space",
+        "D": "Extramedullary hematopoiesisDAILYROUNDS"
+      },
+      "correct_answer": "D",
+      "explanation": "Crew-cut or hair-on-end appearance on X-ray imaging of the skull is due to extramedullaryhematopoiesis, which is seen in thalassemia.Ineffective erythropoiesis leads to extramedullary hematopoiesis, which causes the widening ofthe diploic space, thereby causing the thickening of trabeculae. This results in the classicalcrew-cut or hair-on-end appearance on x-ray imaging of the skull. Extramedullaryhematopoiesis also leads to hepatosplenomegaly and enlarged and distorted bony prominencesover the face, leading to the characteristic chipmunk facies in thalassemia.749",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q17_img1_04d7d36e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 18,
+      "question": "You are evaluating a 4-year-old child with ß-thalassemia major. He has been on chronictransfusion therapy since the age of 1 year. He has developed transfusion-induced ironoverload. The child has an increased risk of developing which of the following infections?",
+      "options": {
+        "A": "Streptococcus pneumoniae",
+        "B": "Mycoplasma pneumoniae",
+        "C": "Yersinia enterocolitica",
+        "D": "Chlamydia"
+      },
+      "correct_answer": "C",
+      "explanation": "Thalassemic children with transfusion-induced iron overload are at an increased risk of infectionswith Yersinia enterocolitica.Iron excess immunologically compromises the host and greatly enhances yersinial growth.Streptococcus pneumoniae (option A), Mycoplasma pneumoniae (optionB), and Chlamydia species (option D) are the common organisms causing infections thatpredispose to acute chest syndrome in sickle cell anemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is true about Diamond Blackfan Anemia?",
+      "options": {
+        "A": "Short stature, craniofacial abnormalities, and triphalangeal thumb are common features.",
+        "B": "Peripheral smear shows microcytic hypochromic anemia.739",
+        "C": "Bone marrow failure includes erythroid, myeloid and megakaryocytic lineages.",
+        "D": "Reticulocyte count is increased."
+      },
+      "correct_answer": "A",
+      "explanation": "Short stature, craniofacial abnormalities, and triphalangeal thumb are common features is thetrue statement regarding Diamond-Blackfan anemia (DBA).Features of DBA (congenital hypoplastic anemia):•Autosomal dominant inheritance.• Macrocytosis without hypersegmented neutrophils or other megaloblastic features.• Reticulocytopenia.• Absent RBC precursors in the otherwise normally cellular bone marrow. Other lineages areunaffected.• Craniofacial anomaly is the most common congenital anomaly seeen.•• Hypertelorism, snub nose, and high-arched palate seen.• Thumb abnormalities- flattening of the thenar eminence and triphalangeal thumb•Short statureTreatment: Corticosteroids, chronic red cell transfusions, and hematopoietic stem celltransplantation.Image showing triphalangeal thumb:750",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp19_img1_9fcd08d7.jpeg",
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 20,
+      "question": "You see a neonate undergoing phototherapy for hyperbilirubinemia. Blood workup revealedthe presence of a hemolytic picture along with spherocytes and polychromatophilicreticulocytes. MCV is low normal along with elevated MCHC. There was a similar history ofhemolytic anemia in the mother. The pedigree analysis points towards an autosomaldominant mode of inheritance. The most likely genetic mutation seen in this case is?",
+      "options": {
+        "A": "Spectrin",
+        "B": "Ankyrin",
+        "C": "Band 3",
+        "D": "Band 4.2"
+      },
+      "correct_answer": "B",
+      "explanation": "The Ankyrin gene mutation is the most likely genetic mutation seen in the given case ofautosomal-dominant hereditary spherocytosis (HS).Hemolytic manifestation causing indirect hyperbilirubinemia requiring phototherapy or bloodtransfusion in infancy with positive family history and typical laboratory findings is suggestive ofHS.History of blood transfusions in later life and not infancy is used to classify the severity of thedisease.• Most common mode of inheritance of HS- autosomal dominant• Most common gene mutation in autosomal-dominant HS- ankyrin &gt; Band 3• Most common gene mutation in autosomal-recessive HS- spectrin• Most severe form of HS- spectrin (recessive)Classification of the severity of HS is based on the requirement of blood transfusion in later lifeand not during infancy.RBC Membrane-Cytoskeleton disorders751HE (dominant)149-beta SpHE (do8pAnkyrinectrinminant)HS (dominant) (a17qBand 3(aHS (domnion excinant)ccounts for the mhange protein)ajority of HS-65%)752Southeast Asia ovalocytosis (dominant)HE (do149minant)-beta SpectrinHE (do8pAnkyrinminant)HS (dominant) (a17qBand 3(aHS (domnion excinant)ccounts for the mhange protein)ajority of HS-65%)Southeast Asia ovalocytosis (dominant)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 21,
+      "question": "An 11-year-old child, born out of consanguineous marriage developed signs and symptoms ofhemolytic anemia and progressive ataxia. He is a known case of retinitis pigmentosa and alsohad symptoms of fat malabsorption. A peripheral smear of the child is shown. What is thelikely diagnosis?",
+      "options": {
+        "A": "Hemolytic uremic syndrome",
+        "B": "Glucose 6-phosphate dehydrogenase deficiency740",
+        "C": "Hereditary stomatocytosis",
+        "D": "Abetalipoproteinemia"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical features along with the peripheral smear showing acanthocytes make thediagnosis of abetalipoproteinemia more likely.Abetalipoproteinemia is an autosomal recessive hemolytic disorder in which acanthocytosis isassociated with fat malabsorption, progressive ataxia, and retinitis pigmentosa.Acanthocytes or spur cells are spiculated red cells with a few projections of varying size andsurface distribution. The most significant associations include abetalipoproteinemia and severeliver disease.Note: Do not confuse acanthocytes with echinocytes or burr cells. They appear with multiple smallprojections that are uniformly distributed on the red cell surface. It is a universal feature ofuremia.753Image: The peripheral smear below shows regularly spaced, smoothly rounded crenulations,which are characteristic of a burr cell.Peripheral smear in other options:Hemolytic uremic syndrome (option A); Numerous schistocytes and nucleated RBCs withextremely low platelets:Glucose 6-phosphate dehydrogenase deficiency (option B); bite cells or degmacytes or blister cells.In G6PD deficiency uncontrolled oxidative stress causes hemoglobin to denature and form Heinzbodies. Bite cells result from the removal of Heinz bodies by macrophages in the spleen.The image below shows bite cells represented by blue arrows, black arrows represent burr cells:754000000000000000200Hereditary stomatocytosis (option C); Numerous stomatocytes (Uniconcave cupwith mouth-shaped area of central pallor), caused by missense mutation in band 3 or AEP0000",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q21_img1_3baf1d0c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 22,
+      "question": "A 12-year-old child is receiving iron and folic acid supplements under the Weekly Iron andFolic Acid Supplementation (WIFS) Programme. Which of the following is true about thisprogram?",
+      "options": {
+        "A": "It was launched by the Ministry of Health and Family Welfare.",
+        "B": "It is meant exclusively for adolescent school girls between 10-19 years of age.",
+        "C": "It exclusively covers government schools in rural India.",
+        "D": "It recommends that administration of 50 mg of elemental iron."
+      },
+      "correct_answer": "A",
+      "explanation": "Weekly Iron Folic acid Supplementation (WIFS) was launched by the Ministry of Health andFamily Welfare is the true statement among the given options.Salient features of Weekly Iron Folic acid Supplementation (WIFS):i. Objective of Weekly Iron Folic acid Supplementation (WIFS): To reduce the prevalence andseverity of anemia in the adolescent population (10-19 years).ii. Target groups755• School-going adolescent girls and boys in 6th to 12th class enrolled ingovernment/government-aided/municipal schools• Out-of-school adolescent girlsiii. Intervention• Administration of supervised weekly iron-folic acid supplements of 60 mg elemental iron and500 μg folic acid by using a fixed-day approach• Screening of target groups for moderate/severe anemia and referring these cases to anappropriate health facility• Biannual de-worming (albendazole 400 mg), six months apart, for the control of helminthicinfestation• Information and counseling for improving dietary intake and for taking actions for prevention ofintestinal worm infestation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 23,
+      "question": "A toddler is brought by his mother with complaints of poor feeding, lethargy, and chronicdiarrhea for the past 4 months. Upon clinical examination, the child has pale conjunctiva andis tachycardic. Blood workup reveals low hemoglobin and smear shows macrocytosis,anisopoikilocytosis, and large neutrophils with hyper-segmented nuclei. Serum homocysteinelevels are elevated and methylmalonate levels are normal. Bone marrow shows erythroidhyperplasia. Which of the following is true about this condition?",
+      "options": {
+        "A": "Lactate dehydrogenase levels in serum is low.",
+        "B": "Folate-deficient mother's give birth to infants with folate deficiency.",
+        "C": "Methylenetetrahydrofolate (MTHFR) deficiency is associated with megaloblastic anemia.",
+        "D": "Goat's milk fed infants are more likely to develop this disease"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario along with the megaloblastic picture elevated homocysteine levels, andnormal methylmalonate levels are suggestive of folate deficiency anemia.Goat's milk is deficient in folate. So goat milk-fed infants are likely to develop folate deficiencyanemia. Human breast milk, infant formulas, and pasteurized cow's milk provide adequateamounts of folic acid.In folate deficiency anemia, lactate dehydrogenase levels in serum are elevated. Folate-deficientmothers do not give birth to infants with folate deficiency because there is a selective transfer offolate to the fetus via the placental folate receptors.Methylenetetrahydrofolate (MTHFR) deficiency is the most common inborn error of folatemetabolism, and severe cases can produce neurologic and vascular complications; there is noassociated megaloblastic anemia.Malnutrition is the most common cause of folate deficiency in children.Note: Both homocysteine and methylmalonate levels are elevated in B12 deficiency anemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    },
+    {
+      "q_no": 24,
+      "question": "A child presents with megaloblastic anemia that is unresponsive to vitamin C, vitamin B12,and folic acid, but responsive to uridine. What do you suspect?",
+      "options": {
+        "A": "Thiamine deficiency",
+        "B": "Liver diseasePernicious anemiad) Orotic aciduria741Answer KeyQuestion No.Correct Option123dbd4d5a619b7d8b9d10b11C12b13b14C15d16d17d18C19a20b21d22a23d24dSolution to Question 1:Detailed ExplanationsAnaemia in a preschool child is defined as a hemoglobin level of &lt;11 g/dL.Preschool age is defined as 2 to 5 years.742WHO cut-offs for the diagnosis of anaemia:AgeHemoglobin (g/dL)<116 months to 5years5 to 11 years<11.512 to14 years<12Non-pregnant women (≥15 ye<12ars)Pregnant women<11Men (≥15 years)<13Solution to Question 2:The given clinical signs and symptoms are suggestive of anemia. Acquired hypoproliferativeanemia, is the most common cause of anemia in children among the given options.Iron-deficiency anemia (which is classified as an acquired hypoproliferative anemia) is the mostcommon cause of anemia in children and adults worldwide. Iron deficiency is also the mostcommon nutrient deficiency worldwide.Solution to Question 3:Exposure to whole cow's milk protein can cause chronic intestinal blood loss in infants. Therefore,the American Academy of Pediatrics (AAP) recommends delaying the introduction of cow's milk ininfancy and limiting it to &lt;700 mL/day.Both cow's milk and breast milk have the same iron content (≈0.1mg/dL).The bioavailability of breast milk iron is 2-3 times higher than cow's milk iron.Exclusive breastfeeding until 6 months of age and complementary feeding with iron-rich foodsthereafter reduces the risk of iron-deficiency anemia in infants.Solution to Question 4:Bone marrow erythroid hyperplasia is the earliest hematological response observed following irontherapy in iron-deficiency anemia.Responses to iron therapy in iron deficiency anemia:743Time after administration12 to 24 h36 to 48 hResponseSubjective improvements - decreased irritability, increasedappetiteBone marrow response- erythroid hyperplasia48 to 72 h (peaks at 5-7 days) Reticulocytosis4 to 30 days1 to 3 monthsIncrease in hemoglobin levelRepletion of stores (ferritin)Solution to Question 5:Poor compliance is the most likely cause of non-responsiveness to oral iron therapy.Differential diagnosis of microcytic anemia that fails to respond to oral iron:• Poor compliance (most common cause)• Incorrect dose or formulation•Malabsorption of administered iron•Ongoing blood loss, including gastrointestinal, menstrual, and pulmonaryConcurrent infection or inflammatory disorder• Concurrent vitamin B12 or folate deficiency• Diagnosis other than iron deficiency• Thalassemias• Hemoglobins C and E disorders•• Anemia of chronic disease• Lead poisoning• Sickle thalassemias, hemoglobin SC disease.• Iron refractory iron-deficiency anemia (IRIDA)Solution to Question 6:High-performance liquid chromatography (HPL",
+        "C": "is used to screen a newborn with a familyhistory of sickle cell disease.Option A: Hemoglobin electrophoresis is the confirmatory test for sickle cell anemiaOption C: Heel-prick Guthrie test is the neonatal screening test for phenylketonuria.Option D: Tandem mass spectrometry is being used for neonatal screening of inheritedmetabolic disorders.744Solution to Question 7:The given clinical scenario is suggestive of acute chest syndrome and all of the above are used inthe management.Acute chest syndrome (ACS) refers to a life-threatening pulmonary complication of sickle celldisease. It is diagnosed with the presence of a new radiodensity on chest radiography with any 2of the following:• Fever••• Respiratory distress⚫ Hypoxia• Cough⚫ Chest painIn this case, the child with sickle cell anemia satisfies the above criteria. He presented with chestpain and respiratory distress and his chest X-ray image shows new radiodensities.Most patients with ACS do not have a single identifiable cause. Infection is the most well-knownetiology, yet only 30% of ACS episodes will have positive sputum or bronchoalveolar culture. Themost common bacterial pathogens implicated are S. pneumoniae, Mycoplasma pneumoniae, andChlamydia spp.Oxygen should be supplemented to all patients who demonstrate hypoxia.Blood transfusion is the only method to abort a rapidly progressing episode of ACS.Because of the clinical overlap between pneumonia and ACS, all episodes should be treatedpromptly with antimicrobial therapy, including at least a macrolide and possibly athird-generation cephalosporin.Regular use of an incentive spirometer at 10-12 breaths every 2 hours can significantly reduce thefrequency of subsequent acute chest pain episodes.Solution to Question 8:Hydroxyurea is the drug of choice for reducing painful crises in sickle cell anemia.Hydroxyurea is a myelosuppressive agent that is effective in reducing the frequency of painfulepisodes like dactylitis and acute chest syndrome, decreasing the rate of hospitalization, andrequirement for blood transfusion. It is safe and well-tolerated in children and infants.Option A: Hydrocodone (opioi",
+        "D": "is used in the treatment of pain crisis in sickle cell anemia.Option C: Corticosteroids is one of the first-line therapies for acute idiopathic thrombocyticpurpura (ITP) with risk factors for bleeding.Option D: Ruxolitinib is the drug of choice for the treatment of polycythemia vera.745Solution to"
+      },
+      "correct_answer": "D",
+      "explanation": "Orotic aciduria is to be suspected in this child. Megaloblastic anemia that is responsive to uridineis consistent with orotic aciduria.Orotic aciduria is a rare inborn error of metabolism in children. A defect in the pyrimidinesynthesis pathway results in the failure of conversion of orotic acid to uridine.Supplementation of vitamin B12, folate, and vitamin C rules out the more common nutritionalcauses of megaloblastic anemia.Thiamine deficiency (option A) and anemia due to liver disease (option B) do not respond touridine.756Pernicious anemia (Option C) responds to treatment with vitamin B12.757",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pediatric Anemias"
+    }
+  ]
+}

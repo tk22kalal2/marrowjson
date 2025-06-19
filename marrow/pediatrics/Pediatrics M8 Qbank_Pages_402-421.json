@@ -1,0 +1,335 @@
+{
+  "chapter": "Neonatal Respiratory Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The following image shows the chest X-ray of a preterm neonate who was admitted to theNICU in view of severe respiratory distress. What does this suggest?",
+      "options": {
+        "A": "Meconium aspiration syndrome",
+        "B": "Hyaline membrane disease",
+        "C": "Transient tachypnoea of newborn",
+        "D": "Bronchopulmonary dysplasia"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q1_img1_a60cd253.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp1_img1_b533a7f0.jpeg",
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is the most important risk factor for neonatal respiratory distresssyndrome?",
+      "options": {
+        "A": "Perinatal Asphyxia",
+        "B": "Prematurity",
+        "C": "Caesarean section",
+        "D": "History of affected sibling"
+      },
+      "correct_answer": "B",
+      "explanation": "Respiratory distress syndrome occurs primarily in premature infants. Its incidence is inverselyrelated to gestational age and birthweight. It occurs in 60-80% of infants delivered at &lt;28 wkof gestational age, in 15-30% of those delivered between 32 and 36 weeks of gestational age, andrarely in those delivered at &gt;37 wk of gestational age.Other risk factors include the following:• Maternal diabetes•Multiple births• Cesarean delivery• Asphyxia•History of previously affected siblings411",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "402A father runs to a PHC with a baby wrapped in a towel. The neonate was delivered a fewhours back, at home, by the local dai. On initial examination, the medical officer notescyanosis and severe tachypnoea. Which of the following features would favor a diagnosis ofneonatal respiratory distress syndrome in this child?",
+      "options": {
+        "A": "Patchy coarse infiltrates on chest X-ray",
+        "B": "Air bronchogram on chest X-ray",
+        "C": "Emaciated appearance with palmar and plantar creases",
+        "D": "Onset of distress after 6 hours of birth"
+      },
+      "correct_answer": "B",
+      "explanation": "Air bronchogram on chest x-ray is suggestive of neonatal respiratory distress syndrome.Other chest x-ray findings in respiratory distress syndrome (RDS):• Fine reticulogranular pattern•Bilateral diffuse ground-glass opacitiesWhite-out lung (severe disease)Option A: Patchy coarse infiltrates are associated with meconium aspiration syndrome.Option C: Reduced fat under the skin resulting in an emaciated appearance as well as prominentcreases is a feature of post-term babies. Respiratory distress syndrome is more common amongpreterm babiesOption D: Onset of respiratory distress syndrome is within 6 hours of birth.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements regarding the treatment of RDS with surfactant is false?",
+      "options": {
+        "A": "It is given in neonates with RDS who fail CPAP",
+        "B": "It is given prophylactically to all neonates at &lt; 31 weeks gestation.",
+        "C": "It can be given as rescue treatment when RDS actually develops.",
+        "D": "Repeated dosing is given every 6-12 hr for a total of 2 to 4 doses."
+      },
+      "correct_answer": "B",
+      "explanation": "Surfactant is given prophylactically to all neonates &lt; 28 weeks, not 31 weeks. It is givenirrespective of the presence or absence of RDS. The route of administration is intratracheal.Surfactant is indicated in all infants with moderate to severe RDS. It is also given as a rescuetreatment when CPAP fails.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "A first-year resident receives a call from the casualty regarding an unbooked primigravida, at32 weeks of gestation. She has presented with regular painful uterine contractions. Onexamination, her cervix is 2cm dilated. What dose of betamethasone injection should theresident give her?",
+      "options": {
+        "A": "6mg q12h; 2 doses",
+        "B": "12mg q24h; 2 doses",
+        "C": "12mg q6h; 4 doses",
+        "D": "6mg q12h; 4 doses"
+      },
+      "correct_answer": "B",
+      "explanation": "The woman is currently in preterm labour and the dose of antenatal betamethasone given foravoiding complications of prematurity is 12mg IM every 24 hours (total 2 doses).Dexamethasone is used, the dose is 6mg IM every 12 hours (total 4 doses).Corticosteroid administration is recommended for all women in preterm labour (&lt;34 weeks ofgestation).Antenatal steroid administration reduces the risk of the following: (RINN)•Respiratory distress syndrome (RDS)Intraventricular haemorrhage (IVH)• Necrotizing enterocolitis (NEC)• Neurodevelopmental delay",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "A 30-year-old woman with a history of recurrent late-trimester abortions is in preterm labor,presumed to be due to chorioamnionitis. She has received one dose of betamethasoneinjection. This is a precious pregnancy and the relatives are concerned aboutprematurity-related complications in the baby. Which of the following is useful for assessinglung maturity in this fetus?403",
+      "options": {
+        "A": "L/S ratio",
+        "B": "Bilirubin content of amniotic fluid",
+        "C": "Ultrasound",
+        "D": "Amniocentesis"
+      },
+      "correct_answer": "A",
+      "explanation": "412The lecithin-sphingomyelin ratio (L/S ratio) is an amniotic fluid test used to assess fetal lungmaturity. L/S ratio of &lt; 2 in amniotic fluid indicates lung immaturity.Surfactant starts appearing in the fetal lung by 20 weeks of gestation. Levels indicating lungmaturity are detected after 35 weeks.Surfactant is a complex mixture of lipids, proteins, and carbohydrates produced by type IIpneumocytes in the lung epithelium. The absence of surfactant in the liquid film lining the alveolicauses an increase in surface tension and alveolar collapse. If not treated, such atelectasis leads toincreased work of breathing, intrapulmonary shunting, ventilation-perfusion mismatch, hypoxia,and eventually respiratory failure.The relative concentration of the phospholipids lecithin (L) and sphingomyelin (S) is an indicatorof lung maturity. The outward flow of pulmonary secretions from the fetal lungs into the amnioticfluid maintains the level of lecithin and sphingomyelin equally until 32–33 weeks gestation whenthe lecithin concentration begins to increase significantly while sphingomyelin remains nearly thesame. An L-S ratio of 2.5 or more indicates fetal lung maturity while an L/S ratio of less than 1.5 isassociated with a high risk of infant respiratory distress syndrome.Other tests done to assess fetal lung maturity are:• Shake test/bubble test•Phosphatidyl glycerol measurement• Surfactant:albumin ratio•• Lamellar body counts",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is not an indicator of fetal lung maturity?",
+      "options": {
+        "A": "Lecithin-sphingomyelin ratio &gt; 2.5",
+        "B": "Positive shake test",
+        "C": "Increased phosphatidyl glycerol",
+        "D": "Nile blue test showing &gt;50% of blue cells"
+      },
+      "correct_answer": "D",
+      "explanation": "Nile blue test showing &gt;50% orange cells is a sign of fetal lung maturity, not blue cells.Tests for the assessment of fetal lung maturity include:The Nile blue test involves staining desquamated fetal cells from amniotic fluid with 0.1% Nileblue sulfate. The presence of orange cells &gt; 50% suggests lungmaturity. Lecithin/sphingomyelin ratio at 31 to 32 weeks is 1, and at 35 weeks ratio is 2. Theratio ≥2 indicates lung maturity (option A).The shake test or bubble test (Clement's test) (option B) involves mixing amniotic fluid with 95%ethanol, shaking it for 15 seconds, and observing it for 15 minutes. A complete ring of bubbles atthe meniscus is a positive test and indicates lung maturity. This is a useful bedside test.The presence of phosphatidylglycerol, (option C) saturated phosphatidylcholine and lamellar bodycount (&gt;50,000/mcL) indicates lung maturity.Glucocorticoids accelerate lung maturation and lower the incidence of respiratory distress andneonatal mortality in preterms if the birth was delayed for at least 24 hours after initiation ofbetamethasone. A single course of corticosteroids is recommended for women between 24 and 36weeks who are at risk of delivery within 7 days. Intramuscular injections of either 2 doses of 12 mgbetamethasone are given 24 hourly or 4 doses of 6 mg dexamethasone are given 12 hourly.413",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "A female infant was born in a community hospital by spontaneous vaginal delivery at 34weeks of gestation. 30 minutes later, the baby's breathing became excessively laboured.Despite providing non-invasive ventilation, the baby died. Post-mortem histopathologicalexamination of the lung showed thick pink membranes lining the small, collapsed alveolarspaces and necrotic debris, mainly within the respiratory bronchioles, alveolar ducts, andunopened alveoli. What are these membranes chiefly composed of?",
+      "options": {
+        "A": "Phosphatidylcholine",
+        "B": "Fibrin404",
+        "C": "Mucoprotein",
+        "D": "Complex polysaccharide"
+      },
+      "correct_answer": "",
+      "explanation": "The history of respiratory distress in a premature baby (34 weeks) and a biopsy showing pink(hyaline) membranes in the alveoli is indicative of hyaline membrane disease (HMD). The hyalinemembranes are composed of layers of fibrin-rich edema fluid and necrotic cells of lining alveoli.Diffuse ischemic damage to the alveoli causes the transudation of proteins into the alveoli to formthe hyaline membrane.Hyaline membrane disease (HMD), also known as infantile respiratory distress syndrome (IRDS)or respiratory distress syndrome of newborns (RDS) is a syndrome in premature infants caused bydevelopmental insufficiency of pulmonary surfactant production and structural immaturity of thelungs.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q8_img1_86d9bb53.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "A primigravida was taken up for emergency cesarean section in view of placental abruption,at 32 weeks of gestation. Immediately after delivery, you dry the baby, clear secretions fromthe mouth and nose, and provide tactile stimulation. But even after 30 seconds, you note thebaby is still gasping for breath and oxygen saturation has not increased more than 92%.Which is the next best step?",
+      "options": {
+        "A": "Mechanical ventilation",
+        "B": "CPAP",
+        "C": "100% oxygen",
+        "D": "Surfactant and ventilation"
+      },
+      "correct_answer": "",
+      "explanation": "The most common cause of respiratory distress in a preterm infant is neonatal RDS (hyalinemembrane disease). The infant has presented with moderate respiratory distress without anysigns of respiratory failure so early continuous positive airway pressure (CPAP) is the appropriatetreatment.CPAP started at birth is the choice for the management of a preterm infant at risk for respiratorydistress syndrome (RDS). Early nasal CPAP has shown to lower mortality and risk ofbronchopulmonary dysplasia. Room air is better than oxygen for the resuscitation of preterminfants, and 100% oxygen is also harmful, causing increased oxidative stress.The intubate-surfactant-extubate (INSURE) on CPAP technique is recommended for surfactantadministration when babies showed signs of RDS and needed more than 30% inspired oxygen tomaintain saturation in the normal range.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "A 3-hour-old neonate with apnea has been on bag and mask ventilation for the last 30seconds. She has now started taking spontaneous breaths. The heart rate is still between 100and 110/min. What is your next step?",
+      "options": {
+        "A": "Discontinue ventilation",
+        "B": "Continue ventilation",
+        "C": "Give chest compression",
+        "D": "ET intubation"
+      },
+      "correct_answer": "A",
+      "explanation": "As per the NRP algorithm, at any time during resuscitation, if the HR &gt; 100 and spontaneousbreathing resumes then discontinue ventilation.The components of NRP resuscitation include: (TABCD)•Temperature- maintain between 36.5 and 37.5 C•Airway- \"sniffing\" position, clear secretions if needed• Breathing- free flow 02 (maintain sats 91-95%), PPV (40-60 breaths /min), ETT• Circulation- chest compressions:ventilation ratio (3:1 = 90:30; lower 1/3rd sternum; two thumbtechnique preferred)• Drugs- Epinephrine, volume expandersAlgorithm states:• HR &lt; 100/min + no respirations → Positive pressure ventilation (PPV)••No response with PPV → Endotracheal intubation (ET)414• HR &lt; 60/min →Chest compressions• No response to chest compressions → epinephrine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "A preterm infant in the NICU was observed to have marked nasal flare, distinct xiphoidretractions, minimal intercostal retractions, and inspiratory lag with an audible grunt. Whatwould be the Silverman Anderson score?",
+      "options": {
+        "A": "10",
+        "B": "7",
+        "C": "8",
+        "D": "9405"
+      },
+      "correct_answer": "",
+      "explanation": "The Silverman-Anderson score of the child would be 8.Calculation of the Silverman-Anderson score of this child:Total score: 8A score of more than 7 indicates respiratory failure.The Silverman-Anderson score is a commonly used score to assess respiratory distress. It helps toassess the progression of distress over time and initiate treatment. It is more suited for pretermswith respiratory distress syndrome. Scoring is to be done every half an hour and charting iscarried out to monitor progress.The image below shows Silverman Anderson retraction score:CriteriaFindingScorExpiratory gruntAudible with the naked ea21rNasal flaringMarked2Xiphoid retractionMarked2Intercostal retraction (lowerchest)Minimal1Chest movement (upper chest)LagSilverman Anderson Retraction ScoreGrade O↑ ↑UpperChestSynchronizedGrade 17↓7Lag on inspiration1Grade 2↑See-sawLowerChestNo retractionsJust visibleMarkedXiphoidRetractionsNarosDilatationExpiratorygruntNoneJust visibleMarkedNoneMinimalMarkedNoneHeard withstethoscopeAudibleMARROW415Downes' Score is also used for assessing the severity of respiratory distress. It is morecomprehensive and can be applied to any gestational age and condition. Downe's score of&gt;7 means impending respiratory failure.Score2Respiratory rat <60/60-80/min>80/mineminAir entryNorMild decreaseMarked decreasemalCyanosisNilIn-room airOn >40% 02GruntingNoneOnly on auscultatioAudible with the naked eanrRetractionNilMildModerate",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp11_img1_d3406389.jpeg",
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "As part of calculating Downe's score for a baby, you would assess all of the following except:",
+      "options": {
+        "A": "Cyanosis",
+        "B": "Nasal flaring",
+        "C": "Air entry",
+        "D": "Respiratory rate"
+      },
+      "correct_answer": "B",
+      "explanation": "Downe's score does not consider nasal flaring.The severity of respiratory distress is assessed by Downe's score and Silverman-Andersonscore. Downe's score can be applied for any gestational age. Downe's score of &gt;7 meansimpending respiratory failure. Silverman-Anderson score is more suited for preterms withhyaline membrane disease (HMD).Downe's scoringScore012Respiratory rat<60/60-80/min>80/minminAir entryNorMild decreaseMarked decreasemalCyanosisNilGruntingIn room airNone Only on auscultatioOn >40% 02Audible with naked enarRetractionNilMildModerate",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "Your brother-in-law calls you during one of your night duties and tells you that your sisterjust delivered a baby girl and that both the mother and the child are doing well following thecesarean delivery. The next morning, however, you get a call that the baby started havingtrouble breathing and has been shifted to the NICU. He also sends you a photo of her chestX-ray via WhatsApp. On the radiograph, you note streaky, perihilar linear densities and fluidin the horizontal fissure. Which of the following is true regarding the given clinical condition?",
+      "options": {
+        "A": "Only observation and supportive therapy is needed",
+        "B": "It can predispose to bronchopulmonary dysplasia",
+        "C": "More common in preterm infants",
+        "D": "Management involves surfactant administration"
+      },
+      "correct_answer": "A",
+      "explanation": "Benign respiratory distress in a newborn with a chest X-ray showing fluid in the interlobar fissureis indicative of transient tachypnoea of newborn (TTN), also known as retained fetal lung liquidsyndrome. The management of TTN is supportive oxygen therapy and observation.416It is more common after a term, cesarean delivery and is due to the delayed clearance of the lungfluid from the interstitium into the pulmonary lymphatics.Other findings of chest x-ray imaging are prominent (perihilar) pulmonary vascular markings,increased interstitial markings, and a \"wet silhouette\" around the heart.PORTA RPORTAABChest radiograph (A) on day 1 at 6 hours shows a bilateral diffuse ground-glass appearance andfine granularity due to interstitial opacities.Chest radiograph (B) of the same patient at the age of 2 days (B) shows that the pulmonaryparenchymal opacities have decreased, though perihilar streaky markings are still present.Treatment is supportive and minimal oxygen treatment (&lt; 40%) is often adequate; infantsusually recover within 3 days.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp13_img1_a4fec5cc.jpeg",
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "A preterm, extremely low birth weight baby, delivered by emergency caesarian section wasadmitted to the NICU and treated for respiratory distress syndrome. She responded totreatment and was discharged. At 6 months of age, she is still having recurrent respiratorydistress and requires supplemental oxygen at home. The baby was diagnosed withbronchopulmonary dysplasia. Which of the following does not cause this clinicalcomplication?",
+      "options": {
+        "A": "Oxygen therapy in the NICU",
+        "B": "Mechanical trauma to the lungsInhalation of nitrous oxided) Patent Ductus ArteriosusQuestion 15:406A female newborn was delivered at 40 weeks of gestation by emergency C-section, followingsigns of severe fetal distress. Greenish amniotic fluid was noted. Immediately followingdelivery, the baby was shifted to the NICU and had to be intubated. Her chest X-Ray is asbelow. What does it show?a) Mediastinal shiftb) Ground glass opacities",
+        "C": "Fluid in the interlobar fissure",
+        "D": "Patchy infiltrates and coarse streakingRö Thorax+Oberbauch ap im Liegen"
+      },
+      "correct_answer": "",
+      "explanation": "Inhalation of nitrous oxide (N2O) is not associated with bronchopulmonary dysplasia (BPD).Inhaled NO is a pulmonary vasodilator approved for the treatment of hypoxic respiratory failurein term and near-term infants with pulmonary hypertension. It may have a role in preventingBPD.BPD is a pathologic process leading to clinical features of chronic lung disease that originates inthe neonatal period and is defined by an oxygen requirement for 28 days postnatally.Inflammatory injury to the developing lungs due to barotrauma and oxygen toxicityresulting from prolonged mechanical ventilation is the key factor driving the pathogenesis of BPD.Together with other antenatal and postnatal factors, it results in aberrant tissue repair,dysregulated vascular and arrested alveolar development, which is the basis of the pathology seenin BPD.417Pathogenesis ofBronchopulmonary dysplasiaAntenatal factors- Lack ofantenatal steroidsChorioamnionitis/maternal infectionsIntrauterine growthrestriction/PreeclampsiaMaternal smokingGenetic susceptibilityStages of lungdevelopmentMCanalicularstage16 wk23 wkPrematuredeliverySaccularstagePostnatal factors-Ventilator-inducedlung injuryOxidative stress/oxygen injuryInfectionsPulmonary fluidoverload (PDA)Nutritional deficitsAlveolarstage32 wk38 wkInflammationAberrantImpairedvascular+tissue repairtissuedestruction+fibrosisalveolardevelopmentBronchopulmonarydysplasiaOMARROWNormaldevelopmentN",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp14_img1_566da545.jpeg",
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 16,
+      "question": "A newborn infant, delivered at home, at 42 weeks of gestation, became cyanotic and startedbreathing rapidly. The child was immediately taken to the nearby primary health centre. Asthe medical officer prepares to intubate, she notes greenish staining on the vocal cords.Which of the following is this baby likely to develop?",
+      "options": {
+        "A": "Listeriosis",
+        "B": "Pathological jaundice",
+        "C": "Obstructive emphysema",
+        "D": "Meconium ileus"
+      },
+      "correct_answer": "C",
+      "explanation": "Respiratory distress in a post-term neonate with a history of greenish (meconium-stained)amniotic fluid during delivery is suggestive of meconium aspiration syndrome (MAS). Theaspirated meconium can block the large and small airways, causing patchy atelectasis andemphysema. This produces a ventilation-perfusion mismatch. Severe overinflation can lead to airleak syndromes such as pneumothorax.Meconium consists of water, desquamated GIT cells, skin, lanugo hair, vernix, bile salts,pancreatic enzymes, lipids, and mucopolysaccharides. The bile salts and pancreatic enzymes cancause chemical pneumonitis. Meconium can also cause surfactant inactivation by displacing itfrom the alveolar surface and inhibiting its surface tension-lowering ability. Severe MAS isassociated with remodelling and thickening of the muscular walls, resulting in pulmonaryhypertension.Infants who develop MAS typically present in the first 12 hours after birth with varying degrees ofrespiratory distress. On inspection, many affected infants have 'barrel chests'; crackles (rales) andrhonchi often can be heard on auscultation. In severe cases, the entire lungs can be involvedresulting in a total \"whiteout\" of the lungs on the radiograph.Listeriosis is an infection that is acquired from the mother and is reported to be rarely associatedwith meconium-stained amniotic fluid.418Pathogenesis ofMeconium aspiration syndromeMeconium aspirationMechanicalobstructionChemicalinflammationSurfactantinactivationAir trappingUnevenventilationAtelectasisIntrapulmonaryshuntingAir leaksHypoxemiaacidosisPrimarypulmonaryhypertensionOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp16_img1_ad7a074d.jpeg",
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is false about apnea of prematurity (AOP)?407",
+      "options": {
+        "A": "Usually resolves by 37 weeks post conceptional age",
+        "B": "Gentle tactile stimulation is often adequate for mild to moderate episodes",
+        "C": "Recurrent AOP can be treated with caffeine or theophylline",
+        "D": "AOP is a risk factor for Sudden infant death syndrome (SIDS)"
+      },
+      "correct_answer": "D",
+      "explanation": "Apnea of prematurity (AOP) is not a risk factor for sudden infant death syndrome (SIDS).It is defined as cessation of breathing for longer than 20 seconds or for any duration ifaccompanied by cyanosis or bradycardia. It is a diagnosis of exclusion. It is seen in preterminfants and usually resolves by the 37th week of gestation. Recurrent apnea of prematurity may betreated with caffeine or theophylline. It does not predict the future occurrence of SIDS.Sudden Infant Death Syndrome (SIDS) is the sudden death of an infant under one year of age,which remains unexplained after a thorough case investigation, including the performance of acomplete autopsy, examination of the death scene, and review of the clinical history.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 18,
+      "question": "While monitoring the respiratory rate of the infants in the NICU, you notice one baby whichsuddenly stops breathing. Which of the following statements is true in this regard?",
+      "options": {
+        "A": "Primary apnea is characterized by labile BP and tachycardia",
+        "B": "Caffeine therapy should be given in primary apnea",
+        "C": "Secondary apnea responds to stimulation by establishing normal breathing.",
+        "D": "Central asphyxia can cause secondary apnea"
+      },
+      "correct_answer": "D",
+      "explanation": "Secondary apnea can occur as a central CNS meditated asphyxia or due to neuromusculardisorders.Apnea is the cessation of breathing for &gt;20 seconds or for any duration if accompaniedby bradycardia and cyanosis.Primary ApneaFailure to initiate respiratoryeffort at birthThere may be bradycardia and decreased tone. BP remainsnormalSecondary ApneaApnea developing in an infant who has initiated a respiratory effortCan originate in CNS due toasphyxia or peripherally dueto neuromuscular disorders419Primary ApneaRespond to tactile stimulationSecondary ApneaRequire ventilatory assistance and drugs- caffeine or theophylline",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 19,
+      "question": "A 15-day-old infant had conjunctivitis, which later developed into respiratory distress andpneumonia. Chest X-ray examination revealed bilateral lung infiltrates. Peripheral smearcount showed 14,300/dL (N 43, L 54, E3). Which of the following is the most likelypathogenic organism?",
+      "options": {
+        "A": "Chlamydia trachomatis",
+        "B": "Streptococcus pneumonia",
+        "C": "Neisseria gonorrhoeae",
+        "D": "Mycoplasma pneumonia"
+      },
+      "correct_answer": "",
+      "explanation": "The organism most likely to cause the mentioned infections is Chlamydia trachomatis.Pneumonia caused by C. trachomatis can develop in 10-20% of infants born to women withactive, untreated chlamydial infection. Only approximately 25% of infants with nasopharyngealchlamydial infection develop pneumonia.C. trachomatis pneumonia of infancy has a very characteristic presentation. It usually occursbetween 1-3 months of age and is insidious, with a persistent cough, tachypnea, and absence offever. Auscultation reveals rales; wheezing is uncommon.The absence of fever and wheezing helps to distinguish C. trachomatis pneumonia fromrespiratory syncytial virus pneumonia.A distinctive laboratory finding is the presence of peripheral eosinophilia (&gt;400 cells/µL).The most consistent finding on chest radiograph is hyperinflation accompanied by minimalinterstitial or alveolar infiltrates.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 20,
+      "question": "The radiologist calls and confirms a Bochdalek hernia in a baby born with multiple congenitalanomalies. The baby had been placed under an oxygen hood in the NICU, in view of postnatalrespiratory distress. On repeat evaluation, he continues to have sternal retractions and is notmaintaining saturation. Which of the following would be your initial clinical intervention inthis case?",
+      "options": {
+        "A": "Intubate and insert a nasogastric tube",
+        "B": "Bag and mask ventilation",
+        "C": "Insert a central venous pressure line408",
+        "D": "Ventilate with a high-frequency ventilator"
+      },
+      "correct_answer": "A",
+      "explanation": "Once the diagnosis of congenital diaphragmatic hernia is made or suspected, all patients areintubated. Also a nasogastric tube, connected to continuous suction, is placed in the stomach toreduce lung compression.Congenital diaphragmatic hernia (CDH) is a birth defect of the diaphragm. The most commontype of CDH is a Bochdalek hernia (postero-lateral diaphragmatic hernia); other types includeMorgagni hernia (anterior-parasternal), diaphragm eventration, and central tendon defects of thediaphragm. Malformation of the diaphragm allows the abdominal organs to push into the chestcavity, hindering proper lung formation and expansion.Immediate steps of management:Endotracheal intubation → Placement of a nasogastric tube Administration of fluids andinotropic agents → Administration of surfactant therapy to only preterm infants with findingssuggestive of respiratory distress syndrome. Other options:Option B: Bag and mask ventilation is to be avoided as they lead to gastric/abdominal distensionand compression of the lung.Option C: Both arterial and central venous lines are inserted; however, this is not the first line ofintervention.420Option D: To support respiratory failure, the first modality to be used is conventional ventilation,and if there is no improvement, then high-frequency ventilation is used.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 21,
+      "question": "A newborn delivered vaginally, at term, was diagnosed with congenital diaphragmatic hernia.The most important limiting factor for survival in this condition is",
+      "options": {
+        "A": "Mediastinal shift",
+        "B": "Left-sided hernia",
+        "C": "Intestinal obstruction",
+        "D": "Pulmonary hypoplasia"
+      },
+      "correct_answer": "D",
+      "explanation": ".Pulmonary hypoplasia is a very poor prognostic factor in congenital diaphragmatic hernia.Poor prognostic indicators in CDH:• The presence of liver in the thoracic cavity• Pulmonary hypoplasia, pulmonary hypertension•• Early respiratory distress, within 24 h after birth• Need for extracorporeal membrane oxygenation• Herniation to the contralateral lung (right-sided hernia)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 22,
+      "question": "You are doing a quick pre-op evaluation of a 2-day-old baby shifted for emergency pediatricsurgery. Parents had brought him with a history of sudden, noisy breathing. He appearedcyanotic with decreased breath sounds on the left side of the chest. Chest X-ray taken in thecasualty is given below. Which of the following is not true about the underlying condition?",
+      "options": {
+        "A": "Not associated with dextrocardia",
+        "B": "Most commonly seen on the left side",
+        "C": "Mortality is usually associated with pulmonary hypoplasia",
+        "D": "Pulmonary dilators markedly improve the survival409"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical picture of neonatal respiratory distress, absent breath sounds in the left side ofthe chest, and an X-ray image showing bowel loops in the thoracic cavity is diagnostic ofcongenital diaphragmatic hernia (CDH). Though less commonly documented, dextrocardia is seenin association with CDH.A diaphragmatic hernia is defined as a communication between the abdominal and thoraciccavities with or without abdominal contents in the thorax. It is mostly congenital, with a defectiveformation of the pleuroperitoneal membrane. Females are affected twice as often as males.Bochdalek hernia accounts for up to 90% of the hernias seen in the newborn period, with 80-90%occurring on the left side. So, the heart will be pushed to the right side (dextroposition).Predictors of a poor prognosis include an associated major anomaly, symptoms before completionof 24 hours since birth, severe pulmonary hypoplasia, herniation to the contralateral lung, and theneed for extracorporeal membrane oxygenation (ECMO).Nitric oxide is a selective pulmonary vasodilator. It reduces ductal shunting and pulmonarypressures, resulting in improved oxygenation.421",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q22_img1_a01eee0c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsFrom the given clinical picture of respiratory distress in a premature neonate and the X-rayfindings of diffuse ground-glass (reticulo-granular) opacities with a characteristic white-outappearance, hyaline membrane disease (HMD) is the most likely diagnosis.HMD, also known as neonatal Respiratory distress syndrome (RDS) is a relatively commoncondition resulting from insufficient production of surfactant that occurs in preterm neonates.Maternal diabetes, perinatal asphyxia, and multiple gestations are other known risk factors for thecondition. Clinical features include tachypnea, chest retractions, expiratory grunting, and nasalflaring. The infant may or may not be cyanosed.410X-ray features of HMD include:• Air bronchogram sign•Diffuse ground-glass opacities•Obliteration of cardiac and diaphragmatic contours giving rise to 'white-out' lung (indicatessevere disease)ABChest radiograph (",
+      "options": {
+        "A": "shows reticulogranular opacities throughout both lungs with prominent airbronchograms. The cardiac silhouette is preserved and both lungs are hypoaerated.Chest radiograph (",
+        "B": "shows more severe changes. There is obliteration of the cardiac anddiaphragmatic contours due to marked opacification, giving a complete 'white out' appearanceSolution to Question 2:Respiratory distress syndrome occurs primarily in premature infants. Its incidence is inverselyrelated to gestational age and birthweight. It occurs in 60-80% of infants delivered at &lt;28 wkof gestational age, in 15-30% of those delivered between 32 and 36 weeks of gestational age, andrarely in those delivered at &gt;37 wk of gestational age.Other risk factors include the following:• Maternal diabetes•Multiple births• Cesarean delivery• Asphyxia•History of previously affected siblings411Solution to Question 3:Air bronchogram on chest x-ray is suggestive of neonatal respiratory distress syndrome.Other chest x-ray findings in respiratory distress syndrome (RDS):• Fine reticulogranular pattern•Bilateral diffuse ground-glass opacitiesWhite-out lung (severe disease)Option A: Patchy coarse infiltrates are associated with meconium aspiration syndrome.Option C: Reduced fat under the skin resulting in an emaciated appearance as well as prominentcreases is a feature of post-term babies. Respiratory distress syndrome is more common amongpreterm babiesOption D: Onset of respiratory distress syndrome is within 6 hours of birth.Solution to Question 4:Surfactant is given prophylactically to all neonates &lt; 28 weeks, not 31 weeks. It is givenirrespective of the presence or absence of RDS. The route of administration is intratracheal.Surfactant is indicated in all infants with moderate to severe RDS. It is also given as a rescuetreatment when CPAP fails.Solution to Question 5:The woman is currently in preterm labour and the dose of antenatal betamethasone given foravoiding complications of prematurity is 12mg IM every 24 hours (total 2 doses).Dexamethasone is used, the dose is 6mg IM every 12 hours (total 4 doses).Corticosteroid administration is recommended for all women in preterm labour (&lt;34 weeks ofgestation).Antenatal steroid administration reduces the risk of the following: (RINN)•Respiratory distress syndrome (RDS)Intraventricular haemorrhage (IVH)• Necrotizing enterocolitis (NE",
+        "C": "• Neurodevelopmental delaySolution to Question 6:412The lecithin-sphingomyelin ratio (L/S ratio) is an amniotic fluid test used to assess fetal lungmaturity. L/S ratio of &lt; 2 in amniotic fluid indicates lung immaturity.Surfactant starts appearing in the fetal lung by 20 weeks of gestation. Levels indicating lungmaturity are detected after 35 weeks.Surfactant is a complex mixture of lipids, proteins, and carbohydrates produced by type IIpneumocytes in the lung epithelium. The absence of surfactant in the liquid film lining the alveolicauses an increase in surface tension and alveolar collapse. If not treated, such atelectasis leads toincreased work of breathing, intrapulmonary shunting, ventilation-perfusion mismatch, hypoxia,and eventually respiratory failure.The relative concentration of the phospholipids lecithin (L) and sphingomyelin (S) is an indicatorof lung maturity. The outward flow of pulmonary secretions from the fetal lungs into the amnioticfluid maintains the level of lecithin and sphingomyelin equally until 32–33 weeks gestation whenthe lecithin concentration begins to increase significantly while sphingomyelin remains nearly thesame. An L-S ratio of 2.5 or more indicates fetal lung maturity while an L/S ratio of less than 1.5 isassociated with a high risk of infant respiratory distress syndrome.Other tests done to assess fetal lung maturity are:• Shake test/bubble test•Phosphatidyl glycerol measurement• Surfactant:albumin ratio•• Lamellar body countsSolution to Question 7:Nile blue test showing &gt;50% orange cells is a sign of fetal lung maturity, not blue cells.Tests for the assessment of fetal lung maturity include:The Nile blue test involves staining desquamated fetal cells from amniotic fluid with 0.1% Nileblue sulfate. The presence of orange cells &gt; 50% suggests lungmaturity. Lecithin/sphingomyelin ratio at 31 to 32 weeks is 1, and at 35 weeks ratio is 2. Theratio ≥2 indicates lung maturity (option A).The shake test or bubble test (Clement's test) (option B) involves mixing amniotic fluid with 95%ethanol, shaking it for 15 seconds, and observing it for 15 minutes. A complete ring of bubbles atthe meniscus is a positive test and indicates lung maturity. This is a useful bedside test.The presence of phosphatidylglycerol, (option C) saturated phosphatidylcholine and lamellar bodycount (&gt;50,000/mcL) indicates lung maturity.Glucocorticoids accelerate lung maturation and lower the incidence of respiratory distress andneonatal mortality in preterms if the birth was delayed for at least 24 hours after initiation ofbetamethasone. A single course of corticosteroids is recommended for women between 24 and 36weeks who are at risk of delivery within 7 days. Intramuscular injections of either 2 doses of 12 mgbetamethasone are given 24 hourly or 4 doses of 6 mg dexamethasone are given 12 hourly.413Solution to Question 8:The history of respiratory distress in a premature baby (34 weeks) and a biopsy showing pink(hyaline) membranes in the alveoli is indicative of hyaline membrane disease (HM",
+        "D": ". The hyalinemembranes are composed of layers of fibrin-rich edema fluid and necrotic cells of lining alveoli.Diffuse ischemic damage to the alveoli causes the transudation of proteins into the alveoli to formthe hyaline membrane.Hyaline membrane disease (HMD), also known as infantile respiratory distress syndrome (IRDS)or respiratory distress syndrome of newborns (RDS) is a syndrome in premature infants caused bydevelopmental insufficiency of pulmonary surfactant production and structural immaturity of thelungs.Solution to"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/q1_img1_267a1618.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpaediatrics/exp1_img1_7e8dea3f.jpeg",
+      "chapter_heading": "Neonatal Respiratory Disorders"
+    }
+  ]
+}
