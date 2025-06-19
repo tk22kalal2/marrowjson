@@ -1,0 +1,230 @@
+{
+  "chapter": "Rheumatoid Arthritis and Osteoarthritis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common form of arthritis?",
+      "options": {
+        "A": "Rheumatoid arthritis",
+        "B": "Psoriatic arthritis",
+        "C": "Seronegative arthritis",
+        "D": "Osteoarthritis"
+      },
+      "correct_answer": "D",
+      "explanation": "Osteoarthritis is the most common type of arthritis.Osteoarthritis is strongly associated with age and is highly prevalent among older individuals.Studies suggest that over 80% of people aged 55 and above have osteoarthritis in at least onejoint.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 2,
+      "question": "A 35-year-old man comes with a history of musculoskeletal pain. Which of the followingsuggests that the pain is non-articular?",
+      "options": {
+        "A": "Swelling",
+        "B": "Pain in both movement and at rest",
+        "C": "Painless on passive movement",
+        "D": "Presence of crepitation"
+      },
+      "correct_answer": "C",
+      "explanation": "Non-articular disorders tend to be painless on passive movement.FeatureStructures involvedArticularSynovium, synovial fluid, articular cartilage, intraarticularligaments, joint capsule, andjuxta-articular boneDeep or diffuseBoth on active and passive movementPainPain with movementSwellingPresentCrepitationPresentInstabilityPresentDeformityPresentExamplesNon-articularExtraarticular ligaments, tendons, bursae, muscles, fascia,bone, nerves, and overlyingskinLocalizedOnly on active movementAbsentAbsentAbsentAbsentOsteoarthritis, infectious arthritis, ankylosing spondylitisFibromyalgia, myofascial pain, acute muscle strain, myotonic dystrophy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 3,
+      "question": "Which is the first joint to be involved in rheumatoid arthritis?",
+      "options": {
+        "A": "Knee joint",
+        "B": "Joints of the hands",
+        "C": "Wrist joint",
+        "D": "Ankle joint"
+      },
+      "correct_answer": "B",
+      "explanation": "The first joints to be involved in rheumatoid arthritis are the small joints of the hands andfeet (MCP, PIP, and MTP).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is the earliest radiological feature in rheumatoid arthritis?",
+      "options": {
+        "A": "Erosion of articular margins",
+        "B": "Asymmetric joint space loss395",
+        "C": "Juxta-articular osteopenia",
+        "D": "Subchondral cysts"
+      },
+      "correct_answer": "C",
+      "explanation": "The earliest feature of rheumatoid arthritis X-ray is juxta-articular osteopenia (shown below).401Other radiological features of RA:• Erosion of articular margins• Subchondral cyst•Soft tissue swelling due to joint effusion•• Deformities of hand and fingersThe image below shows an X-ray of RA of the shoulder joint with the erosion of articular margins(arrows) and joint space narrowing.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp4_img1_10de5e87.jpeg",
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following lesions is not seen in patients with rheumatoid arthritis?",
+      "options": {
+        "A": "Trigger finger",
+        "B": "Ulnar deviation",
+        "C": "Heberden nodes",
+        "D": "Intrinsic plus hand"
+      },
+      "correct_answer": "",
+      "explanation": "Heberden nodes are not seen in rheumatoid arthritis, but in osteoarthritis.402They are knob like appearance of DIP due to the formation of osteophytes and tissue swelling.The images below show the clinical and X-ray appearances of Heberden nodes in OA.Deformities seen in RA:The image below shows the clinical and X-ray appearance of swan-neck deformity.403The images below show the boutonniere deformity.RDAILYROUNDS404The image below shows the Z-deformity.The images below show hammertoe.-BoutonnièredeformitySwan-neckdeformity405417 811MAFlexion at theproximalinterphalangealjointHammer toesOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp5_img1_6ce3335e.jpeg",
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 6,
+      "question": "A middle-aged woman who is being treated for rheumatoid arthritis, presented with muscleweakness and rigidity in her upper limbs. Which of the given X-ray views should beperformed to evaluate her condition?",
+      "options": {
+        "A": "Spine in lateral flexion &amp; extension view",
+        "B": "Open mouth view",
+        "C": "Swimmer's view",
+        "D": "Schuller's view"
+      },
+      "correct_answer": "",
+      "explanation": "The patient with rheumatoid arthritis presents with signs of UMN lesion, indicating spinal cordinvolvement due to atlantoaxial instability (excessive movement between C1 and C2). An X-ray ofthe spine in lateral flexion and extension view is required for further evaluation.Open mouth view is also for the atlantoaxial area, but will not demonstrate instability.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is likely to be seen in a patient with rheumatoid arthritis of the knee?",
+      "options": {
+        "A": "Genu valgum",
+        "B": "Osteophytes",
+        "C": "Stiff and hard joints",
+        "D": "Subchondral sclerosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Genu valgum is seen in rheumatoid arthritis of the knee. All other options are features ofosteoarthritis of the knee.406Rheumatoid arthritis of the knee can also present as triple and quadruple deformity of the knee:• Triple deformity of the knee - flexion + posterior subluxation + external rotation (commonlyseen)• Quadruple deformity of the knee - triple deformity + valgusOsteoarthritis of the kneeGenu varum more commonSubchondral sclerosisNo soft tissue swellingOsteophytesHard and bony jointRheumatoid factor negativeRheumatoid arthritis of kneeGenu valgum more commonPeriarticular osteopeniaSoft tissue swelling (pannus)No osteophytesSoft, warm, and tender jointRheumatoid factor positive",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the most common pulmonary manifestation of rheumatoid arthritis?",
+      "options": {
+        "A": "Pleuritis396",
+        "B": "Pulmonary nodules",
+        "C": "Interstitial lung disease",
+        "D": "Caplan's syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common pulmonary manifestation of rheumatoid arthritis is pleuritis.The image below shows pleural effusion secondary to pleuritis in a patient with rheumatoidarthritits.DAILÝROUNDS",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp8_img1_ab45f7d5.jpeg",
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 9,
+      "question": "Rheumatoid arthritis management in a patient with deformity is:",
+      "options": {
+        "A": "Steroids",
+        "B": "Methotrexate with steroids",
+        "C": "Methotrexate with anti-TNF",
+        "D": "Steroids only after NSAIDs fail"
+      },
+      "correct_answer": "",
+      "explanation": "Methotrexate with anti-TNF is superior to any other treatment in limiting progression of jointdestruction and disability.407In rheumatoid arthritis (RA) joint inflammation is the main cause of joint damage and is the mostimportant factor of joint disability and deformities.Methotrexate belongs to the category of drugs known as disease-modifying antirheumatic drugs(DMARDs). They slow down or prevent the structural progression of RA and hence are used inmost combination therapies. Among the DMARDs, methotrexate is the preferred first-line drug.Biologic DMARDs such as anti-TNF agents target cytokines and cell-surface molecules to slow theprogression of joint inflammation. These drugs are typically used in combination with backgroundmethotrexate therapy.Combination therapy with methotrexate and an anti-TNF drug is the most commonly used nextstep for the treatment of patients with deformities, having an inadequate response tomethotrexate therapy.Steroids are used when rapid control of the disease is required. They have a rapid onset of action,while the DMARDs take anywhere from 6-12 weeks to come into effect. They can be used as acover during this period. Steroids can also be used in short courses for acute flare-up episodes ofRA. Long-term use of steroids is not advised due to their adverse effects such as osteoporosis.They are usually not used alone (option A) but are used as an adjunct to DMARDs likemethotrexate (option B).Nonsteroidal anti-inflammatory drugs (NSAIDs) are used as adjunctive therapy for themanagement of uncontrollable symptoms because of their analgesic and anti-inflammatoryproperties. Chronic use is not advised due to their side effects namely gastritis and peptic ulcerdisease as well as impairment of renal function (option D)Hence, among the given options methotrexate with anti-TNF is the best therapy in a patient withdeformity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 10,
+      "question": "Where is the earliest pathological change in osteoarthritis seen?",
+      "options": {
+        "A": "Joint capsule",
+        "B": "Synovium",
+        "C": "Subchondral bone",
+        "D": "Articular cartilage"
+      },
+      "correct_answer": "A",
+      "explanation": "The earliest pathological change in osteoarthritis is commonly seen in the articular cartilage,which is asymmetrical hyaline articular cartilage loss.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 11,
+      "question": "A 55-year-old woman diagnosed with osteoarthritis of the knee came for a follow-up visit. Onexamination, the following findings were noted. Identify the marked lesion.397",
+      "options": {
+        "A": "Heberden's nodes",
+        "B": "Bouchard's nodes",
+        "C": "Osler's nodes",
+        "D": "Virchow's nodesDAILYROUNDS"
+      },
+      "correct_answer": "B",
+      "explanation": "The above image showing the knob-like appearance of the proximal interphalangeal joints (PIP) ina patient with OA is suggestive of Bouchard's nodes. They are formed due to the formation ofosteophytes and tissue swelling.Heberden's nodes develop in distal interphalangeal joints (DIP).The images below show Bouchard's (yellow arrow) and Heberden's nodes (black arrow).408DAILYROUNDSBouchard's and Heberden's nodesHeberden'snodeBouchard'snodeCMC joint-OMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q11_img1_9cc5022c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp11_img1_ac08f5d7.jpeg",
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 12,
+      "question": "An X-ray of a patient who presented with knee pain is shown below. What is the findingdepicted by black arrows?",
+      "options": {
+        "A": "Narrowing of joint space↑ ↑398",
+        "B": "Subchondral sclerosis",
+        "C": "Loose body",
+        "D": "Osteophyte formation"
+      },
+      "correct_answer": "B",
+      "explanation": "The arrows in the plain radiograph given above show subchondral sclerosis.It refers to a denser area of bone just under the cartilage of the joint, appearing as abnormallywhite bone along the joint line. It is seen in osteoarthritis.•Radiographic features of osteoarthritis:⚫. Localized joint space narrowing (blue arrows in the image below)• Subchondral cysts and sclerosis (black arrows in the image below)•Marginal osteophytes (yellow arrow in the image below)409• Loose bodies and chondrocalcinosis• Central or subchondral erosions give rise to the seagull wing appearance (as shown below).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q12_img1_719dd580.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp12_img1_50f22256.jpeg",
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 13,
+      "question": "An 85-year-old woman presented with pain and swelling in the left shoulder for 1 month. TheX-ray showed complete destruction of the humeral head. Arthrocentesis yielded ahemorrhagic noninflammatory fluid. The synovial fluid culture was negative. What is themost probable diagnosis?",
+      "options": {
+        "A": "Septic arthritis",
+        "B": "Kashin Beck's disease",
+        "C": "Milwaukee's shoulder",
+        "D": "Diffuse idiopathic skeletal hyperostosis"
+      },
+      "correct_answer": "C",
+      "explanation": "The above scenario is suggestive of Milwaukee's shoulder.It is a rapidly progressive destructive osteoarthritis with extensive bone loss, such that the wholehead of the humerus disappears. There is the rapid destruction of the rotator cuff and theglenohumeral joint.It is characterized by Intraarticular or periarticular hydroxyapatite crystals.Synovial fluid can be stained by alizarin red staining. It is often hemorrhagic with low cellularity(&lt;2000 leucocytes/mL) cells.410",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 14,
+      "question": "A 62-year-old woman presented with pain and swelling over the knee joint. She alsocomplained of stiffness of the knee after a period of rest. An X-ray was taken as shown below.Which of the following muscles is most likely to undergo atrophy in this patient?",
+      "options": {
+        "A": "Quadriceps",
+        "B": "Hamstrings",
+        "C": "PopliteusLDAILYROUNDS399",
+        "D": "Adductor muscles"
+      },
+      "correct_answer": "",
+      "explanation": "The above scenario along with the X-ray showing joint space narrowing and osteophytes issuggestive of osteoarthritis of the knee. Quadriceps are the most common muscle to undergoatrophy and wasting in a case of osteoarthritis of the knee joint.The vastus medialis is the commonest muscle to atrophy amongst the quadriceps followingneurologic disease or musculoskeletal injury.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q14_img1_306c3170.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient presented with pain in the hand. The joints involved were proximal interphalangealjoint, distal interphalangeal joint and first carpometacarpal joint. The wrist andmetacarpophalangeal joints were spared. What is the likely diagnosis?",
+      "options": {
+        "A": "Osteoarthritis",
+        "B": "Rheumatoid arthritis",
+        "C": "Psoriatic arthritis",
+        "D": "Pseudogout"
+      },
+      "correct_answer": "",
+      "explanation": "The most likely diagnosis is osteoarthritis (OA) of the hand.In OA of the hand, the joints involved are the distal and proximal interphalangeal joints (DIP&amp; PIP), and the first carpometacarpal joint (base of the thumb), while themetacarpophalangeal (MCP) joint, wrist, elbow, and ankle are usually spared.The nodules palpable in the DIP are called Heberden's nodes, while those palpable in the PIP arecalled Bouchard's nodes.Bouchard's and Heberden's nodesThe image below shows OA of the hand:Heberden'snodeBouchard'snodeCMC joint-OMARROW411Other options:Option B: There is relative sparing of the DIP joint in rheumatoid arthritis.Option C: Psoriatic arthritis of the hands commonly involves the PIP, DIP, andmetacarpophalangeal joints.Option D: In pseudogout, the knee joint is most commonly affected, followed by the wrist, whilethe first metatarsophalangeal joint (podagra) is rarely affected.412",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp15_img1_fed46a61.jpeg",
+      "chapter_heading": "Rheumatoid Arthritis and Osteoarthritis"
+    }
+  ]
+}

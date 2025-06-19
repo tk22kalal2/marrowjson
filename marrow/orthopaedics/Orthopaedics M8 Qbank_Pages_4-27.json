@@ -1,0 +1,275 @@
+{
+  "chapter": "Basics of fracture and its management",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is a pathognomonic sign of a long bone fracture?",
+      "options": {
+        "A": "Pain on movement",
+        "B": "Swelling",
+        "C": "Deformity",
+        "D": "Abnormal mobility"
+      },
+      "correct_answer": "D",
+      "explanation": "A pathognomonic sign is a particular sign whose presence means that a particular disease is present beyond any doubt. Abnormal mobility is the pathognomonic sign of a fracture.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 2,
+      "question": "Match the following type of fractures with their associated mechanism of force.",
+      "options": {
+        "A": "1-a, 2-d, 3-c, 4-b",
+        "B": "1-c, 2-a, 3-d, 4-b",
+        "C": "1-b, 2-c, 3-a, 4-d",
+        "D": "1-b, 2-a, 3-d, 4-c"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct match is: Most fractures occur due to a combination of forces, but the dominant mechanism of force is revealed by the type of fracture. Type of fracture: Mechanism of force: Transverse fracture: Tension. Oblique fracture: Compression. Butterfly fragment: Bending. Spiral fracture: Twisting. Pattern A Fracture: Spiral fracture. Trauma. Based on the continuity of the periosteum, fractures can be complete or incomplete. In complete fractures, the bone is split into two or more fragments and continuity of periosteum is disrupted. It can be: 1. Impacted fracture - The fracture fragments are jammed together and the fracture line is not visible. 2. Comminuted fracture - There is a fracture of more than two fragments. 3. Segmental fracture - A separated fragment is seen in the middle. 4. Avulsion fracture - Breaking of a piece of bone attached to a strong muscle, e.g., olecranon and patella fracture. In incomplete fractures, the bone is incompletely split and the periosteum remains in continuity. They include: 1. Greenstick fractures: The outer cortex breaks and the inner cortex bends, causing the bone to buckle like the snapping of a green twig. It is seen in the pediatric population. 2. Compression fractures: Cancellous bone crumples due to force. This is typically seen in vertebral bodies, calcaneum, and the tibial plateau.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp2_img1_dd1602d7.jpeg",
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 3,
+      "question": "An elderly woman was brought to the OPD after she slipped and fell from her chair. She is a known case of breast cancer with distant metastasis. The X-ray of the patient is given below. Which of the following statements is false regarding this type of fracture?",
+      "options": {
+        "A": "It occurs in abnormal bones",
+        "B": "Mirels' score is used to assess the risk of fracture",
+        "C": "FDG-PET or CT is the gold standard in evaluating bony metastasis",
+        "D": "Pain occurs only after the fracture"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario with a history of trivial trauma, breast cancer, and the X-ray findings are suggestive of a pathological fracture due to bone metastasis. Pain in the case of a pathological fracture usually precedes the fracture. Fractures occur due to: Trauma, Repetitive stress (stress or fatigue fracture), or Abnormal weakening of the bone (pathological fracture). Pathological fractures are fractures that occur in a weakened bone that has structurally changed due to some condition. They occur either spontaneously or due to minor trauma. The features suggestive of a pathological fracture include: Pain at the site before the fracture, Multiple recent fractures, Elderly patient, History of primary malignancy, or Unusual fracture pattern (Banana fracture - transverse fracture through an abnormal area of bone, similar to breaking a segment from a banana). FDG-PET or CT is the gold standard in evaluating bony metastases. The risk of fracture in metastatic bone lesions is assessed using Mirels' score. A Mirels' score > 8 warrants a prophylactic fixation. Management of pathological fracture is based on the causative lesion and survival of the patient.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q3_img1_28b8d667.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp3_img1_261eb4ec.jpeg",
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 4,
+      "question": "All of the following conditions can cause a pathological fracture, except:",
+      "options": {
+        "A": "Gaucher's disease",
+        "B": "Osteogenesis imperfecta",
+        "C": "Hyperparathyroidism",
+        "D": "Fabry's disease"
+      },
+      "correct_answer": "D",
+      "explanation": "Fabry's disease does not cause pathological fractures. It presents with angiokeratomas and acroparesthesias. Pathological fractures are fractures that occur in a weakened bone that has structurally changed due to some condition. They occur either spontaneously or due to minor trauma. In Gaucher's disease, there is a deficiency of glucocerebrosidase. This leads to an accumulation of lipid-laden macrophages in the bone tissue, weakening the bone and causing fractures. Osteogenesis imperfecta is an autosomal dominant disorder that occurs most commonly due to a mutation in the COL1A and COL2A genes. This results in the abnormal formation of type 1 collagen. Since type 1 collagen is mainly present in the bone, the patient presents with repeated fractures with no or minimal trauma. Hyperparathyroidism can cause severe bone resorption leading to bone pains and pathological fracture. Overall, osteoporosis is the most common reason for pathological fractures. Below the age of 20, the common causes of pathological fracture are benign bone tumors and cysts.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 5,
+      "question": "You are working as a medical officer in the Indian army. An army recruit presents to you with complaints of pain in the right foot. He joined his training 6 months back. His X-ray is given below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Pathological fracture",
+        "B": "March fracture",
+        "C": "Runner's fracture",
+        "D": "Green stick fracture"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario and the X-ray showing a fracture of the 2nd metatarsal are suggestive of a March fracture. It is a type of stress fracture. Stress fractures (or fatigue fractures) occur in a normal bone that is subjected to chronic repetitive stress. This initiates a bone remodeling process. When resorption occurs faster than replacement, the bone becomes liable to fracture. Such fractures are typically seen in athletes, dancers, or military personnel who have a strenuous exercise regimen. Common sites for stress fractures include: • Metatarsals (especially the second, march fracture) • Calcaneum • Navicular • Distal shaft of the fibula (runner's fracture) • Tibial shaft • Patella • Femoral neck. MRI is the investigation of choice to diagnose stress fractures. It can visualize lower-grade stress injuries before X-ray changes appear. A bone scan is the investigation of choice when multiple sites have stress fractures. Most stress fractures are managed using an elastic bandage and avoidance of painful activity until the lesion heals. Stress fracture of the femoral neck should be managed by internal fixation as a prophylactic measure.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q5_img1_e74df3ac.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp5_img1_92866ec6.jpeg",
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 6,
+      "question": "In which of the following conditions does the bone heal by increased callus formation?",
+      "options": {
+        "A": "Necrosis of bone ends",
+        "B": "Rigid fracture fixation",
+        "C": "Compression plating",
+        "D": "Flexible fracture fixation"
+      },
+      "correct_answer": "D",
+      "explanation": "Increased callus formation is seen with flexibly fixed fractures. Fracture heals through direct union (primary bone healing) or callus formation (secondary bone healing). Direct union: This occurs when the fracture site is absolutely stable. This is seen in a fracture held by a metal plate with absolute stability and in cases of impacted fracture in cancellous bones. There is no stimulus for callus formation. Osteoblastic new bone formation occurs directly between the fracture fragments. Callus formation: This occurs when the fracture is not fixed rigidly. The healing proceeds through 5 stages: Hematoma formation, Inflammation, Soft callus formation, Hard callus formation, and Remodeling. Healing by callus ensures mechanical strength as the movement and stress make the callus grow stronger. Normal bone, Hematoma and Cartilaginous, Bony callus and inflammation. The image below shows callus formation: callus, cartilaginous remnants, Hard Remodeling.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp6_img1_73094150.png",
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 7,
+      "question": "A teenager is brought to the casualty after sustaining a wrist injury during a sports meet. His X-ray is given below. The orthopedic surgeon tries to reduce the fracture fragments by using traction on soft tissues around the bones. What is this technique known as?",
+      "options": {
+        "A": "Callotaxis",
+        "B": "Ligamentotaxis",
+        "C": "Distraction osteogenesis",
+        "D": "Arthrodesis"
+      },
+      "correct_answer": "B",
+      "explanation": "The technique which uses traction on the soft tissue around the bones to reduce the fracture fragments is known as ligamentotaxis. The given X-ray shows a fracture of the radial styloid process (Chauffeur's fracture or Hutchinson fracture). Reduction of the fracture is done to ensure normal alignment and adequate apposition of the bone fragments. There are two methods of reduction: \n   • Closed reduction: The fracture is reduced under appropriate anesthesia and muscle relaxation. Closed reduction of fracture relies on indirect fragment alignment utilizing the pull of the soft tissue envelope (ligaments and capsules), which is known as ligamentotaxis. \n   • Open reduction: Operative reduction of the fracture under direct vision. \n   Option A and C: Callotaxis is callus distraction or distraction osteogenesis. It is used for limb lengthening or filling of large segmental defects in the bone. \n   Option D: Arthrodesis (artificial ankylosis or syndesis) is the artificial induction of joint ossification between two bones by surgery.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q7_img1_5c67a654.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 8,
+      "question": "A hanging cast is used to treat which of the following?",
+      "options": {
+        "A": "Olecranon fracture",
+        "B": "Malgaigne's fracture",
+        "C": "Humerus shaft fracture",
+        "D": "Colle's fracture"
+      },
+      "correct_answer": "C",
+      "explanation": "A hanging cast is used to treat the fractured shaft of the humerus. Humerus shaft fracture heals readily with just the external cast as it is usually enough to bring the fragments into alignment. The arm is placed over the lower chest with the elbow at 90°. A collar and cuff support can be used to maintain the position. The weight of the arm provides continuous traction to the humerus (traction by gravity). After the fracture is reduced, it is important to hold the reduction with some restriction of movements to promote soft-tissue healing and to allow free movement of the unaffected parts. The methods of holding reduction include: continuous traction (traction by gravity, skin traction, or skeletal traction), cast splintage, functional bracing, internal fixation, and external fixation.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp8_img1_232ad516.jpeg",
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 9,
+      "question": "A cast was applied to a patient with a wrist injury as shown below. What is this cast known as?",
+      "options": {
+        "A": "Colles cast",
+        "B": "Scaphoid cast",
+        "C": "Turn-buckle cast",
+        "D": "Bachelor cast"
+      },
+      "correct_answer": "B",
+      "explanation": "The cast applied to a patient in the glass holding position is known as the scaphoid cast. It is used to treat scaphoid fractures. To apply a scaphoid cast, the wrist is held in slight dorsiflexion and the thumb is in abduction and slight flexion as if the glass is being held between the index finger and thumb. It extends from just below the elbow to just proximal to the metacarpal necks of the digits. On the thumb, the cast extends just proximal to the interphalangeal joint. Scaphoid fracture presents with pain and swelling over the radial aspect of the wrist. A fall on an outstretched hand could result in such a fracture. The fracture can be confirmed (when an x-ray does not show a fracture) if there is pain elicited in the anatomical snuff box on the radial border of the wrist. An oblique x-ray of the wrist should be able to show a scaphoid fracture.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q9_img1_2149cacc.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 11,
+      "question": "A 40-year-old man presents with a fracture of the right tibia following a road traffic accident (RTA). On examination, the wound is highly contaminated and appears as shown below. His distal pulses are felt well. According to the Gustilo-Anderson classification, this injury would be classified as type III",
+      "options": {
+        "A": "II",
+        "B": "III A",
+        "C": "IIIB",
+        "D": "IIIC"
+      },
+      "correct_answer": "C",
+      "explanation": "This open fracture will be classified as Type IIIB on Gustilo-Anderson's classification due to the extensive wound (>10 cm), high contamination, very severe loss of soft tissue cover, and intact vascularity. A fracture where the skin and soft tissues are breached is known as an open fracture (or a compound fracture). Gustilo and Anderson's classification is the most commonly followed classification for open fractures. Open fractures with an arterial injury that requires repair will be classified as IIIC, irrespective of the size of the soft-tissue wound.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q11_img1_174d7006.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 12,
+      "question": "You are the intern on duty and you receive patients who have been in a road traffic accident. For which of the following patients will you urgently call the orthopaedic resident on call?",
+      "options": {
+        "A": "Patient with recurrent shoulder dislocation",
+        "B": "Patient with a fractured arm with capillary refill time of less than 3 seconds in his fingers",
+        "C": "Patient with a fractured arm with a 10 cm long incision over the arm",
+        "D": "Patient with a fractured arm with capillary refill time of 5 seconds in his fingers"
+      },
+      "correct_answer": "D",
+      "explanation": "Capillary refill time of more than 3 seconds indicates inadequate limb perfusion. It is a surgical emergency and could be due to either vascular injury by direct trauma or compartment syndrome. Hence, an orthopaedic intervention will be needed urgently. All other patients will also need an orthopaedic intervention; however, the blood flow should be restored at the earliest.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 13,
+      "question": "An industrial worker was rushed to casualty after he accidentally got his leg stuck in a machine. On examination, he was found to have an open fracture as shown below. He was urgently taken up for wound debridement and was considered for primary closure. It can be performed in all of the following conditions, except:",
+      "options": {
+        "A": "If injury to debridement interval < 12 hours",
+        "B": "Capillary refilling time of 2 seconds",
+        "C": "Impaired nerve supply",
+        "D": "Wound margin can be closed without tension"
+      },
+      "correct_answer": "C",
+      "explanation": "When there is impaired nerve supply, primary closure of an open fracture is not recommended. Primary closure of an open fracture is the closure of the wound by direct skin suturing during the index procedure (first debridement). In general, primary closure of wounds of Gustilo type I and II fractures can be done at the time of debridement. In Gustilo type IIIA fractures, some surgeons delay closure until a second-look procedure is performed. In most cases of Gustilo type IIIB and IIIC injuries, a delayed closure is practiced. Important criteria for primary closure: • The patient's general condition should be stable. • Injury to debridement interval is < 12 hours. • All necrotic material must have been removed. • Stable fixation can be achieved either by internal or external fixation. • Normal circulation. • Intact nerve supply. • The wound skin margins can be closed without tension. • There should be no multisystem injuries.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q13_img1_e66eb1b0.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 14,
+      "question": "In which of the following fractures is surgical management necessary for optimum functional results?",
+      "options": {
+        "A": "Clavicle fracture",
+        "B": "Distal radius fracture",
+        "C": "Fibula fracture",
+        "D": "Monteggia fracture"
+      },
+      "correct_answer": "D",
+      "explanation": "Surgical management is necessary for optimum functional results in Monteggia fracture (fracture of the ulnar shaft with concomitant dislocation of the radial head). While the other listed injuries may necessitate surgery in certain situations, conservative treatment for Monteggia fracture yields poor results. Fractures in which surgical treatment will be needed to obtain an optimal result include: Displaced intraarticular fractures, unstable fractures after failed conservative management, major avulsion fractures after failed conservative management, displaced pathologic fractures, fractures in which conservative treatment is known to provide poor functional results, such as femoral neck fractures, Galeazzi fracture-dislocations, and Monteggia fracture-dislocations, displaced physeal injuries with high-risk for growth arrest (Salter-Harris types III and IV), and nonunions, especially malreduced ones, after failed conservative or operative management.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 15,
+      "question": "All of the following are common indications for the procedure shown below, except:",
+      "options": {
+        "A": "Burns over the fracture site",
+        "B": "Type 1 open fracture",
+        "C": "Type 3 open fracture",
+        "D": "Limb lengthening"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows external fixation using an external fixator. Type 1 open fracture is not a common indication for external fixation. External fixation is holding the fracture using transfixing screws that pass through the bone above and below the fracture and are connected to each other by rigid bars or an external frame. This provides rigid fixation of the bones in cases where other methods of immobilization are inappropriate. External fixation is especially applicable for the tibia and pelvis. It is also used for fractures of the femur, humerus, and distal radius. Common indications for external fixation: • Severe type II and III open fractures • Fractures associated with severe burns (as burn tissue predisposes to infection and can result in osteomyelitis) • Fractures requiring grafts • Fractures requiring distraction • Limb lengthening (Ilizarov Procedure) • Arthrodesis • Infected fractures or nonunions • Correction of malunions",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q15_img1_a8b388ad.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp15_img1_6969476b.jpeg",
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 16,
+      "question": "A 25-year-old patient underwent external fixation after sustaining a femur fracture. On follow-up, he was noted to have developed a pin-tract infection. He did not respond to antibiotics. On performing a radiograph, what kind of sequestrum are you most likely to see in this patient?",
+      "options": {
+        "A": "Button-hole sequestrum",
+        "B": "Black",
+        "C": "Tubular",
+        "D": "Ring"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario with a history of external fixation is suggestive of a pin site infection. It appears as a ring sequestrum in an X-ray. Sequestrum is a fragment of dead bone lying within a cavity formed by necrosis. Various types of sequestra and their causes are given in the following table: The image below shows a ring sequestrum formed at the site of a pin used in the diaphysis of the tibia: Type of Sequestrum Cause Tubular or diaphyseal sequestrum Acute pyogenic osteomyelitis Ring sequestrum Amputation stump and at Steinmann pins Ivory sequestrum Syphilis Type of Sequestrum Fine sandy sequestrum Coarse sandy sequestrum Flake or Feathery sequestrum Kissing sequestrum Button-hole sequestrum Black sequestrum Cause Viral osteomyelitis Body of vertebra (cavity of tuberculosis) Tuberculosis of rib (cavity of tuberculosis) Peridiscal tuberculosis of vertebra Radiation Actinomycosis",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp16_img1_999d080f.jpeg",
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 17,
+      "question": "A 20-year-old patient presents to the OPD with complaints of limping. He gives a history of a fracture a few months back. On examination, his left leg is shorter than his right leg. He undergoes the following procedure. Identify the incorrect statement regarding this procedure.",
+      "options": {
+        "A": "Distraction is done at a rate of 1 mm per day.",
+        "B": "It is based on the principle of callotaxis.",
+        "C": "It is contraindicated in the presence of osteomyelitis.",
+        "D": "It is used to perform arthrodesis."
+      },
+      "correct_answer": "D",
+      "explanation": "The given image shows distraction osteogenesis using the Ilizarov apparatus. Osteomyelitis is not a contraindication for this procedure. Distraction osteogenesis (distraction histogenesis) is the mechanical induction of new bone that occurs between bony surfaces that are gradually pulled apart. This is described as the tension-stress effect. The most important application of the tension-stress principle is known as callus distraction (or callotaxis). A careful fracture of the bone is performed, followed by a short wait. The young callus formed is gradually distracted using a circular or unilateral external fixator. This is used in limb lengthening or for the filling of large segmental defects in the bone. Distraction or compression is carried out at the rate of 1 mm per day. This is done in four sittings - 0.25 mm, four times a day. It is also used in the following scenarios: Non-union, Deformity correction, Osteomyelitis - as it offers the possibility of liberal excision of bone, and Arthrodesis - crushing articular surfaces can stimulate union between opposing bones.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 18,
+      "question": "A patient undergoes bone grafting after losing a bone segment due to an open fracture. Which of the following is the best material that can be used to fill the defect?",
+      "options": {
+        "A": "Freeze-dried allograft",
+        "B": "rhBMP-7",
+        "C": "Calcium phosphate",
+        "D": "Autologous bone graft"
+      },
+      "correct_answer": "D",
+      "explanation": "The autologous bone graft is the gold standard material for filling bone defects. Bone grafts are used to fill the defects in bones caused due to a fracture or malignancy. Bone grafts work by various methods: \n      • Osteoinduction is the recruitment and differentiation of pluripotent mesenchymal stem cells into bone-forming osteoprogenitor cells.\n      • Osteoconduction is the creation of the scaffold to support the ingrowth of blood vessels, perivascular tissue, and osteoprogenitor cells.\n      • Osteogenesis is the process of bone formation after the terminal differentiation of osteogenic progenitor cells into mature osteoblasts.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    },
+    {
+      "q_no": 19,
+      "question": "A polytrauma patient with femur fracture and massive hemorrhage presents to the emergency department after a road traffic accident. Which of the following is not an immediate treatment consideration in this patient?",
+      "options": {
+        "A": "Administration of IV crystalloids",
+        "B": "Administration of tranexamic acid",
+        "C": "Check coagulation with thromboelastography",
+        "D": "Internal fixation of femur fracture"
+      },
+      "correct_answer": "D",
+      "explanation": "The internal fixation of a femur fracture is not an immediate concern in a patient with polytrauma and hemodynamic instability secondary to severe blood loss. Instead, splinting is preferred until the patient has been stabilized. Damage Control Orthopaedics (DCO) in unstable/borderline polytrauma patients involves 3 components: Stage 1: Resuscitative procedures for rapid hemorrhage control; Stage 2: Restoration of normal physiologic parameters; Stage 3: Definitive surgical management. The first stage is early temporary stabilization of unstable fractures and the control of the bleeding. In femur fracture, the most suited approach is temporary stabilization using an external fixator. The second stage involves resuscitation and stabilization of the patients in the ICU. Finally, the third stage involves delayed definitive fracture management after the patient's condition becomes suitable. In femur fracture, the definitive procedure is intramedullary nailing, which is performed after the patient becomes stable.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Basics of fracture and its management"
+    }
+  ]
+}

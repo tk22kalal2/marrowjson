@@ -1,0 +1,185 @@
+{
+  "chapter": "Regional conditions of the upper limb",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following patients are unlikely to develop a frozen shoulder?",
+      "options": {
+        "A": "54-year-old man with left-sided hemiplegia",
+        "B": "34-year-old woman with hyperthyroidism",
+        "C": "45-year-old man with psoriasis",
+        "D": "60-year-old man with a history of MI 3 months back"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 2,
+      "question": "A 45-year-old painter presented with chronic right shoulder pain. The physician performed an empty can test on the patient. Which of the following muscles is he specifically testing for?",
+      "options": {
+        "A": "Supraspinatus",
+        "B": "Infraspinatus",
+        "C": "Subscapularis",
+        "D": "Teres minor"
+      },
+      "correct_answer": "A",
+      "explanation": "Empty can test is used to assess the supraspinatus muscle. In this test, the patient is asked to resist the downward force by the examiner, when the arms are in the position of 90° abduction, 30° flexion, and complete internal rotation. The result is positive if the affected side is weaker than the normal side. The patient is asked to resist the downward force by the examiner when the arms are in the position of 90° abduction, 30° flexion, and complete internal rotation.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp2_img1_efa877a2.jpeg",
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 3,
+      "question": "Painful arc syndrome is seen in all except:",
+      "options": {
+        "A": "Complete tear of supraspinatus",
+        "B": "Fracture of the greater tuberosity",
+        "C": "Subacromial bursitis",
+        "D": "Supraspinatus tendinitis"
+      },
+      "correct_answer": "A",
+      "explanation": "The partial tear of the supraspinatus tendon is responsible for painful arc syndrome rather than a complete tear. Painful arc syndrome, also known as impingement syndrome, is a condition where there is pain in the shoulder and upper arm during the mid-range of shoulder abduction (between 60-120 degrees), arising due to repetitive rubbing of the supraspinatus tendon under the coracoacromial arch. Causes include: minor tears of the supraspinatus tendon, supraspinatus tendinitis, calcification of the supraspinatus tendon, fracture of the greater tuberosity, and subacromial bursitis. Important tests for impingement are: the painful arc test, Hawkins-Kennedy's test, Neer's impingement sign, and Jobe's test. Investigations: an X-ray of the shoulder helps to detect bony avulsions, spurs, calcific deposits, sclerotic areas, etc. Ultrasound of the shoulder joint is highly reliable with a sensitivity of 98%. A single contrast arthrogram is considered the gold standard in diagnosing rotator cuff tears. Management: conservative measures include heat, massage, exercises, NSAIDs, subacromial steroid injections, and temporary immobilization (90% of patients recover with these measures). Indications for surgery include failure of conservative measures for 3 months, increasing loss of shoulder function, and patients who are young and active. Surgical techniques include excision of adhesions and manipulation of the shoulder, excision of calcium deposits, repair of incomplete tears, acromioplasty, acromionectomy for more disabling pain with normal range of movements, direct suture for complete rupture of the rotator cuff, rotation and transposition of the flap, and free graft.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp3_img1_6a2a00a8.jpeg",
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 4,
+      "question": "A 35-year-old man working as a clerk in an office presents with the following lesion in his elbow. What is your diagnosis?",
+      "options": {
+        "A": "Hematoma",
+        "B": "Triceps brachii tendon rupture",
+        "C": "Olecranon bursitis",
+        "D": "Rheumatoid nodule"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image is suggestive of olecranon bursitis. It is also known as Draftsman's elbow/student's elbow/ miner's elbow. Olecranon bursitis is a chronic inflammation of the olecranon bursa, as a result of repetitive minor injuries. It is seen in people who tend to keep their elbow rubbed against the desk. The constant friction against the olecranon bursa can lead to the development of bursitis. Culture and aspiration of the bursa fluid are done to rule out infection. Most cases can be managed conservatively with NSAIDs and local steroids. A chronically enlarged bursa will require excision.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q4_img1_aeb60fec.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following tendons is most likely to be involved in patients with tennis elbow?",
+      "options": {
+        "A": "Flexor carpi ulnaris",
+        "B": "Extensor carpi radialis",
+        "C": "Extensor carpi ulnaris",
+        "D": "Flexor carpi radialis"
+      },
+      "correct_answer": "B",
+      "explanation": "The tendon of Extensor carpi radialis is most commonly involved in tennis elbow.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 6,
+      "question": "A young sportsman presented with pain in his right elbow. On examination, Cozen's test was positive. What is the probable diagnosis?",
+      "options": {
+        "A": "Draftsman's elbow",
+        "B": "Pitcher's elbow",
+        "C": "Golfer's elbow",
+        "D": "Tennis elbow"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario along with a positive Cozen's test is suggestive of tennis elbow (lateral epicondylitis).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 7,
+      "question": "A 35-year-old woman presented with left elbow pain. On examination, tenderness over the medial epicondyle was elicited on resisted forearm pronation in extension. Which of the following statements is false about her condition?",
+      "options": {
+        "A": "It is also called swimmer's elbow",
+        "B": "Associated with ulnar nerve neuropathy",
+        "C": "Most cases are managed conservatively",
+        "D": "Mills sign is positive"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of Golfer's elbow. Mills sign is positive in Tennis elbow. The given clinical scenario is suggestive of Golfer's elbow. Mills sign is positive in Tennis elbow. Golfer's elbow is due to inflammation at the medial epicondyle, where the pronator muscles have their origin. It is also known as swimmer's elbow. It is less common than tennis elbow. Tenderness is localized over the medial epicondyle. There is pain on resisted forearm pronation in extension. Ulnar nerve entrapment at the medial epicondyle can result in neuropathy symptoms. Most of the cases are managed conservatively by activity modification and pain killers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 8,
+      "question": "De Quervain's disease classically affects:",
+      "options": {
+        "A": "Extensor pollicis longus and abductor pollicis longus",
+        "B": "Extensor pollicis longus and abductor pollicis brevis",
+        "C": "Extensor pollicis brevis and abductor pollicis brevis",
+        "D": "Extensor pollicis brevis and abductor pollicis longus"
+      },
+      "correct_answer": "C",
+      "explanation": "De Quervain's disease classically affects extensor pollicis brevis and abductor pollicis longus. De Quervain's disease is a stenosing tenosynovitis of the extensor tendons of the first dorsal compartment, namely extensor pollicis brevis (EPB) and abductor pollicis longus (APL). It involves non-inflammatory thickening of both the tendons and the tunnel or sheath through which they pass. This condition is prominent among females, especially women of childbearing age. Key diagnostic factors include: a history of joint overuse at home or at work, pain and tenderness at the tip of the radial styloid, and a positive Finkelstein test: the examiner grasps the thumb of the patient and abducts the hand towards the ulnar side, causing severe pain over the tip of the styloid process. Finkelstein's test is used to diagnose De Quervain's disease, which affects the abductor pollicis longus and extensor pollicis brevis. Treatment in most patients includes conservative management with splinting and steroid injections. Only a few patients require surgical release of the 1st dorsal compartment (housing the APL and EPB tendons).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp8_img1_24d14e39.jpeg",
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 9,
+      "question": "Finkelstein's test is negative in patients with:",
+      "options": {
+        "A": "De Quervain's disease",
+        "B": "Arthritis of radio carpal joints",
+        "C": "Intersection syndrome",
+        "D": "Ulnar nerve entrapment"
+      },
+      "correct_answer": "D",
+      "explanation": "Finkelstein's test is negative in ulnar nerve entrapment. Finkelstein's test: The examiner holds the patient's hand with the thumb tucked firmly and then flexes it into the palm; then turns the wrist into full ulnar deviation; in a positive test, this will elicit sharp pain in the affected sheath. The pain over the radial styloid tip is excruciating. It is positive in the following conditions: De Quervain's tenosynovitis, arthritis in the intercarpal and radiocarpal joints, radial nerve entrapment, and intersection syndrome, i.e., tenosynovitis occurring due to friction between the obliquely placed extensor and abductor pollicis tendons and the longitudinally placed extensor tendons. Finkelstein stated that this test is probably the most pathognomonic objective sign. Note: Finkelstein's test is commonly confused with Eichhoff's test: Eichhoff's test is typically described as the examiner ulnar deviating the hand when the person has their thumb held within their fist. If sharp pain occurs along the distal radius, De Quervain's tenosynovitis is suspected.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp9_img1_560a64d7.jpeg",
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 10,
+      "question": "A 50-year-old diabetic woman noticed an audible click every time she flexed her left middle finger. The extension of the middle finger is as depicted in the clip below. This is caused due to involvement of which of the following structures?",
+      "options": {
+        "A": "Extensor tendon",
+        "B": "Flexor tendon",
+        "C": "Palmar aponeurosis",
+        "D": "Dorsal aponeurosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical scenario, along with the video showing the middle finger in the flexed position requiring extra force to extend it, is suggestive of a trigger finger. Trigger finger is caused by stenosing tenosynovitis of the flexor sheath. There is a nodular or fusiform swelling on the flexor tendon that prevents it from moving along the A1 pulley. The A1 pulley is an annular ligament that acts as a belt that straps the flexor tendon to the underlying phalanges. There are 5 annular ligaments in each finger, namely A1, A2, A3, A4, and A5. When the finger is flexed or extended, the nodular swelling passes through the A1 pulley with a snap, leading to a triggering effect. The nodule can get trapped behind the A1 pulley, leading to a locking of the finger in flexion. Surgical treatment involves the release of the A1 pulley, which is thickened and fibrosed.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q10_img1_be11a99e.png",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp10_img1_4305d54c.jpeg",
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following statements is false about the condition shown in the image given below?",
+      "options": {
+        "A": "X-ray is useful in the diagnosis of the condition",
+        "B": "It is more common in males",
+        "C": "Phenytoin therapy is a common cause",
+        "D": "Surgery is the best treatment"
+      },
+      "correct_answer": "A",
+      "explanation": "The condition shown above is Dupuytren's contracture. A radiograph would be the least useful in the diagnosis of this condition. In Dupuytren's contracture, there is proliferating fibroplasia of the subcutaneous palmar tissue, forming nodules. It is more commonly seen in males. It results in: Finger contractures, thinning of subcutaneous fat, and pitting of skin and knuckle pads. The possible causes are: Inheritance, Phenytoin therapy, Diabetes mellitus, Smoking, Epileptics and alcoholics. Though surgery is the treatment of choice, it is delayed until the contractures develop. Treatment of Dupuytren Disease: Nonoperative: External beam radiation, Steroid injection, Collagenase. Operative: Subcutaneous fasciotomy, Staged external fixation, Arthrodesis, Amputation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q11_img1_9f026737.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Regional conditions of the upper limb"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is false about the gamekeeper's thumb?",
+      "options": {
+        "A": "Caused by fall on extended thumb",
+        "B": "Caused by valgus stress on the thumb",
+        "C": "Volar plate is involved in partial rupture",
+        "D": "Ulnar collateral ligament is involved in partial rupture"
+      },
+      "correct_answer": "C",
+      "explanation": "Gamekeeper's thumb results due to the rupture of the ulnar collateral ligament of the thumb metacarpophalangeal joint. The volar plate is not involved in partial rupture, it is involved only in complete rupture. It can be caused either by a fall on an extended thumb (forcing it into hyperabduction) or by repeated valgus stress (i.e., radial deviation) on the thumb, which occurs during twisting movement of the hand. This type of injury was seen in gamekeepers who used to twist the neck of small animals with their thumb and index finger. The ulnar collateral ligament keeps the thumb stable in flexion, and the volar plate keeps the thumb stable in extension. In a partial rupture: only the ligament is torn, and the thumb is unstable only in flexion; the volar plate is intact, keeping the thumb stable in extension. In a complete rupture: both the ligament and the volar plate are torn, and the thumb is unstable in all positions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Regional conditions of the upper limb"
+    }
+  ]
+}

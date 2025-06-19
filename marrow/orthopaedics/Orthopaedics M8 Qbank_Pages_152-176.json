@@ -1,0 +1,335 @@
+{
+  "chapter": "Fractures of femur",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following factors increases the risk of femoral neck fractures?",
+      "options": {
+        "A": "Hypoparathyroidism",
+        "B": "Proton pump inhibitors",
+        "C": "Hypertension inhibitors",
+        "D": "Increased levels of physical activity"
+      },
+      "correct_answer": "B",
+      "explanation": "Proton pump inhibitors can increase the risk of osteoporosis-related fractures, including femoral neck fractures, by reducing calcium absorption.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following classifications is not used for neck of femur fractures?",
+      "options": {
+        "A": "Pauwels classification",
+        "B": "Garden classification",
+        "C": "Delbet classification",
+        "D": "Neer's classification"
+      },
+      "correct_answer": "D",
+      "explanation": "Neer's classification is used for proximal humeral fractures. Classifications used for neck of femur fracture are: Based on the location of the fracture line, Pauwels classification, Garden classification, and Delbet classification (hip fractures in the pediatric population). Based on the location of the fracture line, it can be classified as: Sub-capital fracture at the junction of head and neck, Transcervical fracture in the neck, and Basal-cervical - fracture at the base of the neck. Pauwels classification of fracture neck of femur: Reference line, Fracture line, I stage <30° (30-50% 50°). Type I, Type II, Type III. Incomplete fracture line. Garden classification of fracture neck of femur: II Stage Complete fracture line; non-displaced, III Stage Complete fracture line; partially displaced (All three sets of trabeculae are out of alignment), IV stage Complete fracture line; completely displaced (Trabeculae between acetabulum and head are realigned). Delbet classification is used for hip fractures in children. They are grouped into four types based on their location as follows: Type I Transepiphyseal fracture, Type II - Transcervical fracture, Type III Cervicotrochanteric fracture, Type IV - Intertrochanteric fracture.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 3,
+      "question": "The X-ray of a patient with femoral neck fracture showed that all 3 sets of trabeculae were out of alignment. Which Garden's stage of fracture shows this finding?",
+      "options": {
+        "A": "Stage I",
+        "B": "Stage II",
+        "C": "Stage III",
+        "D": "Stage IV"
+      },
+      "correct_answer": "C",
+      "explanation": "In Garden's stage III fracture of the neck of femur, all the 3 sets of trabeculae are out of alignment. Garden classification of fracture of the neck of femur is based on the degree of displacement. Stage I: incomplete fracture line and femoral head is in slight valgus. Stage II: complete fracture line and non-displaced. Stage III: complete fracture line and partially displaced. Stage IV: complete fracture line and completely displaced. Garden classification of fracture of the neck of femur: I stage - Incomplete fracture line. II Stage - Complete fracture line; non-displaced. III stage - Complete fracture line; partially displaced (All three sets of trabeculae are out of alignment). IV stage - Complete fracture line; completely displaced (Trabeculae between acetabulum and head are realigned).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp3_img1_62924acf.jpeg",
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements is true regarding Pauwel's classification of neck of femur fractures?",
+      "options": {
+        "A": "Pauwel's angle is inversely proportional to stability",
+        "B": "Type 2 fracture makes an angle of 50 degrees",
+        "C": "Plane of reference is the horizontal plane",
+        "D": "Pauwel's angle is formed by fracture line with the inter-trochanteric line"
+      },
+      "correct_answer": "C",
+      "explanation": "The plane of reference in Pauwel's classification is the horizontal plane. This classification is based on Pauwel's angle, i.e., the angle made by the fracture line in reference to the horizontal plane. Pauwel's classification of fracture neck of femur: Reference line - Fracture line <30° - 30-50% - 50° - Type I - Type II - Type III. When the Pauwel's angle is small, compressive forces act at the fracture ends and hence the fracture is stable. As Pauwel's angle increases, the fracture line becomes more vertical and the shearing forces act on the fractured ends. Hence, at higher angles, the fracture becomes unstable.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp4_img1_1cfe9083.jpeg",
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 5,
+      "question": "An elderly patient slipped in the bathroom and sustained an injury over the left hip. The radiograph is shown below. His attitude of the leg will be:",
+      "options": {
+        "A": "Shortened and abducted",
+        "B": "Lengthened and internally rotated",
+        "C": "Shortened and externally rotated",
+        "D": "Flexed, adducted and internally rotated"
+      },
+      "correct_answer": "C",
+      "explanation": "The history of a fall and hip injury in an elderly patient, along with the radiological findings of a broken Shenton's line, is suggestive of a neck of femur fracture. In this condition, the attitude of the leg will be shortened and externally rotated, and movements of the hip joint will be painful. A plain radiograph may show the following features: • Fracture line in the neck of femur • External rotation of the femur with the lesser trochanter appearing more prominent • Displacement of the greater trochanter • Break in the trabecular stream • Break in Shenton's line. Shenton's line in fracture of neck of femur: Fracture neck of femur, Shenton's line",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q5_img1_5cdbe0f4.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp5_img1_649bc91c.jpeg",
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 6,
+      "question": "A 70-year-old lady, a known case of chronic osteoarthritis of the hip, has a trivial fall while climbing the stairs. Her right lower limb is in slight external rotation. An X-ray of the pelvis is shown below. What is the next step of management?",
+      "options": {
+        "A": "Open reduction and internal fixation",
+        "B": "Closed reduction and internal fixation",
+        "C": "Hemi-arthroplasty",
+        "D": "Total arthroplasty"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario and X-ray are suggestive of a right-sided fracture of the neck of the femur, Garden stage IV. Since the patient is over 65 years old with existing arthritis, the best choice of treatment is total hip arthroplasty. In the absence of arthritis, a fracture of the neck of the femur in patients over 65 years is treated by hemiarthroplasty.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q6_img1_ef1b2f41.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp6_img1_9f160b2b.jpeg",
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is most commonly used for internal fixation of a fracture of the femoral neck in young adults?",
+      "options": {
+        "A": "Cannulated cancellous screws",
+        "B": "Dynamic hip screw",
+        "C": "Austin Moore implant",
+        "D": "Herbert screw"
+      },
+      "correct_answer": "A",
+      "explanation": "The most commonly used equipment for internal fixation of a fracture of the neck of the femur in young adults is multiple cannulated cancellous screws. The radiograph given below shows internal fixation of the neck of the femur fracture with cannulated cancellous screws. Option B: Dynamic hip screw is used in some cases of fracture of the neck of the femur and for the internal fixation of the intertrochanteric fractures. The image below shows a dynamic hip screw. Option C: Austin Moore's implant is an older implant used in unipolar hemiarthroplasty. Option D: Herbert screw is used in bridging a scaphoid fracture.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp7_img1_16501fe7.jpeg",
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 8,
+      "question": "A 55-year-old woman presents with complaints of right-sided hip pain and restriction of movements of the right lower limb for 3 weeks. She had a history of trivial trauma 3 weeks ago. X-ray reveals an impacted fracture of the neck of the right femur. What is the next step of management?",
+      "options": {
+        "A": "ORIF with fibular bone graft",
+        "B": "McMurray's osteotomy",
+        "C": "Hemi-arthroplasty",
+        "D": "Total hip arthroplasty"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given clinical scenario with a 3-week-old femoral head fracture, the next step will be to do an MRI hip. This is to evaluate the femoral head for compromise in the blood supply. Treatment of the femoral head fracture depends on the findings seen on an MRI: Femoral head shows compromised blood supply - reduction with fibular bone graft or muscle pedicle graft. Femoral head shows signs of osteonecrosis and acetabulum is normal - hemiarthroplasty. Femoral head is normal but the fracture is nearly vertical (can develop to non-union) - osteotomy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp8_img1_7bc13952.jpeg",
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following statements is false regarding McMurray's osteotomy?",
+      "options": {
+        "A": "It is an oblique osteotomy in the inter-trochanteric region",
+        "B": "It involves lateral displacement and adduction of the distal fragment",
+        "C": "The line of weight bearing after the osteotomy passes from the head to the distal fragment",
+        "D": "It converts shearing stress to compressive forces"
+      },
+      "correct_answer": "B",
+      "explanation": "In McMurray's osteotomy, the distal fragment is displaced medially and is abducted. This converts shearing stresses at the fracture site to compressive forces, promoting faster healing. McMurray's osteotomy is an oblique osteotomy directed medially upwards at the inter-trochanteric region. It is based on the biomechanical principle. After the medial displacement of the femur, the weight-bearing line passes from the head to the distal fragment. It, therefore, bypasses the fracture site.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp10_img1_f4c7a108.jpeg",
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 11,
+      "question": "A 35-year-old woman with a history of ORIF for femoral neck fracture came for post-operative follow-up after 7 months. She is unable to bear weight on the operated side. Her X-ray showed no evidence of healing. Which of the following is not a probable cause for this condition?",
+      "options": {
+        "A": "Improper immobilization",
+        "B": "Avascularity of the femoral head",
+        "C": "Interference of synovial fluid",
+        "D": "Hypertrophy of cambium layer of periosteum"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of non-union of femoral neck fracture after ORIF, as there is no evidence of healing 6-12 months post-operatively. Lack of cambium layer in the periosteum of the neck of femur is one of the causes of non-union. Causes for non-union in the neck of femur fracture are as follows: Inadequate blood supply of the femoral head. Since the fracture is intra-articular, the synovial fluid interferes with fracture healing. Lack of the cambium layer of periosteum, which produces the callus. Inadequate reduction and poor internal fixation. Improper immobilization.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp11_img1_e19a1f1e.jpeg",
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is false about the condition shown in the image below?",
+      "options": {
+        "A": "Malunion can happen if this condition is not treated",
+        "B": "The patient may be able to walk",
+        "C": "Avascular necrosis is the most common complication",
+        "D": "Shortening of limb is less than 1 inch"
+      },
+      "correct_answer": "A",
+      "explanation": "The radiograph shows a fracture of the neck of the femur. Non-union is a complication of this fracture, not malunion. Malunion is a complication of intertrochanteric fractures. Complications of fracture of the neck of the femur are: avascular necrosis (most common), non-union, and osteonecrosis of the femoral head may lead to secondary osteoarthritis after many years. Option B: In an impacted fracture of the neck of the femur, the patient may be able to walk. Option D: Shortening of the limb is less than 1 inch in a fracture of the neck of the femur.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is false about avascular necrosis?",
+      "options": {
+        "A": "It can be diagnosed on X-ray only after 4 years",
+        "B": "It can also occur in united fracture neck of femur",
+        "C": "Subcapital type has worse prognosis",
+        "D": "Patients with sickle cell disease are at an increased risk"
+      },
+      "correct_answer": "A",
+      "explanation": "Avascular necrosis is a late complication of fracture neck of the femur, which can be diagnosed on X-ray only after a few months to 2 years after the injury. Hence, MRI is the best investigation for diagnosis. The amount of vascular damage produced at the time of fracture determines the probability of the development of osteonecrosis. In addition to this, the blood supply to the femoral head may also be disrupted during internal fixation. Hence, avascular necrosis can also occur in united femur fractures. More proximally the fracture is located, worse is the prognosis. Hence, sub-capital fractures have the worst prognosis. Patients with sickle cell disease are at an increased risk for developing avascular necrosis of the femoral head.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 14,
+      "question": "A 35-year-old man is brought to the casualty with a history of RTA. His left lower limb is shortened by 2 inches. The attitude of the leg is extension and externally rotated, with the lateral border of the foot touching the bed. What is the most probable diagnosis?",
+      "options": {
+        "A": "Intertrochanteric fracture of the femur",
+        "B": "Fracture of the neck of the femur",
+        "C": "Femoral shaft fracture",
+        "D": "Anterior dislocation of the hip"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario with the limb shortening >1 inch and pronounced external rotation is suggestive of an intertrochanteric fracture of the femur. Differences between fracture of the neck of the femur and intertrochanteric fractures: Option B: In a fracture of the neck of the femur, the limb is in slight external rotation and shortening is <1 inch. Option C: In femoral shaft fractures, the limb is shortened with displaced proximal and distal fragments. Option D: In an anterior dislocation of the hip, the limb is externally rotated. There may be a true lengthening of the limb with the femoral head palpable in the groin. Features: Age - More than 50 years for fracture of the neck of the femur, More than 60 years for intertrochanteric fracture; Sex - Common in females for fracture of the neck of the femur, Common in males for intertrochanteric fracture; Injury - Trivial for fracture of the neck of the femur, Significant for intertrochanteric fracture; Ability to walk - May walk for fracture of the neck of the femur, Unable to walk for intertrochanteric fracture; Pain - Mild for fracture of the neck of the femur; Swelling - Nil for fracture of the neck of the femur; Ecchymosis and tenderness - In Scarpa's triangle for fracture of the neck of the femur, On the greater trochanter for intertrochanteric fracture; External rotation deformity - Less than 45 degrees for fracture of the neck of the femur, More than 45 degrees for intertrochanteric fracture; Shortening - Less than 1 inch for fracture of the neck of the femur, More than 1 inch for intertrochanteric fracture; Treatment - Internal fixation always for fracture of the neck of the femur, Can be managed in traction for intertrochanteric fracture; Complications - Avascular necrosis and non-union for fracture of the neck of the femur, Malunion for intertrochanteric fracture.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 15,
+      "question": "A 69-year-old woman sustains an injury to the left hip after falling sideways on the floor. She is unable to move the left leg. X-ray is given below. What is the best treatment for this condition?",
+      "options": {
+        "A": "Proximal femoral nail",
+        "B": "McMurray's osteotomy",
+        "C": "Total hip arthroplasty",
+        "D": "Plaster in abduction and internal rotation"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario and the X-ray is suggestive of an intertrochanteric fracture of the left femur, which is best treated by closed reduction and internal fixation with a proximal femoral nail. The image given below shows an intertrochanteric fracture corrected with a proximal femoral nail. The intertrochanteric fractures of the femur can be treated by: Internal fixation with: Intramedullary implants - proximal femoral nail and gamma nail; Extramedullary implants - dynamic hip screw; Traction: Russell's traction, Thomas splint. Compared to the dynamic hip screw, the intramedullary fixation with proximal femoral nails has smaller incisions, decreased blood loss, decreased femoral neck shortening, and decreased risk of infection.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q15_img1_8c99b3a6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 16,
+      "question": "A 68-year-old lady comes with a history of a fall and right-sided hip pain for 1 week. On examination, her right limb is shortened and externally rotated. Her X-ray shows no significant findings. What is your next step?",
+      "options": {
+        "A": "Send the patient home with analgesics for pain",
+        "B": "Technetium bone scan within the next 24 hours",
+        "C": "Order an MRI of the hip joint",
+        "D": "Immobilize the limb and observe"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of an occult neck of femur fracture, as the X-ray is normal but the attitude of the leg is abnormal. In such cases, MRI is the imaging study of choice. Both CT and MRI can detect the presence of a fracture of the neck of the femur. However, MRI can demonstrate the presence of soft tissue problems that can cause hip pain. It also does not expose the patient to radiation. Hence, MRI is preferred over CT in the diagnosis of occult femoral neck fractures. Technetium bone scan is an older method to detect occult fractures. They are less specific and may not show the presence of a fracture if performed within 48-72 hours and in osteopenic bones.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 17,
+      "question": "A young patient was brought to the casualty following a road traffic accident. The radiograph of the limb showed a fracture in the mid-shaft of the femur. What will be the direction of displacement of the distal fragment?",
+      "options": {
+        "A": "Abducted",
+        "B": "Adducted",
+        "C": "Flexed and externally rotated",
+        "D": "Flexed and internally rotated"
+      },
+      "correct_answer": "B",
+      "explanation": "In the fracture of the midshaft of the femur, the distal fragment is adducted as the adductors and the gastrocnemius are attached to the lower part of the femur. The proximal fragment is flexed and externally rotated as the gluteus medius and iliopsoas muscles are attached to the upper part of the femur. Displacement of the fractured ends in the femoral shaft fracture: Proximal fragment - Abduction and external rotation. Displacement of fracture fragments in the fracture shaft of the femur: Site of fracture - Proximal femoral shaft fractures, Mid-shaft femoral fractures, Distal femoral shaft fractures. Displacement of the proximal segment - Flexed, abducted, and externally rotated. Displacement of the distal fragment - Adducted. Flexed and externally rotated with minimal abduction - Adducted. Adducted - Tilted by gastrocnemius pull",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp17_img1_4f5630cf.jpeg",
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 18,
+      "question": "In which of the following conditions is maximum shortening of the lower limb seen?",
+      "options": {
+        "A": "Intertrochanteric fracture of the femur",
+        "B": "Fracture of the neck of the femur",
+        "C": "Fracture of the shaft of the femur",
+        "D": "Transcervical fracture of the femur"
+      },
+      "correct_answer": "A",
+      "explanation": "From the given options, maximum shortening of the lower limb is seen in the intertrochanteric fracture of the femur. Overall, the maximum shortening of lower limbs is seen in posterior dislocation of the hip, followed by an intertrochanteric fracture of the femur.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 19,
+      "question": "A 24-year-old patient was brought to the emergency department after he lost control of his bike and hit a car while texting and driving. On examination, the patient had right thigh tenderness and deformity. The radiograph showed the following findings. What is the preferred method of treatment in the following scenario?",
+      "options": {
+        "A": "Locking compression plate",
+        "B": "Intramedullary nail",
+        "C": "External fixation with K-wire",
+        "D": "Traction with Thomas splint"
+      },
+      "correct_answer": "B",
+      "explanation": "The above radiograph shows a fracture in the shaft of the femur with the displacement of fractured ends. The preferred method of treatment in this condition is an intramedullary nail with locking screws. Option A: Plating can be done in cases of comminuted fractures. Option C: External fixation is preferred in the treatment of severe open injuries, or when there is severe bone loss that may require a bone graft. Option D: Thomas splint is used in the emergency treatment of shaft of femur fracture and some supracondylar fractures. The main indications for traction are: (1) fractures in children, (2) contraindications to anesthesia or surgery, (3) lack of suitable skill or facilities for internal fixation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q19_img1_289c90e8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 20,
+      "question": "A 9-year-old girl was run over by a car and was admitted to the hospital with obvious swelling and deformity of the left thigh. Her X-ray showed the following findings. What will be the preferred treatment in the given condition?",
+      "options": {
+        "A": "Gallow's traction",
+        "B": "Locked intramedullary nailing",
+        "C": "Elastic intramedullary nailing",
+        "D": "Spica casting"
+      },
+      "correct_answer": "C",
+      "explanation": "The preferred treatment in children of ages 5-10 years with fracture shaft of the femur is elastic intramedullary nailing. The image given below shows fracture shaft of femur treated with elastic intramedullary nailing.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 21,
+      "question": "A patient was admitted to ICU 48 hours after the fracture of the femur. The saturation of oxygen in the rebreathing unit was 100% but his SpO2 remained 60%. The patient was in a state of confusion. Chest radiograph showed lung fields to be clear. What is the most likely diagnosis?",
+      "options": {
+        "A": "Pulmonary embolism",
+        "B": "Fat embolism",
+        "C": "ARDS",
+        "D": "Occult pneumothorax"
+      },
+      "correct_answer": "B",
+      "explanation": "In this clinical scenario, the presence of reduced SpO2 and altered mental status in a patient presenting within 72 hours following a long bone fracture suggests the diagnosis of a fat embolism. Fat embolism is caused by the fat globules originating from the bone marrow following the fracture of long bones. Clinical features of fat embolism are usually seen within 72 hours. They include tachycardia, fever, breathlessness, petechiae, confusion, and restlessness. Gurd's criteria are used for the diagnosis of fat embolism syndrome. There is no specific diagnostic test for fat embolism. However, urine analysis to detect fat globules and monitoring of blood pO2 levels are conducted. The management of fat embolism primarily involves supportive care, including oxygen therapy and prompt stabilization of long-bone fractures. Option A: Pulmonary embolism most commonly occurs as a result of thrombi from deep vein thrombosis of the leg. Option C: Acute respiratory distress syndrome is diagnosed using the Berlin's criteria. All four of the following conditions must be met: it develops within 1 week of clinical insult or worsening respiratory symptoms. Chest radiograph shows bilateral opacities consistent with pulmonary edema. These opacities are not fully explained by effusions, lobar or lung collapse, or nodules. The edema is not due to cardiac failure, or fluid overload. There is impaired oxygenation. The ratio of arterial oxygen partial pressure to the fraction of inspired oxygen (PaO2/FiO2) is ≤ 300 mmHg as assessed on 5 cm H2O of positive end-expiratory pressure (PEEP). Option D: Occult pneumothorax is a condition that is not suspected on the basis of the symptoms or plain radiography, but is detected with CT imaging. It usually follows a thoracic injury.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following is considered a minor criterion for diagnosing fat embolism?",
+      "options": {
+        "A": "Subconjunctival petechiae",
+        "B": "Fat globules in sputum",
+        "C": "FiO2 < 0.4",
+        "D": "CNS depression"
+      },
+      "correct_answer": "B",
+      "explanation": "Fat globules in sputum is a minor criterion for diagnosing fat embolism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsThe use of proton pump inhibitors is a risk factor for femoral neck fractures.Femoral neck fracture is a type of intracapsular hip fracture. Common risk factors for hipfractures include:• Increasing age• Female sex• White population of Europe and North America•SmokingDecreased level of physical activityComorbidities that can cause hip fractures are:•HIV• Celiac disease• Diabetes mellitus•Hypo and hyperthyroidism• Primary hyperparathyroidism•Chronic kidney and liver diseaseDrugs that can cause hip fractures are:• Corticosteroids•• Proton pump inhibitors•Antipsychotic medication• Aromatase inhibitors•Gonadotropin-releasing hormone inhibitors• Long-acting progesterone-only pillsSolution to Question 2:Neer's classification is used for proximal humeral fractures.Classifications used for neck of femur fracture are:161•Based on the location of the fracture line• Pauwels classification• Garden classification• Delbet classification (hip fractures in the pediatric population)Based on the location of the fracture line it can be classified as:•Sub-capital fracture at the junction of head and neck-• Transcervical fracture in the neck-• Basi-cervical - fracture at the base of the neckPauwels classification of fractureneck of femurReference lineFracturelineI stage<30°(30-50%50°Type IType IIType IIIOMARROWIncompletefracture lineGarden classification of fractureneck of femurII StageComplete fracture line;non displacedIII stageAREComplete fracture line;partially displaced(All three sets of trabeculaeare out of alignment)IV stageComplete fracture line;completely displaced(Trabeculae betweenacetabulum and headare realigned)OMARROWDelbet classification is used for hip fractures in children. They are grouped into four types basedon their location as follows:-• Type I Transepiphyseal fracture162• Type II - Transcervical fracture•-Type III Cervicotrochanteric fracture• Type IV - Intertrochanteric fractureSolution to Question 3:In Garden's stage III fracture neck of femur, all the 3 sets of trabeculae are out of alignment.Garden classification of fracture neck of femur is based on the degree of displacement.•Stage I incomplete fracture line and femoral head is in slight valgus•Stage II - complete fracture line and non-displaced•Stage III - complete fracture line and partially displacedStage IV complete fracture line and completely displacedGarden classification of fractureneck of femurI stageII StageIncompletefracture lineComplete fracture line;non displacedIII stageComplete fracture line;partially displaced(All three sets of trabeculaeare out of alignment)IV stageComplete fracture line;completely displaced(Trabeculae betweenacetabulum and headare realigned)OMARROWSolution to Question 4:The plane of reference in Pauwel's classification is the horizontal plane. This classification is basedon Pauwel's angle i.e. the angle made by the fracture line in reference to the horizontal plane.163Pauwels classification of fractureneck of femurReference lineFractureline<30°30-50%50°Type IType IIType IIIOMARROWWhen the Pauwel's angle is small, compressive forces act at the fracture ends and hence thefracture is stable. As Pauwel's angle increases, the fracture line becomes more vertical and theshearing forces act on the fractured ends. Hence, at higher angles the fracture becomes unstable.Solution to Question 5:The history of fall and hip injury in an elderly patient along with the radiological findings of abroken Shenton's line is suggestive of a neck of femur fracture. In this condition, the attitude ofthe leg will be shortened and externally rotated and movements of the hip joint will be painful.A plain radiograph may show the following features:• Fracture line in the neck of femur• External rotation of the femur with the lesser trochanter appearing more prominent•Displacement of the greater trochanter• Break in the trabecular stream•Break in Shenton's line164Shenton's line in fracture of neck of femurFracture neckof femurShenton's lineSolution to Question 6:The given scenario and X-ray are suggestive of right-sided fracture neck of femur, Garden stageIV. Since the patient is &gt;65 years with existing arthritis, the best choice of treatment is total hiparthroplasty.In the absence of arthritis, fracture neck of femur in patients &gt;65 years, is treated byhemiarthroplasty.The image given below shows total hip arthroplasty done for fracture neck of femur.aASolution to Question 7:165The most commonly used equipment for internal fixation of fracture neck of femur in youngadults is multiple cannulated cancellous screws.The radiograph given below shows internal fixation of the neck of femur fracture with cannulatedcancellous screws.R36bOption B: Dynamic hip screw is used in some cases of fracture neck of femur and for the internalfixation of the intertrochanteric fractures. The image below shows a dynamic hip screw.Option C: Austin Moore's implant is an older implant used in unipolar hemiarthroplasty.Option D: Herbert screw is used in bridging a scaphoid fracture.Solution to Question 8:166In the given clinical scenario with a 3-week old femoral head fracture, the next step will be todo an MRI hip. This is to evaluate the femoral head for compromise in the blood supply.Treatment of the femoral head fracture depends on the findings seen on an MRI:• Femoral head shows compromised blood supply - reduction with fibular bone graft or musclepedicle graft• Femoral head shows signs of osteonecrosis and acetabulum is normal - hemiarthroplasty• Femoral head is normal but the fracture is nearly vertical (can develop to non-union)- osteotomyThe image given below shows osteonecrosis of the femoral head seen on an MRI.Solution to Question 9:The given clinical scenario is suggestive of a 1-month-old Pauwel's type III fracture (&gt;50°),which is nearly vertical and has an increased chance of non-union. Hence, the best managementwould be to compress the fractured ends by Mc Murray's osteotomy and internal fixation.Solution to Question 10:In McMurray's osteotomy, the distal fragment is displaced medially and is abducted. This convertsshearing stresses at the fracture site to compressive forces promoting faster healing.McMurray's osteotomy is an oblique osteotomy directed medially upwards at theinter-trochanteric region. It is based on the biomechanical principle. After the medialdisplacement of the femur, the weight-bearing line passes from the head to the distal fragment. It,therefore, bypasses the fracture site.167McMurray's OsteotomyLine of weight-bearing.Distal fragment displacedmedially and abducted.OMARROWWeightSolution to Question 11:The given clinical scenario is suggestive of non-union of femoral neck fracture after ORIF, as thereis no evidence of healing 6-12 months post-operatively. Lack of cambium layer in the periosteumof neck of femur is one of the causes of non-union.Causes for non-union in the neck of femur fracture are as follows:•Inadequate blood supply of femoral head• Since the fracture is intra-articular, the synovial fluid interferes with fracture healing.•• Lack of the cambium layer of periosteum, which produces the callus• Inadequate reduction and poor internal fixation• Improper immobilizationThe image given below shows (",
+      "options": {
+        "A": "non-union of neck of femur fracture, (",
+        "B": "osteotomy to correct thenon-union, (",
+        "C": "5 months post-osteotomy with healed fracture.168MA 2/03MA 28/03 0MA 28/13 a 18abCSolution to Question 12:The radiograph shows a fracture neck of the femur. Non-union is a complication of this fracture,not malunion.Malunion is a complication of inter-trochanteric fractures.Complications of fracture neck of the femur are:••• Avascular necrosis (most common)• Non-union• Osteonecrosis of the femoral head may lead to secondary osteoarthritis after many yearsOption B: In impacted fracture neck of femur, the patient may be able to walk.Option D: Shortening of the limb is less than 1 inch in fracture neck of femur.Solution to Question 13:Avascular necrosis is a late complication of fracture neck of the femur, which can be diagnosed onX-ray only after a few months to 2 years after the injury. Hence, MRI is the best investigation fordiagnosis.The amount of vascular damage produced at the time of fracture determines the probability of thedevelopment of osteonecrosis. In addition to this, the blood supply to the femoral head may alsobe disrupted during internal fixation. Hence, avascular necrosis can also occur in united femurfractures.More proximally the fracture is located, worse is the prognosis. Hence, sub-capital fractures havethe worst prognosis.169Patients with sickle cell disease are at an increased risk for developing avascular necrosis of thefemoral head.Solution to Question 14:The given clinical scenario with the limb shortening &gt;1 inch and pronounced externalrotation is suggestive of inter-trochanteric fracture of the femur.Differences between fracture neck of femur and inter-trochanteric fractures:Option B: In fracture neck of femur, the limb is in slight external rotation and shortening is &lt;1inch.Option C: In femoral shaft fractures, the limb is shortened with displaced proximal and distalfragments.Option D: In anterior dislocation of the hip, the limb is externally rotated. There may be a truelengthening of the limb with the femoral head palpable in the groin.FeatureAgeSexCommon in femalesInjuryTrivialAbility to walkMay walkFracture neck of femurMore than 50 yearsInter-trochanteric fractureMore than 60 yearsCommon in malesSignificantUnable to walkPainMildSwellingNilNilIn Scarpa's triangleEcchymosisTendernessExternal rotation deformity Less than 45 degreesShorteningTreatmentComplicationsLess than 1 inchInternal fixation alwaysAvascular necrosis and Non-unionSevereSeverePresentOn the greater trochanterMore than 45 degrees (Latera1 border of foot touches the be",
+        "D": "More than 1 inchCan be managed in tractionMalunionSolution to"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures of femur"
+    }
+  ]
+}

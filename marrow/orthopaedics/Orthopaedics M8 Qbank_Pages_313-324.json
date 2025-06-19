@@ -1,0 +1,185 @@
+{
+  "chapter": "Fractures in children",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common bone to be fractured in children?",
+      "options": {
+        "A": "Distal forearm bones",
+        "B": "Humerus",
+        "C": "Clavicle",
+        "D": "Carpals"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is false about supracondylar fracture of the humerus?",
+      "options": {
+        "A": "It is the most common pediatric elbow fracture",
+        "B": "Flexion type is the most common",
+        "C": "The Gartland classification is commonly used",
+        "D": "Anterior interosseous nerve is most commonly injured"
+      },
+      "correct_answer": "B",
+      "explanation": "Most supracondylar fractures (98%) are extension-type injuries. They are usually caused by a fallonto an outstretched hand.Supracondylar humeral fractures are the most common type of pediatric elbow fracture. Theymost commonly lead to the following nerve injuries:•Extension-type: Anterior interosseous nerve•Flexion-type: Ulnar nerveAccording to the Gartland classification, there are 3 types of fractures:• Type I: Undisplaced• Type II: Some degree of displacement•Type III: Complete displacementThe following x-ray shows a type III supracondylar fracture of the humerus:318Supracondylar fracture of humerus",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp2_img1_d2339253.jpeg",
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 3,
+      "question": "A 4-year-old girl was brought to the emergency following a fall in the playground. Onexamination, her right arm was swollen, pink, and pulseless. An x-ray revealed asupracondylar fracture of the right humerus. What is the most appropriate management?",
+      "options": {
+        "A": "Observation",
+        "B": "Reduction and pinning",
+        "C": "Fasciotomy",
+        "D": "Vascular repair"
+      },
+      "correct_answer": "B",
+      "explanation": "This clinical scenario with a pink and pulseless arm is suggestive of a supracondylar fracture withadequate perfusion. The treatment of choice is reduction and pinning, followed by observation.On the other hand, if there is poor perfusion due to vascular compromise, the affected arm is paleand cool to the touch. In this case, the urgent reduction must be performed in the operating room.After reduction, the vascular status of the hand is reassessed. If the hand remains pale,exploration of the brachial artery, the release of entrapped structures, and direct repair with veingrafting may be required.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 4,
+      "question": "How would you classify the following injury?313MAR",
+      "options": {
+        "A": "Salter-Harris type III",
+        "B": "Salter-Harris type II",
+        "C": "Salter-Harris type V",
+        "D": "Salter-Harris type IVOMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "The physeal injury depicted in the given diagram is classified as Salter-Harris type II.In a type II fracture, the fracture line passes through the metaphysis into the epiphysealplate. This results in a metaphyseal fragment called the Thurston-Holland fragment. Theepiphysis is spared.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q4_img1_6ffdbd34.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 5,
+      "question": "A 13-year-old boy is brought to the ED two hours after falling from his bicycle. He complainsof progressive pain and swelling in his left arm. On examination, the pointing index sign isnoted. Which of the following will you suspect?",
+      "options": {
+        "A": "Fracture of lateral condyle humerus",
+        "B": "Fracture of supracondylar humerus",
+        "C": "Fracture of medial condyle humerus",
+        "D": "Fracture of neck of radius"
+      },
+      "correct_answer": "B",
+      "explanation": "The pointing index sign is seen in supracondylar fractures of the humerus.This finding occurs as a result of injury to the median nerve. It results in loss of function of bothflexor digitorum profundus (FDP) and flexor digitorum superficialis (FDS). Hence, the indexfinger sticks out when the patient is asked to clasp their hand.The image shows the pointing index sign:319",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp5_img1_fc341144.jpeg",
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is the first ossification center to appear around the elbow?",
+      "options": {
+        "A": "Radial head",
+        "B": "Olecranon",
+        "C": "Lateral epicondyle",
+        "D": "Capitellum314"
+      },
+      "correct_answer": "D",
+      "explanation": "The capitellum is the first ossification center to appear around the elbow.The order of appearance of ossification centers can be remembered using the mnemonic CRITOE:•Capitellum: 2 years• Radial head: 4 years• Internal epicondyle:6 years• Trochlea: 8 years• Olecranon: 10 years•• External (lateral) epicondyle: 12 years",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 7,
+      "question": "In which of the following patients would you suspect child abuse?",
+      "options": {
+        "A": "An 8-year-old boy with a torus fracture of the left distal radius",
+        "B": "A 7-year-old girl with a fracture of the left lateral epicondyle of humerus",
+        "C": "A 3-year-old boy with a greenstick fracture of the right tibia",
+        "D": "A 9-month-old infant with a spiral fracture of the right femur"
+      },
+      "correct_answer": "D",
+      "explanation": "Long bone fractures, particularly spiral fractures, in non-ambulatory infants &lt; 1 year shouldraise the suspicion of child abuse.Accidental fractures of long bones (humerus, tibia, radius) are common in toddlers and olderchildren once they start walking.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 8,
+      "question": "An 8-year-old child was brought to the casualty with a history of a fall from the stairs. Onexamination, varying degrees of ecchymosis are noted over the buttocks and upper limbs.X-ray reveals a metaphyseal corner fracture of the right femur. What is the likely diagnosis?",
+      "options": {
+        "A": "Albers-Schönberg disease",
+        "B": "Battered baby syndrome",
+        "C": "Vitamin D deficiency",
+        "D": "Osteogenesis imperfecta"
+      },
+      "correct_answer": "B",
+      "explanation": "This clinical scenario is suggestive of battered baby syndrome.320Non-accidental trauma must be suspected when there are ecchymoses and fractures in variousstages of healing. This indicates that the trauma has occurred over a period of time. Metaphysealcorner or bucket handle fractures are typically seen on x-ray. Sub-epiphyseal micro-fracture is alsoa feature of child abuse that is seen on MRI.In such cases, a radiological assessment of the entire skeleton is indicated. The minimum x-rayviews required in a case of suspected child abuse are:• AP views of the entire skeleton.• Dedicated views of hands and feet• Lateral views of the axial and appendicular skeleton",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 9,
+      "question": "A toddler was brought to the pediatrician with forearm swelling and inconsolable crying. Anx-ray revealed the following. What is your diagnosis?315",
+      "options": {
+        "A": "Torus fracture",
+        "B": "Nightstick fracture",
+        "C": "Monteggia fracture",
+        "D": "Greenstick fracture"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image shows a fracture with a broken cortex on one side and an intact cortex on theother side. This is called a greenstick fracture and is common in children.Option A: Torus fracture or buckle fracture occurs due to buckling of the cortex. It mostcommonly occurs at the transition between metaphysis and diaphysis.10:1DAILYROUNDS321Greenstick and torus fracturesMAROWGreenstick fractureMARROWTorus fractureOMARROWOption B: Nightstick fracture refers to a fracture of the shaft of the ulna.Option C: Monteggia fracture refers to a fracture of the proximal ulna with an associated radialhead dislocation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q9_img1_0690eb9e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp9_img1_c84f5a5e.jpeg",
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 10,
+      "question": "In patients with Madelung deformity, which of the following bones is involved?",
+      "options": {
+        "A": "Distal ulna",
+        "B": "Distal radius",
+        "C": "Trapezoid",
+        "D": "Triquetrum"
+      },
+      "correct_answer": "",
+      "explanation": "The distal radius is involved in Madelung deformity.This is a congenital or post-traumatic deformity in children due to disruption of the ulnar andvolar aspect of the growth plate of the distal radius. This disruption is believed to be caused by theVicker's ligament. This ligament normally tethers the lunate to the distal radius proximal to thephysis.LunateVicker'sligamentDistal radiusLigament of Vickers©MARROW322Disruption of the growth plate causes a ventral curvature of the distal radius. However, the ulnacontinues to grow and the distal ulna appears more prominent may stick out as a lump on theback of the wrist. This is known as a positive ulnar variance. There is volar subluxation of thehand.Madelung DeformityR",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q10_img1_a6254db6.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp10_img1_6b9a740a.jpeg",
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 11,
+      "question": "A 7-year-old boy is being evaluated for the following deformity of his left elbow. 3 years ago,he had suffered a fracture of his left elbow following a fall on his outstretched hand. Duringthat period, his arm was put in a cast for 6 weeks. Which of the following can be performed tocorrect this deformity?",
+      "options": {
+        "A": "1, 3, 4",
+        "B": "2,5316",
+        "C": "1, 4",
+        "D": "2, 3, 5"
+      },
+      "correct_answer": "",
+      "explanation": "The image shows the cubitus valgus deformity of the left elbow, which is usually a complication oflateral condyle fracture of the humerus. It can be corrected by medial closed wedge osteotomy orlateral open wedge osteotomy.Cubitus varus can be corrected by a lateral closed wedge osteotomy or medial open wedgeosteotomy.Derotation osteotomies are commonly used for the correction of lower limb deformities.Cubitus valgus correction by osteotomyMMCubitus valgusDeformity correctedMedial closed wedge osteotomyMCubitus valgusMWedgeremovedWedgeinsertedDeformity correctedLateral open wedge osteotomyOMARROW323",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q11_img1_7a82ea07.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp11_img1_d0d4c04a.jpeg",
+      "chapter_heading": "Fractures in children"
+    },
+    {
+      "q_no": 12,
+      "question": "An orthopedic resident is applying a cast for a 6-year-old child with the following fracture.What should be the position of the child's forearm during the procedure?[0]2018 [13:51)SC:BOL",
+      "options": {
+        "A": "Mid-pronation with elbow flexed",
+        "B": "Full supination with elbow extended",
+        "C": "Mid-pronation with elbow extended",
+        "D": "Full pronation with elbow flexed"
+      },
+      "correct_answer": "B",
+      "explanation": "The x-ray shows a fracture at the junction of the middle and distal 1/3 of both radius and ulna. Theelbow should be flexed at 90° and the forearm should be in mid-pronation position while applyingthe cast.Forearm fractures in children are managed conservatively by applying a POP cast. In adults,surgery is preferred (open reduction and internal fixation).Fracture site on the forearmUpper one-thirdMiddle one-thirdPosition of forearm(with elbow flexed)Full supinationMid pronation (neutral)Lower one-third fractureFull pronation324",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q12_img1_ea22d8f7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Fractures in children"
+    }
+  ]
+}

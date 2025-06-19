@@ -1,0 +1,440 @@
+{
+  "chapter": "Benign Tumors Of Bone",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the most common benign tumor of the bone?",
+      "options": {
+        "A": "Osteoma",
+        "B": "Osteoblastoma",
+        "C": "Osteochondroma",
+        "D": "Unicameral bone cyst"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 2,
+      "question": "According to the Enneking system of classification, which of the following is not a feature ofan active benign bone tumour?",
+      "options": {
+        "A": "Intracapsular location",
+        "B": "Wide area of activity",
+        "C": "Well defined margins",
+        "D": "Thin rim of reactive bone"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the Enneking system of classification, an active benign tumor will have a narrowzone of activity.458",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is false with respect to a solitary bone cyst?",
+      "options": {
+        "A": "They are asymptomatic unless complicated by pathological fracture",
+        "B": "Trapdoor sign can be seen on X-ray",
+        "C": "They commonly occur in the diaphysis of the bone",
+        "D": "They may cause growth abnormalities"
+      },
+      "correct_answer": "C",
+      "explanation": "A solitary bone cyst (unicameral bone cyst/ simple bone cyst) most commonly occurs in themetaphysis of the bone.Simple bone cyst always occurs during the first two decades of life, most often between 4-10 yearsof age with a 2:1 male preponderance. It is a benign unilocular cyst filled with straw colouredserosanguinous fluid.The commonest site is the proximal humerus. They are usually asymptomatic, but pathologicalfractures may occur through the cyst wall and may cause pain and swelling. The cyst may causegrowth disturbances due to its proximity to the growth plate.On X-ray, a bone fracture fragment may be seen resting in a dependent portion of the cyst. This isknown as the fallen fragment/fallen leaf sign and it is pathognomonic of a simple bone cyst.The trapdoor sign is a variant of the fallen leaf sign. Here, a periosteal hinge keeps the fragmentfrom falling dependently and allows it to change position with a change in the patient's position.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 4,
+      "question": "A 14-year-old boy presents to the OPD with pain in the right upper arm and a history of atrivial fall a few days ago. His X-ray is given below. Which of the following is not a treatmentmodality for the above condition?446",
+      "options": {
+        "A": "Curettage and bone grafting",
+        "B": "Intra-lesional steroids",
+        "C": "Radiotherapy",
+        "D": "Injection of a sclerosing agentDAILYROUNDS"
+      },
+      "correct_answer": "C",
+      "explanation": "Radiotherapy is not a treatment modality used in the treatment of the above condition.The given X-ray reveals a fracture running through a central cystic lesion situated on the proximalhumeral metaphysis, and also shows a fallen fragment sign. This along with the clinical scenario(male within 2nd decade of life) is strongly suggestive of a unicameral bone cyst (simple bonecyst).Treatment of simple bone cyst:• Small, asymptomatic lesions - serial observation with plain radiographs as lesions will regressfollowing skeletal maturity•• Larger lesions (at risk of pathologic fracture) and symptomatic lesions -• Curettage•Aspiration and injection using:• Corticosteroids• Bone marrow aspirate•• Demineralized bone matrix• Pathological fractures -•• Upper limb: managed conservatively as the fracture may initiate cyst healing••Lower limb: curettage, bone grafting, and internal fixation459Fallen fragmentsignCystDAILYROUNDS",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q4_img1_3096c088.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp4_img1_d6bb7b34.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 5,
+      "question": "A 16-year-old girl presented to the OPD with a painful swelling below her left knee. An X-rayis obtained which is given below. Aspiration of the lesion revealed blood. Which of thefollowing statements is true with regards to this condition?",
+      "options": {
+        "A": "It is a uniloculated lesionB447",
+        "B": "It is central in location",
+        "C": "It is not locally destructive",
+        "D": "It can rarely occur in the spine"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario and X-ray are suggestive of an aneurysmal bone cyst. It can involve thespine in 15-20% of cases.Aneurysmal bone cysts are eccentric, expansile, multiloculated cysts filled with blood. Theyare benign lesions but they are locally destructive. Most cases occur in patients younger than 20years old. There is a slight female preponderance.The most common sites involved are the metaphysis of long bones like proximal humerus, distalfemur, and proximal tibia. It presents with pain and swelling. Spinal lesions may cause neurologicdeficits or radicular pain.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q5_img1_b682d22e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 6,
+      "question": "The following X-ray shows a lytic lesion of the lower limb. The biopsy shows fibroblasticproliferation, osteoclast and inflammatory cells. From the given options, the most likelydiagnosis that can be inferred from the above clinical picture isCHS CLEVELAND CIDIC",
+      "options": {
+        "A": "Aneurysmal bone cyst",
+        "B": "Giant cell tumor",
+        "C": "Chondroblastoma",
+        "D": "Langerhan cell histiocytosis90"
+      },
+      "correct_answer": "B",
+      "explanation": "The provided X-ray reveals a lytic lesion in the epiphysis of the distal tibia, and the biopsy, whichshows osteoclast cells, suggests a diagnosis of a giant cell tumor (GCT).Important X-ray features of a GCT:• A solitary, possibly loculated, lytic lesion in the epiphysis.• Eccentric location, most often subchondral...Expansion of the overlying cortex.• Soap bubble appearance - The tumor is homogeneously lytic with trabeculae of the remnants ofbone traversing it, giving it a loculated appearance called soap bubble appearance.• No calcification within the tumor.• No or minimal reactive sclerosis around the tumor.460The image below shows an X-ray of a giant cell tumor showing the typical soap bubbleappearance:MUHAMMAD 1/8/2017 11:35:07 AMHistologically, GCT is characterized by the presence of a large number of osteoclast-like giant cellsamong scattered round or spindle-shaped mononuclear cells. The tumor stroma iswell-vascularized with bands of cellular or collagenous fibrous tissue.The image below shows the histopathology of GCT:OsteoclastomaOsteoclast-like giant cells with mononuclearcells scattered aroundOther options:Option A: Aneurysmal bone cyst usually occurs in the metaphysis of long bones and the posteriorelements of vertebral bodies. It is characterized by multiloculated blood-filled cystic spacesseparated by septae, composed of multinucleated osteoclast-like giant cells and reactive wovenbone. Radiographically, an aneurysmal bone cyst is seen as an eccentric, expansile, lesion withwell-defined margins. Most lesions are completely lytic and often contain a thin shell of reactivebone at the periphery.461PHOption C: Chondroblastoma is a benign cartilaginous tumor that occurs mainly in bones aroundthe knee joint. On x-ray, the tumor appears as a well-circumscribed, round, or oval lytic lesion inthe center of the epiphysis of long bones, with areas of calcification within the tumor, giving thecharacteristic mottled appearance. On histology presence of \"chicken wire calcification\" ispathognomic.& DAILYROUNDSOption D: Langerhans cell histiocytosis commonly involves the skull, pelvis, femur, and mandible.Radiographs show a lytic lesion with periosteal new bone formation. In the skull, lesions appearas a hole within a hole, and in the vertebra, vertebra plana (flattening of the vertebral body) can beseen. Histopathologically, Langerhans cells have a single large nucleus with a characteristic foldedor grooved nucleus (\"coffee-bean\" appearance) with small inconspicuous nucleoli. On electronmicroscopy, the presence of Birbeck granules in the cytoplasm is characteristic.462LAT",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q6_img1_4df7bb90.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp6_img1_0a784918.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 7,
+      "question": "A 30-year-old woman developed a tumor at the knee joint. Biopsy-image is given below. Whatis the most likely condition?448",
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Ewing's sarcoma",
+        "C": "Giant cell tumour",
+        "D": "Osteoblastoma"
+      },
+      "correct_answer": "",
+      "explanation": "The biopsy image shows multinucleated osteoclast-like giant cells with scattered mononuclearcells, indicating a diagnosis of giant cell tumor (GCT)/osteoclastoma.GCT usually affects young adults of age 20 to 40 years, with slight female predominance. It is abenign but locally aggressive tumor. It is exclusively seen in adults and affects the ends of longbones, typically involving the epiphysis. The most common location of the tumor is the distalfemur followed by the proximal tibia.Histologically, GCTs show uniform oval mononuclear tumor cells alongside numerousosteoclast-type giant cells containing 100 or more nuclei. Necrosis and mitotic activity may beprominent.OsteoclastomaOsteoclast-like giant cells with mononuclearcells scattered around463Other options:Option A: Histologically, osteosarcoma shows pleomorphic tumor cells with hyperchromaticnuclei and abundant mitoses. A definitive diagnosis requires the presence of malignant tumorcells producing unmineralized osteoid or mineralized bone, which is typically fine and lacelike inappearance.OsteosarcomaPleomorphictumour cellsOsteoidOption B: Histologically, Ewing's sarcoma shows sheets of uniform, small, round cells with scantcytoplasm, which may appear clear because they are rich in glycogen. The presence ofHomer-Wright rosettes indicates a greater degree of neuroectodermal differentiation.Ewing SarcomaClear spaces due towashout of glycogenSmall round cells withscant cytoplasmOption D: Histologically, osteoblastoma shows randomly interconnecting trabeculae of wovenbone, which are prominently rimmed by a single layer of osteoblasts. The stroma surrounding theneoplastic bone is composed of loose connective tissue that contains numerous dilated andcongested capillaries.464OsteoblastomaWoven boneSingle rim ofosteoblasts liningthe trabeculae",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q7_img1_e6bec499.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp7_img1_d01c8881.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 8,
+      "question": "Identify the following correctly.123",
+      "options": {
+        "A": "1 - Simple bone cyst, 2 - Aneurysmal bone cyst, 3- Osteoclastoma",
+        "B": "1- Aneurysmal bone cyst, 2 - Osteoclastoma, 3- Simple bone cyst449",
+        "C": "1 Osteoclastoma, 2- Aneurysmal bone cyst, 3- Simple bone cyst-",
+        "D": "1- Osteoclastoma, 2 - Simple bone cyst, 3 - Aneurysmal bone cyst"
+      },
+      "correct_answer": "",
+      "explanation": "An osteoclastoma or giant cell tumor (GCT) has soap-bubble appearance with minimal marginalsclerosis. It is epiphyseal in location.An aneurysmal bone cyst is eccentrically located, lytic lesion. It is metaphyseal in location.A simple bone cyst is centrally located, lytic lesion. It is also metaphyseal in locationGiant cell tumourAneurysmal bone cystSimple bone cystThe below table summarises the findings seen in these conditions:LocationGCTEpiphyseo-MetaphysealABCMetaphysealSimple bone cystMeta-diaphyseal465GCTCommonly invo Distal femur/radiusProximallvedAgeXray appearancGross examinationhumerus/tibia2nd-4th decadeEccentric, lytic lesionSoap bubble appearanceMinimal marginal sclerosisReddish Brown masswith cystic degenerationABCHumerus/femur/tibiaPosterior spine1st-2nd decadeEccentric, lytic lesionHighly trabeculated, lobulatedBlood filled cystic spaceslined by fibrous septaSimple bone cystProximal humerus/femur/tibia1st-2nd decadeCentral location, lytic locationFallen fragment sign(Fracture fragment sinks in fluid)usually Solitary tumorfilledwith serous fluid",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q8_img1_1c246e34.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp8_img1_e1714b1f.png",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 9,
+      "question": "An X-ray is done for a patient with a knee swelling and the lesion is noted to have asoap-bubble appearance. Which of the following is false about the condition he is likelysuffering from?",
+      "options": {
+        "A": "It commonly presents in the 20-40 years age group",
+        "B": "Egg shell crackling is seen on palpation",
+        "C": "Osteoclastic giant cells form the proliferative component of the tumor",
+        "D": "It can produce lung metastasis"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of giant cell tumor (GCT). The proliferative component ofthis tumor is made up of mononuclear stromal cells. Their nuclei are identical tothe osteoclast-like giant cells which are characteristically seen in this condition.GCT is a very aggressive benign tumor arising from the epiphysis and typically in the age group of20-40 years. It has slight female predominance.The most common site is lower end of femur. It has an egg shell crackling feel onpalpation. Benign pulmonary metastasis can occur in about 3% of cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 10,
+      "question": "An 18-year-old boy presents to the orthopedician with complaints of painful swelling belowthe knee joint. An X-Ray was obtained which is given below. Which of the following is thepreferred treatment modality for this patient?",
+      "options": {
+        "A": "Extended curettage and bone grafting",
+        "B": "Simple curettage and bone grafting",
+        "C": "Radiofrequency ablation",
+        "D": "Radical excision450"
+      },
+      "correct_answer": "A",
+      "explanation": "The given x-ray showing an expansile, eccentric, multiloculated lytic lesion, at the end of a longbone with a soap-bubble appearance suggests a giant cell tumor (GCT) or osteoclastoma. Thetreatment of choice for this condition is extended curettage and bone grafting.Giant cell tumor is a benign but locally aggressive tumor seen involving the metaphysis and/orthe epiphysis of long bones, as seen in the image, in young adults of age 20-45 years and rarelyteenagers less than 20 years.Although an aneurysmal bone cyst (ABC) is also a benign, locally destructive,eccentric multiloculated lytic tumor that can present with a similar radiographical picture in anyage group (most commonly in adolescents), it is confined within the metaphysis of the longbones, unlike GCT, thus ruling it out in this case. On MRI a fluid sign can be seen.The following is an x-ray image of the knee showing ABC confined to the metaphysis of the longbones:466PHAn ABC is treated by extended curettage and grafting with a bone graft substitute (option B).GCT is most commonly seen in the distal femur, proximal tibia, proximal humerus, and distalradius. It presents with complaints of swelling and vague pain and Sometimes, the patient canpresents for the first time with a pathological fracture because of the lesion.Important x-ray features of a GCT:• Eccentric, solitary lytic lesion• In epiphysis and metaphysis••Expansile- expands overlying cortex⚫ Soap bubble appearance - due to the trabeculae of the remnants of bone traversing the lyticlesion, giving it a loculated appearance.•No or minimal reactive sclerosis around the tumor• No calcificationHistologically, GCTs consist of undifferentiated spindle cells profusely interspersedwith multi-nucleated giant cells. The tumor stroma is well-vascularized with bands of cellular orcollagenous fibrous tissue.The treatment of choice for GCT is by• Extended curettage and bone grafting (Option A)..• GCT in the relatively insignificant bone like the distal ulna, clavicle, and proximal fibula istreated by resection without reconstruction.•Bisphosphonates have been shown to reduce the proliferation of osteoclasts and hence havebeen shown to stabilize local and metastatic disease.•Radiotherapy can be used for vertebral tumors•• Additional supportive therapy such as cryotherapy, when used reduce the reccurence rate.467",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q10_img1_89cc1c56.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient with a giant cell tumor is set to undergo an extended curettage. Which of thefollowing adjuvants used in this procedure is associated with least rate of recurrence?",
+      "options": {
+        "A": "Liquid nitrogen",
+        "B": "Phenol",
+        "C": "Polymethyl methacrylate",
+        "D": "Thermal cautery"
+      },
+      "correct_answer": "A",
+      "explanation": "The least rate of recurrence following extended curettage is seen with liquid nitrogen use.This technique is used in the treatment of giant cell tumours as they are locally aggressive, forlocal tumour clearance and prevention of recurrence.It is applied by the direct pour technique. Complications of this technique include pathologicalfractures and nerve injuries.Note: Even though phenol and methacrylate can also be used as adjuvants for extended curettage,studies have shown that liquid nitrogen is far superior for the purpose.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following lesions contain giant cells?",
+      "options": {
+        "A": "1,2,4,5",
+        "B": "3,4,5,6",
+        "C": "2,3,4,6",
+        "D": "1,2,3,5"
+      },
+      "correct_answer": "D",
+      "explanation": "Aneurysmal bone cyst, brown's tumor, osteoclastoma, and osteosarcoma all contain giant cells.Enchondroma and osteoid osteoma do not contain giant cells.Lesions containing giant cells are:• Simple bone cyst•Aneurysmal bone cyst• Osteoclastoma• Chondroblastoma• Fibrous dysplasia• Non-ossifying fibroma• Brown's tumor• Osteosarcoma• Clear cell chondrosarcomaThe most common variant of a giant cell tumor is non-ossifying fibroma&gt;fibrous dysplasia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 13,
+      "question": "During an annual health check-up, the following finding was seen on the ankle X-ray of aman. Which of the following is false about the given condition?",
+      "options": {
+        "A": "It is a metaphyseal tumor451",
+        "B": "It commonly presents in 4th-5th decade",
+        "C": "It is usually asymptomatic",
+        "D": "Histology shows spindle cells, foam cells and giant cells"
+      },
+      "correct_answer": "B",
+      "explanation": "The given X-ray shows a well-defined lobulated lesion located eccentrically and sclerotic scallopedborders is suggestive of non-ossifying fibroma. The common age of presentation of this conditionis 2-20 years.It is also known as fibrous cortical defect and it is the most common benign lesion of bone. It is ametaphyseal eccentric lesion that usually affects the distal femur, tibia and fibula.On biopsy, foam cells, spindle shape cells and giant cells may be seen.It is usually asymptomatic and regresses spontaneously in adulthood. If the defect is very large, itcan be treated by curettage and bone grafting.468",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q13_img1_7213f0be.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 14,
+      "question": "A 49-year-old woman presented to your clinic with progressive pain in her left thigh. TheX-ray of her thigh is shown below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Ossifying fibroma",
+        "B": "Fibrous dysplasia",
+        "C": "Aneurysmal bone cyst",
+        "D": "Enchondroma"
+      },
+      "correct_answer": "B",
+      "explanation": "The above X-ray shows bending of the femur known as Shepherd's crook deformity. It is seenin fibrous dysplasia of proximal femur.Fibrous dysplasia is a developmental disorder in which areas of trabecular bone are replaced bycellular fibrous tissue. If this occurs in the weight-bearing bones like the femur, it will lead tobending of the bones.Shepherd's crook deformityFibrous Dysplasia",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q14_img1_f3ab2580.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp14_img1_01b05dfa.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 15,
+      "question": "Which condition is characterized by the presence of polyostotic fibrous dysplasia withintramuscular myxomas?",
+      "options": {
+        "A": "Mazabraud syndrome",
+        "B": "McCune Albright syndrome",
+        "C": "Maffucci syndrome",
+        "D": "Stewart-Treves syndrome452"
+      },
+      "correct_answer": "A",
+      "explanation": "Polyostotic fibrous dysplasia with intramuscular myxomas is seen in Mazabraud syndrome.Fibrous dysplasia is a disorder where bone is replaced by fibrous tissue, leading to weak bones,uneven growth, and deformity. Polyostotic fibrous dysplasia is a form of this condition affectingmore than one bone.McCune Albright syndrome consists of a characteristic triad of polyostotic fibrous dysplasia, cafeau lait spots with rough borders and hyperfunction of an endocrine system.Maffucci syndrome is characterised by multiple enchondromas with soft tissue hemangiomas andphleboliths. Malignant transformation is common in these lesions.Stewart- Treves syndrome refers to the occurrence of lymphangiosarcoma in the setting of chroniclymphedema. It can be evident as upper extremity lymphedema following radical mastectomy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is not seen in patients with McCune-Albright syndrome?",
+      "options": {
+        "A": "Polyostotic fibrous dysplasia",
+        "B": "Cafe-au-lait lesions with smooth borders",
+        "C": "Hyperfunction of an endocrine system",
+        "D": "Mutation affecting G protein signal"
+      },
+      "correct_answer": "B",
+      "explanation": "469Cafe-au-lait lesions with rough borders (coast of Maine) are seen in McCune Albright syndrome.Cafe-au-lait lesions with smooth borders (coast of California) is seen in neurofibromatosis.Features of McCune Albright syndrome:•⚫ Polyostotic fibrous dysplasia - most commonly in maxilla and other craniofacial bones, ribs,femur or tibia•⚫ Cafe-au lait spots with rough borders (coast of Maine)• Hyperfunction of an endocrine system - most common endocrinopathy is precocious puberty ingirlsMcCune-Albright syndrome occurs due to activating mutations in the GNAS1 gene, which encodesthe alpha subunit of the G protein Gs alpha.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 17,
+      "question": "A 20-year-old man presented with pain in the thigh which is worse at night and relieved byaspirin. An X-ray is performed which is given below. What is the diagnosis?",
+      "options": {
+        "A": "Solitary bone cyst",
+        "B": "Osteoid osteoma",
+        "C": "Chondroblastoma",
+        "D": "Aneurysmal bone cyst"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of an osteoid osteoma.The given X-ray shows the presence of a metadiaphyseal cortical lesion involving the upper end ofthe femur with radiolucent nidus surrounded by cortical sclerosis.The nidus of osteoid osteoma is present in the cortex as can be seen in the image below. Hence,CT scan is the best investigation to diagnose osteoid osteoma.NidusCorticalthickeningOsteoid osteomaOsteoid osteoma is the most common benign bone tumour of the body. It contains osteoblastic aswell as osteoclastic components.It is most often seen in young men. The most common site is diaphysis of femur. It typicallypresents with pain that is worse at night and is relieved by aspirin or other nonsteroidalantiin ammatory medications.Multiple treatment options are available for this condition as follows:470•If symptoms are adequately controlled and patient is willing to undergo long-term medicalmanagement, anti-inflammatory medication can be used as the definitive treatment. Spontaneoushealing of the lesion usually occurs within 3 to 4 years.• Patients having lesions of the pelvis or long bones of the extremities can be treated withpercutaneous radiofrequency ablation. This method is not preferred for vertebral lesions andlesions of small bones of hand and feet.•Surgical management involves removal of the entire nidus. This can be accomplished bycurettage or en bloc resection.•Magnetic resonance-guided focused ultrasound (MRgFUS) ablation is a new method that isunder investigation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q17_img1_7928ab32.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp17_img1_1046c35f.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of these is the least likely cause of multiple bone lesions in a patient?",
+      "options": {
+        "A": "Osteoid osteoma",
+        "B": "Enchondroma453",
+        "C": "Osteochondroma",
+        "D": "Multiple myeloma"
+      },
+      "correct_answer": "A",
+      "explanation": "Osteoid osteoma is the least likely cause of multiple bone lesions. It is usually solitary.Differential diagnosis for multiple bone lesions:•⚫ Histiocytosis• Enchondroma⚫ Osteochondroma•• Fibrous dysplasia• Multiple myeloma• Metastases• Hemangioma•Osteomyelitis• Giant cell tumor",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 19,
+      "question": "A 33-year-old woman presents with multiple bony swellings in her hands as seen in the imagebelow marked 1. The X-ray of her hands is as shown in the image marked 2. Identify hercondition.",
+      "options": {
+        "A": "Ollier disease",
+        "B": "Maffucci's syndrome",
+        "C": "Melorheostosis",
+        "D": "Hemangiopericytoma12"
+      },
+      "correct_answer": "B",
+      "explanation": "The above image shows hemangiomas of the hand. The radiograph shows multiple tumorsaffecting the small bones of hand with soft tissue swellings and calcification suggestive ofenchondromatosis. This is suggestive of Maffucci's syndrome.Maffucci's syndrome is characterised by enchondromatosis with hemangiomas of the overlyingsoft tissue.471Maffucci syndromeHemangiomas of the handEnchondromas of small bones of the handRMalignant potential of enchondromas:• Maffucci's syndrome has a 100% risk of turning into malignancy•Ollier disease has a 30% risk of turning into malignancySolitary enchondroma has a &lt;2% risk of conversion to chondrosarcomaThe most common tumor affecting small bones of the hand is enchondroma. Ollier disease ischaracterized by multiple enchondromas when present without hemangiomas.Melorheostosis is an uncommon mesenchymal dysplasia manifesting as regions of sclerosing bonewith a characteristic dripping wax appearance a.k.a. flowing candle wax appearance. It is alsoknown as Leri disease,Haemangiopericytomas are soft tissue sarcomas of vascular origin, comprised of pericytes.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q19_img1_15f9a74e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp19_img1_2f2f51e2.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following tumors do not have osteoblasts as the predominant histological celltype?",
+      "options": {
+        "A": "Osteoid osteoma",
+        "B": "Osteochondroma",
+        "C": "Osteosarcoma",
+        "D": "Osteoblastoma454"
+      },
+      "correct_answer": "B",
+      "explanation": "Osteochondroma does not have osteoblast as the predominant cell type. It is made up ofphyseal chondrocytes showing active cartilage formation.Osteoid osteoma, osteoblastoma, and osteosarcoma are bone-forming tumors. They show activeossification and have osteoblasts as the predominant histological cell type.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is the most common cause of pain in osteochondroma?",
+      "options": {
+        "A": "Nerve compression",
+        "B": "Fracture",
+        "C": "Malignant transformation",
+        "D": "Bursitis"
+      },
+      "correct_answer": "D",
+      "explanation": "Bursitis is the most common cause of pain in an osteochondroma.Osteochondromas are common benign bone tumors which are developmental malformationsrather than true neoplasms.472Many of these lesions cause no symptoms and are discovered incidentally. However, some of themmay become painful. Causes of pain in an osteochondroma are:• Inflammation of overlying bursa• Fracture of the bony stalk•Compression of the neurovascular bundle of the limb•Malignant transformationThe following X-ray shows a well-defined exostosis. It emerges from the metaphysis and movestowards the diaphysis. It angles away from the growth plate.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp21_img1_c13b724a.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 22,
+      "question": "A young boy with a bony swelling at his knee is diagnosed to have an osteochondroma. Whichof the following suggests malignant degeneration of the lesion?",
+      "options": {
+        "A": "Fracture displacement &gt;2 cm",
+        "B": "Obstruction to joint movement",
+        "C": "Weight loss &gt;10%",
+        "D": "Thickness of cartilage cap &gt;2cm"
+      },
+      "correct_answer": "D",
+      "explanation": "Malignant degeneration in an osteochondroma is suggested by the thickness of the cartilage capexceeding 2 cm.The cartilage cap overlies a bony stalk. It is irregular and usually cannot be seen on radiographs.Occasionally, calcification within the cap may be seen on X-rays.Other features suggestive of malignant change in an osteochondroma are:• Irregularly scattered flecks of calcification within the cartilage cap•Persistence of tumor growth after skeletal maturity•Spread into the surrounding soft tissue.Malignant degeneration of an osteochondroma may lead to development of chondrosarcoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 23,
+      "question": "What is the pathology seen in patients with Trevor's disease?",
+      "options": {
+        "A": "Multiple osteochondromas",
+        "B": "Intraarticular epiphyseal osteochondroma",
+        "C": "Osteochondroma associated with false aneurysms",
+        "D": "Osteochondroma associated with hemangiomas"
+      },
+      "correct_answer": "B",
+      "explanation": "Trevor's disease is characterized by the presence of intra-articular epiphyseal osteochondromas.473In Trevor's disease, bony lesions appear on the medial or lateral aspect of the epiphysis. Thelesions are localized to a single side of the body. Knee and ankle are most frequently involved.Multiple osteochondromas are seen in a condition known as diaphyseal aclasis or multiplehereditary exostoses.The below lateral view X-ray of the lower limb shows non-uniform bone growth, and unconnectedossification centers related to the epiphyses at the knee and ankle. This is seen in Trevor's disease.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp23_img1_cb7f3260.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following is false with respect to multiple hereditary exostoses?",
+      "options": {
+        "A": "Autosomal dominant disorder",
+        "B": "Affected genes are EXT1 and EXT2",
+        "C": "Associated with multiple enchondromas",
+        "D": "Increased risk of malignant transformation455"
+      },
+      "correct_answer": "",
+      "explanation": "Multiple hereditary exostoses is associated with multiple osteochondromas. Multipleenchondromas are seen in Maffucci's syndrome and Ollier's disease.Multiple hereditary exostoses is an autosomal dominant disease. The affected genes are EXT1 andEXT2 which are located on chromosomes 8 and 11 respectively.There is an increased risk of malignant transformation of the osteochondromas in case of multiplelesions (about 5%). Solitary lesions have a 1% risk of malignant transformation.The following X-ray image shows multiple osteochondromas around the knee.474L",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp24_img1_292855a7.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following lesions is an epiphyseal lesion?",
+      "options": {
+        "A": "Enchondroma",
+        "B": "Osteoid osteoma",
+        "C": "Chondroblastoma",
+        "D": "Osteoblastoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Among the given options, chondroblastoma is an epiphyseal lesion.Epiphyseal lesions include:• Chondroblastoma•Giant cell tumor in adults• Clear chondrosarcoma• Articular osteochondroma (Trevor's disease)Location of Bone Tumors within the BoneDiaphysisAdamantinomaOsteofibrous DysplasiaOsteoid OsteomaStress FractureChronic OsteomyelitisMetaphysisFibrous Cortical defectNon ossifying /fibromaOsteochondromaOsteosarcomaEpiphysisArticularOsteochondroma(Trevor's Disease)OMARROWRound Cell TumorsLangerhansCell HistiocytosisFibrous DysplasiaFibrosarcomaChondromyxoid FibromaAneurysmal Bone CystEnchondroma/ChondrosarcomaSimple Bone CystFibrous DysplasiaPyogenic OsteomyelitisChondroblastoma(child)Giant Cell tumor(adult)Fungal/ TubercularOsteomyelitisAneurysmal Bone Cyst475",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q25_img1_1a0287c7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp25_img1_87702e9e.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 26,
+      "question": "A bone biopsy was performed on a child with a skull swelling. It showed the presence ofeosinophils and dendritic cells and was found to be CD 207 positive onimmunohistochemistry. Which of the following skeletal manifestations would you not expectto see in this child?",
+      "options": {
+        "A": "Vertebra plana",
+        "B": "Geographic skull",
+        "C": "Floating tooth",
+        "D": "Short 4th metacarpal"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of Langerhans cell histiocytosis. It is not characterised bythe presence of a short 4th metacarpal. This feature is seen in pseudohypoparathyroidism.The skeletal and radiological manifestations of Langerhan's cell histiocytosis are:• Skull:••solitary or multiple punched out lytic lesion without sclerotic rim⚫ double contour or beveled edge appearance (hole-within-a-hole sign)• button sequestra representing residual bone●geographic skull• Mandible:• floating tooth: loss of lamina dura•Spine:• vertebra plana: most common cause of vertebra plana in children; mostly seen in thoracic spine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 27,
+      "question": "A child presents with difficulty in walking. On biopsy of the hip, some cells with groovednuclei and eosinophilic cytoplasm are present. Which investigation would you order next?",
+      "options": {
+        "A": "MRI",
+        "B": "Serum calcium",
+        "C": "Serum PTH",
+        "D": "CD1a marker"
+      },
+      "correct_answer": "D",
+      "explanation": "Histopathologically, cells with grooved nuclei and eosinophilic cytoplasm can be observed in bothLangerhans cell histiocytosis (LCH) and chondroblastoma. Therefore, the next step to differentiatebetween them would be to obtain a CD1a marker, which is typically positive in LCH.The specific markers for LCH are CD1a and langerin (CD207)It is worth noting that while an MRI can provide valuable information for evaluating thepathology, it is ideally performed before the biopsy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 28,
+      "question": "The CT scan image of a 50-year-old female with backache is given below. What is the likelydiagnosis?456",
+      "options": {
+        "A": "Vertebral metastasis",
+        "B": "Hemangioma",
+        "C": "Eosinophilic granuloma",
+        "D": "Ossifying fibroma"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows the classical polka dot sign(on axial section) and the Corduroy sign /jailhouseappearance(on vertical section). These are seen in vertebral hemangioma.These signs are the result of the replacement of normal cancellous bone by thickened verticaltrabeculae.The corduroy sign is shown in the following image.476",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/q28_img1_d3c066a7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/morthopedics/exp28_img1_ff986765.jpeg",
+      "chapter_heading": "Benign Tumors Of Bone"
+    },
+    {
+      "q_no": 29,
+      "question": "Which of the following statements is false with respect to hemangiomas?",
+      "options": {
+        "A": "Biopsy is rarely needed for diagnosis",
+        "B": "They usually arise from posterior elements of vertebra",
+        "C": "They cause local gigantism when they occur on an extremity",
+        "D": "They are also common in the skull"
+      },
+      "correct_answer": "B",
+      "explanation": "Hemangioma arises more commonly from the vertebral body.Hemangioma is a benign tumor and consists of vascular channels (capillary, venous orcavernous). Apart from the spine, skull is also a common site for hemangiomas.Biopsy is rarely needed due to the threat of hemorrhagic shock. Imaging techniques such asCT/MRI are used to make the diagnosis.A hemangioma on a limb can lead to local hypertrophy. This can cause localised gigantism.477",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Benign Tumors Of Bone"
+    }
+  ]
+}
