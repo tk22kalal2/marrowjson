@@ -1,0 +1,155 @@
+{
+  "chapter": "HIV",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following subtypes of HIV is most common in India?",
+      "options": {
+        "A": "Subtype A",
+        "B": "Subtype B",
+        "C": "Subtype C",
+        "D": "Subtype D"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "HIV"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements is incorrect about HIV?",
+      "options": {
+        "A": "Cross blood-brain barrier",
+        "B": "Has 2 single strands of RNA",
+        "C": "Inhibited by 0.3 % H2O2",
+        "D": "Is a thermostable virus"
+      },
+      "correct_answer": "",
+      "explanation": "HIV is a thermolabile virus. It is readily inactivated by heating to 60 °C for 10 minutes and at 100°C in seconds. At room temperature (20-25 °C) in the dried blood, it may survive for 1 week.Option A: HIV crosses the blood-brain barrier. It may cause encephalopathy leading to loss ofhigher functions, progressing to dementia.Option B: HIV is a spherical, enveloped virus. Its genome is composed of two copies of identicalsingle-stranded positive-sense RNA.Option C: HIV is inactivated by treatment with 0.3% hydrogen peroxide, 50% ethanol, 35%isopropanol or 10% household bleach. A 2% solution of glutaraldehyde is effective for thedisinfection of medical instruments.393",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "HIV"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is a nonstructural gene of HIV?",
+      "options": {
+        "A": "gag gene",
+        "B": "tat gene",
+        "C": "pol gene",
+        "D": "env gene"
+      },
+      "correct_answer": "C",
+      "explanation": "The tat gene (trans-activating gene) is a non-structural gene.HIV has structural and non-structural genes:•Structural genes- Genes coding for structural protiens:• gag- Codes for core and shell protein p55, which is cleaved to p15, p18 and p24• env- Codes for envelope glycoprotein gp160 which is cleaved to gp120 and gp41• pol- Codes for enzymes: Polymerase, reverse transcriptase, protease and endonuclease• Non-structural and regulatory genes:•• tat- Trans-activating gene• nef- Negative factor gene• rev- Regulator of virus gene• vif- Viral infectivity factor gene•vpu- (only in HIV-1) and vpx (only in HIV-2)• vpr- Stimulates only the promoter region of the virus•⚫ LTR- Long terminal repeat sequences",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "HIV"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following represents the correct sequence of HIV replication?RNA-DNA-RNAb) RNA-DNAc) DNA-RNA390d) DNA-RNA-DNAQuestion 5:As part of developing the public health policy on HIV in India, which of the following modesof transmission would you focus on the most?",
+      "options": {
+        "A": "Parent to child transmission",
+        "B": "Heterosexual transmission",
+        "C": "Blood transfusion",
+        "D": "Homosexual transmission"
+      },
+      "correct_answer": "A",
+      "explanation": "HIV replicates by the sequence RNA-DNA-RNA. The provirus initiates viral replication bydirecting the synthesis of viral RNA and other components. Hence, the sequence isRNA ssDNA-dsDNA-RNA.HIV genome is composed of 2 single-stranded positive-sense RNA. When a virus infects a cell, theviral RNA is transcribed by the enzyme reverse transcriptase, first into single-stranded DNA andthen to double-stranded DNA which is integrated into the host chromosome.Note: If the options include RNA-DNA-RNA and RNA-DNA-DNA-RNA then the latter would bethe choice.The given image represents HIV replication394HIV Replication2Attachment of HIV to host cellFusion and release ofHIV components into the host cell30000000Viral RNA synthesiscompleteViral RNA converted into cDNAwith reverse transcriptase (RT)Release of new virus6New virionOMARROWCDNA integratedinto host DNAwithintegrase",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_4f3d0f2e.jpeg",
+      "chapter_heading": "HIV"
+    },
+    {
+      "q_no": 6,
+      "question": "A 35-year-old bisexual man goes to an ICTC centre for counselling about HIV. Which of thefollowing is false about HIV transmission?",
+      "options": {
+        "A": "Male-to-female HIV transmission has more risk of causing infection than female-to-maletransmission",
+        "B": "The risk of acquiring HIV with unprotected receptive anal intercourse is lower than that withpenile-vaginal intercourse",
+        "C": "The quantity of HIV-1 in plasma is a primary determinant of the risk of HIV-1 transmission",
+        "D": "Male circumcision is associated with a lower risk of HIV acquisition for heterosexual men"
+      },
+      "correct_answer": "B",
+      "explanation": "The risk of HIV acquisition associated with unprotected receptive anal intercourse is relativelyhigher than that seen in penile-vaginal intercourse. This is because the rectal mucosal membraneis thin and fragile and anal intercourse is associated with microtrauma (rectal tears).The differences in transmission rates between men and women are because the vagina and cervixare exposed to semen for a longer duration, increasing the risk of transmission. However, thepenis and urethral orifice are exposed relatively briefly to infected vaginal fluid, lowering the risk.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "HIV"
+    },
+    {
+      "q_no": 7,
+      "question": "Specific binding of the HIV to the CD4 receptor occurs via which of these?",
+      "options": {
+        "A": "gp120",
+        "B": "gp41",
+        "C": "CCR5",
+        "D": "CXCR4"
+      },
+      "correct_answer": "A",
+      "explanation": "The specific binding of the HIV to the CD4 receptor is by the envelope glycoprotein gp120.Option B - Cell fusion occurs via binding to gp41. Cell fusion is essential for infection to takeplace.Option C, D - Binding to CD4 receptor requires the participation of a co-receptor CXCR 4 for Tcell tropic HIV strains and CCR 5 for macrophage-tropic strains.395MHC ProteinsLipidEnvelopeProtease,Peptides,Host ProteinsCapsid-gp41TransmembraneGlycoprotein-gp120DockingGlycoprotein-RNAGenomep17Matrix Protein20-NucleocapsidIntegraseoneReverse Transcriptase",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp7_img1_bbd6d536.jpeg",
+      "chapter_heading": "HIV"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient presents to you with a history of sharing needles during IV drug abuse with anHIV-positive partner. HIV-antibody spot test was negative, however p24 antigen assay waspositive. You explain to him that he is currently in the window period for HIV. Which of the391following statements would you use to explain the concept to him?",
+      "options": {
+        "A": "It is the time period between infection and onset of first symptoms",
+        "B": "It is the time period between infection and detection of antibodies",
+        "C": "It is the time period between exposure and onset of viral multiplication",
+        "D": "It is the time period between exposure and appearance of symptoms"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, the patient has experienced a high-risk exposure to HIV due to sharingneedles during IV drug abuse with an HIV-positive partner.The period between infection and detection of antibodies against HIV is known as the windowperiod.The window period may last anywhere between 2-8 weeks to a few months. During this period,the individual may be highly infectious. HIV infection can be detected during this period by p24antigen assay and PCR.Detection of viral antigensand antibodiesHIV antigen-antibody responseWindowperiodInfectiousviremiaExposure-IgGIgM01020304050607080Days post-infectious viremiaHIV RNA (RT-PCR) in plasmaHIV antibodiesHIV DNA (PCR) in peripheral bloodHIV p24 AgOMARROW396",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp8_img1_2875abf7.jpeg",
+      "chapter_heading": "HIV"
+    },
+    {
+      "q_no": 9,
+      "question": "A 41-year-old man was admitted for hernioplasty and initial investigations revealed that he isHIV-positive. He gives no history of contact and has no HIV-associated symptoms. Which ofthe following statements is incorrect about this phase of HIV infection?",
+      "options": {
+        "A": "Viral replication is active",
+        "B": "Sequestered in lymphoid tissue",
+        "C": "Infective",
+        "D": "Rapid decline of CD4 count is common"
+      },
+      "correct_answer": "D",
+      "explanation": "The given patient is in the latent period of HIV infection. During the latent phase of HIVinfection, the CD4+ T cell count declines steadily and not rapidly.All patients infected with HIV pass through a phase of clinical latency during which they areasymptomatic. This can last for years. During the latent phase, patients show positive HIVantibody tests and they are infectious. There will be varying degrees of viral multiplication.Throughout the course of untreated infection and even during the stage of clinical latency, HIV isactively replicating or is sequestered in lymphoid tissues.HIV natural disease progressionAcute primaryinfection phaseand CD4 countAcute HIV syndromeWide dissemination of virusSeeding of lymphoid organsClinical latency(Latent period)DeathCD4 T-Lymphocyte Count (cells/mm³)120011001071000900800Opportunisticinfections106700600Constitutionalsymptoms105500400104300200100Viralset-point10301023 6 9 121 234 5 6 7 8 9 10 11WeeksMonthsOMARROWHIV-RNA copies per ml plasma",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp9_img1_d3a50bec.jpeg",
+      "chapter_heading": "HIV"
+    },
+    {
+      "q_no": 10,
+      "question": "A 40-year-old man presents to the clinic requesting an HIV test. He had unprotected sexualcontact with another man 3 weeks ago. Antibodies against which of the following will bedetected first by ELISA or Western blot?",
+      "options": {
+        "A": "gp120",
+        "B": "gp 41",
+        "C": "p24",
+        "D": "p55"
+      },
+      "correct_answer": "B",
+      "explanation": "Antibodies against gp41 will be detected first by ELISA or Western blot.Antibodies to HIV usually appear within 3-6 weeks of primary infection. The appearance ofHIV-binding antibodies occurs prior to the appearance of neutralizing antibodies. The only viralproteins that elicit neutralizing antibodies are the envelope proteins gp120 and gp41.The order of appearance of antibodies is as follows:Antibody to envelope gp41 &gt; Antibodies to gag protein (p24 and p55) &gt; Antibodies toenvelope gp120 &gt; Antibodies to gag protein p17 &gt; Antibodies to pol gene products (p31 andp66).Note: The earliest antigen to appear in the blood following HIV infection is p24.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "HIV"
+    },
+    {
+      "q_no": 11,
+      "question": "You are an officer with the Center for Disease Control and are screening a high-riskpopulation for HIV. Which of the following methods will you use as a screening tool?",
+      "options": {
+        "A": "Western blot",
+        "B": "ELISA",
+        "C": "DNA PCR",
+        "D": "p24 antigen assay392"
+      },
+      "correct_answer": "B",
+      "explanation": "ELISA is most commonly used as a screening test for HIV.397Screening tests possess high sensitivity but are not highly specific. ELISA is a simple, relativelyinexpensive screening test.The most commonly used confirmatory test is Western blot. Western blot demonstratingantibodies to products of all three of the major genes of HIV (gag, pol, and env) is conclusiveevidence of infection with HIV. It is considered positive if it shows antibodies against at least twoof the following gene products: p24, gp41, gp120/160.398",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "HIV"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "chapter": "Components of Immune system",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What type of immunity is being conferred to a neonate receiving the BCG vaccine?",
+      "options": {
+        "A": "Natural active immunity",
+        "B": "Natural passive immunity",
+        "C": "Artificial active immunity",
+        "D": "Artificial passive immunity"
+      },
+      "correct_answer": "C",
+      "explanation": "The BCG vaccine is a vaccine that provides artificial active immunity, as it stimulates the body's immune system to produce a specific response to the vaccine antigen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 2,
+      "question": "A 33-year-old with a large dirty wound on his knee and abrasions on his palms presents to the casualty. He does not remember the last time he received a TT injection and was thus given tetanus immunoglobulin. Which of the following is false about this type of immunity?",
+      "options": {
+        "A": "Acquired immediately",
+        "B": "Memory is absent",
+        "C": "Long lasting",
+        "D": "No negative phase"
+      },
+      "correct_answer": "C",
+      "explanation": "Giving pre-formed immunoglobulin (e.g., Tetanus immunoglobulin) directly is an example of passive immunity, which is not long-lasting. The differentiating features between active and passive immunity: Negative phase: It is the time period during which the level of measurable immunity is lower than it was before the antigenic stimulus. This is because the antigen combines with any pre-existing antibody and lowers its level in circulation. It is seen at the beginning of the active immune response. Secondary type response: If an individual who has been actively immunized against an antigen experiences the same antigen subsequently, the immune response occurs more quickly and abundantly than during the first encounter. Active Immunity: Actively produced by the host, induced by infection or immunogens, immunological memory present, immunity is effective after a lag period or latent period, broad specificity, a negative phase may occur, booster effect on subsequent dose, secondary type response seen, more effective, long-lasting (years). Example: Vaccines. Passive Immunity: Readymade antibody is transferred, no memory, immediate immunity, narrow specificity, no negative phase, the subsequent dose is less effective, no secondary type of response, less effective, short-lasting (days to weeks). Example: Antisera.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp2_img1_72c32eba.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient with chronic mucocutaneous candidiasis was administered transfer factor as treatment. What type of immunity does this result in?",
+      "options": {
+        "A": "Active immunity",
+        "B": "Passive immunity",
+        "C": "Combined immunity",
+        "D": "Adoptive immunity"
+      },
+      "correct_answer": "D",
+      "explanation": "Adoptive immunity occurs when transfer factor is given. Transfer factor is composed of an extract of immunologically competent lymphocytes, such as T lymphocytes, NK cells, macrophages, or B cells. It has the ability to passively transfer cell-mediated immunity against antigens to which the donor is sensitive. It has been attempted in the treatment of lepromatous leprosy and chronic mucocutaneous candidiasis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not a pattern recognition receptor?",
+      "options": {
+        "A": "NOD-like receptors",
+        "B": "Toll-like receptors",
+        "C": "RIG-like receptors",
+        "D": "BMP-like receptors"
+      },
+      "correct_answer": "D",
+      "explanation": "Bone morphogenetic protein-like receptors are not pattern-recognition receptors. Pattern recognition receptors (PRRs) are essential for the innate immune system. They identify pathogen-associated molecular patterns (PAMPs) common to classes of microbes and trigger immune responses. These receptors can be found on the cell surface, detecting extracellular pathogens, or within the endosomes and cellular matrix, detecting intracellular invading viruses. PRRs activate pro-inflammatory pathways, promote phagocytosis in cells like macrophages, neutrophils, and dendritic cells, and may act as secreted proteins binding directly to pathogens. Based on the localization and functional characteristics, PRRs are classified as: Membrane-bound PRRs: Toll-like receptors (TLR) - detect microbial carbohydrates and lipoproteins (Option B), C-type lectin receptors (CLR) - detect mannose residues. Cytoplasmic (intracellular) PRRs: Nucleotide oligomerization (NOD)-like receptors (NLR) - NOD1 and NOD2 - detect bacterial cell wall peptidoglycans (Option A), RIG-I-like receptors (RLRs) - detect viral RNA (Option C). Secreted PRRs. On the contrary, BMP receptors are multifunctional transmembrane serine-threonine kinase receptors that belong to the transforming growth factor beta (TGF-beta) superfamily, regulating cell growth, differentiation, and apoptosis with no role in pattern recognition. Also, there are no receptors termed 'BMP-like receptors'. Note: A mutation in the Bone morphogenetic protein receptor 2 (BMPR2) gene enhances the proliferation and reduces the apoptosis of pulmonary vascular endothelial and smooth muscle cells, leading to hereditary pulmonary arterial hypertension (PAH).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 5,
+      "question": "A 23-year-old presents with diarrhea, fever, and vomiting. The given bacteria is implicated. Which toll-like receptor binds to the structure of the bacteria marked A?",
+      "options": {
+        "A": "TLR 2",
+        "B": "TLR 4",
+        "C": "TLR 5",
+        "D": "TLR 9"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image and clinical history suggest a typhoid infection. The structure marked A is the flagella of bacteria. Toll-like receptor (TLR) 5 binds to the flagella of bacteria. Toll-like receptors (TLRs) are transmembrane receptors that have an extracellular domain, which detect infecting pathogens. TLR 1 - Mycobacteria and Gram-negative bacteria, TLR 2 - Mycobacteria and Gram-positive bacteria, TLR 3 - Viral RNA, TLR 4 - Gram-negative bacteria, TLR 5 - Flagella, TLR 9 - Bacterial DNA, some herpes viruses, malarial parasite. TLRs act through the NF-KB pathway and initiate inflammation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q5_img1_b071f054.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements is true about T cell-dependent antigens?",
+      "options": {
+        "A": "Their response doesn't show immunological memory",
+        "B": "They activate only mature B cells",
+        "C": "They activate B cells polyclonally",
+        "D": "They activate only IgG antibodies"
+      },
+      "correct_answer": "B",
+      "explanation": "T cell-dependent antigens activate only mature B cells. Depending on their ability to induce the formation of antibodies, antigens are classified as T-cell-dependent and T-cell-independent antigens. T cell-dependent antigens (TD) require helper T cell participation for the production of immune response, are structurally complex, and directly stimulate antibody production by B cells. T cell-dependent antigens (TD) activate only mature B cells monoclonally. B cells undergo affinity maturation and class switch over. All classes of antibodies are activated. Rapidly metabolized, immunological memory is present. T cell-independent antigens (TI) activate both mature and immature B cells polyclonally. B cells do not undergo affinity maturation and class switch over. Antibody response is restricted to IgM and IgG3. Slowly metabolized, no immunological memory.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 7,
+      "question": "A 28-year-old woman presents with a fever of 103°F, hypotension, confusion, and a diffuse rash as shown below. 3 days back, she had uncontrollable epistaxis for which a nasal pack was placed. What is the likely mechanism of action of the microbial toxin that has caused her current illness?",
+      "options": {
+        "A": "Enhancement of phagocytosis",
+        "B": "Increased antigen presentation by macrophages",
+        "C": "Polyclonal activation of T cells",
+        "D": "Uncontrolled activation of complement"
+      },
+      "correct_answer": "C",
+      "explanation": "This woman presented with fever, hypotension, and a diffuse erythematous rash, three days after a nasal packing was done. This is characteristic of toxic shock syndrome - commonly caused by staphylococcal toxic shock syndrome toxin-1 (TSST-1), which is a superantigen. Superantigens act by causing polyclonal activation of T cells. They activate a large number of T cells irrespective of their antigen specificity. In contrast to regular antigens which bind to the binding groove on T cells, superantigens bind outside the groove directly to the lateral aspect of the TCR β chain. This leads to a massive release of cytokines and polyclonal activation of T cells. Clinically, this manifests as fever, hypotension, and skin exfoliation. Superantigen - Antigen presenting cell - MHC II - Antigen - T cell receptor - T cell receptor. Examples of organisms that produce superantigens: Bacterial - Staphylococcus aureus - Enterotoxins - Group A streptococci - Pyrogenic exotoxin - Mycoplasma arthritidis - mitogen 1 - Yersinia enterocolitica - Yersinia pseudotuberculosis - Viral - Epstein-Barr virus (EBV) - Cytomegalovirus (CMV) - Rabies nucleocapsid - HIV-encoded negative regulatory factor - Fungal - Malassezia furfur",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q7_img1_11cc44a7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp7_img1_57e528c2.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 8,
+      "question": "What are the changes in the variable regions of an immunoglobulin known as?",
+      "options": {
+        "A": "Idiotype",
+        "B": "Isotype",
+        "C": "Allotype",
+        "D": "Epitope"
+      },
+      "correct_answer": "A",
+      "explanation": "Changes in the variable regions of heavy and light chains of an immunoglobulin are called an idiotype. Other options: Option B: Isotypes are the changes in the constant regions of the heavy chain of the immunoglobulin. Option C: Allotypes refer to multiple alleles that exist for some genes. This leads to subtle amino acid differences that occur in some but not all members of the same species. Option D: An epitope is the smallest unit of antigenicity and it is an antigenic determinant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements about immunoglobulins is false?",
+      "options": {
+        "A": "IgG is used to diagnose fetal infection",
+        "B": "IgM has weak precipitation activity",
+        "C": "IgG has four subclasses",
+        "D": "IgM is mainly intravascular"
+      },
+      "correct_answer": "A",
+      "explanation": "IgG cannot detect fetal infections because it is not produced by the fetus in significant amounts. IgG is the only maternal immunoglobulin that is normally transported across the placenta and provides natural passive immunity to the newborn.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following immunoglobulins acts as surface immunoglobulin on B cells?",
+      "options": {
+        "A": "IgG",
+        "B": "IgA",
+        "C": "IgM",
+        "D": "IgE"
+      },
+      "correct_answer": "C",
+      "explanation": "Monomeric IgM is the major antibody receptor on the surface of B lymphocytes for antigen recognition. IgD is the other class of antibodies which acts as the B cell receptors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 11,
+      "question": "A 3-year-old child presents with a history of repeated sinopulmonary infections caused by encapsulated organisms. Which of the following is most likely to be deficient in this case?",
+      "options": {
+        "A": "IgG1",
+        "B": "IgG2",
+        "C": "IgG3",
+        "D": "IgG4"
+      },
+      "correct_answer": "B",
+      "explanation": "Deficiency of IgG2 results in recurrent sinopulmonary infections with encapsulated organisms. IgG is the only maternal immunoglobulin that is normally transported across the placenta and provides natural passive immunity to the newborn. IgG1 is the antibody maximally transported across the placenta, whereas IgG2 has the least transplacental movement. Deficiencies of other IgG: • IgG1 - bacterial infections (diphtheria, tetanus) (Option A) • IgG3 - viral infections (Option C) • IgG4 - parasitic infections (Option D)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 12,
+      "question": "Identify the class of immunoglobulin shown in the image below.",
+      "options": {
+        "A": "IgA",
+        "B": "IgG",
+        "C": "IgM",
+        "D": "IgE"
+      },
+      "correct_answer": "A",
+      "explanation": "The above image shows a dimeric structure, characteristic of secretory IgA. IgA immunoglobulin is the major antibody responsible for mucosal immunity. Its serum levels are usually low. It is predominantly present in the extravascular secretions. It is present in secretions such as milk, saliva, and tears, and in secretions of the respiratory, intestinal, and genital tracts. When present in the serum, it exists as a monomer similar to IgG. However, when it is secreted, it exists as a dimer. The dimeric structure consists of two monomers, which are stabilized by two additional polypeptides: the J chain, which stabilizes the molecule, and the secretory component, which is incorporated into the IgA when transported through the epithelial cell. Structure of Immunoglobulin A: Serum IgA (monomer), Secretory component, J chain, Secretory IgA (dimer).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q12_img1_d7e02815.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp12_img1_250d351f.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 13,
+      "question": "Which immunoglobulin is majorly responsible for the reaction demonstrated below? Agglutinated RBCs",
+      "options": {
+        "A": "IgG",
+        "B": "IgA Anti-A Anti-B Anti-D",
+        "C": "IgM",
+        "D": "IgE"
+      },
+      "correct_answer": "C",
+      "explanation": "The image shows blood typing, which works on the principle of agglutination. IgM is mainly responsible for agglutination. It is the most efficient immunoglobulin in agglutination, complement fixation, and other antigen-antibody reactions and is important also in defense against bacteria and viruses. It is a pentamer, and hence is more effective than IgG in opsonization (C3b mediated), bactericidal action, and bacterial agglutination but less effective in neutralization of toxins and viruses. Reaction: Precipitation - IgG: Weak, IgM: Strong. Agglutination - IgG: Weak, IgM: Strong. Complement fixation - Mode: Strong, Rate: Strong. Lysis - IgG: Weak, IgM: Strong.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q13_img1_116be345.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 14,
+      "question": "You are counseling a new mother about the importance of breastfeeding. What forms the secretory component of the antibody that is maximally present in breast milk?",
+      "options": {
+        "A": "Plasma cell only",
+        "B": "Epithelial cells of the lining mucosa only",
+        "C": "Plasma cell and oligosaccharides",
+        "D": "Oligosaccharides and epithelial cells"
+      },
+      "correct_answer": "B",
+      "explanation": "The antibody maximally present in breast milk is IgA. The secretory component of IgA is formed by epithelial cells of the lining mucosa. IgA occurs in two forms - serum IgA (monomer) and secretory IgA. Secretory IgA is a dimer formed by two monomer units joined together by a J-chain and a secretory component (secretory piece). Secretory IgA, along with the J chain, is synthesized by the plasma cells situated near the mucosal or glandular epithelium. The secretory component is synthesized by epithelial cells, not by plasma cells. It is believed to protect IgA from denaturation by bacterial proteases.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp14_img1_c118149e.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 15,
+      "question": "When papain acts on a molecule of immunoglobulin, which of the following are the end products?",
+      "options": {
+        "A": "2 Fc and 1 Fab fragments",
+        "B": "1 variable chain and 1 constant chain",
+        "C": "1 Fc and 2 Fab fragments",
+        "D": "1 Fab and 1 hypervariable region"
+      },
+      "correct_answer": "C",
+      "explanation": "When papain acts on a molecule of immunoglobulin, the end products are 1 Fc and 2 Fab fragments. Enzymatic digestion of antibody: • Papain - 2 Fab fragments and one Fc fragment • Pepsin - One F(ab')2 fragment and many smaller fragments • Mercaptoethanol - 2 H and 2 L chains. Papain site: Fab → Fc. 47 F(ab')2. Pepsin sites. Fragments →",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp15_img1_1237f6fd.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 16,
+      "question": "Affinity maturation is due to:",
+      "options": {
+        "A": "Isotype switching",
+        "B": "Somatic hypermutation",
+        "C": "mRNA splicing",
+        "D": "VDJ rearrangement"
+      },
+      "correct_answer": "B",
+      "explanation": "Affinity maturation is due to somatic hypermutation. Affinity maturation is the process by which antibodies gain increased affinity, avidity, and anti-pathogen activity. It is a result of somatic hypermutation (SHM) of immunoglobulin genes in B cells, coupled to selection for antigen binding. This process occurs in the germinal centers and proceeds for weeks after acute infection or vaccination, or for many cycles during chronic infection. The resulting antibodies can be highly mutated from their germline-encoded counterparts, with increases of several orders of magnitude in affinity for antigen compared to the corresponding naïve B cell receptors (BCRs). Other options: Option A: Isotype switching, also known as class switch recombination, is a process where the constant region of the antibody heavy chain is changed, leading to a switch in the antibody isotype (e.g., from IgM to IgG). This process is crucial for the functional properties of antibodies but is not directly involved in affinity maturation. Option C: mRNA splicing is a cellular process that involves the removal of introns and the joining of exons to generate mature mRNA. While this process is essential for the production of functional antibodies, it is not specifically associated with affinity maturation. Affinity maturation primarily occurs through somatic hypermutation. Option D: VDJ rearrangement is the process by which the variable regions of immunoglobulin genes are assembled from gene segments (V, D, and J segments). This process contributes to the diversity of antibodies but is distinct from affinity maturation. Affinity maturation occurs after VDJ rearrangement and is driven by somatic hypermutation in the variable regions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 17,
+      "question": "An immunologist is conducting an experiment to understand precipitation reactions. He notes that on adding an excessive amount of antigen to a serum sample containing a small amount of antibodies, the amount of precipitate formed is less, compared to adding a smaller amount of antigen to the same sample. What is this phenomenon called?",
+      "options": {
+        "A": "Pro-zone phenomenon",
+        "B": "Zone of equivalence",
+        "C": "Post-zone phenomenon",
+        "D": "Flocculation phenomenon"
+      },
+      "correct_answer": "C",
+      "explanation": "This phenomenon is called post-zone phenomenon because it has an excessive amount of antigen in the test system, leading to weak or even absent precipitation. Lattice hypothesis explains precipitation reactions. The amount of precipitate formed is greatly influenced by the relative proportions of antigens and antibodies. Prozone phenomenon is caused by excessive antibodies in the test system (weak/absent precipitation - false-negative test). Zone of equivalence - antigen and antibody are in optimum proportions and maximum precipitation occurs. Post-zone phenomenon is due to the presence of excessive antigen in the test system (weaker/absent precipitation). Antigen-antibody complexes. Prozone. Lattice hypothesis. Zone of equivalence. Antigen concentration. Antigen. Post-zone. Antibody. Flocculation: Instead of sedimenting, precipitate remains suspended as a floculus.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp17_img1_dbd56ab1.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 18,
+      "question": "Double diffusion in two dimensions is called",
+      "options": {
+        "A": "Oudin procedure",
+        "B": "Oakley-Fulthrope procedure",
+        "C": "Radial immunodiffusion",
+        "D": "Ouchterlony procedure"
+      },
+      "correct_answer": "D",
+      "explanation": "Double diffusion in two dimensions is called the Ouchterlony procedure. For example, Elek's test for testing toxigenicity in diphtheria bacilli. The images below show the different types of immunodiffusion. Single diffusion in one dimension - Oudin procedure: Antigen, Precipitin band/Zone of equivalence (Ag-Ab reaction), Antibody in agar gel. Double diffusion in one dimension - Oakley-Fulthrope procedure: Plain agar, Antigen, Precipitin band/Zone of equivalence (Ag-Ab reaction), Antibody in agar gel. Single diffusion in two dimensions - Mancini procedure, radioimmunodiffusion: Antigen, Zone of equivalence (Ag-Ab reaction), Antibody in agar gel. Double diffusion in two dimensions/Ouchterlony procedure: Identical (both matching epitopes), Non-identical (no matching epitopes), Antigen A and B, Deviation and fusion of line of equivalence, Anti-A + Anti-B, Antigen A and C, Crossing over of the lines of equivalence, Antigen B, Anti-A + Anti-B, Antigen A and B, Antigen B - present only on one side, Antigen A and C, Antigen both present in (deviation and fusion), Anti-A + Anti-B. Note: Antigen C has no matching antibody (no precipitation), Partial Identity (one matched and one unmatched epitope).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q18_img1_3b9430f6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 19,
+      "question": "A patient presented to the casualty with the following finding. A positive Nagler's reaction confirmed the presence of lecithinase-producing organisms. What is the principle behind this test?",
+      "options": {
+        "A": "Precipitation",
+        "B": "Complement fixation test",
+        "C": "Agglutination",
+        "D": "Neutralisation"
+      },
+      "correct_answer": "D",
+      "explanation": "Nagler's reaction is an example of a neutralization test. It is done for the detection of lecithinase toxin produced by C. perfringens. The alpha-toxin of C. perfringens has phospholipase activity. When grown on a medium containing egg yolk phospholipid, an area of opacity around the bacterial colonies is seen (Nagler's positive). The presence of antitoxin can inhibit this. Other examples of neutralization tests are: Plaque inhibition test - neutralization of bacteriophages, Schick test - neutralization of diphtheria toxin by antitoxin, Anti-streptolysin O test - for beta-hemolytic Streptococci. Nagler reaction (For identification of Clostridium perfringens) Anti-alpha toxin on one half of the plate, No anti-toxin on the other half of the plate, Lines of clostridial inoculation, No opacification, Medium containing lecithin, Opacification due to lecithinase activity of toxin.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q19_img1_8bc7345c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp19_img1_8e981d56.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 20,
+      "question": "A patient presents with a painless ulcer on his penis. A Wasserman test is done and is reactive. What is the principle of this test?",
+      "options": {
+        "A": "Precipitation",
+        "B": "Complement fixation",
+        "C": "Agglutination",
+        "D": "Neutralisation"
+      },
+      "correct_answer": "B",
+      "explanation": "Wassermann's reaction is an example of a complement fixation test. It is a non-specific test for the diagnosis of syphilis. An antigen combines with its (specific) antibody in the presence of complement, and the antigen-antibody complex adsorbs the complement. This reaction is not visible and requires the use of an indicator (sheep erythrocytes and the specific anti-erythrocyte antibody). Reactive serum with antibodies: Antigen binds with antibodies. Complement binds with antigen-antibody complex. Nonreactive serum without antibodies: Unbound antigen, unbound complement. Hemolysin-sensitized RBCs serve as an indicator. Hemolysin-sensitized RBCs serve as an indicator. RBCs settle into pellet. No lysis. RBCs are lysed by unbound complement. Lysis.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp20_img1_6a06dee1.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following activates the classical complement pathway?",
+      "options": {
+        "A": "Immune complexes",
+        "B": "Mannose residues",
+        "C": "Hydrolysis of C3",
+        "D": "Endotoxins"
+      },
+      "correct_answer": "A",
+      "explanation": "The classical pathway of complement is activated by immune complexes or antigen-antibody complexes (antigen bound to IgM or IgG). Lipopolysaccharide of gram-negative bacteria activates the alternative complement pathway. The binding of mannose-binding lectin to mannose residues (on the surfaces of Salmonella, Neisseria, and Listeria) activates the lectin complement pathway. Classical pathway: immune complex activates C1. Complement pathways: MAC, C3, MB Lectin pathway: microbial surfaces, mannose-binding lectin, [C4b2a], [C3bBb] + C3 convertases, C3b, C3a, [C4b2aC3b], [C3bBbC3b] C5 convertases, C5, C5b, C5b-C9, C5a. Alternative pathway: microbial surfaces, C6, C7, C8, C9, membrane attack complex, cell lysis. C3, Factor B, Factor D, properdin, anaphylatoxins.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp21_img1_40ebc059.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 22,
+      "question": "In the alternative complement pathway, which of the following functions as C3 convertase?",
+      "options": {
+        "A": "C4b2b",
+        "B": "C3bB",
+        "C": "C3bBb",
+        "D": "C4b2a"
+      },
+      "correct_answer": "C",
+      "explanation": "C3 convertase in the alternative pathway is C3bBb. In the classical pathway and lectin pathway, the C3 convertase is C4b2a. Classical pathway: immune complex activates C1. Complement pathways: MC3MB. Lectin pathway: microbial surfaces. Alternative pathway: microbial surfaces. Mannose-binding lectin: C3 [C4b2a] [C3bBb] C3 convertases [C4b2aC3b] C5. C3bC3a [C3bBbC3b] C5 convertases. C5bC5b-C9. C5aC6, C7, C8, C9. Membrane attack complex: cell lysis. Factor B, Factor D, Properdin. Anaphylatoxins.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp22_img1_9ee9e922.jpeg",
+      "chapter_heading": "Components of Immune system"
+    },
+    {
+      "q_no": 23,
+      "question": "A 23-year-old girl presents with the finding shown below. She has a history of multiple similar episodes in the past and reports that some of her family members have similar complaints. She has no itching. Which of the following is deficient in this patient?",
+      "options": {
+        "A": "C3b inactivator",
+        "B": "C1, C2, C4",
+        "C": "C1 inhibitor",
+        "D": "C5-C8"
+      },
+      "correct_answer": "C",
+      "explanation": "This girl presents with features of hereditary angioedema, which is due to a deficiency of C1 inhibitor. Hereditary angioedema is an autosomal dominant disorder that is more common than complement deficiency states. A deficiency of C1 inhibitor leads to unregulated activation of kallikrein. This increases the production of vasoactive peptides such as bradykinin. It causes episodes of edema affecting the skin and mucosal surfaces, such as the larynx and the gastrointestinal tract. This may result in life-threatening asphyxia or nausea, vomiting, and diarrhea after minor trauma or emotional stress. Note: C1, C2, C4 deficiency - collagen vascular disorders. C5-C8 deficiency - recurrent bacteremia with Neisseria.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Components of Immune system"
+    }
+  ]
+}

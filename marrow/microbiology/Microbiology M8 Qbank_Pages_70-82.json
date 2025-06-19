@@ -1,0 +1,215 @@
+{
+  "chapter": "Hypersensitivity",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What route of administration of the shocking dose of an antigen is most effective in causing an anaphylactic reaction?",
+      "options": {
+        "A": "Intradermal",
+        "B": "Intravenous",
+        "C": "Subcutaneous",
+        "D": "Oral"
+      },
+      "correct_answer": "B",
+      "explanation": "The intravenous route of administration is most effective in causing an anaphylactic reaction because it allows the antigen to enter the bloodstream directly and rapidly, triggering a severe and immediate immune response.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_78eb3304.jpeg",
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 2,
+      "question": "Which type of reaction is the Schultz-Dale phenomenon?",
+      "options": {
+        "A": "Type II hypersensitivity reaction",
+        "B": "Type I hypersensitivity reaction",
+        "C": "Type III hypersensitivity reaction",
+        "D": "Type IV hypersensitivity reaction"
+      },
+      "correct_answer": "B",
+      "explanation": "The Schultz-Dale phenomenon is a Type I hypersensitivity reaction. It describes in-vitro contraction of smooth muscles that have been exposed to antigens, demonstrating an immediate hypersensitivity reaction in some human and animal tissues. Other Type I hypersensitivity reactions are the Prausnitz-Kustner reaction and the Theobald Smith phenomenon.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 3,
+      "question": "The presence of which of the following antibodies is demonstrated by the Prausnitz-Küstner reaction?",
+      "options": {
+        "A": "IgM",
+        "B": "IgG",
+        "C": "IgE",
+        "D": "IgA"
+      },
+      "correct_answer": "C",
+      "explanation": "The presence and activity of IgE antibodies are demonstrated by the Prausnitz-Küstner (P-K) reaction. In this method, the serum is injected from an allergic person into the skin of a non-allergic individual. Then, a suspected antigen is later injected into the same site. A positive P-K reaction is a wheal and flare reaction seen in the non-allergic individual. This indicates that the suspected antigen is causing hypersensitivity. Because of the danger of transmitting viral hepatitis and AIDS, this test is no longer used.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 4,
+      "question": "A child, upon ingestion of shellfish, developed a tingling sensation in the mouth, swelling of the face, lips, and tongue, and also complained of abdominal pain and dizziness. What type of reaction is this?",
+      "options": {
+        "A": "IgE mediated reaction",
+        "B": "T cell mediated cytotoxic reaction",
+        "C": "IgG mediated reaction",
+        "D": "IgA mediated hypersensitivity reaction"
+      },
+      "correct_answer": "A",
+      "explanation": "This child who developed tingling in the mouth, and swelling of the lips and face after eating shellfish is an example of an IgE mediated type of hypersensitivity reaction. Anaphylaxis is a severe, potentially life-threatening allergic reaction that occurs rapidly and affects the whole body. It is characterized by a sudden release of histamines and other chemicals from the immune system in response to an allergen, such as certain foods, medications, insect stings, or latex. The onset of symptoms can occur within minutes to a few hours after exposure to the allergen. The primary mediators are histamine and serotonin. The secondary mediators are prostaglandins and leukotrienes. Clinically, anaphylaxis can present with a combination of symptoms that typically include: • Respiratory Symptoms: Patients often experience wheezing and respiratory distress due to bronchoconstriction. Other signs may include shortness of breath, coughing, and a feeling of tightness in the chest. • Skin Symptoms: Urticaria (hives) and angioedema (swelling of the skin and mucous membranes) are common. These skin reactions usually develop rapidly, often within minutes to two hours of exposure to the allergen. • Cardiovascular Symptoms: Hypotension (low blood pressure) is a key indicator of anaphylaxis. Patients may also experience tachycardia (increased heart rate) and, in severe cases, shock. Gastrointestinal Symptoms: Abdominal pain, vomiting, diarrhea, and cramps can occur, particularly if the anaphylaxis is triggered by food allergens. Neurological Symptoms: Dizziness, lightheadedness, or loss of consciousness can occur due to the sudden drop in blood pressure and reduced oxygen supply to the brain.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_38b3dfc0.jpeg",
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 5,
+      "question": "Two days after penicillin administration, a patient developed antibodies that resulted in hemolysis. Which type of hypersensitivity reaction is this?",
+      "options": {
+        "A": "Type I",
+        "B": "Type II",
+        "C": "Type III",
+        "D": "Type IV"
+      },
+      "correct_answer": "B",
+      "explanation": "Development of antibodies resulting in hemolysis after penicillin administration is an example of a type II reaction. This is a drug-induced type II hypersensitivity reaction. Penicillin in high doses can result in immune-mediated hemolysis via the hapten mechanism. In this, the drug attaches to the surface of the RBC membrane. Antibodies are produced that are targeted against this combination of penicillin and RBCs. Complement is activated by the attached antibody leading to the removal of red blood cells by the spleen. Opsonization and phagocytosis: Fc receptor, opsonized cell, C3b, C3b receptor, complement activation, phagocyte, phagocytosed cell, phagocytosis.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_252a1fc0.jpeg",
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 6,
+      "question": "A skin transplant was done from a sister to her brother. After a few years, a brother-to-sister skin transplant was done, but rejection occurred. What is this phenomenon known as?",
+      "options": {
+        "A": "Schwartzman reaction",
+        "B": "Theobald Smith phenomenon",
+        "C": "Eichwald-Silmser effect",
+        "D": "Schultz-Dale phenomenon"
+      },
+      "correct_answer": "C",
+      "explanation": "The above scenario describes an Eichwald-Silmser effect, which is a unilateral sex-linked histo-incompatibility. While transplants between same-sex siblings are successful, grafts from female to male are also successful, but an exception is seen when the donor is a male and the recipient is a female. Such grafts are rejected as the grafted male tissue (XY) will have antigens determined by the Y chromosome, which will be absent in the female (XX) recipient.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 7,
+      "question": "A 9-year-old girl is brought with complaints of sensitivity to light and profuse lacrimation. On inspection, the given finding is seen on her upper tarsal conjunctiva. What type of hypersensitivity reaction is this?",
+      "options": {
+        "A": "Type I",
+        "B": "Type II",
+        "C": "Type II and III",
+        "D": "Type IV"
+      },
+      "correct_answer": "A",
+      "explanation": "Spring catarrh or vernal keratoconjunctivitis is a Type I hypersensitivity reaction. It is a bilateral, seasonally recurrent, chronic conjunctivitis due to a Type I hypersensitivity allergic reaction to an external antigen. The antigen reacts with IgE, which stimulates mast cell degranulation, leading to the release of histamine and other mediators of the allergic response. Spring catarrh is one of the several forms of allergic conjunctivitis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q7_img1_a5d949e9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 8,
+      "question": "Which type of hypersensitivity reaction is involved in the hyperacute rejection of renal transplants?",
+      "options": {
+        "A": "Type IV",
+        "B": "Type III",
+        "C": "Type II",
+        "D": "Type I"
+      },
+      "correct_answer": "C",
+      "explanation": "Hyperacute graft rejection is an example of Type II hypersensitivity reaction. It is mediated by preformed antibodies. It is a rare event that occurs in kidney transplantation. Graft rejection Time taken for rejection Immune mechanisms involve Type of hypersensitivity Hyperacute Minutes to hours Preformed antibodies II Acute Weeks to months Cytotoxic T-cell mediated IV Chronic Months to years Chronic DTH mediated and Ab mediated IV",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following statements is not true about anaphylaxis?",
+      "options": {
+        "A": "It is a type I hypersensitivity reaction",
+        "B": "A large amount of histamine is released",
+        "C": "Primary mediators like IL-4, IL-5, and GM-CSF are released",
+        "D": "Mediated through allergen-specific IgE"
+      },
+      "correct_answer": "C",
+      "explanation": "IL-4, IL-5, GM-CSF are secondary mediators and not primary mediators. Anaphylaxis is a type I reaction and is mediated through IgE. Primary mediators are preformed contents of mast cells and basophil granules, such as histamine and serotonin. They cause vasodilation and bronchoconstriction. Secondary mediators are newly formed upon stimulation by mast cells, basophils, and other leukocytes (such as leukotrienes, IL-3, IL-4, IL-5, IL-6; GM-CSF, and prostaglandins), which lead to inflammatory cell infiltrates. Antigen-IgE-IgE-specific Fc receptor degranulation: contents - histamine - proteases. Mast cell mediators signal for degranulation, activation of phospholipase A2, cytokine gene nucleus activation, membrane phospholipids, arachidonic acid, prostaglandin D2. Immediate response: vasodilation, vascular leakage, smooth muscle spasm, platelet-activating factor, leukotrienes B4, C4, D4. Secreted cytokines and chemokines: late phase reaction - leukocyte infiltration, epithelial damage, bronchospasm.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp9_img1_32ccf0ec.jpeg",
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 10,
+      "question": "While studying the patient data on hypersensitivity reactions over the last 2 months, you are tasked with classifying the cases by type. Who among the following patients falls under type II hypersensitivity?",
+      "options": {
+        "A": "A patient with berylliosis",
+        "B": "Eczematous reaction on the hand of an HCW wearing powdered gloves",
+        "C": "A patient with heat intolerance, sinus tachycardia, and proptosis",
+        "D": "Glomerulonephritis in a patient with systemic lupus erythematosus"
+      },
+      "correct_answer": "C",
+      "explanation": "Heat intolerance, sinus tachycardia, and proptosis of the eye suggest a diagnosis of Graves' disease. It is a type II hypersensitivity reaction that results in the binding of anti-thyroid-stimulating hormone (anti-TSH) antibodies to TSH receptors and stimulates the thyroid cells to produce thyroid hormones. Type II hypersensitivity reactions involve the combination of IgG antibodies with the antigenic determinants on the surface of cells, leading to cytotoxic effects. Antibody-mediated cellular dysfunction: Muscle - Antibody inhibits binding of neurotransmitter to receptor; Antibody against TSH receptor - Antibody stimulates receptor without hormone. Other options: Option A: Berylliosis is a type IV hypersensitivity reaction. Option B: Eczematous reaction on the hand of an HCW wearing powdered gloves (contact dermatitis) is a type IV hypersensitivity reaction. Option D: Glomerulonephritis in a patient with SLE (systemic lupus erythematosus) is a type III hypersensitivity reaction.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp10_img1_e67a0bd0.jpeg",
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 11,
+      "question": "A 22-year-old hiker presents with an itchy rash on her wrist. She gives a history of getting brushed with poison ivy on a trek the previous day. What cells are involved in this reaction?",
+      "options": {
+        "A": "T cells",
+        "B": "B cells",
+        "C": "Macrophages",
+        "D": "Langerhans cells"
+      },
+      "correct_answer": "A",
+      "explanation": "The history and image suggest a diagnosis of contact dermatitis, a type IV hypersensitivity reaction mediated by T cells. These are delayed hypersensitivity reactions and are induced by sensitized T cells, which on contact with the specific antigen release cytokines that produce biological effects on leukocytes, macrophages, and tissue cells. Two types of delayed hypersensitivity are: \n      • Tuberculin type \n      • Contact dermatitis type",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q11_img1_1a558599.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 12,
+      "question": "A 45-year-old hypertensive man complains of fever, migraine, loss of appetite, and myalgia. On examination, splinter hemorrhages and palpable purpura are noted. On CT angiography, an aneurysm and stenosis of medium-sized vessels are observed. What is the type of hypersensitivity reaction associated with this disease?",
+      "options": {
+        "A": "Type I hypersensitivity",
+        "B": "Type II hypersensitivity",
+        "C": "Type III hypersensitivity",
+        "D": "Type IV hypersensitivity"
+      },
+      "correct_answer": "C",
+      "explanation": "The most likely diagnosis is polyarteritis nodosa. It is an example of a Type III hypersensitivity reaction. In Type III hypersensitivity, immune complexes may deposit in tissues or blood vessels, and elicit an acute inflammatory reaction by activating the complement system. The inflammatory reaction causes tissue injury. The pathogenesis of systemic immune complex disease can be divided into three phases: formation of immune complexes, deposition of immune complexes, and inflammation and tissue injury. Examples of Type III hypersensitivity reactions include post-streptococcal glomerulonephritis, SLE, polyarteritis nodosa, reactive arthritis, serum sickness, Arthus reaction, Farmer's lung, hypersensitivity pneumonitis, Type II lepra reaction, and Henoch-Schonlein purpura. Antigen in circulation leads to Type III hypersensitivity reactions involving B cells, plasma cells, neutrophils, free antibodies, antigen-antibody complex formation, complement, immune complex formation, immune complex deposition, and immune complex-mediated inflammation and tissue injury, resulting in vasculitis and platelet aggregation, with neutrophil-lysosomal enzymes released.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp12_img1_600f50c8.jpeg",
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 13,
+      "question": "Which type of hypersensitivity reaction is implicated in the autoimmune disease shown below?",
+      "options": {
+        "A": "Type I",
+        "B": "Type II",
+        "C": "Type III",
+        "D": "Type IV"
+      },
+      "correct_answer": "B",
+      "explanation": "The disease shown in the image is myasthenia gravis. It is an example of Type II hypersensitivity. Type II hypersensitivity reactions are mediated by antibodies directed towards self-antigens - cell surface or extracellular matrix. Antibody-mediated cellular dysfunction. Muscle: Antibody inhibits binding of neurotransmitter to receptor. Antibody against TSH receptor. Antibody to ACh receptor. Thyroid: Nerve ending. ACh receptor. Epithelial cell. Acetylcholine (ACh). TSH receptor. Thyroid hormones. Antibody stimulates receptor without hormone.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q13_img1_ebe2de09.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp13_img1_8e21f381.jpeg",
+      "chapter_heading": "Hypersensitivity"
+    },
+    {
+      "q_no": 14,
+      "question": "A 24-year-old patient comes with recurrent episodes of sneezing, rhinorrhea, and watering of the eyes. She says she has these symptoms throughout the year. Which of the following immunoglobulins will be elevated in her case?",
+      "options": {
+        "A": "IgA",
+        "B": "IgM",
+        "C": "IgE",
+        "D": "IgG"
+      },
+      "correct_answer": "C",
+      "explanation": "The clinical vignette describes a case of chronic allergic rhinitis. IgE is elevated in these cases. Perennial allergic rhinitis, a type of chronic rhinitis, is a year-round problem and is often caused by indoor allergens such as dust and animal dander, in addition to pollens that may exist at the time. Symptoms tend to occur regardless of the time of the year.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hypersensitivity"
+    }
+  ]
+}

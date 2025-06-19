@@ -1,0 +1,230 @@
+{
+  "chapter": "General Properties of Viruses",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the protein coat covering the nucleic acid in a virion known as?",
+      "options": {
+        "A": "Capsid",
+        "B": "Peplomer",
+        "C": "Envelope",
+        "D": "Tegument"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_1bcbcffb.jpeg",
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following viruses has a single-stranded DNA?",
+      "options": {
+        "A": "Poxvirus",
+        "B": "Parvovirus",
+        "C": "Picornavirus",
+        "D": "Reovirus"
+      },
+      "correct_answer": "",
+      "explanation": "Parvovirus has single-stranded DNA.All DNA viruses are double-stranded, except parvovirus. (only single-stranded DNA virus)All RNA viruses have only one copy of single-stranded RNA except:• Reovirus- double-stranded RNA virus.•Retroviruses- Two copies of single-stranded RNA.Parvovirus is the smallest DNA virus that infect human beings.Largest virusDNAPoxviruRNAFilovirusSSmallest virParvovirPicornavirususus",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is false regarding enveloped viruses?",
+      "options": {
+        "A": "Ether sensitive",
+        "B": "Heat labile",
+        "C": "Susceptible to bile salts",
+        "D": "Lipid is viral coded"
+      },
+      "correct_answer": "B",
+      "explanation": "The lipid of enveloped viruses is largely of host-cell origin, whereas protein is virus coded.The following are the differences between enveloped and non-enveloped viruses.Enveloped virusesEther sensitiveHeat labilePleomorphicNon-enveloped virusesEther resistantHeat stableNon-pleomorphic",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is an enveloped virus?",
+      "options": {
+        "A": "Reovirus",
+        "B": "Hepatitis A virus",
+        "C": "Hepatitis C virus336",
+        "D": "Adenovirus"
+      },
+      "correct_answer": "C",
+      "explanation": "Susceptible to bile saltsResistant to bile saltsHepatitis C virus is an enveloped virus.It has a linear, single-stranded RNA genome, enclosed within a core and surrounded by anenvelope.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient in the ICU requires fresh frozen plasma (FFP). The FFP that arrives from the bloodbank is labeled as Solvent/Detergent plasma, which destroys lipid-enveloped viruses. Whichof the following viral infections is the patient still susceptible to?",
+      "options": {
+        "A": "Human immunodeficiency virus",
+        "B": "Hepatitis A virus",
+        "C": "Hepatitis B virus",
+        "D": "Hepatitis C virus"
+      },
+      "correct_answer": "",
+      "explanation": "The patient is still susceptible to hepatitis A infection. It is a non-enveloped virus, and hence it'snot affected by SD plasma.343Solvent/Detergent plasma (SD plasma) is a form of blood plasma made from plasma collectedfrom many people which is then processed with solvents in an attempt to remove viruses.Only the viruses with an envelope are susceptible to SD plasma destruction. Hepatitis B, C, andHuman immunodeficiency virus (HIV) are enveloped.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 6,
+      "question": "In which of the following viruses is a segmented genome found?",
+      "options": {
+        "A": "Filovirus",
+        "B": "Orthomyxovirus",
+        "C": "Retrovirus",
+        "D": "Poliovirus"
+      },
+      "correct_answer": "B",
+      "explanation": "Segmented genome is found in orthomyxovirus.Segmentation of viral genomes allows for the exchange of intact genes between related virusesduring coinfection. This recombination is known as reassortment. There is a rearrangement andjoining of nucleic acid sequences to form a unique chimeric genome. The new genome is usuallyless fit than the parent viruses, but occasionally, it results in an evolved virus with increasedfitness.Examples of segmented viruses (ARBO):• Arenavirus (2 segments)• Rotavirus (11 segments)•Bunyavirus (3 segments)•Orthomyxovirus (8 segments)The image below shows the segmented genome seen in the influenza virus (Orthomyxoviridae)RNA polymerase(PB1, PB2, PA)Non-structuralprotein (NS1)-Nuclearexportprotein(NS2/NEP)Structure of Influenza virusNucleoprotein (NP).00000Viralribonucleoprotein(VRNPs)All GIFfoodpoMatrix protein (M1)OMARROWHemagglutinin (HA)Neuraminidase(NA)Matrixprotein/lonchannel (M2)Lipid bilayer",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp6_img1_3e350679.jpeg",
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 7,
+      "question": "A 6-year-old with HIV is brought with complaints of the rash shown below. Where does DNAreplication occur in the viruses falling in the same family as the microbe causing this rash?337",
+      "options": {
+        "A": "Host cytoplasm",
+        "B": "Host nucleus",
+        "C": "Viral cytoplasm",
+        "D": "Viral nucleus"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows pink, fleshy umbilicated papules suggesting molluscum contagiosum. It iscaused by the Molluscum contagiosum virus belonging to Poxviridae. DNA replication in theseviruses occurs in the host cytoplasm.344DNA virusesRNA virusesReplicatiNucleusCytoplasmonExceptionPoxvirus- cytoplas Orthomyxovirus, retrovirus-mnucleus",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q7_img1_a29a0462.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 8,
+      "question": "An epidemic involving an ss-RNA virus with 3'-5' RNA has broken out in West Africa. Whichof the following enzymes do such viruses use in genome replication?",
+      "options": {
+        "A": "DNA-dependent RNA polymerase",
+        "B": "RNA replicase",
+        "C": "Reverse transcriptase",
+        "D": "Taq polymerase"
+      },
+      "correct_answer": "B",
+      "explanation": "An ss-RNA with a 3'-5' strand is a negative-stranded RNA. These viruses use RNA replicaseor RNA-dependent RNA polymerase during genome replication.In positive-stranded RNA viruses, the viral RNA itself acts as mRNA.In negative-stranded RNA viruses, the polarity is opposite that of mRNA. So the genome requiresRNA-dependent RNA polymerase to synthesize their mRNA.Examples of negative-stranded RNA viruses (Mnemonic: Always bring da polymerase or fail toreplicate):• Arenaviruses•• Bunyaviruses• Deltaviruses• Paramyxoviruses• Orthomyxoviruses• Filoviruses• Rhabdoviruses",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 9,
+      "question": "The virus shown below was suspected to be the cause of a deadly hemorrhagic fever outbreakin Guinea in March 2021. How is it transmitted?338",
+      "options": {
+        "A": "Direct contact with infected body fluids",
+        "B": "Mosquito-borne",
+        "C": "Food-borne",
+        "D": "Air-borne"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shown above is the Ebola virus. It is spread by direct contact with infected body fluids.Ebola is a filamentous virus with a single-stranded RNA genome.The shapes of some viruses are shown below.345GlycoproteinMMatrix proteinEnvelope(membrane)Rabies virus- Bullet-shapedOMARROWRibonucleoproteinAdenovirus- Icosahedral-shapedRotavirus: Wheel-shaped virusOMARROW346",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q9_img1_7e97022a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp9_img1_fe490a4e.jpeg",
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 10,
+      "question": "An elderly diabetic man presents with a complaints of fever, cough and difficulty in breathingfor the past 3 days. He gives a history of international travel 10 days back. Laboratory reportsshow positive for COVID-19. What is the symmetry of the causative virus?",
+      "options": {
+        "A": "Naked helical symmetry",
+        "B": "Icosahedral symmetry",
+        "C": "Enveloped helical symmetry",
+        "D": "Complex symmetry"
+      },
+      "correct_answer": "",
+      "explanation": "The patient is suffering from coronavirus disease 2019 (COVID-19). The coronavirus implicatedshows an enveloped helical symmetry.Properties of Coronaviridae family:••They are enveloped RNA viruses.They contain a genome of unsegmented single-stranded and positive-sense RNA•They have helical nucleocapsid",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following statements is false regarding symmetry of viruses?",
+      "options": {
+        "A": "Viral symmetry is studied by heavy metals stains.",
+        "B": "The most efficient closed shell sub-unit arrangement is icosahedral.",
+        "C": "Icosahedral symmetry involves 12 faces and 20 vertices.",
+        "D": "It is not possible for 'empty' helical particles to form339"
+      },
+      "correct_answer": "",
+      "explanation": "Icosahedron has 20 faces (each an equilateral triangle) and 12 vertices.Option A: Study of viral symmetry by standard electron microscopy requires the use of heavymetal stains (e.g., potassium phosphotungstate) to emphasize surface structure. It is a form ofnegative staining.Option B: Symmetry observed with animal viruses is of the icosahedral pattern. It is the mostefficient arrangement for subunits in a closed shell.Option D: A regular, periodic interaction between capsid protein and nucleic acid is required tomaintain a stable helical symmetry. Therefore, it is not possible for empty helical particles toform.Given below is Icosahedron:347",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp11_img1_8d2b57db.png",
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following viruses shows an enveloped icosahedral symmetry?",
+      "options": {
+        "A": "Rubella virus",
+        "B": "Influenza virus",
+        "C": "Measles virus",
+        "D": "Poxvirus"
+      },
+      "correct_answer": "A",
+      "explanation": "Enveloped icosahedral symmetry is seen in the rubella virus.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q12_img1_9ac7d32c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp12_img1_ca0fc11f.jpeg",
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 13,
+      "question": "An immunologist is working on growing the influenza virus for vaccine production at theNational Institute of Virology, Pune. Which of the following sites is used for the givenpurpose in a fertilized egg?",
+      "options": {
+        "A": "4",
+        "B": "1",
+        "C": "2",
+        "D": "3OMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "Allantoic cavity inoculation (1) is used for the growth and replication of the influenza virus forvaccine production.Embryonated eggs are used for the cultivation of viruses.AlbuminAllantoic cavityYolk sacChorioallantoicmembraneMAllantoicinoculationEmbryonated EggShellAmniotic cavityShellmembraneAir sacYolk sacinoculationAmnioticinoculationInfluenzavirusHerpessimplex virusInfluenzavirusMumpsvirusMumpsvinusNewcastledisease virusAvianadnovinusMARROW348ChorioallantoicmembraneinoculationHerpessimplex virusPoxvirus↓Roussarcoma vinusNote: Both allantoic and amniotic cavity inoculation are recommended for initial isolation of theinfluenza virus. However, it is simpler to inoculate the virus into the allantoic cavity, as comparedto the amniotic cavity, thus allantoic inoculation is the best answer.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q13_img1_007ee028.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp13_img1_a43814f9.jpeg",
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 14,
+      "question": "Quantitative infectivity assay of viruses is done by4340",
+      "options": {
+        "A": "Egg inoculation",
+        "B": "Hemadsorption",
+        "C": "Plaque assay",
+        "D": "Electron microscopy"
+      },
+      "correct_answer": "C",
+      "explanation": "Quantitative infectivity assay of viruses is done by plaque assay.Assay of infectivity of virusesPhysical methodsCan estimate total viral countCannot differentiate betweeninfectious and noninfectiousvirus particlesExamples:Real-time PCRAntigen detection assayElectronmicroscopyThe image below shows a plaque assay.Biological methodsCan estimate total viral countCan detect infectious virusExamples:Qualitative- endpoint biological assayQuantitative- plaque and pock assayThe image below shows pock assay.349",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp14_img1_0d7dd174.jpeg",
+      "chapter_heading": "General Properties of Viruses"
+    },
+    {
+      "q_no": 15,
+      "question": "Which virus causes the cytopathic effect of syncytium formation?",
+      "options": {
+        "A": "SV 40",
+        "B": "Enteroviruses",
+        "C": "Measles virus",
+        "D": "Adeno virus"
+      },
+      "correct_answer": "C",
+      "explanation": "The cytopathic effect of syncytium formation is caused by the measles virus.350",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Properties of Viruses"
+    }
+  ]
+}

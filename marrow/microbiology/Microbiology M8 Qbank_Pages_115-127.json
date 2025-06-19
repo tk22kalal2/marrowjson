@@ -1,0 +1,215 @@
+{
+  "chapter": "Staphylococci",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A child injures his knee while playing. A few days later, the wound on his knee shows signs of inflammation. The wound is cultured and its Gram-stained smear is given below. Further testing shows that the cultured organism is coagulase-positive. Identify the organism.",
+      "options": {
+        "A": "Streptococcus pyogenes",
+        "B": "Staphylococcus aureus",
+        "C": "Staphylococcus epidermidis",
+        "D": "Staphylococcus saprophyticus"
+      },
+      "correct_answer": "B",
+      "explanation": "The organism is coagulase-positive, which is a characteristic of Staphylococcus aureus.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q1_img1_5d707630.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_648b5411.jpeg",
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 2,
+      "question": "The specimen obtained by performing incision and drainage of a breast abscess was sent for culture on nutrient agar. An image of the culture plate is given below. Microscopy of the isolated organism revealed gram-positive cocci arranged in clusters. Which of the following is a false statement regarding this organism?",
+      "options": {
+        "A": "Pigment production occurs optimally at 35°C.",
+        "B": "Golden yellow pigmentation is due to β-carotene",
+        "C": "Pigment production is enhanced by adding milk to culture media",
+        "D": "Confluent growth presents a characteristic 'oil-paint appearance'"
+      },
+      "correct_answer": "A",
+      "explanation": "Gram-positive cocci arranged in clusters that produce golden-yellow pigment on nutrient agar is suggestive of Staphylococcus aureus. The pigment production occurs optimally at 22°C. Staphylococcus aureus is a Gram-positive coccus. On nutrient agar, its colonies are large (2-4 mm in diameter), convex, smooth, shiny, opaque and easily emulsifiable. The colonies appear golden yellow due to the presence of staphyloxanthin (carotenoid). Pigment production occurs optimally at 22°C and in aerobic conditions. It is enhanced when 1% glycerol or milk is incorporated in the medium. On a nutrient agar slope, there is confluent growth of Staphylococcus, which appears as a characteristic oil-paint appearance.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q2_img1_84ffa386.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 3,
+      "question": "Which factor forms the basis of the co-agglutination reaction shown by Staphylococcus aureus?",
+      "options": {
+        "A": "Protein A",
+        "B": "Clumping factor",
+        "C": "Beta hemolysin",
+        "D": "Coagulase"
+      },
+      "correct_answer": "A",
+      "explanation": "Protein A forms the basis of the co-agglutination reaction shown by Staphylococcus aureus. Protein A-bearing staphylococci are coated with IgG antiserum. Protein A binds to the Fc terminal of IgG, leaving the Fab terminal free to combine with its specific antigen. The corresponding antigen is then added to this mixture, which causes agglutination of the bacteria. This is known as the co-agglutination reaction. It is used for streptococcal, gonococcal, or hemophilus typing.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp3_img1_da7500af.jpeg",
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following toxins exhibits hot-cold phenomenon?",
+      "options": {
+        "A": "α-hemolysin",
+        "B": "β-hemolysin",
+        "C": "γ-hemolysin",
+        "D": "δ-hemolysin"
+      },
+      "correct_answer": "B",
+      "explanation": "β-hemolysin exhibits a hot-cold phenomenon. β-hemolysin is a sphingomyelinase that is hemolytic only for sheep cells but not human cells. It initiates hemolysis at 37°C but the hemolysis is evident only after chilling. This is called the hot-cold phenomenon.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following pairs of toxins produced by Staphylococcus aureus are called synergohymenotropic toxins?",
+      "options": {
+        "A": "and β toxins",
+        "B": "β and Panton-Valentine toxins",
+        "C": "γ and Panton-Valentine toxins",
+        "D": "β and δ toxins"
+      },
+      "correct_answer": "C",
+      "explanation": "γ-toxin and Panton-Valentine-toxin (leucocidin) of Staphylococcus aureus are called synergohymenotropic toxins. Synergohymenotropic (synergo - working together, hymenotropic - forming pores) toxins are a family of bicomponent toxins that act through the synergistic activity of 2 non-associated secretory proteins - class F and class S proteins. Gamma hemolysin has two components necessary for its hemolytic action. It is encoded by three genes: HlgA and HlgC (belonging to class S) and HlgB (belonging to class F), resulting in 2 pairs of class S and F components - HlgA and HlgB, or HlgC and HlgB. Panton-Valentine Leucocidin is composed of two components - S and F - encoded by two contiguous and cotranscribed genes, lukS-PV and lukF-PV. It is associated with the majority of community-associated methicillin-resistant Staphylococcus aureus (CA-MRSA).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following staphylococcal infections is not toxin mediated?",
+      "options": {
+        "A": "Food poisoning",
+        "B": "Toxic shock syndrome",
+        "C": "Septicemia",
+        "D": "Staphylococcal scalded skin syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "Staphylococcal septicemia is not toxin mediated. Septicemia occurs due to the invasion of bacterial organisms into the bloodstream. This causes an inflammatory response to bacterial products, leading to various manifestations seen in sepsis - fever, hypotension, alkalosis. Toxin-mediated staphylococcal infections include food poisoning caused by enterotoxin, toxic shock syndrome caused by toxic shock syndrome toxin, and staphylococcal scalded skin syndrome caused by exfoliative/epidermolytic toxin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 7,
+      "question": "A college student with a history of intravenous drug abuse presents with a fever for the last 3 weeks. Echocardiography is performed, which reveals large friable vegetations on the cusps of the tricuspid valve. Which of the following organisms is the most common cause for this condition?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Staphylococcus epidermidis",
+        "C": "Streptococcus gallolyticus",
+        "D": "Streptococcus viridans"
+      },
+      "correct_answer": "A",
+      "explanation": "Fever with vegetations on the tricuspid valve points to a diagnosis of right-sided infective endocarditis. Staphylococcus aureus is the most common cause of right-sided infective endocarditis among intravenous drug abusers. Infective endocarditis is the microbial infection of heart valves or endocardium, leading to the formation of vegetations (thrombotic debris and microbial organisms).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp7_img1_5696e369.jpeg",
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 8,
+      "question": "By which of the following mechanisms is penicillin resistance commonly transferred to Staphylococcus aureus?",
+      "options": {
+        "A": "Change in PBP",
+        "B": "Conjugation",
+        "C": "Transduction",
+        "D": "Production of β-lactamase"
+      },
+      "correct_answer": "C",
+      "explanation": "Infective endocarditis: large irregular masses on the valve cusps. Penicillin resistance in Staphylococcus aureus is determined by plasmids that are most commonly transferred by transduction. Penicillin resistance in Staphylococci most commonly occurs due to bacterial production of β-lactamase, which inactivates penicillins by splitting their β-lactam ring. These enzymes are inducible and are plasmid-mediated. They confer resistance to penicillin G, ampicillin, piperacillin, etc. The genetic transfer of antibiotic resistance can occur in the following ways: Transformation: after death or cell lysis, some bacteria release their DNA into the environment. Other bacteria, generally of the same species, can come into contact with these free DNA fragments, take them up, and incorporate them into their DNA by recombination. Transduction: this method involves the transfer of DNA, episome, or plasmid from one bacterium to another with the use of a bacteriophage. Conjugation: this mechanism requires the presence of a special plasmid called the F plasmid that codes for the sex pilus. It is the most common method of transfer of antibiotic resistance in most other bacteria. Note: change in penicillin-binding proteins (PBPs) and production of β-lactamases are modes of penicillin resistance seen in S. aureus, but the question asks for methods of transfer of drug resistance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 9,
+      "question": "Contact-based isolation is employed for which of the following diseases?",
+      "options": {
+        "A": "Diphtheria",
+        "B": "MRSA",
+        "C": "Mumps",
+        "D": "Asthma"
+      },
+      "correct_answer": "B",
+      "explanation": "Contact-based isolation is employed for patients who are infected with MRSA (methicillin-resistant Staphylococcus aureus). The three categories of transmission-based precautions include: • Contact-based isolation is used for infections, diseases, or germs that are spread by touching the patient or items in the room. Examples include MRSA, vancomycin-resistant enterococci (VRE), diarrheal illnesses, open wounds, and respiratory syncytial virus (RSV). • Droplet-based isolation is employed for diphtheria and mumps. • Airborne precautions are required to protect against conditions like measles, severe acute respiratory syndrome (SARS), varicella (chickenpox), and Mycobacterium tuberculosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 10,
+      "question": "An outbreak of methicillin-resistant Staphylococcus aureus infection was reported in the surgical ward of a hospital. Which of the following precautionary measures would you recommend to best curb its spread?",
+      "options": {
+        "A": "Administration of vancomycin empirically to all the patients",
+        "B": "Frequent fumigation of wards",
+        "C": "Wearing masks before performing invasive procedures",
+        "D": "Washing of hands before & after treating the patients"
+      },
+      "correct_answer": "D",
+      "explanation": "Among the given options, washing hands before and after treating the patients is the most effective way to curb the spread of methicillin-resistant Staphylococcus aureus (MRSA) infections. In addition to this, personnel with active S. aureus lesions and carriers should be excluded from areas having patients at highest risk for severe staphylococcal infections like newborn nurseries, intensive care units, operating rooms, and cancer chemotherapy wards. In such individuals, the application of topical antiseptics such as mupirocin to nasal or perineal carriage sites may diminish the shedding of MRSA.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 11,
+      "question": "A 32-year-old man presented with multiple tender, erythematous fluctuant skin lesions as shown in the image. You suspect it to be a case of botryomycosis. Which of the following is the most likely organism implicated in this condition?",
+      "options": {
+        "A": "Madurella mycetomatis",
+        "B": "Actinomyces israelii",
+        "C": "Staphylococcus aureus",
+        "D": "Staphylococcus lugdunensis"
+      },
+      "correct_answer": "C",
+      "explanation": "The most common cause of botryomycosis is Staphylococcus aureus. Botryomycosis is a rare chronic bacterial granulomatous disease that usually involves the skin and rarely viscera. It is most commonly caused by Staphylococcus aureus but can also be caused by Pseudomonas, Escherichia coli, Proteus, and Streptococci. Patients present with chronic, suppurative, granulomatous skin lesions like nodules, abscesses, and sinuses. Actinomycetoma, eumycetoma, and botryomycosis are difficult to distinguish clinically but are readily distinguished with microbiologic testing or biopsy. Granules of botryomycosis consist of loose masses of cocci. Organisms can also be seen in wound discharge or histologic specimens.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 12,
+      "question": "A 14-year-old boy presents with a history of vomiting within 3 hours of consumption of food at a party. Which of the following organisms is most likely to cause these symptoms?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Clostridium botulinum",
+        "C": "Clostridium perfringens",
+        "D": "Salmonella typhi"
+      },
+      "correct_answer": "A",
+      "explanation": "Vomiting 2 hours after the consumption of food is likely food poisoning by Staphylococcus aureus. Staphylococcus aureus can grow in carbohydrate and protein food sources, producing enterotoxins. There are 15 types, all of which are superantigens. They are preformed toxins that are relatively heat stable. They stimulate the vagus nerve, vomiting centre of the brain and intestinal peristaltic activity. Type A enterotoxin is responsible for most cases of food poisoning. The common sources of infection are the foods that are not cooked after handling. These include sliced meats, puddings, pastries, and sandwiches. Ingestion of such contaminated food causes food poisoning within 30 minutes to 6 hours after consumption. Patients present with nausea, vomiting, stomach cramps, and diarrhoea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 13,
+      "question": "An 18-year-old girl presented with burning micturition and fever with chills for three days. Urine culture grew bacteria which were coagulase-negative and novobiocin-resistant. Which of the following is the most likely organism implicated here?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Staphylococcus hominis",
+        "C": "Staphylococcus epidermidis",
+        "D": "Staphylococcus saprophyticus"
+      },
+      "correct_answer": "D",
+      "explanation": "Burning micturition and fever with chills in a young woman points to a diagnosis of urinary tract infection (UTI). The most likely organism implicated here is Staphylococcus saprophyticus, as it is coagulase-negative and novobiocin-resistant. Staphylococcus saprophyticus is a part of the normal flora of human skin and the periurethral area and thus is a common cause of urinary tract infection (UTI) in young women. Staphylococci are Gram-positive cocci. Coagulase/protein A+ is S. aureus. The catalase test is positive for S. epidermidis, S. hemolyticus, S. hominis, S. lugdunensis, and S. schleiferi. Streptococci are coagulase-negative staphylococci. Novobiocin-susceptible staphylococci include S. epidermidis and S. hominis. Staphylococcus saprophyticus and S. xylosus are novobiocin-resistant. Option A: Staphylococcus aureus is a coagulase-positive bacterium. It is an uncommon cause of UTI. Options B and C: Staphylococcus hominis and Staphylococcus epidermidis are coagulase-negative and novobiocin-sensitive. They are usually considered contaminants if found on urine culture, but they may also cause UTIs in children with underlying urinary tract abnormalities.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp13_img1_4d9ab7bd.jpeg",
+      "chapter_heading": "Staphylococci"
+    },
+    {
+      "q_no": 14,
+      "question": "Choose the incorrect statement regarding Micrococci.",
+      "options": {
+        "A": "It is modified oxidase positive.",
+        "B": "It is catalase positive.",
+        "C": "It is rarely associated with disease.",
+        "D": "It is arranged in chains."
+      },
+      "correct_answer": "D",
+      "explanation": "Micrococci are arranged in pairs, tetrads or clusters of eight. Micrococci are Gram-positive cocci that are often mistaken for S. aureus. However, they are larger in size and mostly occur in pairs, tetrads or clusters of eight. They form smaller colonies in culture in comparison to S. aureus. Hugh-Leifson oxidation-fermentation test can be used to differentiate between micrococci (oxidative pattern) and staphylococci (fermentative pattern). Micrococci are catalase-positive and modified oxidase-positive. They are ordinarily non-pathogenic but can rarely cause infections in an immunocompromised host. They are part of normal bacterial flora in the body.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Staphylococci"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "chapter": "Immune Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 6-month-old child has a history of recurrent skin and respiratory tract infections. Investigations are carried out and a disorder of phagocytosis is suspected. Which of the following will not be a differential diagnosis in this case?",
+      "options": {
+        "A": "DiGeorge syndrome",
+        "B": "Leukocyte adhesion deficiency",
+        "C": "Chediak-Higashi syndrome",
+        "D": "Chronic granulomatous disease"
+      },
+      "correct_answer": "A",
+      "explanation": "DiGeorge syndrome is a disorder of T-cell deficiency, not a disorder of phagocytosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "A 1-year-old boy presents with meningococcal meningitis. He has a history of recurrent bacterial chest and ear infections. Family history reveals that he has a male cousin (maternal side) who died in infancy from infection. The physician suspects X-linked agammaglobulinemia. Which of the following is false regarding his condition?",
+      "options": {
+        "A": "It is caused by a mutation of the BTK gene",
+        "B": "Both humoral and cell-mediated immunity are affected",
+        "C": "All classes of immunoglobulin levels are reduced",
+        "D": "Lymph node biopsy shows depletion of follicles"
+      },
+      "correct_answer": "B",
+      "explanation": "X-linked or Bruton's agammaglobulinemia is primarily a disease of humoral immunity. Cell-mediated immunity is not affected. It is an inherited immunodeficiency disease caused by mutations in the gene coding for Bruton tyrosine kinase (BTK). B cells do not differentiate and mature. They are arrested in the pre-B cell stage. There are extremely low IgG levels (below 100 mg/dL) and an absence of other immunoglobulin classes. The tonsils and lymph nodes are usually atrophic. Lymph node biopsy reveals depletion of cells of B cell-dependent areas (follicles). Babies born with this disorder have virtually no peripheral B cells (<1%) and suffer from recurrent bacterial infections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "An immunologist orders a nitroblue tetrazolium test on a child suspected to have a primary immunodeficiency disease. What condition is she screening the child for?",
+      "options": {
+        "A": "Tuftsin deficiency",
+        "B": "Wiskott-Aldrich syndrome",
+        "C": "Chronic granulomatous disease",
+        "D": "Chediak-Higashi syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "The Nitroblue Tetrazolium Test (NBT) is used as a screening test for chronic granulomatous disease (CGD) by assessing the reactive oxygen species (ROS) production in phagocytes. This principle relies on the color change of nitroblue tetrazolium, which transforms from colorless/yellow to deep blue when it encounters ROS. A higher nitroblue test score indicates that the cell is more efficient in producing ROS. In chronic granulomatous disease, there is an NADPH oxidase defect. Hence, the phagocyte cannot produce reactive oxygen species or radicals required for bacterial killing, which results in recurrent infections. Here, the leukocytes fail to reduce nitroblue tetrazolium during phagocytosis. Hence, a negative test (NBT remains colorless to yellow) is seen in CGD. A positive test result means neutrophils turn blue. A negative test means nitroblue tetrazolium remains colorless/yellow.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp3_img1_5c78d88a.jpeg",
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "An 83A 1-year-old boy is brought with a history of recurrent pneumonia. He also has eczema and a history of prolonged bleeding after circumcision. Peripheral smear shows thrombocytopenia with small platelets. Which of the following is most likely to be deficient?",
+      "options": {
+        "A": "IgM",
+        "B": "IgG",
+        "C": "IgA",
+        "D": "IgE"
+      },
+      "correct_answer": "A",
+      "explanation": "The history here is highly suggestive of Wiskott-Aldrich syndrome (WAS), a condition characterized by decreased IgM levels. Wiskott-Aldrich syndrome (WAS) is an X-linked recessive immunodeficiency disorder. It is caused by mutations in the Wiskott-Aldrich syndrome protein (WASP) that primarily affects the T lymphocytes. Normally, WASp regulates the actin cytoskeleton and thus helps in cell adhesion, migration, and the formation of synapses between antigen-presenting and target cells. In WAS, there is a progressive loss of T lymphocytes in the peripheral blood resulting in defects in cellular immunity. The clinical features of WAS are a triad of recurrent bacterial infections, eczema, and bleeding due to thrombocytopenia (with small platelets). Diagnosis is based on intracellular immunofluorescence analysis of WAS protein (WASP) expression in blood cells. IgM levels in the serum are low, but levels of IgG are usually normal. IgA and IgE levels are normal or elevated. Reduced-sized platelet is a typical feature of WAS.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_0152a5c6.jpeg",
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "An 8-year-old boy was brought to the pediatric OPD with multiple cold abscess lesions as shown below on his face, chest, and back. The child has a history of recurrent respiratory infections. On examination, he has atopic excoriations over the skin folds. What is the most probable diagnosis?",
+      "options": {
+        "A": "Hyper IgM syndrome",
+        "B": "Wiscott Aldrich syndrome",
+        "C": "Hyper IgE syndrome",
+        "D": "X-linked agammaglobulinemia"
+      },
+      "correct_answer": "C",
+      "explanation": "A child with multiple abscesses (as shown in the image above) with a history of atopy and recurrent respiratory infections suggests immunodeficiency, and the most probable diagnosis is Hyper IgE syndrome. The hyper-IgE syndromes are rare primary immunodeficiency syndromes characterized by recurrent severe staphylococcal abscesses of the skin, lungs, and other sites, eczema, eosinophilia, and marked elevation of serum IgE levels. They occur in 2 forms: \n   • Autosomal dominant - involves mutations in the gene encoding STAT-3 (also known as Job syndrome) \n   • Autosomal recessive - involves mutations in DOCK8. \n   In Job syndrome, mutation of the STAT3 gene leads to IgE overproduction without modulation. \n   Loss of modulation is due to the absence of anti-inflammatory cytokines IL-6, IL-10, and IFN-gamma. \n   Lack of IL-6 leads to deficiency of CD4 + Th17 cells, making them susceptible to various infections. \n   It usually presents as a triad of atopic dermatitis, recurrent skin staphylococcal infections, and recurrent pulmonary infections that occur early in childhood. \n   The eczematoid rash affects the scalp and face, gets superinfected with Staphylococcus aureus and forms cold abscesses. \n   Candida infections are common. \n   Recurrent staphylococcal pneumonia with pneumatocoeles is also commonly seen. \n   Other non-immunological features are: \n   • Dysmorphic facial features that appear in early adolescence and are absent in the autosomal recessive form \n   • Craniosynostosis \n   • Arnold-Chiari type 1 \n   • Hyperextensible joints \n   • Scoliosis \n   • Pathological fractures \n   • Retention of primary teeth \n   • Vascular complications \n   • Ocular complications \n   Diagnosis is based on measurements of serum IgE levels >2000 U/mL where IgA, IgG, and IgM concentrations are generally normal, in adjunct with the clinical features seen in Job syndrome. \n   It is associated with peripheral blood eosinophilia. \n   The treatment primarily focuses on preventing infections through the use of antimicrobials, including antibiotics and antifungals, along with immunoglobulin replacement therapy.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q5_img1_447faa98.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is a combined immunodeficiency disorder associated with both B-cell and T-cell defects?",
+      "options": {
+        "A": "Louis-Bar syndrome",
+        "B": "DiGeorge syndrome",
+        "C": "Chediak-Higashi syndrome",
+        "D": "Tuftsin deficiency"
+      },
+      "correct_answer": "B",
+      "explanation": "Louis-Bar syndrome or ataxia-telangiectasia is a combined immunodeficiency disorder. Ataxia-telangiectasia is a syndrome complex that comprises neurologic, immunologic, endocrinologic, and cutaneous disorders. The gene involved in this condition is the mutation in the ATM gene mapped to the long arm of chromosome 11 (11q22-23). The mode of inheritance is autosomal recessive. There is defective DNA repair and increased sensitivity to ionizing radiation. Clinical features: • Progressive cerebellar ataxia • Oculocutaneous telangiectasias • Chronic sinopulmonary disease • High incidence of malignancy - adenocarcinomas and lymphoreticular tumors (lymphoma, leukemia, and Hodgkin's disease) • Humoral and cellular immunodeficiency • Ovarian dysgenesis and chromosomal abnormalities • Hypoplastic thymus • Ataxia and choreoathetoid movements start in infancy. The onset of telangiectasia is around 3 to 6 years and involves the face, conjunctiva, and other parts of the body. By 12 years of age, affected children are usually confined to wheelchairs due to progressive ataxia. Death occurs due to sinopulmonary infection in early life or due to malignancy in the second or third decade. They lack IgA and IgE. Cell-mediated immunity is also defective. Other options: Option B: DiGeorge syndrome is a cellular immunodeficiency disorder associated with T-cell deficiency. Options C and D: Chediak-Higashi syndrome and tuftsin deficiency are disorders of phagocytosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "A 2-year-old boy presents with reports showing fungal pneumonia; the causative organism is shown below. Parents give a history of recurrent bacterial infections. Laboratory analysis shows markedly elevated IgM and low levels of IgG. Which of the following is the most likely cause of his illness?",
+      "options": {
+        "A": "Defective cytokine signaling in T-cell precursors",
+        "B": "Autosomal-dominant mutation in the STAT3 gene",
+        "C": "Deficiency in CD40 ligand or CD40",
+        "D": "Defect in the NADPH oxidative pathway"
+      },
+      "correct_answer": "C",
+      "explanation": "The given history of recurrent bacterial infections and fungal pneumonia caused by Pneumocystis jirovecii (as shown in the image above), along with elevated IgM and low IgG levels, are suggestive of hyper-IgM syndrome, an inherited deficiency in the CD40 ligand or CD40. Hyper-IgM syndrome is a primary immunodeficiency disorder that is inherited as: X-linked form (most common): CD40 ligand (CD40L) defect on T-helper cells, preventing B-cell activation, class switching, and memory cell formation. Autosomal recessive form: Affects CD40 on B-cells or enzymes like activation-induced cytidine deaminase (AID), a DNA-editing enzyme expressed in B cells. The B-cell response to T-independent antigen is unaffected. CD40–CD40L interactions are also required for IL-12 secretion. So, defects in this pathway result in increased susceptibility to intracellular pathogens. In normal immune response, B-cells expressing CD40 on their surface interact with CD40L on T-cells to undergo class switching from IgM to various other classes (IgG, IgA, IgE) depending on the type of antigen. Thus, failure of this class switching leads to an increase in IgM with extremely low levels of IgG and no IgA or IgE. Clinical features include recurrent pyogenic infections caused by low levels of opsonizing IgG antibodies. Patients are highly susceptible to pneumonia caused by Pneumocystis jirovecii. Option A: Defective cytokine signaling in T-cell precursors is seen in X-linked Severe Combined Immunodeficiency (SCID). It is caused by a mutation in the common gamma-chain (γc) subunit of cytokine receptors. This defect disrupts Interleukins (IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21) signaling, leading to low T-cell and NK-cell numbers. Although B-cell numbers are normal, these are non-functional due to the absence of T-cell help, resulting in impaired antibody synthesis. Option B: Mutation in the STAT3 gene is seen in an autosomal dominant form of Hyper IgE Syndrome (also known as Job syndrome), characterized by recurrent staphylococcal skin abscesses, recurrent pulmonary infections often with pneumatoceles, and atopic dermatitis. Here, serum IgE levels are markedly elevated (due to IgE overproduction without modulation), and IgA, IgG, and IgM concentrations are generally normal. Option D: A defect in NADPH oxidative pathway is seen in chronic granulomatous disease, leading to failure of the oxidative burst in phagocytes, predisposing individuals to catalase-positive microbial infections.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q7_img1_b4f10a25.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp7_img1_048fa6ec.jpeg",
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "A 5-year-old boy is brought with complaints as shown below. The parents report that these complaints have been present for the last 2 years. Which of the following is found to be the most effective treatment for this disease?",
+      "options": {
+        "A": "1 and 3",
+        "B": "1 and 2",
+        "C": "Only 2",
+        "D": "2 and 3"
+      },
+      "correct_answer": "D",
+      "explanation": "This 5-year-old boy presenting with a 2-year history of thick, white-coated tongue and dystrophic nail changes, as shown in the above image, suggests chronic mucocutaneous candidiasis, for which transfer factor therapy and amphotericin B have been reported to be the effective treatments. Chronic mucocutaneous candidiasis (CMC) is characterized by deficient cell-mediated immunity to Candida, usually due to defects in IL-17. Mutations affecting the IL-17 signalling pathway lead to impaired IL-17 production and defective TH17 function, compromising mucosal and skin defence mechanisms and increasing susceptibility to fungal infections. Patients develop persistent fungal infections of the skin, nails, oral cavity, and genitals, primarily caused by Candida species. Despite chronic mucocutaneous involvement, these patients typically do not develop invasive candidiasis. A key feature of CMC is the absence of delayed hypersensitivity to Candida antigens. However, circulating antibodies to them are present in high titres. They do not show increased susceptibility to other infections but may develop endocrinopathies, autoimmune disorders, and vascular abnormalities. Transfer factor therapy and amphotericin B have been reported to be effective for the treatment of chronic mucocutaneous candidiasis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q8_img1_3dabc6b1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "An infant with a history of delayed separation of the umbilical cord now presents with recurrent pneumonia. The total leukocyte count is 20,000/microliter. Which of the following genetic defects is most likely present?",
+      "options": {
+        "A": "Mutation of Bruton tyrosine kinase gene",
+        "B": "Low levels of NADPH oxidase and negative DHR test",
+        "C": "Reduced phagocyte surface expression of sialyl-Lewis X",
+        "D": "Excessive IgM with reduced IgG and IgA"
+      },
+      "correct_answer": "C",
+      "explanation": "This history of delayed separation of the umbilical cord with recurrent pneumonia and peripheral leukocytosis is highly suggestive of leukocyte adhesion defect (LAD). In this defect, there is reduced phagocyte surface expression of sialyl-Lewis X. LAD is an autosomal recessive disorder affecting leukocyte function. Neutrophils have reduced adhesion, mobility, and phagocytic ability. There are three main types of LAD: LAD 1 - Defective β2 integrin common chain (CD18), leading to abnormal neutrophil chemotaxis and defective tight adhesion. LAD 2 - Reduced phagocyte surface expression of sialyl-Lewis X (fucosylated protein), leading to abnormal neutrophil rolling and tethering. LAD 3 - Defect in regulatory protein (kindlin 3, also known as Fermt 3) involved in activating the ligand affinity for β2 integrins, leading to abnormal neutrophil chemotaxis and adhesion (milder than type 1). LAD is characterized by recurrent bacterial and fungal infections, reduced inflammatory responses despite elevated blood neutrophilia, and delayed wound healing and delayed umbilical cord loss. In patients with LAD type 3, there may be bleeding as β2 integrin on platelets is non-functional. Typical signs of inflammation may be absent, pus does not form with few neutrophils on biopsy of infected tissues along with massive hyperleukocytosis (>30,000/µL) in the blood. Early allogeneic hematopoietic stem cell transplantation is used in the treatment of severe LAD.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following statements is true about severe combined immunodeficiency disorders?",
+      "options": {
+        "A": "Reticular dysgenesis of de Vaal is a mild form of combined immunodeficiency",
+        "B": "They are inherited as autosomal dominant disorders",
+        "C": "Adenosine deaminase deficiency is associated with chondrocyte abnormalities",
+        "D": "The defect in Swiss type agammaglobulinemia is at the level of multipotent hematopoietic stem cell"
+      },
+      "correct_answer": "C",
+      "explanation": "Adenosine deaminase deficiency is associated with chondrocyte abnormalities. Severe combined immunodeficiency disorders are associated with severe deficiency of both humoral and cell-mediated immunity. They are inherited in both X-linked and autosomal recessive modes. There are different forms of this disorder: Reticular dysgenesis is the most serious form of combined immunodeficiency. Here, the defect is at the level of the multipotent hematopoietic stem cell. Adenosine deaminase (ADA) deficiency is associated with enzyme deficiency. The condition is associated with chondrocyte abnormalities, which can be discerned radiologically. Swiss-type agammaglobulinemia is associated with lymphocytopenia and severe defect in cell-mediated immunity. The basic defect is at the level of the lymphoid stem cell.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is an immunologically privileged site?",
+      "options": {
+        "A": "Seminiferous tubule",
+        "B": "Area postrema",
+        "C": "Optic nerve",
+        "D": "Loop of Henle"
+      },
+      "correct_answer": "A",
+      "explanation": "The seminiferous tubules are an immunologically privileged site. Immunologically privileged sites can tolerate the introduction of antigens without eliciting an immune response. This allows a higher likelihood of graft survival, even without perfect HLA matching. As a result, an allograft can be placed in these sites without endangering a rejection reaction. The unique immune tolerance in these regions is primarily due to the lack of effective lymphatic drainage, which prevents antigen presentation to the immune system, and the presence of blood-tissue barriers that restrict immune cell infiltration. Low vascularity contributes to immune privilege by minimizing antigen exposure and immune cell recruitment. Examples of immune-privileged sites are the anterior chamber of the eye, cornea, testes, and brain. Note: Although part of the brain, the blood-brain barrier is absent at the area postrema, therefore it is not an immune-privileged site.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Disorders"
+    }
+  ]
+}

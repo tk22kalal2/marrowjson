@@ -1,0 +1,200 @@
+{
+  "chapter": "Mycobacteria Tuberculosis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The following slide is given as a spotter in your microbiology practical examination. Identify the following organism.",
+      "options": {
+        "A": "Mycobacteria",
+        "B": "Nocardia",
+        "C": "Actinomyces",
+        "D": "Corynebacterium"
+      },
+      "correct_answer": "B",
+      "explanation": "Nocardia species are known for their characteristic appearance, which can be identified under a microscope.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q1_img1_6c7025ba.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_d3362423.jpeg",
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is the component of mycobacteria that makes it acid-fast?",
+      "options": {
+        "A": "Mycolic acid",
+        "B": "Muramic acid",
+        "C": "Teichoic acid",
+        "D": "Talosaminuronic acid"
+      },
+      "correct_answer": "A",
+      "explanation": "Mycobacteria are acid-fast due to the presence of mycolic acid in their cell walls. On being stained with carbol fuchsin or fluorescent dyes such as auramine-O or rhodamine, they resist decolorization by 20% sulfuric acid and absolute alcohol for 10 minutes. This property is referred to as acid and alcohol fastness and is routinely used to identify mycobacteria. Mycobacterial cell wall structure: Lipoarabinomannan (LAM), capsular proteins and carbohydrates, mycolic acid layer, lipoteichoic acid, arabinogalactan layer, peptidoglycan layer, cytoplasmic membrane.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp2_img1_1955d609.jpeg",
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient presents early in the morning to the DOTS center to provide sputum samples. Which of the following reagents are used in the digestion and decontamination of his samples before smear preparation?",
+      "options": {
+        "A": "NaOH and KOH",
+        "B": "NaCl and N-acetyl cysteine",
+        "C": "N-acetyl cysteine and NaOH",
+        "D": "KOH and NaCl"
+      },
+      "correct_answer": "C",
+      "explanation": "NaOH and N-acetylcysteine are used for the digestion and decontamination of sputum used in smear preparation for Mycobacterium tuberculosis. Sputum and specimens from non-sterile sites need prior treatment for digestion (to liquefy the thick pus), decontamination (to inhibit the normal flora), and concentration (to increase the yield) before they can be used for testing. Methods used for digestion and decontamination of sputum: • Petroff's method - Uses 4% NaOH and HCl. • N-acetyl cysteine (NALC) + 2% NaOH - NALC liquefies the sputum and NaOH kills the normal flora. This method is better suited for automated culture systems and is superior to Petroff's method. Note: Formalin or hypochlorite can be used only if smear microscopy is being done. They are not useful for culture or animal pathogenicity testing.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 4,
+      "question": "A patient with suspected tuberculosis gives a sputum sample for microscopic examination. What is the minimum number of acid-fast bacilli that should be present in 1 mL of sputum for them to be detected by this method?",
+      "options": {
+        "A": "100",
+        "B": "1000",
+        "C": "10000",
+        "D": "10"
+      },
+      "correct_answer": "C",
+      "explanation": "At least 10,000 acid-fast bacilli should be present per milliliter of sputum for them to be readily demonstrable in direct smears. Slide reporting as per NTEP guidelines: No. of AFB/No. of oil immersion fields examined/Report: 1000/1-9/100/Scanty, 10-99/1001+/1-10, 12+/>10, 13+",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient has chronic cough with occasional blood in the sputum. He has a history ofsignificant weight loss and night sweats. Which of the following media cannot be used toculture the organism causing his symptoms?",
+      "options": {
+        "A": "BACTEC 460",
+        "B": "Middlebrook 7H10",
+        "C": "Loefflers medium",
+        "D": "McLeod's Medium"
+      },
+      "correct_answer": "",
+      "explanation": "This patient with chronic cough and hemoptysis with a concurrent history of significant weightloss and night sweats most likely has tuberculosis, caused by Mycobacterium tuberculosis.McLeod's medium is not used to culture M. tuberculosis. It is a selective medium forCorynebacterium diphtheriae.Culture media used to cultivate Mycobacterium tuberculosis include:• Solid- Loeffler's medium is a serum-containing solid medium used for the culture of M.tuberculosis. Other solid media used include Lowenstein- Jensen medium, Dorset medium,Tarshis medium, and Pawlowsky's medium.171MARNOW©MARROW• Liquid- Middlebrook's media are used for the preparation of antigens and vaccines and insensitivity testing. Other examples of liquid mycobacterial culture media include Dubos' medium,Sula's medium and Sauton's medium.M• Automated culture methods:2019-01-104236162019-01-104236162019-01-10OMARROW•⚫ BACTEC 460- uses radioisotopes for detection• BacT alert- colorimetric method of detection• BACTEC MGIT- fluorometric detection method.172SFMGHNKFT/ALERT FNblic Anaerob. Anaerob Fospecbio Anaerob. Beztlenowebio, Anaeróbio. Anaerob25CECAMERIEUX, INC. Druthan CBacT/ALERT FAAbic. Aerob. Aerob, Aspóßioc ArabAnbie Aerobia, Aerob. Tlenowe.Avibio. Aeróbio. Aerob. FCESIOMÉRIEUX, INC. DuSPHKTJZ3BacT/ALERT PFPediatric Paediatrisk. Pädiatrie. obeyePediatrico. Pediatrisk. PediatrycPediátrico, Pediátrico, PediatriskNOMERIEUX, INC. Duhan",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_d61a3da5.jpeg",
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 6,
+      "question": "A microbiology resident is performing liquid automated culture on the sputum sample of a TB suspect patient. Which of the following culture media would he not use for the same?",
+      "options": {
+        "A": "BactiAlert",
+        "B": "VersaTrek",
+        "C": "BACTEC MGIT 960",
+        "D": "Tarshis"
+      },
+      "correct_answer": "D",
+      "explanation": "Tarshis medium is a solid growth medium used for culturing mycobacterium species. VersaTrek, BactiAlert, and BACTEC MGIT 960 are liquid automated cultures used for tuberculosis. The diagnostic tools for TB are as follows: 1. Sputum microscopy for AFB - Ziehl-Neelson staining, fluorescence staining. 2. Culture - Solid media: Lowenstein-Jensen (most common), Petragnani and Dorset, Tarshis, Loeffler, Pawlowsky. Liquid automated culture: VersaTrek, BactiAlert, BACTEC MGIT 960 (MGIT stands for Mycobacteria Growth Indicator Tube). Drug Sensitivity Testing/Proportionate Sensitivity Testing: Using MGIT, LJ medium. 3. Rapid molecular diagnostic testing - Line probe assay, CB-NAAT - Nucleic acid amplification test using GeneXpert system. 4. Other diagnostic tools are as follows: Chest X-ray, tuberculin sensitivity testing.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following tests can simultaneously detect TB and rifampicin resistance in <2 hours?",
+      "options": {
+        "A": "LAM detection by ELISA",
+        "B": "Xpert MTB/RIF",
+        "C": "BACTEC MGIT",
+        "D": "Line probe assay"
+      },
+      "correct_answer": "B",
+      "explanation": "Xpert MTB/RIF detects tuberculosis (TB) and rifampicin resistance simultaneously within 2 hours. It is a fully automated, real-time nucleic acid amplification technology, with high specificity and sensitivity. The WHO recommends its use worldwide as the initial diagnostic test in adults and children who are presumed to have multi-drug resistant tuberculosis (MDR-TB) or HIV-associated TB. Xpert MTB/RIF should also be the first test applied to the cerebrospinal fluid (CSF) of patients in whom tubercular meningitis is suspected, as well as a replacement test (over conventional microscopy, culture, and histopathology) for gastric lavage, pleural and other biopsies, and fine-needle aspiration specimens.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp7_img1_50c114b0.jpeg",
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is not a method of testing drug susceptibility in Mycobacterium tuberculosis?",
+      "options": {
+        "A": "Radiometric broth method",
+        "B": "Molecular method",
+        "C": "Disc diffusion method",
+        "D": "Proportion Method"
+      },
+      "correct_answer": "C",
+      "explanation": "Disc diffusion method is used for drug susceptibility testing for most bacteria; however, it is not used for Mycobacterium tuberculosis. The disc diffusion technique is not suitable for testing Mycobacterium tuberculosis because the organism grows so slowly that the drug has time to diffuse throughout the medium, and sharp zones of inhibition are not seen. Methods used in the drug susceptibility testing of M. tb include: For agar-based methods, 7H10 or 7H11 Middlebrook media are used and only the proportion method can be applied. Radiometric techniques measure the metabolic activity of the bacteria. Based on changes in these values, drug susceptibility can be estimated. Conventional drug-sensitivity testing, Radiometric Techniques, Molecular methods, Proportion method, Absolute concentration method, Resistance ratio method, BACTEC 460MB/BacT, Mycobacteria growth indicator tube (MGIT), VersaTREK, PCR-based assays, DNA probe-based, DNA microarray, GeneXpert",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp8_img1_6ee1c23b.jpeg",
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 9,
+      "question": "TB test done only on whole blood sample is",
+      "options": {
+        "A": "TrueNat TB",
+        "B": "Gene Xpert",
+        "C": "Interferon gamma release",
+        "D": "All the above assays"
+      },
+      "correct_answer": "C",
+      "explanation": "TB test done on a whole blood sample is the interferon-gamma release assay. It has been used for the diagnosis of latent tuberculosis in patients with HIV (who frequently have a negative Mantoux test). Interferon-gamma release assays include: • QuantiFERON-TB Gold • T-SPOT.TB. QuantiFERON-TB Gold quantitates the amount of IFN-y produced by CD4+ T cells in response to the antigens from Mycobacterium tuberculosis. QuantiFERON-TB Gold Plus (QFT- Plus) is an improved version of the QuantiFERON-TB Gold test. QuantiFERON-TB Gold detects only TB-specific CD4+ responses. However, QuantiFERON-TB Gold Plus detects both CD8+ and CD4+ T-cell responses to TB-specific antigens. T-SPOT.TB determines the total number of individual effector T cells expressing IFN-Y. The TrueNat TB test is a new molecular test that can diagnose TB in one hour as well as test for rifampicin resistance. This test uses a sputum sample taken from the patient. Only about 0.5 ml of the sample is required. Gene Xpert is also a molecular method of testing that cannot use blood as a sample. (Option A and B)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 10,
+      "question": "A urine LAM (Lipoarabinomannan) assay was performed in an HIV +ve patient with a CD4+ count of 40/µL. Infection with which of the following organisms can be diagnosed using this test?",
+      "options": {
+        "A": "M. tuberculosis",
+        "B": "M. leprae",
+        "C": "Mycoplasma",
+        "D": "Listeria monocytogenes"
+      },
+      "correct_answer": "A",
+      "explanation": "Urine lipoarabinomannan (LAM) assay is used for the diagnosis of tuberculosis. Lipoarabinomannan (LAM) antigen is a lipopolysaccharide present in the mycobacterial cell wall, released from metabolically active cells or degenerating cells of patients having tuberculosis. Urine LAM is a useful tool in diagnosing tuberculosis, especially in patients with HIV and low CD4+ T cell count. Most diagnostic tests for tuberculosis rely on sputum samples, which are difficult to obtain and have low sensitivity in immunocompromised patients, patients with disseminated TB, and children, delaying treatment initiation. Lipoarabinomannan (LAM) is the only WHO-endorsed TB biomarker that can be detected in urine, an easily collected sample.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp10_img1_1a59ecd0.jpeg",
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 11,
+      "question": "A middle-aged man came with a history of fever and night sweats for the past 2 weeks. He had noticeable weight loss. Bronchoalveolar lavage was done, but Mycobacterium tuberculosis was not detected. Extra-pulmonary TB is suspected. Which site is most likely affected?",
+      "options": {
+        "A": "Genitourinary tract",
+        "B": "Skeletal system",
+        "C": "Gastrointestinal tract",
+        "D": "Lymph nodes"
+      },
+      "correct_answer": "D",
+      "explanation": "Lymph nodes are the most common site of extrapulmonary TB. The diagnosis is established by fine needle aspiration biopsy. In descending order of frequency, the extrapulmonary sites most commonly involved in TB are: lymph nodes, pleura, genitourinary tract, bones and joints, meninges, peritoneum, and pericardium. In less than 50% of these cases, there is associated pulmonary disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 12,
+      "question": "Your neighbour is worried about a scar on her 5-month-old daughter's arm that is shown below. She tells you the child has received all vaccines on time. Which of the following statements is true about the vaccine that caused this finding?",
+      "options": {
+        "A": "Distilled water is used as a diluent for this vaccine",
+        "B": "The dose administered is 0.5 ml",
+        "C": "The route of administration is subcutaneous",
+        "D": "WHO recommends Danish 1331 strain for vaccine"
+      },
+      "correct_answer": "D",
+      "explanation": "The scar shown in the image results from the BCG (Bacillus Calmette-Guérin) vaccine. The WHO recommends Danish 1331 strain for BCG vaccine production. Normal saline is recommended as the diluent for the BCG vaccine as distilled water is an irritant. The dose administered is 0.1ml containing 0.1mg. It is administered intradermally by using a 26-gauge tuberculin syringe on the left deltoid.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q12_img1_56d94a04.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    },
+    {
+      "q_no": 13,
+      "question": "You are performing the pre-employment check-up of a young man. You need to perform a tuberculin skin test as a part of this process. Which of the following tests would you not use for this purpose?",
+      "options": {
+        "A": "Pirquet test",
+        "B": "Heaf test",
+        "C": "QuantiFERON-TB Gold",
+        "D": "Tine test"
+      },
+      "correct_answer": "C",
+      "explanation": "QuantiFERON-TB Gold is not a type of tuberculin skin test. It is a type of interferon-gamma release assay (IGRA), a whole-blood test that can aid in diagnosing Mycobacterium tuberculosis infection. There are three described methods for tuberculin skin testing (TST): the Mantoux test, also known as the Pirquet test (preferred method), the Heaf test, and the Tine test. In contrast, IGRAs that have been approved by the FDA are: the QuantiFERON-TB Gold In-Tube test (QFT-GIT), the T-SPOT.TB test (T-Spot), and the QuantiFERON-TB Gold Plus (QFT-Plus). IGRA is not used in India due to a higher probability of a false positive due to universal BCG vaccination. It can also lead to a diagnosis of active TB in a patient with latent TB and may lead to overtreatment. This test is banned in India after the WHO advised against it in low- and middle-income countries.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Mycobacteria Tuberculosis"
+    }
+  ]
+}

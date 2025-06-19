@@ -1,0 +1,350 @@
+{
+  "chapter": "Hepatitis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is a non-enveloped virus that causes hepatitis?",
+      "options": {
+        "A": "Hepatitis C",
+        "B": "Hepatitis B",
+        "C": "Hepatitis A",
+        "D": "Hepatitis D"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 2,
+      "question": "A 25-year-old man hailing from Mumbai presents to you with complaints of abdominal painand malaise. On examination, he is icteric and the liver is palpable 6 cm below the costalmargin. On further questioning, he informs you that a few weeks back the drains surroundinghis house were overflowing due to the monsoon flooding. Which of the following is the mostlikely etiology?",
+      "options": {
+        "A": "Hepatitis A or D",
+        "B": "Hepatitis B or E",
+        "C": "Hepatitis A or B",
+        "D": "Hepatitis A or E"
+      },
+      "correct_answer": "C",
+      "explanation": "The given case scenario with icterus, hepatomegaly, and environmental history is suggestive ofacute viral hepatitis, likely to be caused by hepatitis A or E viruses.Hepatitis A and E are transmitted by feco-oral route. Overcrowding, poor hygiene, and fecalcontamination of water supplies such as after monsoon flooding can lead to spreading of thedisease.Hepatitis B, C, and D are transmitted by parenteral routes, e.g. blood transfusions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 3,
+      "question": "A 18-year-old man presents with fever, diarrhea, and jaundice. He gives a history ofconsuming food at a roadside stall. Which of the following statements is incorrect about theetiological agent?",
+      "options": {
+        "A": "It belongs to family Hepatoviridae",
+        "B": "Majority of infections are symptomatic",
+        "C": "It is transmitted by feco-oral route",
+        "D": "A formalin inactivated vaccine is used for prevention"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of viral hepatitis which is most likely to be Hepatitis A.Hepatitis A virus belongs to the family Picornaviridae. It is transmitted by feco-oral route andmost of the infections are symptomatic.380There is no definitive treatment, thus, only supportive therapy is given.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 4,
+      "question": "373What is the average incubation period for Hepatitis A virus?",
+      "options": {
+        "A": "&lt;1 week",
+        "B": "30 days",
+        "C": "90 days",
+        "D": "120 days"
+      },
+      "correct_answer": "B",
+      "explanation": "The average incubation period of the Hepatitis A virus (HAV) is around 30 days. It ranges from15-50 days. The clinical disease has a prodromal stage and an icteric stage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is called as Australia antigen?",
+      "options": {
+        "A": "HBsAg",
+        "B": "HBeAg",
+        "C": "HBeAg",
+        "D": "HBV-DNA"
+      },
+      "correct_answer": "",
+      "explanation": "HBsAg (Hepatitis B surface antigen) is also known as the Australia antigen. It is called so becauseit was first isolated from the serum of an Australian person.Sera from hepatitis B patients when observed under an electron microscope show three types ofparticles:••A spherical particle: 22nm, most abundant, contains only HBsAg.Filamentous or tubular particle: 22nm, contains only HBsAg.• A double-walled spherical structure: 42nm diameter, is the complete Hepatitis B virus. It wasdescribed by Dane and is called Dane particle.Structure of hepatitis B virus©MARROWHBsAgDNApolymeraseHBcAgHBeAg",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_466974d3.jpeg",
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is also referred to as Dane particle?",
+      "options": {
+        "A": "HAV",
+        "B": "HBV",
+        "C": "HCV",
+        "D": "HDV"
+      },
+      "correct_answer": "C",
+      "explanation": "Dane particle refers to Hepatitis B.Sera from hepatitis B patients when observed under an electron microscope show three types ofparticles:Spherical particle: 22nm, most abundant, contains only HBsAg.381• Filamentous or tubular particle: 22nm, contains only HBsAg.• A double-walled spherical structure: 42nm diameter, is the complete Hepatitis B virus. It wasdescribed by Dane and is called Dane particle.Structure of hepatitis B virusOMARROWHBsAgDNApolymeraseHBcAgHBeAg",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp6_img1_086646ba.jpeg",
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 7,
+      "question": "A 35-year-old male patient with chronic hepatitis B has high levels of serum HBeAg. Which ofthe following viral genes is involved in coding the same?",
+      "options": {
+        "A": "C gene",
+        "B": "S gene",
+        "C": "P gene",
+        "D": "X gene"
+      },
+      "correct_answer": "B",
+      "explanation": "HBeAg is coded by the C gene. The presence of high levels of HBeAg (and HBV DNA) suggestshigh infectivity.HBV Genome has four overlapping genes. They code for:•• S gene-It codes for surface antigen.• C gene-•••• When the C region alone is translated: HBcAg is formed.When translation begins from Pre C region, HBeAg is formed.P gene- Codes for DNA polymerase.• X gene- Codes for a non-particulate protein HBxAg.3820Pre S1Pre S2HBsAg geneP5'Pre-CHbeAg/HbcAg3'Partially dsDNA5'Polymerase geneOMARROWS",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp7_img1_4fa22b0c.jpeg",
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 8,
+      "question": "374While drawing blood from a patient with hepatitis B, it splashes into the eyes of a nurse.Which of the following markers will appear first in her blood if she gets infected?",
+      "options": {
+        "A": "HBeAg",
+        "B": "HBsAg",
+        "C": "Anti HBs",
+        "D": "Anti HBe"
+      },
+      "correct_answer": "",
+      "explanation": "HBsAg is the first marker to appear in the blood after infection.It can be detected even before the elevation of serum transaminases and onset of clinicalillness. Usually, it disappears within 2 months of onset of clinical disease but may last for even 6months and beyond. If it persists beyond 6 months, it indicates chronic hepatitis.Anti-HBs is the protective antibody, which appears soon after HBsAg, disappears and remains inserum for a long time.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient with hepatitis B presents to OPD for follow-up. Which of the following serologicalmarkers will not be detected in his blood?",
+      "options": {
+        "A": "HBsAg",
+        "B": "Anti-HBs",
+        "C": "HBeAg",
+        "D": "Anti-HBc"
+      },
+      "correct_answer": "",
+      "explanation": "Hepatitis B core antigen (HBcAg) is not present in blood because it is enclosed within the HBsAgcoat. However, antibodies against HBc (Anti-HBc) are the earliest antibody markers to be seen inthe blood after 1-2 weeks.Note:•• HBsAg: Earliest marker to be detected in the serum of Hepatitis B-infected persons.• Anti HBC: Earliest antibody to be detected in the serum of Hepatitis B-infected persons.The given image shows hepatitis B virus and its antigens383DNA polymeraseHepatitis B coreantigen (HBcAg)Partially double-stranded DNAHepatitis B e antigenaaaaaaaoHepatitis Bsurface antigen(HBsAg)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp9_img1_a36e1537.jpeg",
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 10,
+      "question": "There are 3 to 5% healthy hepatitis B carriers in India who are asymptomatic. They are at therisk of developing hepatocellular carcinoma in the future because",
+      "options": {
+        "A": "They are unable to mount inflammation against the virus",
+        "B": "Virus can integrate with host DNA and form complementary DNA",
+        "C": "There is a risk of elevation of transaminases",
+        "D": "Liver parenchymal cells are in a state of high proliferation"
+      },
+      "correct_answer": "B",
+      "explanation": "In most tumors, HBV DNA is integrated into the cell genome, and in most cases, the virus DNAhas undergone rearrangements, including deletions. After integration, it promotes theoverexpression of cell genes that can also contribute to oncogenesis.The only viral gene product that is consistently present in the tumor cells is the X protein.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 11,
+      "question": "The given life cycle is suggestive of which of the following viruses?375",
+      "options": {
+        "A": "HIV",
+        "B": "Hepatitis B",
+        "C": "Influenza",
+        "D": "Herpes simplexCytoplasmCovalentlyclosedcircularviral DNAViruscoreViraltranscriptionactivatorViralparticlesViralEntryparticleRecyclingNucleusPregenomicRibosomesRNAmRNAERAssemblyReleaseOMARROW"
+      },
+      "correct_answer": "",
+      "explanation": "The given life cycle is of the hepatitis B virus.Steps:⚫ The infectious virion attaches to cells and uncoating occurs.•• Cell enzymes in the hepatocytes convert dsDNA to covalently closed circular double-strandedDNA (cccDNA)• HBV mRNA and pre-genome RNA is synthesized using cccDNA as a template.• pre-genome RNA is encapsidated by packaging signal into new core particles.• These new core particles are templates for HBV reverse transcriptase.• Negative-strand DNA is synthesized by viral polymerase by reverse transcription.• The cores bud from the pre-Golgi membranes, acquiring HBsAg-containing envelopes.•• Once viral particles are assembled, they either exit the cell or cause reinfection of the same cell.384",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q11_img1_1614be7c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient is diagnosed with Hepatitis B infection. Which of the following markers will alwaysbe present in his serum, even during recurrences, or if he develops chronic hepatitis?",
+      "options": {
+        "A": "HBc Ag",
+        "B": "Anti HBs Ab",
+        "C": "Anti HBC Ab",
+        "D": "HBe Ag"
+      },
+      "correct_answer": "",
+      "explanation": "A patient who has had exposure to HBV will have anti-HBc antibody even when he has moved.into the chronic or recurrent stages. IgM anti-HBc reappears during acute recurrences whileIgG anti-HBc is found in chronic states.The HBsAg antigen is present in chronic hepatitis B, while the antibody anti-HBs is not.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is not synthesized by pre-core mutants of hepatitis B virus?",
+      "options": {
+        "A": "HBsAg",
+        "B": "HBxAg",
+        "C": "HBcAg",
+        "D": "HBeAg376"
+      },
+      "correct_answer": "D",
+      "explanation": "Pre-core mutants of hepatitis B virus are unable to synthesize HBeAg.In the HBV genome, the C gene consists of 2 regions:• Pre-C region- When translation begins from the Pre-C region, HBeAg is synthesized.•C-region- When it begins from the C-region, HBcAg is synthesized.In the HBeAg sequence of pre-core mutants, there is a G to A switch at the 28th amino acid,causing a stop codon. Hence, pre-core mutants are unable to synthesize HBeAg.The image below shows the HBV genome:Pre S2Pre S1HBsAg gene3'Partially dsDNA5'5'Pre-CHbeAg/HbcAgx©MARROWPolymerase geneS",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp13_img1_f2e02bc9.jpeg",
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 14,
+      "question": "The serological profile of a patient is given below. What is your diagnosis?",
+      "options": {
+        "A": "Acute HBV infection with high infectivity",
+        "B": "HBV vaccination",
+        "C": "Chronic HBV infection with high infectivity",
+        "D": "Acute HBV infection with low infectivity"
+      },
+      "correct_answer": "A",
+      "explanation": "HBsAg and IgM Anti-HBc are positive, indicating an acute hepatitis B infection. HBeAg positiveindicates that the patient is highly infectious.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 15,
+      "question": "An HBsAg positive primigravida presents to you for routine antenatal care. She asks youabout the risk of transmission of HBV to her baby. Which of the following is not related to thesame?",
+      "options": {
+        "A": "Intrauterine transmission",
+        "B": "Normal vaginal delivery",
+        "C": "Forceps vaginal delivery",
+        "D": "Breastfeeding"
+      },
+      "correct_answer": "D",
+      "explanation": "385Breastfeeding is not related to the vertical transmission of hepatitis B virus. Breastfeeding is notcontraindicated in HBsAg-positive mothers.Mother-to-child transmission of HBV can occur via three modalities:• Intrauterine transmission- Transplacental transmission is uncommon. Another route is via abreach in the placental barrier exposing maternal blood to fetal blood e.g. - threatened pretermlabor.• Transmission during delivery- It is the most frequent method of vertical transmission. It ismostly due to newborn contact with the mother's infected secretions or blood at the time ofdelivery (normal/instrumental).• Postpartum transmission- Though HBV DNA is present in breast milk, it is not transmitted tothe fetus. However, cracked nipples expose the infant to maternal blood, and can transmit thevirus to the infant.Immunoprophylaxis with HBIg is indicated for babies born to HBsAg-positive mothers followedby a three-dose hepatitis B recombinant vaccine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 16,
+      "question": "An intern takes a hepatitis B vaccine booster dose before his ward postings begin. Which ofthe following serological markers will indicate immunity against HBV in this case?",
+      "options": {
+        "A": "HBsAg",
+        "B": "Anti-HBs",
+        "C": "Anti-HBc",
+        "D": "Anti-HBe"
+      },
+      "correct_answer": "B",
+      "explanation": "Presence of anti-HBs with the absence of all other serological virus markers indicates immunityfollowing HBV vaccination.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following statements is false regarding HBV vaccination?",
+      "options": {
+        "A": "The current vaccine is prepared by cloning 'S gene' of HBV in Baker's yeast",
+        "B": "A single dose of HBV vaccine is recommended for high-risk groups for pre-exposureprophylaxis",
+        "C": "For high-risk mothers who are seronegative, hepatitis B vaccine can be given during pregnancy.377",
+        "D": "Hepatitis B vaccine should be administered intramuscularly in the deltoid muscle."
+      },
+      "correct_answer": "B",
+      "explanation": "Pre-exposure prophylaxis consists of administration of a 3-4 dose series of hepatitis B vaccinegiven over a 6-month period.The pre-exposure prophylaxis of Hepatitis B vaccine schedule is as follows:The vaccine is genetically engineered by cloning 'S gene' in baker's yeast. It has non-glycosylatedHBsAg particles given along with an alum adjuvant.Pregnancy is not a contraindication for hepatitis B vaccination. The efficacy has been shown to besimilar to that for non-pregnant adults, with overall seroconversion rates approaching 95 percentafter three doses which can be taken during routine prenatal care.The vaccine is given intramuscularly, in the deltoid muscle and can be co-administered with othervaccines.GroupNewbornVaccine dose in mL (Active ingredient in μg/mL)0.5 mL (10μg)Schedule<24 hours, 6 weeks, 14 weeks(if administration of the firstdose within 24 hours of birth is not possible, then 6, 10,and 14 weeks)386GroupVaccine dose in mL (Active in Schedulegredient in µg/mL)Healthy persons aged ≤19 yea0.5 mL (10 μg)0, 1, 2 / 6 monthsrsHealthy persons aged ≥20 ye1.0 mL (20 μg)0, 1, 26 monthsarsPersons on hemodialysis or immunocompromised person2.0 mL (40 μg)0, 1, 2, 6 monthsS",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 18,
+      "question": "A known case of hepatitis B going into hepatic failure is found to have a high viral load.Which of the following serological markers will not contribute to the viral load?",
+      "options": {
+        "A": "HBeAg",
+        "B": "HBV DNA",
+        "C": "HBV DNA polymerase",
+        "D": "Anti-HBs"
+      },
+      "correct_answer": "D",
+      "explanation": "Anti-HBs will not contribute to the high viral load, as it is not a marker of active viral replication.HBeAg, HBV DNA, and HBV DNA polymerase are markers of active viral replication and willcontribute to the high viral load.HBeAg is a qualitative marker while HBV DNA is a quantitative marker of the replicative phase.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp18_img1_185b517d.jpeg",
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 19,
+      "question": "A 30-year-old man with heroin addiction presents with fatigue, palpable purpura, joint pains,and abdominal pain. Urine analysis shows massive proteinuria. Which of the followingviruses should be tested for in this patient?",
+      "options": {
+        "A": "Hepatitis A",
+        "B": "Hepatitis C",
+        "C": "Hepatitis D",
+        "D": "Hepatitis E"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of mixed cryoglobulinemia, which is strongly associatedwith hepatitis C. Hence, the patient should be tested for hepatitis C.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 20,
+      "question": "Which hepatitis virus shows maximum chronicity in adults?",
+      "options": {
+        "A": "Hepatitis A",
+        "B": "Hepatitis E",
+        "C": "Hepatitis C",
+        "D": "Hepatitis D"
+      },
+      "correct_answer": "C",
+      "explanation": "Maximum chronicity is seen in HCV infection, followed by HBV infection.Clinical Course of Hepatitis CMHepaticdecompensationAcute HCV infection85% risk for chronicityChronic HCV infectionM20% risk over 20 yearsCirrhosisOMARROW387Hepatocellularcarcinoma5-10% of adults infected with HBV develop chronic infection. The majority of neonates affectedwith hepatitis B develop chronic hepatitis.HEV is associated with chronic infection only in immunocompromised individuals. HAV is notassociated with chronicity.Note: The most common cause of post-transfusion hepatitis in developed countries is hepatitis C",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp20_img1_4fa26868.jpeg",
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 21,
+      "question": "A patient with fulminant hepatitis is found to have coinfection with hepatitis B and hepatitisD viruses. Which of the following structures of HBV aid in the survival of HDV?",
+      "options": {
+        "A": "Reverse transcriptase378",
+        "B": "Envelope protein",
+        "C": "Transcriptase to transcribe mRNA",
+        "D": "Replicase enzyme"
+      },
+      "correct_answer": "B",
+      "explanation": "Hepatitis D virus (HDV) is an incomplete/defective virus. It requires HBV, to provide the envelopeprotein (HbsAg) to aid in its survival. Hepatitis D is called the delta virus.Two types of infection may occur:•Co-infection acute HDV and HBV infections occur simultaneously-Super-infection - Delta viral infection occurs in a person already harboring HBV. This most oftenleads to chronic hepatitisCoinfection and superinfection can cause fulminant hepatitis. HBV vaccination is protectiveagainst HDV.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 22,
+      "question": "In the year 1955, following sewage contamination of drinking water in New Delhi, anoutbreak of jaundice ensued. Electron microscopy of fecal samples from the affectedpopulation revealed a virus resembling caliciviruses. Which of the following was theetiological agent?",
+      "options": {
+        "A": "Hepatitis C",
+        "B": "Hepatitis A",
+        "C": "Hepatitis B",
+        "D": "Hepatitis E"
+      },
+      "correct_answer": "D",
+      "explanation": "Hepatitis E virus (HEV) resembles caliciviruses in morphology and physical characteristics.Hepatitis E is a non-enveloped virus with ssRNA genomeNote: The largest HEV epidemic occurred in New Delhi in 1955-1956.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following is false about viral hepatitis?",
+      "options": {
+        "A": "Anti LKM-3 antibody is associated with hepatitis B infection",
+        "B": "Anti-LKM1 antibodies are associated with hepatitis C infection",
+        "C": "IgM anti-HAV antibody appears during the late incubation period",
+        "D": "Enterically transmitted non-A, non-B hepatitis is caused by hepatitis E virus"
+      },
+      "correct_answer": "A",
+      "explanation": "The anti-LKM-3 antibody is associated with hepatitis D infection, not hepatitis B.Anti-liver-kidney microsomal antibodies (anti-LKM) are many of several autoantibodies that aredetected in the serum of patients with different types of acute or chronic liver disease. Theseantibodies are targeted against antigens of the cytochrome P450 system.They are also associated with chronic hepatitis C and autoimmune hepatitis.Option C: IgM anti-HAV antibody indicates current/recent infection. It appears during the lateincubation period, peaks in 2-3 weeks, and disappears after 3-4 months. IgG denotes remoteinfection or immunity. It appears around the same time, peaks at 3-4 months, and persists for along time.Option D: Hepatitis E infection was previously known as an epidemic or enterically transmittednon-A, non-B hepatitis. It is transmitted by feco-oral route.388389",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Hepatitis"
+    }
+  ]
+}

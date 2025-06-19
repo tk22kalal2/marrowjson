@@ -1,0 +1,260 @@
+{
+  "chapter": "Gram Negative Cocci",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a risk factor for Neisseria meningitidis infection?",
+      "options": {
+        "A": "Hypergammaglobulinemia",
+        "B": "Mycoplasma infection",
+        "C": "Hyposplenism",
+        "D": "History of a recent pilgrimage"
+      },
+      "correct_answer": "A",
+      "explanation": "Hypergammaglobulinemia is actually a condition characterized by an excess of gamma globulins, which are a type of antibody, in the blood; it is not typically considered a risk factor for Neisseria meningitidis infection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 2,
+      "question": "A 22-year-old student presented with high-grade fever, and purpuric rash as shown in theimage below. CSF sample showed gram-negative diplococci. Which of the following is themost likely aetiology?",
+      "options": {
+        "A": "Neisseria meningitidis",
+        "B": "Pseudomonas aeruginosa",
+        "C": "Streptococcus pneumoniae",
+        "D": "E.coli"
+      },
+      "correct_answer": "A",
+      "explanation": "This patient has a high-grade fever and is a student, so he presumably spends a lot of time incrowded areas. The above image shows a purpuric rash. This patient's features are seen inmeningococcemia caused by Neisseria meningitidis, which are gram-negative diplococci.The organism enters the body through the nasopharynx by attaching to the epithelial cells withthe help of pili. From the nasopharynx, they enter the bloodstream producing bacteremia, and thesymptoms may resemble upper respiratory tract infection.Fulminant meningococcemia is the severe form, where the patient presents with high-grade feverand hemorrhagic rash. There is thrombosis of several small blood vessels in various organs withperivascular infiltration and petechial hemorrhages. Some patients with fulminantmeningococcemia may also develop disseminated intravascular coagulation, and circulatorycollapse, a condition known as Waterhouse-Friderichsen syndrome.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q2_img1_0cbe79e1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 3,
+      "question": "284What is the most common manifestation of Neisseria meningitidis infection?",
+      "options": {
+        "A": "Meningitis",
+        "B": "Septicaemia",
+        "C": "Fever",
+        "D": "Asymptomatic"
+      },
+      "correct_answer": "D",
+      "explanation": "Infection with Neisseria meningitidis is most commonly asymptomatic colonization in thenasopharynx of healthy individuals. Hence, a nasopharyngeal swab is used in the detection ofcarriers. In some patients, local inflammation ensues with rhinitis and pharyngitis.Ceftriaxone as a single-dose IV/IM injection is highly (97%) effective in the eradication of carrierstate and can be used at all ages and also in pregnancy. Ciprofloxacin is also highly effective andcan be given orally, but it is not recommended in pregnancy and below 18 years of age.291",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 4,
+      "question": "A 5-year-old girl with thalassemia major was prophylactically immunized with polysaccharide meningococcal vaccine before being taken up for elective splenectomy. Which group of Neisseria meningitidis would she be susceptible to even after immunization?",
+      "options": {
+        "A": "Group A",
+        "B": "Group B",
+        "C": "Group C",
+        "D": "Group Y"
+      },
+      "correct_answer": "B",
+      "explanation": "Polysaccharide vaccines of Neisseria meningitidis do not offer protection against group B meningococci. This is because the group B capsule is made up of sialic acid residue, which is also expressed on the surface of neural cells in the fetus. So, the B polysaccharide is perceived as 'self' and is poorly immunogenic. To overcome this issue and provide protection against group B meningococci, a new vaccine was developed based on the surface protein, i.e., non-capsular antigen of serogroup B meningococci. This is the multicomponent meningococcal vaccine - 4CMenB. Meningococcal polysaccharide vaccines developed based on capsular antigen can be classified as: Plain polysaccharide vaccines: Bivalent (A and C), Trivalent (A, C, and W-135), Tetravalent (A, C, Y, and W-135). Conjugated polysaccharide vaccines: Monovalent (A or C), Quadrivalent (A, C, Y, and W-135) MenQuadfi vaccine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 5,
+      "question": "A young man is brought to the ER with complaints of headache and fever. On examination, a maculopapular rash is seen over his trunk & extremities, and the following sign is elicited. Which of the following antibiotics should he be started on empirically?",
+      "options": {
+        "A": "Ceftriaxone",
+        "B": "Rifampicin",
+        "C": "Ciprofloxacin",
+        "D": "Cefazolin"
+      },
+      "correct_answer": "A",
+      "explanation": "The clip given shows a positive Kernig's sign. This, in combination with the other clinical features, indicates a diagnosis of meningococcal meningitis. Third-generation cephalosporins, such as ceftriaxone, cefotaxime, and ceftazidime, are used empirically for the initiation of treatment for suspected meningococcal meningitis. These drugs are administered as they also cover the various other potentially penicillin-resistant bacteria that may produce clinical features similar to those of meningococcal meningitis, like penicillin-resistant pneumococcus. Also, some instances of reduced meningococcal sensitivity to penicillin have also been reported. Both meningococcal meningitis and meningococcal septicemia are conventionally treated for 7 days, although courses of 3-5 days may be equally effective. Rifampicin can be used for prophylaxis for close contacts. Ceftriaxone can also be used for chemoprophylaxis, especially in pregnant individuals.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q5_img1_fb52b505.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_63d968fb.jpeg",
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 6,
+      "question": "You have to administer chemoprophylaxis to the contacts of a patient diagnosed with meningococcal meningitis. Which of the following combinations is correct?",
+      "options": {
+        "A": "1, 2, 4 and 5",
+        "B": "2, 4 and 5",
+        "C": "1, 2, and 3",
+        "D": "1, 3 and 5"
+      },
+      "correct_answer": "C",
+      "explanation": "Ciprofloxacin, ceftriaxone, and rifampicin can be used for chemoprophylaxis of meningococcal meningitis. Ciprofloxacin should not be given in pregnancy and to those below 18 years of age. Ceftriaxone is preferred in these cases as a single IM or IV dose. However, reduced susceptibility of isolates to ceftriaxone has occasionally been reported. Recommended chemoprophylaxis for high-risk close contacts of meningococcal meningitis: Age < 1 month: Drug - Rifampicin 5 mg/kg, Dose - Oral every 12 hours for 2 days. Age > 1 month and < 15 years: Rifampicin 10 mg/kg, Oral every 12 hours for 2 days. Ceftriaxone 125 mg, IM single dose, can be given to children and is recommended in pregnancy. Age > 15 years: Ceftriaxone 250 mg, IM single dose, can be given to children and is recommended in pregnancy. Age > 18 years: Ciprofloxacin 500 mg, Oral single dose.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following differentiates meningococcus from gonococcus?",
+      "options": {
+        "A": "It is oxidase positive",
+        "B": "It ferments glucose",
+        "C": "It ferments maltose",
+        "D": "It reduces nitrates"
+      },
+      "correct_answer": "C",
+      "explanation": "Only meningococcus can ferment maltose, whereas both gonococcus and meningococcus can ferment glucose. Both species are catalase and oxidase positive and neither of them can reduce nitrate. The only Neisseria species that can reduce nitrate is N. mucosa.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 8,
+      "question": "A 30-year-old man has treatment-resistant gonorrhea. You plan to send a sample of hisurethral discharge to the lab for culture and sensitivity testing. What transport media wouldyou use for this purpose?",
+      "options": {
+        "A": "Cary-Blair medium",
+        "B": "Thayer-Martin medium",
+        "C": "Stuart's medium",
+        "D": "Pike's medium"
+      },
+      "correct_answer": "C",
+      "explanation": "Stuart's medium is the transport media used for Neisseria gonorrheae and Neisseria meningitidis.Stuart's medium is a semisolid, non-nutrient medium, which prevents microbial proliferation. Itensures that microorganisms present are able to survive for a sufficiently long period of time.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 9,
+      "question": "286A 25-year-old man presents with a history of urethral discharge for the last three days. A Gram-stain smear of the discharge is shown below. All of the following are true regarding the likely etiology except?",
+      "options": {
+        "A": "Catalase and oxidase positive",
+        "B": "Pili is a virulence factor",
+        "C": "Obligate intracellular organism",
+        "D": "Shows twitching motility"
+      },
+      "correct_answer": "C",
+      "explanation": "The given slide shows Gram-negative diplococci within the polymorphs, characteristic of Neisseria gonorrhoeae infection. Neisseria is not an obligate intracellular organism, it can also occur extracellularly, i.e., it is a facultative intracellular organism. The other Neisseria that are found as normal inhabitants of the human respiratory tract occur extracellularly. Neisseria gonorrhoeae is a Gram-negative, non-sporulating, non-motile diplococcus that is aerobic but may grow anaerobically also. It is oxidase and catalase-positive. Although Neisseria are non-motile organisms, they show twitching motility. This is a flagella-independent form of bacterial translocation over moist surfaces that occurs by the extension and retraction of polar type IV pili. These pili act as virulence factors by promoting attachment to host cells and inhibiting phagocytosis. Virulence factors for gonococci: • Outer Membrane Proteins (OMPs) • IgA proteases • Pili • Lipo-oligosaccharide (LOS) • Transferrin • Lactoferrin-binding protein",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q9_img1_866ba243.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is the most common manifestation of gonorrhea in males?",
+      "options": {
+        "A": "Asymptomatic",
+        "B": "Acute urethritis",
+        "C": "Discharging sinus",
+        "D": "Genital ulcer"
+      },
+      "correct_answer": "B",
+      "explanation": "Gonorrhea in males most commonly manifests as acute urethritis. In males, the disease starts as acute urethritis. This infection may extend along the urethra to involve the prostate, seminal vesicles, and epididymis. Chronic urethritis may lead to stricture formation. The infection may also spread to the periurethral tissues, causing abscesses and multiple discharging sinuses (watercan perineum). In females, the initial infection involves the cervix, uterus, and urethra, which may extend to Bartholin glands, endometrium, and fallopian tubes. The vaginal mucosa is not usually affected in adults because the stratified squamous epithelium is resistant to infection by the cocci, and also because of the acidic pH of vaginal secretions. Pelvic inflammatory disease and salpingitis may lead to sterility. Rarely, peritonitis may develop with perihepatic inflammation (Fitz-Hugh-Curtis syndrome), which may also occur following Chlamydia trachomatis infection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient with a history of sexual intercourse with a commercial sex worker 3 days back has developed genital discharge resembling 'flow of seed' as shown below. What medium should be used for the culture of the discharge?",
+      "options": {
+        "A": "Mannitol salt agar",
+        "B": "Thayer-Martin media",
+        "C": "Potassium tellurite agar",
+        "D": "TCBS agar"
+      },
+      "correct_answer": "B",
+      "explanation": "The clinical scenario is suggestive of gonococcal urethritis caused by Neisseria gonorrhoeae. Thayer-Martin and modified Thayer-Martin media are used for the culture of this organism. Gonorrhoea may manifest as mucopurulent genital discharge which can be described as resembling 'flow of seed' (semen). Thayer-Martin medium contains vancomycin, colistin, and nystatin. Gonorrhea is a sexually transmitted disease caused by N. gonorrhoeae. The major symptoms include urethritis, vaginal discharge, dyspareunia, and dysuria. In the laboratory diagnosis of N. gonorrhoeae, the discharge on Gram's stain reveals gram-negative intracellular diplococci within phagocytes. It acidifies glucose but not maltose in serum sugars. Stuart's medium is used for transport while Thayer-Martin agar is used as a selective medium used to isolate N. gonorrhoeae. Cultures can be obtained from chocolate agar or Mueller-Hinton agar. Stuart's medium is the transport media used for Neisseria gonorrhoeae and Neisseria meningitides. It is a semisolid, non-nutrient medium. Charcoal present in the medium neutralizes certain bacterial inhibitors while a reducing agent prevents oxidation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q11_img1_ae1cb814.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is not a content of modified Thayer-Martin medium?",
+      "options": {
+        "A": "Vancomycin",
+        "B": "Trimethoprim",
+        "C": "Nystatin",
+        "D": "Polymyxin B"
+      },
+      "correct_answer": "D",
+      "explanation": "Modified Thayer-Martin medium does not include polymyxin B. It includes polymyxin E, which isalso known as colistin.Modified Thayer-Martin medium is a selective media for Neisseria species. It includes:• Vancomycin - to inhibit most gram-positive bacteria.• Colistin (Polymyxin E) - to inhibit most gram-negative bacteria other than Neisseria.••· Nystatin or anisomycin - to inhibit yeast.• Trimethoprim - to inhibit proteus.The contents of the Thayer-Martin medium are the same as that of the modified Thayer-Martinmedium except for the presence of trimethoprim in the modified version. The image below depictsThayer-Martin medium.295",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp12_img1_b8676309.jpeg",
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 13,
+      "question": "An unresponsive middle-aged man with fever and petechial rashes was rushed into the ER.You successfully resuscitate him. Abdominal ultrasound shows bilateral adrenal hemorrhage.Which of the following statements is false regarding his condition?",
+      "options": {
+        "A": "Patients who recover may suffer from sloughing of the skin",
+        "B": "The implicated organism can be isolated from the petechial rashes",
+        "C": "The causative organism is Neisseria gonorrheae",
+        "D": "Hypoplastic spleen is a risk factor for this condition288"
+      },
+      "correct_answer": "C",
+      "explanation": "The above scenario depicts Waterhouse-Friderichsen syndrome which is a complication seen ininfection with meningococci. Waterhouse-Friderichsen syndrome is also known as hemorrhagicadrenalitis or fulminant meningococcemia and is characterized by bilateral adrenal glandhemorrhage.Though Waterhouse-Freiderichsen syndrome is most often associated with meningococcalsepticemia, it may complicate sepsis caused by other organisms like certain streptococcal speciesalso. Hypoplastic spleen may also be associated with this condition and the implicated organismcan be isolated from the petechial rashes.Complications :• Shock, extensive hemorrhage within the skin•May fall into a coma••• Death, usually after a few hours, due to adrenal insufficiency• Patients who recover may suffer from extensive sloughing of the skin and loss of digits due togangrene.Fulminant meningococcemia is a medical emergency and needs to be treated with adequateantibiotics as fast as possible. Ceftriaxone is an antibiotic commonly used nowadays.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 14,
+      "question": "A 30-year-old woman with a history of recurrent pelvic inflammatory disease presents to the OPD with fever and right upper abdominal pain. A diagnostic laparoscopy was done and the findings are as given below. Which of the following organisms could be the causative agent?",
+      "options": {
+        "A": "Treponema pallidum",
+        "B": "Haemophilus ducreyi",
+        "C": "Neisseria meningitidis",
+        "D": "Chlamydia trachomatis"
+      },
+      "correct_answer": "D",
+      "explanation": "The scenario depicted is Fitz-Hugh-Curtis syndrome, which is a rare complication of pelvic inflammatory disease (PID) following infection with Chlamydia trachomatis or Neisseria gonorrhoeae. It causes liver capsule inflammation leading to the creation of violin-string adhesions, which can be seen on laparoscopy. On CT imaging, it appears as perihepatic inflammatory stranding and hepatic capsular enhancement. The major symptom and signs include right upper quadrant pain. It is also associated with minimal pelvic pain, vaginal discharge, or cervical motion tenderness.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q14_img1_4e982a14.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 15,
+      "question": "Which is the true statement regarding gonococcal urethritis?",
+      "options": {
+        "A": "Symptoms are more severe in females than in males",
+        "B": "Infection does not involve the rectum and prostate",
+        "C": "Dysuria is the most common presentation",
+        "D": "A single dose of cefixime is the first line of treatment"
+      },
+      "correct_answer": "C",
+      "explanation": "Acute urethritis is the most common clinical manifestation of gonorrhea in males, and major symptoms include urethral discharge and dysuria, usually without urinary frequency or urgency. Other options: Option A: The stratified squamous epithelium of the vagina is resistant to gonococcus, so infection is less severe in females. Option B: In males, it can involve the rectum, prostate, and epididymitis, but it never involves the testes. Option D: The rising minimum inhibitory concentration of cefixime worldwide has led the CDC to discontinue its recommendation of this agent as first-line treatment for uncomplicated gonorrhea. Third-generation cephalosporins have remained highly effective as single-dose therapy for gonorrhea. Ceftriaxone (250mg, IM) single dose + azithromycin 1g PO, single dose, or doxycycline 100mg PO BD for 7 days is given. This also covers treatment for chlamydia (if chlamydial infection is not ruled out).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is not true about Neisseria gonorrhoeae?",
+      "options": {
+        "A": "It is exclusively a human pathogen",
+        "B": "Some strains may cause disseminated disease",
+        "C": "Vaccination has no role in prevention",
+        "D": "Drug resistance is only due to the acquisition of plasmids"
+      },
+      "correct_answer": "D",
+      "explanation": "Neisseria gonorrhoeae acquires resistance to antibiotics either by chromosomal mutations or by the acquisition of plasmids (R factors). These resistant strains are also known as: PPNG - penicillinase-producing N. gonorrhoeae (plasmid-borne resistance), TRNG - tetracycline-resistant N. gonorrhoeae (plasmid-borne resistance), CMRNG - chromosomally mediated resistance in N. gonorrhoeae (resistance to both penicillin and tetracycline), QRNG - quinolone-resistant N. gonorrhoeae (due to alterations in DNA gyrase and topoisomerase IV). Option A: N. gonorrhoeae is a fastidious organism and is exclusively a human pathogen. Option B: Some strains of N. gonorrhoeae can ascend up the genital tract and can lead to many disseminated diseases, such as septic arthritis and pelvic inflammatory disease. Option C: Vaccines are not effective against N. gonorrhoeae due to its antigenic variation and ability to invade neutrophils.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is true about Moraxella catarrhalis?",
+      "options": {
+        "A": "It is DNase positive",
+        "B": "An uncommon cause of COPD exacerbation",
+        "C": "It ferments glucose",
+        "D": "Causes angular conjunctivitis"
+      },
+      "correct_answer": "A",
+      "explanation": "Moraxella catarrhalis is a DNase positive gram-negative diplococcus. It is the second most common bacterial cause of COPD exacerbations (after H. influenzae). It can also cause otitis media, sinusitis, tracheobronchitis, and pneumonia. It differs from pathogenic Neisseria as: It does not ferment any carbohydrates - asaccharolytic. It gives a positive tributyrin hydrolysis test. It shows a positive DNase test. Angular conjunctivitis is caused by Moraxella lacunata, which is a gram-negative rod-shaped bacteria. Treatment is with oral amoxicillin and clavulanic acid.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gram Negative Cocci"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "chapter": "Corynebacterium, Listeria and Actinomyces",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A father brought his 9-year-old unimmunized child to the pediatric OPD with complaints of fever, sore throat, and difficulty in swallowing. The findings of the oropharyngeal examination are shown in the image below. Which of the following is the most likely causative organism of this condition?",
+      "options": {
+        "A": "Gram-negative diplococci",
+        "B": "Spiral gram-negative bacteria",
+        "C": "Club-shaped gram-positive bacilli",
+        "D": "Gram-positive cocci in chains"
+      },
+      "correct_answer": "C",
+      "explanation": "The description provided matches a condition likely caused by Corynebacterium diphtheriae, which are club-shaped gram-positive bacilli.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q1_img1_eddbf2c9.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_36eb98e6.jpeg",
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient has complaints of fever with chills. A throat examination reveals swollen glands and a thick, whitish membrane over his tonsils. Albert staining is to be done. What are the constituents of Albert's stain?",
+      "options": {
+        "A": "Carbol fuschin and methylene blue",
+        "B": "Carbol fuschin and malachite green",
+        "C": "Toluidine and malachite green",
+        "D": "Toluidine and methylene blue"
+      },
+      "correct_answer": "C",
+      "explanation": "The given scenario is suggestive of diphtheria caused by Corynebacterium diphtheriae. This organism is stained using Albert's stain which contains toluidine blue 'O' and malachite green. Both these dyes have an affinity for acidic cytoplasm as they are basic dyes. Albert's, Neisser's, and Ponder's stain are used to demonstrate the metachromatic granules (Volutin / Babes Ernst granules) of Corynebacterium diphtheriae. Corynebacterium diphtheriae appears as green-coloured bacilli with purple-blue-coloured metachromatic granules in a cuneiform arrangement.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp2_img1_52a68c95.jpeg",
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not a selective medium for Corynebacterium diphtheriae?",
+      "options": {
+        "A": "Tinsdale medium",
+        "B": "Loeffler's serum slope",
+        "C": "Potassium tellurite agar",
+        "D": "McLeod's medium"
+      },
+      "correct_answer": "B",
+      "explanation": "Loeffler's serum slope is an enriched medium for the growth of Corynebacterium diphtheriae. It is not a selective medium as other organisms can also grow on this medium. The selective media for Corynebacterium diphtheriae are potassium tellurite agar, Tinsdale medium, and McLeod's medium (tellurite blood agar). Tellurite inhibits the growth of other bacteria. C. diphtheriae reduces the tellurite to metallic tellurium, giving its colonies a grey-black colour. On Loeffler's serum slope, colonies appear as small white opaque discs that may acquire a yellow tinge. The advantages of growing C. diphtheriae on Loeffler's serum slope are rapid growth in 6-8 hours and that it is the best medium for metachromatic granules production. The disadvantage of using this medium is that on incubation beyond 6-8 hours, it supports the growth of commensals as well.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 4,
+      "question": "A throat swab taken from a patient who presented with fever, dysphagia, and cervical lymphadenopathy was sent for culture on potassium tellurite agar. The resultant colonies had a poached egg appearance. Which among the following is the most likely organism implicated here?",
+      "options": {
+        "A": "Corynebacterium diphtheriae gravis",
+        "B": "Corynebacterium diphtheriae mitis",
+        "C": "Corynebacterium diphtheriae intermedius",
+        "D": "Corynebacterium pseudotuberculosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Poached egg colonies on potassium tellurite agar indicate Corynebacterium diphtheriae mitis. MacLeod classified diphtheria bacilli based on colony morphology on tellurite blood agar into the following three types: \n      • Gravis: They form daisy head colonies and are variably hemolytic. They ferment glycogen and starch.\n      • Intermedius: They form frog's egg colonies and are non-hemolytic. They do not ferment glycogen and starch.\n      • Mitis: They form poached egg colonies and are hemolytic. They do not ferment glycogen and starch.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_2b785d53.jpeg",
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 5,
+      "question": "The toxin produced by the organisms shown below acts via?",
+      "options": {
+        "A": "Increase in cAMP",
+        "B": "Increase in cGMP",
+        "C": "ADP ribosylation of EF2",
+        "D": "RNA glycosidase"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image shows gram-positive rods with club-shaped ends, beaded appearance, and a Chinese-letter pattern of arrangement indicative of Corynebacterium diphtheriae. The toxin produced by the bacteria - diphtheria toxin - inhibits polypeptide chain elongation and protein synthesis by inactivating the elongation factor-2 (EF-2) by ADP ribosylation. It has two fragments - fragment B helps in binding of the toxin to host cells and fragment A inactivates EF-2.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q5_img1_c2a884fd.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_37158323.jpeg",
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following bacteria gain toxigenicity by lysogenic conversion?",
+      "options": {
+        "A": "Corynebacterium diphtheriae",
+        "B": "Enterotoxigenic E. coli",
+        "C": "Shigella dysenteriae",
+        "D": "Klebsiella pneumoniae"
+      },
+      "correct_answer": "A",
+      "explanation": "Corynebacterium diphtheriae inactivates elongation factor-2, leading to cell membrane damage, cell death, and preventing protein synthesis by the ribosome. Lysogenic or phage conversion is seen in Corynebacterium diphtheriae. The toxigenicity of the diphtheria bacillus depends on the presence of the corynephages (tox+). When the bacillus is cured of the phage, its toxigenic capacity is lost. A bacteriophage is a virus that parasitizes bacteria. It can carry host DNA and transfer it to another bacterium. In lysogenic conversion, the viral DNA is integrated with the bacterial DNA and thus can code for new characteristics, like toxin production. The conversion of non-toxigenic bacterial strains to toxigenic by infecting them with bacteriophages is known as lysogenic conversion.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp6_img1_ee4d348e.jpeg",
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following factors does not affect the toxin production of Corynebacterium diphtheria?",
+      "options": {
+        "A": "Concentration of iron in the medium",
+        "B": "Tox phage",
+        "C": "Biotype",
+        "D": "Concentration of zinc in the medium"
+      },
+      "correct_answer": "D",
+      "explanation": "Toxin production of Corynebacterium diphtheria depends on the concentration of iron in the medium, presence of tox phage, and its biotype. Concentration of zinc in the medium has no effect on this process. An increase in iron concentration (option A) upregulates the DT (diphtheria toxin) repressor gene, thereby decreasing the toxin production. The optimum level of iron in the medium for toxin production is 0.14 µg/millilitre, while a concentration of 0.5 µg/millilitre inhibits the formation of toxins. The gene for diphtheria toxin is coded by bacteriophage (corynebacteriophage tox+) and thus the presence of phages (option B) is integral to toxin production. Toxin production also depends on the biotype (option C) - gravis, intermedius, mitis, and belfanti - of the bacilli. All four biotypes are toxigenic. Diphtheria toxin is also produced by Corynebacterium ulcerans and Corynebacterium pseudotuberculosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 8,
+      "question": "What is Elek's gel precipitation test used to test?",
+      "options": {
+        "A": "Susceptibility to Corynebacterium diphtheriae",
+        "B": "Biotype of Corynebacterium diphtheriae",
+        "C": "Toxigenicity of Corynebacterium diphtheriae",
+        "D": "Antibody titer against Corynebacterium diphtheriae"
+      },
+      "correct_answer": "C",
+      "explanation": "Elek's test is used to test the toxigenicity of Corynebacterium diphtheriae. Elek's gel precipitation test is an in vitro immunoprecipitation (immunodiffusion) test used to determine whether or not a strain of Corynebacterium diphtheriae is toxigenic. In this test, a rectangular strip of filter paper impregnated with diphtheria antitoxin is placed on the surface of a 20% normal horse serum agar. Narrow streaks of the C. diphtheriae strains are made at right angles to the filter paper strip with positive and negative controls. If the strain produces toxins, the toxin will diffuse in the agar and produce a line of precipitation (arrowhead) where it meets the antitoxin at optimum concentration. The test is shown in the image below. Elek's gel precipitation test: Filter paper strip with C. diphtheriae toxin. Precipitin line. Known toxigenic C. diphtheriae. Option A: For checking susceptibility to diphtheria, the Schick test is used. Option B: The biotype of diphtheria can be determined based on colony morphology and biochemical reactions. Option D: The antibody titer against diphtheria can be measured by various serological methods like passive hemagglutination, latex agglutination test, toxoid enzyme-linked immunosorbent assay (Toxoid-ELISA), and toxin-binding inhibition ELISA (TOBI-ELISA).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp8_img1_8044b961.jpeg",
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 9,
+      "question": "What diphtheria antibody titer is considered optimally protective? 0.1",
+      "options": {
+        "A": ">0.1 IU/ml",
+        "B": ">0.01 IU/ml",
+        "C": ">0.05 IU/ml",
+        "D": ">0.5 IU/ml"
+      },
+      "correct_answer": "A",
+      "explanation": "Diphtheria antibody titer is considered optimally protective if the titer is >0.1 IU/mL. Diphtheria is primarily the result of the action of diphtheria toxin, not bacterial invasion. Hence, antibodies to the diphtheria toxin are a good measure of protection against diphtheria. These antibodies can be induced by immunization with diphtheria toxoid vaccine. The titers of IgG antibody against diphtheria toxoid vaccine reflect various levels of protection against the disease as follows: • <0.01 IU/mL: No protection ⚫ 0.01-0.1 IU/mL: Minimal protection • >0.1 IU/mL: Optimal protection. Note: The question asks for the optimally protective titer and not the minimum effective titer, which is >0.01 IU/mL.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 10,
+      "question": "A 5-year-old boy presented with fever, sore throat, dysphagia, and a tonsillar pseudomembrane. Which of the following complications will you not anticipate in him?",
+      "options": {
+        "A": "Asphyxia",
+        "B": "Otitis media",
+        "C": "Myocarditis",
+        "D": "Pupillary paralysis"
+      },
+      "correct_answer": "D",
+      "explanation": "A child with fever, sore throat, dysphagia, and a tonsillar pseudomembrane likely has diphtheria. Pupillary reactions remain normal and pupillary paralysis is not a complication seen with diphtheria. The complications of diphtheria include asphyxia due to the mechanical airway obstruction by the pseudomembrane. Myocarditis and polyneuropathy are toxic complications of diphtheria. Patients may develop post-diphtheritic paralysis involving palatine and ciliary nerves. Paralysis of the diaphragm and neurogenic bladder dysfunction may also occur. Acute circulatory failure, septic complications, such as pneumonia and otitis media, and renal failure may also occur.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following features is not typically seen in diphtheroids?",
+      "options": {
+        "A": "They possess few or no metachromatic granules",
+        "B": "They are usually arranged in parallel rows",
+        "C": "Most of them do not produce toxins",
+        "D": "They do not ferment sucrose"
+      },
+      "correct_answer": "D",
+      "explanation": "Diphtheroids ferment both sucrose and glucose, whereas Corynebacterium diphtheriae ferments only glucose. Sucrose fermentation is done to differentiate between C. diphtheriae and diphtheroids. Diphtheroids: • They are corynebacteria resembling C. diphtheriae which occur as normal commensals in the throat, skin, conjunctiva, and other areas. • In general, diphtheroids stain more uniformly than diphtheria bacilli and possess few or no metachromatic granules. Most of them do not produce toxins. • They tend to be arranged in parallel rows (palisades) rather than the cuneiform pattern. • The common diphtheroids include Corynebacterium xerosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 12,
+      "question": "A 45-year-old fisherman presents with pain and a lesion in his hand similar to what is shown in the image. What is the causative organism for this condition?",
+      "options": {
+        "A": "Streptococcus pyogenes",
+        "B": "Corynebacterium xerosis",
+        "C": "Erysipelothrix rhusiopathiae",
+        "D": "Bacillus anthracis"
+      },
+      "correct_answer": "C",
+      "explanation": "The above image shows a raised, well-circumscribed, violaceous lesion with the absence of pus. Thus, it is erysipeloid, which is a skin infection caused by Erysipelothrix rhusiopathiae. Erysipeloid usually occurs on the fingers by direct inoculation at the site of a cut or abrasion, in people who handle animals, fish, or animal products. Pain, swelling, and erythema develop, and the condition has been called seal finger and whale finger. Pus is usually absent at the infection site, which helps differentiate it from staphylococcal and streptococcal skin infections. It resolves without treatment in 3-4 weeks. Erysipelothrix rhusiopathiae is a slender, non-motile, non-sporing Gram-positive bacillus. It is catalase, oxidase, and indole negative. It causes disease in multiple land animals, like swine, turkeys, and sheep. Note: Erysipelas is caused by Streptococcus pyogenes. It presents as erythematous raised lesions with sharply demarcated edges.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q12_img1_11ac9343.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 13,
+      "question": "A 1-day-old newborn developed severe sepsis and died after 1 day despite aggressive treatment. On examination, multiple granulomas are present over the skin. The organism isolated from the blood sample shows the motility depicted below. What is the most likely causative organism?",
+      "options": {
+        "A": "Treponema pallidum",
+        "B": "Vibrio cholera",
+        "C": "Listeria monocytogenes",
+        "D": "Clostridium"
+      },
+      "correct_answer": "C",
+      "explanation": "Early onset sepsis with skin granulomas and organisms showing tumbling motility points to a diagnosis of granulomatosis infantiseptica caused by Listeria monocytogenes. Listeria monocytogenes shows slow tumbling motility when grown at 25 °C. But at 37°C, it is non-motile because the peritrichous flagella are produced by the bacillus optimally between 20°C and 30°C. This is known as differential motility as the motility pattern changes with a change in temperature. Listeria moves from cell-to-cell using the host cell actin framework. Listeria infection can manifest as febrile gastroenteritis, bacteremia, neurolisteriosis, and granulomatosis infantiseptica.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q13_img1_e5fc9f4d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 14,
+      "question": "A 45-year-old man presents to the OPD with complaints of fever with chills, headache, abdominal pain, and diarrhea. He gives a history of consuming raw refrigerated cucumbers the previous day. What is the most likely etiologic organism?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Bacillus cereus",
+        "C": "Listeria monocytogenes",
+        "D": "Vibrio cholerae"
+      },
+      "correct_answer": "C",
+      "explanation": "Fever, headache, abdominal pain, diarrhea following consumption of refrigerated food is suggestive of food poisoning caused by Listeria monocytogenes. Listeria monocytogenes can survive at refrigerator temperatures (4°C), under conditions of low pH and high salt. So it is able to overcome food preservation and safety barriers, making it an important foodborne pathogen. Healthy persons exposed to L. monocytogenes in food may develop a mild, self-limiting febrile gastroenteritis lasting 1-3 days. This develops after an incubation period of 6-48 hours. Symptoms include fever, chills, headache, myalgias, abdominal pain, and diarrhea. Immunocompromised individuals can develop meningoencephalitis, bacteremia, or focal infections. The drug of choice is high-dose intravenous ampicillin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 15,
+      "question": "Multiple abscesses with discharging sinuses, demonstrating sulfur granules in pus, are caused by",
+      "options": {
+        "A": "Actinomyces",
+        "B": "Nocardia",
+        "C": "Salmonella",
+        "D": "Tularemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Multiple abscesses with discharging sinuses, demonstrating sulfur granules in pus, are characteristic of actinomycosis caused by Actinomyces. Actinomycosis is a chronic granulomatous infection characterized by indurated swellings in the connective tissue with suppuration and discharge of sulfur granules. The most common causative agent is Actinomyces israelii. Various clinical forms of actinomycosis include cervicofacial, thoracic, abdominal, and pelvic actinomycosis. Among them, oral-cervicofacial actinomycosis is most common, presenting as a soft tissue swelling, abscess, or mass lesion involving the angle of the jaw.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is a false statement regarding Nocardia?",
+      "options": {
+        "A": "They are aerobes",
+        "B": "They are acid-fast",
+        "C": "They are commensals",
+        "D": "They produce urease"
+      },
+      "correct_answer": "C",
+      "explanation": "Nocardia are free-living organisms and not commensals. Nocardia are aerobic Gram-positive filamentous bacilli. They are non-sporing. They are considered weakly acid-fast, determined by Kinyoun's acid-fast staining technique. They produce urease and are catalase positive. They are found in the soil. Nocardia asteroides is the Nocardia species which is most commonly involved in human disease (cutaneous and systemic). The paraffin bait technique is used for the isolation of Nocardia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 17,
+      "question": "133. Identify the organism from the given image.",
+      "options": {
+        "A": "Mycobacterium leprae",
+        "B": "Mycobacterium tuberculosis",
+        "C": "Actinomyces israelii",
+        "D": "Nocardia asteroides"
+      },
+      "correct_answer": "D",
+      "explanation": "The organism shown in the image is Nocardia asteroides. Nocardia species are weakly acid-fast filamentous organisms with hyphae-like branching on microscopy. They are aerobic, gram-positive, catalase-positive, and urease-positive. They are weakly acid-fast because they stain with carbolfuchsin and retain the stain when decolorized with 1-4% sulfuric acid instead of the stronger acid-alcohol decolorant. Infection follows traumatic inoculation of the organism into the subcutaneous tissue from soil or vegetable sources. They can present with a characteristic powdery substance that appears as gritty or necrotic material on the skin or within soft tissues. Accompanying this are multiple discharging sinuses, which are abnormal openings that form as the body attempts to expel infected material. These sinuses can drain purulent, often foul-smelling discharge typically associated with localized abscesses, and the discharge may be viscous, sometimes containing necrotic tissue. Other options: Options A and B: Mycobacteria species are acid-fast but do not have branching filaments. Option C: Actinomyces species are not acid-fast. They are Gram-positive and arranged in a sun-ray appearance.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q17_img1_175185dd.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 18,
+      "question": "A patient presents with a mobile, warm to touch nodule in the neck. On the anaerobic culture of the biopsy material from this swelling, it showed colonies as shown in the image which had gram-positive branching rods on staining. Which of the following is the drug of choice in this condition?",
+      "options": {
+        "A": "Doxycycline",
+        "B": "Cotrimoxazole",
+        "C": "Penicillin",
+        "D": "Surgical drainage"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image shows molar tooth colonies that are characteristic of Actinomyces species. The given clinical scenario of a mobile, warm to touch nodule in the neck describes cervicofacial actinomycosis, also known as 'lumpy jaw syndrome'. Penicillin is the drug of choice for Actinomyces infection. Actinomyces are gram-positive anaerobic bacilli that produce molar tooth colonies on incubation for 72 hours on brain-heart infusion agar. They cause a chronic suppurative and granulomatous infection called actinomycosis. It can present as one of the following clinical types: \n   • Cervicofacial type - Fluctuant mass in the jaw area producing draining fistulas.\n   • Thoracic type - Pulmonary infection with fever, cough, and purulent sputum.\n   • Abdominal type - Occurs following ruptured appendix or ulcer. It may spread throughout the peritoneum and involve multiple organs.\n   Actinomycosis can spread to bones and surrounding tissue and produce multiple discharging sinuses. Treatment requires prolonged administration of penicillin for 6-12 months. In penicillin-allergic patients, clindamycin or erythromycin is effective. Surgical excision and drainage may be required in some cases.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q18_img1_ea85134c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following toxins act by inhibiting elongation factor-2?",
+      "options": {
+        "A": "1 & 4",
+        "B": "2 & 4",
+        "C": "3 & 4",
+        "D": "4 & 5"
+      },
+      "correct_answer": "A",
+      "explanation": "Both diphtheria toxin and Pseudomonas exotoxin act by inhibiting elongation factor-2 (EF-2).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 20,
+      "question": "The most common clinical form of actinomycosis is",
+      "options": {
+        "A": "Abdominal",
+        "B": "Cervicofacial",
+        "C": "Pelvic",
+        "D": "Thoracic"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common clinical form of actinomycosis is cervicofacial. Actinomycosis is a chronic granulomatous infection characterized by indurated swellings, mainly in the connective tissue, suppuration, and discharge of sulfur granules. The most common causative agent is Actinomyces israelii. Various clinical forms of actinomycosis involve cervicofacial, thoracic, abdominal, and pelvic actinomycosis. Among them, actinomycosis most frequently occurs as an oral-cervicofacial form presenting as a soft tissue swelling, abscess, or mass lesion involving the angle of the jaw.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp20_img1_f83eae7f.jpeg",
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed explanations: Fever, sore throat, and difficulty in swallowing with the presence of a dirty white pseudomembrane on the posterior pharynx is strongly suggestive of diphtheria caused by Corynebacterium diphtheriae. They are described as club-shaped gram-positive bacilli. Corynebacterium diphtheriae are gram-positive, non-sporing, non-capsulated, and non-motile bacilli. They possess polymetaphosphate granules that serve as storage granules and are called metachromatic granules. These give the bacilli a beaded or club-shaped appearance on microscopic examination. The given scenario is suggestive of diphtheria caused by Corynebacterium diphtheria. This organism is stained using Albert's stain, which contains toluidine blue 'O' and malachite green. Both these dyes have an affinity for acidic cytoplasm as they are basic dyes. Albert's, Neisser's, and Ponder's stain are used to demonstrate the metachromatic granules (Volutin/Babes Ernst granules) of Corynebacterium diphtheria. Corynebacterium diphtheria appears as green-coloured bacilli with purple-blue-coloured metachromatic granules in a cuneiform arrangement.",
+      "options": {
+        "A": "Gram-negative diplococci describe Neisseria meningitis and N. gonorrhoeae.",
+        "B": "Spiral gram-negative bacteria describe Campylobacter spp. and Helicobacter spp.",
+        "C": "Gram-positive cocci in chains describe Streptococci. They typically cause acute exudative pharyngitis characterized by purulent exudate over the tonsils.",
+        "D": "Gram-positive rods with club-shaped ends, beaded appearance, and a Chinese-letter pattern of arrangement are indicative of Corynebacterium diphtheriae."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is related to the staining method used for Corynebacterium diphtheriae, which is Albert's stain. This stain is used to demonstrate the metachromatic granules of Corynebacterium diphtheriae, and it contains toluidine blue 'O' and malachite green. These dyes have an affinity for acidic cytoplasm as they are basic dyes.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q1_img1_a3bb173a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_6890e13c.jpeg",
+      "chapter_heading": "Corynebacterium, Listeria and Actinomyces"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "chapter": "Myxoviruses and Rhabdoviruses",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following RNA viruses has an 8 segmented genome with its site of replicationbeing the nucleus?",
+      "options": {
+        "A": "Influenza virus",
+        "B": "Measles virus",
+        "C": "Rubella virus",
+        "D": "Mumps virus"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_e0823ba7.jpeg",
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 2,
+      "question": "A microbiologist working on influenza virus in a lab, observes reversal of hemagglutination.What is this phenomenon known as?",
+      "options": {
+        "A": "Hemolysis",
+        "B": "Precipitation",
+        "C": "Elution",
+        "D": "Complement fixation"
+      },
+      "correct_answer": "C",
+      "explanation": "©MARROWHemagglutinin (HA)Neuraminidase(NA)Matrixprotein/lonchannel (M2)Lipid bilayer406Elution is the process of reversal of hemagglutination and the release of the virus from the red cellsurface.Influenza virus contains two surface antigens:• Hemagglutinin (HA) - causes RBC agglutination; facilitates viral entry into cells•Neuraminidase (NA) - an enzyme that destroys the receptor HA uses to bind to RBCs causingelution/reversal of hemagglutination. Hence, it is also called a receptor destroying enzyme (RDE).RNA polymerase(PB1, PB2, PA)Structure of Influenza virusNon-structuralprotein (NS1)-Nuclearexportprotein(NS2/NEP)Viralribonucleoprotein10 0 0 0 0 0 0 0 0 0 6000All(VRNPs)Nucleoprotein (NP)foodporMatrix protein (M1)MARROWHemagglutinin (HA)Neuraminidase(NA)Matrixprotein/lonchannel (M2)Lipid bilayer",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp2_img1_7419348a.jpeg",
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is true regarding antigenic drift?",
+      "options": {
+        "A": "There is a gradual sequential change in antigenic structure",
+        "B": "It doesn't account for the periodic epidemics of influenza",
+        "C": "The new antigens thus formed are totally unrelated to the previous antigens",
+        "D": "Antibodies to the predecessor viruses do not neutralise the new variants"
+      },
+      "correct_answer": "A",
+      "explanation": "Antigenic drift causes a gradual sequential change in antigenic structure.It accounts for periodic epidemics. This property forms the basis for the development of annualinfluenza vaccines.Antigenic variation is a property of influenza viruses by which it alters the antigenic structure onits surface and thus avoids a host immune response. It is of two types - Antigenic shift andantigenic drift.Antigenic structurePeriodicityEpidemiological effectGenetic causeAntibodies to predecessor strainsAntigenic shiftAbrupt, drastic change10 - 20 yearsPandemics and major epidemicsLarge genetic re-assortmentDo not neutralize the new variantAntigenic driftGradual, sequential change2 - 3 yearsPeriodic epidemic and sporadic casesPoint mutationNeutralizes the new variant to varying degrees407Clinical relevanceAntigenic shiftAnimal-origin viruses infecting humans e.g. Swine flu, COVID-19Antigenic driftAnnual influenza vaccine developmentCommon cold - People can get flu more than once",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following organisms is represented by the given form of replication?399",
+      "options": {
+        "A": "Hepatitis virus",
+        "B": "Influenza virus",
+        "C": "HIV",
+        "D": "Herpes virusNAM2HAAdhesionEndocytosisFusion anduncoatingProteinsynthesisBuddingAssemblymRNAViralRNA (-)OMARROWReleaseNAinhibitorsRNPformationvRNA-strand RNAsynthesis+strand RNA synthesis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows the replication of influenza virus.Stages of replication:• Attachment, penetration, uncoating- the virus is internalized by receptor-mediated endocytosisTranscription and translation- Viral transcription occurs in the nucleus. The mRNAs areproduced from viral nucleocapsids.••Viral RNA replication- Viral genome replication is accomplished by the same virus-encodedpolymerase proteins involved in transcription.• Maturation- The virus matures by budding from the surface of the cell.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q4_img1_16b97902.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 5,
+      "question": "You receive multiple patients from a poultry farm presenting with fever, dyspnea, cold, andcough. You suspect an outbreak of Avian flu. Which of the following virus strains causes thesame?",
+      "options": {
+        "A": "H1N1",
+        "B": "H5N1",
+        "C": "H3N2",
+        "D": "H2N2"
+      },
+      "correct_answer": "B",
+      "explanation": "H5N1 is a strain of avian influenza.Transmission occurs only from birds (e.g. poultry). Recombination occursin pigs. Human-to-human transmission is very rare.It causes flu-like symptoms and can cause severe respiratory illness.Option A: H1N1 causes swine fluOption C: H3N2 causes Hong Kong fluOption D: H2N2 caused a pandemic in 1957",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 6,
+      "question": "A 4-year-old girl with a history of fever, rhinorrhea, sore throat, and myalgia presented withmultiple episodes of vomiting and seizures. She was diagnosed with Reye's syndrome. Whichof the following is incorrect about the most likely etiological agent?",
+      "options": {
+        "A": "Virus shedding is present before symptoms begins",
+        "B": "5-12 years is a high risk group",
+        "C": "Aquatic birds act as reservoir400",
+        "D": "Secondary attack rate is 5-15%"
+      },
+      "correct_answer": "B",
+      "explanation": "The most likely etiological agent in the given case of Reye's syndrome is the influenza virus.Children &lt;5-years, especially those &lt;2-years of age are at the highest risk of seriouscomplications related to influenza infection. Other high-risk groups for influenza includeadults ≥60 years of age, persons with chronic diseases, persons who are immunocompromised.Option A: The virus is shed in respiratory secretions a day before the onset of illness and for 3-4days thereafter.Option C: Birds, especially aquatic birds act as reservoirs of influenza viruses.Option D: Secondary attack rate is 5-15%.408Note: Reye's syndrome is precipitated by the interaction of a viral infection (such asinfluenza) with salicylates. Therefore, aspirin is not given to pediatric patients with influenza andinfluenza-like illness.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 7,
+      "question": "A 12-year-old boy is brought to the OPD with complaints of headache and drowsiness since 2days. He had a history of fever, ear pain, and difficulty in swallowing for 1 week. Onexamination, you see the following. Brudzinki's sign is positive. What is the most likelydiagnosis?",
+      "options": {
+        "A": "Croup",
+        "B": "Mumps",
+        "C": "Infectious mononucleosis",
+        "D": "Herpangina"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario with fever, parotitis, headache, drowsiness, and positive Brudzinki'ssign is suggestive of meningitis secondary to mumps.Mumps is caused by the mumps virus and is characterized by fever, bilateral or unilateral parotidswelling which may be tender. Parotitis can present with ear pain and difficulty in swallowing. Itusually resolves in a week.Meningoencephalitis/aseptic meningitis can occur before, along with, or after parotitis. Mostcommonly, it manifests 5 days after parotitis. It can present with headache, neck stiffness, anddrowsiness.Complications of mumps:•Aseptic meningitis or meningoencephalitis⚫ Epididymo-orchitis- Usually unilateral. Seen in post-pubertal males••Oophoritis• Other complications include pancreatitis and myocarditisNote: Non-mumps parotitis can be caused by:• Epstein-Barr virus - causes infectious mononucleosis• Coxsackievirus causes herpangina-• Parainfluenza virus causes croup",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q7_img1_d56f52f3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 8,
+      "question": "A 9-month-old child is brought to the OPD for MMR vaccine. Which strain of mumps virus isused in the same?",
+      "options": {
+        "A": "Edmonston-Zagreb strain",
+        "B": "Nakayama strain",
+        "C": "Jeryl-Lynn strain",
+        "D": "RA 27/3401"
+      },
+      "correct_answer": "",
+      "explanation": "The strain of mumps virus used in the MMR vaccine (Measles, Mumps, Rubella) is the Jeryl-Lynnstrain.The virus is attenuated by serial passage in embryonated eggs and grown in chick embryofibroblast culture.Note: The schedule of MMR vaccine as per the National Immunisation Schedule is from 9completed months to 12 months. (can be given till 5 years of age).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 9,
+      "question": "A mother brings her 5-month-old baby to the casualty with complaints of fast breathing andpoor feeding. She also gives a history of fever, cold, and cough for 3 days. On examination,nasal flaring and expiratory wheeze are present. Which of the following statements is falseabout the viral etiology of the same?",
+      "options": {
+        "A": "The cytopathic effect is syncytium formation",
+        "B": "Ribavirin is the drug of choice",
+        "C": "Omalizumab is given for prophylaxis",
+        "D": "It is the most important cause of bronchiolitis"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of bronchiolitis caused by the respiratory syncytial virus(RSV). Palivizumab is given for RSV prophylaxis in high-risk infants such as premature babies,409immunocompromised infants, etc.Option A - The characteristic cytopathic effect is syncytium formation (multinucleated giant cell).Option B - Inhaled ribavirin is the drug of choice.Option D - RSV causes upper and lower respiratory tract infections in infants, and is the mostcommon cause of bronchiolitis from ages 6 weeks to 6 months. It can cause pneumonia andtracheobronchitis and is common during winters and monsoon.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 10,
+      "question": "An unimmunized man presents with fever, malaise, and an erythematous rash starting frombehind the ears and progressing to the face and trunk. Given below is an image of lymphoidtissue taken from this patient. What pathological finding do you see here?",
+      "options": {
+        "A": "Warthin-Finkeldey giant cells",
+        "B": "Warthin-Starry stain",
+        "C": "Langhans giant cells",
+        "D": "Aschoff giant cells"
+      },
+      "correct_answer": "A",
+      "explanation": "Warthin-Finkeldey cells are seen here. These are multinucleate giant cells, which are found in thelymphoid tissues of patients with measles.The cytopathic effect of measles consists of multinucleate syncytium formation with numerousacidophilic nuclear and cytoplasmic inclusions, as shown in the image below.Option B: Warthin-Starry stain is used to detect spirochetes and to stain H. pylori and B. henselaeOption C: Langhans giant cells are seen in tuberculosis.Option D: Aschoff giant cells are seen in rheumatic fever",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q10_img1_ca7551a6.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp10_img1_b09cf4ed.jpeg",
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 11,
+      "question": "402A 3-year-old boy with no prior immunization history presents with fever, cough, and coryza.On examination of the buccal mucosa, you see the following. Which stage of the disease isthis finding seen in?",
+      "options": {
+        "A": "Prodromal stage",
+        "B": "Post measles stage",
+        "C": "Eruptive stage",
+        "D": "All the stages"
+      },
+      "correct_answer": "",
+      "explanation": "The given image shows Koplik's spots present in measles. They are seen during the prodromalphase of the illness.Koplik's spots are small bluish-white ulcerations on the buccal mucosa opposite to the first andsecond lower molars and are pathognomonic of measles. They contain giant cells, cytoplasmic andintranuclear inclusions, and virion components. They can involve the entire buccal mucosa andfade as the maculopapular rash develops.410Stages of measles:The natural history of measles has 3 stages as follows:• Prodromal stage - It begins 10 days after infection and lasts until day 14. It consists of cough,coryza, redness of eyes, lacrimation, photophobia, vomiting, and diarrhea. Koplik's spots appearin this stage.•Eruptive stage - A dusky, red maculopapular rash appears. It starts behind the ears spreadsdownwards to the trunk and lower extremities. Antibodies appear in this stage and are detectableby IgM ELISA. The symptoms such as fever and rash usually resolve spontaneously or go on todevelop complications.• Post-measles stage - Weakness and weight loss may persist. The infection may become chronicand cause secondary infections such as cancrum oris, candidiasis etc.The image below shows Koplik's spotsMARROWKoplik's spotsThe image below shows the characteristic maculopapular rash in measles411",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q11_img1_e8a03261.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following disease has the highest mortality once clinically manifested?",
+      "options": {
+        "A": "Nipah",
+        "B": "Rabies",
+        "C": "Ebola",
+        "D": "Zika"
+      },
+      "correct_answer": "",
+      "explanation": "Rabies is a vaccine-preventable, zoonotic, viral disease. Once clinical symptoms appear, rabies isvirtually 100% fatal.Spread of rabies:•Centripetal spread -• The virus enters the peripheral neurons, it moves via retrograde fast axonal transport towardsthe spinal cord or brainstem a.k.a the central nervous system (CNS) at a speed of up to 250mm/day.• Once within CNS, it spreads quickly to other regions in the CNS through fast axonal transport. Itinfects neurons primarily, but may rarely infect astrocytes.Centrifugal spread - After CNS infection is established, it spreads along the sensory andautonomic nerves to:•Salivary glands• Adrenal glands• SkinRabies virus replicates in acinar cells of the salivary glands and is secreted in the saliva of rabidanimals that serve as vectors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 13,
+      "question": "A 26-year-old pet-groomer was brought to the casualty with a history of breathlessness,excessive agitation, and restlessness. His bystanders give a history of progressive behavioralchange and he had a fever, sore throat, and generalized weakness 1 month back. Onexamination, pulse was 100 bpm, SpO2 was 98% on room air. Which of the followingsamples will not be preferred to detect the etiological agent?403",
+      "options": {
+        "A": "Corneal impression",
+        "B": "Cerebrospinal fluid",
+        "C": "Saliva",
+        "D": "Skin biopsies including hair follicles"
+      },
+      "correct_answer": "",
+      "explanation": "The given case scenario is highly suggestive of rabies. Corneal impression smears are notperformed, as they are of low diagnostic yield.Laboratory diagnosis of rabies is performed by the following methods:• Antigen detection - Direct immunofluorescence (IF) from specimens of:• Skin biopsy from the nape of the neck including hair follicles. Rabies antigen is present in•cutaneous nerves at the base of hair follicles. It is the most sensitive and specific test.Corneal smears were previously used. They are not used anymore as they are of low diagnosticyield.• Viral isolation- Intracerebral inoculation in mice can be attempted from the brain, CSF, andsaliva.• Antibody demonstration from serum and CSF.• Viral RNA detection by RT-PCR.• Postmortem examination of brain tissue samples- demonstration of Negri bodies.412",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 14,
+      "question": "An officer of the Indian Forest Services is bitten by a rabid fox while on duty. Which of thefollowing statements is true about the etiological agent?",
+      "options": {
+        "A": "The incubation period is 4 to 5 days",
+        "B": "It doesn't produce Negri bodies",
+        "C": "It causes disease",
+        "D": "It doesn't affect salivary gland"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario is suggestive of infection with the street form of rabies virus. Street rabiescauses disease.All mammals are susceptible to rabies. Cattle, cats and foxes are highly susceptible, whereas dogsand humans have intermediate susceptibility.Differences between street rabies and fixed rabies:Street rabiesFixed rabies (produced by repeated passages)Doesn't cause diseaseCauses diseaseProduces Negri bodyAffects salivary glandsIncubation period- 3 montDoesn't produce Negri bodyDoesn't affect salivary glandsIncubation period- 4-5 dayshs",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 15,
+      "question": "A 23-year-old man was brought to you with a history of fever, behavioral changes, andseizures. He is foaming at the mouth and is unable to ingest liquids. The patient was admittedto the ICU, however he died soon after. Post mortem brain samples showed the followingfinding. What is the diagnosis?",
+      "options": {
+        "A": "Yellow fever virus",
+        "B": "Rabies virus",
+        "C": "CMV404",
+        "D": "Molluscum contagiosum"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image showing Negri bodies and the case scenario of fever, neurological symptomslike seizures and altered sensorium, hydrophobia (due to painful muscle contractions duringswallowing liquids), and hypersalivation are suggestive of encephalitic rabies.Negri bodies are eosinophilic cytoplasmic inclusions in neurons that are composed of rabies virusproteins and viral RNA. These are commonly observed in Purkinje cells of the cerebellum and inpyramidal neurons of the hippocampus. Their presence is a characteristic pathologic finding inrabies.The image below shows Negri bodies:NegribodiesOMARROW413Negri-bodiesNucleus",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q15_img1_d7524041.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp15_img1_94a3edb9.jpeg",
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 16,
+      "question": "Babes nodules are seen in which of the following conditions?",
+      "options": {
+        "A": "Polio",
+        "B": "Rabies",
+        "C": "Diphtheria",
+        "D": "Herpes"
+      },
+      "correct_answer": "",
+      "explanation": "Babes nodules are seen in rabies. Mononuclear inflammatory infiltration in the leptomeninges,including microglial nodules are called Babes nodules.Babes nodulesOMARROWThe most characteristic pathologic finding in rabies is the Negri body. These are eosinophiliccytoplasmic inclusions in brain neurons that are composed of rabies virus proteins and viral RNA.The image given below shows Negri bodies.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp16_img1_f5474198.jpeg",
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following statements is false regarding rabies vaccination?",
+      "options": {
+        "A": "Bitten dog should be observed for a minimum of 10 days.",
+        "B": "Four-dose regimen is given as 0.1ml intramuscularly on days 0, 3, 7 and 28.",
+        "C": "Pre-exposure prophylaxis regimen consists of 3 doses.",
+        "D": "The dose of human anti rabies immunoglobulin is 20 IU/kg."
+      },
+      "correct_answer": "B",
+      "explanation": "NegribodiesOMARROWNegri-bodies- Nucleus414According to the Updated Thai Red Cross Regimen (2-2-2-0-2) for post exposure prophylaxis,reconstituted rabies vaccine is given as follows:• 0.1 ml intradermally• Sites - two sites at the same visit. It is given in both the deltoids• Schedule Days 0, 3, 7, and 28-Healthy dogs, cats, or ferrets may be confined and observed for 10 days.The dosage of equine rabies immunoglobulin (eRIG) is 40 IU/kg while that of human anti-rabiesimmunoglobulin (hRIG) is 20 IU/kg body weight.PrEP regimens for individuals of all ages are as follows:•Three intramuscular or intradermal vaccine doses on days 0, 7, and 21 or 28.415",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Myxoviruses and Rhabdoviruses"
+    }
+  ]
+}

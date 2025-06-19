@@ -1,0 +1,215 @@
+{
+  "chapter": "Applied Microbiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "While assessing the quality of drinking water in a village, you detect the presence of coliformbacilli by the multiple tube technique. Following this, you decide to perform the Eijkman test.What is this test also known as?",
+      "options": {
+        "A": "Presumptive coliform count",
+        "B": "Differential coliform test",
+        "C": "Colony plate count",
+        "D": "Methylene blue reduction test"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 2,
+      "question": "Faecal contamination of a water source is suspected by the mayor of a municipal corporation.He asks you to test the water for evidence of recent contamination. The presence of which ofthe following organisms would suggest this?",
+      "options": {
+        "A": "Shigella",
+        "B": "Enterococcus",
+        "C": "Clostridium",
+        "D": "Staphylococcus"
+      },
+      "correct_answer": "B",
+      "explanation": "Recent fecal contamination of water is suggested by the presence of enterococcus (fecalstreptococci).Clostridium perfringens may be present for a long duration. If it is present in water, it suggeststhat contamination is not recent.If Escherichia coli is detected, it is definitive proof of fecal contamination. However, it isnon-specific for suggesting the duration of the contamination.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following tests is not used for bacteriological examination of milk?",
+      "options": {
+        "A": "Methylene blue reduction test",
+        "B": "Phosphatase test",
+        "C": "Resazurin test",
+        "D": "Pasteurisation"
+      },
+      "correct_answer": "D",
+      "explanation": "Pasteurization is not used for the bacteriological examination of milk.Pasteurization is the process of applying heat, to milk, for a specified period for the purpose ofkilling pathogenic bacteria. There are two methods: holder method and flash method.Option A: Methylene blue reduction test depends on the reduction of methylene blue by bacteriain milk when incubated at 37 °C in complete darkness.Option B: Resazurin test is similar to methylene blue reduction test, but the dye resazurin onreduction passes through a series of colour changes from blue to pink to colourless. The shade ofcolour after incubation with milk for a particular period of time depends on the degree ofcontamination.608Option C: Phosphatase test is used to check whether milk has been pasteurised. Positive test afterpasteurisation of milk shows contamination after pasteurisation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 4,
+      "question": "The following image depicts:602Mouse challenged with antigenSpleen CellsFusionMyeloma CellsHybridomas]Culture in HAT MediumSelect for positive cellsHarvest monoclonalantibodies",
+      "options": {
+        "A": "Production of monoclonal antibodies",
+        "B": "Cell lines for viral culture",
+        "C": "Vaccine synthesis",
+        "D": "Process of genetic engineering29:one"
+      },
+      "correct_answer": "A",
+      "explanation": "The image depicts the production of monoclonal antibodies by hybridoma technology.The following are the steps involved in hybridoma technology:• Mice are immunized with an antigen. After several weeks of immunization, blood samples areobtained from mice for measurement of serum antibodies.• When the antibody titer is high enough, mice are commonly boosted by injecting antigenwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized and theirspleens removed for in vitro hybridoma cell production.•Fusing antibody-producing spleen cells, which have a limited life span with myeloma cells(derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable ofunlimited growth.• The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HATmedium) which allows only the fused cells to survive in culture.• Monoclonal antibodies are then harvested.Hybridoma monoclonal antibody productionMouse challenged with antigenSpleen CellsHybridomasFusionMyeloma CellsCulture in HAT MediumSelect for positive cellsHarvest monoclonalantibodies",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q4_img1_4172cac8.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_ad6eabab.jpeg",
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following statements about hybridoma is false?",
+      "options": {
+        "A": "Specific antibody-producing cells are integrated with myeloma cells.",
+        "B": "Myeloma cells using salvage pathway grow well in HAT medium.",
+        "C": "Aminopterin, a folate antagonist, inhibits de novo pathway.",
+        "D": "HGPRTase and thymidylate synthetase are required for salvage pathway."
+      },
+      "correct_answer": "B",
+      "explanation": "Aminopterin is a folate antagonist present in the HAT medium that inhibits the de novo pathwayof nucleotide synthesis. Since myeloma cells cannot use the salvage pathway for nucleotidesynthesis due to the lack of HGPRTase enzyme, they cannot survive in the HAT medium.609Hybridoma technology is a method for producing large numbers of identical antibodies(monoclonal antibodies).Hybridomas are somatic cell hybrids produced by fusing the antibody-forming spleen cells withmyeloma cells. The resultant hybrid thus has both the antibody-producing ability of the B-cell andthe ability to multiply indefinitely of the myeloma.The following are the steps involved in hybridoma technology:•Mice are immunized with an antigen. After several weeks of immunization, blood samples areobtained from mice for measurement of serum antibodies..⚫ When the antibody titer is high enough, mice are commonly boosted by injecting antigenwithout adjuvant intraperitoneally or intravenously. Then the mice are euthanized andtheir spleens removed for in vitro hybridoma cell production.• Fusing antibody-producing spleen cells, which have a limited life span with myelomacells (derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable ofunlimited growth.•⚫ The cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HATmedium) which allows only the fused cells to survive in culture.•• Monoclonal antibodies are then harvested.Hybridoma monoclonal antibody productionMouse challenged with antigenSpleen CellsHybridomas]FusionMyeloma CellsCulture in HAT MediumSelect for positive cellsHarvest monoclonalantibodies",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_c247f8cf.jpeg",
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is both a diffusion and a dilution method of testing antibioticsensitivity?",
+      "options": {
+        "A": "Kirby-Bauer method",
+        "B": "Stokes method",
+        "C": "Epsilometer method",
+        "D": "Tube dilution method603"
+      },
+      "correct_answer": "",
+      "explanation": "Epsilometer (E-test) is both a diffusion and a dilution method of testing antibiotic sensitivity.It is a quantitative technique for determining the antimicrobial susceptibility (AST) and minimuminhibitory concentration (MIC) in µg/mL of gram-negative and gram-positive aerobic bacteria.610CTX256128643216825.12.0603015The antibiotic sensitivity tests are classified as follows:• Diffusion methods: Kirby-Bauer method, Stokes method• Dilution methods: Tube dilution method, Agar dilution method•• Diffusion and dilution method: E-test (Epsilometer)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp6_img1_cc53f775.jpeg",
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 7,
+      "question": "In which of the following is the disc diffusion method for antibiotic susceptibility testingapplied?",
+      "options": {
+        "A": "Agar dilution method",
+        "B": "Kirby-Bauer method",
+        "C": "Broth dilution method",
+        "D": "PCR based assay"
+      },
+      "correct_answer": "B",
+      "explanation": "The disc diffusion method for antibiotic susceptibility testing is applied in the Kirby-Bauermethod.To perform Kirby-Bauer's disc diffusion method, a suitable standard dilution of a broth culture ofthe test bacterium is inoculated on the surface of a solid medium (Cation-adjusted Mueller-Hintonagar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. Zones ofinhibition around the disc are recorded and interpreted according to the zone diameters availablein the tables of the Clinical and Laboratory Standards Institute (CLSI) guidelines. The resultsobtained are qualitative (resistant, sensitive, or partially sensitive).Laboratory testing for antibiotic sensitivity can be done by:• Diffusion method- Kirby-Bauer disc diffusion method, Stokes disc diffusion method• Dilution method- broth dilution method, agar dilution method•Combination of diffusion and dilution method- E-test (Epsilometer)The image below shows Kirby-Bauer disc diffusion method.611",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp7_img1_0f2dabd8.jpeg",
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following methods of antibiotic susceptibility testing cannot be used to calculatethe minimum inhibitory concentration of an antimicrobial drug?",
+      "options": {
+        "A": "Kirby-Bauer method",
+        "B": "Tube dilution method",
+        "C": "Agar dilution method",
+        "D": "Epsilometer method"
+      },
+      "correct_answer": "A",
+      "explanation": "Minimum inhibitory concentration (MIC) cannot be calculated using Kirby-Bauer's disk diffusionmethod and Stokes disk diffusion method as they are semi-quantitative methods.MIC is the lowest concentration of an antimicrobial agent that will inhibit the visible growth of amicroorganism.Methods to determine MIC include:• Tube dilution method•Agar dilution method•⚫ E-test method",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 9,
+      "question": "A microbiologist is about to run a polymerase chain reaction assay on the serum of a patientsuspected to have Q fever. He wishes to quantify the PCR by monitoring the amplificationprocess while the PCR is ongoing. Which of the following types of PCR should he perform?",
+      "options": {
+        "A": "Multiplex PCR",
+        "B": "Nested PCR",
+        "C": "Reverse transcriptase PCR",
+        "D": "Real time PCR"
+      },
+      "correct_answer": "D",
+      "explanation": "Real-time polymerase chain reaction (PCR) can be used to quantify the PCR by monitoring theamplification process while the PCR is ongoing.Types of PCR:• Reverse transcriptase PCR- The enzyme reverse transcriptase (RT) is used to synthesize acomplementary copy of DNA (cDNA) from RNA and this cDNA is then used as a template forPCR.• Real-time PCR- This helps quantify the PCR and gives an estimate of the pathogen DNA load inthe specimen. It uses fluorescent dyes or specific DNA probes. It is also known as qPCR(Quantitative PCR)• Multiplex PCR- Primers to more than one pathogen are used simultaneously and hence multipleproducts are obtained.612• Nested PCR- It involves the sequential use of two primer sets. The first primer set is used foramplification and the amplicon obtained is then used as a target sequence for secondamplification. This ensures specificity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following investigations does not use antibody marking?",
+      "options": {
+        "A": "ELISA",
+        "B": "Radioimmunoassay",
+        "C": "Immunofluorescence604",
+        "D": "Hemagglutination Test"
+      },
+      "correct_answer": "D",
+      "explanation": "The hemagglutination test is not based on the principle of antibody marking.When antibodies bind to antigens on the surface of red blood cells, the resultant clumpingreaction is referred to as hemagglutination. It is routinely performed to type red blood cells inABO blood-typing.The image below shows hemagglutination.AgglutinationabsentAgglutinationabsentAgglutinationpresentABRhOMARROW0+ blood groupIn ELISA, radioimmunoassay and immunofluorescence, the antigens or antibodies are labeled ormarked with enzymes, fluorescent dyes, etc.Note: If no hemagglutination occurs it means the patient's serum has anti-haemagglutininantibodies that bind to hemagglutinin and prevent the clumping reaction. This hemagglutinationinhibition reaction is a method of detection of viruses and antiviral-antibodies and is used tomake a diagnosis of influenza.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp10_img1_54ee5250.jpeg",
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is not used as an immediate test in the screening of urinary tractinfections?",
+      "options": {
+        "A": "Pour plate culture",
+        "B": "Griess Nitrite test",
+        "C": "Leukocyte esterase test",
+        "D": "Wet mount examination"
+      },
+      "correct_answer": "A",
+      "explanation": "Pour plate culture (quantitative test) is not used as an immediate test for screening ofUTI. However, it is considered the best diagnostic test for confirmation of UTI due it's highsensitivity and specificity.The screening tests for UTI are as follows:• Wet mount examination- It is done to demonstrate pus cells in urine.613•Leukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterasessecreted by pus cells present in urine.• Nitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result.•Catalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result.Quantitative Culture:•Standardized loop technique•• Pour plate method",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 12,
+      "question": "The CLED medium is preferred over MacConkey agar for the culture of organisms in case ofUTI because:",
+      "options": {
+        "A": "It inhibits proteus swarming",
+        "B": "It promotes the growth of candida, streptococcus and staphylococcus",
+        "C": "It differentiates between lactose-fermenting and non-lactose fermenting bacteria",
+        "D": "It promotes the growth of pseudomonas"
+      },
+      "correct_answer": "B",
+      "explanation": "CLED (Cysteine lactose electrolyte-deficient) medium is preferred over MacConkey agar for theculture of organisms involved in urinary tract infections because it is less inhibitory and promotesthe growth of gram-positive bacteria (except ẞ hemolytic streptococcus) and candida.It is used as an alternative to the combination of blood agar and MacConkey agar, for theprocessing of urine specimens.CLED medium is not similar to blood agar in the fact that it can prevent swarming of proteus. It issimilar to MacConkey agar in that it differentiates between lactose fermenters andnon-fermenters.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp12_img1_68d30bc4.jpeg",
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 13,
+      "question": "A patient who had been receiving ceftazidime and amikacin via central venous line for a weeksuddenly spiked a fever. Blood culture is positive for a vancomycin-resistant,catalase-negative organism whose Gram-stained image is given below. Identify the organism.605",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Viridans streptococciEnterococcus faecalisd) Coagulase-negative staphylococcusQuestion 14:Which of the following is a bioterrorism category A agent?a) Nipah virusb) Anthrax",
+        "C": "Coxiella",
+        "D": "Brucella"
+      },
+      "correct_answer": "",
+      "explanation": "From the given case scenario and image we can deduce that the most likely organism involved isEnterococcus faecalis.The image shows gram-positive cocci in chains, that are described as catalase negative. This helpsrule out Staphylocococcus aureus and coagulase-negative staphylococcus.614Streptococcus viridans is usually sensitive to penicillin and vancomycin hence it is ruled out.The mechanism of vancomycin resistance seen in E. faecalis is the alteration of theD-alanyl-D-alanine chain in the cell wall.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q13_img1_d8b55c15.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Applied Microbiology"
+    },
+    {
+      "q_no": 15,
+      "question": "The test kit shown in the image below works on the principle of:606HBsAgID:MAROW",
+      "options": {
+        "A": "ELISA",
+        "B": "Immunochromatography",
+        "C": "Immunofluroscence",
+        "D": "ChemiluminiscenceOMARROWS"
+      },
+      "correct_answer": "B",
+      "explanation": "The above image shows a HbsAg card test kit which works on the principleof immunochromatography.The immunochromatographic membrane is used for antigen detection, while a nitrocellulosemembrane is used to absorb the antigen from a specimen. A coloured reaction appears directly onthe membrane with the sequential addition of conjugate followed by the substrate. In some cases,the antigen is captured by a bound antibody directed against the antigen. These assays have theadvantage of being rapid and also frequently include a built-in internal control.615",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Applied Microbiology"
+    }
+  ]
+}

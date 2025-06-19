@@ -1,0 +1,335 @@
+{
+  "chapter": "Vibrio and Campylobacterales",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A child presents with profuse, painless diarrhea. Stool microscopy shows the following finding. What is this characteristic appearance called?",
+      "options": {
+        "A": "School of fish appearance",
+        "B": "Railroad appearance",
+        "C": "Fish in stream appearance",
+        "D": "Drumstick appearance"
+      },
+      "correct_answer": "D",
+      "explanation": "The drumstick appearance is characteristic of certain intestinal parasites.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q1_img1_b3af66f7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 2,
+      "question": "While studying the microscopic features of Vibrio cholerae, you observe the following finding. What type of motility can you see here?",
+      "options": {
+        "A": "Lashing motility",
+        "B": "Swarming motility",
+        "C": "Darting motility",
+        "D": "Twitching motility"
+      },
+      "correct_answer": "C",
+      "explanation": "The given microscopic finding shows the darting motility characteristic of Vibrio cholerae. Vibrio cholerae is actively motile with a polar flagellum. The actively motile vibrios appear like a 'swarm of gnats'.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q2_img1_cd023199.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 3,
+      "question": "On the basis of which antigen is Vibrio cholerae classified under the Sakazaki typing scheme?",
+      "options": {
+        "A": "O antigen",
+        "B": "K antigen",
+        "C": "H antigen",
+        "D": "O and H antigen"
+      },
+      "correct_answer": "A",
+      "explanation": "Vibrio cholerae are classified based on O antigen, under the Sakazaki typing scheme. Based on the presence or absence of O antigen, V. cholerae is classified as O1, which agglutinate with antisera to the O1 group (agglutinable vibrios), and non-O1, which do not agglutinate with antisera to the O1 group (non-agglutinable vibrios). As per the Gardner and Venkatraman classification, Vibrios are classified into Group A (V. cholerae) and Group B (others) based on H antigen or flagellar antigen. Gardner and Venkatraman classification: Gardner and Venkatraman Classification - Groups, Subgroups/serogroups/serovars, O1, Biotypes, Classical, Serotypes, Ogawa, V. cholerae, Vibrio, Other Vibrio spp., O139, Non O1/O139 (O2 to O200), El Tor, Inaba, Hikojima.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp3_img1_06bc6f9f.jpeg",
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements is false regarding non-agglutinable vibrios?",
+      "options": {
+        "A": "They belong to serogroup O2 – O200",
+        "B": "They are mostly pathogenic",
+        "C": "They are not agglutinated by O-1 antiserum.",
+        "D": "These are similar to V. cholerae in most cultural and biochemical reactions"
+      },
+      "correct_answer": "B",
+      "explanation": "Non-agglutinable vibrios are non-pathogenic (except O139) and hence, they are called non-cholera vibrios. The vibrios that are not agglutinated by O-1 antiserum are called non-agglutinable (NAG) vibrios. They belong to the serogroups O2-O200, of which only serogroup O-139 is known to cause epidemics of cholera. They are similar to Vibrio cholerae in most biochemical reactions and culture characteristics, except that they are hemolytic to sheep erythrocytes and give a positive Voges-Proskauer reaction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 5,
+      "question": "A microbiologist studying Vibrio cholera added sulfuric acid to a 24-hour peptone culture of the organism and a reddish-pink color developed. Which of the following is true about the test he performed?",
+      "options": {
+        "A": "It is known as the methyl red test",
+        "B": "A nitrosoindole compound is formed giving it the red color",
+        "C": "The red color is obtained due to pigment production by the bacteria",
+        "D": "The red color is obtained due to acid and gas production by Vibrio"
+      },
+      "correct_answer": "B",
+      "explanation": "The test described here is the 'cholera red reaction' given by Vibrio cholera. When a few drops of concentrated sulfuric acid are added to a 24-hour peptone water culture, a reddish-pink color develops due to the formation of nitrosoindole. Vibrio cholerae reduce nitrates to nitrites and convert tryptophan to indole. These two properties contribute to the cholera red reaction. The methyl red (MR) test is used to detect the production of sufficient acid during the fermentation of glucose by bacteria. It is used to classify Enterobacteriaceae. Vibrio cholera does not produce any colored pigment. Vibrio ferments carbohydrates leading to production of acid but no gas.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_19ef1c0f.jpeg",
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 6,
+      "question": "A 20-year-old woman presents with complaints of passing profuse loose stools that look like rice water for the past 3 days. There is a history of similar symptoms in the family. Stool samples were sent to the lab for analysis and the test given in the image is performed. Identify this test.",
+      "options": {
+        "A": "Loop test",
+        "B": "String test",
+        "C": "Wire test",
+        "D": "Duodenal string test"
+      },
+      "correct_answer": "B",
+      "explanation": "The given case scenario of passing profuse rice-water stools with similar complaints in the family suggests a probable diagnosis of cholera. The test shown in the above image is the string test, and it is performed to identify Vibrio cholerae. To perform the string test, a loopful of the bacterial culture is mixed with a drop of 0.5% sodium deoxycholate in saline on a slide. The bacterial cells of Vibrio cholerae are lysed by sodium deoxycholate, causing the suspension to lose its turbidity and become mucoid. A string is formed when the loop is drawn away from the suspension. Note: The duodenal string test refers to the Entero test performed for the diagnosis of giardiasis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q6_img1_7d6c1581.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following bacteria is not microaerophilic?",
+      "options": {
+        "A": "Helicobacter pylori",
+        "B": "Campylobacter jejuni",
+        "C": "Mycobacterium bovis",
+        "D": "Vibrio cholerae"
+      },
+      "correct_answer": "D",
+      "explanation": "Vibrio cholerae is a facultative anaerobe and is not microaerophilic.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 8,
+      "question": "The disruption of which of the following is responsible for watery diarrhea in cholera caused by Vibrio?",
+      "options": {
+        "A": "Intercalated discs",
+        "B": "Macula densa",
+        "C": "Zonula occludens",
+        "D": "Hemidesmosomes"
+      },
+      "correct_answer": "C",
+      "explanation": "The disruption of zonula occludens is responsible for watery diarrhea in cholera caused by Vibrio cholerae. Zonula occludens toxin (Zot) is an enterotoxin elaborated by Vibrio cholerae that increases intestinal permeability by interacting with a mammalian cell receptor with subsequent activation of intracellular signaling leading to the disassembly of the intercellular tight junctions. Mechanism of action of cholera toxin: The cholera toxin molecule consists of 1 A and 5 B subunits. The B (binding) units attach to the GM1 ganglioside receptors on the surface of jejunal epithelial cells. The A (active) subunit, on being transported into the enterocyte, dissociates into A1 and A2. A2 fragment only links biologically active A1 to the B subunit. A1 causes prolonged activation of cellular adenylate cyclase and accumulation of cAMP, leading to outpouring into the small intestinal lumen, of large quantities of water and electrolytes. This leads to watery diarrhea which is isotonic with plasma but contains much more potassium and bicarbonate. The toxin also inhibits the intestinal absorption of sodium and chloride. All clinical manifestations and complications in cholera result from the massive water and electrolyte depletion thus caused.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp8_img1_3eb18a47.jpeg",
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 9,
+      "question": "A young child was brought to the ER with a history of loose stools. On examination, she is tachycardic, appears lethargic and skin goes back slowly after the skin pinch test. She was admitted and started on IV fluids and input-output charting was done. The given image shows stool output from the patient. Which of the following is the mechanism of action of the toxin responsible for the same?",
+      "options": {
+        "A": "Inhibit elongation factor -2",
+        "B": "Toxin causes increased guanyl cyclase activity",
+        "C": "The toxin causes continued activation of adenylate cyclase",
+        "D": "Inhibit 60S ribosomal subunit"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario of dehydration, profuse diarrhea, and rice water stools is suggestive of cholera. Cholera toxin causes continued activation of adenylate cyclase. Mechanism of action of cholera toxin: The cholera toxin molecule consists of 1 A and 5 B subunits. The B (binding) units attach to the GM1 ganglioside receptors on the surface of jejunal epithelial cells. The A (active) subunit, on being transported into the enterocyte, dissociates into A1 and A2. A2 fragment only links biologically active A1 to the B subunit. A1 causes prolonged activation of cellular adenylate cyclase and accumulation of cAMP, leading to outpouring into the small intestinal lumen, of large quantities of water and electrolytes and the consequent watery diarrhea, that is isotonic with plasma but contains much more of potassium and bicarbonate. The toxin also inhibits the intestinal absorption of sodium and chloride. All clinical manifestations and complications in cholera result from the massive water and electrolyte depletion thus caused.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q9_img1_019a9d3b.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp9_img1_b5d56b7d.jpeg",
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following does not play a role in the virulence of Vibrio cholerae?",
+      "options": {
+        "A": "Lipopolysaccharide",
+        "B": "Flagella",
+        "C": "Pilus",
+        "D": "Cholera toxin"
+      },
+      "correct_answer": "A",
+      "explanation": "Vibrio cholerae possesses lipopolysaccharide (LPS) O antigen, but it plays no role in the pathogenesis of cholera. It is responsible for the immunity induced by killed vaccines. Factors involved in virulence of Vibrio cholerae: • In the small intestine, vibrios can cross the protective layer of mucus and reach the epithelial cells by using mucinase and other proteolytic enzymes. • Toxin co-regulated pilus (TCP) is essential for the adhesion to the epithelial surface and colonization of the bacteria in the small intestine. • Cholera toxin (also known as choleragen and cholera enterotoxin) causes watery diarrhea through a cAMP-mediated pathway.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 11,
+      "question": "An El Tor vibrio was identified to be the causative agent of a diarrhea epidemic. Which of the following is not a characteristic feature of this organism?",
+      "options": {
+        "A": "Resistant to El Tor phage V",
+        "B": "Intrinsic resistance to polymyxin B",
+        "C": "Voges-Proskauer test is positive",
+        "D": "Not susceptible to group IV phage"
+      },
+      "correct_answer": "A",
+      "explanation": "El Tor vibrios are susceptible to El Tor phage V.232",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 12,
+      "question": "You are a medical officer at a district hospital and receive 13 patients with rice-water diarrhea and dehydration. You suspect cholera and want to send the stool samples to the hospital lab. Which of the following media will you not use?",
+      "options": {
+        "A": "Venkatraman-Ramakrishnan medium",
+        "B": "Cary-Blair medium",
+        "C": "Monsur's GTTA medium",
+        "D": "Nutrient agar"
+      },
+      "correct_answer": "D",
+      "explanation": "Nutrient agar is not used to transport Vibrio cholerae. It is a simple medium used to grow non-fastidious organisms, but not to transport them. Transport media for Vibrio cholerae: Venkatraman-Ramakrishnan (VR) medium, Cary-Blair medium. If the specimen can reach the laboratory in a few hours, it may also be transported in enrichment media. Examples include: Alkaline peptone water, Monsur's medium. If transport media are not available, strips of blotting paper may be soaked in the watery stool and sent to the laboratory packed in plastic envelopes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following bacteria shows the Kanagawa phenomenon?",
+      "options": {
+        "A": "Vibrio cholerae",
+        "B": "Vibrio parahaemolyticus",
+        "C": "Vibrio vulnificus",
+        "D": "Vibrio alginolyticus"
+      },
+      "correct_answer": "B",
+      "explanation": "The Kanagawa phenomenon is shown by Vibrio parahaemolyticus. It refers to hemolysis occurring when the bacteria are inoculated on Wagatsuma agar. Pathogenic strains of V. parahaemolyticus are hemolytic, while non-pathogenic strains are non-hemolytic. This phenomenon occurs due to a heat-stable hemolysin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 14,
+      "question": "An outbreak of food poisoning in a coastal city is determined to be due to contaminated seafood. The causative bacteria formed the following colonies on TCBS agar and showed hemolysis on Wagatsuma agar. Which of the following statements regarding the organism implicated here is false?",
+      "options": {
+        "A": "It is non-capsulated",
+        "B": "It shows bipolar staining",
+        "C": "It produces peritrichous flagella on solid medium",
+        "D": "It gives a positive string test"
+      },
+      "correct_answer": "A",
+      "explanation": "The given case scenario of an organism that caused food poisoning due to contaminated seafood, in addition to the cultural characteristics, is suggestive of food contamination by Vibrio parahaemolyticus. It is a capsulated organism. V. parahaemolyticus is an enteropathogenic halophilic vibrio that is an important cause of food poisoning throughout the world. It inhabits the coastal seas, where it is found in shrimps, crabs, and oysters. It forms opaque green colonies with a raised centre and flat translucent periphery on TCBS agar, unlike V. cholera, which forms yellow colonies. Pathogenic strains show hemolysis on Wagatsuma agar, which is known as the Kanagawa phenomenon. This can be used as a test for pathogenicity. Other options: Option B: It shows bipolar staining and has a tendency for pleomorphism, especially when grown on 3% salt agar. Option C: Unlike other vibrios, it produces peritrichous flagella when grown on solid media. Polar flagella are formed in liquid cultures. Option D: The string test is positive, like with V. cholera.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q14_img1_77fa1da8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following vibrios has the highest salt tolerance?",
+      "options": {
+        "A": "Vibrio mimicus",
+        "B": "Vibrio parahaemolyticus",
+        "C": "Vibrio vulnificus",
+        "D": "Vibrio alginolyticus"
+      },
+      "correct_answer": "D",
+      "explanation": "Vibrio with the highest salt tolerance of up to 10% NaCl is Vibrio alginolyticus. The salt tolerances of vibrio species are as follows: V. cholerae optimally grows at 0.5-1% NaCl concentration. Its growth is inhibited by high concentrations of >6% NaCl. V. mimicus grows best at low salt concentrations of 0.5-1% like V. cholerae. V. parahaemolyticus grows optimally at a salt concentration of 2-4%. It has a salt tolerance up to 8%. V. vulnificus has a salt tolerance similar to V. parahaemolyticus. V. alginolyticus has the highest salt tolerance of up to 10% NaCl.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 16,
+      "question": "A fisherman presented to the ER with a wound on his left leg. He tells you he had gotten a small cut a week back that got worse after his recent fishing trip. On examination, you note vesicles and bullae around the wound. Specimen taken from the bullae revealed lactose-fermenting colonies. What is the causative agent?",
+      "options": {
+        "A": "Vibrio cholerae",
+        "B": "Vibrio parahaemolyticus",
+        "C": "Vibrio vulnificus",
+        "D": "Vibrio alginolyticus"
+      },
+      "correct_answer": "C",
+      "explanation": "The given case scenario of contact with seawater of an existing wound leading to cellulitis by a lactose-fermenting bacteria suggests infection with Vibrio vulnificus. V. vulnificus ferments lactose but not sucrose. It has a salt tolerance of up to 8%. Soft-tissue infections can occur after contact with seawater and progress to cellulitis. Primary septicemia can occur in patients, typically with underlying liver disease, who have acquired the organism through the gastrointestinal tract after recent consumption of raw shellfish. Note: V. cholerae, V. parahaemolyticus, and V. alginolyticus do not ferment lactose, although lactose may be split very slowly by V. cholerae.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 17,
+      "question": "All of the following are correctly matched except:",
+      "options": {
+        "A": "Vibrio parahaemolyticus - Food poisoning",
+        "B": "Vibrio alginolyticus - Infections of the eyes, ears, and wounds",
+        "C": "Vibrio vulnificus - Dysentery",
+        "D": "Vibrio cholerae - Watery diarrhea"
+      },
+      "correct_answer": "C",
+      "explanation": "Vibrio vulnificus causes wound infection following contact of open wounds with seawater. In immunocompromised hosts, and particularly those with liver disease, it penetrates the gut mucosa following ingestion. It may not cause any gastrointestinal manifestations and directly enters the bloodstream, leading to the rapid development of septicemia with high mortality. Other options: Option A: V. parahaemolyticus causes food poisoning associated with marine food. It also causes acute diarrhea, unassociated with food poisoning. Option B: V. alginolyticus has been associated with infections of the eyes, ears, and wounds in human beings exposed to seawater. Option D: Cholera is caused by V. cholerae via its toxin but it does not cause dysentery, which is characterized by bloody diarrhea. It is mainly associated with watery diarrhea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 18,
+      "question": "A 17-year-old presents to you with complaints of passing loose stools. Given below are the findings of his stool microscopy. Infection with which of the following bacteria would you consider in your differential diagnosis?",
+      "options": {
+        "A": "Shigella dysenteriae",
+        "B": "Campylobacter jejuni",
+        "C": "Leptospira interrogans",
+        "D": "Helicobacter pylori"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clip shows darting motility, which is seen in Vibrio cholerae and Campylobacter jejuni. Thus, among the given options, infection with C. jejuni should be considered as a differential diagnosis in this case. Campylobacter jejuni possesses a single polar flagellum, hence it exhibits darting motility. Shigella dysenteriae is a non-motile organism.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q18_img1_e367387b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 20,
+      "question": "A young man presented with bloody diarrhoea, abdominal pain, and fever. Lab investigations showed leucocytosis and stool microscopy revealed RBCs and leucocytes. Darkfield microscopy showed a bacteria having darting motility. Which of the following is a selective culture medium for this organism?",
+      "options": {
+        "A": "Skirrow's media",
+        "B": "PLET medium",
+        "C": "BSK medium",
+        "D": "BCYE medium"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario of fever, bloody diarrhea, abdominal pain and leucocytosis, along with microscopy findings of RBCs and WBCs in fecal smear, and an organism having darting motility, are suggestive of infection with Campylobacter jejuni. The selective culture medium used for Campylobacter is Skirrow's media. Other selective media for Campylobacter include: Butzler's medium and Campy-BAP media. The transport medium used for Campylobacter is the Cary-Blair medium.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 21,
+      "question": "Identify the organism & the stain seen in the image given below.",
+      "options": {
+        "A": "Campylobacter jejuni; Gimenez stain",
+        "B": "Helicobacter pylori; modified Giemsa stain",
+        "C": "Treponema pallidum; Levaditi stain",
+        "D": "Helicobacter pylori; Warthin-Starry stain"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image shows Helicobacter pylori stained using Warthin-Starry stain. H. pylori is a Gram-negative spiral rod that is motile by a unipolar tuft of lophotrichous flagella. The bacteria are present only in the mucus overlying the gastric mucosa and do not actually invade into the mucosa. The given image shows Helicobacter pylori on gastric mucosa stained with Warthin-Starry silver stain. Warthin-Starry staining for Helicobacter pylori.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q21_img1_927d611f.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp21_img1_6f4bbf71.jpeg",
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following organisms produce urease?",
+      "options": {
+        "A": "Helicobacter pylori",
+        "B": "Salmonella",
+        "C": "Escherichia coli",
+        "D": "Shigella"
+      },
+      "correct_answer": "A",
+      "explanation": "Helicobacter pylori produces urease. Urease-producing organisms: (Mnemonic-PUNCH) • Proteus • Ureaplasma urealyticum • Nocardia • Cryptococcus, Corynebacterium urealyticum • H. pylori",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    },
+    {
+      "q_no": 23,
+      "question": "You are a surgery resident evaluating a 45-year-old female patient with complaints of burning abdominal pain for the past 2 months that is relieved by taking food. You determine the disease to have a bacterial etiology. Which of the following is the most sensitive test to detect the causative organism here?",
+      "options": {
+        "A": "Culture",
+        "B": "Serology",
+        "C": "Urea breath test",
+        "D": "Histology"
+      },
+      "correct_answer": "C",
+      "explanation": "The given case scenario is suggestive of a duodenal ulcer caused by Helicobacter pylori. The urea breath test is the most sensitive test for the diagnosis of Helicobacter pylori infection. To perform this test, the patient drinks a urea solution labeled with radioactive carbon-14. The patient then blows into a tube. If H. pylori urease is present, the urea is hydrolyzed, and labeled carbon dioxide is detected in breath samples. The sensitivity of the urea breath test is >90%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vibrio and Campylobacterales"
+    }
+  ]
+}

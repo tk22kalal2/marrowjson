@@ -1,0 +1,290 @@
+{
+  "chapter": "Streptococci and Enterococci",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the Lancefield grouping of β-hemolytic streptococci based on?",
+      "options": {
+        "A": "T antigen",
+        "B": "M protein",
+        "C": "Group-specific cell wall polypeptide",
+        "D": "Group-specific C carbohydrate antigen"
+      },
+      "correct_answer": "D",
+      "explanation": "The Lancefield grouping is based on the group-specific C carbohydrate antigen found on the cell walls of the bacteria.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_7419e25a.jpeg",
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 2,
+      "question": "An elderly diabetic lady presented with swelling and pain of her right leg following a skin biopsy. She was febrile at the time of examination and hemorrhagic bullae with necrosis of the surrounding skin were noted on her leg. Gram staining of the pus collected from the bullae is shown below. Which of the following is the most likely organism causing this condition?",
+      "options": {
+        "A": "Clostridium histolyticum",
+        "B": "Streptococcus pyogenes",
+        "C": "Staphylococcus aureus",
+        "D": "Clostridium perfringens"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical vignette is strongly suggestive of necrotizing fasciitis, which is most commonly caused by Streptococcus pyogenes (Group A beta-hemolytic streptococcus). Necrotizing fasciitis is a rapidly progressive inflammatory infection of the fascia, with secondary necrosis of the subcutaneous tissues. It has also been referred to as Meleney ulcer, acute dermal gangrene, hospital gangrene, suppurative fasciitis, and synergistic necrotizing cellulitis. The source of the infection is either the skin, with organisms introduced into the tissue through trauma, or the bowel flora, with organisms released during abdominal surgery. The onset of symptoms is usually quite acute and is marked by severe pain at the site of involvement, malaise, fever, chills, and a toxic appearance. The affected limb is edematous with the overlying skin turning dusky with mottled erythema and the development of hemorrhagic bullae. This is a surgical emergency as the condition is rapidly fatal. Treatment of the condition includes: Surgical intervention is the major therapeutic modality in cases of necrotizing fasciitis. Antibiotics - penicillin (1-4 million U IV q4h) plus clindamycin (600-900 mg IV q8h).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q2_img1_f4f5e98e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp2_img1_2ca127c0.jpeg",
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 3,
+      "question": "A 7-year-old child was brought in by her mother to the OPD with complaints of fever, sore throat, and a scarlatiniform rash. A throat swab was taken and sent to the lab for culture on blood agar. Which of the following factors is responsible for the zones of hemolysis seen in the culture below?",
+      "options": {
+        "A": "Lipoteichoic acid",
+        "B": "Streptolysin S",
+        "C": "Streptokinase",
+        "D": "Hyaluronidase"
+      },
+      "correct_answer": "B",
+      "explanation": "The given case scenario of a patient with fever, sore throat, and a scarlatiniform rash is suggestive of scarlet fever caused by Streptococcus pyogenes. Streptolysin S is the factor responsible for the zones of hemolysis seen around streptococcal colonies on blood agar. Streptococci produce two hemolysins: Streptolysin O is called so because it is oxygen-labile. It is also heat-labile and has specific cardiotoxic and leucotoxic activity. Streptolysin S is called so because it is soluble in serum. It is also oxygen-stable hemolysin. It is a protein but is not antigenic.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q3_img1_c11e719f.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp3_img1_f0282936.jpeg",
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following organisms produces a superantigen?",
+      "options": {
+        "A": "Staphylococcus epidermidis",
+        "B": "Streptococcus pyogenes",
+        "C": "Clostridium perfringens",
+        "D": "Vibrio cholerae"
+      },
+      "correct_answer": "B",
+      "explanation": "Streptococcus pyogenes produces streptococcal pyrogenic exotoxin (SPE), which is a superantigen. Superantigens are protein toxins that stimulate large numbers of T cells, irrespective of antigen specificity. They bind to the class II MHC molecule outside the peptide-binding groove and the Vβ region of the TCR. Some examples of superantigens are staphylococcal enterotoxins, toxic shock syndrome toxin, and group A streptococcal pyrogenic exotoxin.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_4307d333.jpeg",
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following types of streptococcal pyrogenic exotoxins is bacteriophage mediated?",
+      "options": {
+        "A": "type A & type B",
+        "B": "type C & type D",
+        "C": "type B & type D",
+        "D": "type A & type C"
+      },
+      "correct_answer": "D",
+      "explanation": "Streptococcal pyrogenic exotoxins type A and type C are bacteriophage-mediated toxins. The streptococcal pyrogenic exotoxin (SPE) is so named because the primary effect of the toxin is the induction of fever. It is also known as erythrogenic toxin because its intradermal injection into susceptible individuals produces an erythematous reaction (Dick Test). There are three types of streptococcal pyrogenic exotoxins, namely: type A, phage-mediated; type B, chromosome-mediated; and type C, phage-mediated.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is a streptococcal toxin responsible for connective tissue breakdown?",
+      "options": {
+        "A": "Hyaluronidase",
+        "B": "Streptococcal Pyrogenic Exotoxin (SPE)",
+        "C": "Streptolysin O",
+        "D": "Serum opacity factor"
+      },
+      "correct_answer": "A",
+      "explanation": "Hyaluronidase is the streptococcal toxin responsible for connective tissue breakdown. Hyaluronidase, or spreading factor, is expressed by non-capsulated strains of Streptococcus pyogenes, such as M type 4 and 22. It acts by cleaving hyaluronic acid, which is present in the connective tissue, epithelial, and neural tissues. This results in the spread of infection along the intercellular space.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 7,
+      "question": "Which streptococcal antigen cross-reacts with myocardium?",
+      "options": {
+        "A": "Peptidoglycan",
+        "B": "Cell wall M protein",
+        "C": "Hyaluronic acid",
+        "D": "Cell wall C carbohydrate"
+      },
+      "correct_answer": "B",
+      "explanation": "Antibodies to the cell wall M antigen present on the Streptococcus cross-react with a similar myocardial antigen. This cross-reaction with myocardium is the cause of acute rheumatic fever.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 8,
+      "question": "A 12-year-old child presented with a sore throat for 3 days. Which of the following mediums is used to culture the throat swab?",
+      "options": {
+        "A": "Blood Agar",
+        "B": "Lowenstein-Jensen medium",
+        "C": "Stewart medium",
+        "D": "Chocolate Agar"
+      },
+      "correct_answer": "A",
+      "explanation": "Blood agar is the preferred culture media as it is used for the culture and isolation of Streptococcus pyogenes, which is the most common cause of sore throat. The selective medium for Streptococcus pyogenes is Crystal violet blood agar, and the transport media for this organism is Pikes medium.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following organisms show beta-hemolysis on blood agar, resistance to bacitracin, and a positive CAMP test?",
+      "options": {
+        "A": "Streptococcus pyogenes",
+        "B": "Streptococcus agalactiae",
+        "C": "Pneumococcus",
+        "D": "Enterococcus"
+      },
+      "correct_answer": "B",
+      "explanation": "Streptococcus agalactiae is a group B streptococci that shows beta-hemolysis on blood agar, is resistant to bacitracin, and gives a positive CAMP test. The CAMP test is used to identify group B beta-hemolytic streptococci based on their ability to form CAMP factor. This factor causes synergistic hemolysis with beta-hemolysin formed by Staphylococcus aureus, when Streptococcus agalactiae is inoculated perpendicular to a streak of Staphylococcus aureus on blood agar. This produces the characteristic arrow-head zone of hemolysis. The following table provides important laboratory characteristics which differentiate Streptococcus pyogenes from Streptococcus agalactiae. Species: Lancefield Group, Typical Hemolysis, Important Lab Characteristic: S. pyogenes: A, beta, Bacitracin sensitive, PYR test positive. S. agalactiae: B, beta, Bacitracin resistant, PYR test negative, Hippurate hydrolysis positive, CAMP test positive.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp9_img1_822b3c75.jpeg",
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 10,
+      "question": "A child presents to the OPD with an infective skin lesion over his leg. On microscopic examination of the pus from the lesion, gram-positive cocci in chains are visualized and culture shows β-haemolytic colonies on blood agar. Which of the following tests can be performed to identify the causative organism?",
+      "options": {
+        "A": "Bile solubility",
+        "B": "Optochin sensitivity",
+        "C": "Bacitracin sensitivity",
+        "D": "Catalase positive pus"
+      },
+      "correct_answer": "C",
+      "explanation": "β-hemolytic colonies on blood agar with gram-positive cocci in chains seen on microscopy suggest the organism is a β-hemolytic streptococcus. Bacitracin sensitivity is used to differentiate between group A and group B β-hemolytic streptococci. Group A: Bacitracin-sensitive (S. pyogenes). Group B: Bacitracin-resistant (S. agalactiae). Options A & B: Bile solubility and optochin sensitivity are used to differentiate Streptococcus pneumoniae and viridans streptococci. They are both α-hemolytic on blood agar, but some species of viridans streptococci are non-hemolytic. Option D: Catalase test is used to differentiate streptococcus and staphylococcus. Staphylococcus appears as clusters of gram-positive cocci on microscopy and not chains.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following bacteria is associated with the causation of colorectal carcinoma, rectal polyp, endocarditis, and septicemia and is pyrrolidinyl arylamidase test negative?",
+      "options": {
+        "A": "Streptococcus equisimilis",
+        "B": "Streptococcus gallolyticus",
+        "C": "Enterococcus",
+        "D": "Streptococcus pyogenes"
+      },
+      "correct_answer": "B",
+      "explanation": "Streptococcus gallolyticus is associated with the causation of colorectal carcinoma, rectal polyp, endocarditis, and septicemia and is pyrrolidinyl arylamidase test (PYR test) negative. Streptococcus gallolyticus, formerly called Streptococcus bovis, is a non-enterococcal Group D streptococci. It is bile insoluble, esculin hydrolysis positive, PYR negative, and shows no growth in 6.5% NaCl.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following organisms can survive up to 60°C, is PYR positive, and can grow on media with 6.5% NaCl?",
+      "options": {
+        "A": "Streptococcus pyogenes",
+        "B": "Streptococcus agalactiae, Enterococcus faecalis, Streptococcus pneumoniae",
+        "C": "Enterococcus faecium",
+        "D": "Coagulase-negative Staphylococcus"
+      },
+      "correct_answer": "C",
+      "explanation": "Among the given options, Enterococcus faecalis can survive up to 60°C, is PYR test positive, and can grow in the presence of 6.5% NaCl. Enterococci have the following features: • Formation of tiny deep pink colonies on MacConkey's medium • Survives at 60°C for 30 minutes. • Growth in the presence of 40% bile, 6.5% sodium chloride at pH 9.6. • PYR (Pyrrolidonyl Arylamidase) positive. • Esculin hydrolysis is positive. • Usually nonhemolytic, but may show α or β hemolysis. Option A: Streptococcus pyogenes is a delicate organism, easily destroyed by heat (54°C for 30 minutes), PYR positive. Option B: Streptococcus agalactiae is PYR test negative. Option D: Streptococcus pneumoniae are readily destroyed by heat (52°C for 15 minutes).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 14,
+      "question": "Oral examination of a young patient shows the following finding. Which bacteria belonging to the viridans group is most commonly implicated in this condition?",
+      "options": {
+        "A": "Streptococcus mutans",
+        "B": "Streptococcus mitis",
+        "C": "Streptococcus sanguis",
+        "D": "Streptococcus salivarius"
+      },
+      "correct_answer": "A",
+      "explanation": "The above image shows dental caries, which are commonly caused by Streptococcus mutans. It belongs to the viridans group/α-hemolytic streptococci. Streptococcus mutans breaks down the dietary sucrose, producing acid and a tough adhesive dextran. The acid damages dentine, while the dextrans bind together with food debris, epithelial cells, mucus, and bacteria to form dental plaques, leading to the formation of dental caries.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q14_img1_974457e7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 15,
+      "question": "A 49-year-old man presented with high-grade fever, cough, and shortness of breath. On examination, he was febrile, tachypneic, and tachycardic. A chest X-ray was performed, which is shown in the image. What is the single most likely causative organism?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Streptococcus pyogenes",
+        "C": "Streptococcus pneumoniae",
+        "D": "Haemophilus influenzae"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical history and the X-ray showing right lower lobe consolidation is strongly suggestive of lobar pneumonia, most commonly caused by Streptococcus pneumoniae (>95% of cases). Lobar pneumonia is an acute exudative inflammation of an entire pulmonary lobe. The below image shows the histopathological picture of lobar pneumonia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q15_img1_29ab0128.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp15_img1_e3da63ef.jpeg",
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 16,
+      "question": "A 70-year-old male presented with fever, chills, and cough associated with chest pain. His sputum sample was sent for culture on blood agar, which showed the presence of alpha-hemolytic colonies the following day. Which of the following best describes the organism likely implicated here?",
+      "options": {
+        "A": "Gram-positive cocci in short chains, catalase negative and bile resistant",
+        "B": "Gram-positive cocci in pairs, catalase negative and bile soluble",
+        "C": "Gram-positive cocci in clusters, catalase positive and coagulase positive",
+        "D": "Gram-positive cocci in clusters, catalase positive and coagulase negative"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario and the growth of alpha-hemolytic colonies from the sputum of the patient are strongly suggestive of pneumococcal pneumonia. Pneumococci are gram-positive cocci in pairs, catalase negative, and bile soluble. The image below shows Gram-positive cocci in pairs, bile solubility, and catalase reaction. The image below shows a positive bile solubility test shown by Streptococcus pneumoniae. The below image shows a catalase test.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp16_img1_94535fcc.jpeg",
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 17,
+      "question": "Quellung reaction is used to demonstrate",
+      "options": {
+        "A": "Capsule",
+        "B": "Cell wall",
+        "C": "Cell membrane",
+        "D": "Pili"
+      },
+      "correct_answer": "A",
+      "explanation": "Quellung reaction is used to demonstrate the capsule of streptococci. Quellung reaction (Quellung = swelling): • A suspension of pneumococci is mixed on a slide with a drop of type-specific antiserum and a loop full of methylene blue solution. • In the presence of homologous antiserum, the capsule becomes apparently swollen, sharply delineated and refractile. • The Quellung test can be done directly with sputum from acute pneumonia cases. The below image shows the swollen capsule of pneumococci following the addition of homologous antiserum. Pneumococcal Meningitis (Quellung Reaction - CSF Direct) Pneumococcal Cells (Pairs & Chains) Capsule",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp17_img1_7466ed12.jpeg",
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following factors is responsible for the draughtsman appearance of pneumococcal colonies?",
+      "options": {
+        "A": "Pneumolysin",
+        "B": "Autolysin",
+        "C": "Capsular polysaccharide",
+        "D": "Pneumotoxin"
+      },
+      "correct_answer": "B",
+      "explanation": "The factor responsible for the draughtsman appearance of pneumococcal colonies is autolysin. When pneumococci are incubated on blood agar for a prolonged duration, the resultant colonies are surrounded with concentric rings and have a central umbonation. This appearance of pneumococcal colonies is known as carrom coin appearance or draughtsman appearance. Autolysin is an amidase enzyme produced by pneumococci that cleaves peptidoglycan, leading to the autolysis of cells. It is also responsible for the bile solubility of pneumococci.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp18_img1_932fa676.jpeg",
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 19,
+      "question": "In a splenectomized patient, there is an increased risk of infection by all capsulated organisms. Which of the following is least likely to cause an infection in such patients?",
+      "options": {
+        "A": "Streptococcus pneumoniae",
+        "B": "Klebsiella pneumoniae",
+        "C": "Haemophilus influenzae",
+        "D": "Staphylococcus aureus"
+      },
+      "correct_answer": "D",
+      "explanation": "In splenectomized patients, there is an increased risk of infection by capsulated organisms, such as Streptococcus pneumoniae, Haemophilus influenzae, and Klebsiella pneumoniae. Staphylococcus aureus does not have a capsule and so poses no increased risk to these individuals. The phagocytosis of capsulated organisms is prevented by their capsule. Thus, the body's main defense against these organisms is the spleen. Certain components called opsonins attach to these capsulated organisms, and then they are delivered to the spleen, where their uptake is facilitated by receptors present on the surface of splenic phagocytes. After splenectomy, this defense mechanism is lost, leaving patients susceptible to infection from these bacteria.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following statements is true about the pneumococcal vaccine?",
+      "options": {
+        "A": "Pneumococcal polyvalent vaccine PPSV23 is indicated in splenectomized patients.",
+        "B": "Pneumococcal polyvalent vaccine PCV13 is contraindicated in children less than 2 years.",
+        "C": "Pneumococcal polyvalent vaccine PPV 23 gives protection for 10 years.",
+        "D": "Pneumococcal polyvalent vaccine is contraindicated if age > 65 years."
+      },
+      "correct_answer": "A",
+      "explanation": "Pneumococcal polyvalent vaccine PPSV23 is indicated in splenectomized patients. There are two kinds of polyvalent pneumococcal vaccines: Pneumococcal polysaccharide vaccine - PPSV23. It is indicated in splenectomized patients, sickle cell disease, immunocompromised patients, and patients above 65 years of age. The CDC currently recommends the administration of one additional dose of PPSV23 at least 5 years after the last dose. Children younger than 2 years old should not get this vaccine since they fail to mount an adequate response. Pneumococcal conjugate vaccine includes PCV10 and PCV13. It is indicated in children less than 2 years.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Streptococci and Enterococci"
+    }
+  ]
+}

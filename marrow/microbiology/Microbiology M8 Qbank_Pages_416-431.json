@@ -1,0 +1,275 @@
+{
+  "chapter": "Arboviruses and Picorna Viruses",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which family does yellow fever virus belong to?",
+      "options": {
+        "A": "Arboviridae",
+        "B": "Flaviviridae",
+        "C": "Bunyaviridae",
+        "D": "Picornaviridae"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 2,
+      "question": "A 10-year-old boy from Uttar Pradesh was rushed to the emergency department with aheadache, fever, and blurred vision followed shortly by unresponsiveness to verbalcommands. He is suspected to have viral encephalitis. Which of the following transmits thisendemic disease?",
+      "options": {
+        "A": "Aedes aegypti mosquito",
+        "B": "Culex mosquito",
+        "C": "Anopheles mosquito",
+        "D": "Mansonia mosquito"
+      },
+      "correct_answer": "",
+      "explanation": "Endemic viral encephalitis is suggestive of Japanese encephalitis. It is transmittedby Culex tritaeniorhynchus and Culex vishnuii.It is the leading cause of childhood neurological viral infection in India. In endemic areas such asNorth India, it typically affects children &lt;15 years of age as by early adulthood, the majority ofthe population has protective immunity following natural exposure to the virus.Ardeid birds like herons and egrets are reservoir hosts, while the amplifier hosts are pigs. It istransmitted by Culex mosquitoes, and human infection is a tangential dead end.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not true about Japanese encephalitis?",
+      "options": {
+        "A": "Transmitted by Culex vishnui",
+        "B": "Pig is the amplifier host",
+        "C": "Man acts as the reservoir",
+        "D": "Vaccinating pigs is helpful in disease control"
+      },
+      "correct_answer": "",
+      "explanation": "Humans are the dead-end hosts for the Japanese encephalitis virus.425Option A: The disease is transmitted by Culex tritaeniorhynchus and Culex vishnui (common inIndia) species.Option B: Herons act as reservoir hosts and pigs as amplifier hosts.Option D: The control measures include mosquito control, locating piggeries away from thehuman dwellings and vaccinating pigs.The image below shows the life cycle of the Japanese B encephalitis virus.Wild birdAmplifying hostHuman(Dead-end host)Domestic fowlDomestic animalLIFE CYCLE OF JAPANESE ENCEPHALITIS",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp3_img1_f7f66217.jpeg",
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 4,
+      "question": "A mother brings her 9-month-old child for vaccination against Japanese encephalitis. Whichof the following statements is false regarding this vaccine?416",
+      "options": {
+        "A": "Two doses are recommended at age 9 months and 18 months",
+        "B": "Inactivated vero cell culture is given 4 weeks apart",
+        "C": "Live vaccine SA 14-14-2 is administered intramuscularly",
+        "D": "The live attenuated vaccine can be given to adolescents"
+      },
+      "correct_answer": "",
+      "explanation": "Live SA 14-14-2 strain of Japanese encephalitis (JE) vaccine is administered subcutaneously.Types of JE Vaccines:SA 14-14-2 cell culture derived vaccineInactivated vero cell culturederived Kolar (Jenvac 82156XY)Live attenuatedRoute of administrationInactivatedSubcutaneousDosage2 dosesIntramuscular2 dosesDuration between doseSAgesAt ages 9months and 16-18 months4 weeks apartIntramuscular2 doses4 weeks apart9 months, 16-18 months, adolescents and non-immune adultsup to 15 yearsup to 18 yearS426",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient presents with fever, arthralgia, and pain behind the eyes for 3 days. Onexamination, she has the following rash. Lab reports show thrombocytopenia and leucopenia.What is the most likely diagnosis?",
+      "options": {
+        "A": "Dengue fever",
+        "B": "Malaria",
+        "C": "Typhoid",
+        "D": "Yellow fever"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario with the symptoms and the rash suggests dengue fever.It presents with sudden-onset fever, retro-orbital pain, myalgia, arthralgia, and a rash. The rash indengue appears as white islands on a red sea due to erythema with petechiae. The alternativename for dengue, breakbone fever, comes from the associated muscle and joint pains.Suspected cases of dengue are confirmed by the presence of NS1 antigen or IgM antibodies.The treatment of dengue is supportive with hydration taking top priority.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q5_img1_66fe48f0.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 6,
+      "question": "A 35-year-old wildlife photographer presents with sudden onset of fever, headache, andmyalgia. On examination, you notice gingival bleeds and conjunctival hemorrhages. Herecently visited a forest in Karnataka that has a large population of monkeys. Which of theseis the vector for the suspected disease?",
+      "options": {
+        "A": "Fleas",
+        "B": "Mite417",
+        "C": "Ticks",
+        "D": "Mosquito"
+      },
+      "correct_answer": "",
+      "explanation": "The given case scenario with exposure to monkeys, fever, myalgia, headache, conjunctivalhemorrhage and gingival bleeds is suggestive of Kyasanur forest disease (KFD), which istransmitted by ticks (Haemophysalis spinigera). It is endemic to the forestsof Karnataka and Kerala.The clinical features include:• Fever• Headache• Conjunctivitis•Myalgia• Meningoencephalitis• Hemorrhagic symptoms- hemorrhages in skin, mucosa and gastrointestinal bleeds.The case fatality rate is about 5 percent.Monkeys are amplifier hosts, rodents are reservoirs and humans are incidental hosts.A killed KFD virus vaccine was used in a small field trial and appeared to provide some degree ofprotection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 7,
+      "question": "A middle-aged man presents with delirium, fever, jaundice, and a hemorrhagic diathesis. Thepatient is agitated and has had no urine output in the last 6 hours. On investigation, there isazotemia and elevated liver enzymes. A viral disease with the vector shown below issuspected. Which of the following inclusion bodies may be seen?",
+      "options": {
+        "A": "Henderson-Patterson bodies",
+        "B": "Torres bodies",
+        "C": "Levinthal Cole Lille bodies",
+        "D": "Paschen bodies"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows the Aedes aegypti mosquito and the clinical scenario with hepatic and renaldysfunction with delirium points towards a diagnosis of yellow fever. Torres bodies areamorphous eosinophilic nuclear inclusions associated with yellow fever, a disease caused by theFlavivirus.Inclusion bodies are structures with distinct sizes and shapes that are seen in virus-infected cellsunder light microscopy.Note: Dengue hemorrhagic fever can be a differential diagnosis, but there are no inclusion bodiesseen in dengue.427",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q7_img1_43dcd82f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the duration of validity of 17D vaccination?",
+      "options": {
+        "A": "1 year",
+        "B": "5 years",
+        "C": "Lifetime",
+        "D": "10 years418"
+      },
+      "correct_answer": "C",
+      "explanation": "17D vaccine (yellow fever vaccine) is valid for a lifetime, beginning 10 days aftervaccination. According to the amendment in 2016 to International Health Regulations 2005, thevalidity of the related international certificate of vaccination against yellow fever has beenchanged from ten (10) years to the lifespan of the person (traveler) vaccinated.It is a live-attenuated vaccine derived from the 'Asibi strain', administeredsubcutaneously. Immunity after a single dose is long-lasting and provides lifetime protection. It isthermolabile.Vaccination is compulsory for travel to and from endemic areas.In India, 17D is manufactured at the Central Research Institute, Kasauli.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 9,
+      "question": "A pest control technician with a history of fever, vomiting, hematuria, and decreased urineoutput was diagnosed with hemorrhagic fever with renal syndrome. Which of the followingstatements is false about the causative virus?",
+      "options": {
+        "A": "Hantaviruses are the natural pathogens of rodents",
+        "B": "Transmission primarily occurs by Culex mosquitoes",
+        "C": "Hantavirus pulmonary syndrome presents with pulmonary edema",
+        "D": "Hantaviruses cause epidemic hemorrhagic fever"
+      },
+      "correct_answer": "B",
+      "explanation": "Hemorrhagic fever with renal syndrome (HFRS) is caused by Hantaviruses. They are rodent-borneviruses that are transmitted by inhalation of the virus contained in dried excreta of rodents. Theyare the natural pathogens of rodents like mice, rats, and voles.HFRS presents with acute kidney injury, hemorrhages, fever, and circulatorycollapse. Hantaviruses can also cause Hantavirus pulmonary syndrome.Note: In Aug 2016, The International Committee on Taxonomy of Viruses (ICTV), has renamedand moved the genus Hantavirus to Orthohantavirus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 10,
+      "question": "An epidemic of paralytic poliomyelitis occurs in a non-immune population. Which among thefollowing strains of poliovirus is the most common cause of this?",
+      "options": {
+        "A": "Type 1",
+        "B": "Type 2",
+        "C": "Type 3",
+        "D": "Type 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Type 1 poliovirus is the most common cause of epidemics in populations.Poliovirus strains have been classified into 3 types:•Type 1- most common and causes most of the epidemics.• Type 2- endemic infections.• Type 3- epidemics but rarer than type 1.Immunity is type-specific.Note: Type 2 is declared eradicated in September, 2015 and Type 3 is declared eradicated inOctober, 2019",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 11,
+      "question": "A 5-year-old girl is brought to the pediatrics OPD with a history of lower-limb paralysis andthe following deformity. Which of the following will be the most common form ofpresentation of this illness?419",
+      "options": {
+        "A": "Inapparent infection",
+        "B": "Abortive form",
+        "C": "Paralytic form",
+        "D": "Nonparalytic form"
+      },
+      "correct_answer": "A",
+      "explanation": "428The given case scenario with a history of lower limb paralysis and deformity is suggestive ofpoliomyelitis. The given image shows deformity of the right lower limb, namely hyperextension atthe knee joint and muscle wasting.Inapparent infection is the most common (90-95%) presentation of polio. Only seroconversionoccurs without any clinical manifestations.Option B: Abortive poliomyelitis is associated with primary viremia and presents as fever,headache, sore throat, and malaise lasting for 1-5 days.Option C: Paralytic poliomyelitis occurs following minor illness, characterized by biphasic feverwith headache, stiff neck, and flaccid paralysis.Option D: In non-paralytic poliomyelitis, the disease does not progress beyond the stage of asepticmeningitis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q11_img1_17b5f525.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 12,
+      "question": "A 20-year-old unimmunized patient presents to you with complaints of weakness of lowerlimbs, inability to pass urine, and fever, for 3 days. His stool samples were sent to the districtlab to confirm the diagnosis. Which region of the spinal cord will primarily be affected inthese cases?",
+      "options": {
+        "A": "Anterior horn cells",
+        "B": "Posterior horn cells",
+        "C": "Lateral horn cells",
+        "D": "Intermediate column"
+      },
+      "correct_answer": "A",
+      "explanation": "The given case scenario of fever, lower limb paralysis, urinary retention, and stool samples beingsent for diagnosis, is suggestive of paralytic polio. The anterior horn cells of the spinal cord areprimarily affected, causing acute flaccid paralysis. Posterior horns and intermediatecolumns/lateral horns may also be involved to some extent.In the central nervous system, the virus multiplies selectively in the neurons and destroys them.The earliest change is the degeneration of Nissl bodies (chromatolysis). Nuclear changes follow.Note: Fecal samples of all cases of acute flaccid paralysis are obtained (2 samples) andtransported to the laboratory within 72 hours of collection at 4-8°C or frozen at -20°C. This isknown as the reverse cold chain and is done as a part of gold standard polio surveillance/acuteflaccid paralysis surveillance (AFP surveillance).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following statements is false regarding vaccination against polio?",
+      "options": {
+        "A": "Sabin type has the live attenuated virus",
+        "B": "OPV should not be administered to immunocompromised persons",
+        "C": "Salk vaccine is associated with mutations that lead to reversal of virulence420",
+        "D": "Both OPV and IPV induce humoral IgG"
+      },
+      "correct_answer": "C",
+      "explanation": "Salk type is the killed vaccine, hence there is no risk of mutation that can lead to a reversal ofvirulence.There are two types of vaccines for polio - IPV (inactivated poliovirus vaccine) and OPV (oralpoliovirus vaccine).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following strains of poliovirus have been eradicated worldwide?",
+      "options": {
+        "A": "Type 2",
+        "B": "Types 2 and 3",
+        "C": "Types 1 and 3",
+        "D": "Type 3"
+      },
+      "correct_answer": "B",
+      "explanation": "Type 2 and 3 have been eradicated worldwide.Type 2: In September 2015, WHO declared the eradication of the wild type 2 poliovirus strain. InIndia, the last type 2 infection was detected in 1999.Type 3: It has not been detected anywhere in the world since November 2012. On World PolioDay in October 2019, the type 3 virus was declared to be eradicated worldwide.429The only circulating strain is type 1.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q14_img1_0194d647.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 15,
+      "question": "A 68-year-old woman presented with acute chest pain which was stabbing type in nature. Thepain is spasmodic and associated with fever spikes. There's an outbreak of coxsackievirus B inher community. What is the most likely diagnosis?",
+      "options": {
+        "A": "Intercostal neuralgia",
+        "B": "Bornholm disease",
+        "C": "Herpangina",
+        "D": "Pericarditis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given case scenario with stabbing type chest pain which is spasmodic in nature, associatedwith fever spikes, and history of an outbreak of coxsackievirus B is suggestive of Bornholm diseaseor epidemic pleurodynia.Symptoms include paroxysms of acute pleuritic chest pain associated with fever spikes. Involvedmuscles are tender. Chest X-ray is usually normal. Most cases occur during epidemicsof coxsackievirus B. The disease is named after the Danish island of Bornholm where early casesoccurred.The treatment is non-steroidal anti-inflammatory agents or hot fomentation of the involvedmuscles.Other diseases associated with coxsackievirus B:• Neonatal myocarditis and pericarditis• Juvenile diabetes mellitus• Orchitis• Severe disseminated congenital infection- hepatitis, meningoencephalitis, adrenocorticalinvolvement",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 16,
+      "question": "A 5-year-old boy presents with headache, fever, and vomiting. On examination, you observethe following. He is diagnosed with herpangina. Which group of viruses causes the same?421",
+      "options": {
+        "A": "Enteroviruses",
+        "B": "Rhinoviruses",
+        "C": "Myxoviruses",
+        "D": "Rhabdoviruses"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows palatal ulcers in herpangina. It is caused by the coxsackievirus A, a largesubgroup of the enteroviruses.Herpangina or vesicular pharyngitis is characterized by grayish- white papulovesicular lesions onan erythematous base that ulcerate. These are present on:• Soft palate• Anterior pillars of tonsils• Uvula•Posterior oropharynxIt is a common clinical manifestation of coxsackievirus A infection in children, but it can also becaused by coxsackievirus B, echoviruses, or enterovirus 71.Treatment is usually only supportive, as the disease is self-limiting and usually runs its course inless than a week.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q16_img1_d09220e7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following organisms causes the following disease?",
+      "options": {
+        "A": "Coxsackievirus",
+        "B": "Human herpes virus 7Blister-like sores422",
+        "C": "Pox virus",
+        "D": "Molluscum contagiosum"
+      },
+      "correct_answer": "A",
+      "explanation": "430The image shows vesicles on the palms, soles, and oral mucosa, consistent withhand-foot-and-mouth disease. It is caused by coxsackievirus.Hand-foot-and-mouth disease (HFMD) is an exanthematous fever affecting mainly youngchildren, characterized by oral and pharyngeal ulcerations and a vesicular rash of the palms andsoles that may spread to the arms and legs. Vesicles heal without crusting, which clinicallydifferentiates them from the vesicles of herpesviruses and poxviruses. It is usually a benign illnessresolving in 1-2 weeks.Coxsackie A16, A9, and B 1-3 are common causative agents.Other diseases caused by Coxsackie A virus:Aseptic meningitis associated with a maculopapular rash.• Herpangina•· Minor respiratory infections",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q17_img1_f884821d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    },
+    {
+      "q_no": 18,
+      "question": "A 60-year-old presented with eye pain, watering of eyes, and increased sensitivity to light. Onexamination, you see the following. Which of the following viruses can cause this condition?Rhinovirus and Coxsackie A24b) Rhinovirus and Enterovirus-70c) Enterovirus 70 and Adenovirus 3d) Enterovirus-70 and Coxsackie A24.Question 19:A 42-year-old woman presented with fever, joint pains, and headache. Chik sign (image givenbelow) is present on the patient's nose. Which of the following vectors transmits theetiological agent?423",
+      "options": {
+        "A": "Culex tritaeniorhynchus",
+        "B": "Anopheles culicifacies",
+        "C": "Aedes aegypti",
+        "D": "Aedes albopictus"
+      },
+      "correct_answer": "D",
+      "explanation": "The given case scenario is suggestive of acute hemorrhagic conjunctivitis (AHC) caused mainly byEnterovirus 70 and Coxsackievirus A24 variant (CA24v).It is characterized by sudden swelling, congestion, and watering of the eyes. Subconjunctivalhemorrhages are a characteristic feature and corneal involvement may occur transiently.There is no treatment currently available. The disease is self limiting, and resolves within a five toseven-day period.Note: Acute follicular conjunctivitis is caused by Adenovirus serotypes 3, 4, 7 and 11.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q18_img1_c84a3fed.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Arboviruses and Picorna Viruses"
+    }
+  ]
+}

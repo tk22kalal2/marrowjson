@@ -1,0 +1,230 @@
+{
+  "chapter": "Escherichia, Proteus and Klebsiella",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "An old woman presented to the OPD with dysuria and frequent micturition. Urinalysis showed pus cells, and culture on MacConkey agar showed the following. Which organism is involved here?",
+      "options": {
+        "A": "Escherichia",
+        "B": "Salmonella",
+        "C": "Shigella",
+        "D": "Proteus"
+      },
+      "correct_answer": "A",
+      "explanation": "Escherichia, commonly known as E. coli, is a common cause of urinary tract infections, which is consistent with the symptoms of dysuria and frequent micturition.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q1_img1_9f1e911e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_39f62695.jpeg",
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 2,
+      "question": "The stool culture of a patient with suspected food poisoning produced hemolytic colonies on blood agar. The isolated organism gave a positive indole test and a positive MUG test. You observe the following colonies on eosin methylene blue agar. Identify the organism.",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Klebsiella pneumoniae",
+        "C": "Proteus vulgaris",
+        "D": "Klebsiella granulomatis"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario of a patient with suspected food poisoning with a stool culture growing hemolytic colonies on blood agar with a positive indole test and MUG test with iridescent green colony growth on eosin methylene blue agar is characteristic of Escherichia coli. E. coli produces the enzyme β-glucuronidase, which is tested using the MUG test. In it, the substrate MUG (4-methylumbelliferyl-β-glucuronide) is reduced by the enzyme to produce a fluorescent color, which indicates a positive MUG test.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q2_img1_57767c66.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the cut-off for bacteriuria beyond which a diagnosis of catheter-associated urinary tract infection (CAUTI) can be made?",
+      "options": {
+        "A": ">10^2 CFU/ml",
+        "B": ">10^3 CFU/ml",
+        "C": ">10^4 CFU/ml",
+        "D": ">10^5 CFU/ml"
+      },
+      "correct_answer": "B",
+      "explanation": "The cut-off value for bacteriuria to diagnose catheter-associated urinary tract infection (CAUTI) is >10^3 CFU/mL. The minimum criterion for catheter-associated asymptomatic bacteriuria (CA-ASB) is >10^2 CFU/mL.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 4,
+      "question": "A tourist came to the OPD with complaints of abdominal pain and watery diarrhea. Which of the following strains of E. coli is most commonly implicated in this case?",
+      "options": {
+        "A": "Enteropathogenic E. coli",
+        "B": "Enterohemorrhagic E. coli",
+        "C": "Enterotoxigenic E. coli",
+        "D": "Enteroinvasive E. coli"
+      },
+      "correct_answer": "C",
+      "explanation": "This patient with watery diarrhea most likely has traveler's diarrhea caused by Enterotoxigenic Escherichia coli (ETEC). Enterotoxigenic E. coli (ETEC) is the most common organism that causes diarrhea in travelers. It produces the following toxins: \n   • LT (heat-labile toxin) - acts by increasing cAMP\n   • ST (heat-stable toxin) - two types of ST are known, ST-A (ST-I) and ST-B (ST-II)\n   • ST-A is soluble in methanol and acts by increasing cGMP in the intestine.\n   • ST-B is insoluble in methanol, and the mode of action is not known.\n   Other options:\n   Option A: Enteropathogenic E. coli (EPEC) causes infantile diarrhea in developing countries. It adheres to the mucosal surface of the small intestine using E. coli adherent factor (EAF) and locus of enterocyte effacement (LEE) and causes effacement of microvilli.\n   Option B: Enterohemorrhagic E. coli (EHEC) produces verocytotoxin, which targets vascular endothelium. It causes hemorrhagic colitis and hemolytic uremic syndrome.\n   Option D: Enteroinvasive E. coli (EIEC) invades interstitial epithelial cells in the intestine and causes a condition resembling shigellosis. This ability is determined by a plasmid, which can be detected as a diagnostic test.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 5,
+      "question": "Identify the organism below that causes effacement and attachment of intestinal cells.",
+      "options": {
+        "A": "ETEC",
+        "B": "EIEC",
+        "C": "EPEC",
+        "D": "EAECEF6691 5.0 kV x15.0k 2.00μm"
+      },
+      "correct_answer": "C",
+      "explanation": "Attachment and effacement lesions on intestinal cells are caused by enteropathogenic Escherichia coli (EPEC). E. coli is the second most common cause of diarrhea in the pediatric age group. Rotavirus is the most common cause. EPEC causes watery diarrhea, which is self-limiting. EPEC adheres to the mucosal cells of the small bowel and causes loss of microvilli (effacement). This leads to the formation of filamentous actin pedestals or cuplike structures and occasionally may cause entry of the EPEC into the mucosal cells. Pathogenicity requires the presence of two important factors: Bundle-forming pilus encoded by plasmid containing EPEC adherence factor (EAF), and chromosomal locus of enterocyte effacement (LEE) pathogenicity island. Enteropathogenic (EPEC) E. coli intestinal invasion mechanism: EspA, Intimin, Microvilli, BFP (Bundle-forming pili), Pedestal, EspB, EspD, EPEC replication, Actin, Intestinal epithelium, Actin, LEE, Tir, EspF, EspG, EspC, Biofilm formation, EspH. The image below shows an electron microscopy image of E. Coli. 200EF6691 5.0 kV x15.0K 2.00μm",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q5_img1_cd97d3c3.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_3956cdeb.jpeg",
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 6,
+      "question": "You are investigating an outbreak of diarrhea. You find out that the etiological agent causes stacked-brick formation on HEp-2 cells as shown below. What is the likely organism?",
+      "options": {
+        "A": "Enteroaggregative E. coli",
+        "B": "Enterohemorrhagic E. coli",
+        "C": "Enterotoxigenic E. coli",
+        "D": "Enteroinvasive E. coli"
+      },
+      "correct_answer": "A",
+      "explanation": "The stacked-brick pattern of adherence on HEp-2 cells is caused by Enteroaggregative E. coli (EAEC). Enteroaggregative E. coli has been associated with persistent diarrhea. Intestinal colonization of EAEC is mediated by aggregative adherence fimbriae (AAF). EAST-1 toxin (enteroaggregative heat-stable toxin) is considered to be a major virulence factor for EAEC. The given image shows the stacked-brick pattern of adherence on microscopy at 600x magnification.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q6_img1_bbdc2779.png",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp6_img1_e376e96d.jpeg",
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 7,
+      "question": "A 29-year-old woman presented with bloody diarrhea, abdominal pain, hemolytic anemia, thrombocytopenia, and acute renal failure. She was diagnosed with hemolytic uremic syndrome and treated with plasmapheresis and dialysis. What is false about the infectious causative agent?",
+      "options": {
+        "A": "Serotype O157:H7 causes hemolytic-uremic syndrome.",
+        "B": "It does not produce a Shiga-like toxin",
+        "C": "Fecal leukocytes may be seen",
+        "D": "There is person-to-person transmission."
+      },
+      "correct_answer": "B",
+      "explanation": "Hemolytic-uremic syndrome (HUS) is caused by enterohemorrhagic E. coli (EHEC) serotype O157:H7. It produces a Shiga-like toxin, therefore EHEC is also known as Shiga toxin-producing E. coli (STEC). Other options: Option A - Strains of E. coli producing verocytotoxin or Shiga toxin (stx2a-g) can cause diarrheal disease ranging from mild diarrhea to fatal hemorrhagic colitis and HUS. The most common EHEC belongs to serotype O157:H7. Option C - In EHEC diarrhea, fecal leukocytes are commonly seen (70%), but although it is an infectious condition, fever is not seen. The absence of fever can lead to its misdiagnosis as a non-infectious condition such as intussusception or ischemic bowel disease. Option D - The disease is transmitted through contaminated feces. Person-to-person transmission can occur if infected persons do not wash their hands after using the toilet or after changing diapers. Note: Shiga toxin produced by S. dysenteriae is referred to as Stx.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 8,
+      "question": "Sereny test was employed for laboratory diagnosis of which of the following organisms?",
+      "options": {
+        "A": "Enterotoxigenic E. coli",
+        "B": "Enteropathogenic E. coli",
+        "C": "Enterohemorrhagic E. coli",
+        "D": "Enteroinvasive E. coli"
+      },
+      "correct_answer": "D",
+      "explanation": "The Sereny test is an animal pathogenicity test that used to be employed for laboratory diagnosis of enteroinvasive E. coli and Shigella. Freshly isolated suspension of bacteria is instilled into the eyes of guinea pigs, which leads to mucopurulent conjunctivitis and severe keratitis. It is not in use anymore as we have better methods of detecting toxigenicity now, like molecular methods.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the culture medium used to differentiate E. coli O157:H7 from other E. coli?",
+      "options": {
+        "A": "Sorbitol-MacConkey agar",
+        "B": "Mannitol salt agar",
+        "C": "Cystine-lactose-electrolyte deficient medium",
+        "D": "Thiosulfate citrate bile salt sucrose medium"
+      },
+      "correct_answer": "A",
+      "explanation": "Sorbitol-MacConkey agar is used to differentiate E. coli O157:H7 from other E. coli. E. coli O157:H7 does not ferment sorbitol and produces pale colonies on Sorbitol-MacConkey agar. All other strains of E. coli ferment sorbitol; thus, they produce pink colonies on Sorbitol-MacConkey agar. O157:H7 strains do not contain β-glucuronidase and so are unable to use the substrate 4-methylumbelliferyl-β-glucuronide (MUG). Thus, they give a negative MUG test.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 10,
+      "question": "Match the following E. coli with their respective pathogenesis.",
+      "options": {
+        "A": "A-4,B-3,C-2,D-1",
+        "B": "A-1,B-3,C-2, D-4",
+        "C": "A-1,B-2,C-3, D-4",
+        "D": "A-4,B-2,C-3,D-1"
+      },
+      "correct_answer": "C",
+      "explanation": "The correctly matched pairs are as follows: The various strains of Escherichia coli are: Enterotoxigenic E. coli (ETEC) is the most common organism that causes diarrhea in travelers. It produces the following toxins: LT (heat-labile toxin) acts by increasing cAMP. ST (heat-stable toxin) - two types of ST are known, ST-A (ST-I) and ST-B (ST-II). ST-A is soluble in methanol and acts by increasing cGMP in the intestine. ST-B is insoluble in methanol, and the mode of action is not known. Enteroinvasive E. coli (EIEC) invades interstitial epithelial cells in the intestine and causes a condition resembling shigellosis. This ability is determined by a plasmid, detection of which can also be a diagnostic test. Sereny's test was employed to diagnose EIEC, but it is not in use anymore. Enterohemorrhagic E. coli (EHEC) produces verocytotoxin, which targets vascular endothelium. It causes hemorrhagic colitis and hemolytic uremic syndrome. Enteropathogenic E. coli (EPEC) causes infantile diarrhea in developing countries. It adheres to the mucosal surface of the small intestine using EAF and LEE and causes effacement of microvilli. This leads to attachment and effacement lesions of intestinal cells. Enteroaggregative E. coli (EAEC) produces the stacked brick pattern of adherence on HEp-2 cells. EAEC has been associated with persistent diarrhea. Intestinal colonization of EAEC is mediated by AAF (aggregative adherence fimbriae). EAEC produces EAST-1 toxin (enteroaggregative heat-stable toxin), which is considered to be a major virulence factor. E. coli: 1. ETEC, 2. EIEC, 3. EHEC, 4. EPEC. Mechanism of action: A. Produce a heat-stable toxin and cause activation of guanylyl cyclase, B. Invades intestinal mucosal cells, C. Produces a toxin against vascular endothelium cells, D. Adhere to the mucosal surface and cause effacement of microvilli.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following statements is false?",
+      "options": {
+        "A": "E. coli is an aerobe and facultative anaerobe.",
+        "B": "Proteus infection increases the risk of uric acid stones.",
+        "C": "E. coli is motile by peritrichous flagella.",
+        "D": "Proteus can metabolize phenylalanine to phenylpyruvic acid."
+      },
+      "correct_answer": "B",
+      "explanation": "Proteus increases the risk of struvite stones in the bladder as it leads to the alkalinization of urine. Struvite stones are magnesium-ammonium phosphate stones that appear as rectangular/coffin-lid crystals shaped on urine microscopy. Uric acid stones are precipitated in acidic urine. Proteus produces the enzyme phenylalanine deaminase, which converts phenylalanine to phenylpyruvic acid. This property is the basis for the phenylalanine deaminase test. The test is performed by inoculating the organism in phenylalanine agar. After incubation, 10% ferric chloride is added to the media. If phenylpyruvic acid was produced, it will react with the ferric chloride and turn dark green. If the medium remains a straw color, the organism is negative for phenylalanine deaminase production. E. coli is an aerobe and facultative anaerobe. Its motility is due to the presence of peritrichous flagella. It is the most common cause of urinary tract infections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following shows Dienes phenomenon?",
+      "options": {
+        "A": "Proteus mirabilis",
+        "B": "Klebsiella granulomatis",
+        "C": "Providencia stuartii",
+        "D": "Serratia marcescens"
+      },
+      "correct_answer": "A",
+      "explanation": "Dienes phenomenon is exhibited by Proteus mirabilis. When two identical strains of Proteus are inoculated at different places on the same culture plate, the resulting swarms of growth coalesce and no line is formed between swarming cultures of the same strain. However, if they are from two different strains, the spreading films of growth fail to coalesce and remain separated by a narrow but easily visible furrow (known as Dienes line). This is known as Dienes phenomenon.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp12_img1_38112193.jpeg",
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 13,
+      "question": "Blood culture of the sputum sample taken from a patient diagnosed with hospital-acquired pneumonia, showed a characteristic phenomenon as shown in the image. Identify the bacteria that exhibit this phenomenon.",
+      "options": {
+        "A": "Klebsiella",
+        "B": "Enterobacter",
+        "C": "Serratia",
+        "D": "Proteus"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image of the blood culture finding shows the characteristic bull's eye swarming pattern exhibited by Proteus. Proteus species move very actively with the help of peritrichous flagella, resulting in swarming on solid media. It can be suppressed by the addition of: phenyl ethyl alcohol, chloral hydrate, sulphonamides, sodium azide, boric acid, or increasing the concentration of agar to 6%. Swarming does not occur on MacConkey medium and cystine-lactose-electrolyte-deficient (CLED) medium. Proteus is a gram-negative bacillus seen as a normal gastrointestinal flora. The two most common species causing infection in humans are P. mirabilis and P. vulgaris, which can be differentiated by the spot indole test. P. mirabilis is indole negative, while P. vulgaris is indole positive. Production of urease enzyme by Proteus, which hydrolyses urea to ammonia, causes alkalinization of urine. Alkalinization of urine leads to the precipitation of organic and inorganic compounds, which contributes to the formation of Struvite stones. P. mirabilis is associated with urinary tract infections, while P. vulgaris is usually associated with wound and soft tissue infections. Other organisms that show swarming include Clostridium tetani, Vibrio parahaemolyticus, and Serratia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q13_img1_249dcc89.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 14,
+      "question": "A middle-aged man from North India presents with a deformity as shown in the image below. He gives a history of foul-smelling purulent nasal discharge before this nodule appeared. Which of the following organisms is responsible for his condition?",
+      "options": {
+        "A": "Rhinosporidium seeberi",
+        "B": "Klebsiella rhinoscleromatis",
+        "C": "Klebsiella ozaenae",
+        "D": "Klebsiella oxytoca"
+      },
+      "correct_answer": "B",
+      "explanation": "The above image and clinical scenario are suggestive of rhinoscleroma, and it is caused by Klebsiella rhinoscleromatis. K. rhinoscleromatis is a gram-negative bacillus, also known as Frisch bacillus. It is endemic in North India. Rhinoscleroma is characterized by chronic granulomatous hypertrophy of the nose. Biopsy of the lesion shows: • Mikulicz cells - large foamy cells with a central nucleus and vacuolated cytoplasm containing the causative bacilli. • Russell bodies - eosinophilic inclusion bodies found in the plasma cells. These are also observed in multiple myeloma. Other options: Option A: Rhinosporidium seeberi causes rhinosporidiosis. Option C: K. ozaenae causes atrophic rhinitis. Option D: K. oxytoca is associated with hemorrhagic colitis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q14_img1_bb27480e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    },
+    {
+      "q_no": 15,
+      "question": "You notice a sputum sample of a patient suspected of having ventilator-associated pneumonia turn progressively redder over time. Microscopic examination of the sample reveals an absence of red blood cells. Which of the following organisms could have caused this?",
+      "options": {
+        "A": "Streptococcus pneumoniae",
+        "B": "Proteus mirabilis, Klebsiella pneumoniae, or Serratia marcescens",
+        "C": "Chlamydia trachomatis",
+        "D": "Klebsiella granulomatis"
+      },
+      "correct_answer": "D",
+      "explanation": "The given condition of a sputum sample turning redder over time can be caused by Serratia marcescens. Serratia marcescens are pleomorphic coccobacilli that can grow in sputum after collection and can mimic hemoptysis because they produce a red pigment called prodigiosin. S. marcescens mainly cause healthcare-associated infections, such as ventilator-associated pneumonia, meningitis, endocarditis, septicemia, and peritonitis. They can contaminate IV fluids, surgical instruments, and antiseptic solutions.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q15_img1_056bb4c4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Escherichia, Proteus and Klebsiella"
+    }
+  ]
+}

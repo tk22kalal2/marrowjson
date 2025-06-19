@@ -1,0 +1,305 @@
+{
+  "chapter": "Immune Response",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "In which of the following areas do B lymphocytes reside?",
+      "options": {
+        "A": "Spleen follicles",
+        "B": "Lymph node paracortex",
+        "C": "Periarteriolar lymphoid sheath",
+        "D": "Thymic medulla"
+      },
+      "correct_answer": "A",
+      "explanation": "B lymphocytes, also known as B cells, primarily reside in the spleen follicles, which are crucial sites for B cell development and activation.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_cd8b3477.jpeg",
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 2,
+      "question": "A mother brings her 1-year-old child to the hospital with complaints that he turns blue while breastfeeding. It resolves when he assumes a squatting position. On examination, a cleft palate is seen. Labs show hypocalcemia. Which of the following abnormalities is expected to be seen in the lymphoid organs?",
+      "options": {
+        "A": "Decreased size of germinal centers of lymph nodes",
+        "B": "Decreased size of paracortical areas of lymph nodes",
+        "C": "Increased size of splenic follicles",
+        "D": "Increased size of the periarteriolar lymphoid sheath of spleen"
+      },
+      "correct_answer": "B",
+      "explanation": "Turning blue on breastfeeding with resolution on squatting describes a tet spell or a cyanotic spell, indicating a congenital cardiac defect. Cleft palate, cardiac defects, and hypocalcemia (parathyroid hypoplasia/aplasia) suggest a diagnosis of DiGeorge syndrome. In this disorder, a decreased size of paracortical areas of lymph nodes is noted. DiGeorge syndrome is characterized by thymic aplasia, causing a deficiency of T cells and absent cell-mediated immunity. Thus, paracortical areas of lymph nodes and periarteriolar sheaths of the spleen, where T cells reside, are reduced in size. B cells are usually not affected.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 3,
+      "question": "Match the following specialized macrophages with the tissues they are found in.",
+      "options": {
+        "A": "I-A; II-C; III-D; IV-E; V-B",
+        "B": "I-C; II-B; III-D; IV-E; V-A",
+        "C": "I-D; II-C; III-A; IV-B; V-E",
+        "D": "I-B; II-C; III-D; IV-E; V-A"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is I-C; II-B; III-D; IV-E; V-A. Macrophages can be divided into: 1. Blood macrophages (monocytes) are the largest of the myeloid cells found in the peripheral blood. They survive for 3 days. 2. Tissue macrophages present in different organs. They survive for months. The main functions of macrophages are phagocytosis and antigen presentation. The specialized (tissue-specific) macrophages present in different tissues are listed below: • Peripheral blood: Monocytes • Placenta: Hofbauer cells • Liver: Kupffer cells. • Brain: Microglial cells • Kidney: Mesangial cells • Lungs: Alveolar macrophages • Bone: Osteoclasts • Connective tissue: Histiocytes Cell I. Hofbauer cells Tissue B. Placenta II. Histiocytes C. Connective tissue III. Kupffer cells D. Liver IV. Microglia E. Brain V. Mesangial cell A. Kidney",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is the most potent stimulator of naive T-cells?",
+      "options": {
+        "A": "Mature dendritic cells",
+        "B": "Follicular dendritic cells",
+        "C": "B lymphocytes",
+        "D": "NK cells"
+      },
+      "correct_answer": "A",
+      "explanation": "Mature dendritic cells are the most potent stimulator of naive T cells. Naive CD4+ T cells are activated when they come into contact with two ligands - MHC class II and a costimulatory membrane protein (e.g., CD28). Both of these are present in antigen-presenting cells, the most potent of which is the mature dendritic cell. Other professional antigen-presenting cells include macrophages and B lymphocytes (option C). Other options: Option B: Follicular dendritic cells are functionally different from dendritic cells. They are not antigen-presenting cells and do not activate naive T cells. Option D: NK cells do not stimulate naive T cells. 'Resting' (costimulator deficient) APC T cell activation: No response Naive T cell or anergy. Activation of APCs by microbes, innate immune response: B7, CD28, cytokines (e.g., IL-12). Activated APCs; expression of costimulator, secretion of cytokines. Antigen recognition. IL-2. Effector T cell. T cell survival, proliferation, and differentiation. T cell response.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_3f38c2f7.jpeg",
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 5,
+      "question": "Nude mice are not resistant to xenograft due to the absence of",
+      "options": {
+        "A": "B cell",
+        "B": "T cell",
+        "C": "Both B and T cells",
+        "D": "NK cell"
+      },
+      "correct_answer": "B",
+      "explanation": "Nude mice are not resistant to xenograft due to the absence of T cells. A xenograft is a tissue graft or organ transplant from a donor of a different species. Nude mice lack body hair, hence the name. They lack a thymus and thus cannot generate mature T lymphocytes. The absence of T-lymphocytes makes them unable to mount adaptive immune responses requiring helper T cells and cytotoxic T cells. The absence of functioning T cells also prevents the rejection of allografts & xenografts.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements about T-cell receptors is false?",
+      "options": {
+        "A": "In 95% of T cells, the TCR consists of α and β polypeptide chains.",
+        "B": "γ TCR recognize peptide antigens presented by MHC molecules.",
+        "C": "Each TCR is non-covalently linked to six polypeptide chains, which form the CD3 complex.",
+        "D": "The linked CD3 complex and γ chains initiate activating signals."
+      },
+      "correct_answer": "B",
+      "explanation": "γδ TCR recognize a different type of antigens without the requirement of the major histocompatibility complex (MHC). Each T cell recognizes a specific bound antigen by means of an antigen-specific T-cell receptor (TCR). The TCR is a heterodimer and is of two types: αβ TCR (95%) recognize peptide antigens that are presented by MHC molecules on the surfaces of antigen-presenting cells. γδ TCR (5%) recognize peptides, lipids, and small molecules, without a requirement for display by MHC proteins. They have particular localization patterns in the mucosal tissues, which protect against microbes that try to enter through epithelia. TCRs are non-covalently bound to six polypeptide chains or three dimers (a γε pair, a δε pair, and a ζ pair), forming the CD3 complex and the ζ dimer. The CD3 complex and ζ dimer convey signals received by the receptor to the interior of the cell.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 7,
+      "question": "A 52-year-old requires a kidney transplant due to chronic kidney disease. Her 2 children match her HLA type 4/6 and 5/6 respectively. On what chromosome is this match protein sequence located?",
+      "options": {
+        "A": "Chromosome 5",
+        "B": "Chromosome 6",
+        "C": "Chromosome 7",
+        "D": "Chromosome 8"
+      },
+      "correct_answer": "B",
+      "explanation": "HLA complex of genes is located on the short arm of chromosome 6 (chromosome 6p21). The human leukocyte antigen (HLA) system or complex is a gene complex encoding the major histocompatibility complex (MHC) proteins. In humans, the MHC molecules are called human leukocyte antigens (HLA) because they were initially detected on leukocytes by the binding of antibodies. The combination of HLA alleles in each individual is called the HLA haplotype. The function of MHC molecules is to display peptide fragments of protein antigens for recognition by antigen-specific T cells. The HLA system is highly polymorphic. Each individual's HLA alleles differ from those of others. It has to be checked before organ transplantation. The HLA complex consists of 3 separate clusters of genes: • Class I - A, B, and C loci • Class II - DR, DQ, and DP loci • Class III - Complement C2 and C4 of the classical pathway and properdin factor B of the alternate pathway, heat shock proteins (HSP), TNF, and factor B.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following statements is false regarding MHC molecules?",
+      "options": {
+        "A": "MHC class II presents peptide antigen to CD4 T cells",
+        "B": "The action of MHC II occurs via the endocytic pathway",
+        "C": "MHC Class II presents endogenous antigens",
+        "D": "MHC II is present on antigen-presenting cells"
+      },
+      "correct_answer": "C",
+      "explanation": "MHC class II presents exogenous antigens, while MHC class I presents endogenous antigens.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp8_img1_1c2f3290.jpeg",
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 9,
+      "question": "You are observing flow cytometry being performed at a laboratory for MHC class 1 antigen. Identify the cells that lack this antigen.",
+      "options": {
+        "A": "Platelets",
+        "B": "T lymphocytes",
+        "C": "B lymphocytes",
+        "D": "Red blood cells"
+      },
+      "correct_answer": "D",
+      "explanation": "Red blood cells are anucleated cells that lack MHC class I antigens. MHC class I antigens are present on platelets and all nucleated cells, except sperm cells. They are responsible for the presentation of peptide antigens to CD8 T cells. The human major histocompatibility complex (MHC), or the HLA complex, is a cluster of genes whose products are responsible for antigen presentation to T cells, transplant rejection, etc. The HLA complex of genes is present on the short arm of chromosome 6. The genes are clustered in three regions named MHC region I, II, and III. MHC class II antigens are present only on antigen-presenting cells (macrophages, dendritic cells, B cells). They present the peptide antigen to CD4 T cells. APCs also contain MHC class I antigens. MHC region III comprises genes that code for complement factors like C2, C4, C3 convertase, factor B, and properdin, heat shock protein, tumor necrosis factor, and steroid 21-hydroxylases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient newly diagnosed with HIV is found to have a CD4+ count of 78 cells/μL. Which of the following is not a function of these cells?",
+      "options": {
+        "A": "Immunogenic memory",
+        "B": "Produce immunoglobulins",
+        "C": "Activate macrophages",
+        "D": "Activate cytotoxic cells"
+      },
+      "correct_answer": "B",
+      "explanation": "CD4+ is a marker of T helper and memory cells. They do not produce immunoglobulins. CD4+ T cells are activated when an antigen-presenting cell expressing MHC-II binds to them. The activated CD4+ T cell differentiates into T helper (TH) cells and regulatory T cells. The TH cells are further differentiated into TH1, TH2, and TH17 cells. Helper T cells have the following functions: • Activation and proliferation of cytotoxic T cells • Regulation of the monocyte-macrophage system. • Activation of B cells to produce plasma cells • Production of interleukins. Memory cells (Tm) have both CD4+ and CD8+ markers. They provide an anamnestic immune response and are thus responsible for immunogenic memory. Immunoglobulins are produced by plasma cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following statements is false regarding the surface markers of T and B cells?",
+      "options": {
+        "A": "T cells express CD3",
+        "B": "T cells express CD10",
+        "C": "B cells express CD19",
+        "D": "B cells express CD21"
+      },
+      "correct_answer": "B",
+      "explanation": "T cells do not express CD10. CD10 is a marker of pre-B cells and germinal center B cells. Given below is a list of cell surface markers and the cells they are expressed on: •CD3: All T cells •CD4: Helper T cells, CD8: Cytotoxic T cells •CD4, CD25: Regulatory T cells •Ig, CD19, CD20, CD21: B cells •CD10: Pre-B cells, germinal center B cells •CD40, MHC-II: Macrophages •CD16, CD56: NK cells •CD34: Hematopoietic stem cells. Note: Pan T antigens are antigens found on all T cells and include CD2, CD3, CD5, and CD7.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following markers is used for the identification of memory T cells?",
+      "options": {
+        "A": "CD45RA",
+        "B": "CD45RB",
+        "C": "CD45RC",
+        "D": "CD45RO"
+      },
+      "correct_answer": "D",
+      "explanation": "CD45RO is used as a marker for the identification of memory T cells. CD45RA is a marker for virgin or naive T helper cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 13,
+      "question": "In a patient with influenza, there is decreased expression of MHC proteins on the surface of the virus-infected cells. Which component of the immune system acts on such cells?",
+      "options": {
+        "A": "Cytotoxic T cells",
+        "B": "Macrophages",
+        "C": "NK cells",
+        "D": "Helper T cells"
+      },
+      "correct_answer": "C",
+      "explanation": "Natural killer cells (NK cells) act on virus-infected cells with reduced MHC expression. NK cells are a subtype of lymphocytes that kill damaged or infected cells. NK cells express CD16 and CD56. Their action is inhibited when MHC I is expressed on normal cells. This prevents NK cells from killing normal cells. In the presence of a viral infection or malignancy, MHC expression of a cell is reduced. Thus, NK cells get activated and kill virus-infected/tumor cells. NK cells also secrete cytokines (IFN-y) which activate macrophages (option B) for destruction of ingested microbes. Other options: Option A: Cytotoxic T cells act when cells expressing MHC I present endogenous antigens. Option D: Helper T cells act when cells expressing MHC II (antigen-presenting cells) present exogenous antigens.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 14,
+      "question": "A 9-year-old boy was brought in with colicky pain, nausea, and vomiting. Lab investigations revealed eosinophilia and stool examination shows the following egg. Which interleukin is secreted in this scenario?",
+      "options": {
+        "A": "IL-1",
+        "B": "IL-3",
+        "C": "IL-5 is not an option, however IL-658 is likely a typo and should be IL-5, but since IL-5 is option D, this option is likely incorrect and should be another option",
+        "D": "IL-5"
+      },
+      "correct_answer": "D",
+      "explanation": "A child with colicky abdominal pain, nausea, vomiting with eosinophilia likely has a parasitic infection with Ascaris lumbricoides (egg shown in the image). Parasitic infections trigger the release of IL-5. In a parasitic infection, Th2 cells are stimulated and they produce IL-4 and IL-5. IL-4 stimulates the differentiation of B-cells into IgE-secreting plasma cells, while IL-5 stimulates the maturation and release of eosinophils from the bone marrow. The secreted IgE coats the parasite. The activated eosinophils bind to the IgE-coated parasite and kill them through the release of major basic protein.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q14_img1_7cbb01e9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 15,
+      "question": "Macrophages are the major source of",
+      "options": {
+        "A": "IL-1",
+        "B": "IL-5",
+        "C": "IL-7",
+        "D": "IFN-γ"
+      },
+      "correct_answer": "A",
+      "explanation": "Macrophages are the major source of IL-1. Macrophages are phagocytic cells that secrete the following molecules: Enzymes - Lysozyme, proteases, elastases, collagenases, plasminogen activator. Cytokines - Interleukins 1, 6, 8, 10, 12; TNF-α; TGF-β; prostaglandins. Platelet-derived growth factor (PDGF), Platelet-activated factor (PAF). Colony-stimulating factor (CSF), Angiotensin-converting enzyme (ACE). Complements - C2, C4. Reactive oxygen species (ROS) - H2O2, NO, OH. Interferon-gamma (IFN-γ) is secreted by T-cells. It is one of the most potent macrophage activators.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following mediators of inflammation is an example of a C-X-C chemokine?",
+      "options": {
+        "A": "Lipoxin LXA4",
+        "B": "Interleukin IL-8",
+        "C": "Lymphotactin XCL1",
+        "D": "Fractalkine CX3CL1"
+      },
+      "correct_answer": "B",
+      "explanation": "Interleukin-8 is an example of a C-X-C chemokine. Chemokines are chemotactic (chemoattractant) cytokines. They recruit leukocytes to sites of inflammation. The C-X-C or alpha chemokines have a total of four cysteines, of which the first two are separated by one amino acid, represented by 'X'.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is not an antigen-presenting cell?",
+      "options": {
+        "A": "Helper T cells",
+        "B": "Macrophages",
+        "C": "Fibroblasts",
+        "D": "Dendritic cells"
+      },
+      "correct_answer": "A",
+      "explanation": "T cells are not antigen-presenting cells. Antigen-presenting cells contain MHC class II molecules on their surface. They digest pathogens at the site of infection and display those exogenous antigens to T lymphocytes, thus leading to T lymphocyte activation. Examples of antigen-presenting cells include dendritic cells, macrophages, B cells, glial cells (brain), fibroblasts (skin), thymic epithelial cells, and vascular endothelial cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 18,
+      "question": "A surgeon takes the following 2 images of a patient's arm 6 weeks apart. Which of the following mediators promote the process shown below?",
+      "options": {
+        "A": "TGF-β",
+        "B": "IFN-γ",
+        "C": "TNF-α",
+        "D": "IFN-β"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows wound healing. TGF-β (transforming growth factor-β) is responsible for wound healing. TGF-β is produced by B and T cells and it inhibits their proliferation. It acts as a growth factor for fibroblasts and promotes wound healing. It stimulates the production of collagen, fibronectin, and proteoglycans. It also promotes class switching of B cells to IgA. IL-10 is also involved in wound healing and suppression of inflammation. Option B: IFN-γ inhibits viral replication, activates NK cells, and regulates the activity of macrophages and T cells. Option C: TNF-α is involved in tumor cytotoxicity, phagocytic cell activation, and antiviral and antiparasitic effects. It is an acute phase protein. Option D: IFN-β has antiviral activity.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q18_img1_da962fa5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 19,
+      "question": "A patient's plasma has high levels of interferon beta. He most likely has an infection due to",
+      "options": {
+        "A": "Virus",
+        "B": "Bacteria",
+        "C": "Fungi",
+        "D": "Mycoplasma"
+      },
+      "correct_answer": "A",
+      "explanation": "Interferon-beta is secreted during infection due to viruses. Interferons are classified as cytokines. Interferons are non-toxic, non-antigenic, and species-specific molecules. They are inactivated by proteases. They are stable at pH over 2-10, except IFN-y (labile at pH 2), and are non-dialysable and non-sedimentable. There are three types of interferons - α, β, and γ. IFN-α or leukocyte interferon is produced by leucocytes. It has antiviral activity, is immunoregulatory and antiproliferative. IFN-β or fibroblast interferon is produced by fibroblasts and epithelial cells. It has antiviral activity and is thus increased in viral infections. It enhances MHC class 1 and NK cell activity. IFN-γ or immune interferon is produced by T-lymphocytes, NK cells. It activates macrophages, increases neutrophil function, enhances both MHC class 1 and class II expression, and has anti-proliferative (anti-tumour) functions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    },
+    {
+      "q_no": 20,
+      "question": "A newborn diagnosed with a hepatoblastoma is planned for liver transplantation. Her father is found to be an HLA match, and he donates part of his liver. What type of transplantation is described here?",
+      "options": {
+        "A": "Autograft",
+        "B": "Allograft",
+        "C": "Xenograft",
+        "D": "Isograft"
+      },
+      "correct_answer": "D",
+      "explanation": "The transplant of an organ/tissue from a genetically identical donor, such as a parent to child in this context where the father is an HLA match, is an example of an isograft.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Immune Response"
+    }
+  ]
+}

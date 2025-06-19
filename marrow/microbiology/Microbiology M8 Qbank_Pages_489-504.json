@@ -1,0 +1,260 @@
+{
+  "chapter": "General Parasitology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 9-year-old child infected with Toxocara canis is diagnosed to have visceral larva migrans. Itis an example of",
+      "options": {
+        "A": "Obligate parasite",
+        "B": "Facultative parasite",
+        "C": "Accidental parasite",
+        "D": "Aberrant parasite"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following refers to a host in which the larval stage of the parasite remains viablewithout further development?",
+      "options": {
+        "A": "Definitive host",
+        "B": "Intermediate host",
+        "C": "Paratenic host",
+        "D": "Reservoir host"
+      },
+      "correct_answer": "D",
+      "explanation": "A host in which the larval stage of the parasite remains viable without further development isreferred to as the paratenic host.For example, in the lifecycle of Diphyllobothrium latum (fish tapeworm), humans are thedefinitive host. The first intermediate host is cyclops and the second is small freshwater fish. If thesmall freshwater fish with the plerocercoid larva get eaten by a larger fish, the larva survives in thelarger fish. This makes the larger fish a paratenic host.Host is an organism that harbors the parasite and provides nourishment and shelter to it. It isrelatively larger than the parasite.Types of hosts:•• Definitive host - harbors stages of sexual reproduction of the parasite.• Intermediate host - harbors stages of asexual multiplication of the parasite.• Paratenic host - harbors only the larval stage of the parasite which remains viable withoutfurther development.• Reservoir host - harbors the parasite and acts as an important source of infection to othersusceptible hosts, especially in endemic areas.• Accidental host - harbors a parasite that is not usually found in the host.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 3,
+      "question": "A 46-year-old farmer came to the clinic with cough and chest pain for one week and fatiguefor a month. He was diagnosed to have a hydatid cyst in his right lung. Which of the followingclasses does the causative organism of this disease belong to?",
+      "options": {
+        "A": "Cestodes",
+        "B": "Nematodes",
+        "C": "Trematodes",
+        "D": "Zoonoses"
+      },
+      "correct_answer": "A",
+      "explanation": "The causative organism of hydatid disease is Echinococcus granulosus and it belongs to theclass cestodes.It is a tape-like, segmented worm. It infects man accidentally, giving rise to hydatid cysts.495The image below shows the classification of parasites.Classification of parasitesProtozoaParasitesSarcodina(amoebas)Sporozoa(sporozoans)Mastigophora(flagellates)Ciliata(ciliates)Platyhelminthes(flatworms)Trematoda(flukes)Cestoda(tapeworms)OMARROWHelminthsNemathelminthes(roundworms)Note: Zoonoses refers to diseases caused by zoonotic organisms. It is not a class of organisms.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp3_img1_8c21d4f3.jpeg",
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is the smallest cestode infecting humans?489",
+      "options": {
+        "A": "Diphyllobothrium latum",
+        "B": "Hymenolepis nana",
+        "C": "Heterophyes heterophyes",
+        "D": "Strongyloides stercoralis"
+      },
+      "correct_answer": "B",
+      "explanation": "The smallest cestode infecting humans is Hymenolepis nana.Option A: Diphyllobothrium latum is the longest cestode infecting man.Option C: Heterophyes heterophyes is the smallest trematode infecting man.Option D: Strongyloides stercoralis is the smallest nematode infecting man.Also, Fasciolopsis buski is the largest trematode infecting humans.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following parasites has a direct life cycle?",
+      "options": {
+        "A": "Enterobius vermicularis",
+        "B": "Taenia solium",
+        "C": "Toxoplasma gondii",
+        "D": "Trichinella spiralis"
+      },
+      "correct_answer": "A",
+      "explanation": "Enterobius vermicularis has a direct life cycle.Parasite requiring a single host to complete its development is said to have a direct life cycle.Parasites having a direct life cycle are:Parasite requiring two or more hosts to complete its development is said to have indirect lifecycle, e.g. Plasmodium spp.496ProtozoaEntamoeba histolyticaGiardia lambliaTrichomonas vaginalisBalantidium coliCryptosporidium parvumCyclospora cayetanensisIsospora belliMicrosporidia.HelminthsAscaris lumbricoides Enterobius vermicularisTrichuris trichuraAncylostoma duodenaleNecator americanus Hymenolepsis nana.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 6,
+      "question": "Match the following:",
+      "options": {
+        "A": "1-B, 2-D, 3-C, 4-A",
+        "B": "1-B, 2-D, 3-A, 4-C",
+        "C": "1-D, 2-B, 3-A, 4-C",
+        "D": "1-D, 2-A, 3-B, 4-C"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is option B.A boy from Kolkata with fever and massive splenomegaly is likely suffering from Kala-azar causedby Leishmania donovani. Its intermediate host is sandfly.A lady from Kerala with bilateral non-pitting pedal edema is likely suffering from lymphaticfilariasis caused by Wuchereria bancrofti. Its intermediate host is the culex mosquito.497A man presenting with new-onset seizures and MRI brain showing cyst with a dot sign is likelysuffering from neurocysticercosis caused by ingestion of Taenia solium eggs (Cysticercuscellulose). The intermediate host of Taenia Solium is the pig.A woman having fever with her peripheral smear showing Maltese cross appearance is likelysuffering from babesiosis caused by Babesia microti. Its intermediate host is human.498",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp6_img1_0a16886f.jpeg",
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 7,
+      "question": "An entomologist who had recently visited Mexico presented to the OPD with fever, fatigue,and an alleged history of contact with the insect given in the image. Which of the followingdiseases is it a biological vector for?490",
+      "options": {
+        "A": "Sleeping sickness",
+        "B": "Leishmaniasis",
+        "C": "Babesiosis",
+        "D": "Chagas disease"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shows reduviid bug which is the biological vector for the transmission ofChagas disease. Acute Chagas disease can present as fever with fatigue and a subcutaneousswelling known as a chagoma. It may lead to fatal myocarditis.Biological vectors not only help in the transfer of parasites but the parasites undergo developmentor multiplication in their body as well. They are also called true vectors.Examples of biological vectors are:•Mosquito - Malaria, filariasis• Sandfly - Kala-azar• Tsetse fly - Sleeping sickness•Reduviid bugs - Chagas disease• Ticks - Babesiosis",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q7_img1_94a0d3b8.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 8,
+      "question": "Autoinfection is not seen with which of the following parasites?",
+      "options": {
+        "A": "Strongyloides stercoralis",
+        "B": "Taenia solium",
+        "C": "Hymenolepis nana",
+        "D": "Ascaris lumbricoides"
+      },
+      "correct_answer": "",
+      "explanation": "Autoinfection is not seen in infection with Ascaris lumbricoides.Autoinfection refers to either of the following:• Reinfection by microbes or parasitic organisms that are present on or within the body. It is alsoknown as internal reinfection. e.g., Strongyloides.• Self-infection by direct contact with a contagious agent, as with parasite eggs in the infectiousstate transmitted by fingernails. e.g., Pinworm.The following are the parasites causing autoinfection (mnemonic: CHEST.C)499• Cryptosporidium parvum• Hymenolepis nana• Enterobius vermicularis••Strongyloides stercoralis• Taenia solium• Capillaria philippinensis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 9,
+      "question": "A microbiologist is doing research about antigenic variations in parasites. Which of thefollowing parasites will exhibit this phenomenon?",
+      "options": {
+        "A": "Trypanosoma brucei",
+        "B": "Hymenolepis nana",
+        "C": "Taenia solium",
+        "D": "Enterobius vermicularis491"
+      },
+      "correct_answer": "D",
+      "explanation": "Trypanosoma brucei exhibits antigenic variation within the host. This genetic switch protectsthem from antibodies.These trypanosomes exhibit unique antigenic variations of their glycoproteins. There is a cyclicalfluctuation in the trypanosomes occurring in the blood of infected vertebrates after every 7-10days.Parasites exhibiting antigenic variation include:• Trypanosoma brucei gambiense• Trypanosome brucei rhodesiense• Plasmodium spp.• Giardia lambliaThe following image shows Trypanosoma brucei.The following image shows Plasmodium spp.500The following image shows the trophozoite of Giardia lamblia.G",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp9_img1_32a10081.jpeg",
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 10,
+      "question": "You order a peripheral blood film examination while evaluating a patient with pyrexia ofunknown origin. Which of the following organisms cannot be detected by this investigation?",
+      "options": {
+        "A": "Giardia",
+        "B": "Trypanosoma",
+        "C": "Babesia",
+        "D": "Leishmania"
+      },
+      "correct_answer": "A",
+      "explanation": "Stool examination is useful for the detection of Giardia lamblia, not peripheral blood filmexamination.Examination of blood is of vital importance for demonstrating parasites that circulate in bloodvessels.Examples of parasites found in the peripheral blood film:501ProtozoaNematodesPlasmodium spp.Babesia spp. WuchereriabancroftiBrugiaTrypanosoma spp.Leishmani malayiLoa loaMansonella spa spp.p.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 11,
+      "question": "A Giemsa stain of a thin peripheral smear is prepared. Which of the following cannot bediagnosed?",
+      "options": {
+        "A": "Coxiella burnetii",
+        "B": "Toxoplasma gondii",
+        "C": "Bartonella henselae",
+        "D": "Ehrlichia chaffeensis"
+      },
+      "correct_answer": "A",
+      "explanation": "The diagnosis of Coxiella burnetii cannot be done using a Giemsa stain of a thin peripheral smear.It is done mainly by serology, which shows a rise in the titer of specific antibodies to C. burnetii.Microorganisms such as Histoplasma, Leishmania, Toxoplasma, and Pneumocystis can also bedetected with Giemsa, and in gastric tissues, Helicobacter pylori (H. pylori) appear thin anddistinctly blue. Giemsa's stain is frequently used for diagnostic purposes in haematology todifferentiate the nuclear and cytoplasmic morphology of platelets, RBCs, WBCs, and parasites.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient has presented to the PHC with fever and chills. You order a rapid diagnostic test todetect HRP-2 antigen. Which of the following diseases is it used to diagnose?",
+      "options": {
+        "A": "Malaria",
+        "B": "Filaria",
+        "C": "Amoebiasis",
+        "D": "Giardiasis"
+      },
+      "correct_answer": "A",
+      "explanation": "HRP-2 antigen detection is used in the diagnosis of malaria.Malaria antigens detected by the rapid immunochromatographic test are:•• PLDH - positivity is seen in all Plasmodium species• HRP-2 - positivity is specific for P. falciparumThe below image shows rapid diagnostic test (RDT) kit for malaria.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp12_img1_67417179.jpeg",
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 13,
+      "question": "In a patient with a positive Casoni's skin test, which of the following infections will yoususpect?",
+      "options": {
+        "A": "Schistosomiasis",
+        "B": "Kala-azar",
+        "C": "Hydatid disease492",
+        "D": "Toxoplasmosis"
+      },
+      "correct_answer": "",
+      "explanation": "MikMALARIAPUPVC Py RF502Casoni's skin test is done in patients with hydatid disease.It is an immediate hypersensitivity reaction (type I).This test is abandoned now due to non-specificity and has been supplemented by serological tests.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient presented to the OPD with cough, chest pain, and expectoration of rusty coloredsputum. He is diagnosed to have an oriental lung fluke infection. Which of the followingparasites is implicated here?",
+      "options": {
+        "A": "Clonorchis sinensis",
+        "B": "Paragonimus Westermani",
+        "C": "Fasciolopsis buski",
+        "D": "Metagonimus yokogawai"
+      },
+      "correct_answer": "B",
+      "explanation": "Paragonimus westermani is commonly known as oriental lung fluke or Japanese lung fluke. Itcauses a pulmonary syndrome characterised by cough, chest pain and hemoptysis.Paragonimus westermani is a trematode. The transmission to humans occurs by eating raw orundercooked crab or crayfish containing metacercariae. The metacercariae excyst in the humangut and young worms migrate to the lungs, where they become encapsulated in lung tissue.The patient complains of cough, chest pain, and hemoptysis. The viscous sputum is speckled withgolden-brown eggs.Treatment: Praziquantel (25 mg/kg TDS for 1-2 days) is the drug of choice.The following image shows the life cycle of Paragonimus westermani, the oriental lung fluke.Cercariae invade the crustacean5and encyst into metacercariae.(4a)4b4cCDCSporocysts Rediae CercariaeHumans ingestinadequatelycooked or pickledcrustaceans containingmetacercariae.6Miracidia hatchand penetrate snail2 Embryonated eggs= Infective StageUnembryonated eggsDiagnostic StageSAFER HEALTHIER PEOPLE™Excyst induodenumAdults in cysticcavities in lungslay eggs whichare excretedin sputum.Alternately eggsare swallowedand passed withstool.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp14_img1_5bc6a729.png",
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 15,
+      "question": "A college student from Mangalore comes to the OPD with intermittent fever, headache, andchills for 1 week. She gives a history of malaria 1 year back for which she had receivedtreatment. Which of the following species you would expect to see in the peripheral smear ofthis patient?",
+      "options": {
+        "A": "Plasmodium vivax and falciparum",
+        "B": "Plasmodium ovale and falciparum",
+        "C": "Plasmodium vivax and ovale",
+        "D": "Plasmodium vivax and malariae"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of malaria relapse and it is caused by Plasmodium vivaxand Plasmodium ovale species.In case of P.vivax and P.ovale, two kinds of sporozoites are seen. Some multiply inside hepaticcells to form schizonts while others persist and remain dormant as hypnozoites (resting forms).These dormant forms may get activated and release merozoites, which go on infecting RBCsproducing true clinical relapse. It usually occurs after 6 to 12 months of complete cure from thedisease.503In case of P. falciparum and P.malariae, the initial tissue phase disappears completely and nohypnozoites are found, hence relapse is not seen.In Plasmodium falciparum, recrudescence can be seen which is defined as the recurrence ofasexual parasitemia. It usually occurs within 8 weeks of treatment and is due to incompletetreatment or drug resistance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 16,
+      "question": "A middle-aged woman comes to the clinic with abdominal pain, diarrhea, fatigue, and weightloss. Stool examination revealed bile-stained eggs. Which of the following organisms may notbe implicated in this case?",
+      "options": {
+        "A": "Ascaris lumbricoides",
+        "B": "Trichuris trichuria",
+        "C": "Enterobius vermicularis",
+        "D": "Taenia solium"
+      },
+      "correct_answer": "",
+      "explanation": "Enterobius vermicularis eggs are non-bile stained and the others are bile stained.Enterobiasis commonly occurs in young children and is characterised by anal pruritus. Theworm may migrate up to the uterus, fallopian tubes and into the peritoneum in adult women. Thiscan lead to:• Chronic salpingitis• Cervicitis• Peritonitis• Recurrent urinary tract infections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    },
+    {
+      "q_no": 17,
+      "question": "493You are examining a wet mount stool sample of a patient with diarrhea. As the eggs are notvisible, you concentrate the sample using the saturated salt solution technique. Which of thefollowing eggs will not float in this technique?",
+      "options": {
+        "A": "Trichuris tricuhria",
+        "B": "Hymenolopis nana",
+        "C": "Strongyloides stercoralis",
+        "D": "Enterobius vermicularis"
+      },
+      "correct_answer": "C",
+      "explanation": "The eggs of Strongyloides stercoralis will not float in a saturated salt solution.Concentration methods are used when the parasites in stool are scanty and difficult to identify inroutine stool examination. It is of 2 types:• Floatation methods- the feces are suspended in a solution of high specific gravity and eggs willfloat up. e.g. saturated salt solution technique, zinc sulfate centrifugal floatation technique.• Sedimentation Methods - the feces are suspended in a solution with low specific gravity and eggswill sediment at the bottom. e.g. formol-ether sedimentation technique.504",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "General Parasitology"
+    }
+  ]
+}

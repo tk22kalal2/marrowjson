@@ -1,0 +1,245 @@
+{
+  "chapter": "Virus",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A newborn baby has a characteristic rash as shown below. On examination, bilateral pearlywhite nuclear cataracts are noted, and a continuous murmur is auscultated. What family doesthe virus implicated in this syndrome belong to?",
+      "options": {
+        "A": "Rhabdoviridae",
+        "B": "Filoviridae",
+        "C": "Matonaviridae",
+        "D": "Calciviridae"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q1_img1_2211feeb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 2,
+      "question": "A brain biopsy done at the time of autopsy shows spongiform encephalopathy. Which of thefollowing is unlikely to be the diagnosis?432",
+      "options": {
+        "A": "Creutzfeldt Jakob Disease",
+        "B": "Kuru",
+        "C": "Mad cow disease",
+        "D": "Sub acute sclerosing pan-encephalitis"
+      },
+      "correct_answer": "",
+      "explanation": "Spongiform encephalopathy is a feature of prion disease. Subacute sclerosing panencephalitis(SSPE) is not a prion disease.SSPE is a rare and chronic form of progressive brain inflammation caused by a persistentinfection with the measles virus.Slow virus diseases are characterized by a long asymptomatic period, often months or years induration, between the introduction of the infectious agent and the appearance of clinical illness.Examples: AIDS, Kuru, CJD, SSPE, PMLCJD, Kuru, and mad cow disease are classified under slow virus diseases which are caused byprions.OMARROWImmuno-stainedprion proteinplaquesCellulardegeneration-spongiformappearance",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q2_img1_809e7f6b.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp2_img1_c58eb707.jpeg",
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 3,
+      "question": "Which strain of the Ebola virus has the highest case fatality rate?",
+      "options": {
+        "A": "Zaire strain",
+        "B": "Sudan strain",
+        "C": "Reston strain",
+        "D": "Taï Forest strain"
+      },
+      "correct_answer": "C",
+      "explanation": "The Zaire strain has a case fatality rate of 90%There are five identified Ebola virus strains, four of which are known to cause disease in humans:• Ebola virus (Zaire ebolavirus)•Sudan virus (Sudan ebolavirus).Taï Forest virus (Taï Forest ebolavirus)• Bundibugyo virus (Bundibugyo ebolavirus).439The fifth, Reston virus (Reston ebolavirus), has caused disease in nonhuman primates, but not inhumans.The Bundibugyo ebolavirus, Zaire ebolavirus, and Sudan ebolavirus have been associated withlarge outbreaks in Africa. The strain that caused the 2014-2016 West African outbreak belongs tothe Zaire ebolavirus species.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is a leading cause of diarrheal death in children?",
+      "options": {
+        "A": "Calcivirus",
+        "B": "Adenovirus",
+        "C": "Rotavirus",
+        "D": "Norwalk virus433"
+      },
+      "correct_answer": "C",
+      "explanation": "Rotavirus is a leading cause of diarrheal death among children in the developing world.Rotavirus infections occur in most children below the age of 5 years and are most frequentbetween 6-24 months of age. Neonatal infections are common but are often asymptomatic ormild.Vaccines for rotavirus: RotaTeq and Rotarix, given orally.Note: Viruses that can cause diarrhoea in children include:•Rotavirus (most common)• Norwalk virus•Adenovirus- types 40 and 41• Astrovirus• Coronavirus•SapovirusThe image below shows an electron micrograph image of the Rotavirus.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_b02936d2.jpeg",
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 5,
+      "question": "An 18-year-old went on an exchange program to Singapore. An adventurous eater, she triedclams and oysters on a cruise ship. 2 days later, she developed fever, nausea, vomiting, anddiarrhea. What is the causative agent?",
+      "options": {
+        "A": "Adenovirus",
+        "B": "Rotavirus",
+        "C": "Norwalk virus",
+        "D": "Enterovirus"
+      },
+      "correct_answer": "",
+      "explanation": "100 nm440The clinical scenario describes a case of Norwalk infection. It is the most common cause ofdiarrhea in older children and adults.They occur in group settings such as banquet halls, cruise ships, dormitories, and campgrounds,where outbreak sources are usually contaminated food and/or water. Potential sources ofcontaminated food include shellfish such as clams and oysters, which are contaminated by water.Clinical features are nausea, vomiting, watery diarrhea, abdominal pain. Symptoms ofgastroenteritis develop 12 to 48 hours after being exposed to norovirus.The image below is an electron micrograph of Norovirus (Norwalk virus).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_46a06da6.jpeg",
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 6,
+      "question": "A 70-year-old lady with recent onset, progressive dementia comes with myoclonus. The brainimaging is shown below. What biochemical component is responsible for this disease?",
+      "options": {
+        "A": "DNA",
+        "B": "RNA",
+        "C": "Protein",
+        "D": "Polysaccharide"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical features and imaging suggest a diagnosis of Creutzfeldt-Jakob disease (CJD), causedby prions. Prions are composed of protein.These are infectious protein particles that lack any nucleic acid. They are filterable like viruses butare resistant to agents of sterilization.Prion proteins have two isoforms:• PrPSc is the prion protein that causes disease.• PrPc is the normal prion protein, found in human cells.Prions cause diseases such as CJD, Kuru, Alzheimer's, Parkinson's.Laboratory diagnosis of prion diseases:•Measurement of PrPSc by immunoassay• Brain MRI• Brain biopsy• Stress protein 14-3-3441• Sequencing PRNP gene• Abnormal EEGBasalgangliahyperintensityBasalgangliahyperintensityCorticalribboningCorticalribboning",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q6_img1_f15043f4.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp6_img1_2114a10a.jpeg",
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 7,
+      "question": "A 32-year-old lady is admitted to the ICU with COVID-19. Which of the following statementsis false regarding the organism causing it?434",
+      "options": {
+        "A": "These viruses have club-shaped peplomers on their surface",
+        "B": "It spreads by direct contact",
+        "C": "SARS virus is highly mutable",
+        "D": "It acts by binding to ACE1 and TMPRSS4 receptors"
+      },
+      "correct_answer": "",
+      "explanation": "The coronavirus spike protein binds to the ACE2 and TMPRSS2 receptors to enter the humancells.Coronaviruses are a group of spherical or pleomorphic enveloped RNA viruses having club orpetal-shaped peplomers. Coronaviruses are named for the crown-like spikes on their surface.It spreads through coughing, sneezing, and close personal contact such as touching the mouth,nose.The virus is highly mutable and so vaccine prophylaxis for all strains is difficult.Coronaviruses cause upper respiratory tract infections, severe acute respiratory syndrome (SARS),and Middle Eastern respiratory syndrome (MERS). They spread by inhalation of the virus presentin droplets or aerosols of respiratory secretions of the patients.Basic protective measures against the new coronavirus: (SARS-CoV-2)• Wash your hands frequently for at least 20 seconds.• Maintain social distancing- Maintain at least 1 meter distance between yourself and anyone whois coughing or sneezing•Avoid touching eyes, nose, and mouth•• Practice respiratory hygiene- cover your mouth and nose with your bent elbow or tissue whenyou cough or sneeze, then dispose of the used tissue immediately.• If you have fever, cough, and difficulty breathing, seek medical care early•Stay informed and follow the advice given by your healthcare provider442",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 8,
+      "question": "A person who comes in contact with a case of coronavirus (COVID-19) needs to be followedup for",
+      "options": {
+        "A": "7 days",
+        "B": "21 days",
+        "C": "14 days",
+        "D": "42 days"
+      },
+      "correct_answer": "D",
+      "explanation": "A person who comes in contact with a coronavirus(COVID-19) case (confirmed or probable) needsto be followed up for apperance of symptoms of coronavirus for the maximum incubation periodof 14 days.Treatment: There is no specific antiviral treatment recommended for COVID-19. People withCOVID-19 should receive supportive care to help relieve symptoms. For severe cases, treatmentshould include care to support vital organ functions.Basic protective measures against the new coronavirus: (SARS CoV 2)• Wash your hands frequently for atleast 20 seconds.•Maintain social distancing- Maintain at least 1 metre distance between yourself and anyone whois coughing or sneezing• Avoid touching eyes, nose and mouth• Practice respiratory hygiene- cover your mouth and nose with your bent elbow or tissue whenyou cough or sneeze, then dispose of the used tissue immediately.• If you have fever, cough and difficulty breathing, seek medical care early•Stay informed and follow advice given by your healthcare provider",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 9,
+      "question": "In a patient undergoing testing for SARS-CoV, a FELUDA test is done. Which of the followingstatements is false about this technology?",
+      "options": {
+        "A": "It is the acronym for FNCAS9 Editor Linked Uniform Detection Assay",
+        "B": "Based on CRISPR gene editing technology",
+        "C": "It is slower than RT PCR in detecting SARS-CoV2",
+        "D": "It uses CAS-9 protein to bind to the viral signature"
+      },
+      "correct_answer": "",
+      "explanation": "FELUDA is faster than RT-PCR in detecting SARS-CoV2.FELUDA (FNCAS9 Editor Linked Uniform Detection Assay) is a newly approved method based onCRISPR gene-editing technology to identify and target the genetic material of SARS-CoV2.The CRISPR technology uses a highly specific CAS9 protein to find and bind to the target Covidsignature. This is then coupled with paper-strip chemistry to elicit a visual readout on a paperstrip.It is a very affordable, sensitive (96%), and specific (98%) strip test which can detect viral geneticmaterial within 45 minutes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 10,
+      "question": "A confirmed case of which of the following viral haemorrhagic fevers was found in India?",
+      "options": {
+        "A": "Ebola",
+        "B": "Yellow fever",
+        "C": "Crimean congo hemorrhagic fever",
+        "D": "Marburg"
+      },
+      "correct_answer": "",
+      "explanation": "Crimean Congo hemorrhagic fever is a severe form of viral hemorrhagic fever, is caused byNairovirus species.It is zoonotic in origin with ticks as vectors. The outbreak was caused due to person-to-persontransmission in hospitals.443",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 11,
+      "question": "435A woman presents with a positive urine pregnancy test, 1 month after taking the MMRvaccine. At the time of receiving the vaccine, she had been advised to avoid conception. Whatadvice do you give her now?",
+      "options": {
+        "A": "Wait and watch",
+        "B": "Termination of pregnancy mandatory",
+        "C": "Low risk; termination of pregnancy may be considered",
+        "D": "High risk of anomalies; serious consideration for termination"
+      },
+      "correct_answer": "A",
+      "explanation": "In this case scenario, the doctor should advise the patient to wait and watch.The vaccine should not be administered during pregnancy. If pregnancy occurs within 28 days ofimmunization, the patient should be counseled on the theoretical risks for the fetus.Studies of over 200 women who had been inadvertently immunized with rubella vaccine duringpregnancy showed that none of their offspring developed congenital rubella syndrome. Therefore,termination of pregnancy is probably not warranted.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 12,
+      "question": "While working at a WHO outreach post in Africa, you conduct an educational program aboutthe Zika virus. What family does this virus belong to?",
+      "options": {
+        "A": "Togaviridae",
+        "B": "FlaviviridaeBunyaviridaed) ReoviridaeQuestion 13:Zika virus is transmitted by:a) Aedes aegyptib) Culex",
+        "C": "Anopheles",
+        "D": "Phlebotomus papatasii"
+      },
+      "correct_answer": "B",
+      "explanation": "Zika virus belongs to the family Flaviviridae.It is classified by the International Committee on Taxonomy of Viruses (ICTV):•• Family: Flaviviridae• Genus: Flavivirus•Species: Zika virusZika virus is an RNA virus that is transmitted by Aedes aegypti mosquito bite and by sexualcontact. It causes microcephaly and is associated with Guillain-Barré syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following features do not support a diagnosis of Zika fever?",
+      "options": {
+        "A": "Petechial rash",
+        "B": "Guillan barre syndrome",
+        "C": "Fever with arthralgia",
+        "D": "Conjunctivitis436"
+      },
+      "correct_answer": "A",
+      "explanation": "A petechial rash is not a primary feature of Zika virus infection.Though petechiae may rarely appear in Zika virus disease it is however not included in the CDCcase definition of Zika virus disease. Petechial rash points towards a diagnosis of dengue feverwhile a maculopapular rash suggests a Zika virus disease.Zika virus infection is characterized by influenza-like clinical signs including fever, headache, andmalaise. A maculopapular rash, conjunctivitis, myalgia, and arthralgia usually accompany orfollow those manifestations.444The complications of Zika virus are:• Guillain-Barre syndrome• Fetal microcephaly in pregnant women.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 15,
+      "question": "The transplacental transmission of the organism given in the image which causesmicrocephaly is-",
+      "options": {
+        "A": "Nipah",
+        "B": "Zika virus",
+        "C": "CMV",
+        "D": "RubellaAedesmosquitoTransplacentalTransmissionDevelopingfetal brainPlacenta"
+      },
+      "correct_answer": "B",
+      "explanation": "The transplacental transmission of Zika virus given in the image causes microcephaly.The condition shown in the image is microcephaly. It is caused by Zika virus transmission from aninfected pregnant mother to her child. Zika virus is a mosquito-borne Flavivirus mainlytransmitted through Aedes aegypti.Symptoms are mild and usually last for 2-7 days.• Fever• Rash•Conjunctivitis•Muscle and joint pain• Malaise• Headache• In pregnancy- congenital Zika syndrome or microcephalyThe complications of Zika virus infection include Guillain-Barré syndrome, neuropathy, andmyelitis.NCDC Delhi and the National Institute of Virology Pune, are the only institutes that have thecapacity to provide the diagnosis in an acute febrile stage. RT-PCR is the standard test availablefor the diagnosis of Zika virus infection.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q15_img1_bf0cbd53.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 16,
+      "question": "Tropical spastic paraparesis is caused by:",
+      "options": {
+        "A": "Polyomavirus SV40",
+        "B": "Epstein-Barr virus",
+        "C": "Human immunodeficiency virus",
+        "D": "Human T-lymphotropic virusLangerhans cellViraldisseminationChorionicvillusKeratinocyteMelanocyteDermisProtectiveimmunityBReplicationISGSSyncytiotrophoblastCytotrophoblastISGSIFNA1Radial glialcellsInhibition ofneurogenesisregulatorsOMARROW"
+      },
+      "correct_answer": "D",
+      "explanation": "is the causative agent of the neurodegenerative disorder HTLV-1-associated myelopathy ortropical spastic paraparesis (HAM/TSP).The condition resembles multiple sclerosis and is associated with progressive weakness of legsand lower body. The patients develop spastic paraparesis or paraplegia, hyperreflexia, ankleclonus, and extensor plantar response. The disease progresses slowly and takes the form ofthoracic myelopathy.Other conditions caused by HTLV-1 include:• Adult T-cell leukemias and lymphomas (ATL)• Uveitis• Infective dermatitis445• Arthritis•Sjogren's syndrome",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    },
+    {
+      "q_no": 17,
+      "question": "What family does the Nipah virus belong to?",
+      "options": {
+        "A": "Paramyxoviridae",
+        "B": "TogaviridaeTLR3RestrictionsAXL receptorApoptosisMicrocephaly?437",
+        "C": "Flaviviridae",
+        "D": "Bunyaviridae"
+      },
+      "correct_answer": "A",
+      "explanation": "Nipah virus belongs to the family Paramyxoviridae.Togaviridae contains chikungunya virus.Flaviviridae contains yellow fever virus, dengue virus, Japanese encephalitis virus, hepatitis Cvirus, Zika virusBunyaviridae contains sandfly fever virus, hantaviruses.446",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Virus"
+    }
+  ]
+}

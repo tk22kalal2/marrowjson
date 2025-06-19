@@ -1,0 +1,305 @@
+{
+  "chapter": "Bartonella, Legionella",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The milk ring test is found to be positive for a sample of milk. Which organism has it most likely been contaminated with?",
+      "options": {
+        "A": "Brucella",
+        "B": "Bordetella",
+        "C": "Bacillus",
+        "D": "Burkholderia"
+      },
+      "correct_answer": "A",
+      "explanation": "The milk ring test is typically used to detect Brucella antibodies in milk.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_18885c1c.jpeg",
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is an intracellular pathogen?",
+      "options": {
+        "A": "Brucella suis",
+        "B": "Haemophilus influenzae",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Staphylococcus aureus"
+      },
+      "correct_answer": "A",
+      "explanation": "Brucella suis is primarily an intracellular pathogen affecting the reticuloendothelial system. This accounts for its refractoriness to chemotherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 3,
+      "question": "A farmer was diagnosed with brucellosis. Which of the following patterns of fever will be seenin this disease?",
+      "options": {
+        "A": "Pel-Ebstein fever",
+        "B": "Undulant fever",
+        "C": "Relapsing fever",
+        "D": "Saddleback fever"
+      },
+      "correct_answer": "B",
+      "explanation": "Brucellosis is a bacterial zoonosis caused by Brucella sp which presents with undulant fever. It isreferred to as undulant fever because of the rising and falling of fever like a wave (remittentfever). Patients may also have arthralgia, muscular pain, sweating, loss of weight, and appetite.CNS symptoms such as fatigue, irritability, and depression might also occur.Other optionsOption A: Pel-Ebstein fever is seen in Hodgkin's lymphoma. It is characterized by fever lasting3-10 days followed by afebrile periods of 3-10 days.271Option C: Relapsing fever is seen in infection with Borrelia recurrentis in which days of fever arefollowed by a several-day afebrile period and then relapse into additional days of fever. A similarpicture is also seen in malaria.Option D: Saddleback fever is seen in dengue. Saddleback fever is defined as temperature&gt;37.5°C with defervescence of at least one day, followed by a second peak lasting at least oneday.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 4,
+      "question": "A 56-year-old dairy farmer presented with remittent fever and night sweats for 1 month. On examination, he was hypotensive and pallor was present. Rose Bengal card tests done on milk samples from his farm were found to be positive. Which blood culture method with a biphasic medium will be used to isolate the organism?",
+      "options": {
+        "A": "BACTEC method",
+        "B": "Castaneda method",
+        "C": "Septi-check method",
+        "D": "Oxoid signal method"
+      },
+      "correct_answer": "B",
+      "explanation": "The given case scenario of remittent fever with anemia with a positive Rose Bengal card test is suggestive of brucellosis. Castaneda method for blood culture is used to isolate Brucella sp. In the Castaneda method, blood is inoculated into a bottle of trypticase soy broth or brucella broth in a biphasic blood culture bottle (with liquid and solid media in the same bottle). This method minimizes materials and manipulation, thus reducing the chances of contamination and risk of infection to laboratory workers. Blood cultures are positive in only 30-50% of cases even when repeated samples are tested. B. melitensis and B. suis are isolated more readily than B. abortus. Lab diagnosis of brucellosis is done using the following methods: Blood culture with Castaneda's method - recommended, BACTEC - an automated method. It is faster than Castaneda's method. Serological tests: Standard agglutination test (SAT), ELISA for specific IgG/IgM, Dipstick assays. Detection in milk and infected cattle is carried out by: Microscopic demonstration by staining or immunofluorescence, Milk ring test, Rose Bengal card test.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_428b58a5.jpeg",
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 5,
+      "question": "A 50-year-old farmer presents with fever, weight loss, and lower backache for three weeks.Blood reports show predominant lymphocytosis. What are the drugs of choice for treatingthis condition?",
+      "options": {
+        "A": "Cotrimoxazole and rifampicin",
+        "B": "Doxycycline and cotrimoxazole",
+        "C": "Doxycycline and streptomycin",
+        "D": "Streptomycin and rifampicin"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario of a farmer with fever, weightloss and back pain with a predominantlymphocytosis points towards a diagnosis of acute brucellosis. The drugs of choice for thiscondition in adults are intramuscular streptomycin with doxycycline.The usual alternative regimen (and the current World Health Organization recommendation) isrifampin plus doxycycline. However, this is associated with a higher relapse rate, possibly becauserifampicin increases clearance of doxycycline and reduces serum doxycycline levels.In children, cotrimoxazole along with rifampicin or gentamycin may be used for the treatment ofbrucellosis.Note: B. melitensis is endemic to the Middle East.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 6,
+      "question": "A 34-year-old man presents to the hospital with fever, joint pain and a rash on his hands. Hegives a history of a rat bite 1 week back. Which of the following can cause this disease?",
+      "options": {
+        "A": "1 and 3.",
+        "B": "2 and 4.",
+        "C": "3 and 5.",
+        "D": "2 and 5."
+      },
+      "correct_answer": "D",
+      "explanation": "The given case scenario is suggestive of rat-bite fever. This can be caused by Streptobacillusmoniliformis and Spirillum minus.Rat-bite fever (RBF) is characterized by fever, rash, and arthralgia which usually occurs days orweeks after a bite.The two types of rat-bite fever are:• Streptobacillary RBF develops 2-10 days after a rat bite, associated with sudden onset of fever,headache, and myalgia followed by petechial rash and arthritis. It is also called Haverhill fever orErythema arthrititicum epidemicum.•Spirillary RBF is similar to streptobacillary type but it is also associated with regionallymphadenopathy. It is also called Sodoku.Diagnosis is based on demonstration of causative organisms in peripheral blood films. Serologycan also be used for diagnosis.RBF is treated with intravenous Penicillin G. Alternative drugs include ampicillin, cefuroxime,and cefotaxime.Note: Pasteurella multocida causes cellulitis and lymphangitis following bites by cats and dogs.Bartonella henselae causes cat sratch disease and bacillary angiomatosis.Borellia burgdorferi causes Lyme disease.273",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 7,
+      "question": "While evaluating the Pap smear of a patient, you come across the following finding. What isthe diagnosis?263",
+      "options": {
+        "A": "Lymphogranuloma venereum",
+        "B": "Bacterial vaginosis",
+        "C": "Trichomoniasis",
+        "D": "Gonorrhea"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows clue cells which are seen in bacterial vaginosis. They are epithelial cellswith their surface covered by adherent bacilli seen in stained or unstained films.Bacterial vaginosis is a polymicrobial infection characterized by a malodorous (fishy smell) vaginaldischarge. Causative organisms include:•Gardnerella vaginalis• Mycoplasma hominis• Prevotella• Ureaplasma• Peptostreptococcus.•Bacterial vaginosis is diagnosed using Amsel's criteria and Nugent's score:1. Amsel's Criteria: (any 3 should be present)•Thin, white/yellow homogenous vaginal discharge• pH of Vaginal fluid&gt;4.5Fishy odour of discharge accentuated on adding 10% KOH (Whiff test)• Clue cells seen on microscopy2. Nugent's score is obtained by counting the number of Gardnerella vaginalis, Mobilincus andlactobacillus in the gram-stained smear of vaginal discharge. A score of ≥7 is diagnosticTreatment is oral metronidazole 500 mg BD for 7 days.The images below show clue cells from microscopy.274OMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q7_img1_56631c13.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp7_img1_698364eb.jpeg",
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient from Kolar, Karnataka presented with fever and hemoptysis. The findings of hisperipheral smear examination are given below. Which of the following is the causativeorganism?",
+      "options": {
+        "A": "Yersinia pestis12443264",
+        "B": "Bacillus anthracis",
+        "C": "Bordetella pertussis",
+        "D": "Klebsiella pneumonia"
+      },
+      "correct_answer": "A",
+      "explanation": "The given case scenario and the image showing the characteristic \"safety-pin appearance\" inperipheral smear is suggestive of plague caused by Yersinia pestis.On staining with Giemsa stain or methylene blue (Wayson's stain), the bacteria has bipolarstaining with two ends densely stained and the central area clear. This is the characteristic'safety-pin appearance' seen in Y. pestis.Bipolar staining is also shown by the following organisms:• Haemophilus ducreyi• Vibrio parahemolyticus• Calymmatobacterium granulomatis• Burkholderia mallei•Burkholderia pseudomallei.Note: In India, 4 foci of plague are known:• Kolar at the trijunction of Tamil Nadu, Andhra Pradesh, and Karnataka..Beed-Latur belt in Maharashtra•Rhoru, Himachal Pradesh• UttarakhandThe image given below shows the safety-pin appearance of Yersinia pestis on Wayson's stain2757443",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q8_img1_7df44309.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp8_img1_0c852467.jpeg",
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 9,
+      "question": "A child from Uttarakhand suddenly developed fever with chills and malaise. He also developed a tender swelling which is shown in the image. There's a history of similar complaints in the community. What is false about the disease he's likely suffering from?",
+      "options": {
+        "A": "Wild rodents and their infected fleas are the primary reservoir.",
+        "B": "The septicemic form cannot be acquired directly.",
+        "C": "The pneumonic form is far more contagious than the bubonic form.",
+        "D": "The bubonic form may progress to the pneumonic form."
+      },
+      "correct_answer": "B",
+      "explanation": "The given case scenario of sudden-onset fever with painful lymphadenopathy and a history of similar complaints in the community is suggestive of a diagnosis of plague caused by Yersinia pestis. The septicemic form of the disease may be acquired directly if the bacteria enter the bloodstream via infected blood transfusions. Wild rodents and their infected fleas are the primary reservoirs of Yersinia pestis. Infection is transmitted to humans by the bite of infected fleas. Human plague occurs in three clinical forms (in increasing order of severity): bubonic plague, pneumonic plague, and septicemic plague. Bubonic plague - it is the most common variety of the disease. It is named after the buboes, meaning swollen lymph nodes, which typically develop within a week after an infected flea bite. Other clinical features include sudden onset of fever and chills, headache, and fatigue. Pneumonic plague - bubonic plague can advance and spread to the lungs. It is the most virulent form of plague. Any person with pneumonic plague may transmit the disease via droplets to other humans. The symptoms include dyspnea, chest pain, cough, fever, and hemoptysis. Septicemic plague - when the bacteria enter the bloodstream directly and multiply there, it is known as septicemic plague. When left untreated, both bubonic and pneumonic plague can lead to septicemic plague.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q9_img1_868d85e1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 10,
+      "question": "A sudden epidemic of pneumonic plague has occurred in the Beed-Latur belt of Maharashtra.The primary contact of a suspected case came to you for preventive treatment. What will youprescribe for chemoprophylaxis in this patient?",
+      "options": {
+        "A": "Penicillin",
+        "B": "Rifampicin",
+        "C": "Erythromycin",
+        "D": "Doxycycline265"
+      },
+      "correct_answer": "D",
+      "explanation": "The drug of choice for chemoprophylaxis of plague is doxycycline. It is given for 7 days to all closecontacts of a patient having pneumonic plague.276Ciprofloxacin, levofloxacin, and moxifloxacin are the other first-line drugs used for antimicrobialprophylaxis.The drug of choice for the treatment of plague is streptomycin. Streptomycin is nephrotoxic andototoxic and should, therefore be cautiously used. Doxycycline or ciprofloxacin (and otherfluoroquinolones) are considered as alternative drugs for the treatment of plague.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following organisms do not cause yersiniosis?",
+      "options": {
+        "A": "Yersinia enterocolitica",
+        "B": "Yersinia pestis",
+        "C": "Yersinia enterocolitica and Yersinia pseudotuberculosis",
+        "D": "Yersinia pestis and Yersinia pseudotuberculosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The term yersiniosis denotes infections with yersiniae other than Y. pestis. Yersiniosis includes zoonotic infections by Y. pseudotuberculosis and Y. enterocolitica.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 12,
+      "question": "A 65-year-old patient presents to the OPD with high fever, chest pain, dyspnoea, andhemoptysis. The patient also complains of watery diarrhea. The direct fluorescent antibodystained film of his pleural fluid is given below. Identify the most likely etiologic agent.",
+      "options": {
+        "A": "Chlamydia pneumoniae",
+        "B": "Legionella pneumophila",
+        "C": "Hemophilus influenzae",
+        "D": "Klebsiella pneumoniae"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical vignette and the image showing fluorescent organisms in the direct fluorescentantibody (DFA) stained film of pleural fluid suggest the diagnosis of Legionnaire's disease, causedby Legionella pneumophila.Two distinct clinical patterns of legionellosis have been identified:•Legionnaires' disease presents with fever, non-productive cough, and dyspnea rapidlyprogressing to pneumonia if left untreated. Patients can also develop a hyponatremia. Diarrheaand encephalopathy are also common. It is often included in the differential diagnosis of atypicalpneumonia. Atypical pneumonia is also caused by:•⚫ Chlamydia pneumonia• Chlamydia psittaci•Mycoplasma pneumonia• Coxiella burnetii• Viruses such as influenza virus, adenovirus and respiratory syncytial virus•• Pontiac fever is a milder, non-fatal, influenza-like illness with fever, chills, myalgia, andheadache.Other options:Option A: Chlamydia pneumonia causes pharyngitis, sinusitis, bronchitis, and pneumonia. It hasalso been associated with adult onset asthma. Outbreaks have been reported in closedcommunities. Real-time PCR is used for its diagnosis.Option C: Haemophilus influenzae typically causes pneumonia in infants. While the primaryinfections occur due to capsulated strains, bronchopneumonia may occur as a secondary infectiondue to non-capsulated strains. Gram stain and culture are used for diagnosis.Option D: Klebsiella pneumonia causes fatal pneumonia, which occurs in middle-aged or olderpersons with risk factors such as alcoholism, chronic bronchopulmonary disease or diabetesmellitus. Gram stain and culture are used for diagnosis.277",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q12_img1_5e08bd16.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 13,
+      "question": "BCYE medium is used to culture",
+      "options": {
+        "A": "Leptospira",
+        "B": "Bacillus cereus",
+        "C": "Campylobacter",
+        "D": "Legionella"
+      },
+      "correct_answer": "D",
+      "explanation": "BCYE medium (buffered charcoal yeast extract agar) is used to culture Legionella pneumophila. Legionella pneumophila has fastidious growth requirements and grows on complex media such as BCYE medium with L-cysteine and antibiotic supplements (e.g., polymyxin B, cefazolin, vancomycin). The charcoal acts as a detoxifying agent. It grows slowly, and the colonies may take 3-6 days to appear. Other options: Option A: Leptospira is cultured on EMJH (Ellinghausen, McCullough, Johnson, and Harris) medium. Option B: Bacillus cereus is cultured on PEMBA (Polymyxin pyruvate egg-yolk mannitol-bromothymol blue) agar. Option C: Campylobacter is cultured on Skirrow's, Campy BAP, or Butzler's agar.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 14,
+      "question": "A 60-year-old man is diagnosed with Legionnaires' disease. He had recently attended a conference. What is the most likely way he acquired the infection?",
+      "options": {
+        "A": "From the air-conditioned rooms at the conference",
+        "B": "From a chronic carrier of the disease",
+        "C": "From sharing a towel with a fellow colleague in the conference",
+        "D": "From drinking the water provided at the conference"
+      },
+      "correct_answer": "A",
+      "explanation": "This patient most likely acquired infection with Legionella pneumophila from inhalation of aerosol in the air-conditioned rooms at the conference. Legionella pneumophila can be found in natural, freshwater environments, but generally is not present in sufficient numbers to cause disease. Infection is typically by inhalation of aerosols produced by cooling towers, air conditioners, and showerheads which act as disseminators. No animal reservoirs exist. No evidence of human-to-human transmission has been found and no carrier state is established.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient presented with fever and regional lymphadenopathy, following a scratch from his pet kitten. His lymph node biopsy specimen was examined with Warthin-Starry staining; the findings are shown in the given image. What is the causative organism of this condition?",
+      "options": {
+        "A": "Bartonella henselae",
+        "B": "Bartonella bacilliformis",
+        "C": "Bartonella quintana",
+        "D": "Borrelia burgdorferi"
+      },
+      "correct_answer": "A",
+      "explanation": "This patient presents with fever and lymphadenopathy after a cat scratch and the above image shows the black short rod-shaped bacilli arranged in chains or clumps, suggestive of cat scratch disease. This condition is caused by Bartonella henselae. Cat scratch disease presents as a febrile illness with lymphadenopathy following a cat scratch. Patients present with a painless papule or pustule at the site of the scratch and lymph node enlargement and can be suppurative. The disease is usually self-resolving. However, it can be treated with azithromycin only in patients who have severe complications.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q15_img1_d424d58d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 16,
+      "question": "Choose the correct statement regarding 5-day fever.",
+      "options": {
+        "A": "Transmitted by Phlebotomus sandflies.",
+        "B": "Incubation period is 5 days",
+        "C": "No animal reservoir is known",
+        "D": "Treatment is necessary only in the severe cases"
+      },
+      "correct_answer": "",
+      "explanation": "5-day fever is an exclusively human disease and no animal reservoir is known.2785-day fever is also known as trench fever/quintan fever. It is caused by Bartonella quintana. It ischaracterized by sudden onset of fever accompanied by headache, malaise, restlessness, and shinpain.Trench fever is transmitted by the body louse. (Option A). It has an incubation period rangingfrom 14-30 days. Symptoms coincide with the release of B. quintana in blood every 3-5 days witheach episode lasting 5 days. Recrudescence and relapses are common. (Option B)All cases are treated using doxycycline. Macrolides and fluoroquinolones can also be used in itstreatment. (Option D)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 17,
+      "question": "A young man presented to the ER with fever and suppurative lymphadenopathy of his left axilla a few days after he sustained a scratch from his pet cat. Which of the following will most likely be seen on biopsy of the lymph node?",
+      "options": {
+        "A": "Foreign body granuloma",
+        "B": "Naked granuloma",
+        "C": "Durck granuloma",
+        "D": "Stellate granuloma"
+      },
+      "correct_answer": "D",
+      "explanation": "The given scenario points to a diagnosis of cat-scratch disease caused by B. henselae. Stellate granulomas are characteristically present in this condition. They are granulomas containing central granular debris and neutrophils; giant cells are uncommon. The image below shows a stellate granuloma. Other options: Option A: Foreign body granulomas are incited by relatively inert foreign bodies, such as talc, sutures. Epithelioid cells and giant cells are apposed to the surface of the foreign body. The foreign material can usually be identified in the center of the granuloma. The given image shows a suture granuloma. The suture material is surrounded by lymphocytic infiltration. Option B: Naked granulomas are seen in sarcoidosis. They are non-caseating granulomas minimally surrounded by lymphocytes. The image below shows a naked granuloma. Option C: Durck granulomas are seen in cerebral malaria. The image below shows a Durck granuloma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp17_img1_976f993d.jpeg",
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 18,
+      "question": "A patient who is a known case of AIDS presents to the OPD with fever, chills, weight loss, and the cutaneous lesions shown below. The microscopic examination of the lesions revealed predominant neutrophilic infiltration. What is the most likely diagnosis?",
+      "options": {
+        "A": "Kaposi sarcoma",
+        "B": "Verruga peruana",
+        "C": "Bacillary angiomatosis",
+        "D": "Eczema herpeticum"
+      },
+      "correct_answer": "C",
+      "explanation": "This clinical vignette of a patient with HIV infection and the violaceous lesions with a neutrophilic infiltrate is suggestive of bacillary angiomatosis. Bacillary angiomatosis is seen in severely immunocompromised patients and is caused by B. henselae or B. quintana. It is characterized by neovascular proliferative lesions involving the skin. It consists of lobular proliferation of small blood vessels lined by enlarged endothelial cells interspersed with mixed infiltrates of neutrophils and lymphocytes, with a predominance of the former. Both bacillary angiomatosis and Kaposi's sarcoma can have the clinical presentation mentioned in the question. However, the major differentiating factor is the microscopic examination: • Bacillary angiomatosis predominantly has a mixed infiltrate accompanied by neutrophils with clumps of bacilli. • Kaposi's sarcoma predominantly has plasma cells and lymphocytic infiltrates.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q18_img1_88a2e448.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 19,
+      "question": "A patient has presented with lesions on the dorsum of the hand followed by axillarylymphadenopathy. What significant history will you ask for in this case?",
+      "options": {
+        "A": "History of exposure to rats",
+        "B": "History of exposure to cats",
+        "C": "History of similar complaint in family members",
+        "D": "History of tick bite"
+      },
+      "correct_answer": "B",
+      "explanation": "This scenario of lesions on the hand followed by axillary lymphadenopathy is suggestive of catscratch disease, hence we should ask about the history of exposure to cats. It is caused byBartonella henselae.Bartonella henselae is an intracellular, pleomorphic, gram-negative bacillus. They can beidentified in lymph node biopsy with Warthin-Starry Silver stain. In addition to cat scratchdisease, in immunocompromised individuals, it can also cause bacillary angiomatosis and peliosishepatis.281In immunocompetent hosts, cat scratch disease is a self limiting illness. However in patients withsevere disease, azithromycin can be used to treat the infection.Cat scratch diseaseBlisters on handMARROWMARROWAxillarylymphadenopathy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is incorrectly matched?",
+      "options": {
+        "A": "Bartonella henselae - Bacillary angiomatosis",
+        "B": "Ehrlichia chaffeensis - Human monocytic ehrlichiosis",
+        "C": "Ehrlichia phagocytophila - Human granulocytic ehrlichiosis",
+        "D": "Bartonella bacilliformis - Parinaud's oculoglandular syndrome"
+      },
+      "correct_answer": "D",
+      "explanation": "Parinaud's oculoglandular syndrome is an atypical form of cat scratch disease and is caused by Bartonella henselae. Bartonella henselae also causes bacillary angiomatosis in HIV-infected and other immunodeficient patients. It presents as vascular nodules or tumors on the skin, mucosa, and other locations. Bartonella bacilliformis causes Oroya fever, also known as Carrion's disease. Note: Ehrlichia phagocytophila has been renamed as Anaplasma phagocytophilum.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Bartonella, Legionella"
+    }
+  ]
+}

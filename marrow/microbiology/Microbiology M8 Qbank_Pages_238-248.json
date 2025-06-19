@@ -1,0 +1,230 @@
+{
+  "chapter": "Pseudomonas and Burkholderiales",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 20-year-old male presents with acute onset cough and thick, sticky sputum. There is a history of repeated lung infections since childhood. Chest X-ray shows evidence of bilateral upper lobe bronchiectasis. On evaluation, the chloride concentration in his sweat is >60 mEq/L. What is the organism majorly associated with this patient's respiratory disease?",
+      "options": {
+        "A": "Burkholderia pseudomallei",
+        "B": "Pseudomonas putida",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Burkholderia cepacia"
+      },
+      "correct_answer": "C",
+      "explanation": "The patient's symptoms and test results are indicative of cystic fibrosis, a disease often associated with Pseudomonas aeruginosa infections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following organisms causes scombroid fish poisoning?",
+      "options": {
+        "A": "Salmonella",
+        "B": "Staphylococcus",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Peptostreptococcus"
+      },
+      "correct_answer": "C",
+      "explanation": "Scombroid fish poisoning is associated with Pseudomonas aeruginosa. It follows the consumption of both scombroid (mackerel-like) fish and non-scombroid fish that have not been refrigerated properly. The musculature of these dark- or red-fleshed fish undergoes decomposition by Morganella morganii, Escherichia coli, Proteus species, Klebsiella species, and Pseudomonas aeruginosa. There is consequent decarboxylation of the amino acid L-histidine to form histamine. A second compound is thought to play a causative role in this intoxication because large doses of oral histamine do not reproduce the affliction. The toxin or toxins involved are heat-stable and are not destroyed by cooking or freezing. Symptoms develop within 15-90 minutes of ingestion. Most cases are mild, with tingling of lips and mouth, mild abdominal discomfort, and nausea. The more severe and commonly described presentation includes flushing, conjunctival hyperemia, pruritus, urticaria, and angioedema. Without treatment, the symptoms generally resolve within 8–12 hours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient comes to the dermatology OPD complaining of greenish discoloration of her nails. You diagnose her with green nail syndrome. Production of which of the following helps differentiate the organism implicated here from other members of its genus?",
+      "options": {
+        "A": "Pyocyanin",
+        "B": "Pyoverdin",
+        "C": "Pyorubin",
+        "D": "Pyomelanin"
+      },
+      "correct_answer": "A",
+      "explanation": "Green nail syndrome is caused by Pseudomonas aeruginosa. Production of pyocyanin helps differentiate it from other Pseudomonas species. Pseudomonas aeruginosa is the only member of the Pseudomonas species that produces pyocyanin, which is a bluish-green pigment. Other species of Pseudomonas also produce pigments, but they cannot produce pyocyanin. Some of the other pigments produced by Pseudomonas species, including P. aeruginosa, are pyoverdin/fluorescein (greenish-yellow pigment), pyorubin (red pigment), and pyomelanin (brown pigment).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 4,
+      "question": "The mechanism of action of exotoxin A of Pseudomonas resembles that of",
+      "options": {
+        "A": "Cholera toxin",
+        "B": "Diphtheria toxin",
+        "C": "Tetanus toxin",
+        "D": "Anthrax toxin"
+      },
+      "correct_answer": "B",
+      "explanation": "The action of exotoxin A of Pseudomonas aeruginosa is similar to that of the diphtheria toxin. Both exotoxin A and diphtheria toxin cause ADP ribosylation of EF-2 and inhibit protein synthesis. Exotoxin A is a single-chain polypeptide with A and B fragments. The B fragment binds the toxin, while the A fragment inactivates EF-2 in the presence of nicotinamide adenine dinucleotide (NAD). This leads to the inhibition of polypeptide chain elongation and thus, protein synthesis. Inactivates elongation factor-2, preventing protein synthesis by the ribosome.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp4_img1_94ca919d.jpeg",
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient with acute onset fever, cough, and hemoptysis is diagnosed to have Whitmore's disease. Which of the following organisms causes this condition?",
+      "options": {
+        "A": "Burkholderia pseudomallei",
+        "B": "Burkholderia mallei",
+        "C": "Burkholderia cepacia",
+        "D": "Paraburkholderia species"
+      },
+      "correct_answer": "A",
+      "explanation": "Burkholderia pseudomallei causes Whitmore's disease. Melioidosis was first described by Whitmore and Krishnaswami. Whitmore isolated the bacillus, and hence, it is known as Whitmore bacillus and melioidosis is called Whitmore's disease. Melioidosis is similar in presentation to glanders disease (caused by Burkholderia mallei). Humans are infected by contact with contaminated soil via skin abrasions. Types of melioidosis: • Acute - It causes acute pneumonia with upper lobe infiltrates or severe necrotizing disease. It can also mimic tuberculosis with fever, cough, hemoptysis. It may lead to septicemia. • Chronic - It can lead to the development of multiple caseous or suppurative foci, with skin and subcutaneous abscesses. These can lead to lymphangitis and lymphadenopathy. It may involve bones and other internal organs. The bacillus has a safety-pin appearance on methylene blue staining. Treatment is divided into two stages: an intensive 2-week phase of ceftazidime or a carbapenem followed by at least 12 weeks of oral cotrimoxazole to eradicate the organism and prevent relapse.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 6,
+      "question": "A horse-groomer was diagnosed with ulcerative tracheobronchitis. Upon enquiry, it wasdiscovered that one of his horses had recently died of pneumonia after developing a fever andsubcutaneous nodules. Which of the following statements is false about the likely causativeagent?",
+      "options": {
+        "A": "It is non-motile.",
+        "B": "It is always oxidase negative",
+        "C": "It is the causative agent for Glanders disease.",
+        "D": "It induces Strauss reaction on inoculation into guinea pigs."
+      },
+      "correct_answer": "B",
+      "explanation": "The development of ulcerative tracheobronchitis after contact with an infected horse is suggestiveof glanders which is caused by Burkholderia mallei. It is an oxidase variable organism.In this case, the horse likely had glanders, which presents with fever, pneumonia, andsubcutaneous nodules called Farcy buds. Discharges from the respiratory tract and skin are highlyinfectious and can be transmitted to humans through close contact (occupational route). The244horse-groomer likely contracted the infection by the inhalational route and developed acuteglanders, which is characterised by fever, mucopurulent nasal discharge and ulcerative necrosis ofupper respiratory tract (ulcerative tracheobronchitis). It may lead to septicemia and has a highfatality rate. Percutaneous exposure causes local suppurative skin lesions with associated regionallymphadenopathy.B. mallei is a non-motile Gram-negative bacillus causing Glanders disease. It is an aerobe and afacultative anaerobe. It is oxidase variable i.e. it is usually oxidase negative but may occasionallyshow a positive reaction. It is a biosafety level 3 pathogen and so must be handled only inspecialised laboratories. When male guinea pigs are inoculated intraperitoneally with suspectedinfectious material, it causes Strauss reaction. B. mallei sets up a necrotizing inflammation in thescrotal sac within a few days and can be confirmed bacteriologically.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is Burkholderia cepacia resistant to?",
+      "options": {
+        "A": "Ceftazidime",
+        "B": "Trimethoprim-sulfamethoxazole",
+        "C": "Temocillin",
+        "D": "Cefotetan239"
+      },
+      "correct_answer": "D",
+      "explanation": "Burkholderia cepacia is resistant to cefotetan.B. cepacia complex strains are intrinsically resistant to aminoglycosides, polymixin, first andsecond-generation cephalosporins (e.g. cefotetan) and carboxypenicillins. This antimicrobialresistance is mediated by efflux pumps, antimicrobial degradation, modifying enzymes or alteredmembrane functions.B. cepacia is a Gram-negative bacillus which can cause severe necrotizing pneumonia in patientswith chronic granulomatous disease. It can lead to fatal septicemia in patients with cystic fibrosis.Antimicrobial agents that are effective against B. cepacia complex include meropenem,ceftazidime, trimethoprim-sulfamethoxazole, piperacillin and temocillin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 8,
+      "question": "An organism cultured in Bordet-Gengou medium shows smooth, refractile, glistening colonies resembling 'bisected pearls' or 'mercury drops'. The organism is most likely",
+      "options": {
+        "A": "Bordetella parapertussis",
+        "B": "Bordetella bronchiseptica",
+        "C": "Bordetella pertussis",
+        "D": "Bordetella petrii"
+      },
+      "correct_answer": "C",
+      "explanation": "The organism showing colonies resembling 'bisected pearls' or 'mercury drops' on Bordet-Gengou medium most likely is Bordetella pertussis. Bordetella pertussis is a Gram-negative coccobacillus. It causes whooping cough or pertussis in children. It can be isolated on the enriched medium Bordet-Gengou medium (potato-blood-glycerol agar). After incubation for 48 to 72 hours, B. pertussis colonies are small, dome-shaped, smooth, opaque, viscid, greyish white, refractile, and glistening, resembling 'bisected pearls' or 'mercury drops', and are surrounded by a hazy zone of hemolysis. If growth is confluent, an 'aluminum paint' appearance is seen. In culture films, Bordetella pertussis bacilli tend to be arranged in loose clumps, with clear spaces in between, giving a 'thumbprint' appearance. B. parapertussis (option A) grows on nutrient agar with the production of a brown, diffusible pigment after two days. It also grows more rapidly than B. pertussis on charcoal blood agar.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp8_img1_0acdb9da.jpeg",
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 9,
+      "question": "An 8-year-old boy with an incomplete vaccination history comes with vomiting after bouts of severe, violent cough. What is the mechanism of action of the toxin responsible for this child's disease?",
+      "options": {
+        "A": "Activation of phospholipase and degradation of the cell membrane",
+        "B": "Inactivation of the 60S ribosome",
+        "C": "ADP ribosylation and lymphocytosis",
+        "D": "Activation of guanylate cyclase"
+      },
+      "correct_answer": "C",
+      "explanation": "Post-tussive vomiting and bouts of cough in an unimmunized child point to a diagnosis of pertussis, caused by Bordetella pertussis. It secretes pertussis toxin (PT), which acts by ADP ribosylation and disrupts signal transduction of many cell types. This promotes lymphocytosis. The pertussis toxin disrupts protein synthesis and causes necrosis of parts of the epithelium, leading to pseudomembrane formation. Pertussis toxin also promotes sensitization to histamine and enhances insulin secretion, but these effects have not been demonstrable in patients. They are only seen in experimental animals. B. pertussis also produces other toxins like: Adenylate cyclase toxin (ACT) - It acts by catalyzing the production of cAMP by various types of cells and inhibiting phagocytosis. Heat-labile toxin (HLT) - It is a cytoplasmic protein present in all bordetellae. It is dermonecrotic and lethal in mice. Its pathogenic role is not known. Tracheal cytotoxin (TCT) - It is a low molecular weight peptidoglycan that induces ciliary damage in hamster trachea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following statements is false about pertussis toxin?",
+      "options": {
+        "A": "It is expressed on the surface of the bacillus.",
+        "B": "It cannot be toxoided.",
+        "C": "The 'A' portion of the A-B structure is the enzymatically active moiety.",
+        "D": "It is similar to cholera toxin in its structure and function."
+      },
+      "correct_answer": "B",
+      "explanation": "Pertussis toxin (PT) can be toxoided. PT is one of the toxins produced by Bordetella pertussis. It is expressed on the surface of the bacillus and secreted into the surrounding medium. It has an A-B structure, the A portion being the enzymatically active moiety and B, the binding component. PT is similar to cholera toxin in its structure and function. PT has ADP-ribosylating activity and acts on the inhibitory Gi subunit of the G-protein coupled receptor (GPCR), whereas cholera toxin acts on the stimulatory Gs subunit of GPCR. Pertussis toxoid is the major component of the acellular pertussis vaccine. A toxoid is a toxin that has lost its toxicity but retains its antigenicity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 11,
+      "question": "A 4-year-old unimmunized child presents with whooping cough. Which of the following constituents of the causative organism is responsible for facilitating its adhesion to the respiratory epithelium?",
+      "options": {
+        "A": "Adenylate cyclase",
+        "B": "Lipopolysaccharide",
+        "C": "Tracheal cytotoxin",
+        "D": "Filamentous hemagglutinin"
+      },
+      "correct_answer": "D",
+      "explanation": "Whooping cough is caused by Bordetella pertussis. Filamentous hemagglutinin (FHA) is responsible for facilitating the adhesion of Bordetella pertussis to the respiratory epithelium. Bordetella pertussis produces three hemagglutinins: pertussis toxin (PT), lipid factor, and FHA. FHA is a surface protein and is readily shed. Along with fimbriae, it helps in the adhesion of B. pertussis to the cilia of the respiratory epithelium and to erythrocytes. FHA and PT also promote secondary infection by coating other bacteria, such as Haemophilus influenzae and Pneumococci. They then assist their binding to the respiratory epithelium. This phenomenon has been termed 'piracy of adhesins'.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 12,
+      "question": "What is the incubation period of pertussis in humans?",
+      "options": {
+        "A": "<7 days",
+        "B": "3-5 days",
+        "C": "21-30 days",
+        "D": "7-14 days"
+      },
+      "correct_answer": "D",
+      "explanation": "The incubation period of pertussis in humans is 7-14 days. Pertussis is caused by Bordetella pertussis. After the incubation period, the disease takes a protracted course comprising three stages: • Catarrhal: It lasts 1-2 weeks and is characterized by coryza, lacrimation, mild cough, low-grade fever, and malaise. • Paroxysmal: It lasts 2-4 weeks with the cough becoming more frequent and spasmodic. The cough comes in repetitive bursts of 5-10 in number, often within a single expiration. Post-tussive vomiting is frequent. The episode may be terminated by an audible whoop, which occurs upon rapid inspiration against a closed glottis at the end of a paroxysm. • Convalescent: It lasts 1-3 months and is characterized by gradual resolution of coughing episodes. Whooping cough is also known as '100-day cough'. For 6-12 months following the illness, intercurrent viral infections may be associated with a recrudescence of paroxysmal cough.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 13,
+      "question": "You are evaluating a 6-year-old unimmunized girl with cough and abdominal pain. Her mother informs you that her daughter has bouts of violent coughing which frequently end with a loud whoop and is accompanied by vomiting. She gives a history of similar complaints in a classmate 2-3 weeks back. Which of the following drugs will you prescribe for this patient?",
+      "options": {
+        "A": "Erythromycin",
+        "B": "Penicillin",
+        "C": "Ciprofloxacin",
+        "D": "Cotrimoxazole"
+      },
+      "correct_answer": "A",
+      "explanation": "The given case scenario of whooping cough, post-tussive vomiting, and abdominal pain, along with a positive history of exposure in an unimmunized child, is suggestive of pertussis. Erythromycin or one of the newer macrolides, such as azithromycin or clarithromycin, is the drug of choice for the treatment of this condition. Antibiotic therapy in pertussis is used to eradicate the bacteria from the nasopharynx. The treatment is beneficial if it is started within 10 days of the disease. Macrolides are the drugs of choice. Trimethoprim-sulfamethoxazole (Cotrimoxazole) is recommended as an alternative for individuals allergic to macrolides. Macrolides may also be used in the chemoprophylaxis of pertussis. Post-exposure prophylaxis is given to household close contacts and high-risk contacts (infants, immunocompromised, pregnancy).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 14,
+      "question": "A young child with unknown immunization history is suspected to have whooping cough.Which of the following methods will you prefer to use to collect a specimen for culture?",
+      "options": {
+        "A": "Cough plate method",
+        "B": "Per-oral swab",
+        "C": "Per-nasal swab",
+        "D": "Post-nasal swab"
+      },
+      "correct_answer": "C",
+      "explanation": "Whooping cough is caused by Bordotella pertussis. The most effective method for collecting aspecimen for the culture of this organism is the per-nasal or nasopharyngeal swab method.Respiratory specimens may be collected for the culture (gold standard) of Bordetella pertussis bythree different methods:•Per-nasal swab: A Dacron or rayon tipped swab on a flexible nichrome wire is passed along thefloor of the nasal cavity and material is collected from the pharyngeal wall. This specimen isthe most effective and best suited for diagnostic procedures.Cough plate method: A culture plate is held about 10 to 15 cms in front of the patient's mouthduring a bout of cough.• Post-nasal (peroral) method: Secretions from the posterior pharyngeal wall are collected with acotton swab on a bent wire passed through the mouth.Other diagnostic tests for pertussis include direct fluorescent aantibody test and PCR onnasopharyngeal specimens. Enzyme immunoassays of antibodies after exposure to B. pertussiscan also be used for patients between 2-4 weeks of illness.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    },
+    {
+      "q_no": 15,
+      "question": "A pregnant woman comes to the ANC clinic for her 2nd dose of the Tdap vaccine. Which of the following constitutes the acellular component of this vaccine?",
+      "options": {
+        "A": "Pertactin, filamentous hemagglutinin, and cytotoxin",
+        "B": "Endotoxin, fimbriae, and pili",
+        "C": "Pertussis toxoid, cytotoxin, and pili",
+        "D": "Pertussis toxoid, filamentous hemagglutinin, and fimbrial protein"
+      },
+      "correct_answer": "D",
+      "explanation": "Tdap vaccine is the tetanus, diphtheria, and acellular pertussis vaccine. The component of the acellular pertussis vaccine is inactivated pertussis toxin (PT) and it may contain one or more bacterial components such as pertactin, filamentous hemagglutinin, and fimbrial protein. Pertussis vaccine is usually administered in combination with the toxoids of diphtheria and tetanus (DTaP). Five doses of pertussis vaccine are recommended - at 2, 4, 6, and 15–18 months of age followed by a booster dose at 4-6 years of age. Tdap is now also recommended for pregnant women between 27 weeks and 36 weeks of gestation by the ACOG. This is because infants between the age of 0-2 months are vulnerable to pertussis as they do not begin their vaccine schedule before 6 weeks of age. Thus, to protect these infants, placental transfer of maternal pertussis antibodies has proven to be the most effective approach. Children under 4 years who are contacts of patients should receive a booster even if they had been previously immunized. Non-immunized contacts should receive a full series of vaccination and also chemoprophylaxis with erythromycin for 10 days after contact with the patient has ceased.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Pseudomonas and Burkholderiales"
+    }
+  ]
+}

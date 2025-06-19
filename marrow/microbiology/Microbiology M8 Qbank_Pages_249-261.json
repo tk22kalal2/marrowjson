@@ -1,0 +1,185 @@
+{
+  "chapter": "Haemophilus",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A woman presents with fever with chills and a productive cough. Chest X-ray is suggestive of lobar pneumonia. She had undergone splenectomy 2 years back. Sputum culture on blood agar shows the following. What is the causative agent?",
+      "options": {
+        "A": "Haemophilus influenzae",
+        "B": "Klebsiella granulomatis",
+        "C": "Streptococcus pneumoniae",
+        "D": "Neisseria meningitidis"
+      },
+      "correct_answer": "C",
+      "explanation": "The patient's history of splenectomy increases her risk for encapsulated bacterial infections, such as those caused by Streptococcus pneumoniae, which is a common cause of lobar pneumonia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q1_img1_b93718b6.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp1_img1_6aa7b8ac.jpeg",
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient presented with fever, seizures, and altered sensorium. Gram stain of the CSF is given below. Satellitism was seen on blood agar. Which of the following statements is false about this disease?",
+      "options": {
+        "A": "This is the most serious disease produced by this organism.",
+        "B": "The disease is more common in young adults.",
+        "C": "The bacilli reach the meninges from the nasopharynx through the bloodstream.",
+        "D": "Cefotaxime is the drug of choice"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario and the image showing gram-negative coccobacilli in the CSF are suggestive of Hemophilus meningitis caused by H. influenzae. Hemophilus meningitis is more common in children between 3 months and 3 years of age and not common in young adults. Option A: Meningitis is the most serious disease caused by H. influenzae. The case fatality rate is 90% if untreated. Option C: H. influenzae is transmitted via respiratory droplets. Thus, it is introduced into the nasopharynx of the contacts of an infected individual. It has to enter the bloodstream to reach the meninges. Option D: Cefotaxime or ceftazidime are the drugs of choice for the treatment of Hemophilus meningitis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q2_img1_eda5d442.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not caused by non-typable H. influenzae?",
+      "options": {
+        "A": "Meningitis",
+        "B": "Otitis media",
+        "C": "Sinusitis",
+        "D": "Puerperal sepsis"
+      },
+      "correct_answer": "A",
+      "explanation": "Meningitis is caused by typable H. influenzae. Non-typable H. influenzae cause: Otitis media, Sinusitis, Puerperal sepsis, and exacerbations of COPD. H. influenzae is typed into 6 serotypes (a to f) based on the capsular polysaccharide. Serotype b (Hib) is the most virulent and accounts for most of the invasive infections. The differences between type b strains and non-typable strains of H. influenzae are given in the table below: Feature - Capsule - Pathogenesis, Type B strains - Made of Ribosyl-ribitol phosphate - Invasive infections due to hematogenous spread, Clinical manifestations - Meningitis and invasive infections in incompletely immunized infants and children, Epiglottitis, Cellulitis, Pneumonia, Nontypable strains - Unencapsulated - Mucosal infections due to contagious spread, Otitis media in children, Exacerbation of COPD, Puerperal sepsis, Sinusitis, Vaccine - Highly effective conjugate vaccines - Not available",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 4,
+      "question": "All of the following Hemophilus species require both Factors X and V except",
+      "options": {
+        "A": "H. hemolyticus",
+        "B": "H. influenzae",
+        "C": "H. parahemolyticus",
+        "D": "H. aegypticus"
+      },
+      "correct_answer": "C",
+      "explanation": "Hemophilus parahemolyticus requires only factor V for its growth. It does not require factor X. Hemophilus species requiring both factors X and V: (Mnemonic to remember: HAI) • H. hemolyticus, • H. aegypticus, • H. influenzae. Factor V - It refers to the co-enzyme, NAD. It is heat-labile (destroyed at 120°C in a few minutes) and present inside RBC. Factor X - It refers to Hemin. It is heat stable and is present in the blood. X factor requirement V factor requirement Species H. influenzae + + H. aegypticus + + H. ducreyi + - H. parainfluenza + + H. haemolyticus + + H. parahaemolyticus - +",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 5,
+      "question": "A 7-year-old girl presents to the emergency department with acute stridor. The mother gives a history of fever, drooling, and breathing difficulty since that morning. An X-ray of her neck appears as given below. What is the most likely causative agent?",
+      "options": {
+        "A": "Hemophilus parainfluenzae",
+        "B": "Streptococcus pneumoniae",
+        "C": "Hemophilus influenzae",
+        "D": "Parainfluenza virus"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical vignette and 'thumb sign' on the X-ray are suggestive of acute epiglottitis caused by Hemophilus influenzae. It is an acute inflammation of the epiglottis causing obstructive laryngitis and presents with high fever, severe sore throat, tachycardia, systemic toxicity, and drooling as patients are unable to swallow. The patient characteristically leans forward while sitting for ease of breathing. The diagnosis often is made on clinical grounds. On direct fiberoptic laryngoscopy, the typical edematous cherry-red epiglottis is visualized. Neck radiographs reveal an enlarged edematous epiglottis (Thumb sign). The below image shows the Thumb sign. In some countries, widespread vaccination against Hib has drastically decreased acute epiglottitis cases in children by over 90%. However, the incidence in adults has remained largely unchanged since the Hib vaccine was introduced. Despite vaccination efforts, many pediatric cases of epiglottitis today are still caused by Hib due to either lack of vaccination or vaccine ineffectiveness. In adults and increasingly in children, other bacterial pathogens, particularly group A Streptococcus, have been linked to cases of epiglottitis. Treatment includes airway management followed by administration of antibiotics like ampicillin/sulbactam, cefotaxime, or ceftriaxone.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q5_img1_a1d6f5f9.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_6e0bb10c.jpeg",
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 6,
+      "question": "Pneumonia due to a gram-negative pleomorphic bacillus growing on chocolate agar which iscatalase and oxidase-positive is:",
+      "options": {
+        "A": "E.coli",
+        "B": "Pseudomonas",
+        "C": "Haemophilus influenzae",
+        "D": "Actinomyces"
+      },
+      "correct_answer": "",
+      "explanation": "Pneumonia due to a gram-negative pleomorphic bacillus growing on chocolate agar which iscatalase and oxidase-positive is most likely Haemophilus influenza.Haemophilus pneumonia typically occurs in infants and is accompanied by empyema andsometimes meningitis as well. In older children and adults, the picture is of lobarpneumonia. Sputum is collected for the detection and isolation of Hemophilus. As the bacillus isvery sensitive to low temperatures, specimens should never be refrigerated before inoculation.H.infiuenzae is a Gram-negative, non-motile, non-sporing bacillus, exhibiting considerable257pleomorphism. In sputum, it usually occurs as clusters of coccobacillary forms.The bacillus has fastidious growth requirements. The accessory growth factors, named X and V,present in the blood are essential for growth. Catalase andoxidase reactions are positive. Nitrates are reduced to nitrites. Biotyping has been done on thebasis of indole production.Cultures may be preserved for about a month on chocolate agar slopes. Chocolate agar is made byheating blood agar to 80-90°C for 15-20 minutes. This causes the release of V factor from withinthe erythrocytes.Treatment- Amoxycillin-clavulanate or clarithromycin is more effective in treating respiratoryinfections by Haemophilus influenzae.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 7,
+      "question": "A middle-aged man who is a known case of diabetes and chronic bronchitis presents to theOPD with low-grade fever and productive cough for 5 days. Which of the following is not a251virulence factor of the likely causative organism?",
+      "options": {
+        "A": "Outer membrane protein (OMP)",
+        "B": "Lipooligosaccharide (LOS)",
+        "C": "Capsular polysaccharide",
+        "D": "Pili"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario describes an acute exacerbation of COPD characterized by low-gradefever, increased cough, sputum production, and shortness of breath. The most common cause ofthese are non-typable H. influenzae which lack a capsule and so capsular antigen cannot be avirulence factor.All H. influenzae have the following virulence factors:•• Outer membrane proteins (OMP)• Lipooligosaccharide (LOS)• PiliIn addition to the above factors, H. influenzae type b also has its capsular polysaccharide as avirulence factor.The differences between Hib and non-typable strains are given below:FeatureCapsulePathogenesisClinical manifestationsVaccineType b strainsMade of Ribosyl-ribitol phosphateInvasive infections due to hematogenous spreadMeningitis and invasive infections incompletely immunized infants and childrenEpiglottitis Cellulitis PneumoniaHighly effective conjugate vaccinesNontypable strainsUnencapsulatedMucosal infections due to contagious spreadOtitis media in childrenExacerbation of COPD, Puerperal sepsisSinusitisNot available",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following bacteria does not belong to the HACEK group?",
+      "options": {
+        "A": "Haemophilus parainfluenza",
+        "B": "Aggregatibacter actinomycetemcomitans",
+        "C": "Escherichia coli",
+        "D": "Kingella kingae"
+      },
+      "correct_answer": "C",
+      "explanation": "258Escherichia coli does not belong to the HACEK group.The acronym HACEK refers to a group of fastidious slow-growing bacteria, normally residing inthe mouth. These can sometimes cause severe infections, particularly culture-negative subacutebacterial endocarditis.The group includes:⚫ Haemophilus species (H. parainfluenzae, H. aphrophilus, H. paraphrophilus)••Aggregatibacter actinomycetemcomitans (previously called as Actinobacillus)• Cardiobacterium hominis• Eikenella corrodens•• Kingella kingae",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q8_img1_f3fd4227.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 9,
+      "question": "A 26-year-old man presented with painful, bleeding genital ulcers. On examination, tender inguinal lymphadenopathy is present. Scraping from the ulcer base was taken and the microscopic appearance of the Gram-stained smear is shown below. What is the causative organism?",
+      "options": {
+        "A": "Haemophilus ducreyi",
+        "B": "Treponema pallidum",
+        "C": "Chlamydia trachomatis serovar L1",
+        "D": "Chlamydia trachomatis serovar L2"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows the 'school of fish' or 'railroad track' appearance of Haemophilus ducreyi. This appearance is seen when the bacilli are arranged in small groups, whorls, or in chains. The given case scenario is suggestive of chancroid. Chancroid is characterized by non-indurated, tender, irregular ulcers that may bleed on touch. The neighboring lymph nodes are enlarged, painful, and tender. Other options: Option B - Treponema pallidum causes syphilis, characterized by a chancre - a single painless ulcer with a clean base and a firm raised border, with painless lymphadenopathy. Persistent or multiple chancres may be seen in HIV-infected or other immunodeficient patients. Options C and D - Chlamydia trachomatis serovars L1, L2, and L3 cause lymphogranuloma venereum, characterized by shallow, painless ulcers that progress to painful lymphadenopathy.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q9_img1_bcff2b17.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 10,
+      "question": "The following are true about chancroid:",
+      "options": {
+        "A": "C &amp; D only",
+        "B": "A, B,C &amp; D",
+        "C": "A B &amp; C",
+        "D": "A &amp; B only"
+      },
+      "correct_answer": "C",
+      "explanation": "Chancroid is a painful genital ulcer caused by Haemophilus ducreyi, which is a gram-negativecoccobacillus. Microscopic appearance of H. ducreyi is called the school of fish appearance orrailroad appearance. Chancroid ulcers have a soft base that bleeds easily to touch. They also causepainful lymphadenopathy.The image below shows the 'school-of-fish' appearance characteristic of H. ducreyi.2592Note: Groove sign is a characteristic sign seen in lymphogranuloma venereum. It refers to thedepression created by the inguinal ligament as it passes between the groups of inflamed inguinallymph nodes.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp10_img1_cd193744.jpeg",
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is not involved in urethritis?",
+      "options": {
+        "A": "Trichomonas",
+        "B": "Chlamydia",
+        "C": "Gonococcus",
+        "D": "H. ducreyi"
+      },
+      "correct_answer": "D",
+      "explanation": "Haemophilus ducreyi does not cause urethritis. It causes chancroid (soft chancre), which presents as a genital ulcer. Urethritis is classified into two types: \n   • Gonococcal urethritis caused by Neisseria gonorrhoeae. \n   • Non-gonococcal urethritis caused by: \n   • Chlamydia trachomatis (most common) \n   • Ureaplasma urealyticum \n   • Adenovirus \n   • Mycoplasma genitalium \n   • Trichomonas vaginalis (rare) \n   • Herpes simplex virus (rare)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Haemophilus"
+    },
+    {
+      "q_no": 12,
+      "question": "A 5-year-old girl presents with conjunctivitis, fever, and hemorrhagic skin lesions. There's ahistory of travel to Brazil. Which of the following etiological agents would you suspect in thiscase?",
+      "options": {
+        "A": "Haemophilus influenzae type A",
+        "B": "Haemophilus parahaemolyticus",
+        "C": "Haemophilus aegypticus",
+        "D": "Haemophilus parainfluenzae"
+      },
+      "correct_answer": "C",
+      "explanation": "The given case scenario is suggestive of Brazilian purpuric fever (BPF) caused by Haemophilusaegypticus (Koch-Weeks bacillus).260Recent DNA studies have shown that the bacillus is identical to non-capsulated H.influenzaeand it is now named H.influenzae biotype aegypticus.It is worldwide in distribution and causes:• A highly contagious form of conjunctivitis ('pink eye') which is especially common in the tropicsand subtropics and may lead to epidemics. It responds to local sulphonamide or gentamicinadministration.• Brazilian purpuric fever characterized by fever, purpura, and conjunctivitis which proceeds tofulminant septicemia in infants and children. It has a high fatality rate.261",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Haemophilus"
+    }
+  ]
+}

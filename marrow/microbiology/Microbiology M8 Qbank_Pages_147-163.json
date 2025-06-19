@@ -1,0 +1,320 @@
+{
+  "chapter": "Clostridium and Bacillus",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following organisms is capsulated?",
+      "options": {
+        "A": "Clostridium tetani",
+        "B": "Clostridium difficile",
+        "C": "Clostridium perfringens",
+        "D": "Clostridium botulinum"
+      },
+      "correct_answer": "B",
+      "explanation": "Clostridium difficile is capsulated.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 2,
+      "question": "A young man presented with complaints of severe abdominal pain and watery diarrhea eight hours after consuming meat at a restaurant. A stool sample was sent for culture and the isolated organism showed this appearance on litmus milk fermentation. Which of the following is the most likely causative organism?",
+      "options": {
+        "A": "Bacillus anthracis",
+        "B": "Clostridium tetani",
+        "C": "Clostridium perfringens",
+        "D": "Clostridium botulinum"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical history and the image showing stormy fermentation of lactose in litmus milk is suggestive of gastroenteritis caused by Clostridium perfringens type A. The fermentation of lactose by this organism leads to the formation of acid which coagulates the casein in litmus milk. The clotted milk is disrupted due to vigorous gas production and this characteristic finding is obtained that is called stormy fermentation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q2_img1_470aa75b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following reactions are positive for Clostridium perfringens?",
+      "options": {
+        "A": "M'fadyean reaction, CAMP test",
+        "B": "M'fadyean reaction, Reverse CAMP test",
+        "C": "Target hemolysis, Reverse CAMP test",
+        "D": "Stormy fermentation, Elek's test"
+      },
+      "correct_answer": "C",
+      "explanation": "Target hemolysis and reverse CAMP test are positive for Clostridium perfringens. A narrow zone of complete hemolysis due to α-toxin and a wider zone of incomplete hemolysis due to θ-toxin results in the development of target hemolysis on blood agar by C. perfringens. In the reverse CAMP test, C. perfringens is streaked over the center of the plate and Streptococcus agalactiae is streaked at right angles to it. A positive reverse CAMP test shows the presence of an arrow-shaped zone of enhanced hemolysis pointing towards C. perfringens. α-toxin produced by C. perfringens interacts with the CAMP factor and produces synergistic hemolysis. M'fadyean reaction is positive for Bacillus anthracis. The CAMP test is positive for Streptococcus agalactiae, where it is inoculated on a plate streaked with Staphylococcus aureus. Elek's test is positive for Corynebacterium diphtheriae.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 4,
+      "question": "A middle-aged diabetic man presented to the ER with severe abdominal pain, diarrhea, and vomiting following consumption of pork and sweet potato curry. Following admission, the patient developed intra-abdominal sepsis and was taken into emergency surgery. Histopathology of the resected intestine showed mucosal necrosis. Which of the following toxins is likely implicated in his condition?",
+      "options": {
+        "A": "α-toxin",
+        "B": "β-toxin",
+        "C": "α-toxin",
+        "D": "ε-toxin"
+      },
+      "correct_answer": "B",
+      "explanation": "The condition described here is necrotizing enteritis (pigbel) that is caused by β-toxin of Clostridium perfringens type C. This is a severe and often fatal enteritis caused by C. perfringens type C strains with heat-resistant spores that germinate in the intestine producing beta toxin, causing mucosal necrosis. The evocative name 'pigbel' is New Guinea pidgin for abdominal pain and diarrhea following unaccustomed feasting on pig meat along with trypsin inhibitors like sweet potatoes. Immunization with the type C toxoid has been shown to protect against this condition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the toxins produced by Clostridium species is the basis of Nagler's reaction?",
+      "options": {
+        "A": "α-toxin",
+        "B": "β-toxin",
+        "C": "ε-toxin",
+        "D": "e-toxin"
+      },
+      "correct_answer": "A",
+      "explanation": "α-toxin produced by Clostridium perfringens forms the basis of Nagler's reaction. The toxin of C. perfringens has lecithinase activity. When C. perfringens is grown on a medium containing egg yolk with the α-antitoxin spread on one half of the plate, colonies on the other half without the antitoxin will be surrounded by a zone of opacity. There will be no opacity around the colonies on the half of the plate with the antitoxin due to the specific neutralization of α-toxin. This is known as Nagler's reaction.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp5_img1_27e99a4f.jpeg",
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient presents with a laceration over his leg following trauma with an unclean sharp metal rod 3 days ago. He also complains of difficulty in opening his mouth and abdominal cramps. Microscopy of the wound discharge revealed rod-shaped bacilli with terminal spherical spores. Which of the following is the organism most likely implicated here?",
+      "options": {
+        "A": "Clostridium perfringens",
+        "B": "Clostridium botulinum",
+        "C": "Clostridium tertium",
+        "D": "Clostridium tetani"
+      },
+      "correct_answer": "D",
+      "explanation": "The above clinical vignette is strongly suggestive of tetanus caused by Clostridium tetani. It is a gram-positive, slender bacillus that has a spherical and terminal spore, giving it a characteristic drumstick appearance. The genus Clostridium consists of gram-positive, anaerobic, spore-forming bacilli. Classification of Clostridium based on shape and position of spores: \n      • Central or equatorial: Clostridium bifermentans\n      • Subterminal: Clostridium perfringens, Clostridium novyi, and Clostridium botulinum\n      • Oval and terminal (tennis racket shaped): Clostridium tertium and Clostridium difficile\n      • Spherical and terminal (drumstick appearance): Clostridium tetani",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp6_img1_223e5c83.jpeg",
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is the first sign of generalized tetanus?",
+      "options": {
+        "A": "Fever",
+        "B": "Increased respiratory and GI secretions",
+        "C": "Trismus",
+        "D": "Autonomic disturbance"
+      },
+      "correct_answer": "C",
+      "explanation": "The first sign of generalized tetanus is increased tone of the masseter muscle, which results in trismus or lock-jaw. Tetanus: • Route of entry of organism - injury, unhygienic surgery, abortion/delivery, otitis media • The incubation period is 6-10 days. ⚫ First clinical sign - increased masseter tone (trismus/lock-jaw) followed by descending tetanus • Deep tendon reflex is exaggerated. • In neonates, difficulty in feeding is the usual presentation. • Diagnosis is always clinical, microscopy is unreliable. • Treatment includes cleaning the entry wound first in order to remove anaerobic foci of infection and prevent further toxin production. Metronidazole is preferred for antibiotic therapy. Antitoxin should be given early in an attempt to deactivate any circulating tetanus toxin. Spasms are controlled by heavy sedation with benzodiazepines. Symptomatic treatment is given for respiratory and cardiovascular derangements.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 8,
+      "question": "Strychnine toxin acts by blocking the action of glycine at the post-synaptic receptors in the motor neurons of the anterior horn of the spinal cord. Which of the following has a similar mechanism of action but acts presynaptically?",
+      "options": {
+        "A": "α-toxin of C. perfringens",
+        "B": "Botulinum toxin",
+        "C": "Tetanus toxin",
+        "D": "Toxin A of C. difficile"
+      },
+      "correct_answer": "C",
+      "explanation": "Tetanus toxin has a similar mechanism of action to strychnine but acts presynaptically. Strychnine prevents the uptake of glycine at inhibitory synapses post-synaptically, while tetanospasmin blocks the release of inhibitory neurotransmitters like glycine and gamma-aminobutyric acid (GABA) presynaptically. This leads to an increased release of acetylcholine, thereby leading to the development of spastic paralysis.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp8_img1_518e6aef.jpeg",
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 9,
+      "question": "An 18-year-old girl presents with a contaminated wound sustained 4 hours ago. She had received complete immunization against tetanus 7 years ago. Which of the following injections should be given to her?",
+      "options": {
+        "A": "Full course tetanus toxoid",
+        "B": "Single dose tetanus toxoid",
+        "C": "Human tetanus immunoglobulin",
+        "D": "Human tetanus immunoglobulin and single dose of toxoid"
+      },
+      "correct_answer": "B",
+      "explanation": "As she has received complete immunization against tetanus 7 years back, she should be given a single dose of tetanus toxoid for her contaminated wound.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 10,
+      "question": "A 149-year-old diabetic man presented to the ER with a contaminated wound with necrotic material. As a first-year surgical resident, which of the following would be your first step in treating the condition?",
+      "options": {
+        "A": "Anti-gas gangrene serum",
+        "B": "Debridement",
+        "C": "Antibiotics",
+        "D": "Tetanus toxoid"
+      },
+      "correct_answer": "B",
+      "explanation": "Initial treatment for contaminated wounds with necrotic material is debridement. A contaminated wound with necrotic material is suggestive of a higher risk of clostridial infection that may lead to gas gangrene. Emergent surgical exploration and thorough debridement are extremely important in the management of gas gangrene. Antibiotics (penicillin G plus clindamycin) and anti-gas gangrene serum have to be initiated after debridement. Hyperbaric oxygen therapy may also be considered.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 11,
+      "question": "An 18-year-old man presented with sudden onset descending paralysis and blurred vision 3 days after the intake of canned food. On examination, the patient has quadriparesis with areflexia. Both the pupils are nonreactive. What is the most probable diagnosis?",
+      "options": {
+        "A": "Poliomyelitis",
+        "B": "Botulism",
+        "C": "Guillain-Barre Syndrome",
+        "D": "Tetanus"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical vignette of acute onset descending flaccid paralysis with a history of consumption of canned food is suggestive of botulism. The incubation period from ingestion of contaminated food to the onset of symptoms in food-borne botulism is usually 8-36 hours but can be as long as 10 days and is dose-dependent. The clinical syndrome of botulism consists of bilateral cranial-nerve palsies that may progress to respiratory compromise, a bilateral descending flaccid paralysis of voluntary muscles, and even death. Cranial nerve deficits may manifest as some of the following: diplopia, dysarthria, dysphonia, ptosis, ophthalmoplegia, facial paralysis, and impaired gag reflex. The absence of cranial nerve palsies makes botulism highly unlikely, as does a lack of cranial nerve deficits at the onset of illness. Pupillary reflexes may be depressed, and fixed or dilated pupils are sometimes noted. The cornerstones of treatment for botulism are meticulous intensive care and administration of botulinum antitoxin. Option A: In poliomyelitis, weakness is generally asymmetric, more proximal than distal, and may involve the legs (most commonly), the arms, or the abdominal, thoracic, or bulbar muscles. Option C: Guillain-Barre syndrome is usually associated with ascending flaccid paralysis. Option D: Tetanus causes spastic paralysis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following organisms is predominantly proteolytic in Robertson cooked meat medium?",
+      "options": {
+        "A": "Clostridium perfringens",
+        "B": "Clostridium botulinum A",
+        "C": "Clostridium difficile",
+        "D": "Clostridium septicum"
+      },
+      "correct_answer": "B",
+      "explanation": "Clostridium botulinum A is predominantly proteolytic in Robertson cooked meat medium. In Robertson cooked meat media, the saccharolytic species like C. perfringens, C. difficile, and C. septicum turn the meat pink, while the proteolytic species such as C. botulinum A turn the meat black. Examples of predominantly proteolytic clostridia: • C. bifermentans • C. botulinum A, B, F • C. histolyticum. C. tetani is slightly proteolytic but not saccharolytic. Examples of predominantly saccharolytic clostridia: • C. perfringens • C. septicum • C. novyi • C. difficile. C. botulinum C, D, and E are saccharolytic but not proteolytic.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following organisms form the citron bodies?",
+      "options": {
+        "A": "Clostridium septicum",
+        "B": "Clostridium histolyticum",
+        "C": "Clostridium tetani",
+        "D": "Clostridium perfringens"
+      },
+      "correct_answer": "A",
+      "explanation": "Citron bodies are boat or leaf-shaped pleomorphic bacteria, usually associated with Clostridium septicum. It is a gram-positive, spore-forming, obligate anaerobic bacterium. Gram stain morphology of Clostridium septicum from CSF (a) and blood culture (b) in 1000× magnification with spore formation (arrow) is shown below.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp13_img1_d345681b.jpeg",
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 14,
+      "question": "An elderly diabetic lady was brought to the hospital with complaints of diarrhoea and abdominal pain. She had recently been treated with intravenous clindamycin for cellulitis. She was febrile at the time of examination and the blood reports revealed a Hb level of 12g/dl; WBC count of 18000/mm3; and C-reactive protein 160mg/l. What is the most sensitive test to detect the causative organism?",
+      "options": {
+        "A": "Glutamate dehydrogenase immunoassay",
+        "B": "PCR to detect toxin gene",
+        "C": "Toxigenic culture",
+        "D": "ELISA to detect toxin antigen"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical vignette of a patient having diarrhea following antibiotic administration is suggestive of pseudomembranous colitis due to Clostridium difficile. Toxigenic culture is the most sensitive method for the detection of Clostridium difficile infection. The methods for diagnosis of Clostridium difficile infection are: Toxigenic culture - Anaerobic incubation of the sample in cycloserine-cefoxitin-fructose agar (CCFA) or its variant for several days. This is followed by identification of the organism in the growth and tests to confirm toxin production. This method has a sensitivity of 100%. Cell cytotoxicity neutralization assay (CCNA) - A stool filtrate is prepared and applied onto a monolayer of an appropriate cell line. The cells are observed for toxin-induced cytopathic effect (CPE). This is followed by a neutralization assay to confirm that the CPE is attributable to C. difficile toxins. Sensitivity is around 75-85% when compared to toxigenic culture (reference standard). Nucleic acid amplification tests (e.g., PCR) - More sensitive (93.3%) for C. difficile detection than toxin immunoassays but less sensitive than toxigenic culture. Toxin immunoassays - Enzyme immunoassays using monoclonal or polyclonal antibodies against C. difficile toxins. Sensitivity is lower than other tests. Glutamate dehydrogenase immunoassays - Detects glutamate dehydrogenase, a metabolic enzyme produced by all isolates of C. difficile (toxigenic and nontoxigenic). The test is highly sensitive but has low specificity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 15,
+      "question": "A veterinarian developed an ulcer with a central black eschar over the forearm as shown in the image. Which of the following is the most probable causative organism?",
+      "options": {
+        "A": "Pseudomonas aeruginosa",
+        "B": "Yersinia pestis",
+        "C": "Bacillus anthracis",
+        "D": "Francisella tularensis"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of cutaneous anthrax, which is caused by Bacillus anthracis. Human anthrax presents in one of three ways: Cutaneous Anthrax (hide porter's disease) - a black eschar at the base, with a very prominent inflammatory ring around the eschar, is referred to as a malignant pustule. Pulmonary Anthrax (Wool sorter's disease) - hemorrhagic pneumonia. Intestinal Anthrax - hemorrhagic diarrhea. It occurs mainly in primitive communities that eat the carcasses of animals dying of anthrax. Robert Koch validated the germ theory of disease after discovering the anthrax bacillus as the cause of anthrax. He also discovered the causative agents of tuberculosis and cholera. Hence, he is known as the Father of Bacteriology. Koch's postulates, which link specific microorganisms to specific diseases, state that the microorganism must be: found in abundance in diseased organisms, but not in healthy organisms; isolated from a diseased organism and grown in pure culture; able to cause disease when inoculated into a healthy organism; and re-isolated from the diseased experimental host and identical to the original specific causative agent.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q15_img1_ae2de70c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following bacilli characteristically shows the M'Fadyean's reaction?",
+      "options": {
+        "A": "Bacillus cereus",
+        "B": "Clostridium",
+        "C": "Bacillus anthracis",
+        "D": "Corynebacterium diphtheriae"
+      },
+      "correct_answer": "C",
+      "explanation": "M'Fadyean's reaction is shown by Bacillus anthracis. When a blood film containing anthrax bacilli is stained with polychrome methylene blue for a few seconds and examined under the microscope, an amorphous purplish material is noticed around the bacilli. This represents the capsular material and is called M'Fadyean's reaction.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/exp16_img1_9fded94d.jpeg",
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 17,
+      "question": "A dairy farmer presented to the dermatology OPD with an ulcer with a central black eschar over the forearm. Which of the following media can be used as a selective medium for the growth of the likely etiological agent?",
+      "options": {
+        "A": "PLET medium",
+        "B": "Buffered charcoal yeast extract medium",
+        "C": "Cetrimide Agar",
+        "D": "MYPA agar"
+      },
+      "correct_answer": "A",
+      "explanation": "Based on his profession and clinical description of the lesion, the diagnosis is most likely to be cutaneous anthrax (the most common form of anthrax) caused by Bacillus anthracis. The selective medium for this organism is PLET (polymyxin-lysozyme-EDTA-thallous acetate) medium. Other options: Option B: Buffered charcoal yeast extract medium is used for Legionella. Option C: Cetrimide agar is a selective medium for Pseudomonas aeruginosa. Option D: Mannitol, Egg Yolk, Phenol red, Polymyxin Agar (MYPA) medium is a selective medium for Bacillus cereus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 18,
+      "question": "A swab was taken from an ulcer and sent to the laboratory for culture. The following image depicts a blood agar culture plate on which gamma phage suspension has been applied. Which of the following is the most likely organism implicated?",
+      "options": {
+        "A": "Erysipelothrix rhusiopathiae",
+        "B": "Clostridium butyricum",
+        "C": "Bacillus anthracis",
+        "D": "Bacillus cereus"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image with a circular spot of diminished growth in the culture plate from a swab from an ulcer depicts the gamma phage lysis assay. The most likely organism implicated is Bacillus anthracis. This test is performed by inoculating Bacillus anthracis in sheep blood agar followed by the application of gamma phage suspension over one area of the culture plate. The gamma phage suspension inhibits the growth of Bacillus anthracis colonies resulting in an area of diminished growth called a plaque.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mmicrobiology/q18_img1_a11d0af6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following tests is used for the diagnosis of anthrax?",
+      "options": {
+        "A": "Paul-Bunnell test",
+        "B": "Kahn test",
+        "C": "Ascoli's thermoprecipitation test",
+        "D": "Rose-Waaler test"
+      },
+      "correct_answer": "C",
+      "explanation": "Ascoli's thermoprecipitation test is used for the diagnosis of anthrax caused by Bacillus anthracis. It is an example of a ring precipitation test. Option A: Paul-Bunnell test is used to diagnose infectious mononucleosis. Option B: Kahn test is used to diagnose syphilis. Option D: Rose-Waaler test is used to diagnose rheumatoid arthritis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 20,
+      "question": "A young patient presented to the medicine OPD with complaints of nausea and vomiting. He gave a history of having fried rice from a local Chinese restaurant a few hours ago. What is the most likely causative organism?",
+      "options": {
+        "A": "Clostridium perfringens",
+        "B": "Bacillus cereus",
+        "C": "Staphylococcus aureus",
+        "D": "Bacillus anthracis"
+      },
+      "correct_answer": "B",
+      "explanation": "Based on the symptoms and a history of consuming fried rice 6 hours ago, we can diagnose this to be a case of food poisoning due to Bacillus cereus. Food poisoning caused by B. cereus is of two types: Bacillus cereus Diarrheal type and Emetic type. Incubation period: 8-16 hours and 1-5 hours, respectively. Toxin: Secreted in intestine and Preformed. Heat: Heat labile and Heat stable. Food items: Meat and Rice. Clinical features: Diarrhea, abdominal cramps and Vomiting, abdominal cramps.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following can grow in an acidic pH?",
+      "options": {
+        "A": "Vibrio",
+        "B": "Lactobacilli",
+        "C": "Salmonella",
+        "D": "Shigella"
+      },
+      "correct_answer": "B",
+      "explanation": "Among the given options, Lactobacilli is the one that can grow in an acidic pH. It is a gram-positive, facultatively anaerobic, non-motile, non-spore-forming bacterium. Lactobacillus derives lactic acid from glucose, creating an acidic environment, and can grow in an acidic medium. It is found in the vagina as part of its normal microbiota.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Clostridium and Bacillus"
+    }
+  ]
+}
