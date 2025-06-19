@@ -1,0 +1,290 @@
+{
+  "chapter": "Light, Sound and Radiation",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is incorrect about the requirements of good lighting?",
+      "options": {
+        "A": "Colour of light should approximate daylight",
+        "B": "Sharp shadows should be absent",
+        "C": "Ceilings and roofs must have a 50% reflection factor",
+        "D": "Glare should be absent"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the SI unit for luminous intensity?",
+      "options": {
+        "A": "Candela",
+        "B": "Lumen",
+        "C": "Lux",
+        "D": "Lambert"
+      },
+      "correct_answer": "A",
+      "explanation": "The SI unit for luminous intensity is candela.The various units used for measuring light are given below.Quantity MeasuredDescriptionSI UnitOther Units UsedLuminous intensityBrightness of point sourceCandCandle powerelaLuminous fluxFlow of lightLumenIllumination (Illuminance) Amount of light reaching a sLuxFoot candle, Phot or Lumen/urfacecm2LuminanceAmount of light reflected from a surfaceLamFoot lambert, Candles/cm2bert",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 3,
+      "question": "Correctly match the following variables with their SI unit.",
+      "options": {
+        "A": "1-A, 2-B, 3-C, 4-D",
+        "B": "1-B, 2-A, 3-D, 4-C",
+        "C": "1-D, 2-C, 3-A, 4-B",
+        "D": "1-B, 2-C, 3-D, 4-A"
+      },
+      "correct_answer": "B",
+      "explanation": "The correctly matched pairs are as follows:The various units used for measuring light are given below.VariableSI UnitLuminous intensiCandtyelaLuminous fluxLumenIlluminationLuxLuminenceLambert601Quantity MeasuredDescriptionSI U Other Units UsednitLuminous intensityPower of light sourceCandCandle powerelaLuminous fluxFlow of lightLumenIllumination(Illuminance) Amount of light reaching a surfaceLuxFoot candle, Phot or Lumen/cm2Luminance(Brightness)Amount of light reflected from a surfaceLamFoot lambert, Candles/cm2bert",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 4,
+      "question": "What is the basic minimum illumination for satisfactory vision?",
+      "options": {
+        "A": "10-12 foot candles",
+        "B": "15-20 foot candles",
+        "C": "20-30 foot candles595",
+        "D": "30-40 foot candles"
+      },
+      "correct_answer": "",
+      "explanation": "The basic minimum illumination for satisfactory vision is accepted to be 15 - 20 foot candles. Theillumination requirements vary from as little as 5 foot candles in stairways and corridors to 100foot candles in some industries.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is correct about daylight factor?=",
+      "options": {
+        "A": "D.F. Instantaneous illumination outdoors x 100/ Simultaneously occurring illuminationindoors",
+        "B": "D.F. Instantaneous illumination indoors x 100/ Simultaneously occurring illuminationoutdoors",
+        "C": "D.F. = Delayed illumination indoors x 100/ Simultaneously occurring illumination outdoors",
+        "D": "D.F. Delayed illumination outdoors x 100/ Simultaneously occurring illumination indoors="
+      },
+      "correct_answer": "",
+      "explanation": "Daylight factor (DF)Instantaneous illumination indoorsDaylight factor =X 100Simultaneously occurring illumination outdoorsOMARROWDaylight factor (D.F.) is the ratio of the illumination at a given point to illumination at a pointexposed simultaneously to the whole hemisphere of the sky (taken as 500-foot candles) excludingdirect sunlight.The D.F. is used for the measurement of daylight. It is determined by a modified photo-electricmeter called daylight factor meter.In living rooms, the daylight factor should be at least 8% and in kitchens, it should be 10%.602",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp5_img1_4bbd4de9.jpeg",
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 6,
+      "question": "You have been requested to inspect the working conditions of an office for clerks. What is thestandard illumination recommended for such a space?",
+      "options": {
+        "A": "100 lux",
+        "B": "1100 lux",
+        "C": "900 lux",
+        "D": "400 lux"
+      },
+      "correct_answer": "",
+      "explanation": "The standard illumination recommended for general office work is 400 lux.The following standards have been recommended by the Illuminating Engineer Society.Visual TaskIlluminationCasual reading100 luxGeneral office wor400 luxkFine assembly900 luxVery severe tasks130020001ux2000 - 3000Watchmakinglux",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 7,
+      "question": "A watchmaker presents with symptoms of eye strain. What is the optimum illuminationrecommended at his workplace?",
+      "options": {
+        "A": "2000-3000 lux",
+        "B": "1300 - 2000 lux",
+        "C": "1000-1200 lux",
+        "D": "3000 - 3800 lux"
+      },
+      "correct_answer": "",
+      "explanation": "-The optimum illumination recommended for watchmaking is 2000 – 3000 lux.The following standards have been recommended by the Illuminating Engineer Society.Visual TaskIlluminationCasual reading100 luxGeneral office wor400 luxkFine assembly900 luxVery severe tasks130020001uxWatchmaking2000 - 3000lux",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the intensity of sound produced during whispering?",
+      "options": {
+        "A": "10 - 20 dB596",
+        "B": "30 - 40 dB",
+        "C": "20 - 30 dB",
+        "D": "0 - 10 dB"
+      },
+      "correct_answer": "A",
+      "explanation": "Whispering produces a sound of 20 - 30 dB.Loudness or intensity depends upon the amplitude of vibrations. It is expressed in decibels (dB).The intensity of sounds produced during various activities is listed below.603The frequency of sound is expressed in hertz (Hz). The human ear can hear frequencies fromabout 20 to 20,000 Hz.SourceLoudnesSWhisperingNormal conversationHeavy street traffic20-30dB60-65dB60-80dBBoiler factories120 dB",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the upper limit of daily exposure to noise which people can tolerate without hearingdamage?",
+      "options": {
+        "A": "95 dB",
+        "B": "65 dB",
+        "C": "75 dB",
+        "D": "85 dB"
+      },
+      "correct_answer": "D",
+      "explanation": "The upper limit of daily exposure to noise which people can tolerate without hearing damage is 85dB. This is the maximum acceptable noise level.It has been observed that the human ear responds in a non-uniform way to differentsound-pressure levels. A weighting curve, called curve A has been constructed which takes intoaccount the subjective effects of sound. Sound-pressure levels are therefore expressed in dBAbecause this reflects the perception of that sound emission by the normal human ear.Acceptable noise levels in various surroundings are listed below.LocalityPlaceAcceptable noise levels (dBA)ResidentialBedroom25Living ro40omCommercialOffice35-45Conferen 40-45ceRestaurants40-60IndustriaWorksho40-601PLaborato 40-50ryEducationalClassroo30-40mLibrary35-40Hospitals Wards20-35604",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 10,
+      "question": "What is the acceptable noise level in a hospital ward?",
+      "options": {
+        "A": "40 - 50 dBA",
+        "B": "35 - 40 dBA",
+        "C": "50-60 dBA",
+        "D": "20 - 35 dBA"
+      },
+      "correct_answer": "D",
+      "explanation": "-The acceptable noise level in a hospital ward is 20 – 35 dBA.Acceptable noise levels in various surroundings are listed below.LocalityPlaceAcceptable noise levels (dBA)ResidentiBedroom25alLiving ro40omCommercOffice35-45ialConferen40-45ceRestaurants40-60IndustriaWorksho40-601pLaborato40-50ryEducationalClassroo30-40mLibrary35-40HospitalsWards20-35",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 11,
+      "question": "A steel plant worker presented with sudden onset of bilateral hearing loss after hearing ablast in the plant. On examination, both his tympanic membranes were ruptured. Whatwould have been the minimum intensity of the blast to cause this injury?",
+      "options": {
+        "A": "90 dB",
+        "B": "110 dB",
+        "C": "130 dB",
+        "D": "160 dB"
+      },
+      "correct_answer": "D",
+      "explanation": "A minimum intensity of 160 dB can lead to rupture of the tympanic membrane, resulting inhearing loss.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 12,
+      "question": "597A 32-year-old patient presents with complaints of whistling and buzzing in both his ears sinceyesterday. He gives a history of being exposed to continuous noise due to construction nearhis house. At what intensity of noise do such conditions begin to occur?",
+      "options": {
+        "A": "75 dB",
+        "B": "80 dB",
+        "C": "90 dB",
+        "D": "100 dB"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of auditory fatigue that begins to appear with exposure tonoise at 90 dB.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 13,
+      "question": "An airline ground staff officer with difficulty hearing is found to have permanent hearing losson follow up. Continuous exposure to sound above what intensity can cause this condition?",
+      "options": {
+        "A": "160 dB",
+        "B": "120 dB",
+        "C": "110 dB",
+        "D": "100 dB"
+      },
+      "correct_answer": "D",
+      "explanation": "605Continuous exposure to sound above 100 dB can cause permanent hearing loss.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 14,
+      "question": "The WHO defines disabling hearing loss in adults as a hearing loss of more than:",
+      "options": {
+        "A": "60 dB",
+        "B": "45 dB",
+        "C": "35 dB",
+        "D": "25 dB"
+      },
+      "correct_answer": "C",
+      "explanation": "According to WHO, disabling hearing loss refers to hearing loss greater than 35 dB in the betterhearing ear in adults.WHO grades of hearing loss:Grade of hearing loss rangeo: No impairment1: Mild2: Moderate3: Moderately Severe4: SevereRange of hearing losS< 20 dB20 - 34 dB35-49 dB50 - 64 dB5: Profound65-79 dB>80 dB",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is a unit of absorbed dose of radiation?",
+      "options": {
+        "A": "Roentgen",
+        "B": "Rad",
+        "C": "Rem",
+        "D": "Sievert598"
+      },
+      "correct_answer": "B",
+      "explanation": "Rad is a unit of absorbed dose of radiation by tissue or material. It has been replaced by the SIunit which is gray (Gy).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 16,
+      "question": "What is the SI unit of radiation dose equivalent?",
+      "options": {
+        "A": "Rad",
+        "B": "Gray",
+        "C": "Sievert",
+        "D": "Roentgen"
+      },
+      "correct_answer": "C",
+      "explanation": "The SI unit of radiation dose equivalent is sievert (Sv).Dose equivalent (H) = Absorbed dose (D) x Quality factor (Q)The quality factor depends upon the density of ionization produced in the tissue by radiation. Thefactor Q for X-rays, y-rays and electrons is 1 and that for an alpha particle is 20.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 17,
+      "question": "What is the permissible dose of manmade radiation per year?",
+      "options": {
+        "A": "3 rads",
+        "B": "5 rads",
+        "C": "7 rads",
+        "D": "4 rads"
+      },
+      "correct_answer": "B",
+      "explanation": "The permissible dose of manmade radiation is 5 rads per year.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 18,
+      "question": "A young girl who is 1 month pregnant is concerned about a chest X-ray that she had taken 3weeks back. What is the dose of radiation below which deterministic effects on the fetus arenot seen?",
+      "options": {
+        "A": "0.5 mSv",
+        "B": "2 mSv",
+        "C": "3 RAD",
+        "D": "5 RAD"
+      },
+      "correct_answer": "D",
+      "explanation": "606Deterministic effects on the fetus are not seen below 5 rads or 50 mSv of radiation.Dose limits of radiation exposure are:•Occupational exposure - Effective dose should not exceed 20 mSv/year averaged over 5consecutive years / 30 mSv in a year.••General public exposure - Effective dose should not exceed 1 mSv/year• Occupational exposure for pregnant staff - Effective dose to the fetus should not exceed1mSv/year (same as the general public).For pregnant patients who require diagnostics with exposure to ionising radiation, the radiationprotection principles are followed:• The exposure should be justified• The dose should be as low as reasonably achievable (ALARA principle)• The dose limit is not particularly specified as it involves a single time exposure to diagnosticradiation. Usually, the effective dose to the fetus is &lt;1msv and deterministic effects to the fetusare not seen below 50 mSv (5 Rad).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    },
+    {
+      "q_no": 19,
+      "question": "What was the 10 days rule in radiation related to?",
+      "options": {
+        "A": "Occupational health",
+        "B": "Pregnancy",
+        "C": "Industrial radiation",
+        "D": "Radiotherapy599"
+      },
+      "correct_answer": "B",
+      "explanation": "The 10 days rule in radiation was related to pregnancy. It is aimed at preventing unintentionalexposure of the embryo or fetus to radiation.This rule states that if a radiograph is being done on the abdomen or pelvis of a woman in herchildbearing age, then it should be done during the 10 days following the onset of menstruation.In most situations, there is growing evidence that strict adherence to the \"ten-day rule\" may beunnecessarily restrictive. Since organogenesis starts 3 to 5 weeks post-conception, it was felt thatradiation exposure in early pregnancy couldn't result in malformation. Based on this, it wassuggested to do away with the 10-day rule and replace it with a 28-day rule. This means thatradiological examination if justified, can be carried throughout the cycle until a period is missed.607",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Light, Sound and Radiation"
+    }
+  ]
+}

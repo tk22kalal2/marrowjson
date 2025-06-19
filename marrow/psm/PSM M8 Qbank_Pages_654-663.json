@@ -1,0 +1,290 @@
+{
+  "chapter": "Methods of Pest Control",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following would you advise as the best approach to control arthropods?",
+      "options": {
+        "A": "Environmental control",
+        "B": "Chemical control",
+        "C": "Biological control",
+        "D": "Genetic control"
+      },
+      "correct_answer": "A",
+      "explanation": "Environmental control is often considered the best approach to control arthropods because it involves modifying the environment to prevent infestations, which can be more effective and sustainable in the long term.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is the best method to control houseflies?",
+      "options": {
+        "A": "Eliminating breeding places",
+        "B": "Using space sprays",
+        "C": "Raising larvivorous fishes",
+        "D": "Using residual sprays"
+      },
+      "correct_answer": "",
+      "explanation": "659The best method to control houseflies is environmental control by the elimination of breedingplaces.They have shown resistance to a number of insecticides, including DDT.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not an organo-phosphate insecticide?",
+      "options": {
+        "A": "Dieldrin",
+        "B": "Fenthion",
+        "C": "Malathion",
+        "D": "Diazinon"
+      },
+      "correct_answer": "",
+      "explanation": "Dieldrin is an organo-chlorine insecticide. It is a broad-spectrum insecticide that acts as a contact,stomach, and inhalation poison.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not an aryl organo-phosphate insecticide?",
+      "options": {
+        "A": "Malathion",
+        "B": "Parathion",
+        "C": "Chlorthion654",
+        "D": "Diazinon"
+      },
+      "correct_answer": "",
+      "explanation": "Malathion is an alkyl organophosphate insecticide. It is used as an ultra-low volume spray inmosquito control.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following insecticides is least toxic to man?",
+      "options": {
+        "A": "Malathion",
+        "B": "Diazinon",
+        "C": "Parathion",
+        "D": "Chlorpyrifos"
+      },
+      "correct_answer": "A",
+      "explanation": "Among the given options, malathion is the least toxic to man. It is the least toxicorgano-phosphate insecticide.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is false about fenthion?",
+      "options": {
+        "A": "It is used as a residual spray",
+        "B": "It is used as a repellent",
+        "C": "It is a stomach poison",
+        "D": "It has larvicidal action"
+      },
+      "correct_answer": "B",
+      "explanation": "Fenthion is not used as a repellant. A commonly used repellant is N,N-diethyl-m-toluamide(DEET) that is used for protection from mosquitoes and ticks.Fenthion is a broad-spectrum insecticide that acts as both contact and stomach poison. It is usedas a larvicide in mosquito control and also as a residual spray.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is false about pyrethrum?",
+      "options": {
+        "A": "Residual action as good as DDT",
+        "B": "Vegetable origin",
+        "C": "Contact poison",
+        "D": "Can be used synergistically with DDT"
+      },
+      "correct_answer": "A",
+      "explanation": "Pyrethrum does not have a residual action like DDT or other synthetic insecticides. So, most spacesprays contain pyrethrum and DDT for synergistic action.Pyrethrum is a natural insecticide of vegetable origin. It is extracted from the flowers ofChrysanthemum cinerariafolium. It kills adult mosquitoes and other insects instantly on merecontact.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following cannot be used to describe pyrethrum?",
+      "options": {
+        "A": "Nerve poison",
+        "B": "Contact poison",
+        "C": "Space spray",
+        "D": "Residual spray655"
+      },
+      "correct_answer": "D",
+      "explanation": "660Pyrethrum is not used as a residual spray. It is a contact and nerve poison that is also used as aspace spray.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is a synthetic pyrethroid insecticide?",
+      "options": {
+        "A": "Propoxur",
+        "B": "Permethrin",
+        "C": "Parathion",
+        "D": "Pyrolan"
+      },
+      "correct_answer": "B",
+      "explanation": "Permethrin is a synthetic pyrethroid. Pyrethroids are synthetic insecticides, which are derivedfrom naturally occurring pyrethrins. Pyrethroids modify the sodium channels in neuronalmembranes and thereby disrupt the electrical signalling in the nervous system.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following vectors has not shown resistance to synthetic pyrethroids, in awidespread manner in India yet?",
+      "options": {
+        "A": "Musca domestica",
+        "B": "Anopheles stephensi",
+        "C": "Aedes egyptii",
+        "D": "Phlebotomus argentipes"
+      },
+      "correct_answer": "D",
+      "explanation": "Sandflies (Phlebotomus) have not shown resistance to synthetic pyrethroids, in a widespreadmanner in India yet.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following best describes DDT?",
+      "options": {
+        "A": "Stomach poison",
+        "B": "Repellant",
+        "C": "Contact poison",
+        "D": "Fumigant"
+      },
+      "correct_answer": "C",
+      "explanation": "DDT is a contact poison that belongs to the organochlorine family. It has been widely used but anumber of organisms have become resistant to its effects now.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 12,
+      "question": "During a dengue outbreak, the municipal corporation plans a DDT spraying initiative. Whichof the following is false about this insecticide?",
+      "options": {
+        "A": "Para-para isomer is the most active fraction",
+        "B": "It acts as a neurotoxin",
+        "C": "It has residual action up to 18 months656",
+        "D": "It causes immediate death of insects"
+      },
+      "correct_answer": "D",
+      "explanation": "DDT does not cause the immediate death of insects. It takes several hours for its action to becomplete.It contains 70-80% of para-para isomer that is the most active fraction of DDT. It acts on thenervous system of insects. The residual action of DDT may last as long as 18 months dependingupon the treated surface.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is true about the usage of Paris green for mosquito control?",
+      "options": {
+        "A": "Anti-adult measure",
+        "B": "Effective against Anopheles",
+        "C": "Harmful in normal doses to man and animals",
+        "D": "Nerve poison"
+      },
+      "correct_answer": "B",
+      "explanation": "Paris green is very effective against surface-feeding Anopheles.It is an anti-larval measure and is a stomach poison. It is not harmful in normal doses to man andanimals.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following mosquitoes can be controlled by destroying aquatic plants withherbicides?",
+      "options": {
+        "A": "Mansonia",
+        "B": "Culex",
+        "C": "Aedes",
+        "D": "Anopheles"
+      },
+      "correct_answer": "A",
+      "explanation": "Mansonia mosquitoes breed in water with aquatic vegetation, and destroying this vegetation withherbicides would control this mosquito.661",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is not a mosquito anti-larval measure?",
+      "options": {
+        "A": "Mineral oils",
+        "B": "Gambusia fish",
+        "C": "Paris green",
+        "D": "Pyrethrum"
+      },
+      "correct_answer": "D",
+      "explanation": "Pyrethrum is an anti-adult measure and not an anti-larval measure.Mineral oils, Gambusia, and Paris green are anti-larval measures used in mosquito control.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 16,
+      "question": "Which among the following insecticides is most widely used as a space spray?",
+      "options": {
+        "A": "HCH",
+        "B": "Malathion",
+        "C": "DDT657",
+        "D": "Pyrethrum"
+      },
+      "correct_answer": "D",
+      "explanation": "The insecticide most widely used as a space spray is pyrethrum.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 17,
+      "question": "Match the following methods of mosquito control to the appropriate examples.",
+      "options": {
+        "A": "I — a, II – b, III – c, IV – d----",
+        "B": "Ib, II - d, III – c, IV – a--",
+        "C": "I - c, II - a, III – b, IV – d-----",
+        "D": "I – d, II – b, III – a, IV – c-"
+      },
+      "correct_answer": "D",
+      "explanation": "The correctly matched methods of mosquito control are:Method of controlBiological controlGenetic controlExampleBarbados millionsChemical controlSex distortionLarvicidal oilEnvironmental contrSource reductiooln",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 18,
+      "question": "To curb an outbreak of plague in your locality, the municipal corporation decides to userodenticides. Which of the following can be given as a single dose for this purpose?",
+      "options": {
+        "A": "Warfarin",
+        "B": "Pindone",
+        "C": "Coumafuryl",
+        "D": "Zinc phosphide"
+      },
+      "correct_answer": "D",
+      "explanation": "Zinc phosphide is a single-dose rodenticide that causes death in a one-time exposure.Acute or single-dose rodenticides are classified according to the precautions that need to be takenbefore their use:•Those requiring ordinary care - Red squill, norbormide, zinc phosphide• Those requiring maximal precaution - Sodium fluoroacetate, fluoroacetamide and strychnine•⚫ Too dangerous for use - Arsenic trioxide, phosphorus, thallium sulphateMultiple-dose or cumulative rodenticides cause death after multiple times of exposure. Examplesinclude:•Warfarin• Coumafuryl•⚫ Diphacinone662• Pindone",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Methods of Pest Control"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following color labels is used to indicate the most hazardous pesticides?",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Black"
+      },
+      "correct_answer": "A",
+      "explanation": "The most hazardous pesticides must have labels in red color.Pesticide toxicity labels:These labels are depicted in the image below.Category of PesticidColor of LabeExtremely toxicHighly toxicModerately toxicelBright redBright yelloWBright blueSlightly toxicBright greenDegree of Pesticide ToxicityeXSlightlytoxicModeratelytoxicHighlytoxicExtremelytoxicOMARROW663",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp19_img1_0f666189.jpeg",
+      "chapter_heading": "Methods of Pest Control"
+    }
+  ]
+}

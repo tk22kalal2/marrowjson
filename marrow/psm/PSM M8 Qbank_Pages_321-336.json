@@ -1,0 +1,320 @@
+{
+  "chapter": "Diseases and Diabetes",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The WHO has formulated a Global Action Plan for the prevention and control ofnon-communicable diseases. Which of the following is not a voluntary global target underthis initiative?",
+      "options": {
+        "A": "10% relative reduction in harmful use of alcohol",
+        "B": "30% relative reduction in mean population intake of sodium",
+        "C": "10% relative reduction in prevalence of insufficient physical activity",
+        "D": "10% relative reduction in use of trans-fat for cooking"
+      },
+      "correct_answer": "",
+      "explanation": "A 10 percent relative reduction in the use of trans-fat for cooking is not a voluntary global targetunder the WHO Global Action Plan for prevention and control of non-communicable diseases.There are 9 targets under this plan which are to be achieved by 2025. These are shown in theimage below.Set of 9 voluntary global NCD targets for 2025World HealthOrganizationHarmful useof alcohol10% reductionPhysicalinactivity10% reductionSalt/sodium intake30% reductionPrematuremortalityfrom NCDs25% reductionEssential NCDmedicines andtechnologies80% coverageDrug therapyand counseling50% coverageRaised bloodDiabetes/obesity0% increaseTobacco use30% reductionpressure25% reductionMortality and MorbidityRisk Factors for NCDNational Systems Response",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp1_img1_70652d88.jpeg",
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 2,
+      "question": "Project MONICA is related to:",
+      "options": {
+        "A": "Cardiovascular diseases",
+        "B": "Cervical Cancer",
+        "C": "Breast Cancer",
+        "D": "Road Traffic Accidents"
+      },
+      "correct_answer": "",
+      "explanation": "Project MONICA is related to cardiovascular diseases.It stands for multinational monitoring of trends and determinants in cardiovascular diseases. Itwas done to study the reasons for the changes in the trends of cardiovascular diseases in differentcountries.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is false regarding the relationship between smoking andcoronary heart disease (CHD)?",
+      "options": {
+        "A": "Smoking can cause sudden death from CHD.",
+        "B": "Filters in cigarettes are protective against the development of CHD.",
+        "C": "Risk of developing CHD 10-20 years after the cessation of smoking is equal in smokers and nonsmokers.",
+        "D": "Degree of risk of developing CHD is directly related to the number of cigarettes smoked perday."
+      },
+      "correct_answer": "B",
+      "explanation": "Filters are probably not protective against the development of coronary heart disease in smokers.Smoking is a modifiable risk factor for coronary heart disease (CHD). The degree of risk is directlyrelated to the number of cigarettes smoked per day. Several mechanisms have been suggested forthis:• Carbon monoxide induced atherogenesis• Nicotine stimulation of adrenergic drive• Lipid metabolism with fall in levels of HDLCigarettes also increase the risk of sudden death in patients with CHD who are below 50 years ofage. The risk of death from CHD decreases with the cessation of smoking. The risk declines quite328substantially within one year of stopping smoking and more gradually thereafter until, after 10-20 years, it is the same as that of non-smokers.Risk factors for coronary heart disease are:• Modifiable:••Cigarette smokingHigh blood pressure• Elevated serum cholesterol• Diabetes• Obesity•••Sedentary habitsStress• Non-modifiable:•Age• Sex•Family history• Genetic factors• Personality",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 4,
+      "question": "321A chronic smoker was found to have a deranged lipid profile during his annual healthcheckup. Which of the following variables tested is most directly associated with the risk ofdeveloping coronary heart disease?",
+      "options": {
+        "A": "HDL level",
+        "B": "VLDL level",
+        "C": "LDL level",
+        "D": "IDL level"
+      },
+      "correct_answer": "",
+      "explanation": "The plasma LDL level is most directly associated with the risk of developing coronary heartdisease (CHD).HDL is protective against the development of CHD. Its levels should ideally be more than 40mg/dl.Recent evidence shows that levels of Apolipoprotein-A-1 and Apolipoprotein-B are betterpredictors of CHD than HDL or LDL.VLDL is more strongly associated with the risk of developing peripheral vascular disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 5,
+      "question": "A 45-year-old diabetic male is concerned about his risk of developing coronary heart disease.What cholesterol/HDL ratio would you aim to achieve in this patient?",
+      "options": {
+        "A": "Cholesterol/HDL ratio&gt; 2.5",
+        "B": "Cholesterol/HDL ratio&lt; 2.5",
+        "C": "Cholesterol/HDL ratio&gt; 3.5",
+        "D": "Cholesterol/HDL ratio&lt; 3.5"
+      },
+      "correct_answer": "",
+      "explanation": "A cholesterol/HDL ratio &lt;3.5 is recommended for the prevention of coronary heart disease(CHD).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 6,
+      "question": "While conducting a screening camp for coronary heart disease, you encounter the followingpeople. Who among them is at the highest risk for developing this disease?",
+      "options": {
+        "A": "A person who is competitive and ambitious",
+        "B": "A person who is calm and relaxed",
+        "C": "A person who tends to suppress their emotions",
+        "D": "An introverted person with negative affectivity"
+      },
+      "correct_answer": "A",
+      "explanation": "329A person who is competitive and ambitious is said to have a type A personality. Such people aremore prone to develop coronary heart disease (CHD). Personality type is a non-modifiable riskfactor for CHD.Risk factors for coronary heart disease are:• Modifiable:•Cigarette smoking• High blood pressure• Elevated serum cholesterol• Diabetes•Obesity• Sedentary habits• Stress• Non-modifiable:Age• Sex• Family history• Genetic factors•• PersonalityOption B: A calm and relaxed person is said to have a type B personality.Option C: A person who tends to suppress their emotions, especially negative emotions, is said tohave a type C personality.Option D: A person with negative affectivity and social inhibition is said to have a type Dpersonality.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 7,
+      "question": "A 45-year-old obese woman enquires about ways she can reduce her risk of coronary arterydisease. Which of the following dietary modifications would you suggest?",
+      "options": {
+        "A": "Reduction of salt intake to less than 10g per day",
+        "B": "Consumption of saturated fats limited to less than 10% of the total energy intake",
+        "C": "Reduction of total fat intake to less than 5% of total energy intake",
+        "D": "Dietary cholesterol increased to above 100 mg/1000 kcal energy intake322"
+      },
+      "correct_answer": "B",
+      "explanation": "Limiting the consumption of saturated fats to less than 10% of total energy intake isrecommended for the prevention of coronary artery disease.The WHO'S Expert Committee suggested certain dietary modifications for the prevention ofcoronary artery disease. These include:• Reduction of the total fat intake to 20-30% of total energy intake•Consumption of saturated fats must be limited to less than 10% of total energy intake•• A reduction of dietary cholesterol to below 100mg per 1000 kcal per day• Increase in the complex carbohydrate consumption (i.e vegetables, fruits, whole grains andlegumes)• Avoidance of alcohol consumption and reduction of salt intake to 5g daily or less330",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following studies is not related to coronary heart disease?",
+      "options": {
+        "A": "Stanford 3 community study",
+        "B": "Framingham study",
+        "C": "CATIE trial",
+        "D": "MRFIT"
+      },
+      "correct_answer": "C",
+      "explanation": "The CATIE trial is related to the study of antipsychotics and their effectiveness.The trials related to coronary heart disease and their subject of study include:Name of StudyOslo diet/Smoking intervention studyMRFIT trialThe North Karelia projectThe Stanford-Three-Community trialLipid Research Clinics studyFactors affecting CHD StudiedEffect of lowering serum lipids and smoking cessationEffect of smoking cessation,blood pressure control and diet alteration in reduction of serum cholesterol1. Effect of reduction of risk factors like smoking, blood pressure and serum cholesterol.2. Promotion of early diagnosis, treatment and rehabilitation of patientsEffects of community healtheducationEffect of reducing serum cholesterol in type II hyperlipidemics",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 9,
+      "question": "A 50-year-old man, under treatment for hypertension for the past two months, is found tohave a blood pressure of 144/96 mmHg. How will you grade it according to the Europeansociety of cardiology guidelines-2018?",
+      "options": {
+        "A": "Normal",
+        "B": "High Normal",
+        "C": "Grade 1 hypertension",
+        "D": "Grade 2 hypertension"
+      },
+      "correct_answer": "",
+      "explanation": "According to the European society of cardiology guidelines-2018, a patient having a systolicBP≥140 and a diastolic BP≥90 mmHg is classified as having grade 1 hypertension.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 10,
+      "question": "A doctor records the BP of a patient as 142/90mmHg. One hour later, another doctor recordsthe BP of the same patient as 160/98 mmHg. Both the readings are measured with the sameapparatus under the same emotional and physical state of the patient. What type of error isseen here?",
+      "options": {
+        "A": "Subject error",
+        "B": "Observer error",
+        "C": "Instrument error",
+        "D": "Recording error"
+      },
+      "correct_answer": "B",
+      "explanation": "Such errors can arise due to differences in hearing acuity and interpretation of Korotkoff sounds.The types of errors that can occur during the measurement of blood pressure include:••Observer errors - due to difference in hearing acuity and interpretation of Korotkoff soundsInstrumental errors - due to a leaking valve or cuffs that do not encircle the arm completely• Subject errors due to anxiety, fear, etc. of the patient-331",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 11,
+      "question": "What does number 2 in the given diagram related to hypertension denote?3231.3.5.7.9.2.4.6. 8.",
+      "options": {
+        "A": "Normotensive individuals",
+        "B": "Undiagnosed hypertensive subjects",
+        "C": "Diagnosed hypertensive subjects not on treatment",
+        "D": "Whole community"
+      },
+      "correct_answer": "A",
+      "explanation": "The above diagram depicts the \"rule of halves\", which shows the distribution of hypertension inthe community. The number 2 in this diagram denotes normotensive subjects.The rule of halves is a way of depicting the iceberg phenomenon seen in hypertension. It depictsthat only about half of the hypertensive subjects in the general population of most developedcountries are aware of the condition and only half of those aware are being treated and only halfof those being treated are considered to be adequately treated.The circles marked by numbers in the given diagram correspond to the following parts of thepopulation:• Whole community• Normotensive subjectsHypertensive subjects• Undiagnosed hypertension•Diagnosed hypertension• Diagnosed but untreated• Diagnosed and treated• Inadequately treated• Adequately treated",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q11_img1_66fd3e0b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following statements is true regarding tracking of blood pressure?",
+      "options": {
+        "A": "BP increases with age in all individuals",
+        "B": "BP falls steadily in the elderly",
+        "C": "Hypertensive children become hypotensive as they grow",
+        "D": "BP of hypotensive children tends to remain low in adult life"
+      },
+      "correct_answer": "D",
+      "explanation": "If the blood pressure of individuals is followed up over years from early childhood to adult life,low blood pressures tend to remain low and high blood pressures become higher as theindividuals grow older. This phenomenon of persistence of the rank order of blood pressure isdescribed as tracking.This is helpful in identifying children and adolescents who are at risk of developing hypertensionin the future.Although blood pressure is known to increase with age in both sexes, some communities havebeen identified whose mean blood pressure does not rise with age. This is because their salt intakeand calorie consumption are at a subsistence level.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 13,
+      "question": "While formulating a diet plan for a hypertensive patient, you advise salt restriction. Howmuch reduction in systolic blood pressure is expected by this intervention?",
+      "options": {
+        "A": "8-14 mm of Hg",
+        "B": "2-8 mm of Hg",
+        "C": "4-9 mm of Hg",
+        "D": "5-20 mm of Hg324"
+      },
+      "correct_answer": "B",
+      "explanation": "Salt restriction or decreasing dietary sodium intake decreases the systolic blood pressure by 2-8mmHg approximately.Lifestyle modifications to manage hypertension:Note: DASH stands for dietary approaches to stop hypertension.332RecommendationWeight reduction (Target BMI:18.5-24.9)Consume diet rich in fruits, vegetables and low fat dairy products with decreased saturated fats and total fat (DASHdiet)Reducing intake of dietary Sodium to no more than 100mEq/day(< 6 g of sodium chloride)Reduction in systolic blood pressure(approximate range)5-20 mm Hg /10 kg weight loSS8-14 mm Hg2-8 mm HgPhysical activity like brisk walk (at least 30 min per day),most days of week.4-9 mm HgLimit consumption of alcoholto no more than two drinksper day2-4 mm Hg",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following interventions will cause the maximum decrease in systolic bloodpressure in a hypertensive patient?",
+      "options": {
+        "A": "Restricting intake of animal products",
+        "B": "Taking a brisk walk for at least 30 minutes a day",
+        "C": "Adopting the DASH eating plan",
+        "D": "Restricting sodium intake to less than 6g per day"
+      },
+      "correct_answer": "C",
+      "explanation": "Among the above options, adopting the dietary approaches to stop hypertension (DASH) eatingplan causes maximum decrease in systolic BP. It decreases the systolic BP by 8-14 mm Hg.Lifestyle modifications to manage hypertension:RecommendationWeight reduction (Target BMI:18.5-24.9)Consume diet rich in fruits, vegetables and low fat dairy products with decreased saturated fats and total fat (DASHdiet)Reducing intake of dietary sodium to no more than 100mEq/day(< 6 g of sodium chloride)Physical activity like brisk walk (at least 30 min per day),most days of week.Limit consumption of alcoholto no more than two drinksper dayReduction in systolic blood pressure(approximate range)5-20 mm Hg /10 kg weight loSS8-14 mm Hg2-8 mm Hg4-9 mm Hg2-4 mm Hg333",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is a minor criterion for the diagnosis of rheumatic fever in a low riskpopulation?",
+      "options": {
+        "A": "Carditis",
+        "B": "Erythema marginatum",
+        "C": "Subcutaneous nodules",
+        "D": "Polyarthralgia"
+      },
+      "correct_answer": "D",
+      "explanation": "Polyarthralgia is a minor criterion for the diagnosis of rheumatic fever in a low risk population.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 16,
+      "question": "A child having strep throat is being prescribed benzathine penicillin G. Which level ofprevention of rheumatic fever does this intervention fall under?",
+      "options": {
+        "A": "Primary prevention",
+        "B": "Primordial prevention",
+        "C": "Secondary prevention",
+        "D": "Tertiary prevention"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario is an example of primary mode of prevention of rheumatic fever. This isbecause the patient only has strep throat and rheumatic fever has not developed yet.In case benzathine penicillin G is given to a patient with rheumatic fever to prevent furthercomplications, then it becomes secondary level of prevention.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 17,
+      "question": "A 16-year-old boy with rheumatic fever developed carditis which subsequently healed in acouple of weeks. How long will you administer benzathine penicillin G for secondaryprophylaxis to him?",
+      "options": {
+        "A": "Till 21 years of age",
+        "B": "Till 24 years of age325",
+        "C": "Till 26 years of age",
+        "D": "Lifelong"
+      },
+      "correct_answer": "C",
+      "explanation": "In the given scenario, benzathine penicillin G for secondary prophylaxis should be given for 10years from the last attack i.e, till 26 years of age. The given case is of rheumatic fever with carditisbut with no residual valvular disease, for which secondary prophylaxis is given for 10 years fromthe last attack or till 21 years of age, whichever is longer.Recommendations for the duration of secondary prophylaxis with penicillin:Category of the patientRheumatic fever without carditisRheumatic fever with carditisbut with no residual valvulardiseaseRheumatic fever with persistent valvular disease evident clinically or on echoDuration of prophylaxisFor 5 years after the last attack or until 21 years of age (whichever is longer)For 10 years after the last attack or until 21 yrs of age (whichever is longer)For 10 years after the last attack or until 40 years of age, or sometimes lifelong prophylaxis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is not a protective factor for diabetes mellitus?",
+      "options": {
+        "A": "Intake of PUFAs",
+        "B": "Intake of non-starch polysaccharides",
+        "C": "Exclusive breastfeeding",
+        "D": "Intake of saturated fats"
+      },
+      "correct_answer": "D",
+      "explanation": "A higher intake of saturated fats is associated with an increased risk of diabetes mellitus.Dietary factors that are protective for diabetes mellitus are:•Higher intake of unsaturated fatty acids.• A minimum daily intake of 20g of dietary fibre334• Exclusive breastfeeding",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 19,
+      "question": "A patient's fasting plasma glucose is 122 mg/dl and postprandial plasma glucose is 138 mg/dl.According to the WHO diagnostic criteria for diabetes, which category does this patient fallunder?",
+      "options": {
+        "A": "Isolated post prandial hyperglycemia",
+        "B": "Impaired glucose tolerance",
+        "C": "Impaired fasting glucose",
+        "D": "Overt diabetes"
+      },
+      "correct_answer": "",
+      "explanation": "Fasting blood glucose of 122 mg/dl with a postprandial value of 138 mg/dl indicates the patientfalls under the criteria for impaired fasting glucose.The WHO diagnostic criteria for diabetes and intermediate hyperglycemia is as follows:Fasting plasma glucoPost prandial plasma glucosDiagnosisse≥ 126 mg/dle> 200 mg/dlDiabetes< 126 mg/dl140-200 mg/dlImpaired glucose tolerance110-125 mg/dl< 140 mg/dlImpaired fasting glucose",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following statements are incorrect regarding the benefits of variousinterventions in diabetes?",
+      "options": {
+        "A": "1 &amp; 2",
+        "B": "2, 3 &amp; 4",
+        "C": "3 &amp; 5",
+        "D": "1, 2 &amp; 4"
+      },
+      "correct_answer": "C",
+      "explanation": "The use of ACE inhibitors in diabetics reduces the risk of nephropathy by 42% and cardiovascularrisk by 22%. Annual eye examination in diabetics reduces the incidence of serious visual loss by60-70%.Interventions in diabetes:•Glycaemic control in diabetics with HbA1C &gt; 9% reduces microvascular disease risk by 30%per 1% drop in HbA1c.• Blood pressure control in patients with BP &gt; 130/80 mmHg reduces microvascular and•macrovascular disease risk by 35% per 10 mmHg drop in blood pressure.Lifestyle modification reduces the incidence of diabetes by 35-58%.• Metformin administered as a preventive therapy reduces the incidence of diabetes by 25-31%.• Proper foot care reduces the risk of serious foot disease by 50-60%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    },
+    {
+      "q_no": 21,
+      "question": "The community health officer of an area is instructed to assess the population for the riskfactors of Non-alcoholic Fatty Liver Disease under NP-NCD. Which of the following will not326be a risk factor?",
+      "options": {
+        "A": "Pedal edema",
+        "B": "Abdominal obesity",
+        "C": "History of cancer",
+        "D": "Low blood pressureQuestion No.12"
+      },
+      "correct_answer": "D",
+      "explanation": "Low blood pressure is not a risk factor for NAFLD according to the NP-NCD.The National Programme for Prevention &amp; Control of Non-Communicable Diseases(NP-NCD), which was earlier NPCDCS, has integrated guidelines for the management ofNon-alcoholic Fatty Liver disease (NAFLD) into its framework. Through a community-basedassessment checklist, the community health officer along with ASHA workers will assess for thepresence of the following risk factors:335•Abdominal obesity (waist circumference of &gt;90cm in men and &gt;80cm in women)• Personal or family history of diabetes, hypertension, cancers, heart diseases, liver diseases orgallstones•Obesity (BMI &gt;23 kg/m2)• Presence of pedal edemaLevel of healthcareCommunity levelSub-Health CentrePrimary Health CentreCommunity Health CentreDistrict levelTertiary levelProvisionsASHA workers assess for abdominal obesity, relevant personal or family history. Refer to the sub-health centre.Validate ASHA workers' referrals. Further assess forpedal edema, BMI, and screen forother NCDs.Assessment of SHC referralsforsigns of chronic liver disease.Basic treatmentfor DM/HTN.Rule out other causes of liverdisease, and performCBCandLFT. CalculateFIB40rNFS score. If low riskof fibrosis - Refer back to the PHC forconservative management, weightreduction etc. Reassess in 3 years.Ifindeterminate, or highrisk of fibrosis - Refer to ahigher centre.Perform Fibroscanforindeterminate riskof fibrosis. In caseoflow riskof fibrosis - Refer back to the PHC forconservative management, weight reduction, etc. Reassess in 3 years.In case ofhigh riskof fibrosis- Management of fibrosis, screening forHCCandportal hypertension. Refer complicatedcases to tertiary level.Management ofcomplicated cases.336",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diseases and Diabetes"
+    }
+  ]
+}

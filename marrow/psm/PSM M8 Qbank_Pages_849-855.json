@@ -1,0 +1,200 @@
+{
+  "chapter": "Concepts in Hypothesis Testing",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the hypothesis which states that an apparent effect is only due to chance, called as?",
+      "options": {
+        "A": "Experimental hypothesis",
+        "B": "Null hypothesis",
+        "C": "Inferential hypothesis",
+        "D": "Alternative hypothesis"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the significance level in hypothesis testing called as?",
+      "options": {
+        "A": "Probability level",
+        "B": "Alpha level",
+        "C": "Beta level",
+        "D": "Rejection level"
+      },
+      "correct_answer": "B",
+      "explanation": "Significance level in hypothesis testing is called alpha level (a) or criterion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the p value?",
+      "options": {
+        "A": "Probability of declaring a significant difference when there is none in reality",
+        "B": "Probability of declaring a significant difference when it is actually present",
+        "C": "Probability of not declaring a significant difference when actually it is not present",
+        "D": "Probability of not declaring a significant difference when actually it is present"
+      },
+      "correct_answer": "A",
+      "explanation": "p-value can be defined as the probability of declaring a significant difference when there is none inreality.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements is false about the p-value?",
+      "options": {
+        "A": "It is equal to the probability of committing a type I error",
+        "B": "It is equal to 1-beta",
+        "C": "It is the chance that the presence of difference is concluded when actually there may849be none",
+        "D": "When the p value is less than α, the result is statistically significant"
+      },
+      "correct_answer": "B",
+      "explanation": "The power of a test is 1 – beta.-The p value is the probability that a type I error is being made. It is the chance that the presenceof difference is concluded when actually there may be none. When the p value is less than α, theresult is statistically significant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 5,
+      "question": "A randomized control trial comparing the efficacy of two chemotherapy regimens forHodgkin's lymphoma showed that their difference is statistically significant with p &lt; 0.001.However, in reality the two drugs do not differ in their efficacy. What type of error is this anexample of?",
+      "options": {
+        "A": "Type I error",
+        "B": "Type II error",
+        "C": "Alpha II error",
+        "D": "Beta I error"
+      },
+      "correct_answer": "A",
+      "explanation": "This is an example of a type I error.In this scenario, let us take the null hypothesis as the efficacy of two drugs being the same, whichas the question states, is true in reality. The alternative hypothesis will then be that one drug isbetter than the other.The questions states that p-value was found to be &lt; 0.001, which is statistically significant andso the null hypothesis is rejected. But we already know that the null hypothesis is true and we areforced to accept the alternative hypothesis even though it is false.When an alternative hypothesis is accepted even when it is false and the null hypothesis is true, itis called as a type I error or an alpha error or a false positive error.853",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 6,
+      "question": "An investigator is conducting a study to assess the effect of a mood stabiliser on patients withbipolar I disorder. What does it mean if the difference is significant in the results?",
+      "options": {
+        "A": "p &gt; 0.05 and it is likely by chance",
+        "B": "p &gt; 0.05 and it is unlikely by chance",
+        "C": "p &lt; 0.05 and it is unlikely by chance",
+        "D": "p &lt; 0.05 and it is likely by chance"
+      },
+      "correct_answer": "",
+      "explanation": "When the difference is significant, it means that the difference is unlikely by chance and p will be≤ 0.05.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 7,
+      "question": "While assessing the effect of a new intervention for type II DM, you obtain the p-value of thestudy as 0.023. Based on this observation, what is your inference?",
+      "options": {
+        "A": "Null hypothesis is accepted and the study is rejected",
+        "B": "Null hypothesis is rejected and the study is accepted",
+        "C": "Null hypothesis is accepted and the study is accepted",
+        "D": "Null hypothesis is rejected and the study is also rejected"
+      },
+      "correct_answer": "",
+      "explanation": "By convention, if the p value ≤ 0.05, the difference is said to be statistically significant. Thus, thenull hypothesis is rejected and the study is accepted.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is a false statement regarding hypothesis testing?850",
+      "options": {
+        "A": "Alpha is the maximum tolerable probability of a type 1 error being made",
+        "B": "Beta is the probability of a type II error",
+        "C": "When the null hypothesis is true but rejected, it is a type II error",
+        "D": "p value can be more or less than alpha"
+      },
+      "correct_answer": "",
+      "explanation": "When the null hypothesis is true but is still rejected, it is a type I error and not a type II error.Type II errors are when an alternative hypothesis is rejected even though it is true.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 9,
+      "question": "You are conducting a randomised clinical trial to see if a new drug 'A' has better efficacy thanthe standard drug 'B', in patients with grade III hypertension. While analysing the results ofthis study, you conclude that no difference exists between the two. But in reality, a differencebetween them truly exists. What type of error are you making?",
+      "options": {
+        "A": "Type I error",
+        "B": "Type II error",
+        "C": "Sampling error",
+        "D": "Interpretation error"
+      },
+      "correct_answer": "B",
+      "explanation": "Type II errors are when an alternative hypothesis is rejected when it is true.In this scenario, the null hypothesis is that there is no difference and the alternative hypothesis isthat there is a difference.We failed to reject the null hypothesis that says there is no difference, and so we are making atype II error. In other words, we have rejected the alternative hypothesis that there is andifference when it is true.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 10,
+      "question": "Power of a study is the ability of a test to",
+      "options": {
+        "A": "Decrease type I error",
+        "B": "Decrease beta error",
+        "C": "Increase alpha error",
+        "D": "Increase beta error"
+      },
+      "correct_answer": "B",
+      "explanation": "The power of a study is its ability to avoid or decrease beta errors or type II errors.The statistical power of a test is represented by 1 - - ẞ.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 11,
+      "question": "A randomised control trial is being conducted in patients with direct inguinal hernia, tocompare the outcomes of a new surgery 'A' and the gold standard surgery 'B'. The p value ofthis trial is found to be 0.04. What can we conclude from this?",
+      "options": {
+        "A": "Type II error is small and we can accept the findings of the study",
+        "B": "The probability of false negative conclusion that operation A is better than B is 4%",
+        "C": "The power of the study to detect the difference between operation A and B is 96%",
+        "D": "The probability of a false positive conclusion that operation A is better than B is 4%851"
+      },
+      "correct_answer": "D",
+      "explanation": "Since the p-value of the study is found to be 0.04, we can infer that the probability of a falsepositive conclusion that the operation A is better than B is 4%.In this scenario, the p value is 0.04 which makes it, by convention, statistically significant. We canreject the null hypothesis and accept the alternative hypothesis that operation A is better than854operation B.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 12,
+      "question": "You are an investigator conducting a statistical test. You obtain the p value as 0.01 forstudy. What does this mean?",
+      "options": {
+        "A": "The probability of finding a significant difference is 1%",
+        "B": "There is a 1% probability that the difference is not by chance",
+        "C": "The difference is not significant 1% of times and significant 99% of times",
+        "D": "The power of the test used is 99%your"
+      },
+      "correct_answer": "C",
+      "explanation": "If the p-value = 0.01, then the difference is not significant 1% of the time and significant 99% ofthe time.In other words, there is a 99% probability that the difference is not by chance and there is a 1%probability that the difference is only by chance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    },
+    {
+      "q_no": 13,
+      "question": "In a well-designed cancer study, similar remission rates were obtained for a new treatment(33.2%) and the usual treatment (32.2%), with the p-value being 0.04. Which of the followingstatements is true regarding the study?",
+      "options": {
+        "A": "Both the treatments are equally effective",
+        "B": "Neither of the treatments is effective",
+        "C": "The new treatment is more effective than the usual treatment",
+        "D": "The information given is not adequate to compare the efficacy of the treatments"
+      },
+      "correct_answer": "C",
+      "explanation": "As the p-value is 0.04, we can conclude that the new treatment is more effective than the usualtreatment.Even though both treatments have similar rates of remission, a valid statistical test is required todetermine the difference in their effectiveness. Statistically, p-value &lt; 0.05 implies that thealternate hypothesis is true.In this scenario, we can consider:• Null hypothesis: Both the treatments are equally effective (in other terms, there is no differencebetween the effect of the two treatments).• Alternative hypothesis: New treatment is more effective than the usual treatment.As the p-value is 0.04, which is statistically significant (&lt;0.05), the null hypothesis is rejectedand the alternative hypothesis is accepted. Hence the new treatment is more effective than theusual treatment.855",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts in Hypothesis Testing"
+    }
+  ]
+}

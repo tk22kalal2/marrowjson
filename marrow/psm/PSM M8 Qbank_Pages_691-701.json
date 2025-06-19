@@ -1,0 +1,245 @@
+{
+  "chapter": "Occupational Health Diseases",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "You are working as a medical officer in a ceramic factory. What particle size of the dustinhaled would you be most concerned about?",
+      "options": {
+        "A": "5-8 microns",
+        "B": "8-10 microns",
+        "C": "3-5 microns",
+        "D": "0.5 to 3 microns"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 2,
+      "question": "Match the following causative agents with the disease caused by them:",
+      "options": {
+        "A": "1-b, 2-c, 3-a, 4-d",
+        "B": "1-d, 2-c, 3-b, 4-a",
+        "C": "1-b, 2-c, 3-d, 4-a",
+        "D": "1-b, 2-d, 3-a, 4- c"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct match is:• Coal dust - Anthracosis• Hay dust - Farmer's lung•Cotton fibre Byssinosis-• Cane fibre Baggasosis-",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 3,
+      "question": "While working as an MO, you noticed an increased number of bagassosis patients in the area.Which of the following fungal control measures would you advise the sugarcane farmers toimplement?",
+      "options": {
+        "A": "10% propionic acid",
+        "B": "10% acetic acid",
+        "C": "2% propionic acid",
+        "D": "2.5% acetic acid"
+      },
+      "correct_answer": "C",
+      "explanation": "Fungal control on bagasse can be done by using 2% propionic acid and keeping the moisturecontent above 20%.Bagassosis is a hypersensitivity pneumonitis caused by inhaling bagasse dust contaminated by thefungus Thermoactinomyces sacchari. It is a reaction to the various antigens present in sugarcanemolasses.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 4,
+      "question": "A shipyard worker is diagnosed with asbestosis. Which of the following is false about hiscondition?691",
+      "options": {
+        "A": "The symptoms usually occur after 5-10 years of exposure",
+        "B": "Sputum sample contains asbestos bodies",
+        "C": "Peribronchial fibrosis is a characteristic finding",
+        "D": "The most dangerous form of asbestos is chrysolite type"
+      },
+      "correct_answer": "D",
+      "explanation": "Amphibole is the most dangerous form of asbestos. Chrysolite is a safer form of asbestoscompared to amphibole.Asbestosis is a pneumoconiosis that occurs after 5-10 years of exposure to asbestos. It progresseseven after the removal of contact with asbestos. Asbestosis affects the basal part of the lungcausing diffuse peribronchial fibrosis.Sputum shows asbestos bodies, which are asbestos fibers coated with fibrin. The image givenbelow shows asbestos bodies:696The complications that can occur are:• Pulmonary fibrosis••Carcinoma of the lungMesothelioma of the pleuraMalignancy of the gastrointestinal tract",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp4_img1_85561899.jpeg",
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient presents with abdominal colic and constipation. On examination, pallor and bluestippled lines on gums are observed. What is the most common mode of exposure to thisparticular toxicity?",
+      "options": {
+        "A": "Ingestion of paint",
+        "B": "Inhalation of fumes",
+        "C": "Absorption through skin",
+        "D": "Drinking contaminated water"
+      },
+      "correct_answer": "B",
+      "explanation": "A patient presenting with constipation, pallor, and Burton's lines (blue stippled lines on gums),most likely has lead poisoning. The most common mode of exposure to lead toxicity isthe inhalation of lead fumes.Lead poisoning occurs by lead exposure via the following modes:•Inhalation- lead fumes in gasoline and petroleum products• Ingestion- lead paint• Absorption through the skin- seen only with organic leadsThe most toxic forms of lead are lead oxide, lead carbonate, and lead arsenate. The least toxicform is lead sulfide.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements is true about lead poisoning?",
+      "options": {
+        "A": "Signs and symptoms occur when blood lead levels &gt;70mcg/dL",
+        "B": "It inhibits ALA synthase enzyme",
+        "C": "Wrist drop is the earliest sign",
+        "D": "Lead competes with magnesium ions"
+      },
+      "correct_answer": "A",
+      "explanation": "The signs and symptoms of lead poisoning occur only when the blood lead levels exceed70mcg/dL, which is known as the threshold phenomenon.Lead poisoning is also known as plumbism/ Saturnism/ painter's colic.697",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 7,
+      "question": "You are screening the workers in a battery manufacturing factory for exposure to lead. Whichof the following screening test will you use?",
+      "options": {
+        "A": "Blood lead levels",
+        "B": "Coproporphyrin in urine",
+        "C": "Cotinine levels in urine",
+        "D": "Blood ALA levels"
+      },
+      "correct_answer": "B",
+      "explanation": "The screening test used for estimating lead exposure is the measurement of coproporphyrin inurine.Diagnosis of lead poisoningNote: Cotinine is the primary metabolite of nicotine and is currently considered the bestbiomarker for tobacco smoke exposure (both active and passive).Laboratory parameterCoproporphyrin in urineAminolevulinic acid (ALA) inurineLead in bloodLead in urineBasophilic stippling of RBCsValue>150 mcg/L>5 mg/LRemarksScreening test- indicates exposureIndicates lead absorption>70 mcg/dL0.8 mg/LClinical symptoms appearIndicates lead absorptionSensitive indicator",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 8,
+      "question": "692Barosinusitis is likely to be seen in which of the following patients?",
+      "options": {
+        "A": "A person who is suffering from mountain sickness",
+        "B": "A patient Infected by gas-forming bacteria",
+        "C": "A patient diagnosed with Aspergillus sinusitis",
+        "D": "A diver who developed decompression sickness"
+      },
+      "correct_answer": "D",
+      "explanation": "Barosinusitis occurs in decompression sickness or Caisson's disease. It is due to the suddenexpansion of air in the sinuses.It can be seen in:•Divers who ascend rapidly from deep-sea (high pressure) to the surface of the earth (lowpressure)Pilots of unpressurized aircraft or mountaineers who rapidly ascended from the surface of theearth (high-pressure zone) to a high altitude (low-pressure zone)Under high pressure, gases get compressed, and their solubility increases. When a person is indeep-sea (high-pressure zone) for a long time, an increased amount of nitrogen gets dissolved inhis body. When he suddenly comes back to the surface (atmospheric pressure or a low-pressurezone), the solubility of gases decreases and they escape from the dissolved state forming nitrogenbubbles.These bubbles can cause sudden expansion of air in various parts of the body such as the middleear (barotitis), sinuses (barosinusitis), beneath teeth (barodontalgia), intestinal loops (abdominaldistension), and emphysema.Nitrogen bubbles can also cause chokes (dyspnoea), bends (joint pain), and prickles (nerveirritation).698The definitive treatment for Caisson's disease is recompression.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 9,
+      "question": "Workers working at which of the following industries require periodical examination on adaily basis?",
+      "options": {
+        "A": "Dichromate",
+        "B": "Lead",
+        "C": "Dyes",
+        "D": "Radon"
+      },
+      "correct_answer": "A",
+      "explanation": "Workers handling irritant chemicals like dichromates require periodical examination on a dailybasis.Most occupational exposures require an annual periodical examination. Certain exposures likelead, radon, and dyes require monthly periodical examination.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 10,
+      "question": "Serial chest X-rays of an elderly man reveal progressive massive fibrosis. Which of thefollowing pneumoconiosis is associated with this?",
+      "options": {
+        "A": "Asbestosis",
+        "B": "Byssinosis",
+        "C": "Anthracosis",
+        "D": "Bagassosis"
+      },
+      "correct_answer": "",
+      "explanation": "Progressive massive fibrosis (PMF) is associated with anthracosis. PMF classically develops inanthracosis and silicosis.Exposure to coal dust causes progressive lung injury called anthracosis. Initially, it manifests assimple coal worker pneumoconiosis, which occurs after exposure for 10-12 years and is reversible.Later, it can progress to progressive massive fibrosis (PMF) which is irreversible.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 11,
+      "question": "Bronchoalveolar lavage from a patient with pneumoconiosis showed Micropolyspora faeni.What is the diagnosis?",
+      "options": {
+        "A": "Woodworker's lung",
+        "B": "Bird fancier's lung",
+        "C": "Farmer's lung",
+        "D": "Malt worker's lung693"
+      },
+      "correct_answer": "C",
+      "explanation": "Farmer's lung is a hypersensitivity pneumonitis caused by thermophilic actinomyceteslike Saccharopolyspora rectivirgula (formerly known as Micropolyspora faeni). It occurs due toinhalation of moldy hay and grains causing an immunological reaction.Woodworker's lung is a hypersensitivity pneumonitis caused by Alternaria species, and Bacillussubtilis in persons exposed to oak, cedar, pine, and mahogany dust.Bird fancier's lung is caused by proteins derived from birds like pigeons and parakeets in personsexposed to their feathers and droppings.Malt worker's lung is caused by Aspergillus species in persons exposed to barley.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following does not belong to the 4 P's of occupational dermatitis?",
+      "options": {
+        "A": "Pre-selection check-up",
+        "B": "Post-selection check-up",
+        "C": "Protection",
+        "D": "Personal hygiene"
+      },
+      "correct_answer": "B",
+      "explanation": "Post-selection check-up does not belong to the 4 P's of occupational dermatitis.The 4 P's help in the prevention of occupational dermatitis, which include:• Pre-selection check-up• Protection• Personal hygiene• Periodic inspection699",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following statements is true about occupational cancer?",
+      "options": {
+        "A": "Age of incidence is same as compared to general population for the same cancer",
+        "B": "The localization of the tumor is variable within a particular industry",
+        "C": "The most common occupational cancer is squamous cell carcinoma",
+        "D": "Onset of cancer does not occur after the person has left the industry"
+      },
+      "correct_answer": "",
+      "explanation": "The most common occupational cancer is squamous cell carcinoma of the skin. It is associatedwith exposure to radiation, dyes, and coal tar.In occupational cancers, the age of incidence of cancer is earlier than that in the generalpopulation, affected by the same cancer type. The onset of cancer can occur even after leaving theindustry. The localization of the cancer is remarkably constant for a particular industry.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 14,
+      "question": "Cystoscopy performed on a patient with painless hematuria showed a fungating mass in thebladder. Exposure to all of the following agents can cause this disease except:",
+      "options": {
+        "A": "Benzol",
+        "B": "Cyclophosphomide",
+        "C": "Auramine",
+        "D": "Magenta"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of bladder carcinoma. Benzol does not cause bladdercancer, it causes leukemia.Bladder carcinoma is associated with exposure to aniline dyes like benzidine,beta-naphthylamines, auramine, magenta, and drugs like cyclophosphamide.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 15,
+      "question": "A young woman is being evaluated for infertility. She gives a history of being employed in theprinting industry. Exposure to which of the following is likely to cause this situation?",
+      "options": {
+        "A": "Lead",
+        "B": "Selenium",
+        "C": "Mercury",
+        "D": "Berrylium694"
+      },
+      "correct_answer": "A",
+      "explanation": "A woman working in the printing industry is likely to suffer from infertility due to lead toxicity.More industrial workers are exposed to lead than to any other toxic metal. Occupational exposureto lead is seen in several industries including the manufacturing of storage batteries, glass,shipbuilding, printing, potteries, and rubber industries.The effects of lead poisoning include abdominal colic, blue-line on the gums (Burton's line),stippling of red cells, anemia, wrist &amp; foot drop, headache, and convulsions. In young orpregnant women, prolonged lead exposure can cause miscarriage, stillbirth, premature birth, andlow birth weight.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is not a personal protective equipment?",
+      "options": {
+        "A": "Goggles",
+        "B": "Gloves",
+        "C": "Face shield",
+        "D": "Lab coat"
+      },
+      "correct_answer": "D",
+      "explanation": "A lab coat is not a personal protective equipment.Personal Protective Equipment (PPE) are:• Gloves — protect hands.• Gowns/ aprons - protect skin and clothing.•• Masks protect the mouth/nose and respirators protect the respiratory tract from airborneinfectious agents.Goggles - protect eyes.• Face shields protect face, mouth, nose, and eyes.700701",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Occupational Health Diseases"
+    }
+  ]
+}

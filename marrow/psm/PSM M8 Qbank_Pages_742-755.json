@@ -1,0 +1,365 @@
+{
+  "chapter": "Healthcare In India",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not included in the secondary level of the healthcare system?",
+      "options": {
+        "A": "Community health centres",
+        "B": "Medical colleges",
+        "C": "District hospitals",
+        "D": "Sub-district hospitals"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is not an element of primary healthcare?",
+      "options": {
+        "A": "Prevention of locally endemic diseases",
+        "B": "Safe water supply and sanitation",
+        "C": "Providing physical rehabilitation",
+        "D": "Providing essential drugs"
+      },
+      "correct_answer": "",
+      "explanation": "748Providing physical rehabilitation is not an element of primary health care. Primary health centers(PHCs) are only responsible for the popularization and mainstreaming of PMR in the community.Primary health care refers to essential health care made universally available to individuals andacceptable to them, through their full participation and at a cost the community and country canafford.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 3,
+      "question": "All of the following are pillars of primary health care except:",
+      "options": {
+        "A": "Health education",
+        "B": "Intersectoral coordination",
+        "C": "Appropriate technology",
+        "D": "Equitable distribution"
+      },
+      "correct_answer": "B",
+      "explanation": "Health education is an element of primary health care, not a pillar.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statement is false regarding ASHA workers?",
+      "options": {
+        "A": "Few of their responsibilities are integrated with Anganwadi workers",
+        "B": "They should have formal education at least up to class 10",
+        "C": "A population of 1000 should have at least 1 ASHA742",
+        "D": "They have to procure ORS, OCPS, IFA tablets from CHC"
+      },
+      "correct_answer": "D",
+      "explanation": "Accredited social health activist (ASHA) workers do not need to procure supplies from CHCs.They only act as depot holders for certain essential supplies so that they are readily available totheir community.These essential supplies may include ORS, contraceptives, iron-folic acid tablets, chloroquine,disposable delivery kits, oral contraceptive pills, condoms, etc.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is incorrect regarding Anganwadi workers?",
+      "options": {
+        "A": "One AWW serves a population of 5000",
+        "B": "They are appointed under the ICDS scheme",
+        "C": "They link the community with the health services",
+        "D": "Their responsibilities include counsel for immunization, health education, and nutrition"
+      },
+      "correct_answer": "",
+      "explanation": "The norm is one Anganwadi worker (AWW) per 400-800 population.Anganwadi workers (AWW) are allotted under the integrated child development services (ICDS).AWW are selected from the community they are to serve and act as links between the communityand health services. They are mostly part-time workers.•Responsibilities of an AWW include:Health checkups and growth chart maintenance• Counsel women on birth preparedness, importance of safe delivery, immunization andcontraception and prevention of common infections including STD and RTIs.• Nutrition•Health education• Non-formal school education• Referral services",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 6,
+      "question": "One male health assistant is posted for a population of:",
+      "options": {
+        "A": "1000",
+        "B": "5000",
+        "C": "10,000",
+        "D": "30,000"
+      },
+      "correct_answer": "",
+      "explanation": "One male and female health assistant are required for a population of 30,000 in plain areas andof 20,000 in hilly or remote areas.749",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 7,
+      "question": "How many people does a Mahila Arogya Samiti member cater to?",
+      "options": {
+        "A": "50-100",
+        "B": "100-200",
+        "C": "250-500",
+        "D": "500-1000"
+      },
+      "correct_answer": "",
+      "explanation": "1 Mahila Arogya Samiti member is appointed for a population of 250-500 (covering about 50-100households).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following duties would be performed by a male health worker?",
+      "options": {
+        "A": "2,4",
+        "B": "1,3,4",
+        "C": "1,3,5",
+        "D": "2,5743"
+      },
+      "correct_answer": "A",
+      "explanation": "The duties of a male health worker include chlorination of water bodies, distribution ofconventional contraceptives, and reproductive and child health services.Maintanence of eligible couple registers (part of family planning activities) and immunization areduties of female health workers.Health workers (male and female) are 1 per 5000 in plains and 1 per 3000 in remote or hillyareas.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following is not a duty of a female health worker?",
+      "options": {
+        "A": "DOTS activities",
+        "B": "Malaria surveillance",
+        "C": "Distribution of condoms",
+        "D": "Immunization"
+      },
+      "correct_answer": "B",
+      "explanation": "Malaria surveillance activities, in accordance with the National Vector Borne Disease ControlProgramme, are the duty of a male health worker.Health workers (male and female) are 1 per 5000 in plains and 1 per 3000 in remote or hillyareas.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following are not involved in providing antenatal support to pregnant women?",
+      "options": {
+        "A": "Female health workers",
+        "B": "Trained birth attendants",
+        "C": "Female health assistants",
+        "D": "Anganwadi workers"
+      },
+      "correct_answer": "B",
+      "explanation": "Trained birth attendants or dais provide medical services during delivery and in the post-partumperiod. They cater to a population of 1000 in villages.Antenatal support is provided by the following:••Health workers (male and female) - 1 per 5000 in plains and 1 per 3000 in hilly or remote areas.• Health assistants (male and female) - 1 per 30,000 in plains and 1 per 20, 000 in remote or hillyareas.• Anganwadi workers - 1 per 400-800 in plains and 1 per 300-800 in hilly or remote areas.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 11,
+      "question": "How many people does one sub-center in a hilly or remote area cater to?",
+      "options": {
+        "A": "7000",
+        "B": "10,000",
+        "C": "30,000",
+        "D": "3000"
+      },
+      "correct_answer": "D",
+      "explanation": "A sub-center caters to a population of 5000 in general areas and 3000 in hilly or remote areas.Services provided at sub-centers:750• Maternal and child health, family planning•Counseling for abortion and adolescent health care• Water quality monitoring and sanitation promotion• Assistance to school health services•Field visits and treating minor ailments• Training of ASHA and birth attendants.• Disease surveillance and National Health Programme functions",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 12,
+      "question": "What should be the maximum number of female health workers at a sub-center?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "None744"
+      },
+      "correct_answer": "",
+      "explanation": "Two female health workers are to be at a sub-center as proposed by the Indian Public HealthStandards (IPHS).There are two types of sub-centers:• Type A - It has all facilities except for conducting deliveries. It can be upgraded to Type B.• Type B - Also called MCH sub-centers. It has delivery facilities.Indian Public Health Standards (IPHS) norms for manpower at sub-centers:*To be outsourced**If the number of deliveries >2Type of sub-centerStaffSub-centreSub-centreABEssentialDesirableEssentialDesirableANM/Health worker (female)1+121Health worker(male)1Staff nurse (or ANM, if staff1**1'nurse is not available)Safai karamchari*1(part time)1(full time)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 13,
+      "question": "As a PHC medical officer, you would be responsible for all of the following activities except:",
+      "options": {
+        "A": "Mainstreaming AYUSH and PMR",
+        "B": "Performing selected surgical procedures",
+        "C": "Formal education of children &lt; 6 years of age",
+        "D": "Collection and recording of vital events"
+      },
+      "correct_answer": "B",
+      "explanation": "Formal education is not a function of primary health centers in India.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following category of workers are not part of the workforce at PHCs?",
+      "options": {
+        "A": "Accountant cum data entry operator",
+        "B": "Radiographers",
+        "C": "Health Educator",
+        "D": "Clerks"
+      },
+      "correct_answer": "B",
+      "explanation": "751A radiographer is not a part of the manpower at a PHC. They are present in CHCs.Accountants cum data entry operators, health educators, and clerks are appointed at PHCs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 15,
+      "question": "What is the minimum number of beds a HWC-PHC is required to have?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "10"
+      },
+      "correct_answer": "A",
+      "explanation": "The minimum number of beds a HWC-PHC is required to have is 2. Per the IPHS 2022guidelines, the desirable number of beds in a HWC-PHC is 4.Note: The desirable beds will be over and above the essential beds.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 16,
+      "question": "One community health center (CHC) covers a population of:",
+      "options": {
+        "A": "30,000 to 50,000",
+        "B": "40,000 to 60,000",
+        "C": "80,000 to 1,20,000",
+        "D": "1,00,000 to 2,00,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Each community (CHC) covers a population of 80,000-1,20,000.Services provided by CHC:• Care of routine and emergency cases in medicine and surgery• Maternal, newborn, and child health• Family planning•All the functions of national health programmes•Physical medicine and rehabilitation• Oral health•School and adolescent health services• Blood storage facility•Diagnostic services• Referral services•Maternal death review (MDR)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 17,
+      "question": "745What is the minimum number of beds required in a community health center?",
+      "options": {
+        "A": "25",
+        "B": "34",
+        "C": "30",
+        "D": "20"
+      },
+      "correct_answer": "",
+      "explanation": "The minimum number of beds in a CHC is 30.The following manpower must be maintained at a CHC:752Personnel and Strength at CHCsMedicalTotal: 15/16NursingParamedicalSupport staffTotal: 64General duty MO (6 - at least2 female doctors) Public health manager (1) General surgeon (1) Physician (1)OBG (1) Pediatrician (1)Anesthetist (1) Dental surgeon (1)Ophthalmologist (1 for 5 CHCs)AYUSH MO(1)AYUSH specialist (1)Staff nurse (19) Public healthnurse* (1)ANM* (1) *Appointed through ASHA schemePharmacist (3)AYUSH Pharmacist (1)Lab technician (3) Radiographer (2)Ophthalmic assistant (1)Dresser (2)Ward boys/Nursing Orderly (5) Accountant (1)OT technician (1) Statistical assistant (2) Registration clerk (2)OPD attendant (1)Group Dstaff (19)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 18,
+      "question": "One eye surgeon can cater to how many CHCs according to Indian Public Health Standardnorms?",
+      "options": {
+        "A": "2 CHCS",
+        "B": "5 CHCs",
+        "C": "6 CHCS",
+        "D": "3 CHCs"
+      },
+      "correct_answer": "B",
+      "explanation": "One ophthalmologist is recommended by the IPHS for 5 CHCs.Personnel and Strength at CHCsMedicalTotal medical personnel: 15/16Nursing support staffGeneral duty MO (6 - at least2 female doctors) Public health manager (1) General surgeon (1) Physician (1) OBG (1) Pediatrician (1)Anesthetist (1) Dental surgeon (1)Ophthalmologist (1 for 5 CHCS)AYUSH MO(1)AYUSH specialist (1)Staff nurse (19) Public healthnurse* (1)ANM* (1) *Appointed through ASHA scheme753Personnel and Strength at CHCsParamedical support staffOther support staffPharmacist (3)AYUSH Pharmacist (1)Lab technician (3)Radiographer (2)Ophthalmic assistant (1) Dresser (2)Ward boys/Nursing Orderly (5)Accountant (1)OT technician (1) Statistical assistant (2) Registration clerk (2)OPD attendant (1) Group Dstaff (19)Total support personnel: 64",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 19,
+      "question": "Under the National Health Mission, an urban CHC for a metropolitan city caters to apopulation of how many persons?",
+      "options": {
+        "A": "50,000",
+        "B": "1 lakh",
+        "C": "2.5 lakh",
+        "D": "5 lakh"
+      },
+      "correct_answer": "D",
+      "explanation": "An urban CHC caters to a population of 5 lakh in a metropolitan city and 2.5 lakh in other cities.An urban PHC caters to a population of 50,000.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is incorrect regarding the staffing at urban primary health centers?",
+      "options": {
+        "A": "2 doctors",
+        "B": "2 staff nurses",
+        "C": "1 lab technician",
+        "D": "1 pharmacist"
+      },
+      "correct_answer": "B",
+      "explanation": "An urban primary health center will cover 50,000-60,000 population and will be staffed with:• Two doctors (one regular and one on a part-time basis)• 3 staff nurses• 1 pharmacist• 1 lab technician• 1 lady health visitor.• 4-5 ANMs (depending upon the population covered)• Other clerical and support staff and one program managerBasic functions provided are:• OPD• Basic lab diagnosis• Drug/contraceptive dispensing• Health education along with referral services*Note: The above data is according to IPHS 2017 guidelines. The revised guidelines as per IPHS2022 have been listed in the pearl attached below.754",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 21,
+      "question": "746Which of the following is the principal unit of administration in India?",
+      "options": {
+        "A": "Village",
+        "B": "Centre",
+        "C": "District",
+        "D": "Taluk"
+      },
+      "correct_answer": "C",
+      "explanation": "The principal unit of administration in India is the district under a collector.Under districts are the sub-divisions, tahsils or talukas, municipalities or corporations, villages,panchayats, etc. As of 2021, there are 748 districts in India.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following is incorrectly matched?",
+      "options": {
+        "A": "Panchayat - Village level",
+        "B": "Panchayat Samiti - Block level",
+        "C": "Zilla Parishad - District level",
+        "D": "Janpada Panchayat - Village level"
+      },
+      "correct_answer": "D",
+      "explanation": "The Panchayat Samiti or Janpada Panchayat operates at the block level.Panchayati Raj is a three-tier structure of rural self-government in India. It operates at thefollowing levels:• Panchayat at the village level (includes Gram Sabha, Gram Panchayat, and Nyaya Panchayat)•Panchayat Samiti or Janpada Panchayat at the block level• Zilla Parishad at the district level",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 23,
+      "question": "Community or village health guides are selected by:",
+      "options": {
+        "A": "ASHA",
+        "B": "Medical officer-in-charge",
+        "C": "Female health assistant",
+        "D": "Zila parishad"
+      },
+      "correct_answer": "B",
+      "explanation": "Village health guides (VHGs) are selected by the medical officer-in-charge (MO).2-3 candidates are put forward by the community for the position of a VHG. The MO selects oneof them after consultation with the block development officer and field staff.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    },
+    {
+      "q_no": 24,
+      "question": "As a PHC medical officer, you would keep all of the following in mind while selecting a villagehealth guide except:",
+      "options": {
+        "A": "They must be above 45 years of age",
+        "B": "They must be a resident of the community that they will serve",
+        "C": "They must be educated up to 6th grade",
+        "D": "They should be able to spare 2-3 hours in a day for community work747"
+      },
+      "correct_answer": "A",
+      "explanation": "Village health guides (VHG) are chosen by the medical officer-in-charge (including PHC MO). Ageis not a criterion for selection.The VHG scheme was introduced in 1977. Guidelines for choosing a VHG include:•They can be of either sex but must be residents of the village•They must know to read and write and have education up to 6th grade• They must be able to spare around 2-3 hours a day for community work• They must be acceptable to all parts of the communityVHGs are trained for 2-3 months before beginning work. The norm is to have 1 VHG per 1000population.755",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Healthcare In India"
+    }
+  ]
+}

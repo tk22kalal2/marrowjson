@@ -1,0 +1,260 @@
+{
+  "chapter": "Descriptive Statistics II - Measures of Location",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a measure of location?",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Percentile"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 2,
+      "question": "The mean can be calculated only if data is on:",
+      "options": {
+        "A": "Interval scale",
+        "B": "Dichotomous scale",
+        "C": "Nominal scale",
+        "D": "Ordinal scale"
+      },
+      "correct_answer": "A",
+      "explanation": "The mean can be worked out only for quantitative values. Thus, it can be calculated for intervalor ratio scale data.A dichotomous scale is a type of nominal scale data that can take only two values. Example: Male/Female. For nominal scale data, the preferred measure of central tendency is mode. For ordinalscale data, both median and mode can be calculated.Median can be derived from ordinal, interval and ratio data scales. Mode can be derived from allscales of data- nominal, ordinal, interval and ratio.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 3,
+      "question": "During a school health survey on malnutrition, the children are arranged according toascending order of their heights. Which of the following can be obtained by thisarrangement?",
+      "options": {
+        "A": "Arithmetic mean",
+        "B": "50th centile",
+        "C": "Geometric mean",
+        "D": "Mean deviation"
+      },
+      "correct_answer": "B",
+      "explanation": "The 50th centile can be obtained when values are arranged in order and the central value ispicked out. This is the same as the median.In a distribution that has an odd number of elements, the median is the middle value.812In a distribution that has an even number of elements, the median is the average of the middlevalues, i.e., the arithmetic mean of the two middle values.An example of how to calculate the median of an odd and an even number of elements is givenbelow.1, 3, 3, 6, 7, 8, 9Median = 61, 2, 3, 4, 5, 6, 8, 91,2,3,6,8,9Median =(4+5) ÷ 2= 4.5Option C: Geometric mean is obtained by taking the arithmetic mean of values on a logarithmicscale.Option D: Mean deviation is a measure of dispersion. The average of deviations from thearithmetic mean gives the mean deviation.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp3_img1_69c0776d.jpeg",
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following can have more than one value?",
+      "options": {
+        "A": "Median",
+        "B": "Harmonic mean806",
+        "C": "Mode",
+        "D": "Geometric mean"
+      },
+      "correct_answer": "",
+      "explanation": "The mode of a given sample can have more than one value. It is the most frequently occurringvalue in a distribution.For example, in the sample [1, 3, 6, 6, 6, 6, 7, 7, 12, 12, 17], the most repeated value i.e., the modeis 6.For the list of data [1, 1, 2, 4, 4], the mode is 1 and 4. Therefore, the mode is not unique. Thisdataset may be said to be bimodal, while a set with more than two modes may be described asmultimodal.Median can have only one value, obtained by arranging values in order and then picking out thecentral value. In a sample with an even number of elements, median is obtained by taking theaverage of the middle 2 elements.Mean can only have a single value. The harmonic mean is the reciprocal of the arithmetic mean ofthe reciprocals of the data values. The geometric mean is obtained by taking the arithmetic meanof values on a logarithmic scale.813",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 5,
+      "question": "While collecting data on which of the following variables would median not be the preferredmeasure of central tendency?",
+      "options": {
+        "A": "Blood presssure",
+        "B": "Survival time",
+        "C": "Incubation period",
+        "D": "Health expenses"
+      },
+      "correct_answer": "",
+      "explanation": "Blood pressure usually forms a normal symmetrical distribution for which mean is the preferredmeasure of central tendency.Distributions of survival time, incubation period and health expenses have the probability ofhaving extreme values, i.e., outliers. Thus, they form skewed distributions and in suchcases, median is the preferred measure of central tendency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is true for the given distribution of ages of patients who are visiting afamily planning clinic in a day?",
+      "options": {
+        "A": "Mean is 30",
+        "B": "Mode is 15",
+        "C": "Median is 15",
+        "D": "Median is 28"
+      },
+      "correct_answer": "A",
+      "explanation": "The arithmetic mean from the following data is given by the sum of all the values, 270 divided bythe number of values, 9 = 30.The data can be arranged in ascending order as 20, 25, 28, 31, 31, 31, 31, 35, 38.After arranging in order, the median is obtained by picking out the central value which is 31.The mode is the most frequently occurring value, which is 31 here.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 7,
+      "question": "You are conducting a study on birth weights in your hospital. Out of 11 births, 5 babiesweighed over 2.5 kg, one baby weighed 2.5 kg and 5 weighed less than 2.5 kg. What does thevalue 2.5 represent in this distribution?",
+      "options": {
+        "A": "Arithmetic Mean",
+        "B": "Geometric Mean",
+        "C": "Median",
+        "D": "3rd quartile"
+      },
+      "correct_answer": "",
+      "explanation": "Out of the 11 birth weights, 2.5 kg would represent the middle value or the median. 5 babies weighmore than 2.5 kg and 5 less than that.This can be understood from the image below.50% 50%medianOption A: Mean or arithmetic mean is the average value. In this case, the mean is the averageall the 11 values. It need not be 2.5.ofOption B: Geometric mean is obtained by taking the arithmetic mean of values on a logarithmicscale.814Option D: Quartile is a measure of position, where the data is divided into four equal sets. 3/4 ofthe values are below the 3rd quartile reading. Hence, it cannot be the central reading.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp7_img1_f0e3d67d.jpeg",
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 8,
+      "question": "807You are conducting an epidemiological study on malaria in a town X. The number of casesreported during the last 10 years is given below. What is the most appropriate measure ofcentral tendency for this data?",
+      "options": {
+        "A": "Arithmetic Mean",
+        "B": "Mode",
+        "C": "Median",
+        "D": "Geometric Mean"
+      },
+      "correct_answer": "",
+      "explanation": "In this scenario, median is the preferred measure of central tendency as there are outliers.The value of 5000 is an outlier in the given set, i.e., an observed value which is very distant fromother observations in the distribution. This indicates the usage of median as the measure ofcentral tendency as it is not sensitive to extreme values, unlike the mean.By arranging the data in order: 100, 160, 190, 250, 260, 300, 320, 320, 350, 5000, we get themedian as (260 + 300)/2 = 280.Options A and B: Mean is the most affected by the presence of outliers. Mode is the least affectedby outliers but it is used mainly for measuring the central tendency of nominal data.Option D: Geometric mean can be used for datasets with extreme values but it is not used whenthe values can be zero or negative. In the given scenario, the number of malaria cases reported ina town can also have a zero value.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 9,
+      "question": "During a school health assessment, the mean value of weight for a group of 10 boys was foundto be 18.2 kg. Later, it was found that the weight of one of the boys was wrongly recorded as2.0 kg instead of 20 kg. What is the true mean weight of the group?",
+      "options": {
+        "A": "20 kg",
+        "B": "20.2 kg",
+        "C": "16.4 kg",
+        "D": "18.2 kg"
+      },
+      "correct_answer": "A",
+      "explanation": "The true mean weight of the group is 20 kg.Mean is given as x■ = Σx / n, where n is the number of elements and Ex denotes the sum of all theelements in the series.In this scenario, the incorrect mean is 18.2, i.e.,Σx 10 = 18.2, making Σx = 182.Ex /But this is incorrect as one of the 10 weights was wrongly recorded as 2 instead of 20.The corrected Σx = (Incorrect Σx - incorrect value) + correct value.The incorrect sum of all elements = 182, incorrect value =2 and the correct value = 20.Thus, the correct sum of all the 10 weights would be,Ex = (182 – 2) + 20 = 200.From this, the correct mean value of the 10 weights can be given by:Ex / 10 = 200/ 10 = 20.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q9_img1_cf9808fd.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following statements is correct about the given distribution of ages of patientsattending a geriatric medicine clinic?",
+      "options": {
+        "A": "Mode is 70, 76",
+        "B": "Median is 80",
+        "C": "Mode is 73",
+        "D": "Median is 76, 80"
+      },
+      "correct_answer": "A",
+      "explanation": "For the given dataset, the modes are 70 and 76. The mode is the most frequently occurring value.It can have multiple values. In this scenario, the values 70 and 76 have been repeated twice.815Median of this distribution is the central value, (76 + 80) / 2 = 78.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 11,
+      "question": "The smoking history for the past 6 years of a patient with emphysema is given in the tablebelow. If a pack has 20 cigarettes, what is the mean, median and mode of the given data?",
+      "options": {
+        "A": "16, 10, 15",
+        "B": "16, 10, 10",
+        "C": "10, 10, 15808",
+        "D": "16, 15, 10"
+      },
+      "correct_answer": "B",
+      "explanation": "The distribution in this scenario in terms of the number of cigarettes smoked is 5, 10, 10, 10, 20,40.The mean here is Σx/n = 95/6 = 15.833 rounded off to 16.The median here is the central value = average of 3rd and 4th values since the distribution has aneven number of values. This comes to (10 + 10) / 2 = 10.The mode here is 10 which has a frequency of 3 in the given dataset.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 12,
+      "question": "While reviewing a data distribution, you find that the highest value of 58 was wronglyrecorded as 85 and so you correct it. How will this correction change the measures of centraltendency?",
+      "options": {
+        "A": "No change in mean, decreased median",
+        "B": "Decreased mean, no change in median",
+        "C": "Decreased mean, Decreased median",
+        "D": "Decreased mean, increased median"
+      },
+      "correct_answer": "",
+      "explanation": "The given change in a dataset would cause a decrease in the mean but the median would remainunchanged.The mean is sensitive to every value in the distribution. Since the correct value of 58 is muchlesser than the wrongly recorded value of 85, the final mean will be decreased compared to theearlier recorded value.However, as only the highest value was wrongly recorded, the median i.e., the central value, willremain the same.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 13,
+      "question": "While conducting a study on the age at death in males of a population Y, the distributioncurve given below is obtained. Which of the following is true?",
+      "options": {
+        "A": "2 &amp; 5",
+        "B": "1 &amp; 3",
+        "C": "1, 3 &amp; 4",
+        "D": "2,4 &amp; 5"
+      },
+      "correct_answer": "",
+      "explanation": "The given image shows a negatively skewed or a left-skewed distribution curve. Here, mean &lt;median &lt; mode.Mode is the most frequently occurring value in the distribution and is given by the highest pointof the graph. Since the given graph has only one peak, it is unimodal.A positively skewed distribution refers to a right-skewed distribution. In such cases, mean &gt;median &gt; mode.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q13_img1_bfd558ff.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 14,
+      "question": "809Which of the following sets of measures of central tendency is likely to match the distributiondepicted in the given image?0.40.3-0.20.1-001 2 34 5 6 7 8 910",
+      "options": {
+        "A": "Median=3, mode = 1, mean = 2",
+        "B": "Mean = 3, median = 2, mode= 1",
+        "C": "Mode= 3, median = 2, mean = 1",
+        "D": "Mean = 3, mode = 2, median = 1"
+      },
+      "correct_answer": "",
+      "explanation": "The given image is of a right-skewed or positively skewed distribution. So, among the givenoptions, the most likely values of mean = 3, median = 2, and mode = 1.We can tell the direction of skew of a distribution by observing the direction of the tail. Here, thetail of the distribution is towards the positive direction and thus it is positively skewedor right-skewed. In a positively skewed distribution, mean &gt; median &gt; mode.816If the tail of the distribution is towards the negative direction, the distribution would be negativelyskewed or left-skewed. In such distributions, mode &gt; median &gt; mean.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q14_img1_7f335dd5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 15,
+      "question": "You are conducting a study on blood pressure in a population. The systolic blood pressurevalues have a mean of 130 mmHg, a median of 140 mmHg and mode of 160 mmHg. Whattype of distribution is this?",
+      "options": {
+        "A": "Unimodal symmetrical distribution",
+        "B": "Positively skewed distribution",
+        "C": "Negatively skewed distribution",
+        "D": "Bimodal asymmetric distribution"
+      },
+      "correct_answer": "",
+      "explanation": "This is a unimodal negatively skewed distribution.In this scenario, the mean of 130 mmHg is less than the median of 140 mmHg which is less thanmode of 160mmHg. Since mean&lt;median&lt;mode, this is an asymmetrical negatively skewed orleft-skewed distribution.It is a unimodal distribution as there is only a single value for mode.In a symmetrical distribution, the mean = median = mode.In a positively skewed distribution, mean &gt; median &gt; mode.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 16,
+      "question": "The mean of a dataset is 2 and the median is 3. What is the mode?",
+      "options": {
+        "A": "5",
+        "B": "2.5810",
+        "C": "4",
+        "D": "3"
+      },
+      "correct_answer": "",
+      "explanation": "As the mean median, this is an asymmetric distribution and so we can use the formula:Mode 3 median - 2 mean.=Using the given values, mode = (3x3) - (2x2) = 9 − 4 = 5.A distribution is termed symmetric when the mean, median and mode coincide i.e., mean=median= mode.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    },
+    {
+      "q_no": 17,
+      "question": "Study A(red) and Study B(blue) done in a given population yields two different distributioncurves as shown below. Comparing both the curves, which of the following will be true?",
+      "options": {
+        "A": "Mean mode = median=",
+        "B": "Mean = median, not equal to mode",
+        "C": "Mean, median, mode not equal",
+        "D": "Mode median, not equal to mean=OMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "On comparing the 2 graphs, we can say mean=median for both study A and B but the mode isdifferent.Study A is a unimodal symmetrical distribution, so mean=median=mode.Study B is a bimodal distribution. Here, mean=median, but the curve has two highest points,therefore it has 2 modes.817",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q17_img1_5c4930c1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics II - Measures of Location"
+    }
+  ]
+}

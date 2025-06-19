@@ -1,0 +1,380 @@
+{
+  "chapter": "History of Medicine",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The origin of social and preventive medicine dates back to the:",
+      "options": {
+        "A": "17th century",
+        "B": "18th century",
+        "C": "16th century",
+        "D": "19th century"
+      },
+      "correct_answer": "C",
+      "explanation": "The origin of social and preventive medicine indeed dates back to the 16th century.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 2,
+      "question": "Which medicine claims to be the world's first organized body of medical knowledge?",
+      "options": {
+        "A": "Indian",
+        "B": "Chinese",
+        "C": "Egyptian",
+        "D": "Mesopotamian"
+      },
+      "correct_answer": "B",
+      "explanation": "Chinese medicine claims to be the world's first organized body of medical knowledge. It dates back to 2700 B.C. They are also considered to be the pioneers of immunization (used variolation against smallpox). Modern Chinese medicine includes barefoot doctors and acupuncture.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 3,
+      "question": "All of the following are true about the ministry of AYUSH except:",
+      "options": {
+        "A": "It was formed in 2014 in India for education and research on AYUSH",
+        "B": "It aims to mainstream AYUSH as part of the National Rural Health Mission",
+        "C": "It was previously known as the department of Indian system of medicine and homeopathy",
+        "D": "It regulates the fields of Ayurveda, Yoga, Homeopathy, and Siddha only"
+      },
+      "correct_answer": "D",
+      "explanation": "The Ministry of AYUSH was established to regulate the fields of Ayurveda, Yoga, Naturopathy, Unani, Siddha, and Homeopathy. It was formed in 2014 in India for the development of education and research in AYUSH. It was previously known as the Department of Indian System of Medicine and Homeopathy (ISM&H). It aims to mainstream AYUSH as part of the National Rural Health Mission (NRHM). The Ayurveda, Siddha, and Yoga systems of medicine are of Indian origin. Ayurveda means knowledge of life. Its origin can be traced back to 5000 B.C. (Vedic times). The medical knowledge in the Atharvaveda eventually developed into Ayurveda. The Unani system is of Greek origin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 4,
+      "question": "Samuel Hahnemann is referred to as the founding father of:",
+      "options": {
+        "A": "Ayurveda",
+        "B": "Homeopathy",
+        "C": "Unani",
+        "D": "Naturopathy"
+      },
+      "correct_answer": "B",
+      "explanation": "Samuel Hahnemann is the founding father of homeopathy. He was German. There are 3 principles in homeopathy: Similia similibus curentur or human drug pathogenicity study: Treatment of disease using small amounts of drug that, in healthy people, would produce similar symptoms of the disease itself. A single medicine is used for the treatment. The minimum dose of the drug should be used. Scientist/Doctor Susruta, Hippocrates, Charaka, Avicenna, Andreas Vesalius, Hammurabi Achievements: Father of Indian Surgery, Father of Plastic and Cosmetic Surgery, Author of 'Susruta Samhita', First True Epidemiologist, Father of Medicine, Author of 'Airs, Water and Place', Father of Indian Medicine, Author of 'Charaka Samhita', Author of 'Canon of Medicine' and 'The Book on Healing', Father of Modern Anatomy, Author of 'Fabrica', Author of 'Babylonian Code of Hammurabi', Father of Epidemiology. John Snow, Louis Pasteur, Robert Koch / Ferdinand Cohn: Father of Bacteriology. Samuel Hahnemann: Father of Homeopathy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp4_img1_3d10d4a3.jpeg",
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 5,
+      "question": "The Tridosha theory of disease explains disease as a disturbance in the equilibrium of the three humors. To which system of medicine does this theory belong to?",
+      "options": {
+        "A": "Ayurveda",
+        "B": "Homeopathy",
+        "C": "Siddha",
+        "D": "Unani – Tibb"
+      },
+      "correct_answer": "A",
+      "explanation": "Tridosha theory of disease belongs to Ayurveda. It explains disease as a disturbance in the equilibrium of the three humors, namely: Vata (wind), Pitta (gall), and Kapha (mucus). A healthy person has a perfect balance of these humors. This theory is similar to the Unani-tibb system of medicine, which is based on four humors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 6,
+      "question": "Which system of medicine originated in Tamil-speaking areas in south India?",
+      "options": {
+        "A": "Ayurveda",
+        "B": "Naturopathy",
+        "C": "Unani Tibb",
+        "D": "Siddha"
+      },
+      "correct_answer": "D",
+      "explanation": "The Siddha system of medicine originated from Tamil culture. It means achievement. This system believes that sociodemographic, psychological, and physiological factors related to a person must be taken into account while deciding the medical treatment. They believe that disease is a disturbance in the equilibrium of three humors called vaadham, pittam, and kapham.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 7,
+      "question": "Where did the Unani-Tibb system of medicine originate?",
+      "options": {
+        "A": "Egypt",
+        "B": "China",
+        "C": "Greece",
+        "D": "Mesopotamia"
+      },
+      "correct_answer": "C",
+      "explanation": "The Unani-Tibb system of medicine originated in ancient Greece. The Greeks believed that matter was made up of four elements. These elements had certain qualities that were represented in the body by the 4 humors and also determined the person's temperament. Element Qualities Humors Temperament Earth Cold Phlegm Phlegmatic Air Dry Yellow bile Choleric Fire Hot Blood Sanguine Water Moist Black bile Melancholic",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 8,
+      "question": "Inoculating a person with a small amount of infective material to obtain protection against itwas first pioneered by:",
+      "options": {
+        "A": "Robert Koch",
+        "B": "Edward Jenner6",
+        "C": "Louis Pasteur",
+        "D": "Chinese medicine"
+      },
+      "correct_answer": "D",
+      "explanation": "The procedure described is immunization. It was first pioneered in ancient Chinese medicine.They practiced variolation to prevent smallpox.Note: Edward Jenner discovered the smallpox vaccine in 1796, the first vaccine to bediscovered. He also coined the term vaccination.14Scientist/ DoctorSusrutaHippocratesCharakaAvicennaAndreas VesaliusHammurabiAchievementsFather of Indian SurgeryFather of Plastic and Cosmetic SurgeryAuthor of “Susruta Samhita\"First True EpidemiologistFather of MedicineAuthor of \"Airs, Water and Place\"Father of Indian MedicineAuthor of \"Charaka Samhita\"Author of \"Canon of Medicine\" and \"The Book on Healing\"Father of Modern AnatomyAuthor of \"Fabrica\"Author of \"Babylonian Codeof Hammurabi”John SnowFather of EpidemiologyLouis Pasteur Robert Koch /Ferdinand CohnFather of BacteriologySamuel HahnemannFather of Homeopathy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 9,
+      "question": "Who is referred to as the father of Indian medicine?",
+      "options": {
+        "A": "Susruta",
+        "B": "Charaka",
+        "C": "Chanakya",
+        "D": "Vagbhata"
+      },
+      "correct_answer": "B",
+      "explanation": "Charaka is the father of Indian medicine. He wrote the Charaka Samhita. Note: Susruta is known as the father of Indian surgery. He is depicted in the following image. ANCIENT HINDA SUSRUTA15 Scientist/ Doctor Susruta Hippocrates Charaka Avicenna Andreas Vesalius Hammurabi Achievements Father of Indian Surgery Father of Plastic and Cosmetic Surgery Author of “Susruta Samhita” First True Epidemiologist Father of Medicine Author of “Airs, Water and Place” Father of Indian Medicine Author of “Charaka Samhita” Author of “Canon of Medicine” and “The Book on Healing” Father of Modern Anatomy Author of “Fabrica” Author of “Babylonian Code of Hammurabi” John Snow Father of Epidemiology Louis Pasteur Robert Koch / Ferdinand Cohn Father of Bacteriology Samuel Hahnemann Father of Homeopathy",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp9_img1_c49e470a.jpeg",
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 10,
+      "question": "Who was responsible for the first codification of medical practice?",
+      "options": {
+        "A": "Aristotle",
+        "B": "Hippocrates",
+        "C": "Socrates",
+        "D": "Hammurabi"
+      },
+      "correct_answer": "D",
+      "explanation": "Hammurabi, a Mesopotamian king, was responsible for the first codification of medical practice. Known as the Babylonian Code, it contained laws for the conduct of physicians, health practices, costs, and penalties of harmful therapy. Scientists/Doctors such as Susruta, Hippocrates, Charaka, Avicenna, and Andreas Vesalius, as well as Hammurabi, have notable achievements: Father of Indian Surgery, Father of Plastic and Cosmetic Surgery, author of 'Susruta Samhita', First True Epidemiologist, Father of Medicine, author of 'Airs, Water and Place', Father of Indian Medicine, author of 'Charaka Samhita', author of 'Canon of Medicine' and 'The Book on Healing', Father of Modern Anatomy, author of 'Fabrica', and author of the 'Babylonian Code of Hammurabi'. Other scientists, such as John Snow, Louis Pasteur, Robert Koch/Ferdinand Cohn, and Samuel Hahnemann, are known as the Father of Epidemiology, Father of Bacteriology, and Father of Homeopathy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 11,
+      "question": "Who is known as the first true epidemiologist in the history of medicine?",
+      "options": {
+        "A": "Hippocrates",
+        "B": "Susruta",
+        "C": "Louis Pasteur",
+        "D": "John Snow"
+      },
+      "correct_answer": "D",
+      "explanation": "Hippocrates is known as the father of medicine. He is also known as the father of epidemiology because he introduced the concept of the relationship between the environment and human health. He was the author of Airs, Water, and Places, a treatise on social medicine and hygiene as well as the Corpus Hippocraticum, a collection of 72 volumes of clinical case histories. He also developed the Hippocratic Oath, which is considered the keystone of medical ethics. However, John Snow is often considered the first true epidemiologist due to his work in tracing the source of a cholera outbreak in London. Susruta is known as the father of Indian surgery, and Louis Pasteur is known for his work in bacteriology.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp11_img1_cfe5a2d2.jpeg",
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 12,
+      "question": "Who compiled the 21-volume encyclopedia known as 'the Canon of Medicine'?",
+      "options": {
+        "A": "Andreas Vesalius",
+        "B": "Avicenna",
+        "C": "Hippocrates",
+        "D": "John Snow"
+      },
+      "correct_answer": "B",
+      "explanation": "Avicenna compiled the book, the Canon of Medicine, which is a 21-volume encyclopedia. He was a Persian who was also known as Ibn Sina. He was the leader of Arabic medicine. The Arabs invented the art of prescription writing. Avicenna, a medic, Chap. 134, sold by purchase, you may scan. Scientist/Doctor: Susruta, Hippocrates, Charaka. Achievements: Father of Indian Surgery, Father of Plastic and Cosmetic Surgery, author of 'Susruta Samhita', First True Epidemiologist, Father of Medicine, author of 'Airs, Water and Place', Father of Indian Medicine, author of 'Charaka Samhita'. Scientist/Doctor: Avicenna, Andreas Vesalius, Hammurabi. Achievements: Author of 'Canon of Medicine' and 'The Book on Healing', Father of Modern Anatomy, author of 'Fabrica', author of 'Babylonian Code of Hammurabi'. John Snow: Father of Epidemiology. Louis Pasteur, Robert Koch/Ferdinand Cohn: Father of Bacteriology. Samuel Hahnemann: Father of Homeopathy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp12_img1_73dcd7cb.jpeg",
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 13,
+      "question": "Who was the mastermind behind the great medical work, Fabrica?",
+      "options": {
+        "A": "Andreas Vesalius",
+        "B": "Ambroise Paré",
+        "C": "Joseph Lister",
+        "D": "Ferdinand Cohn"
+      },
+      "correct_answer": "A",
+      "explanation": "Andreas Vesalius' work is called the De Humani Corporis Fabrica. He is regarded as the father of modern anatomy. Andreas Vesalii was 28. Scientist/Doctor: Susruta, Hippocrates, Charaka. Achievements: Father of Indian Surgery, Father of Plastic and Cosmetic Surgery, author of 'Susruta Samhita', first true epidemiologist, Father of Medicine, author of 'Airs, Water and Place', Father of Indian Medicine, author of 'Charaka Samhita'. Scientist/Doctor: Avicenna, Andreas Vesalius, Hammurabi. Achievements: author of 'Canon of Medicine' and 'The Book on Healing', Father of Modern Anatomy, author of 'Fabrica', author of 'Babylonian Code of Hammurabi'. John Snow: Father of Epidemiology. Louis Pasteur, Robert Koch, and Ferdinand Cohn: Father of Bacteriology. Samuel Hahnemann: Father of Homeopathy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp13_img1_87e7b649.jpeg",
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 14,
+      "question": "The father of public health is:",
+      "options": {
+        "A": "Tuberculosis",
+        "B": "John Snow",
+        "C": "Cholera",
+        "D": "Hippocrates"
+      },
+      "correct_answer": "B",
+      "explanation": "The father of public health is not cholera, the disease, but rather a person. John Snow studied the epidemiology of cholera in London from 1848 to 1854 and established the role of polluted drinking water in the spread of cholera. He is called the father of modern epidemiology. He also calculated the dose of ether and chloroform as surgical anesthesia. Note: Tuberculosis is called the barometer of social welfare. Scientist/ Doctor Susruta Achievements: Father of Indian Surgery, Father of Plastic and Cosmetic Surgery, Author of 'Susruta Samhita'. Scientist/ Doctor Hippocrates Charaka Avicenna Andreas Vesalius Hammurabi Achievements: First True Epidemiologist, Father of Medicine, Author of 'Airs, Water and Place', Father of Indian Medicine, Author of 'Charaka Samhita', Author of 'Canon of Medicine' and 'The Book on Healing', Father of Modern Anatomy, Author of 'Fabrica', Author of 'Babylonian Code of Hammurabi'. John Snow: Father of Epidemiology. Louis Pasteur, Robert Koch/Ferdinand Cohn: Father of Bacteriology. Samuel Hahnemann: Father of Homeopathy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp14_img1_09955029.jpeg",
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 15,
+      "question": "Match the following scientists with their discoveries:",
+      "options": {
+        "A": "1-a, 2-b, 3-d, 4-c",
+        "B": "1-b, 2-a, 3-c, 4-d",
+        "C": "1-d, 2-c, 3-b, 4-a",
+        "D": "1-c, 2-d, 3-a, 4-b"
+      },
+      "correct_answer": "D",
+      "explanation": "The discoveries of the given scientists are as follows: \n   • John Snow - association of cholera with polluted water\n   • Edward Jenner - smallpox vaccination\n   • Louis Pasteur - the germ theory of disease\n   • James Lind - prevention of scurvy by intake of citrus fruits\n   Louis Pasteur was the first to advance the germ theory of disease, which stated that most diseases were caused by microorganisms. This theory was later expanded by Robert Koch, who put forth Koch's postulates.\n   Pasteur is also known for the following contributions: \n   • Disproved the theory of spontaneous generation\n   • Developed vaccines for rabies and fowl cholera\n   • Pioneer of techniques of pasteurization and sterilization\n   The following images show Pasteur and Lind respectively:\n   21 Sold by you purchase you may \n   JAMES LIND, M. D son, one en scammer \n   Scientist/ Doctor \n   Susruta \n   Hippocrates \n   Charaka \n   Avicenna \n   Andreas Vesalius \n   Achievements \n   Father of Indian Surgery \n   Father of Plastic and Cosmetic Surgery \n   Author of 'Susruta Samhita' \n   First True Epidemiologist \n   Father of Medicine \n   Author of 'Airs, Water and Place' \n   Father of Indian Medicine \n   Author of 'Charaka Samhita' \n   Author of 'Canon of Medicine' and 'The Book on Healing' \n   Father of Modern Anatomy \n   Author of 'Fabrica' \n   22 Scientist/ Doctor \n   Hammurabi \n   Achievements \n   Author of 'Babylonian Code of Hammurabi' \n   John Snow \n   Father of Epidemiology \n   Louis Pasteur \n   Robert Koch \n   Father of Bacteriology \n   Ferdinand Cohn \n   Samuel Hahnemann \n   Father of Homeopathy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 16,
+      "question": "Who was the architect of the Public Health Act of 1848?",
+      "options": {
+        "A": "Joseph Lister",
+        "B": "James Lind",
+        "C": "William Farr",
+        "D": "Edwin Chadwick"
+      },
+      "correct_answer": "D",
+      "explanation": "Edwin Chadwick was the architect of the Public Health Act of 1848. He was an English lawyer during the 1832 cholera epidemic. He compiled a report on the Sanitary Condition of the Labouring Population in Great Britain that eventually led to the passing of this act. It is considered a landmark act in the history of public health.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 17,
+      "question": "Identify the scientist who showed that anthrax was caused by a bacterium.",
+      "options": {
+        "A": "Robert Koch",
+        "B": "Edward Jenner",
+        "C": "James Lind",
+        "D": "John Snow"
+      },
+      "correct_answer": "A",
+      "explanation": "Robert Koch discovered that anthrax was caused by bacteria. He also discovered the causative agents of tuberculosis and cholera. He won the Nobel Prize in Physiology in 1905. He also proposed Koch's postulates, linking specific microorganisms to specific diseases. They state that the microorganism must be: Found in abundance in diseased organisms, but not in healthy organisms. Isolated from a diseased organism and grown in pure culture. Able to cause disease when inoculated into a healthy organism. Re-isolated from the diseased experimental host and identical to the original specific causative agent.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp17_img1_d1f48ec8.png",
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 18,
+      "question": "In 1902, it was discovered that malaria was transmitted by the Anopheles mosquito. Who was behind this discovery?",
+      "options": {
+        "A": "Ronald Ross",
+        "B": "Charles Alphonse Laveran",
+        "C": "Walter Reed",
+        "D": "David Bruce"
+      },
+      "correct_answer": "A",
+      "explanation": "Ronald Ross showed that malaria was transmitted by the Anopheles mosquito. Option B: Charles Alphonse Laveran discovered the malarial parasite. Option C: Walter Reed showed that yellow fever is transmitted by the Aedes mosquito. Option D: David Bruce showed that African sleeping sickness/trypanosomiasis is transmitted by the tsetse fly.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 19,
+      "question": "The first bacterium discovered as a cause of the disease was:",
+      "options": {
+        "A": "TB bacillus",
+        "B": "Anthrax bacillus",
+        "C": "Leprosy bacillus",
+        "D": "Plague bacillus"
+      },
+      "correct_answer": "B",
+      "explanation": "The first bacterium discovered as a cause of the disease is the leprosy bacillus. In 1873, Armauer Hansen demonstrated Mycobacterium leprae (rod-like bodies) from a leprosy nodule. This is the first time that a chronic infectious disease in humans was shown to be related to a bacillus. In 1876, Robert Koch validated the germ theory of disease after discovering the anthrax bacillus as the cause of anthrax.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 20,
+      "question": "Max Joseph von Pettenkofer described the concept of:",
+      "options": {
+        "A": "Multifactorial causation of disease",
+        "B": "Supernatural theory of disease",
+        "C": "Spontaneous generation theory",
+        "D": "Theory of web of causation"
+      },
+      "correct_answer": "A",
+      "explanation": "Pettenkofer of Munich put forth the theory of multifactorial causation of disease. Other theories of causation of disease include: • Spontaneous generation theory - given by Aristotle • Web of causation theory - given by MacMahon and Pugh • Supernatural theory of disease",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 21,
+      "question": "In which country was the last case of naturally occurring smallpox in the world recorded?",
+      "options": {
+        "A": "India",
+        "B": "Chile",
+        "C": "Somalia",
+        "D": "New Zealand"
+      },
+      "correct_answer": "C",
+      "explanation": "The last case of naturally occurring smallpox was in Somalia in 1977. The last case of smallpox occurred in 1978 when a medical photographer was accidentally exposed to the smallpox virus in a research laboratory in Birmingham. India was declared smallpox-free on 24th May 1975. The WHO declared smallpox as eradicated globally on 8th May 1980.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 22,
+      "question": "Who first coined the term social medicine?",
+      "options": {
+        "A": "John Ryle",
+        "B": "Jules Guérin",
+        "C": "Alfred Grotjahn",
+        "D": "Francis Albert Eley Crew"
+      },
+      "correct_answer": "B",
+      "explanation": "Jules Guérin coined this term as editor of the Gazette médicale de Paris. He was a French orthopaedist in the mid-1800s. Option A: John Ryle promoted social medicine in England in the early 1900s. Option C: Alfred Grotjahn described social pathology, the social factors influencing diseases. Option D: Francis Albert Eley Crew stated that social medicine stood on the pillars of medicine and sociology.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 23,
+      "question": "How would you define socialized medicine?",
+      "options": {
+        "A": "Subsidized medical care at the government's expense",
+        "B": "Free medical care provided and regulated by the government alone",
+        "C": "Free medical care at the government's expense, regulated by professional groups",
+        "D": "Integration of social medicine with healthcare"
+      },
+      "correct_answer": "C",
+      "explanation": "Socialized medicine is the provision of medical service at the government's expense but is operated and regulated by professional groups, and not the government. Russia was the first country to completely socialize medicine. Free medical care by a government alone is called state medicine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 24,
+      "question": "All of the following are true about socialized medicine except:",
+      "options": {
+        "A": "Ensures social equity and universal coverage",
+        "B": "Reduces competition among physicians",
+        "C": "Uses state funds for free medicine",
+        "D": "Promotes utilization of health facilities"
+      },
+      "correct_answer": "D",
+      "explanation": "Increasing the utilization of health services is not a component of socialized medicine. It refers to the provision of medical services through state funds; however, it is operated and regulated by professional groups. Russia was the first to completely socialize medicine. It eliminates competition among physicians as well as ensures social equity and universal health coverage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "History of Medicine"
+    },
+    {
+      "q_no": 25,
+      "question": "Who said that the secret of national health lies in the homes of people?",
+      "options": {
+        "A": "Florence Nightingale",
+        "B": "Indira Gandhi",
+        "C": "Abraham Lincoln",
+        "D": "Joseph Lister"
+      },
+      "correct_answer": "A",
+      "explanation": "Florence Nightingale said that the secret of national health lies in the homes of people. She is considered the founder of modern nursing.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp25_img1_3198dd95.jpeg",
+      "chapter_heading": "History of Medicine"
+    }
+  ]
+}

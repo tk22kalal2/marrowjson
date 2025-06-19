@@ -1,0 +1,350 @@
+{
+  "chapter": "Biomedical Waste Management",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What proportion of healthcare waste is hazardous waste?",
+      "options": {
+        "A": "15%",
+        "B": "25%",
+        "C": "50%",
+        "D": "85%"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 2,
+      "question": "Cytotoxic and expired drugs are disposed by:",
+      "options": {
+        "A": "Dumping",
+        "B": "Autoclave",
+        "C": "Incineration",
+        "D": "Chemical disinfection"
+      },
+      "correct_answer": "C",
+      "explanation": "Cytotoxic and expired drugs are collected in a yellow bag and then disposed of by incineration.Expired cytotoxic drugs are to be returned to the manufacturer and subjected to incineration,encapsulation, or plasma pyrolysis. Other discarded medicines can be disposed by incineration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following category of wastes are treated by autoclaving and microwaving?",
+      "options": {
+        "A": "Placenta, organs, blood bags",
+        "B": "Catheters, urine bags, gloves",
+        "C": "Anti neoplastic and expired drugs",
+        "D": "Culture plates, slides and tubes"
+      },
+      "correct_answer": "B",
+      "explanation": "The final treatment of catheters, urine bags, and gloves is done by autoclaving and microwaving.They belong to recyclable contaminated waste and are disposed of in a red bag.Option A: Human anatomical waste is disposed of by incineration.Option C: Cytotoxic and expired/discarded medicine is disposed of by incineration/plasmapyrolysis/disposal in a secured landfill.Option D: Microbiological waste such as culture plates and slides are pre-treated withnonchlorinated chemicals and later disposed of by incineration.671",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 4,
+      "question": "While working as a 1st-year resident in the labor ward, where would you dispose of theplacenta following a delivery?",
+      "options": {
+        "A": "Red bag",
+        "B": "Blue bag664",
+        "C": "Yellow bag",
+        "D": "Black bag"
+      },
+      "correct_answer": "",
+      "explanation": "Human anatomical wastes, like the placenta, are discarded in a yellow bag and disposed of byincineration/ plasma pyrolysis/ deep burial.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following statements are true about yellow waste disposal bags?",
+      "options": {
+        "A": "1 &amp; 2",
+        "B": "2 &amp; 4",
+        "C": "3, 4 &amp; 5",
+        "D": "1, 2 &amp; 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Yellow waste disposal bags are made from non-chlorinated plastic material and chemical liquidwastes are collected in them.Chlorinated items, glass, metal, and rubber are not sent for incineration as incinerating themwould produce carcinogenic gases.The right disposal methods of the other options are:••• Animal anatomical waste - Collected in yellow bags and later sent for incineration.Metallic body implants - Collected in cardboard boxes with blue coloured marking and sent forrecycling following autoclaving.• PVC gloves - Collected in red bags and sent for autoclaving followed by shredding.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following should not be incinerated?",
+      "options": {
+        "A": "1, 2 &amp; 3",
+        "B": "3, 4 &amp; 5",
+        "C": "1, 2 &amp; 4",
+        "D": "2 &amp; 4"
+      },
+      "correct_answer": "",
+      "explanation": "Specimens of microorganisms and live or attenuated vaccines can be incinerated.Wastes that should not be incinerated are:• Sharps• Pressurized gas containers• Reactive chemical waste• Waste with heavy metals like mercury and cadmium• PVC• Photographic or radiographic waste",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 7,
+      "question": "An orthopedic resident has removed a K-wire from the fractured olecranon of a 13-year-oldboy. Where should he discard this?",
+      "options": {
+        "A": "Cadmium-free red colored bag",
+        "B": "Cardboard box with blue marking",
+        "C": "Puncture-proof and tamper-proof white container",
+        "D": "Leak-proof and tamper-proof yellow bag"
+      },
+      "correct_answer": "",
+      "explanation": "Metallic body implants are disposed of in cardboard boxes with blue-colored markings.The contents of the blue box are sent to Common Biomedical Waste Treatment and DisposalFacility (CBWTF). In the facility, these items are sterilized by autoclaving or microwaving andthen sent for recycling.672",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 8,
+      "question": "Blood bag is to be disposed in:",
+      "options": {
+        "A": "Red bin",
+        "B": "Yellow bin665",
+        "C": "Blue bin",
+        "D": "Black bin"
+      },
+      "correct_answer": "",
+      "explanation": "Blood bag should be disposed off in the yellow bin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 9,
+      "question": "An HIV-positive man is brought to you following an accident. How wouldblood-soaked dressing material?",
+      "options": {
+        "A": "Pour 1% hypochlorite on the dressing material and send for incineration",
+        "B": "Pour 5% hypochlorite on the dressing material and send for incinerationyoudiscard his",
+        "C": "Put the dressing material directly in an appropriate bag and send for incineration",
+        "D": "Pour 10% non chlorinated chemicals on the dressing material and send for incineration"
+      },
+      "correct_answer": "B",
+      "explanation": "The blood-soaked dressing material should be disposed of in a non-chlorinated yellow bag andsent for incineration. Pretreatment is not a requisite for incinerating soiled waste.Items that require pretreatment with non-chlorinated chemicals before incineration:• Used blood bags• Other infectious plastic and liquid wastes•• Laboratory cultures, stocks, or specimens of microorganisms• Live or attenuated vaccines• Human and animal cell cultures used in research•Dishes, and devices used for cultures",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following disposal methods is not as per biomedical waste managementguidelines?",
+      "options": {
+        "A": "Disposal of a dead fetus of 21 weeks in a yellow bag by deep burial in rural areas",
+        "B": "Pre-treatment of laboratory cultures with non-chlorinated disinfectant",
+        "C": "Disposal of a glass ampoule with its cytotoxic drug through incineration",
+        "D": "Disposal of radiological waste by deep burial"
+      },
+      "correct_answer": "D",
+      "explanation": "Radiological waste is not considered biomedical waste. Hence, deep burial is not done.Disposal of radiological is covered under the provisions of the Atomic Energy Act. The radiologicaleffluents are incinerated in a dedicated incinerator having off-gas cleaning facility. Anothermethod is to convert the organic base into an aqueous form by treating it with sodium hydroxide.Option A: Dead fetuses under the age of viability are considered human anatomical waste.Anatomical waste can be disposed of by deep burial in rural areas, where a common biomedicaltreatment facility and incineration is not available.Option B: Laboratory cultures are classified under the category of microbiology, biotechnology,and other clinical laboratory waste. They are pretreated with a non-chlorinated disinfectant beforethey are sent for incineration.Option C: The cytotoxic drugs are disposed of along with their packaging, through incineration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 11,
+      "question": "You are asked to catheterize an HBsAg-positive man before hernia surgery. According to theBMW management rules, where would you dispose of the plastic cover of the catheter?",
+      "options": {
+        "A": "Yellow bag",
+        "B": "Blue bag",
+        "C": "Red bag",
+        "D": "Black bag"
+      },
+      "correct_answer": "D",
+      "explanation": "The outer plastic cover of the Foleys catheter is discarded in a black bag.Foleys catheters are packaged in plastic covers to keep them sterile. The plastic cover is notbiomedical waste but is a part of general (municipal) waste. Hence, it is discarded in the blackbag. The foleys catheter is disposed of in a red bag.673As per Bio-Medical Waste Management Rules, the general waste must be disposed of in greenbins (for recyclable waste) and blue bins (for non-recyclable waste) containing black plastic bags.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following diseases should healthcare workers involved in handling biomedicalwaste be vaccinated against?666",
+      "options": {
+        "A": "Hepatitis B alone",
+        "B": "Tetanus alone",
+        "C": "Hepatitis B and tetanus",
+        "D": "Hepatitis B, tetanus, and anthrax"
+      },
+      "correct_answer": "",
+      "explanation": "Healthcare workers involved in handling biomedical waste should be vaccinated against hepatitisB and tetanus.These are most likely to be transmitted by the handling of biomedical waste. Yearly healthcheck-ups should be done, and a booster dose should be given if needed.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 13,
+      "question": "An on-site waste treatment and disposal facility should be built in a hospital if the nearestcommon biomedical treatment facility is:",
+      "options": {
+        "A": "&gt; 25 km away",
+        "B": "&gt; 50 km away",
+        "C": "&gt;75 km away",
+        "D": "&gt;45 km away"
+      },
+      "correct_answer": "",
+      "explanation": "According to biomedical waste management rules of 2016, healthcare establishments shallestablish an on-site treatment and disposal facility only when a common biomedical treatmentfacility (CBMWTF) is more than 75 km away.According to these rules, biomedical waste (BMW) from healthcare facilities is to be transportedto a CMBWTF. The establishment of CBMWTF reduces the need for transport and cost oftreatment/kg of BMW.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following is not a high-heat system for the treatment of biomedical waste?",
+      "options": {
+        "A": "Hydroclaving",
+        "B": "Incineration",
+        "C": "Microwaving",
+        "D": "Plasma pyrolysis"
+      },
+      "correct_answer": "",
+      "explanation": "Microwaving is a low-heat system for the treatment of biomedical waste.The heating systems used for the treatment and disposal of biomedical waste are:Low-heat systemAutoclaving: Uses steam. It isof two types-Gravity flow autoclave Vacuum autoclaveMicrowaving: Uses moist heat andsteam generated by microwave energyHigh-heat systemIncineration:Waste is destroyed/denatured under high temperaturesPlasma pyrolysis:Waste is treated at high temperatures under controlled conditions to form gases that are subjected to combustion in the secondary chamberHydroclaving: The waste is subjectedto indirect heating by applying steam to the outer jacketDry heat sterilization:Waste sharps are treated using dry heatat a temperature >185 C for150 minutes674",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following disposal methods uses high temperature and dry oxidation?",
+      "options": {
+        "A": "Microwaving",
+        "B": "Autoclaving",
+        "C": "Incineration",
+        "D": "Hydroclaving"
+      },
+      "correct_answer": "C",
+      "explanation": "Incineration is a high-temperature dry oxidation process.Waste that is incinerated need not undergo any type of pre-treatment. It helps to reduce weight aswell as volume. The temperature in the incinerator is 800■C in the primary chamber and 1050 Cin the secondary chamber.•Types of incinerators:⚫ Rotary kilns•Single chamber pyrolytic• Double chamber pyrolyticThe heating systems used for the treatment and disposal of biomedical waste are:Low-heat systemAutoclaving: Uses steam. It isof two types-Gravity flow autoclaveVacuum autoclaveMicrowaving: Uses moist heat andsteam generated by microwave energyHigh-heat systemIncineration:Waste is destroyed/denatured under high temperaturesPlasma pyrolysis:Waste is treated at high temperatures under controlled conditions to form gases that are subjected to combustion in the secondary chamber Hydroclaving:The waste is subjectedto indirect heating by applying steam to the outer jacketDry heat sterilization:Waste sharps are treated using dry heatat a temperature >185 C for150 minutes",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 16,
+      "question": "In a treatment facility, which of the following cannot be used to verify the treatment ofbiomedical waste done by incineration?667",
+      "options": {
+        "A": "Bacillus atropheus",
+        "B": "Bacillus subtilis",
+        "C": "Geobacillus stearothermophilus",
+        "D": "Bacillus thuringiensis israelensis"
+      },
+      "correct_answer": "D",
+      "explanation": "Bacillus thuringiensis israelensis is not used to verify thermal methods of biomedical wastedisposal. It is a biological larvicide, used in nonpotable water for killing mosquito larvae.The following can be used to verify the adequacy of thermal methods of biomedical wastedisposal:•Bacillus atropheus• Bacillus subtilis• Geobacillus stearothermophilus",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 17,
+      "question": "At a waste treatment facility, pharmaceutical waste was mixed with cement, lime, and waterbefore disposal. What is this method known as?",
+      "options": {
+        "A": "Hydroclaving",
+        "B": "Grounding",
+        "C": "Inertization",
+        "D": "Compacting"
+      },
+      "correct_answer": "C",
+      "explanation": "675Inertization is the process of mixing biomedical waste with non-toxic substances to reduce thetoxicity of the waste and to reduce the contamination of groundwater. It is most commonly donefor incineration ash with high metal content.The typical composition of the inertization mixture is:• 65% pharmaceutical waste•15% cement• 15% lime• 5% water",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 18,
+      "question": "What is the correct combination of temperature and duration used in a hot air oven?",
+      "options": {
+        "A": "170 C for 30 mins",
+        "B": "160 C for 60 mins",
+        "C": "180 C for 30 mins",
+        "D": "190 C for 15 mins"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct combinations of temperature and duration of sterilisation in a hot air oven is:• 180°C for 30 mins• 170°C for 60 mins• 160 C for 2 hoursIt can be used to sterilize powders, glasswares, and oils.An autoclave is another apparatus that is used for sterilization. It uses steam at a temperatureof 121 C for 30 mins under 15 lbs of pressure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 19,
+      "question": "All the following are the characteristics of waste that can be incinerated except:",
+      "options": {
+        "A": "Combustible matter &gt; 60%",
+        "B": "Low heating volume",
+        "C": "Non-combustible fines &lt; 20%",
+        "D": "Non-combustible solids &gt;5%"
+      },
+      "correct_answer": "D",
+      "explanation": "Only waste material containing &lt;5% of noncombustible solids can be incinerated. Wastes thatare incinerated go in the yellow bag.Waste products with the following characteristics can be incinerated:• Combustible matter &gt;60%• Non-combustible solid &lt;5%•• Non-combustible fine &lt;20%• Low heating volume• Moisture content &lt;30%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 20,
+      "question": "Correctly match the following logos.668",
+      "options": {
+        "A": "1-c, 2-b, 3-a",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-b, 3-c",
+        "D": "1-b, 2-a, 3-c123OMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "The correctly matched logos are as shown below.6761 Biohazard2 Cytotoxic3 RadiationOMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q20_img1_06a609aa.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp20_img1_b9ac8d66.jpeg",
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 21,
+      "question": "You are working in a covid ward. After doffing, where will you dispose of the plastic coverall?",
+      "options": {
+        "A": "Red bin",
+        "B": "Black bag",
+        "C": "Yellow bin",
+        "D": "Blue bin"
+      },
+      "correct_answer": "A",
+      "explanation": "The plastic coverall used by a healthcare worker during the COVID-19 pandemic should bedisposed of in the red bin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 22,
+      "question": "An intern asks for your advice regarding the disposal of needles from the needle tip cutterafter a vaccine drive. Which of the following bins will you advise her to discard them in?",
+      "options": {
+        "A": "Yellow",
+        "B": "Red",
+        "C": "White",
+        "D": "Blue669"
+      },
+      "correct_answer": "",
+      "explanation": "Waste sharps including metals (both used, discarded, and contaminated metal sharps) are to bediscarded in the white bin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    },
+    {
+      "q_no": 23,
+      "question": "Chemical waste is disposed inbags.",
+      "options": {
+        "A": "Yellow",
+        "B": "White",
+        "C": "Red",
+        "D": "Green"
+      },
+      "correct_answer": "",
+      "explanation": "Chemical waste is disposed of in yellow-colored containers or non-chlorinated plastic bags.677",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Biomedical Waste Management"
+    }
+  ]
+}

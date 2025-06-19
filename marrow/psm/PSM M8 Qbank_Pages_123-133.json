@@ -1,0 +1,230 @@
+{
+  "chapter": "Epidemiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the host in which a parasite passes through its sexual stages of maturity called?",
+      "options": {
+        "A": "Obligate host",
+        "B": "Definitive host",
+        "C": "Intermediate host",
+        "D": "Secondary host"
+      },
+      "correct_answer": "B",
+      "explanation": "The definitive host is the host in which a parasite reaches sexual maturity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 2,
+      "question": "For which of the following diseases is man the dead-end host?",
+      "options": {
+        "A": "Measles, yellow fever",
+        "B": "Tetanus, yellow fever",
+        "C": "Measles, rabies",
+        "D": "Tetanus, rabies"
+      },
+      "correct_answer": "D",
+      "explanation": "Among the given options, man is the dead-end host for tetanus and rabies. A dead-end host is a host from which the infectious agent lacks a portal of exit to continue its propagation. Humans are dead-end hosts for: 1) Rabies, 2) Tetanus, 3) Bubonic Plague, and 4) Trichinosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 3,
+      "question": "While studying a disease, you find that it affects both humans and lower vertebrates and can be transmitted in either direction. How would you classify this disease?",
+      "options": {
+        "A": "Anthropozoonoses",
+        "B": "Zooanthroponoses",
+        "C": "Amphixenosis",
+        "D": "Epizootic"
+      },
+      "correct_answer": "C",
+      "explanation": "A disease that affects both humans and lower vertebrates and which can be transmitted in either direction is classified as amphixenosis. E.g., Trypanosoma cruzi and Schistosoma japonicum. It is a type of zoonoses. Zoonoses are diseases that are transmitted between vertebrate animals and humans. Other types of zoonoses include: • Anthropozoonoses - infections that are transmitted to man from vertebrates. E.g., Rabies, plague, etc. • Zooanthroponoses - infections that are transmitted to vertebrates from humans. E.g., Human tuberculosis in cattle. Epizootic disease refers to an outbreak or epidemic of a disease in an animal population, often with the implication that it may also affect human populations. Enzootic disease is an endemic occurring in animals. Note: Epornithic diseases are those diseases which are epidemic in bird populations. E.g., Psittacosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 4,
+      "question": "What is a disease imported to an area from another called?",
+      "options": {
+        "A": "Epornithic disease",
+        "B": "Enzootic disease",
+        "C": "Epizootic disease",
+        "D": "Exotic disease"
+      },
+      "correct_answer": "D",
+      "explanation": "Exotic diseases are those imported into a country where they do not occur usually. E.g, rabies in the United Kingdom. Enzootic diseases are those which are endemic in animals. E.g, anthrax, brucellosis. Epornithic disease refers to an epidemic in birds. E.g, psittacosis. Epizootic disease refers to an outbreak of a disease or an epidemic in animals with the implication that it may affect humans. E.g, Q fever, influenza.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following best describes a disease that has a haphazard occurrence?",
+      "options": {
+        "A": "Sporadic",
+        "B": "Endemic",
+        "C": "Epidemic",
+        "D": "Pandemic"
+      },
+      "correct_answer": "A",
+      "explanation": "Sporadic diseases occur in a haphazard and irregular manner from time to time. Endemic refers to the constant presence and/or usual prevalence of a disease or infectious agent in a population within a geographic area. Epidemic refers to an increase, often sudden, in the number of cases of a disease above what is normally expected in that population in that area. Pandemic is an epidemic occurring over a wide area, crossing international boundaries, and usually affecting a large number of people. Note: Opportunistic infections are those that occur in the presence of immune suppression or deficiency, like cytomegalovirus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 6,
+      "question": "In a community, there are usually 40-50 reported cases of dengue every week. This week, there were 48 reported cases. This would classify as:",
+      "options": {
+        "A": "Epidemic",
+        "B": "Endemic",
+        "C": "Sporadic",
+        "D": "Outbreak"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario is an example of an endemic disease. Endemic diseases are those that have a constant presence and/or usual prevalence of a disease or infectious agent in a population within a geographic area. Epidemic refers to an increase, often sudden, in the number of cases of a disease above what is normally expected in that population in that area. Outbreak carries the same definition of an epidemic, but is often used for a more limited geographic area. Sporadic diseases occur in a haphazard and irregular manner from time to time.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 7,
+      "question": "The following are the disease frequencies in a population. Based on the number of cases, which of the following is the correct match?",
+      "options": {
+        "A": "Pandemic, endemic, sporadic",
+        "B": "Sporadic, endemic, epidemic",
+        "C": "Endemic, epidemic, sporadic",
+        "D": "Endemic, epidemic, sporadic"
+      },
+      "correct_answer": "B",
+      "explanation": "Disease 1 - the cases have been almost the same, so it has to be endemic. Disease 2 - there is an alarming increase in the number of cases, so it has to be an epidemic. Disease 3 - the number of cases has decreased without any explanation, so it has to be sporadic. Epidemic refers to the occurrence of a disease in excess of the expected frequency. A pandemic is an epidemic affecting a large population over a large geographical area, crossing international boundaries. An endemic disease is a regularly occurring disease in a population at the expected frequency, without any importation from outside. Sporadic diseases present as scattered cases of infection without relation temporally or spatially.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 8,
+      "question": "Surveillance data of an endemic disease reveals that most of the children in the area had been affected and had to be hospitalized. However, most of the adults remained asymptomatic carriers. Which category does this disease belong to?",
+      "options": {
+        "A": "Hyperendemic",
+        "B": "Syndemic",
+        "C": "Quasi-endemic",
+        "D": "Holoendemic"
+      },
+      "correct_answer": "D",
+      "explanation": "The disease in question belongs to the category of holoendemic diseases. In such diseases, a higher prevalence and pathogenic response are seen among the children in an area. The adults tend to be either asymptomatic carriers or show reduced damage by the disease process. E.g, malaria. An endemic disease is a disease that is present constantly in a population or in a given area without importation from outside. E.g, kala-azar in Bihar. A hyperendemic disease is a disease that is constantly present at high incidence and prevalence among all groups in a population. E.g, dengue in India. A syndemic is the aggregation of two or more concurrent or sequential epidemics or disease clusters in a population with biological interactions, which exacerbate the prognosis and burden of disease. It is also known as a synergistic epidemic. Note: Quasi-endemic is not a term used in infectious disease epidemiology.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 9,
+      "question": "In which of the following diseases is subclinical infection not seen?",
+      "options": {
+        "A": "Hepatitis A",
+        "B": "Diphtheria",
+        "C": "Measles",
+        "D": "Japanese encephalitis"
+      },
+      "correct_answer": "C",
+      "explanation": "Subclinical infection is not seen in measles. It always causes the development of overt signs and symptoms. Subclinical infection refers to an inapparent, covert, missed or abortive case. The host harbours and sheds the infectious agent but does not develop signs and symptoms of the disease. Subclinical infections are seen in diseases like: • Hepatitis A • Diphtheria • Japanese encephalitis • Rubella. Subclinical infections can only be detected by laboratory tests. They frequently occur during a person's lifetime and are responsible for the immunity shown by humans to a variety of disease-producing microbes. Note: Subclinical cases should be differentiated from latent infections. In a latent infection, the host does not shed the organism but it lies dormant without signs and symptoms.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 10,
+      "question": "In which of the following states will the host not shed the infectious organism?",
+      "options": {
+        "A": "Latent infection",
+        "B": "Convalescent carrier state",
+        "C": "Subclinical infection",
+        "D": "Healthy carrier state"
+      },
+      "correct_answer": "A",
+      "explanation": "The host does not shed the infectious organism in the case of a latent infection. This is defined as a state in which the host does not show signs and symptoms of the disease and does not shed the organism. It can be seen in conditions like herpes simplex, ancylostomiasis, infections due to slow viruses, Brill-Zinsser disease, etc. Subclinical infection is a state where the host harbors the infectious agent without developing signs and symptoms but sheds the infectious agent. This state is seen in conditions like hepatitis A, rubella, mumps, etc. Healthy carriers are those who had subclinical infections and later developed a carrier state without suffering from the overt disease. This state is seen in: (mnemonic: CM - DPT) Cholera, Meningitis, Diphtheria, Polio, and Typhoid. Convalescent carriers are those who shed the infectious agent during the convalescent phase/recovery phase. Such carriers are seen in diphtheria, typhoid, cholera, pertussis, etc.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 11,
+      "question": "While in a health camp, you notice a child with fever and rash. On subsequent history, you find out that similar symptoms occurred in her friend 6 days back. How will you epidemiologically categorize the child you examined?",
+      "options": {
+        "A": "Primary case",
+        "B": "Index case",
+        "C": "Secondary case",
+        "D": "Tertiary case"
+      },
+      "correct_answer": "C",
+      "explanation": "In the given scenario, the child is categorized as the secondary case. It is the case that develops after contact with the primary case. The primary case is the first case of a communicable disease introduced into a population unit. An index case is the first case that comes to the notice of an investigator or physician. A suspect case refers to a patient who has all the features of the disease but has not been diagnosed with it yet. Note: There is no such term as tertiary case.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 12,
+      "question": "You are part of a research programme for COVID-19 and are asked to define the median incubation period. How will you define it?",
+      "options": {
+        "A": "Interval between onset of symptoms in primary and secondary cases",
+        "B": "Time required for 50% of cases to occur following exposure",
+        "C": "Interval between exposure and the occurrence of the first symptom",
+        "D": "Time required for the start of pathogenesis following exposure"
+      },
+      "correct_answer": "C",
+      "explanation": "The median incubation period is the time required for 50% of the cases to occur following exposure. The median incubation period of COVID-19 is approximately 5 days. Incubation period is the time interval between invasion of the infectious agent and the appearance of the first symptom or sign in the body. It is termed as the latent period in non-infectious diseases. Incubation period depends upon: the generation time of the pathogen, the portal of entry, the infective dose, and individual susceptibility. Incubation period is useful for: tracing the source of infection and contacts, determining the period of surveillance or quarantine, planning immunization, identification of point source or propagated epidemics, and determining the prognosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 13,
+      "question": "In a school of 100 children, a child developed measles. Four days later, 3 of her classmates developed measles. What do these intervening four days correspond to?",
+      "options": {
+        "A": "Lead interval",
+        "B": "Incubatory interval",
+        "C": "Serial interval",
+        "D": "Latent interval"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, the first child is the primary case and her classmates are the secondary cases. Hence, the interval between them developing the disease, i.e., the intervening four days, is called the incubatory interval. The time interval between the onset of the primary case and the secondary case is called the serial interval. By collecting information about a whole series of such disease onsets, the distribution of these secondary cases can be made. From this information, an approximation of the incubation period can be done. Lead time/lead interval refers to the period between the first possible time of detection and the usual time of diagnosis. Incubatory interval/incubation period refers to the time period between invasion of a pathogen to appearance of the first sign or symptom. Latent interval/latent period refers to the period between disease initiation to detection of the disease. It is usually used for non-infectious diseases and is equivalent to the incubation period. Note: • Primary case is the first case of a communicable disease introduced into a population unit. • Secondary case is one that develops after contact with the primary case. • Index case is the first case that comes to the notice of an investigator or physician.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 14,
+      "question": "The time interval between which of the following is called generation time?",
+      "options": {
+        "A": "Development of primary case and secondary case",
+        "B": "Receipt of infection by a host and maximum infectivity of the same host",
+        "C": "Infection and first sign or symptom",
+        "D": "Infection and initiation of pathogenesis inside the host"
+      },
+      "correct_answer": "B",
+      "explanation": "Generation time is the time interval between receipt of an infectious agent by the host and the point of maximum infectivity of the same host.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    },
+    {
+      "q_no": 15,
+      "question": "For which of the following diseases is soil not a reservoir?",
+      "options": {
+        "A": "Coccidioidomycosis",
+        "B": "Anthrax",
+        "C": "Mycetoma",
+        "D": "Brucellosis"
+      },
+      "correct_answer": "D",
+      "explanation": "The main reservoir of the coccobacilli belonging to the genus Brucella that cause brucellosis are animals, like sheep, cattle, horses, goats, whales, and dogs. A reservoir is the environment (e.g., soil, humans, animals, water, etc.) where the infectious agent grows and multiplies (natural habitat) and from where it can be transmitted to a susceptible host. A source is an animal, object, human, or substance that acts as an immediate mode of transmission and may or may not be a part of the reservoir. Option A: Coccidioidomycosis is also called Valley fever, and the causative fungi belong to the Coccidioides. The main reservoir of this organism is soil. Option B: Bacillus anthracis is a soil commensal and is also found on the hides and dried skins of infected animals. Option C: The natural reservoir for the fungi causing mycetoma is soil.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Epidemiology"
+    }
+  ]
+}

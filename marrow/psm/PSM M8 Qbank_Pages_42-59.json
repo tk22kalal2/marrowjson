@@ -1,0 +1,395 @@
+{
+  "chapter": "Concepts of Disease and Prevention",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a component of the epidemiological triad for tuberculosis?",
+      "options": {
+        "A": "A malnourished child",
+        "B": "Mycobacterium tuberculosis",
+        "C": "Duration of illness",
+        "D": "Overcrowding"
+      },
+      "correct_answer": "C",
+      "explanation": "The epidemiological triad for tuberculosis consists of the agent (Mycobacterium tuberculosis), the host (which can be affected by factors such as malnutrition), and the environment (which can include factors such as overcrowding). Duration of illness is not a component of the epidemiological triad.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp1_img1_9f9c235b.jpeg",
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is the most logical sequence?",
+      "options": {
+        "A": "Disease → Impairment → Disability → Handicap",
+        "B": "Impairment → Disease → Handicap → Disability",
+        "C": "Disease → Impairment → Disability → Handicap",
+        "D": "Disease → Disability → Impairment → Handicap"
+      },
+      "correct_answer": "A",
+      "explanation": "Disease → Impairment → Disability → Handicap is the most logical sequence among the given options. Disease is a state of physiological/psychological dysfunction. Impairment is any loss or abnormality in normal structure or function. Disability is the inability to carry out normal actions due to impairment. Handicap is the disadvantage due to disability that limits fulfilment of a role that is normal. The sequence of development of a handicap is: Disease/Disorder → Impairment → Disability → Handicap. For example, Polio (Disease/Disorder) → Paralysis (Impairment) → Limited mobility (Disability) → Limits in finding employment (Handicap).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp2_img1_4ad17609.jpeg",
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 3,
+      "question": "A salesman met with an unfortunate accident that led to him eventually losing his left foot. He has been unable to walk after this incident and so has been rendered unemployed. Match the following examples with the corresponding events explaining the concept of disability.",
+      "options": {
+        "A": "1-B, 2-C, 3-D, 4-A",
+        "B": "1-D, 2-A, 3-B, 4-C",
+        "C": "1-A, 2-B, 3-C, 4-D",
+        "D": "1-C, 2-D, 3-A, 4-B"
+      },
+      "correct_answer": "C",
+      "explanation": "The correctly matched events relating to the given example are as follows: The WHO definition of impairment is 'any loss or abnormality of psychological, physiological or anatomical structure or function'. E.g., loss of a foot. An initial impairment may cause a secondary impairment as well. The WHO defines disability as 'any restriction or lack of ability to perform an activity in the manner or within the range considered normal for a human being'. Because of impairment, the affected person may be unable to carry out certain activities and hence the person is considered disabled. According to the WHO, a handicap is 'a disadvantage for a given individual, resulting from an impairment or a disability, that limits or prevents the fulfilment of a role that is normal (depending on age, sex, and social and cultural factors) for that individual'. The disadvantages experienced by a person as a result of disability make them handicapped. Event Example Disease/Disorder Accident Impairment Loss of foot Disability Cannot Walk Handicap Unemployed",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is most appropriate about the web of disease causation?",
+      "options": {
+        "A": "It implies that individual factors in the web have equal weightage",
+        "B": "It implies that all the chains of causation must be controlled to prevent disease",
+        "C": "It is mostly applicable for acute and rare diseases",
+        "D": "It suggests ways of interrupting the disease occurrence"
+      },
+      "correct_answer": "D",
+      "explanation": "The web of causation for a disease suggests a number of ways to interrupt the disease occurrence/progression. This model was suggested by MacMahon and Pugh in their book 'Epidemiologic Principles and Methods'. Web of causation considers all the predisposing factors and their complex interrelationship with each other. This model is ideally suited in the study of chronic disease. The web of causation does not imply that the disease is controlled only when all the multiple chains of causation are removed. Sometimes removal of one significant link is sufficient to control the disease. In a multifactorial event, individual factors are by no means of equal weightage. The importance of each factor is expressed in terms of relative risk.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not true regarding the pathogenesis period of a disease?",
+      "options": {
+        "A": "Primary prevention is possible",
+        "B": "Recovery is seen in this period",
+        "C": "Entry of the causative agent is seen",
+        "D": "Includes subclinical cases"
+      },
+      "correct_answer": "A",
+      "explanation": "Primary prevention is not possible in the pathogenesis period of a disease. It can only be done in the period of pre-pathogenesis. The two phases in the natural history of a disease include: Period of pre-pathogenesis: It is before the onset of disease in humans. The disease agent has not entered the host, but the factors favouring the disease already exist. Primary prevention (health promotion and specific protection) is applicable in this period. Period of pathogenesis: It begins with the entry of the organism till recovery, death, or disability. Secondary (halting of the disease process) and tertiary prevention (measures to limit disability) are applicable in this period. It isn't always characterised by the presence of disease symptoms as it also includes subclinical cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 6,
+      "question": "In the iceberg phenomenon of disease, which of the following does not represent the submerged portion of the iceberg?",
+      "options": {
+        "A": "Pre-symptomatic cases",
+        "B": "Latent cases",
+        "C": "Diagnosed cases",
+        "D": "Undiagnosed cases"
+      },
+      "correct_answer": "C",
+      "explanation": "Epidemiologically, the iceberg phenomenon of disease; diagnosed cases are represented by the floating tip of the iceberg. The iceberg phenomenon of disease is related to the spectrum of disease. The water surface is the line of demarcation between the apparent and inapparent infections. The submerged portion of the iceberg represents the hidden mass of diseases like asymptomatic, latent, and undiagnosed cases. Screening is done to identify these cases.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp6_img1_d414b375.jpeg",
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following diseases shows the iceberg phenomenon?",
+      "options": {
+        "A": "Tetanus",
+        "B": "Rubella",
+        "C": "Measles",
+        "D": "Rabies"
+      },
+      "correct_answer": "B",
+      "explanation": "Rubella shows the iceberg phenomenon of disease. The iceberg phenomenon of diseases is not shown by diseases such as tetanus, rabies, and measles. Iceberg phenomenon is shown by: • Polio • Influenza • Rubella • Mumps • Japanese Encephalitis • Diphtheria • Hepatitis A and B • Tuberculosis • Diabetes • Malnutrition • Hypertension. Note: If a disease has a greater number of subclinical infections, it shows the iceberg phenomenon of disease depicted in the image below. What the physician sees; what the physician does not see: Iceberg Phenomenon - Symptomatic disease - Pre-symptomatic disease.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp7_img1_cd7c2ff8.jpeg",
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the term used to describe the interruption in the transmission of a disease?",
+      "options": {
+        "A": "Elimination",
+        "B": "Eradication",
+        "C": "Surveillance",
+        "D": "Control"
+      },
+      "correct_answer": "A",
+      "explanation": "Interruption in the transmission of a disease is called elimination. It is a step towards eradication. Elimination is a reduction in the number of new cases of an infectious disease to zero (or a very low defined target rate) in a defined geographical area as a result of deliberate efforts. Continued measures to prevent re-establishment of transmission are required. Eradication is a complete and permanent worldwide reduction to zero new cases of an infectious disease through deliberate efforts. No further control measures are required. Surveillance is the continuous scrutiny of factors that determine the occurrence and distribution of disease and ill health. Control aims at decreasing the incidence, duration, and transmission of the disease. It also aims at decreasing the physical and psychological complications of a disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 9,
+      "question": "Among the following options, which aids the most in disease elimination?",
+      "options": {
+        "A": "Isolation",
+        "B": "Quarantine",
+        "C": "Herd immunity",
+        "D": "Complete treatment"
+      },
+      "correct_answer": "C",
+      "explanation": "Herd immunity aids the most in disease elimination. Herd immunity, achieved especially through immunization, goes a long way in helping the elimination of diseases. When a high level of herd immunity is maintained, the susceptible population is reduced to a small proportion, thereby eliminating the disease. The purpose of isolation is to protect the community by preventing the transfer of infection from the reservoir to the possible susceptible hosts. Quarantine refers to restrictions on the healthy contacts of an infectious disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 10,
+      "question": "While collecting surveillance data for disease X, you find that the incidence of the disease is zero in your region. Which of the following statements best describes this scenario?",
+      "options": {
+        "A": "Disease is eliminated from the region.",
+        "B": "Disease is well controlled in the region.",
+        "C": "Disease is eradicated from the region.",
+        "D": "Disease shows iceberg phenomenon in the region."
+      },
+      "correct_answer": "A",
+      "explanation": "In the given scenario, as the disease has zero incidence, we can say the disease has been eliminated from the region. Elimination is a reduction in the number of new cases of an infectious disease to zero (or a very low defined target rate) in a defined geographical area as a result of deliberate efforts. Continued measures to prevent re-establishment of transmission are required. Eradication is a complete and permanent worldwide reduction to zero new cases of an infectious disease through deliberate efforts. No further control measures are required. Control aims at decreasing the incidence, duration, and transmission of the disease. It also aims at decreasing the physical and psychological complications of a disease. The iceberg phenomenon of disease is related to the spectrum of disease. The submerged portion of the iceberg represents the hidden mass of diseases like asymptomatic, latent, and undiagnosed cases. The clinical or diagnosed cases are represented by the floating tip of the iceberg and not the submerged portion. As disease incidence is zero here, there are no cases to form the iceberg.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is a silent epidemic?",
+      "options": {
+        "A": "Bipolar disorders",
+        "B": "Manic depressive disorder",
+        "C": "Alzheimer's disease",
+        "D": "Generalized anxiety disorder"
+      },
+      "correct_answer": "C",
+      "explanation": "Alzheimer's disease is referred to as the silent epidemic of the century. Nearly 50 million people globally are living with this disease. Since it strikes so often, so arbitrarily, and with such little warning, many have dubbed it the silent epidemic.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 12,
+      "question": "What is the analysis of routine measurements aimed at detecting changes in the health status of a population called?",
+      "options": {
+        "A": "Monitoring",
+        "B": "Surveillance",
+        "C": "Systematic review",
+        "D": "Sentinel surveillance"
+      },
+      "correct_answer": "B",
+      "explanation": "The analysis of routine measurements aimed at detecting changes in the health status or environment of a population is called surveillance. Surveillance is the continuous scrutiny of factors that determine the occurrence and distribution of disease and ill health. Sentinel surveillance is a method of identifying the missing cases and thereby supplementing the notified cases. Systematic reviews involve a detailed plan with the goal of reducing bias by identifying, appraising, and synthesizing all relevant studies on a particular topic.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 13,
+      "question": "In which of the following does surveillance of disease not have a direct role?",
+      "options": {
+        "A": "Health planning",
+        "B": "Control of disease",
+        "C": "Data on new and changing trends",
+        "D": "Breaking the chain of transmission"
+      },
+      "correct_answer": "D",
+      "explanation": "Surveillance of a disease does not have a direct role in breaking the chain of transmission. Surveillance is the continuous scrutiny of factors that determine the occurrence and distribution of disease and ill health. It helps in health planning and provides information about public health disasters, including data on new and changing trends of disease. Surveillance requires professional analysis and sophisticated judgment of data, leading to recommendations for control activities.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 14,
+      "question": "Measures in sentinel surveillance do not aim at identifying:",
+      "options": {
+        "A": "Missing cases of the disease",
+        "B": "Old cases of the disease",
+        "C": "New cases of the disease",
+        "D": "Cases free of disability"
+      },
+      "correct_answer": "D",
+      "explanation": "Sentinel surveillance does not include identifying cases free of disability. Sentinel surveillance helps in identifying the missing cases, in addition to the already existing and new cases. It is used for supplementing routine notifications.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is public health surveillance preferentially aimed at?",
+      "options": {
+        "A": "Treatment of disease",
+        "B": "Disease eradication",
+        "C": "Disease monitoring",
+        "D": "Health planning"
+      },
+      "correct_answer": "D",
+      "explanation": "Public health surveillance is preferentially aimed at health planning. Public health surveillance provides important feedback on the health status of the population, about planning, control, and prevention activities, and also for public health disasters.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is included under primordial prevention of coronary artery disease?",
+      "options": {
+        "A": "Lifestyle change in adults",
+        "B": "Coronary bypass",
+        "C": "Regular BP estimation",
+        "D": "Lifestyle changes in childhood"
+      },
+      "correct_answer": "D",
+      "explanation": "Adoption of a healthy lifestyle from childhood would fall under the category of primordial prevention of coronary artery disease. Primordial prevention is preventing the emergence of risk factors among population groups in which these risk factors have not yet appeared. Most adult health problems (obesity, hypertension) have their early origins in childhood. It is in childhood that lifestyles are formed, i.e., eating patterns, physical exercise, smoking, etc. In primordial prevention, efforts are made to discourage children from adopting harmful lifestyles. These lifestyle changes, when made by adults, are known as primary prevention.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 17,
+      "question": "What type of prevention is the prescriptive screening of a disease?",
+      "options": {
+        "A": "Primordial",
+        "B": "Primary",
+        "C": "Secondary",
+        "D": "Tertiary"
+      },
+      "correct_answer": "C",
+      "explanation": "Prescriptive screening of a disease is an example of secondary prevention. Prescriptive screening of a disease can lead to early diagnosis of a disease. By early diagnosis, intervention can be made to prevent disability. Hence, it comes under secondary prevention.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 18,
+      "question": "What form of prevention is prospective screening?",
+      "options": {
+        "A": "Primary",
+        "B": "Secondary",
+        "C": "Tertiary",
+        "D": "Primordial"
+      },
+      "correct_answer": "B",
+      "explanation": "Prospective screening is a type of secondary prevention. Prospective screening is done on healthy individuals to screen for disease. It is done prior to the onset of the disease. E.g., screening donated blood for HIV before it is transfused. This type of prevention reduces the incidence of disease. Note: Prescriptive screening is done for case detection. People are screened for their own benefits. It is an early diagnosis of diseases existing in them. This is a form of secondary prevention. E.g., neonatal screening for hypothyroidism, pap smear for detection of cervical cancer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 19,
+      "question": "You advise a reproductive age woman to vaccinate against HPV. What is this type of prevention called?",
+      "options": {
+        "A": "Primordial prevention",
+        "B": "Primary prevention",
+        "C": "Secondary prevention",
+        "D": "Tertiary prevention"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario of immunization is an example of primary prevention. Primary prevention is an action taken before the onset of disease. This reduces the possibility of disease occurrence. Hence, immunization is a form of primary prevention, through specific protection. Examples of primary prevention include immunization, sanitation, solid and liquid waste management, etc.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 20,
+      "question": "Who among the following is not a target for primary prevention?",
+      "options": {
+        "A": "Apparently healthy individuals",
+        "B": "Individuals with risk factors",
+        "C": "Children less than 5 years",
+        "D": "Asymptomatic patients"
+      },
+      "correct_answer": "D",
+      "explanation": "Asymptomatic patients are the target population for secondary prevention but not for primary prevention. Primary prevention is implemented before the onset of the disease. Hence, all patients, including asymptomatic ones, are not included in the target group.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 21,
+      "question": "As a part of the iodine deficiency control programme, you advocate the usage of iodized salt in hilly areas. What is this type of prevention an example of?",
+      "options": {
+        "A": "Primordial prevention",
+        "B": "Primary prevention",
+        "C": "Secondary prevention",
+        "D": "Tertiary prevention"
+      },
+      "correct_answer": "B",
+      "explanation": "The usage of iodized salt in iodine-deficient areas, like in hilly regions, is an example of primary prevention as it provides specific protection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 22,
+      "question": "You are performing a routine Pap smear on a 30-year-old woman in the gynecology OPD. What level of prevention does this fall under?",
+      "options": {
+        "A": "Primordial",
+        "B": "Secondary",
+        "C": "Primary",
+        "D": "Tertiary"
+      },
+      "correct_answer": "B",
+      "explanation": "Pap smear is a screening test for carcinoma cervix and is an example of secondary prevention. Early diagnosis (including screening) and treatment are the components of secondary prevention. Some of the examples of secondary prevention are as follows: • Papanicolaou (Pap) smear for early detection of cervical cancer • Mammography for early detection of breast cancer • Colonoscopies for early detection of colon cancer • Blood Pressure Screening. Secondary prevention measures focus on the sub-clinical stage and the early clinical stage, such as dysplasia in this case. These measures enable early detection and prompt effective intervention to correct departures from a state of health.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 23,
+      "question": "What mode of prevention is disability prevention by appropriate treatment an example of?",
+      "options": {
+        "A": "Primordial prevention",
+        "B": "Primary prevention",
+        "C": "Secondary prevention",
+        "D": "Tertiary prevention"
+      },
+      "correct_answer": "D",
+      "explanation": "Disability prevention by appropriate treatment is an example of tertiary prevention. This is because disability has not occurred yet, so correct treatment can stop it from developing. After the disability has set in, prevention of progression of disability from transitioning into a handicap is also tertiary prevention. It is also called disability limitation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following is an example of disability limitation?",
+      "options": {
+        "A": "Prescribing spectacles for refractive error",
+        "B": "Starting a patient on anti-tuberculous therapy",
+        "C": "Abstinence from smoking",
+        "D": "Early fixation of fractures"
+      },
+      "correct_answer": "A",
+      "explanation": "Prescribing spectacles for refractive error is an example of disability limitation, which is a component of tertiary prevention. This mode of intervention is applicable when the patient presents late in the pathogenesis phase. The objective of this intervention is to prevent or halt the transition of the disease process from impairment to handicap. Option B: Starting a patient on anti-tuberculous therapy is secondary prevention as it is a part of treatment. Option C: Abstinence from smoking is a modification of the risk factor. Hence, it is an example of primary prevention. Option D: Early fixation of fractures will prevent disability. Hence, it is an example of secondary prevention.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 25,
+      "question": "Which among the following diseases was eliminated in India in 2015?",
+      "options": {
+        "A": "Leprosy",
+        "B": "Neonatal tetanus",
+        "C": "Tuberculosis",
+        "D": "Yellow fever"
+      },
+      "correct_answer": "B",
+      "explanation": "Maternal and neonatal tetanus was eliminated from India in 2015, as certified by the WHO. Important years for India (declared disease-free): • Infective trachoma 2017 • Yaws - 2016 • Maternal & neonatal tetanus 2015. • Polio - 2014 • Guinea worm disease (dracunculiasis) - 2000 Worldwide eradication: • Type-2 wild poliovirus - 2015 • Type-3 wild poliovirus - 2019 • Smallpox - 1980",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    },
+    {
+      "q_no": 26,
+      "question": "Which of the following statements is false about ICD-11?",
+      "options": {
+        "A": "It includes a new chapter on traditional medicine",
+        "B": "Gender incongruence is now listed as part of mental health",
+        "C": "The codes relating to antimicrobial resistance are more closely in line with the Global Antimicrobial Resistance Surveillance System",
+        "D": "It has come into full effect from January 2022"
+      },
+      "correct_answer": "B",
+      "explanation": "The new ICD-11 has a new chapter on sexual health that contains gender incongruence, which was previously listed under mental health conditions in the ICD-10. The ICD-11 was released by the WHO in June 2018 and was presented at the World Health Assembly in May 2019 for adoption by the Member States. It has come into effect from 1 January 2022. Its designations for antibiotic resistance align with the Global Antimicrobial Resistance Surveillance System (GLASS). It is given by the WHO and is revised every 10 years. New chapters added in ICD-11 are: Traditional medicine, Sexual health: Gender incongruence has been moved from mental health to sexual health, Gaming disorder has been added under Addictive disorders, and Immune system disorders, which will enable the better study of allergies. It has more detail on cancer, specifically different types of skin cancer, as well as on heart health and weight disorders compared to ICD-10.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Concepts of Disease and Prevention"
+    }
+  ]
+}

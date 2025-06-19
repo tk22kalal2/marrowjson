@@ -1,0 +1,290 @@
+{
+  "chapter": "Experimental Epidemiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following study designs is best to prove causation?",
+      "options": {
+        "A": "Case-control studies",
+        "B": "Randomized controlled trials",
+        "C": "Cohort studies",
+        "D": "Ecological studies"
+      },
+      "correct_answer": "B",
+      "explanation": "Randomized controlled trials are considered the gold standard for proving causation because they minimize bias and ensure that the study groups are similar in all aspects except for the intervention being tested.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 2,
+      "question": "In a clinical trial to evaluate a drug, randomisation was done before starting the trial. What is the purpose behind this?",
+      "options": {
+        "A": "The two groups will be similar in prognostic factors",
+        "B": "The clinician has no control over the allocation of participants in each group",
+        "C": "The clinician can predict in advance which treatment the subjects will receive",
+        "D": "The sample may be referenced to a known population"
+      },
+      "correct_answer": "A",
+      "explanation": "The main purpose behind randomisation is to eliminate selection bias. In an RCT, participants are randomly assigned to a study group or a control group. It is done only after obtaining consent. It removes both known and unknown confounding factors. The heart of a randomized controlled trial (RCT) is randomisation. This allows comparability between the study and the control population.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is false about a randomized control trial?",
+      "options": {
+        "A": "Baseline characteristics are similar in both arms",
+        "B": "Investigator's bias is minimized by double blinding",
+        "C": "The sample size required depends upon the hypothesis",
+        "D": "The dropouts from the trial are not included in the analysis"
+      },
+      "correct_answer": "D",
+      "explanation": "The dropouts from an RCT are included in the final analysis. This type of analysis is called intention-to-treat (ITT) analysis. It ignores noncompliance, protocol change, withdrawal, cross-over, and anything that happens after randomization during analysis. The exclusion of dropouts may lead to the introduction of bias. Note: Per-protocol analysis is a comparison of treatment groups that include only those patients who completed the treatment originally allocated to them. Hence, comparability between the study and control group is limited and randomization is lost.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 4,
+      "question": "A researcher decided to use double-blinding in his trial evaluating two new therapies for cystic fibrosis. What is the characteristic feature of this concept?",
+      "options": {
+        "A": "Study and control groups are blinded",
+        "B": "Observer and analyzer are blinded",
+        "C": "Observer and group being observed are blinded",
+        "D": "Group members and analyzer are blinded"
+      },
+      "correct_answer": "C",
+      "explanation": "In double-blind trials, both the group members (study and control group) and the observers are not aware of the group allocation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 5,
+      "question": "In a clinical trial, what would be the best study design that ensures comparability between experimental and control groups?",
+      "options": {
+        "A": "Cross-over study design",
+        "B": "Concurrent parallel study design",
+        "C": "Quasi trial",
+        "D": "Per protocol analysis"
+      },
+      "correct_answer": "A",
+      "explanation": "A cross-over study would be the best method to ensure comparability between the experimental and control group. In a cross-over study design, patients are randomly assigned to the study and control group, and then after a period of time, their groups are switched. Here, each patient serves as his/her own control, which allows for maximum comparability. In a concurrent parallel study design, comparisons are made between two randomly assigned groups and there is no switching of groups. This allows only for limited comparability between experimental and control groups. Quasi-experiments are studies that aim to evaluate interventions but that do not use randomization. The lack of randomization is the major weakness of quasi trials. The comparability in a quasi trial is limited. A per-protocol analysis is a comparison of treatment groups that include only those patients who completed the treatment originally allocated. Hence, comparability is limited.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 6,
+      "question": "A new drug for multiple sclerosis is undergoing clinical trials where its therapeutic efficacy is being confirmed and adverse reactions are being monitored. Which of the following phases is the drug most likely in?",
+      "options": {
+        "A": "Phase I",
+        "B": "Phase II",
+        "C": "Phase III",
+        "D": "Phase IV"
+      },
+      "correct_answer": "C",
+      "explanation": "The confirmation of therapeutic efficacy and monitoring of adverse reactions of a new drug happens in Phase III of the clinical trial. Purpose of Phase III: confirmation of the effectiveness of the drug in patients with the target disease, and monitoring of adverse reactions. Phase II involves therapeutic exploration, which is the evaluation of the efficacy of the drug and dose-ranging (determination of the optimum tolerated dose).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 7,
+      "question": "In which of the following phases is the maximum drug failure rate seen?",
+      "options": {
+        "A": "Phase I",
+        "B": "Phase II",
+        "C": "Phase IV",
+        "D": "Phase 0"
+      },
+      "correct_answer": "B",
+      "explanation": "Maximum drug failure rates are seen in Phase II, followed by Phase III of a clinical trial.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 8,
+      "question": "The maximum tolerable dose of a new drug for Alzheimer's disease is to be evaluated. In which of the following phases is this done?",
+      "options": {
+        "A": "Phase I",
+        "B": "Phase II",
+        "C": "Phase III",
+        "D": "Phase IV"
+      },
+      "correct_answer": "A",
+      "explanation": "The maximum tolerated dose of a new drug is tested in Phase I of a clinical trial. Phase I trials are usually performed on healthy volunteers to check the safety and pharmacokinetic properties of a drug. The participants in this phase do not gain any direct health benefits from taking part. They are generally paid a fee for their time, with the payments being regulated and not related to the risk involved.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 9,
+      "question": "A hypothesis stating that people who continue to smoke are at a higher risk of developing lung carcinoma than those who have quit is to be tested. Which of the following study designs would you choose for this purpose?",
+      "options": {
+        "A": "Trial of etiological agents",
+        "B": "Clinical trial",
+        "C": "Cessation experiment",
+        "D": "Uncontrolled trial"
+      },
+      "correct_answer": "C",
+      "explanation": "To test the given hypothesis that smokers are at a higher risk of developing lung carcinoma than those who have quit, the study design chosen is a cessation experiment. The outcomes of termination of a habit or removal of an agent considered to be causally related to a disease can be evaluated in a cessation experiment. It is a type of RCT and preventive trial. If the outcome is a significant reduction in disease, then the association of that habit or agent to the disease is strengthened. A trial of aetiological agents is an experimental epidemiological study to confirm or refute an aetiological hypothesis. Clinical trials, for the most part, have been concerned with evaluating therapeutic agents, mainly drugs. An uncontrolled trial is an example of a non-randomised trial where there is no control group for comparison.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not an example of a randomised controlled trial?",
+      "options": {
+        "A": "Trial of aetiological agent",
+        "B": "Before and after comparison studies",
+        "C": "Preventive trials",
+        "D": "Evaluation of health services"
+      },
+      "correct_answer": "B",
+      "explanation": "Before and after comparison studies are a type of non-randomized trial. These are community trials and centre around comparing the incidence of disease before and after the introduction of a preventive measure. They are of two distinct types: • Before and after comparison studies without control. • Before and after comparison studies with control. Non-randomized trials include: • Before and after comparison studies. • Uncontrolled trials. • Natural experiments.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 11,
+      "question": "What is the suspected cause preceding the observed effect an example of?",
+      "options": {
+        "A": "Consistency",
+        "B": "Specificity",
+        "C": "Plausibility",
+        "D": "Temporality"
+      },
+      "correct_answer": "D",
+      "explanation": "Temporality refers to the condition when the suspected cause precedes the observed effect. It is a part of Hill's criteria for causal association.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 12,
+      "question": "While investigating a new disease, you are trying to establish the aetiological agent. Which of the following criteria is the most difficult to establish?",
+      "options": {
+        "A": "Temporality",
+        "B": "Specificity",
+        "C": "Coherence",
+        "D": "Plausibility"
+      },
+      "correct_answer": "B",
+      "explanation": "Specificity is the most difficult criterion to establish in both chronic and acute diseases. This is because a single factor or cause can give rise to more than one disease. Also, most diseases are multifactorial in origin with no possibility of demonstrating a one-to-one relationship, which would indicate specificity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 13,
+      "question": "What does evidence-based medicine refer to?",
+      "options": {
+        "A": "Use of experiments to prove the cause of a disease",
+        "B": "Use of clinical trials to prove the safety of drugs",
+        "C": "Use of research findings for taking decisions about patient care",
+        "D": "Use of behavioral modification to prevent disease"
+      },
+      "correct_answer": "C",
+      "explanation": "Evidence-based medicine (EBM) refers to the use of modern research findings to guide decision-making about the treatment of individual patients. EBM integrates clinical experience and patient values with the best available research information. Research and studies are given high importance in EBM, while opinions and conventional wisdom of experts are not taken into consideration in the practice of EBM.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 14,
+      "question": "In the hierarchy of evidence, which of the following rankings is correct?",
+      "options": {
+        "A": "3 > 1 > 4 > 2 > 5",
+        "B": "4 > 3 > 1 > 5 > 2",
+        "C": "3 > 4 > 1 > 2 > 5",
+        "D": "4 > 3 > 2 > 5 > 1"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct order of ranking of the hierarchy of evidence is: Meta-analysis and systematic review > Randomised controlled trial > Cohort study > Case-control study > Case reports.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is incorrect about systematic reviews?",
+      "options": {
+        "A": "Meta-analysis is always performed",
+        "B": "Search for literature is compulsory",
+        "C": "Critical appraisal is criteria-based",
+        "D": "Research question is always focused"
+      },
+      "correct_answer": "A",
+      "explanation": "Meta-analysis is not always performed in systematic reviews. A systematic review is the process of locating and synthesizing the research on a particular question using organized, transparent, and replicable procedures. It ranks high in the hierarchy of evidence in medicine. Steps of a systematic review: • The research question is formulated. It is always focused. • The literature on studies is always found and appraised after criteria of eligibility are established. • Meta-analysis is usually done in a systematic review for quantification but it is not compulsory. These steps are depicted in the diagram below. Steps of systematic review: Formulate questions, Develop protocol, Cohort search, Extract data, Appraise studies, Select studies, Analyse results, Interpret results.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp15_img1_9a4c563a.jpeg",
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 16,
+      "question": "A meta-analysis is being performed to evaluate the relationship between obesity and endometrial carcinoma. Which among the following is false regarding this technique?",
+      "options": {
+        "A": "File drawer effect can be seen here",
+        "B": "It increases the statistical power by increasing sample size",
+        "C": "Apples and oranges effect can be seen here",
+        "D": "Its validity does not depend on the quality of the systematic review"
+      },
+      "correct_answer": "D",
+      "explanation": "The validity of the meta-analysis depends on the quality of the systematic review.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is not a use of epidemiology?",
+      "options": {
+        "A": "Ensuring community participation",
+        "B": "Community diagnosis",
+        "C": "Syndrome identification",
+        "D": "Evaluation of individual risk"
+      },
+      "correct_answer": "A",
+      "explanation": "Ensuring community participation is not a use of epidemiology. Community participation is a principle of primary health care. Uses of epidemiology: • To study the rise and fall of disease in populations • Community diagnosis • Planning and evaluation • Evaluation of an individual's risks and chances • Syndrome identification • Completing the natural history of disease, searching for causes and risk factors",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 18,
+      "question": "For what purpose were knowledge, attitude, and practice (KAP) studies first used in India?",
+      "options": {
+        "A": "HIV",
+        "B": "Family planning",
+        "C": "Diabetes mellitus",
+        "D": "Malaria"
+      },
+      "correct_answer": "B",
+      "explanation": "Knowledge, attitude, and practice (KAP) studies were first used in India to study family planning. These studies help in evaluating the knowledge, attitude, and practices of a community. It also gives an educational diagnosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following quantitative methods is the best to study previous research studies?",
+      "options": {
+        "A": "Cohort study",
+        "B": "Systematic review",
+        "C": "Meta-analysis",
+        "D": "RCT"
+      },
+      "correct_answer": "C",
+      "explanation": "The quantitative method that is the best to study previous research studies of a selected topic/research question is meta-analysis. A systematic review is a process of collecting, reviewing, and presenting information from earlier research to answer a question. It is a qualitative technique. It may or may not involve a meta-analysis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Experimental Epidemiology"
+    }
+  ]
+}

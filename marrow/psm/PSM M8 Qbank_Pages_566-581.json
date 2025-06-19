@@ -1,0 +1,350 @@
+{
+  "chapter": "Environmental Meteorology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The water vapor and pollutants tend to get trapped in the lowermost layers of the atmospherein winters. What is the reason behind this occurrence?",
+      "options": {
+        "A": "Green house effect",
+        "B": "Ocean effect",
+        "C": "Precipitation",
+        "D": "Temperature inversion"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is not an indicator of air pollution?",
+      "options": {
+        "A": "Soiling index",
+        "B": "Heavy metal pollution index",
+        "C": "Suspended particle matter",
+        "D": "Sulphur dioxide"
+      },
+      "correct_answer": "B",
+      "explanation": "The heavy metal pollution index (HPI) is not an indicator of air pollution. It is a rating methodand an effective tool to assess the water quality with respect to heavy metals.Indicators of air pollution:•Sulfur dioxide - best indicator• Smoke or soiling index•Grit and dust measurement• The co-efficient of haze• Air pollution index•Suspended particle matter (SPM)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 3,
+      "question": "Which agency monitors air quality in India?",
+      "options": {
+        "A": "Ministry of Earth Sciences",
+        "B": "Indian Meteorological Department",
+        "C": "Central Power Research Institute",
+        "D": "Central Pollution Control Board"
+      },
+      "correct_answer": "D",
+      "explanation": "Central Pollution Control Board is the main body that monitors air quality in India and setsstandards.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 4,
+      "question": "Greenhouse gases include all of the following except:",
+      "options": {
+        "A": "Carbon monoxide",
+        "B": "Carbon dioxide",
+        "C": "Water vapor",
+        "D": "Methane"
+      },
+      "correct_answer": "A",
+      "explanation": "Carbon monoxide is not a greenhouse gas. Greenhouse gases include: • Water vapor • Carbon dioxide • Methane • Tropospheric ozone • Nitrous oxide • Chlorofluorocarbons (non-natural)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following protocols set the standard to reduce the emission of greenhouse gasesinternationally?",
+      "options": {
+        "A": "Tokyo Protocol",
+        "B": "Beijing Protocol",
+        "C": "Kyoto Protocol",
+        "D": "Montreal Protocol"
+      },
+      "correct_answer": "",
+      "explanation": "The Kyoto Protocol was an internal agreement to set internationally binding emission reductiontargets.It is linked to the United Nations Framework Convention on Climate Change. The partiescommitted to reduce GHGs by 18% in the period between 2013-2020.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is true about global warming?",
+      "options": {
+        "A": "Carbon dioxide is the major greenhouse gas",
+        "B": "Stratospheric ozone is harmful",
+        "C": "CFCs decrease ozone levels in the stratosphere",
+        "D": "The Kyoto Protocol called for a 10% reduction in greenhouse emissions"
+      },
+      "correct_answer": "A",
+      "explanation": "Carbon dioxide is the major greenhouse gas. Tropospheric ozone and chlorofluorocarbons are also important greenhouse gases. Water vapor is the most abundant greenhouse gas, but the water vapor produced directly by human activity contributes very little to the amount of water vapor in the atmosphere. Hence, its emissions have not been estimated. Greenhouse gases lead to global warming, which is the major cause of climate change. Climate change accelerates species extinction on earth.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is incorrect regarding indoor air pollutants?",
+      "options": {
+        "A": "Carbon monoxide is produced by fuel combustion",
+        "B": "Pesticides are indoor air pollutants",
+        "C": "Radon is an indoor air pollutant",
+        "D": "Mercury vapor is a source of indoor air pollution"
+      },
+      "correct_answer": "D",
+      "explanation": "Mercury is not a source of indoor air pollution.Indoor air pollutants commonly arise from coal or fuel combustion. They include:• Carbon monoxide•Polyaromatic hydrocarbons• Nitrogen• Sulfur oxides• Pesticides• Asbestos575• Lead• Radon",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is unlikely to be seen in individuals affected by indoor air pollution?",
+      "options": {
+        "A": "Chronic lung disease",
+        "B": "Pregnancy problems567",
+        "C": "Neuro-developmental disorders",
+        "D": "Childhood pneumonia"
+      },
+      "correct_answer": "",
+      "explanation": "Indoor air pollution has not been linked with neurodevelopmental disorders. It can result in ahigher incidence of the following:•Pregnancy complications•Chronic lung disease• Childhood pneumonia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 9,
+      "question": "The best indicators for routine monitoring of air pollution are:",
+      "options": {
+        "A": "Sulfur dioxide, smoke, and suspended particles",
+        "B": "Sulfur dioxide, lead, and particulate matter",
+        "C": "Sulfur dioxide and carbon monoxide",
+        "D": "Carbon monoxide and hydrogen sulfide"
+      },
+      "correct_answer": "A",
+      "explanation": "The best indicators for routine monitoring of air pollution are sulfur dioxide, smoke, andsuspended particles.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not an index of thermal comfort?",
+      "options": {
+        "A": "Air temperature and humidity",
+        "B": "Corrected effective temperature",
+        "C": "Cooling power",
+        "D": "Heat transfer coefficient"
+      },
+      "correct_answer": "D",
+      "explanation": "The heat transfer coefficient is a measure of the heat transfer by convection or phase transition. Itis not an index of thermal comfort.Thermal comfort is the subjective feeling of temperature in an environment. Optimum levels ofthermal comfort help to increase productivity. Indices of thermal comfort include the following:IndexAir temperatureAir temperature and humidityCooling power- it measures:Air temperatureHumidityAirmovementEffective temperature- it measures: Air temperatureHumidityAir movementCorrected effective temperature- it measures:Air temperatureHumidityAir movementMean radiant heatMcArdle'smaximum allowable sweat rateApplicationConsidered an inadequate indicatorConsidered an inadequate indicatorMeasured using akata thermometer(dry and wet) Regarded as unreliableIt ignores the effects of radiation from surrounding structuresIt is measured using aglobe thermometerIt involves calculating the 4-hour sweat rate576",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 11,
+      "question": "What are the instruments used to measure atmospheric pressure called?",
+      "options": {
+        "A": "Barometers",
+        "B": "Anemometers",
+        "C": "Hygrometers",
+        "D": "Psychrometers"
+      },
+      "correct_answer": "A",
+      "explanation": "Atmospheric pressure or barometric pressure is measured using barometers.The most commonly known barometers are Fortin's barometer, Kew pattern station barometer,and the barograph. The Indian Meteorological Department uses the Kew pattern stationbarometer.The pressure at Earth's surface, close to sea level averages around 760 mmHg, and man isadapted to live around this.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 12,
+      "question": "What sweat excretion rate in acclimatized, healthy young men is indicative of intolerable airtemperature?",
+      "options": {
+        "A": "&gt; 4 litres/4 hours",
+        "B": "&gt; 4 litres/6 hours568",
+        "C": "&gt; 4.5 litres/4 hours",
+        "D": "&gt; 4.5 litres/8 hours"
+      },
+      "correct_answer": "",
+      "explanation": "A sweat excretion rate of &gt; 4.5 L/4 hours in acclimatized, healthy young men is indicative ofintolerable air temperature. This is known as McArdle's maximum allowable sweat rate.This is the maximum allowable sweat rate that is compatible with the normal physiologicalreaction of acclimatized, healthy young men who are exposed to heat. The predicted four-hoursweat rate (P4SR) is obtained from readings of air and mean radiant temperature and air velocityunder different work intensities. Based on this value, the zone of comfort can be determined.Zone of comfortPredictedP4SRComfort zone1-3 litresJust tolerableIntolerable3-4.5 litres4.5 + litres",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 13,
+      "question": "Identify the following instrument:",
+      "options": {
+        "A": "Globe thermometer",
+        "B": "Jacen's psychrometer",
+        "C": "Wet bulb thermometer",
+        "D": "Six's thermometer503040M1030201020UO301020403050"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image is of a Six's thermometer.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q13_img1_3c1326ee.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 14,
+      "question": "The mean radiant temperature is measured by the:",
+      "options": {
+        "A": "Dry bulb thermometer",
+        "B": "Wet bulb thermometer",
+        "C": "Maximum-minimum thermometer",
+        "D": "Globe thermometer"
+      },
+      "correct_answer": "D",
+      "explanation": "The mean radiant temperature is measured by the globe thermometer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 15,
+      "question": "The given instrument can be used to measure all of the following except:569",
+      "options": {
+        "A": "High air velocities",
+        "B": "Air temperature",
+        "C": "Humidity",
+        "D": "Air movement"
+      },
+      "correct_answer": "A",
+      "explanation": "577The image shown above is of the kata thermometer. It was originally used to measure the coolingpower of air (air temperature, humidity and air movement) but currently, it is only used tomeasure low air velocities.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q15_img1_085500a9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is not an index of heat stress?",
+      "options": {
+        "A": "Predicted four-hour sweat rate",
+        "B": "Air velocity index",
+        "C": "Equatorial comfort index",
+        "D": "Heat stress index"
+      },
+      "correct_answer": "B",
+      "explanation": "Air velocity index is not an index of heat stress.Heat stress is the load of heat that must be dissipated from the body if it is to remain in thermalequilibrium. Factors that affect heat stress are metabolic rate, air temperature, humidity, airmovement, and radiant temperature.Indices for heat stress are:• Predicted four-hour sweat rate• Equatorial comfort index• Heat stress index.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is unlikely to be seen in individuals suffering from heat stress?",
+      "options": {
+        "A": "Hyperpyrexia",
+        "B": "Syncope",
+        "C": "Cramps",
+        "D": "Numbness570"
+      },
+      "correct_answer": "D",
+      "explanation": "Numbness is an effect of cold stress, not heat stress.Effects of heat stress include:• Heatstroke.• Heat hyperpyrexia• Heat exhaustion• Heat cramps• Heat syncope",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 18,
+      "question": "What level of heat stress index correlates with severe heat strain in individuals?",
+      "options": {
+        "A": "20-40",
+        "B": "40 - 60",
+        "C": "60 - 80",
+        "D": "80 - 100"
+      },
+      "correct_answer": "B",
+      "explanation": "A heat stress index of 40-60 indicates severe heat strain. It can pose a threat to health and greatlyimpair work if not fit or acclimatized.Heat stress indices include:•Equatorial comfort index•• Predicted four-hour sweat rate (P4SR)•Heat stress index (HSI)578Thermal stressNo thermal strainModerate to mild heat strainHSI010 -3040-Severe heat strain6070 -Very severe heat strain90100Upper limit of heat toleranceWork and effectsNo work impairmentMinimal work impairmentThreat to health and greatly impaired workOnly a few who are fit and acclimatized can sustain workOnly fit and acclimatized cansustain work, although withimpairmentVarying degrees of heat stress occurs beyond this",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following is incorrect about cold stress?",
+      "options": {
+        "A": "Wet-cold conditions cause trench foot",
+        "B": "Dry-cold conditions occur at temperatures above freezing",
+        "C": "Cold stress can cause desire to sleep",
+        "D": "Frostbite is common at high altitudes"
+      },
+      "correct_answer": "B",
+      "explanation": "Dry-cold conditions occur at temperatures below freezing and are common at high altitudes. Itresults in complications like frostbite.Wet-cold conditions occur at temperatures above freezing. It results in complications like trenchfoot. Cold stress also causes hypothermia which can induce numbness, loss of sensations,muscular weakness, desire to sleep, coma, and death.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q19_img1_aa68c1c5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 20,
+      "question": "Identify the following instrument shown below:",
+      "options": {
+        "A": "Sling psychrometer",
+        "B": "Dry and wet bulb hygrometer",
+        "C": "Anemometer571Assmann psychrometerQuestion 21:Which is the most widely used instrument to measure humidity?a) Sling psychrometerb) Aspirating psychrometerc) Dry and wet bulb hygrometer",
+        "D": "Assmann psychrometer"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shown is of a sling psychrometer. Psychrometers are used to measure humidity.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q20_img1_2a4eb284.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 22,
+      "question": "What is the following instrument used to measure?",
+      "options": {
+        "A": "Humidity",
+        "B": "Air velocity",
+        "C": "Radiant heat",
+        "D": "Air pollution index"
+      },
+      "correct_answer": "A",
+      "explanation": "The image given is that of an Assmann psychrometer which is used to measure humidity. They consist of two thermometers, each inside a double tube for minimizing radiative heating.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q22_img1_d09be330.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 23,
+      "question": "Which is the most widely used rain gauge in India?",
+      "options": {
+        "A": "Recording rain gauge572",
+        "B": "Symon's rain gauge",
+        "C": "Tipping bucket rain gauge",
+        "D": "Float type rain gauge"
+      },
+      "correct_answer": "",
+      "explanation": "579The Government of India prescribes the use of Symon's rain gauge which is a non-recording typeof rain gauge. It is used to measure the amount of rainfall.The image below shows the Symon's rain gauge.Funnel-Symon's rain gauge+127 mmBodyReceiverBase-210 mm--203 mm25 mmOMARROW15102505",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp23_img1_cc5a52ec.jpeg",
+      "chapter_heading": "Environmental Meteorology"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following instruments measures the air velocity?",
+      "options": {
+        "A": "Wind vanes",
+        "B": "Anemometers",
+        "C": "Psychrometers",
+        "D": "Barometers"
+      },
+      "correct_answer": "A",
+      "explanation": "Anemometers are used to measure air velocity.Kata thermometers are used as anemometers for low air velocities.The image below shows an anemometer.Wind vanes are used to identify the wind direction (shown below).580The image below shows an anemometer wind vane.581botone",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp24_img1_f7666290.jpeg",
+      "chapter_heading": "Environmental Meteorology"
+    }
+  ]
+}

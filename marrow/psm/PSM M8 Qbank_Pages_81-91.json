@@ -1,0 +1,260 @@
+{
+  "chapter": "Descriptive Epidemiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A researcher is planning to study the etiology of certain painful idiopathic peripheral neuropathies. Which of the following study methods should he choose?",
+      "options": {
+        "A": "Cohort study",
+        "B": "Randomized clinical trial",
+        "C": "Ecological study",
+        "D": "Case-control study"
+      },
+      "correct_answer": "D",
+      "explanation": "To study the etiology of a disease, a case-control study is often the most appropriate design, as it allows for the comparison of individuals with the disease (cases) to those without the disease (controls) to identify potential risk factors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 2,
+      "question": "The preliminary observations made by Burkitt in Africa eventually found that the Epstein-Barr Virus is an etiological factor for Burkitt lymphoma. What is this study an example of?",
+      "options": {
+        "A": "Descriptive study",
+        "B": "Analytical study",
+        "C": "Case-control study",
+        "D": "Retrospective cohort study"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario is an example of a descriptive study. Descriptive studies are used to describe a disease of unknown etiology. These studies also led to the discovery of prions as the etiological agents of chronic degenerative neurological disorders (Kuru) in humans. This is also an example of a descriptive study. Types of epidemiological studies: - Observational studies allow nature to take its own course, the investigator measures but does not intervene. - Descriptive studies - limited to the description of the occurrence of a disease in a population. - Analytical studies - go further by analyzing the relationship between health status and other variables. - Ecological studies, Cross-sectional studies, Case-control studies, Cohort studies. Experimental studies or intervention studies involve an active attempt to change a disease determinant or the progress of a disease and are similar in design to experiments in other sciences. - Randomized controlled trials, Field trials, Community trials.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following are included in descriptive epidemiology?",
+      "options": {
+        "A": "1, 2 and 3.",
+        "B": "1, 3 and 4",
+        "C": "2, 3 and 5",
+        "D": "1, 4 and 5"
+      },
+      "correct_answer": "B",
+      "explanation": "Descriptive epidemiology involves describing the disease in terms of time, place, and person distribution.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following best describes the term hypothesis?",
+      "options": {
+        "A": "Axiom",
+        "B": "Verified variable",
+        "C": "Variable to be tested",
+        "D": "Established theory"
+      },
+      "correct_answer": "C",
+      "explanation": "An epidemiological hypothesis is a supposition or variable. It is arrived at from observation and needs to be tested. Descriptive studies primarily focus on the formulation of a hypothesis. Analytical studies, which include study designs like case-control and cohort, are used to test the formulated hypothesis. The hypothesis can subsequently be rejected or accepted. Experimental studies involve an intervention to provide scientific proof for etiological risk factors of diseases and to measure the efficiency of health services.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 5,
+      "question": "The National Institute of Allergy and Infectious Diseases is planning to study the natural history of COVID-19. Which of the following studies can be used?",
+      "options": {
+        "A": "Longitudinal studies",
+        "B": "Cross-sectional studies",
+        "C": "Descriptive studies",
+        "D": "Case-control studies"
+      },
+      "correct_answer": "A",
+      "explanation": "Longitudinal studies are useful to study the natural history of a disease. It is also used to identify risk factors, and to find the incidence rate. In longitudinal studies, observations are repeated in the same population over a prolonged period of time by follow-up examinations. Their disadvantage is that they are difficult to organize and take a very long time.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 6,
+      "question": "What are prevalence studies also known as?",
+      "options": {
+        "A": "Longitudinal studies",
+        "B": "Cohort studies",
+        "C": "Case-control studies",
+        "D": "Cross-sectional studies"
+      },
+      "correct_answer": "D",
+      "explanation": "Cross-sectional studies help in obtaining the prevalence of a disease. Hence, they are also known as prevalence studies. Cross-sectional study is a type of observational study where a cross-section of a population is examined once at one point in time. It is more useful in studying chronic diseases than acute ones. They do not provide information on the natural history of disease or incidence and also do not establish the time sequence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following statements about point source epidemic is false?",
+      "options": {
+        "A": "Secondary waves do not occur",
+        "B": "Clustering of cases occurs within a short period of time",
+        "C": "It occurs only due to an infectious agent",
+        "D": "All cases usually develop within one incubation period"
+      },
+      "correct_answer": "C",
+      "explanation": "Point source epidemics are caused not only due to infectious agents but also by environmental pollution and contamination of food. Point source epidemics belong to the common source type of epidemics. Exposure to disease agents is brief, so they are also called single exposure epidemics. All cases develop within one incubation period. In the epidemic curve, there is a sharp rise and fall as all cases are clustered within one incubation period. There are no secondary waves and these epidemics tend to be explosive.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 8,
+      "question": "Identify the type of epidemic depicted from the following epidemic curve. 82160 Number of cases 140-120 100 80 60 40 20 0-13 5 7 9 11 13 15 17 19 21 23 Days of exposure",
+      "options": {
+        "A": "Point-source epidemic",
+        "B": "Continuous epidemic",
+        "C": "Progressive epidemic",
+        "D": "Propagated epidemic"
+      },
+      "correct_answer": "A",
+      "explanation": "Point-source epidemic is depicted in the given image. In the epidemic curve for a point-source epidemic, there is a sharp rise and fall of the curve with no secondary waves. It tends to be explosive as all the cases are clustered in a narrow period of time. It occurs within one incubation period of the disease.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q8_img1_db0b9937.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 9,
+      "question": "An outbreak of viral hepatitis A was reported from a town between June and September of a particular year. The peak of the outbreak occurred in July. What is this an example of?",
+      "options": {
+        "A": "Common source, multiple exposures",
+        "B": "Common source, single exposure",
+        "C": "Propagated epidemic, single exposure",
+        "D": "Propagated epidemic, multiple exposures"
+      },
+      "correct_answer": "A",
+      "explanation": "This outbreak of viral hepatitis A is an example of a common source, multiple exposure type of epidemic. The incubation period of hepatitis A is approximately 28 days (range 15 to 50 days). In this scenario, the cases of viral hepatitis A have occurred over a period from June to September (120 days) which is more than one incubation period of the disease. This is suggestive of multiple exposures from a common source. If the period of the outbreak falls within one incubation period, then the type of epidemic is common source, single exposure or point source epidemic. Difference between single exposure and multiple exposure epidemics: Propagated epidemic results from person to person transmission of the infectious agent over a prolonged duration of time. For e.g., Polio epidemic, COVID-19. Note: Hepatitis A epidemic is generally an example of a propagated epidemic. However, it does not always follow this pattern. In the given scenario, since the outbreak lasts for a short duration of 3 months (about 3 incubation periods for hepatitis A), it is considered to be a point source, multiple exposure outbreak. Common source, single exposure epidemic: Common source, multiple exposure epidemic. Nature of exposure: Single, brief exposure. Nature of epidemic: Explosive with clustering of cases within a short interval of time. Duration of epidemic: Falls <1 incubation period of a particular disease. Example: An epidemic of food poisoning. Multiple, continuous or intermittent exposures for a prolonged time: Less chance of clustering of cases within short interval of time. Extends >1 incubation period of a particular disease. Outbreak of cholera.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 10,
+      "question": "The sales team of a corporate company presents to the hospital with complaints of sudden-onset nausea, vomiting, and loose stools. They give a history of having food from a nearby bakery three hours ago. What is this an example of?",
+      "options": {
+        "A": "Common source, single exposure epidemic",
+        "B": "Common source, multiple exposure epidemic",
+        "C": "Propagated epidemic, single exposure",
+        "D": "Progressive epidemic, single exposure"
+      },
+      "correct_answer": "A",
+      "explanation": "The given scenario is suggestive of food poisoning. It is a type of common-source (point-source), single exposure epidemic.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is an example of a disease following a seasonal trend?",
+      "options": {
+        "A": "Occurrence of rubella every 6-9 years in the pre-vaccination era",
+        "B": "Occurrence of influenza pandemic every 7-10 years",
+        "C": "Occurrence of bacterial gastroenteritis in summer",
+        "D": "Increase in the occurrence of diabetes in developed countries"
+      },
+      "correct_answer": "C",
+      "explanation": "Occurrence of bacterial gastroenteritis in summer is an example of a disease following a seasonal trend. Seasonal trend is a type of periodic fluctuation. It refers to the occurrence of a disease in seasonal variation influenced by environmental conditions like climate, rainfall, life cycle of vectors, heat, etc. Examples are: Measles and varicella in early spring, bacterial gastroenteritis in summer, heatstroke in summer, dengue in July-November, and respiratory infections in winter.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 12,
+      "question": "The influenza pandemic is anticipated to occur every 7-10 years due to the antigenic variation of the virus. What is this an example of?",
+      "options": {
+        "A": "Seasonal trend",
+        "B": "Secular trend",
+        "C": "Progressive trend",
+        "D": "Cyclical trend"
+      },
+      "correct_answer": "D",
+      "explanation": "The influenza pandemic occurring every 7–10 years due to antigenic variations of the virus is an example of a disease showing cyclical trend. Diseases occurring in cycles spread over a short period of time show cyclical trends of time distribution. Cyclical trend is a type of periodic fluctuation. Examples include: • Measles: every 2-3 years in the pre-vaccination era. • Rubella: 6-9 years in the pre-vaccination era. Non-infectious conditions can also show cyclical trends.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 13,
+      "question": "How often did the cyclical trends of measles occur in the pre-vaccination era?",
+      "options": {
+        "A": "Every 2-3 years",
+        "B": "Every 5-7 years",
+        "C": "Every 6-9 years",
+        "D": "Every 3-5 years"
+      },
+      "correct_answer": "A",
+      "explanation": "In the pre-vaccination era, the cyclical trends of measles occurred every 2-3 years, while that of rubella occurred every 6-9 years.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 14,
+      "question": "What is known as the change in the occurrence of a disease over very long periods of time?",
+      "options": {
+        "A": "Propagated epidemic",
+        "B": "Secular trend",
+        "C": "Cyclical trend",
+        "D": "Modern epidemic"
+      },
+      "correct_answer": "B",
+      "explanation": "A secular trend refers to the changes in the occurrence of a disease over long periods of time (decades). Usually, disease distributions tend to move in one particular direction over a period of time. Examples: Decrease in diseases like polio, tuberculosis, and typhoid fever, but an increase in diabetes and coronary artery disease in developed countries.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following cannot be depicted by the image given below? OXFORD STREET, PRINCES STREET, HANOVER STREET, GEORGE STREET. 1-",
+      "options": {
+        "A": "Frequency of disease distribution",
+        "B": "Rural - urban distributions of a disease",
+        "C": "Pattern of disease distribution",
+        "D": "Boundaries of disease distribution, recently way market scale 30 inches to a mile."
+      },
+      "correct_answer": "B",
+      "explanation": "The given image is of a spot map. Spot maps are not used to depict rural-urban distributions of a disease. They help to understand the local distributions of a disease. They are also called shaded maps. This method was used by John Snow to investigate the epidemic of cholera in London in 1854. They depict areas of high or low frequency, the boundaries, and patterns of disease distribution.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q15_img1_5e79cfef.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 16,
+      "question": "What are migration studies used to evaluate?",
+      "options": {
+        "A": "Socio-demographic reasons for migration of a population",
+        "B": "Prevalence of diseases in a population",
+        "C": "Environmental and genetic factors of a disease in a population",
+        "D": "Incidence of disease in the immigrant population"
+      },
+      "correct_answer": "C",
+      "explanation": "Migration studies are used to evaluate the role of genetic and environmental factors of a disease in a population. The two methods used are: \n   • Comparing disease and death rates of migrants with kin who stayed at home\n   • Comparing disease and death rates of migrants with the local population of the host country\n   Limitations of these studies: \n   • Non-randomization of these groups\n   • Environmental factors may act only up to a certain age\n   • Not useful for diseases with long incubation periods",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Epidemiology"
+    },
+    {
+      "q_no": 17,
+      "question": "What does bimodality in person distribution refer to?",
+      "options": {
+        "A": "Description of two etiological hypotheses of a disease in one person",
+        "B": "Evaluation of two different environmental factors of a person in disease causation",
+        "C": "Two separate peaks in the age incidence curve of a disease",
+        "D": "Equal incidence of a disease in male and female population"
+      },
+      "correct_answer": "C",
+      "explanation": "Bimodality refers to the occurrence of two separate peaks in the age incidence curve of a disease. Example: Hodgkin's lymphoma shows a bimodal curve with peaks at 15-20 years and 70–80 years.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp17_img1_e600fd85.jpeg",
+      "chapter_heading": "Descriptive Epidemiology"
+    }
+  ]
+}

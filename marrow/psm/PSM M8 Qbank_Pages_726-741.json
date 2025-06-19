@@ -1,0 +1,305 @@
+{
+  "chapter": "Health Planning and Management",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is the ultimate long-term desired state towards which all the resources are directed?",
+      "options": {
+        "A": "Target",
+        "B": "Mission",
+        "C": "Goal",
+        "D": "Objective"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is 'Goal' because it represents the ultimate long-term desired state.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is a set of rules that helps ensure maximum use of the resources and efforts?",
+      "options": {
+        "A": "Procedure",
+        "B": "Program",
+        "C": "Schedule",
+        "D": "Target"
+      },
+      "correct_answer": "A",
+      "explanation": "Procedure is a set of rules for carrying out work. It helps to ensure the maximum use of resources and efforts. Option B: Program is a sequence of activities designed to implement policies and accomplish objectives. Option C: Schedule is a time sequence for the work to be done. Option D: Target refers to the quantifiable and achievable mid-term endpoints in the plan.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 3,
+      "question": "A team of doctors is planning to conduct a survey on the prevalence of infective diarrhea in avillage. What is the correct sequence of steps involved in the planning of this activity?",
+      "options": {
+        "A": "1, 2, 3, 4",
+        "B": "4, 1, 2, 3",
+        "C": "3, 2, 4, 1",
+        "D": "3, 1, 4, 2"
+      },
+      "correct_answer": "D",
+      "explanation": "The planning cycle includes the following steps:••Analysis of the health situationEstablishment of objectives and goals•Assessment of resources•Fixing priorities732•Writing-up of a formulated plan• Programming and implementation•• Monitoring• EvaluationThe planning cycle has been summarized in the following image:The Planning CycleTabulate-Analyse-InterpretGather healthdataNoFormulate healthEvaluate resultgoals achieved?Goals satisfactory?tCollect data forevaluation↑OperateprogrammeInitiate integratedprogrammeOrient and trainpersonnelproblemsYesPlan implementationof integratedprogrammeAssign prioritiesamong problemsFormulate individualpriority problems forplanning solutionsDefine programmeobjectives and how tomeasure achievementAssign prioritiesamong objectivesDesign alternativeprogramme tosolve problemsSelect bestprogramme(feasibility/cost-effectiveness)Combine programmeand developintegrated planOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp3_img1_8ae8982c.jpeg",
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not a component of the evaluation of health programs?",
+      "options": {
+        "A": "Accessibility726",
+        "B": "Relevance",
+        "C": "Efficiency",
+        "D": "Repeatability"
+      },
+      "correct_answer": "D",
+      "explanation": "Repeatability is not a component of the evaluation of health programs.Components of evaluation are:(Mnemonic: Ryan Always Ate An Egg Every Evening)• Relevance• Adequacy• Accessibility•Acceptability•Effectiveness• Efficiency• Effect or impactThe steps of evaluation of a health programme are:••Determine what is to be evaluated: structure, process, or outcomeEstablish standards and criteria• Plan the methodology to be applied733• Gather information•Analyze the results• Take action• Re-evaluate",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following techniques is based on behavioral sciences?",
+      "options": {
+        "A": "Decision making",
+        "B": "Systems analysis",
+        "C": "Network analysis",
+        "D": "Management by objective"
+      },
+      "correct_answer": "D",
+      "explanation": "Management by objective is based on behavioral sciences.Management methods used in health programmes are either quantitative or based on behavioralsciences.Methods based on behavioral sciences include:.• Organizational design• Personnel management• Communication• Information systems• Management by objectives (MBO)Quantitative methods include:• Cost-benefit analysis•Cost-effective analysis• Cost-accounting• Input-output analysis• Model•Systems analysis•• Network analysis - includes programme evaluation and review technique (PERT) and criticalpath method (CPM)•Planning-programming-budgeting system (PPBS)•Work sampling•Decision making",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is a quantitative method of management?",
+      "options": {
+        "A": "Cost-benefit analysis",
+        "B": "Organizational design",
+        "C": "Human resource management",
+        "D": "Management by objectives"
+      },
+      "correct_answer": "A",
+      "explanation": "Cost-benefit analysis is a quantitative method of management.In this method, the economic benefits of any programme are compared with the costsincurred. The benefit of the programme is expressed in monetary units. The main drawback hereis that the benefits of a health programme cannot always be expressed in monetary terms.734Management methods used in health programmes are either quantitative or based on behavioralsciences.Methods based on behavioral sciences include:.• Organizational design•Personnel management• Communication• Information systems• Management by objectives (MBO)Quantitative methods include:• Cost-benefit analysis•Cost-effective analysis• Cost-accounting•• Input-output analysis• Model.Systems analysis• Network analysis - includes programme evaluation and review technique (PERT) and criticalpath method (CPM)• Planning—programming-budgeting system (PPBS)• Work sampling• Decision making",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 7,
+      "question": "In which of the following methods of management is the benefit measured in natural units?",
+      "options": {
+        "A": "Cost minimization analysis",
+        "B": "Cost-benefit analysis",
+        "C": "Cost accounting",
+        "D": "Cost-effective analysis"
+      },
+      "correct_answer": "D",
+      "explanation": "In cost-effective analysis (CEA), benefits are measured in natural units of the outcomes of theprograms.Cost measured inOutcome measured inUsesCost-effective analysisHealth unitsNatural (health) units like life-years gained, cases prevented, etc. Most comprehensive indicator quality-adjusted lifeyears (QALYs)-Evaluation of activities undera programme and comparing clinical strategies to deliverthe sameCost-benefit analysisMonetary unitsMonetary gainAt executive level of government (eg, budgeting, etc.)735",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the programme evaluation and review technique used for?",
+      "options": {
+        "A": "Network analysis",
+        "B": "Input-output analysis727",
+        "C": "Systems analysis",
+        "D": "Cost-accounting analysis"
+      },
+      "correct_answer": "A",
+      "explanation": "The programme evaluation and review technique (PERT) is used for network analysis.It is a type of quantitative management technique which helps in detailed planning andcomprehensive supervision.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following depicts the critical path in the project plan shown below?",
+      "options": {
+        "A": "Path 2",
+        "B": "Path 1",
+        "C": "Path 4",
+        "D": "Path 3PATH 1Task A3 daysTask B2 daysSTARTPATH 2PATH 3PATH 4Task C2 daysTask D1 dayTask F4 daysFINISHTask E3 daysOMARROWTask G3 days"
+      },
+      "correct_answer": "C",
+      "explanation": "The critical path in the critical path method (CPM) is the longest path denoted by path 4 (7 days)in the plan shown above.Any delay in the critical path will cause a delay in the entire project.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q9_img1_25636b4b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is true about the zero-based budgeting approach?",
+      "options": {
+        "A": "It does not rely on data from previous budget",
+        "B": "It is a management method based on behavioral sciences",
+        "C": "It proceeds from resource to target",
+        "D": "It is not a priority-based budgeting"
+      },
+      "correct_answer": "A",
+      "explanation": "In the zero-based budgeting approach (ZBB), the budget for each new period is created startingfrom a zero base. It does not rely on the data from the previous budget.It is a quantitative method of management.Traditional BudgetingPrevious year's budget used as a templateOnly new expenses need to be justifiedUsed to study changes in expenditureActivities are directed towards monitoring of expenditureZero-based BudgetingStart from zero base with newly set targets, followed bypriority-basedallocation of resources (target to resource)Each expense needs to be justified, both old and recurringexpensesUsed to study the cost-benefit analysisActivities are directed towards achievements of objectives",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 11,
+      "question": "728A hospital administrator is systematically recording the activities of his team at regularintervals. What is this known as?",
+      "options": {
+        "A": "Organizational design",
+        "B": "Decision making",
+        "C": "Systems analysis",
+        "D": "Work sampling"
+      },
+      "correct_answer": "D",
+      "explanation": "Work sampling is a systematic observation and recording of activities of one or more individualscarried out at regular or random intervals.It is a type of quantitative method of management. It helps in standardizing the methods ofperforming the jobs and determining the need for manpower.736Management methods used in health programmes are either quantitative or based on behavioralsciences.Methods based on behavioral sciences include:• Organizational design.•Personnel management• Communication• Information systems• Management by objectives (MBO)Quantitative methods include:• Cost-benefit analysis•Cost-effective analysis• Cost-accounting•• Input-output analysis• Model.Systems analysis• Network analysis - includes programme evaluation and review technique (PERT) and criticalpath method (CPM)• Planning—programming-budgeting system (PPBS)• Work sampling• Decision making",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 12,
+      "question": "Which committee had recommended a bachelor degree in medical education for rural healthservices?",
+      "options": {
+        "A": "Krishan committee",
+        "B": "High-level expert group on universal health coverage",
+        "C": "Shrivastav committee",
+        "D": "Committee on Integration of Health Services"
+      },
+      "correct_answer": "",
+      "explanation": "The high-level expert group (HLEG) on universal health coverage under the aegis of the PlanningCommission of India suggested a 3.5 year bachelor degree course in medical education for ruralhealth services.This was planned for the 12th five-year plan (2012-2017). The degree given was B.Sc CommunityHealth, and these rural health care practitioners were to be called community health officers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 13,
+      "question": "Who was appointed as the chairman of the Health Survey and Development Committee in1943?",
+      "options": {
+        "A": "Dr. A. L. Mudaliar",
+        "B": "Shri Mukerji",
+        "C": "Sir Joseph Bhore",
+        "D": "Dr. M. S. Chadah"
+      },
+      "correct_answer": "B",
+      "explanation": "Sir Joseph William Bhore was appointed as the chairman of the Health Survey and DevelopmentCommittee in 1943. This committee was hence named the Bhore committee.737",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp13_img1_f8a3ff0a.jpeg",
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 14,
+      "question": "Which health planning committee proposed the 3 million plan?",
+      "options": {
+        "A": "Kartar Singh committee",
+        "B": "Mudaliar committee",
+        "C": "Chadah committee",
+        "D": "Bhore committee729"
+      },
+      "correct_answer": "D",
+      "explanation": "The 3 million plan was proposed by the Bhore Committee.It proposed to set up the following in the long-term:•Primary health units with 75-bedded hospitals for each 10,000 to 20,000 population•Secondary units with 650 beds⚫ District hospitals with 2,500 beds•As a short-term measure, it was proposed that each PHC must cater to 40,000 people and have:• 2 medical officers, 4 public health nurses, 1 nurse4 midwives, 4 dais, 2 sanitary inspectors, 2 health assistants• 1 pharmacist• 15 other class IV employees",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 15,
+      "question": "What is the provision of preventive, curative, and promotional health services to everyindividual called?",
+      "options": {
+        "A": "Appropriateness",
+        "B": "Acceptability",
+        "C": "Adequacy",
+        "D": "Comprehensiveness"
+      },
+      "correct_answer": "D",
+      "explanation": "Comprehensive health care as stated by the Bhore committee means giving integrated preventive,curative, and promotional health care to every individual, irrespective of their ability to pay.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 16,
+      "question": "In the inventory management of drug stores, which of the following is a component of the VED method?",
+      "options": {
+        "A": "Desirable",
+        "B": "Discrete",
+        "C": "Definite",
+        "D": "Discard"
+      },
+      "correct_answer": "A",
+      "explanation": "The 'D' in the VED method stands for desirable. VED is a method of inventory management used mainly in drug stores and pharmacies. The drugs are classified in three categories as follows: • V - Vital drugs. Items whose absence cannot be tolerated (10% of total items). • E - Essential drugs. Items whose absence can be tolerated for some time (40% of total items). • D - Desirable drugs. Items whose absence can be tolerated for a long time (50% of total items).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 17,
+      "question": "A drug store owner uses the following technique of inventory management to procure drugs.What is this method known as?",
+      "options": {
+        "A": "FSN",
+        "B": "VED",
+        "C": "HML",
+        "D": "ABC"
+      },
+      "correct_answer": "D",
+      "explanation": "The method of analysis depicted above is the ABC analysis (always better control). It refers toa type of inventory management in which items are divided into 3 categories according to theircost.This type of analysis aims to calculate expenditures of large proportions on a small number ofitems and vice versa. It makes it easier to understand how to control the majority of expenditureby analyzing the small numbers of items it is being spent on.The table below explains ABC analysis:Other types of inventory management are:• FSN - Fast-slow-non moving drugs.• VED - Vital-essential-desirable drugs• HML - High-cost medium-cost low-cost drugs. In HML analysis the items are categories into H,M, L category based on unit cost.CategoryLabelCost(%)Items(%)Class A itemOutstandingly importa7015SntClass B itemAverage importance2530SClass C item-Relatively unimportant 55555S",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is not true regarding the National Health Policy of 2017?",
+      "options": {
+        "A": "Increase public health expenditure to 5% of GDP by 2025",
+        "B": "Reduce infant mortality to 28 by 2019",
+        "C": "Access to safe water and sanitation to all by 2020",
+        "D": "Achieve elimination of lymphatic filariasis by 2017730"
+      },
+      "correct_answer": "A",
+      "explanation": "National Health Policy (NHP) 2017 aims to increase the public health expenditure from existing1.15% to 2.5% of the GDP by 2025.The draft of the policy from 2015 was passed by the government in 2017 and is called the NationalHealth Policy (NHP) 2017.739Components of NHP 2017Health status and programme impactHealth systems performanceHealth systems financingPriority actions to improve the environment for healthOther provisionsQuantitative goals and objectives↑lifeexpectancyat birth from67.5 to 70 by 2025 infant mortalityrate to28by 2019↓neonatal mortalityto 16and stillbirth rate to a single digit by 2025 maternal mortalityratiofrom current levels to 100 by2020Elimination oflymphaticfilariasisby 2017↑ utilization of public healthfacilities by 50% by 2025 Antenatal care coverage above 90%>90% of newborns to be fully immunized by 1 year of age by 2025Access tosafe water and sanitationto all by 202o (Swachh Bharat Mission)publichealth expenditureto2.5% of GDP by 2025 ↑ state sector health spending to > 8% of budget by 2020Swachh Bharat AbhiyanBalancedhealthy dietsand regularexerciseAddressing tobacco,alcohol, and substance abuseYatri Surakshato reduce death due to accidents NirbhayaNarifor action against genderviolence Reduced stress and improved safety in workplacesReducing indoor and outdoor air pollutionNEET exam for UG↑ provisions for treatment and diagnosis in HIV-centered communitiesEstablishment of nursing schools in every districtFood safety",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 19,
+      "question": "Which article of the Indian Constitution confers Right to Life to the citizens of India?",
+      "options": {
+        "A": "Article 11",
+        "B": "Article 21",
+        "C": "Article 23",
+        "D": "Article 25"
+      },
+      "correct_answer": "B",
+      "explanation": "The Right to Life is given in Article 21 of the Indian Constitution.Option A: Article 11 defines the right of the parliament to regulate the right of citizenship by law.Option C: Article 23 defines the prohibition of traffic in human beings and forced labor.Option D: Article 25 defines the freedom of conscience and free profession, practice, andpropagation of religion.740",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is part of the concurrent list of the Indian Constitution?",
+      "options": {
+        "A": "Adulteration of food",
+        "B": "Fishing and fisheries beyond territorial waters",
+        "C": "Regulating labor in mines",
+        "D": "Public health and sanitation"
+      },
+      "correct_answer": "A",
+      "explanation": "Adulteration of food is included under the concurrent list.The legislative section of the seventh schedule is divided into three lists:•• Union list - a list of 100 items on which the parliament has exclusive power to legislate•State list - a list of 61 items on which the state government has exclusive power to legislate•• Concurrent list - a list of 52 items on which both central and state governments have theto legislatepower741",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Planning and Management"
+    }
+  ]
+}

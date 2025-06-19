@@ -1,0 +1,320 @@
+{
+  "chapter": "Water - III: Water Quality and Standards",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Above what level does the turbidity of water become visible to the naked eye?",
+      "options": {
+        "A": "5 NTU",
+        "B": "6 NTU",
+        "C": "3 NTU",
+        "D": "4 NTU"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the maximum permissible level of chloride in drinking water?",
+      "options": {
+        "A": "200 mg/L",
+        "B": "300 mg/L",
+        "C": "500 mg/L",
+        "D": "600 mg/L"
+      },
+      "correct_answer": "D",
+      "explanation": "The maximum permissible level of chloride in drinking water is 600 mg/litre.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 3,
+      "question": "A detectable taste begins to appear in drinking water if chloride levels in it exceed:",
+      "options": {
+        "A": "150 mg/L",
+        "B": "200 mg/L",
+        "C": "250 mg/L",
+        "D": "300 mg/L"
+      },
+      "correct_answer": "C",
+      "explanation": "A detectable taste begins to appear in drinking water if chloride levels in it exceed 250 mg/litre.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 4,
+      "question": "A large number of cases of methemoglobinemia were reported among infants from amunicipal area. On detailed investigation, the nitrate levels in drinking water were found tobe elevated in that area. This complication can occur when nitrate level in drinking waterexceeds:",
+      "options": {
+        "A": "15 mg/L555",
+        "B": "20 mg/L",
+        "C": "30 mg/L",
+        "D": "45 mg/L"
+      },
+      "correct_answer": "D",
+      "explanation": "Nitrates in the excess of 45 mg/L may cause methaemoglobinemia in infants.561",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 5,
+      "question": "Which is the most undesirable metal in drinking water?",
+      "options": {
+        "A": "Lead",
+        "B": "Iron",
+        "C": "Arsenic",
+        "D": "Mercury"
+      },
+      "correct_answer": "A",
+      "explanation": "The most undesirable metal in drinking water is lead.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the acceptable level of total dissolved solids in drinking water in India?",
+      "options": {
+        "A": "300 mg/L",
+        "B": "800 mg/L",
+        "C": "500 mg/L",
+        "D": "1000 mg/L"
+      },
+      "correct_answer": "",
+      "explanation": "According to the Bureau of Indian Standards (BIS), the acceptable level of total dissolved solids(TDS) in drinking water in India is 500 mg/L.Note: There is a variation in the value of the acceptable level of total dissolved solids in drinkingwater provided by WHO and the Bureau of Indian Standards (BIS). While the WHO sets the valueat 600 mg/L, the BIS has set it at 500 mg/L for India.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the proposed guideline for the permissible radioactivity values for drinking water?",
+      "options": {
+        "A": "Gross alpha activity up to 0.1 Bq/L and gross beta activity up to 1 Bq/L",
+        "B": "Gross alpha activity up to 1 Bq/L and gross beta activity up to 0.5 Bq/L",
+        "C": "Gross alpha activity up to 0.5 Bq/L and gross beta activity up to 1 Bq/L",
+        "D": "Gross alpha activity up to 0.1 Bq/L and gross beta activity up to 0.5 Bq/L"
+      },
+      "correct_answer": "",
+      "explanation": "The proposed guideline for the permissible radioactivity values for drinking water is:Gross alpha activity up to 0.5 Bq/litre.Gross beta activity up to 1.0 Bq/litre.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 8,
+      "question": "In view of a hepatitis A outbreak in a hostel, samples of drinking water are collected to detectfecal contamination. Presence of which of the following organisms serves as the most reliableevidence of fecal contamination?556",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Clostridium perfringens",
+        "C": "Streptococcus faecalis",
+        "D": "Klebsiella aerogens"
+      },
+      "correct_answer": "",
+      "explanation": "The presence of Escherichia coli is the most suitable and reliable evidence of fecal contaminationof water.Klebsiella aerogens is a typical example of the non-fecal group of coliform organisms.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 9,
+      "question": "A microbiologist is testing a sample of drinking water to detect fecal contamination. Thepresence of all of the following organisms indicates a positive test result except:",
+      "options": {
+        "A": "1 and 4",
+        "B": "1, 4 and 5",
+        "C": "2 and 5",
+        "D": "2, 3, and 5"
+      },
+      "correct_answer": "A",
+      "explanation": "Presence of Staphylococcus and Klebsiella aerogens does not indicate fecal contamination ofwater.Biological indicators of fecal pollution of water are:• Streptococcus faecalis•Escherichia coli• Clostridium perfringens",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following statements is incorrect about water purification and pollution?",
+      "options": {
+        "A": "Presence of clostridial spores indicates recent contamination",
+        "B": "Sodium thiosulphate can be used to dechlorinate water",
+        "C": "Coliforms must not be detectable in any 100 ml sample of drinking water",
+        "D": "Coliforms can be detected by the multiple tube method"
+      },
+      "correct_answer": "A",
+      "explanation": "The presence of clostridial spores indicates remote or intermittent contamination of water.562",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 11,
+      "question": "Multiple tube method is done for which of the following?",
+      "options": {
+        "A": "Detecting the presence of coliform organisms in a sample of water",
+        "B": "Detecting the presence of enteric viruses in a sample of water",
+        "C": "Estimating the levels of mercury in a sample of water",
+        "D": "Estimating turbidity of a sample of water"
+      },
+      "correct_answer": "A",
+      "explanation": "The multiple tube method is done to detect the presence of coliform organisms in a sample ofwater.In order to estimate the presumptive coliform count, water to be tested is inoculated into tubescontaining a suitable liquid medium. These tubes are then incubated and examined after anappropriate period of time. The test is called presumptive because the reaction observed in thetube may occasionally be due to other organisms.The proportion of false-positive reactions obtained depends both on the bacterial flora of thewater under examination and the medium used. Lactose broth, or MacConkey's broth,with bromocresol purple as an indicator and a standardized concentration of bile salts incubatedbetween 35°C-37°C for 48 hours, seems to be the most suitable media for presumptive tests.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 12,
+      "question": "What is the acceptable bacteriological quality of drinking water in small communities?557",
+      "options": {
+        "A": "No coliform bacteria in 100 ml of water",
+        "B": "Upto 10 coliform bacteria in 100 ml of water",
+        "C": "Upto 10 coliform bacteria in 1000 ml of water",
+        "D": "Upto 100 coliform bacteria in 1000 ml of water"
+      },
+      "correct_answer": "A",
+      "explanation": "There must be no coliform bacteria in any 100 ml sample of drinking water as its presenceindicates fecal contamination.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following criteria is true for safe drinking water according to the WHOguidelines?-",
+      "options": {
+        "A": "pH 6.5 to 8.5",
+        "B": "Chloride 0.8 g/L-",
+        "C": "Nitrate 0.2 g/L-",
+        "D": "Lead - 0.1 mg/L"
+      },
+      "correct_answer": "",
+      "explanation": "The desirable pH of safe drinking water ranges from 6.5 to 8.5.The maximum permissible level of chloride in drinking water is 0.6 g/L (600 mg/L), and thatof nitrates is 0.05 g/L (50mg/l).The concentration of lead must be kept at &lt;0.01 mg/L. It is the most undesirable metal indrinking water.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following is a criterion included in the guidelines for drinking water qualityrecommended by WHO?",
+      "options": {
+        "A": "Color &lt; 15 TCU",
+        "B": "Nitrites &lt; 20 mg/l",
+        "C": "Turbidity &lt; 20 NTU",
+        "D": "Arsenic &lt; 0.2 mg/l"
+      },
+      "correct_answer": "",
+      "explanation": "According to WHO, the permissible level of color in drinking water is &lt;15 true color units(TCU).The permissible level of turbidity in drinking water is &lt;1 NTU. The permissible level of arsenicis up to 0.01 mg/l and nitrites is up to 3 mg/l.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 15,
+      "question": "Temporary hardness of water is primarily due to the presence of which of the following?",
+      "options": {
+        "A": "Calcium and magnesium sulphates",
+        "B": "Calcium and magnesium chlorides",
+        "C": "Calcium and magnesium bicarbonates",
+        "D": "Calcium and magnesium carbonates"
+      },
+      "correct_answer": "A",
+      "explanation": "563The temporary hardness of water is primarily due to the presence of calcium and magnesiumbicarbonates.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following does not cause hardness of water?558",
+      "options": {
+        "A": "Calcium carbonate",
+        "B": "Calcium sulphateCalcium bicarbonated) Magnesium bicarbonateQuestion 17:What is the level of hardness in soft water?a) &lt; 1 mEq/Lb) 1 - 2 mEq/L",
+        "C": "2 - 3 mEq/L",
+        "D": "&gt; 3 mEq/L"
+      },
+      "correct_answer": "A",
+      "explanation": "Calcium carbonate does not cause hardness of water. Hardness of water is caused by bicarbonatesand sulphates of calcium and magnesium.There are two types of hardness of water:• Temporary (carbonate) hardness is due to bicarbonates of calcium and magnesium.• Permanent (non-carbonate) hardness is due to sulphates, chlorides and nitrates.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 18,
+      "question": "How would you classify a water sample that has a level of hardness of 200 mg/litre?",
+      "options": {
+        "A": "Very hard water",
+        "B": "Hard water",
+        "C": "Moderately hard water",
+        "D": "Soft water"
+      },
+      "correct_answer": "B",
+      "explanation": "When the level of hardness of water is in the range of 150 - 300 mg/litre, it is classified as hardwater.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 19,
+      "question": "A health worker is conducting periodic quality test for water sources in your area. Whatshould be the hardness level of water used for drinking purposes?",
+      "options": {
+        "A": "&gt; 5 mEq/L",
+        "B": "&lt; 1 mEq/L",
+        "C": "1 - 3 mEq/L",
+        "D": "3 - 5 mEq/L"
+      },
+      "correct_answer": "C",
+      "explanation": "Water used for drinking purposes must have a hardness level of 1 - 3 mEq/L (moderately hard).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 20,
+      "question": "Above what level of hardness is softening of water recommended?559",
+      "options": {
+        "A": "50 mg/l",
+        "B": "125 mg/l",
+        "C": "100 mg/l",
+        "D": "150 mg/l"
+      },
+      "correct_answer": "D",
+      "explanation": "Softening of water is recommended when the hardness exceeds 3 mEq/l (150 mg/litre).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is not a method of removal of hardness of water?",
+      "options": {
+        "A": "Base exchange process",
+        "B": "Addition of sodium carbonate",
+        "C": "Boiling",
+        "D": "Filtration"
+      },
+      "correct_answer": "D",
+      "explanation": "Filtration is not a method of removal of hardness of water.Methods for removal of hardness of water are:•Boiling• Addition of lime564•Addition of sodium carbonate (soda ash)•Base exchange process",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    },
+    {
+      "q_no": 22,
+      "question": "What is the composition of permutit which is used for the base exchange process to removehardness of water?",
+      "options": {
+        "A": "Sodium aluminium silicate",
+        "B": "Hexachlorocyclohexane",
+        "C": "Calcium magnesium silicate",
+        "D": "Calcium aluminium silicate"
+      },
+      "correct_answer": "A",
+      "explanation": "Permutit is a complex chemical compound made of sodium, aluminium and silica. It is usedto remove hardness of water by base exchange process.Permutit has the property of ion exchange and removes calcium and magnesium from water. Itremoves both permanent and temporary hardness.565",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - III: Water Quality and Standards"
+    }
+  ]
+}

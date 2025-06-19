@@ -1,0 +1,350 @@
+{
+  "chapter": "Demography II: Demographic indicators",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a vital statistic?",
+      "options": {
+        "A": "Natural growth rate",
+        "B": "Fertility rate",
+        "C": "Sex ratio",
+        "D": "Life expectancy at birth"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 2,
+      "question": "While conducting a demographic study, you need to calculate the total dependency ratio ofthe study population. Which of the following will you include in the numerator whilecalculating this?",
+      "options": {
+        "A": "Population under 10 years and above 60 years",
+        "B": "Population under 15 years and above 60 years",
+        "C": "Population under 10 years and above 65 years",
+        "D": "Population under 15 years and above 65 years"
+      },
+      "correct_answer": "",
+      "explanation": "Population under 15 years and above 65 years are part of the numerator used to calculate the totaldependency ratio. This is because this population is considered the dependant population.Total dependency ratioTotal dependency ratio=Total population below 15 years andabove 65 yearsTotal population in the age groupof 15-64 yearsOMARROWX 100The dependant population includes children below 15 years of age and adults above 65 years ofage. The total dependency ratio is the ratio of the combined dependent population to those in theage group of 15 - 65 years. It is also called the societal dependency ratio. It can also be dividedinto the young-age and old-age dependency ratios.434Note: As of mid-year 2020, the dependency ratio of India is 48.7%.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp2_img1_ce0f12f3.jpeg",
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 3,
+      "question": "While studying a community, the researcher found 30% of the population to be below 15years of age, and 10% was over 65 years of age. What is the total dependency ratio of thispopulation?",
+      "options": {
+        "A": "20.4%",
+        "B": "40%",
+        "C": "66.6%",
+        "D": "50%"
+      },
+      "correct_answer": "",
+      "explanation": "The total dependency ratio in this population is 66.6%.This can be calculated as follows.Total dependency ratioTotal dependency ratio =Total population below 15 years andabove 65 yearsTotal population in the age groupof 15-64 yearsOMARROWX 100is = 30%Here, the total population below 15 years of age is == 100 - (30 + 10) = 60%Total population above 65 years of age = 10%So, total population between 15-65 years of ageHence, dependency ratio in this population = 100* (30% + 10%)/60% = 66.6%",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp3_img1_4b5ad4df.jpeg",
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 4,
+      "question": "What is potential support ratio?427",
+      "options": {
+        "A": "Number of persons aged 15 to 64 per child below 15 years or less",
+        "B": "Number of persons aged 15 to 64 per older person aged 65 or more",
+        "C": "Number of persons aged 15 to 64 per each older person aged &gt;65 and younger person aged&lt; 15",
+        "D": "Number of persons aged 15 to 64 per each older person aged &gt; 60 and younger person aged&lt;15"
+      },
+      "correct_answer": "",
+      "explanation": "The potential support ratio is the number of persons aged 15 to 64 per one older person aged 65or more. It is the inverse of the old-age dependency ratio.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is the major contributor to demographic burden?",
+      "options": {
+        "A": "Increased potential support ratio",
+        "B": "Increased young age dependency ratio",
+        "C": "Decreased fertility rates",
+        "D": "Increased old age dependency ratio"
+      },
+      "correct_answer": "D",
+      "explanation": "Demographic burden refers to an increase in the total dependency ratio. It is mostly caused by anincreased old-age dependency ratio.The term demographic bonus denotes the decline in dependency ratio due to declining fertility. Adecline in dependency ratio especially the young-age dependency ratio has been identified to be akey factor in the underlying rapid economic development.435The potential support ratio is the number of persons aged 15 to 64 per one older person aged 65or more. This is the inverse of the old-age dependency ratio.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following determines the carrying capacity of a population?",
+      "options": {
+        "A": "Population growth rate",
+        "B": "Birth rate",
+        "C": "Fertility rate",
+        "D": "Limiting resource"
+      },
+      "correct_answer": "D",
+      "explanation": "The carrying capacity is the number of individuals of a population that can be supported for a period of time given the resources of that area. Thus, the carrying capacity is determined by the limiting resources of an area.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is false about crude birth rate?",
+      "options": {
+        "A": "Simplest measure of fertility",
+        "B": "Unsatisfactory usage",
+        "C": "Age independent",
+        "D": "Numerator includes still births"
+      },
+      "correct_answer": "",
+      "explanation": "The numerator of crude birth rate only includes live births and does not include stillbirths.Crude birth rate = No. of live births during the year x 1000/ Estimated mid-year population",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 8,
+      "question": "428As part of the national maternity benefit scheme, you have been tasked with conducting astudy in a community of 5000 people. What is the expected number of pregnant women inthis community if the crude birth rate is 30 per 1000 people?",
+      "options": {
+        "A": "175",
+        "B": "150",
+        "C": "165",
+        "D": "145"
+      },
+      "correct_answer": "C",
+      "explanation": "The expected number of pregnant females in the given community would be 165.Step 1: In the given question, the crude birth rate is 30 per 1000 people i.e 30 children are bornfrom pregnant mothers for every 1000 people. Therefore there are 30 pregnant females per 1000population.Step 2: Since the total population is 5000, the total no of pregnant females = 5000 x 30/1000150Step 3: Since some pregnancies may not result in live births (abortions and stillbirths), acorrection factor of 10% should be added to avoid the underestimation of the number ofpregnancies. Pregnancy wastage (i.e 10% of total live births) =10 x 150/100=15.Step 4: Total pregnant females = total live births + pregnancy wastage = 150+15=165.=",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 9,
+      "question": "According to NFHS-5, what is the sex ratio in India?",
+      "options": {
+        "A": "1037 females per 1000 males",
+        "B": "985 females per 1000 males",
+        "C": "940 females per 1000 males",
+        "D": "1020 females per 1000 males"
+      },
+      "correct_answer": "D",
+      "explanation": "According to the NFHS-5 (2019-21), the sex ratio in India is 1020 females per 1000 males. It hasincreased from the 2011 Census which had found a sex ratio of 940 females per 1000 males.The sex ratio at birth is 929 females per 1000 males.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 10,
+      "question": "For a population of 10,000, what does a sex ratio of more than 1000 mean?",
+      "options": {
+        "A": "Males are less than 500",
+        "B": "Females are less than 500",
+        "C": "Males are less than 5000",
+        "D": "Females are less than 5000"
+      },
+      "correct_answer": "C",
+      "explanation": "For a population of 10000, if the sex ratio is more than 1000, it means males are less than 5000i.e., less than half the population.436The sex ratio refers to the number of females per 1000 males. An ideal sex ratio would be 1000,indicating the population comprises an equal number of males and females.Sex ratio &gt;1000 indicates that there are more females than males in a population. Sex ratio&lt;1000 indicates that there are fewer females compared to males in the population.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 11,
+      "question": "What is the definition of the net reproduction rate?",
+      "options": {
+        "A": "No. of children that would be born to married women assuming fixed age specific fertility andmortality rate",
+        "B": "No. of girls that would be born to married women assuming fixed age specific fertility andmortality rate",
+        "C": "No. of female children a new born girl will bear during her lifetime assuming fixed age specificfertility and mortality rate",
+        "D": "No. of children a new born girl will bear during her lifetime assuming fixed age specific fertilityand mortality rate429"
+      },
+      "correct_answer": "C",
+      "explanation": "Net reproduction rate (NRR) is defined as the number of daughters a newborn girl will bearduring her lifetime assuming fixed age-specific fertility and mortality rate.India is aiming for an NRR of 1 as it is equivalent to the two-child norm.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 12,
+      "question": "An epidemiologist would consider the growth of his study population to be inadequate if hefound the NRR to be:",
+      "options": {
+        "A": "&lt;1",
+        "B": "=1",
+        "C": "&gt;1",
+        "D": "&gt;2"
+      },
+      "correct_answer": "A",
+      "explanation": "If the NRR is less than 1, then the population growth of a community is said to be inadequate.Net reproduction rate (NRR) is the number of daughters a newborn girl will bear during herlifetime assuming age-specific fertility and mortality rates.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 13,
+      "question": "What should the net reproductive rate of a population be to attain a 2 child norm?",
+      "options": {
+        "A": "&lt; 1",
+        "B": "1",
+        "C": "&lt; 2",
+        "D": "2"
+      },
+      "correct_answer": "B",
+      "explanation": "The net reproductive rate (NRR) should be 1 to attain the 2 child norm.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 14,
+      "question": "In order to reach the demographic goal of NRR=1, the couple protection rate should exceed?",
+      "options": {
+        "A": "50%",
+        "B": "40%",
+        "C": "70%",
+        "D": "60%"
+      },
+      "correct_answer": "D",
+      "explanation": "In order to reach the demographic goal of NRR=1, the couple protection rate (CPR) should exceed60%. This coincides with every couple having 2 children.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 15,
+      "question": "What is the denominator used in the formula for calculating the general fertility rate?",
+      "options": {
+        "A": "Total number of women in the population",
+        "B": "Mid-year population",
+        "C": "Mid-year population of women in the reproductive age group",
+        "D": "Total number of married women in the age group 15 – 45430"
+      },
+      "correct_answer": "",
+      "explanation": "The denominator used to calculate the general fertility rate is mid-year population of women inthe reproductive age group.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 16,
+      "question": "To assess the effects of the national population policy, data is being collected at the PHC level.You have been asked to submit data regarding the approximate magnitude of completedfamily size in the population under your PHC. Which of the following indicators will youcalculate?",
+      "options": {
+        "A": "General fertility rate",
+        "B": "Total fertility rate",
+        "C": "Gross reproduction rate",
+        "D": "Net reproduction rate"
+      },
+      "correct_answer": "B",
+      "explanation": "The total fertility rate is an indicator of the approximate magnitude of completed family size.437",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 17,
+      "question": "What is the infant mortality rate in India as per the SRS Statistical Report (2020)?",
+      "options": {
+        "A": "35.2 per 1000 live births",
+        "B": "28 per 1000 live births",
+        "C": "30 per 1000 live births",
+        "D": "32.5 per 1000 live births"
+      },
+      "correct_answer": "B",
+      "explanation": "The infant mortality rate (IMR) in India as per the SRS statistical report (2020) is 28 per 1000live births.IMR is defined as the number of infant deaths for every 1000 live births. As per the NationalFamily Health Survey - 5 (2019-2021), the IMR is 35.2 per 1000 live births.IMR is considered the best indicator of the availability, utilization, and effectiveness of healthcare.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 18,
+      "question": "Maternal mortality ratio (MMR) for a country is best given as",
+      "options": {
+        "A": "Maternal deaths per 100 live births",
+        "B": "Maternal deaths per 10,000 live births",
+        "C": "Maternal deaths per 100,000 live births",
+        "D": "Maternal deaths per 1,000 live births"
+      },
+      "correct_answer": "",
+      "explanation": "Maternal mortality ratio is the number of maternal deaths in a given period per 100,000 livebirths during the same period.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 19,
+      "question": "What is the maternal mortality ratio in India according to the Special Bulletin on MaternalMortality (2018-2020) based on SRS data?",
+      "options": {
+        "A": "122",
+        "B": "97431",
+        "C": "113",
+        "D": "110"
+      },
+      "correct_answer": "B",
+      "explanation": "The maternal mortality ratio (MMR) in India according to the Special Bulletin (2018-2020) basedon SRS data is 97.MMR is defined as the number of maternal deaths per 100,000 live births.The most common causes of maternal mortality in India are postpartum hemorrhage andinfections.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 20,
+      "question": "While collecting data for the census, which of the following people would you consider to beliterate?",
+      "options": {
+        "A": "A person who is able to read, write and understand in any language",
+        "B": "A person who is not able to read or write but can sign legal documents",
+        "C": "A person who is able to speak fluently in his native language but is not able to read or write",
+        "D": "A person who is able to read, but may not be able to write"
+      },
+      "correct_answer": "A",
+      "explanation": "A person is considered literate if he or she can read, write and understand in any language.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 21,
+      "question": "What is the denominator of the formula used to calculate effective literacy rate?",
+      "options": {
+        "A": "Total mid-year population",
+        "B": "Population aged 7 years or more",
+        "C": "Population less than 15 years of age",
+        "D": "Population aged 18 years or more"
+      },
+      "correct_answer": "B",
+      "explanation": "The denominator used to calculate the effective literacy rate is the population aged 7 years ormore. It is calculated as follows.Effective literacy rate = Number of literate persons aged 7 and above x 100/ Population aged 7 andabove in a given year.This rate is generally used in Indian censuses including those in 1991, 2001, and 2011 forestimating literacy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 22,
+      "question": "You are studying the literacy rate of a community with a total population of 10000. Out ofthese, there are 2000 children from 0-6 years of age, and 4000 literate individuals above 7years of age. What is the effective literacy rate of this population?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "50%",
+        "D": "30%"
+      },
+      "correct_answer": "C",
+      "explanation": "438The effective literacy rate of this population is 50%.It is calculated as follows,Effective literacy rate = (Number of literate persons aged 7 and above x 100) / population aged 7and above in a given year.In the given scenario, people aged 7 years and above = 10000-2000 = 8000. Out of these 8000people, 4000 are literate.Thus, effective literacy rate = 4000 x 100/8000 = 50%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following is false regarding the criteria for an urban Indian city?",
+      "options": {
+        "A": "Having 5000 or more inhabitants432",
+        "B": "Having a density of 390 persons per square km",
+        "C": "At least half of the adult male population employed in occupations other than agriculture",
+        "D": "Having pronounced urban characteristicsCorrect Option"
+      },
+      "correct_answer": "C",
+      "explanation": "In an urban area, at least three-fourths of the adult male population are employed in occupationsother than agriculture.In the Indian context, the urban areas are places:•having 5,000 or more inhabitants••••having a density of not less than 1,000 persons per square mile or 390 per square kilometerhaving pronounced urban characteristics⚫ having at least three-fourths of the adult male population employed in pursuits other thanagriculture439",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Demography II: Demographic indicators"
+    }
+  ]
+}

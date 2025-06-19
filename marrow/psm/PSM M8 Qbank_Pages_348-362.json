@@ -1,0 +1,275 @@
+{
+  "chapter": "National Health Programmes I - NVBDCP",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "You are working as the PHC Medical Officer in your village. Which of the following diseaseswould you not target under the National Vector Borne Disease Control Programme?",
+      "options": {
+        "A": "Chikungunya",
+        "B": "Japanese encephalitis",
+        "C": "Visceral leishmaniasis",
+        "D": "Cutaneous leishmaniasis"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp1_img1_45a2046c.jpeg",
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 2,
+      "question": "The insect shown below is a vector for a disease that is targetted under the National VectorBorne Disease Control Programme. Identify the disease.",
+      "options": {
+        "A": "Chikungunya",
+        "B": "Visceral leishmaniasis",
+        "C": "Malayan filariasis",
+        "D": "Japanese encephalitis"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shown is of the Culex species of mosquitoes, which is a vector for Japanese encephalitisand Bancroftian filariasis.Mansonia species is the vector for Malayan filariasis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q2_img1_900795ea.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 3,
+      "question": "348Which of the following is carried out by the Drug Distribution Centres under the NationalVector Borne Disease Control Programme for Malaria?",
+      "options": {
+        "A": "2 and 4",
+        "B": "2 only",
+        "C": "1, 2, and 3",
+        "D": "1, 2, and 4"
+      },
+      "correct_answer": "B",
+      "explanation": "The Drug Distribution Centres are only for dispensing anti-malarial drugs, under the NationalVector Borne Disease Control Programme (NVBDCP) for Malaria.The organizational structure for the Anti-Malaria Programme is as follows:• Central Government: supplies DDT and larvicides.••State government: procures the Indoor Residual Sprays (IRS) for the districts.• District Malaria Office: is the key unit for the implementation of the programme.• District Malaria Officer: has the direct responsibility of IRS spraying operations and is assistedby one Assistant Malaria Officer and Malaria Inspectors.•• Medical officer of the PHC: has the overall responsibility for the surveillance and laboratoryservices.•Multi-Purpose Workers and ASHAs: carry out case-based surveillance and case detection in thecommunity.• Drug Distribution Centres: only for dispensing the antimalarial drugs.• Fever Treatment Depots: collect blood slides in addition to the distribution of antimalarial drugs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements is true regarding the surveillance system set up formalaria?",
+      "options": {
+        "A": "Active case detection is carried out when patients report with fever to the peripheral healthworkers",
+        "B": "Blood smears are collected fortnightly during house visits by Accredited Social Health Activists",
+        "C": "Antibody detecting rapid diagnostic kits are used for passive case detection as part ofsurveillance",
+        "D": "Passive case detection at the Primary Health Centre is done by examination of blood smears"
+      },
+      "correct_answer": "D",
+      "explanation": "Passive case detection at Primary Health Centres (PHCs) is done by examination of blood smears.Malaria surveillance system:Active case detection: blood smears are collected by the Multipurpose Health Workers (MPHW)/Auxiliary Nurse Midwife (ANM) on house visits every fortnight.Passive case detection: detection of fever case by collecting of blood smears of those that reportto ASHAS or peripheral health volunteers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following measures for controlling malaria is the Urban Malaria Scheme mainlybased on?",
+      "options": {
+        "A": "Measurement of Annual Parasite Index",
+        "B": "Anti-adult measures",
+        "C": "Anti-larval measures",
+        "D": "Active surveillance"
+      },
+      "correct_answer": "C",
+      "explanation": "356The Urban Malaria Scheme is mainly based on anti-larval measures for controlling malaria. InUrban Malaria Scheme, urban areas with a population of &gt;50,000 and a slide positivity rate of25% are included.The vector in urban areas breeds in man-made containers. Therefore, anti-larval measures such aslarvivorous fish and larvicides are used to control breeding as the primary method of vectorcontrol.In rural areas, anti-adult measures, such as Indoor Residual Spray (IRS) is the primary method ofvector control.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the most efficient anti-larval method to prevent urban malaria?",
+      "options": {
+        "A": "Clean drainage systems and sewers",
+        "B": "Cover overhead tanks properly",
+        "C": "Filling cesspools and ditches",
+        "D": "Use of larvivorous fishes349"
+      },
+      "correct_answer": "C",
+      "explanation": "The most efficient anti-larval method to prevent urban malaria is to cover overhead tanks andother man-made containers properly. This is because the vector of malaria in urban areas breedslargely in such man-made containers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 7,
+      "question": "The blood smear slides (",
+      "options": {
+        "A": "and (",
+        "B": "prepared from a patient suspected with malaria are shownbelow. Which of the following statements is incorrect regarding these tests?BAa) Slide (A) is used for estimating the parasite concentrationb) Slide (A) has been air dried for 10 minutes",
+        "C": "Slide (B) cannot be used for detecting the species of the parasite",
+        "D": "Jaswant Singh Bhattacharya stain is used for both"
+      },
+      "correct_answer": "A",
+      "explanation": "Slide (A) is a thin blood smear and slide (B) is a thick blood smear. Thin blood smears (slide A) arenot used for estimating parasite concentration. They are used to detect the species of parasite.Microscopy is the best method for the diagnosis of malaria due to its high sensitivity andspecificity. Jaswant Singh Battacharya (JSB) stain is used for staining both thick and thin smears.Thick smear is used to detect infection and estimate parasite concentration. The correct thicknessis the thickness through which a newsprint is barely visible. It is prepared by slow-drying for 30minutes, which leads to hemolysis and distortion of the plasmodia morphology. Hence, speciescannot be detected.Thin smear is used to identify the particular infecting species of Plasmodium. It is prepared by airdrying for 10 minutes and fixed in methanol. Thus, the plasmodia morphology is not distorted.ATHINSMEARBTHICKSMEAR357",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q7_img1_cccf112a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp7_img1_9d6c70a5.jpeg",
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 8,
+      "question": "The following two diagnostic techniques (",
+      "options": {
+        "A": "and (",
+        "B": "were performed in a medical campconducted for diagnosing malaria. Which is a true statement regarding these techniques?350B.A.KY OF HEALTHOPITALRECORD BOOKa) Image (A) - It is used for identifying the species of the malarial parasiteb) Image (A) It is not the established method of choice for diagnosing malaria in urban areas-",
+        "C": "Image (B) - Antibody detection by this test is the method of choice for diagnosing malaria ininaccessible and tribal areas",
+        "D": "Image (B) - Bivalent type of this test was used for detecting Plasmodium falciparum andPlasmodium vivax"
+      },
+      "correct_answer": "D",
+      "explanation": "Image (A) is a thick blood smear and Image (B) is the Rapid Diagnostic Test (RDT). Bivalent RDTsdetect P. falciparum and P. vivax.Thin blood smear is used to identify the particular infecting species. Thick blood smear is used todetect infection and estimate parasite concentration.Antibody detecting Rapid Diagnostic Tests (RDTs) are not the method of choice anymore indiagnosing malaria in inaccessible and tribal areas. The Antigen detecting RDTs and blood smearexamination are the recommended methods for diagnosis of malaria.Note: According to the announcement by Union Health Ministry in April 2018, antibody detectingRapid Diagnostic Tests (RDTs) for malaria is banned due to the high false-positive rates inendemic areas.Malaria Antigen detecting Rapid Diagnostic Test kit:MALARIAP.f/PanTIISTTTC Pan P.f",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q8_img1_9746aca4.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp8_img1_19ad7def.jpeg",
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following parameters would you use to check the efficiency of the surveillancesystem for malaria under the National Vector Borne Disease Control Programme?",
+      "options": {
+        "A": "Annual Parasite Index",
+        "B": "Annual Blood Examination Rate",
+        "C": "Slide positivity rate",
+        "D": "Slide falciparum rate"
+      },
+      "correct_answer": "B",
+      "explanation": "The Annual Blood Examination Rate (ABER) is used to check the efficiency of the surveillancesystem for malaria. It takes into account the number of slides examined for the population undersurveillance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 10,
+      "question": "According to the National Framework for Malaria Elimination in India, states are classifiedbased on which of the following parameters?",
+      "options": {
+        "A": "Annual parasite incidence",
+        "B": "Slide positivity rate",
+        "C": "Annual falciparum incidence351",
+        "D": "Annual blood examination rate"
+      },
+      "correct_answer": "A",
+      "explanation": "358The annual parasite incidence (API) is used in classifying states/UTs according to the NationalFramework for Malaria Elimination in India.The Annual Parasite Incidence is calculated as: (Cases in one year ×1000) / (Population undersurveillance).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is correct about the classification of malaria endemic states under theNational Strategic Plan for Malaria?",
+      "options": {
+        "A": "The states classified under Category o are in the elimination phase",
+        "B": "The states with API &lt;1 and all their districts reporting API &lt;1 are in the elimination phase",
+        "C": "The states with districts reporting API in between 1-2 per 1000 population are in theelimination phase",
+        "D": "The states classified under category 2 are in the phase of intensified control"
+      },
+      "correct_answer": "",
+      "explanation": "The National Strategic Plan for Malaria classifies the states under Category 1 of the NVBDCP to bein the elimination phase.Category 1 states are all states/UTs with API &lt;1 and all their districts reporting API &lt;1.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following months is observed as the anti-malaria month in India?",
+      "options": {
+        "A": "April",
+        "B": "May",
+        "C": "June",
+        "D": "July"
+      },
+      "correct_answer": "",
+      "explanation": "The anti-malaria month is observed in the month of June every year in our country, just beforethe onset of monsoon (transmission season of malaria) to enhance the level of awareness.World Malaria Day is observed on 25th April.Health daysDatesWorld Tuberculosis Day24th MarchWorld Health Day7th April25th AprilJuneWorld Malaria DayNational Anti Malaria MonthWorld Immunization WeekWorld No Tobacco DayWorld Blood Donor DayWorld Hepatitis DayBreastfeeding WeekWorld AIDS DaySexual and Reproductive Health Awareness DayLast week of Apri131st May14thJune28th July1stweek of August1st December12th February",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 13,
+      "question": "A rural medical officer implements Integrated Vector Management in his village. Which ofthe following measures of vector control would you prefer in a rural area?",
+      "options": {
+        "A": "Source reduction",
+        "B": "Indoor residual spray (IRS)",
+        "C": "Biological control using gambusia affinis",
+        "D": "Chemical control using mineral oils"
+      },
+      "correct_answer": "B",
+      "explanation": "The measure of vector control preferred for rural areas is indoor residual spray (IRS).Under integrated vector management (IVM), the preferred measures of vector control for359• Rural areas include: Anti-adult measures, using indoor residual spray (IRS)• Urban areas include: Anti-larval measures, like environmental control by source reduction,chemical control (mineral oils, Paris green, synthetic insecticides, etc.), and biological control (fishspecies Gambusia affinis and Lebistes reticulatus which feed on mosquito larvae).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 14,
+      "question": "Select the correct option regarding Intergrated Vector Management:",
+      "options": {
+        "A": "Malathion is the insecticide of choice used for vector management",
+        "B": "Larvivorous fish and larvicides are the main methods of vector control in rural areas352",
+        "C": "Long Lasting Insecticide Nets are provided in areas with API ≥5",
+        "D": "Insecticide treated bed nets are supplied in areas with API ≥3"
+      },
+      "correct_answer": "",
+      "explanation": "Under the Integrated Vector Management initiative, Long Lasting Insecticide Nets (LLIN) areprovided in areas with Annual Parasite Index (API) ≥5.Integrated Vector Management (IVM):• For adult mosquitoes:• Indoor Residual Sprays (IRS) are used as the main method of vector control in rural areas. Theinsecticide of choice will be the insecticide to which the local vector is susceptible as per the bestavailable information.•Two rounds of spraying are done with DDT, and in DDT resistant areas, three rounds ofspraying are done with malathion.• For larvae:.• Larvivorous fish and larvicides are used. This is the main method of vector control in urbanareas.• For personal protection:••Insecticide-treated bed nets are supplied in areas with Annual Parasite Index (API) ≥2.• Long-Lasting Insecticide Nets (LLIN) are provided in areas with API ≥5.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 15,
+      "question": "You are working as a medical officer in Jharkhand, which is endemic to the diseasetransmitted by the vector shown below. Which of the following agents would you prefer tocontrol this vector in view of resistance to commonly used agents?",
+      "options": {
+        "A": "Dihydro Diphenyl Trichloro ethane",
+        "B": "Synthetic pyrethroid",
+        "C": "Malathion",
+        "D": "Paris green"
+      },
+      "correct_answer": "B",
+      "explanation": "The image given is that of a sandfly, which is the vector for kala-azar. In endemic stateswith increasing resistance to commonly used agents like DDT, synthetic pyrethroids are preferrednow.The four states endemic for kala-azar are Bihar, Jharkhand, West Bengal and Uttar Pradesh.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q15_img1_c4d7f4fe.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 16,
+      "question": "According to the revised strategy for the eradication of kala-azar, which of the following drugswouldyou use across all age groups in order to reduce the human reservoir of infection?",
+      "options": {
+        "A": "Miltefosine",
+        "B": "Sodium stibogluconate",
+        "C": "Liposomal amphotericin B",
+        "D": "Ivermectin353"
+      },
+      "correct_answer": "",
+      "explanation": "A single dose of intravenous treatment with liposomal amphotericin B is used across all agegroups in order to reduce the human reservoir of infection. WHO will supply this drug free ofcost.Drugs for Kala Azar:360• Single-dose intravenous liposomal amphotericin B for all age groups and for pregnant and HIVco-infected patients.• Miltefosine- an oral drug, once daily for 28 days. Contraindicated during pregnancy, lactation,and in women who refuse contraception.•Combination of miltefosine capsules with paromomycin i.m, for 10 days. Contraindications arethe same as miltefosine.• The drug of choice for Post Kala-Azar Dermal Leishmaniasis (PKDL) is miltefosine 100mg orallyper day for 12 weeks.Ivermectin is used for lymphatic filariasis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following statements regarding the elimination and eradication of lymphaticfilariasis is true?",
+      "options": {
+        "A": "It will be considered as eliminated when the number of microfilaria carriers are less than 5percent",
+        "B": "It will be considered as eliminated when children born after initiation of the programme arefree from antigenemia",
+        "C": "India has set the target of eliminating lymphatic filariasis by 2025",
+        "D": "WHO recommends dual therapy with diethylcarbamazine and albendazole for elimination oftransmission"
+      },
+      "correct_answer": "",
+      "explanation": "Lymphatic filariasis will be considered eliminated when the children born after the initiation ofthe programme are free from antigenemia. Antigenemia refers to the presence of adult filariaworms in the human body.According to the Elimination of Lymphatic Filariasis (ELF) Programme, there are two criteria toconsider elimination of lymphatic filariasis:• Children born after the initiation of the elimination programme are free from circulatingantigenemia.•The number of microfilaria carriers is &lt;1%.Following the failure to achieve ELF by 2015, the target set to eliminate lymphatic filariasis byWHO was 2020. To achieve the same WHO recommended the use of triple therapy for lymphaticfilariasis. It incorporated ivermectin along with diethylcarbamazine (DEC) and albendazoleinstead of the traditional DEC and albendazole therapy, for the elimination of transmission oflymphatic filariasis.In 2021, WHO released the 'Road Map for Neglected Tropical Diseases (2021–2030)'. Under this,lymphatic filariasis is targeted for elimination as a public health problem by 2030.In February 2023, the Ministry of Health &amp; Family Welfare in India launched a nationwideSarva Dawa Sevan or Mass Drug Administration (MDA) campaign to eliminate LF by 2027,aiming to achieve this goal three years ahead of the global target.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    },
+    {
+      "q_no": 18,
+      "question": "As the medical officer in a Japanese encephalitis endemic area, which of the followingmeasures would you not advocate for controlling its transmission?",
+      "options": {
+        "A": "The use of Indoor Residual Sprays",
+        "B": "The use of larvivorous fishes",
+        "C": "Keeping pigs away from human dwellings",
+        "D": "The use of malathion for outdoor fogging"
+      },
+      "correct_answer": "C",
+      "explanation": "Indoor Residual Sprays (IRS) are not used in the vector control measures for JapaneseEncephalitis (JE) as its vectors (Culex) are outdoor resters.Prevention and control of JE include:• Vaccination•Keeping pigs away from human dwellings from dusk to dawn (biting time of the vectors). Pigsact as important amplifiers of the virus.361• Use of bed nets for personal protection.• Use of larvivorous fishes.•Using malathion for outdoor fogging to control an outbreak.362",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "National Health Programmes I - NVBDCP"
+    }
+  ]
+}

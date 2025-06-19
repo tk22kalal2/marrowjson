@@ -1,0 +1,170 @@
+{
+  "chapter": "Descriptive Statistics IV - Measures of Position",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a measure of position?",
+      "options": {
+        "A": "Z scores",
+        "B": "Range",
+        "C": "Centiles",
+        "D": "Quantiles"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements about quantiles are true?",
+      "options": {
+        "A": "1, 4 and 5",
+        "B": "1, 3 and 52, 3 and 4",
+        "C": "2,",
+        "D": "1, 2, 4 and 5"
+      },
+      "correct_answer": "",
+      "explanation": "Quantiles are elements in a distribution that divide data into equal groups. They are also knownas fractiles. Median divides a distribution into two equal parts, so it is considered as a quantile.Quantiles are used for continuous, quantitative data.Quintiles are a type of quantile that divides data into 5 equal groups.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 3,
+      "question": "Centiles divide data intoequal parts?",
+      "options": {
+        "A": "100",
+        "B": "4",
+        "C": "99",
+        "D": "10"
+      },
+      "correct_answer": "A",
+      "explanation": "Centiles divide data into 100 equal parts.837",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 4,
+      "question": "During a school health camp, a group of 250 students are arranged in the ascending order oftheir height. Which student would have the 40th percentile value for height?",
+      "options": {
+        "A": "80th",
+        "B": "40th834",
+        "C": "100th",
+        "D": "140th"
+      },
+      "correct_answer": "C",
+      "explanation": "Here, the 100th student will have the 40th percentile value for height.To arrive at this, we use the formula R = P/100 x (n + 1).where R is the rank of the desired observation, P is the quantile/percentile desired and n is thenumber of variables in the data.Thus, R40/100 x (250 + 1) = 0.4 x 251 = 100.4.This is rounded up to the closest number making R = 100.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 5,
+      "question": "By calculating which of the following can we obtain the central value of a sample with 180elements?",
+      "options": {
+        "A": "90th percentile",
+        "B": "2nd decile",
+        "C": "9th decile",
+        "D": "2nd quartile"
+      },
+      "correct_answer": "D",
+      "explanation": "The 2nd quartile gives the central value of 180 elements. The central value of a distribution isgiven by the median. It divides the distribution into the ratio of 1:1.In quartiles elements of the distribution are divided into 4 equal parts by 3 values. Each partcontains a quarter, i.e., 25% of the values. So two quarters would give half of the values. So theelement present at the position of the 2nd quartile would be the central value, i.e., the median,with half the values before and half the values after it. This is shown in the image given below.Quartiles1st QuartileMedian / 2ndQuartile3rd QuartileMARROW25% Data25% Data25% Data25% DataData DistributionOMARROWThe 5th decile and 50th percentile represent the median values of a distribution in decile andpercentile respectively.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp5_img1_db8854ce.jpeg",
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 6,
+      "question": "Which measure of position divides the distribution in a ratio of 3:1?",
+      "options": {
+        "A": "33rd centile",
+        "B": "First quartile",
+        "C": "7th decile",
+        "D": "Third quartile"
+      },
+      "correct_answer": "D",
+      "explanation": "Third quartile Q3 divides the distribution into the ratio of 3:1.838In quartiles:⚫ the first quartile Q1 divides the distribution in the ratio of 1:3••the second quartile Q2 divides it in the ratio of 1:1.The division of data by quartiles is shown in the below image.Quartiles1st QuartileMedian / 2ndQuartile3rd QuartileMARROW25% Data25% Data25% Data25% DataData DistributionOMARROWCentiles divide data into 100 equal parts. 33rd centile divides the distribution in the ratio of 33:67.Deciles divide data into 10 equal parts. 7th decile divides the distribution in the ratio of 7:3.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp6_img1_d3b85e4a.jpeg",
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 7,
+      "question": "You are recording the blood pressure values of 200 adults in a population. The first quartilediastolic BP is 68 mmHg and the third quartile is 105 mmHg. How many patients are there inthe 3rd and 4th quarters?",
+      "options": {
+        "A": "50",
+        "B": "100",
+        "C": "75",
+        "D": "150"
+      },
+      "correct_answer": "B",
+      "explanation": "In a quartile, the data is divided into 4 equal parts, i.e., 4 quarters. Therefore, in this scenario,there are 50% of patients in the 3rd and 4th quarters, i.e 100 patients.The division of data by quartiles is shown in the image given below.839Quartiles1st QuartileMedian / 2ndQuartile3rd QuartileMARROW25% Data25% Data25% Data25% DataData DistributionOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp7_img1_b212f887.jpeg",
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 8,
+      "question": "The forced expiratory volume (FEV) of 300 patients visiting the respiratory medicineoutpatient department is recorded. The data has a median value of 2.5 litres with the first and835third quartiles being 1.5 litres and 4.5 litres respectively. How many persons in the sample areexpected to have an FEV between 1.5 and 4.5 litres?",
+      "options": {
+        "A": "75",
+        "B": "150",
+        "C": "225",
+        "D": "200"
+      },
+      "correct_answer": "B",
+      "explanation": "150 persons are expected to have FEV between 1.5 and 4.5 litres.In a quartile, the data is divided by 3 values into 4 equal parts. Thus, each part will have 25% ofthe values in the distribution.In this scenario, each part will have 75 persons. Here, 1.5 is the first quartile Q1, 2.5 is the secondquartile Q2 and 4.5 is the third quartile Q3. Between Q1 and Q3 there are two quarters, thus therewill be 150 people with FEV between 1.5 and 4.5 litres.Data division by quartiles is shown in the below image.Quartiles1st QuartileMedian / 2ndQuartile3rd QuartileARROW25% Data25% Data25% Data25% DataData DistributionOMARROW840",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp8_img1_ac2a8b3b.jpeg",
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following distributions is preferred for the calculation of z scores?",
+      "options": {
+        "A": "Normal distribution",
+        "B": "Right skewed distribution",
+        "C": "Left skewed distribution",
+        "D": "Bimodal distribution"
+      },
+      "correct_answer": "A",
+      "explanation": "Z scores are usually calculated in normal distributions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 10,
+      "question": "In a study on haemoglobin levels in healthy women, the data recorded has a mean of 13.5gm/dL and a standard deviation of 1.5 gm/dL. What is the z score for an element with ahaemoglobin value of 15.0 gm/dL?",
+      "options": {
+        "A": "1.5",
+        "B": "10.0",
+        "C": "2.0",
+        "D": "1.0"
+      },
+      "correct_answer": "D",
+      "explanation": "The Z score for the element with a haemoglobin value of 15 gm/dL is 1.0.The formula for z score, z = (X- µ)/σ.X is the value of the element, u is the mean and σ is the standard deviation.In this scenario, z = (15 - 13.5) / 1.5 = 1.5/1.5 = 1.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    },
+    {
+      "q_no": 11,
+      "question": "The diastolic BP of 125 women aged between 18 and 60 years was recorded. The mean of thedata is 70 mmHg with a standard deviation of 10 mmHg. What will be the 5th percentilevalue?",
+      "options": {
+        "A": "40",
+        "B": "53.6",
+        "C": "67.5",
+        "D": "89.4836Question No.12"
+      },
+      "correct_answer": "B",
+      "explanation": "The z value for the 5th percentile is -1.645.Using the formula for z scores, z = (✗- μ)/σ, we get X = zo + μ.In this scenario, X = (-1.645 x 10) + 70 = -16.45 + 70 = 53.55 = 53.6.841",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics IV - Measures of Position"
+    }
+  ]
+}

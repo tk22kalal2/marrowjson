@@ -1,0 +1,500 @@
+{
+  "chapter": "Principles of Epidemiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not included in the format of the death certificate recommended by the WHO?",
+      "options": {
+        "A": "Condition directly leading to death",
+        "B": "Antecedent causes",
+        "C": "Other significant conditions contributing to death",
+        "D": "Age of person at the time of death"
+      },
+      "correct_answer": "D",
+      "explanation": "The age of the person at the time of death is not a condition, but rather a demographic detail that is typically included in a death certificate, however the question is about the format of the cause of death section.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 2,
+      "question": "You are filling the death certificate of a patient who died from rupture of the myocardium following an acute myocardial infarction. This was because of thrombosis in the coronary artery due to longstanding atherosclerosis. What will you record in line I (c) of the death certificate?",
+      "options": {
+        "A": "Rupture of myocardium",
+        "B": "Atherosclerosis",
+        "C": "Coronary artery thrombosis",
+        "D": "Myocardial infarction"
+      },
+      "correct_answer": "C",
+      "explanation": "Coronary artery thrombosis is to be filled in line I (c) of the death certificate as one of the antecedent causes in the order of the events that took place. The flow of events in this patient is as follows: Sequence of events leading to death - Antecedent causes: Atherosclerotic coronary artery disease, Coronary artery thrombosis, Acute myocardial infarction. Condition causing death: Rupture of myocardium. According to the death certificate format: *Antecedent causes: Morbid conditions, if any, giving rise to above cause, stating the underlying condition last. Rupture of (a) myocardium due to (or as a consequence of) Acute myocardial (b) infarction due to (or as a consequence of) Coronary artery (c) thrombosis due to (or as a consequence of) Atherosclerotic (d) coronary artery disease due to (or as a consequence of).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp2_img1_9af9b500.jpeg",
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 3,
+      "question": "An HIV positive patient was suffering from multi-drug resistant tuberculosis. He died of respiratory failure due to lobar pneumonia. Which of the following options is the most appropriate for line I (a) of the death certificate?",
+      "options": {
+        "A": "Respiratory failure",
+        "B": "Lobar pneumonia",
+        "C": "HIV",
+        "D": "Multi-drug resistant tuberculosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Lobar pneumonia is appropriate for line I (a) of the death certificate. Line I (a) consists of the immediate cause of death, such as the disease/condition. The immediate cause is the immediate/terminal event leading to death. In this patient: I(a) - Disease directly leading to death: Lobar pneumonia; I(b) - Antecedent cause: MDR tuberculosis; II - HIV. Respiratory failure is a mode of dying in this patient. It is not the cause of death. Terminal events like circulatory failure and respiratory failure are modes of dying. They should not be written as the immediate cause of death in the death certificate because they are just signs of death. Simply put, respiratory failure is 'how he died' whereas lobar pneumonia is 'why he died'. Therefore, lobar pneumonia (why he died) is the cause of the death.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp3_img1_f415ad24.jpeg",
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not a morbidity indicator?",
+      "options": {
+        "A": "Notification rates",
+        "B": "Years of potential life lost",
+        "C": "Spells of sickness",
+        "D": "Incidence"
+      },
+      "correct_answer": "B",
+      "explanation": "Years of potential life lost is not a morbidity indicator. It is a mortality indicator. It is the years of potential life lost through premature death. Notification rates, spells of sickness, and incidence are examples of morbidity indicators.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following statements about rate is false?",
+      "options": {
+        "A": "It measures the occurrence of an event in a population.",
+        "B": "It has no specification of time.",
+        "C": "It has a multiplier.",
+        "D": "Its numerator is mostly part of the denominator."
+      },
+      "correct_answer": "B",
+      "explanation": "Rate is the measurement of the occurrence of a particular event in a given time. Hence, rates have a specification in time. Examples include crude death rate, incidence rate, etc.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 6,
+      "question": "To calculate the crude death rate of a country, at what time of the year is the population assessed?",
+      "options": {
+        "A": "1st July",
+        "B": "31st March",
+        "C": "31st December",
+        "D": "1st May"
+      },
+      "correct_answer": "A",
+      "explanation": "The crude death rate is a mortality indicator, which uses the mid-year population as its denominator. The mid-year population is always attributed as the population on 1st July of any year. Hence, for calculating the crude death rate, the population is assessed on the 1st of July.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 7,
+      "question": "For which of the following purposes is age-specific death rate not used?",
+      "options": {
+        "A": "Identifying specific age groups at risk",
+        "B": "Comparison for different causes within the same population",
+        "C": "Comparison between different sexes in relation to accidents",
+        "D": "Comparison between different age groups in relation to accidents"
+      },
+      "correct_answer": "C",
+      "explanation": "Sex-specific death rates are used for the comparison between sexes and not age-specific death rates. Age-specific death rates are used for: • Comparison for different causes within the same population. • Comparison between different age groups in relation to a particular event. • Identifying specific age groups at risk.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 8,
+      "question": "An epidemiologist is assessing an outbreak of acute diarrheal disease in a region. He wants to predict the virulence of the causative agent. Which of the following parameters will he use for this purpose?",
+      "options": {
+        "A": "Secondary attack rate",
+        "B": "Case fatality rate",
+        "C": "Survival rate",
+        "D": "Incidence rate"
+      },
+      "correct_answer": "B",
+      "explanation": "Case fatality rate is used in this scenario as it is the most useful parameter to predict the virulence of an acute illness. It represents the killing power of disease. Note: Case fatality rate is an incidence proportion and not a true rate as no time interval is used for its calculation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 9,
+      "question": "Case fatality rate is",
+      "options": {
+        "A": "Spreading power of a disease",
+        "B": "Killing power of a disease over time",
+        "C": "Resistance to a disease",
+        "D": "Killing power of a disease with no time interval"
+      },
+      "correct_answer": "B",
+      "explanation": "Case fatality rate reflects the killing power of a disease over a specific time interval.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 10,
+      "question": "A village has a population of 30,000 people. 500 of them contracted a disease X, out of which 75 died. What is the case fatality rate?",
+      "options": {
+        "A": "15%",
+        "B": "0.15 or 15%",
+        "C": "0.13 or 13%",
+        "D": "0.08 or 8%"
+      },
+      "correct_answer": "A",
+      "explanation": "Case fatality rate is given by the formula: Case fatality rate = Total number of deaths due to a particular disease / Total number of cases due to the same disease. The total number of cases of disease X = 500. The total number of deaths = 75. Hence, the case fatality rate = 75/500 x 100 = 15%",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp10_img1_131d2366.jpeg",
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 11,
+      "question": "In a village of 5000 people, an outbreak of cholera led to 200 cases with 50 deaths. What is the case fatality rate?",
+      "options": {
+        "A": "1%",
+        "B": "2.5%",
+        "C": "10%",
+        "D": "25%"
+      },
+      "correct_answer": "D",
+      "explanation": "The case fatality rate is 25%. Case fatality rate: (Total number of deaths due to a particular disease)/(Total number of cases due to the same disease) x 100: 50/200 * 100 = 25%",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is the simplest measure of the burden of a disease in a community?",
+      "options": {
+        "A": "Case fatality rate",
+        "B": "Survival rate",
+        "C": "Proportional mortality rate",
+        "D": "Crude death rate"
+      },
+      "correct_answer": "D",
+      "explanation": "The crude death rate is the simplest measure to estimate the burden of a disease in a community. It is commonly used for broad disease groups and when population data is not available. It is of limited value in making comparisons between populations and in identifying risk groups. Proportional mortality rate = (Number of deaths from a specific disease in a year / Total deaths from all causes in that year) * 100. Under-5 proportional mortality rate = (Number of deaths under 5 years of age in the given year / Total number of deaths during the same period) * 100. Proportional mortality rate for aged 50 years and above = (Number of deaths of persons aged 50 years and above / Total deaths of all age groups in that year) * 100.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp12_img1_653f6656.jpeg",
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 13,
+      "question": "Among the following, which measurement can be used as a yardstick for the assessment of standards of therapy?",
+      "options": {
+        "A": "Prevalence",
+        "B": "Case fatality rate",
+        "C": "Standardized mortality rate",
+        "D": "Survival rate"
+      },
+      "correct_answer": "D",
+      "explanation": "The survival rate can be used as a yardstick for the assessment of standards of therapy. It is used as a method of describing prognosis and is widely employed in cancer studies. The survival rate is given by the following formula: Survival Rate = (Total number of patients alive after 5 years / Total number of patients diagnosed or treated) * 100",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp13_img1_d47f651b.jpeg",
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 14,
+      "question": "Standardisation was done before comparing the mortality rates of two countries. What is the rationale behind this?",
+      "options": {
+        "A": "Due to a difference in the number of deaths.",
+        "B": "Due to a difference in age distribution.",
+        "C": "Due to a difference in the population density.",
+        "D": "Due to a difference in the cause of death."
+      },
+      "correct_answer": "B",
+      "explanation": "While comparing the mortality rates of two countries, the standardization of rates is done due to differences in age distribution. The two types of standardisation include direct and indirect. In both methods, a standard population is chosen where the numbers in each age and sex group are known, and its choice is arbitrary. The commonly used standard populations are the Segi world population and the European standard population.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following statements is false about the standardized mortality ratio?",
+      "options": {
+        "A": "It is a form of direct standardization.",
+        "B": "Observed deaths and expected deaths are part of its formula.",
+        "C": "It permits adjustments for age.",
+        "D": "It can be used if the event of interest is the occurrence of disease."
+      },
+      "correct_answer": "A",
+      "explanation": "The standardized mortality ratio is a form of indirect standardization.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 16,
+      "question": "A party was attended by 110 people, out of which 40 did not eat fruit salad. Among the rest of those who ate fruit salad, 55 developed food poisoning. What is the attack rate?",
+      "options": {
+        "A": "46",
+        "B": "56",
+        "C": "78",
+        "D": "50"
+      },
+      "correct_answer": "C",
+      "explanation": "The attack rate is calculated by the formula: Attack Rate = Number of new cases in a specified period of time / Total population at risk during the given time X 100. In this scenario, the number of new cases is 55 and the total number of those at risk is 70 as they ate the fruit salad. Therefore, attack rate = 55/70 X 100 = 78.6%. Attack rate is an incidence rate. It is used only when the population is exposed to risk for a limited period.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp16_img1_5192d163.jpeg",
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 17,
+      "question": "Out of a family of 4 members, one of them developed a COVID-19 infection. Four days later, 2 other members developed the same. What is the secondary attack rate?",
+      "options": {
+        "A": "50%",
+        "B": "33%",
+        "C": "66%",
+        "D": "75%"
+      },
+      "correct_answer": "C",
+      "explanation": "Secondary attack rate is calculated by the following: Secondary Attack Rate = Number of exposed persons developing the disease within the range of incubation period / Total number of exposed or susceptible contacts x 100. In this scenario, there is one primary case. The total exposed contacts are the other 3 members of the family. The number of persons developing the disease is 2. So, secondary attack rate = 2/3 x 100 = 66%. Note: The primary case is excluded from both the numerator and denominator.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp17_img1_f0834e78.jpeg",
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following study designs would you prefer for calculating the incidence of a disease?",
+      "options": {
+        "A": "Case-control study",
+        "B": "Randomized controlled study",
+        "C": "Cohort studies",
+        "D": "Field trials"
+      },
+      "correct_answer": "C",
+      "explanation": "The study designs that can be used to calculate incidence are cohort studies and longitudinal studies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following statements about incidence are true?",
+      "options": {
+        "A": "3,5",
+        "B": "1,3,4",
+        "C": "2,4",
+        "D": "1,2,564"
+      },
+      "correct_answer": "B",
+      "explanation": "Incidence is not affected by the duration of the disease. Analysis of incidence rates may provide useful insights into the effectiveness of the health services provided. Incidence is the number of new cases occurring in a defined population during a period of time. Prevalence is more than incidence as it is the product of incidence and duration. Incidence is a type of rate and not a proportion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 20,
+      "question": "A medical officer noticed that there were 300 new cases of cholera in an area in a year. The total population in that area is 30,000. What is the incidence of cholera?",
+      "options": {
+        "A": "0.1 per 1000",
+        "B": "10 per 1000",
+        "C": "100 per 1000",
+        "D": "1 per 1000"
+      },
+      "correct_answer": "B",
+      "explanation": "The incidence of cholera is 10 per 1000. Incidence is given by the formula: Incidence = Number of new cases of disease in a specified period / Population at risk in that period. In this scenario, the number of new cases = 300. Total population = 30,000. Hence, the incidence rate = (300/30,000) x 1000 = 10. Therefore, it is 10 per 1000 per year.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is a good indicator of the efficacy of health programs?",
+      "options": {
+        "A": "Case fatality rate",
+        "B": "Prevalence",
+        "C": "Secondary attack rate",
+        "D": "Incidence"
+      },
+      "correct_answer": "D",
+      "explanation": "Incidence is a good indicator of the efficacy of health services and programs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following is false with regard to prevalence?",
+      "options": {
+        "A": "It is a product of incidence and duration.",
+        "B": "It can be determined by a cross-sectional study.",
+        "C": "It is an example of a rate.",
+        "D": "It is point prevalence unless specified."
+      },
+      "correct_answer": "C",
+      "explanation": "Prevalence is a proportion, not a rate. Prevalence is the proportion of all cases, old and new, of a particular disease at a given point in time or over a period of time in a given population. It can be determined from cross-sectional studies. Types of prevalence: • Point prevalence is the prevalence at a point in time. Usually, prevalence is point prevalence unless otherwise specified. • Period prevalence is the prevalence over a period of time.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 23,
+      "question": "The incidence of a disease is 4 per 1000 of the population with an average duration of 2 years. What is the prevalence?",
+      "options": {
+        "A": "8/100",
+        "B": "2/1000",
+        "C": "4/1000",
+        "D": "8/1000"
+      },
+      "correct_answer": "D",
+      "explanation": "The prevalence in the given situation is 8/1000 population. Prevalence is given by the formula: Prevalence = Incidence x Mean Duration. Prevalence = 4/1000 x 2 = 8/1000 population.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 24,
+      "question": "A village has a total population of 100,000 with an under-16 population at 3%. The prevalence of goitre in the under-16 population is (0.3/100). What is the total number of under-16 population affected by goitre?",
+      "options": {
+        "A": "90",
+        "B": "9",
+        "C": "10",
+        "D": "100"
+      },
+      "correct_answer": "B",
+      "explanation": "The total number of persons in the under-16 with goitre is 9. Number of total under-16 population = 3% of 100,000 = 3000. Thus, total number of goitre patients who are under-16 with the prevalence at the given value = 3000 * 0.3/100 = 9",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 25,
+      "question": "In a population of 5000, new cases of TB are 500 and old cases are 50. What is the prevalence of TB in this case?",
+      "options": {
+        "A": "11%",
+        "B": "10%",
+        "C": "13%",
+        "D": "12%"
+      },
+      "correct_answer": "A",
+      "explanation": "Prevalence is given by the formula: Number of all cases of a specified disease at a given point in time. Prevalence: population at the same time. In the given scenario, the total number of cases: 50 (old) + 500 (new) = 550. Hence, prevalence = (550/5000) x 100 = 11%",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 26,
+      "question": "In a village having a population of 5000, a diagnostic test for a particular disease showed the following results. What is the prevalence of the disease?",
+      "options": {
+        "A": "20%",
+        "B": "15%",
+        "C": "30%",
+        "D": "10%"
+      },
+      "correct_answer": "C",
+      "explanation": "Prevalence is given by the formula: Prevalence = Number of all cases reported / Estimated population at the same point in time. In this scenario, the number of cases: 1000 + 500 = 1500. Total population: 5000. Prevalence = 1500 / 5000 x 100 = 30%. ",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 27,
+      "question": "A randomized control trial showed an effective treatment against an infectious disease. It was then incorporated by the health system. Which of the following is subsequently expected to happen?",
+      "options": {
+        "A": "Incidence decreases.",
+        "B": "Prevalence increases.",
+        "C": "Prevalence remains the same.",
+        "D": "Prevalence decreases."
+      },
+      "correct_answer": "D",
+      "explanation": "A new effective treatment for an infectious disease would reduce the duration of the disease, thereby reducing prevalence. Note: Both prevalence and incidence decrease, but prevalence is the first to show a change in pattern. Hence, 'prevalence decreases' is the better answer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 28,
+      "question": "There was an outbreak of hepatitis A infection in your town. Proper prevention strategies were enforced. What is expected to happen at first to the number of cases of hepatitis A?",
+      "options": {
+        "A": "Decrease in prevalence.",
+        "B": "Decrease in incidence.",
+        "C": "No change in prevalence.",
+        "D": "No change in incidence."
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, prevention of hepatitis A would lead to a decrease in incidence at first. Prevention of an acute disease would prevent new cases, thus first decreasing incidence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 29,
+      "question": "A new drug was approved for the treatment of prostate cancer. It has been shown to prevent early deaths but not cure the cancer. What is expected to happen to the cases of prostate cancer over a period of time?",
+      "options": {
+        "A": "Increase in incidence, no change in prevalence",
+        "B": "Decrease in incidence, increase in prevalence",
+        "C": "Increase in incidence, decrease in prevalence",
+        "D": "Increase in prevalence, no change in incidence"
+      },
+      "correct_answer": "D",
+      "explanation": "A new drug that prevents death yet does not cure the disease will cause an increase in prevalence but the incidence remains the same. In the given scenario, the drug reduces early deaths but does not cure prostate cancer. Hence, there is a paradoxical increase in the prevalence while the incidence remains the same. Prevalence depends on two factors, the incidence and duration of illness. If the population is stable and incidence and duration are unchanging, the relationship between incidence and prevalence can be expressed as: P = IxD (I = Incidence and D = Mean duration). This equation shows that the longer the duration of the disease, the greater the prevalence. Note: In chronic diseases like TB, prevalence will be higher than incidence. If a new treatment for a disease is effective, incidence does not change but prevalence decreases as the duration of disease decreases. If the treatment only prevents death but doesn't cure the disease, it may cause a paradoxical increase in prevalence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 30,
+      "question": "Cross product ratio can be arrived from:",
+      "options": {
+        "A": "Ecological study",
+        "B": "Cohort study",
+        "C": "Cross-sectional study",
+        "D": "Case-control study"
+      },
+      "correct_answer": "D",
+      "explanation": "Cross product ratio (Odds ratio) can be obtained from the case-control study.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 31,
+      "question": "A person wants to study about the relationship between smoking and lung cancer, so he collects data about people diseased with lung cancer from government hospitals and the number of cigarette packets sold at the same time period. Which type of study is this?",
+      "options": {
+        "A": "Cross-sectional",
+        "B": "Ecological",
+        "C": "Experimental",
+        "D": "Quasi-experimental"
+      },
+      "correct_answer": "B",
+      "explanation": "The type of study described is an ecological study as the unit of study is the population. The number of cigarette packets sold at the same time is data about the population. Option A: The unit of study in a cross-sectional study is an individual. Option C: There is no experiment done here. Hence, it is not an experimental study. Option D: Quasi-experiments are nonrandomized, pre-post intervention studies done when it is not feasible or ethical to conduct a randomized controlled trial. The unit of study is therefore patients or individuals and not population.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsAge at the time of death is not included in the WHO format for a death certificate.Solution to Question 2:Coronary artery thrombosis is to be filled in line I (c) of the death certificate as one of theantecedent causes in the order of the events that took place.The flow of events in this patient is as follows:Sequence of events leading to deathAntecedentcausesAtherosclerotic coronaryartery diseaseCoronary artery thrombosisAcute myocardial infarctionConditioncausing deathRupture of myocardiumOMARROW69DeathICAUSE OF DEATHDisease or conditiondirectly leading to death*Antecedent causesMorbid conditions, if any,giving rise to abovecause, stating theunderlying condition last.Rupture of(",
+      "options": {
+        "A": "myocardiumdue to (or as a consequence of)Acute myocardial(",
+        "B": "infarctiondue to (or as a consequence of)Coronary artery(",
+        "C": "thrombosisdue to (or as a consequence of)Atherosclerotic(",
+        "D": "coronary artery diseasedue to (or as a consequence of)IIOther significant conditionscontributing to the death, butnot related to the disease orcondition causing it.Approximate intervalbetweenonset and death* This does not mean the mode of dying e.g. heart failure, respiratory failure.It means the disease, injury or complication that caused death.Death Certificate. The International Standard FormMARROWAs per the recommendations of Forty-Third World Health Assembly 1990, an additional line (d)was added below (c) in part I of the death certificate, as approved by the WHO.Part II will only be filled up with a significant condition contributing to the death but not relatedto the disease or condition causing it.Solution to"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Epidemiology"
+    },
+    {
+      "q_no": 3,
+      "question": "Lobar pneumonia is appropriate for line I (a) of the death certificate. Line I (a) consists of the immediate cause of death, such as the disease/condition. Immediate cause is the immediate/terminal event leading to death.",
+      "options": {
+        "A": "of the death certificate. Line I (a) consists of the immediate cause of death, such as the disease/condition. Immediate cause is the immediate/terminal event leading to death. In this patient: • I(a) - Disease directly leading to death: Lobar pneumonia • I(b) - Antecedent cause: MDR tuberculosis. • II - HIV Respiratory failure is a mode of dying in this patient. It is not the cause of death. Terminal events like circulatory failure and respiratory failure are modes of dying. They should not be written as the immediate cause of death in the death certificate because they are just signs of death.",
+        "B": "Antecedent cause: MDR tuberculosis. • II - HIV Respiratory failure is a mode of dying in this patient. It is not the cause of death. Terminal events like circulatory failure and respiratory failure are modes of dying. They should not be written as the immediate cause of death in the death certificate because they are just signs of death. Simply put, respiratory failure is 'how he died' whereas lobar pneumonia is 'why he died'. Therefore, lobar pneumonia (why he died) is the cause of the death.",
+        "C": "due to (or as a consequence of)",
+        "D": "due to (or as a consequence of) II. Other significant conditions contributing to the death, but not related to the disease or condition causing it. HIV Approximate interval between onset and death * This does not mean the mode of dying, e.g., heart failure, respiratory failure. It means the disease, injury, or complication that caused death."
+      },
+      "correct_answer": "A",
+      "explanation": "Lobar pneumonia is appropriate for line I (a) of the death certificate. Line I (a) consists of the immediate cause of death, such as the disease/condition. Immediate cause is the immediate/terminal event leading to death. In this patient: • I(a) - Disease directly leading to death: Lobar pneumonia • I(b) - Antecedent cause: MDR tuberculosis. • II - HIV Respiratory failure is a mode of dying in this patient. It is not the cause of death. Terminal events like circulatory failure and respiratory failure are modes of dying. They should not be written as the immediate cause of death in the death certificate because they are just signs of death. Simply put, respiratory failure is 'how he died' whereas lobar pneumonia is 'why he died'. Therefore, lobar pneumonia (why he died) is the cause of the death.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp3_img1_50871852.jpeg",
+      "chapter_heading": "Principles of Epidemiology"
+    }
+  ]
+}

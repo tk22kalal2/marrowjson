@@ -1,0 +1,350 @@
+{
+  "chapter": "Sterilization and Disinfection",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which is the process designed to prevent microorganisms from reaching a protected environment?",
+      "options": {
+        "A": "Sterilization",
+        "B": "Decontamination",
+        "C": "Disinfection",
+        "D": "Asepsis"
+      },
+      "correct_answer": "D",
+      "explanation": "Asepsis is the process designed to prevent microorganisms from reaching a protected environment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 2,
+      "question": "All of the following are methods of dry heat sterilization except:",
+      "options": {
+        "A": "Flaming",
+        "B": "Incineration",
+        "C": "Hot air oven",
+        "D": "Autoclaving"
+      },
+      "correct_answer": "D",
+      "explanation": "Autoclaving is a method of moist heat sterilization. Dry heat sterilization includes Flaming, Incineration, and Hot air oven. Moist heat sterilization includes Boiling, Pasteurization, and Autoclaving.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 3,
+      "question": "What is the temperature that has to be maintained for sterilization in the device shownbelow?175",
+      "options": {
+        "A": "160° Celsius for 3 hours",
+        "B": "160° Celsius for 2 hours.",
+        "C": "121° Celsius for 2 hours",
+        "D": "121° Celsius for 3 hours"
+      },
+      "correct_answer": "",
+      "explanation": "The image shown is a sterilizing hot air oven. The temperature to be maintained is 160° C for 2hours.Exposure to dry heat in a sterilizing hot air oven ensures the carbonization of organic materialand the destruction of microorganisms and spores. The following combinations of temperatureand duration of sterilization can be applied in hot air ovens:• 180°C for 30 mins• 170°C for 60 mins• 160 C for 2 hours",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q3_img1_09c7b489.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 4,
+      "question": "An OT technician is sterilizing surgical instruments in the following device. Whattemperature should be maintained?",
+      "options": {
+        "A": "121° C for 10-15 minutes101176",
+        "B": "140° C for 90-120 minutes",
+        "C": "134° C for 10-20 minutes",
+        "D": "160° C for 15-20 minutes"
+      },
+      "correct_answer": "",
+      "explanation": "The given image shows an autoclave. Surgical instruments are sterilized at 121° C for 10-15minutes.183Autoclaving is a form of moist heat sterilization which creates an increased temperature of steamunder pressure. This method of sterilization is effective against spores also. Autoclaving is donefor instruments that cannot withstand high temperatures of hot air oven or dry heat.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q4_img1_02f1852c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following materials are sterilized by a hot air oven?",
+      "options": {
+        "A": "1, 3, 4, and 5",
+        "B": "2, 4, and 5",
+        "C": "3 and 4 only",
+        "D": "1, 2, and 5"
+      },
+      "correct_answer": "A",
+      "explanation": "Glasswares, oils and powders, swabs, and dressings are sterilized by a hot air oven. Surgical instruments and culture media are sterilized by an autoclave.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 6,
+      "question": "You have performed an upper GI endoscopy on a HbsAg positive patient. Which of thefollowing should be used to sterilize the scope?",
+      "options": {
+        "A": "Hypochlorite",
+        "B": "Glutaraldehyde",
+        "C": "Formaldehyde",
+        "D": "Ethyl alcohol"
+      },
+      "correct_answer": "",
+      "explanation": "2% glutaraldehyde is used to sterilize endoscopes and fibreoptic scopes.Aldehydes in 2% solutions (like glutaraldehyde and formaldehyde) have sporicidal activities.Glutaraldehyde is usually efficacious against tubercle bacteria, fungi &amp; viruses.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is false regarding the use of ethylene oxide in sterilization and disinfection?",
+      "options": {
+        "A": "It is an inflammable and explosive gas",
+        "B": "It is used for heat-sensitive objects",
+        "C": "It is mixed with nitrogen for sterilization",
+        "D": "Temperature is maintained at 50 to 60 °C"
+      },
+      "correct_answer": "C",
+      "explanation": "A mixture of ethylene oxide with carbon dioxide is used for sterilization, not with nitrogen. Ethylene oxide is an alkylating agent and has inflammable and explosive properties. It is often mixed with the following prior to use: • Carbon dioxide decreases its explosive nature • Water vapor - increases the efficiency of the gas. Sterilization using this gas is usually done at 50-60 °C and is suitable for heat-sensitive items like plastics, heart valves, dental equipment. It is effective against bacteria, spores, and some viruses.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 8,
+      "question": "The following machine was used during a cardiac bypass surgery. How is it best sterilized?",
+      "options": {
+        "A": "Formaldehyde",
+        "B": "Isopropyl alcohol",
+        "C": "Hypochlorite",
+        "D": "Ethylene oxide"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shown is a heart-lung machine. It is best sterilized using ethylene oxide. Ethylene oxide gas diffuses through many types of porous materials and readily penetrates some plastics and is used for sterilizing machines.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q8_img1_160d819f.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 9,
+      "question": "Povidone iodine is an example of:-",
+      "options": {
+        "A": "Quaternary compounds",
+        "B": "Iodophors",
+        "C": "Iodine-derived substances",
+        "D": "Halophors"
+      },
+      "correct_answer": "B",
+      "explanation": "Povidone iodine is an iodophor.184Iodophors are iodine-based disinfectants in which iodine is combined with solubilizing agents orcarriers. This results in the formation of a complex that provides a sustained release reservoir ofiodine and releases small amounts of free iodine in an aqueous solution.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is an example of precurrent disinfection?",
+      "options": {
+        "A": "Chlorination of a well by village public health authorities",
+        "B": "Disinfection of kidney tray used during delivery of placenta",
+        "C": "Disinfection of bed linen after the death of a patient",
+        "D": "Disinfection of artery forceps following a surgery178"
+      },
+      "correct_answer": "A",
+      "explanation": "Chlorination of water in a well is an example of precurrent disinfection.Precurrent disinfection refers to prophylactic disinfection prior to discharge of infectious material.This includes pasteurization of milk, chlorination of water and hand washing.Concurrent disinfection is the application of disinfection methods after discharge of infectiousmaterial from a person or soiling. This includes disinfection of urine, faeces, vomit, contaminatedlinen, clothes, hands.Terminal disinfection is done after the death of a patient or transfer or after cessation of isolation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 11,
+      "question": "Chlorine is the main disinfectant element in all of the following except:",
+      "options": {
+        "A": "Superoxidized water",
+        "B": "Halazone tablets",
+        "C": "Cetrimide",
+        "D": "Hypochlorites"
+      },
+      "correct_answer": "C",
+      "explanation": "Cetrimide (trade name - Cetavlon) is a quaternary ammonia compound (QAC) that does notcontain chlorine. QACs are low-level disinfectants and are sporostatic but not sporicidal. It is abactericidal agent against vegetative gram-positive organisms.Other QACs include cetrimide (cetavlon) and benzalkonium chloride.Savlon contains cetrimide and chlorhexidine and is mainly used for plasticitems. Clinical thermometers may be best disinfected in Savlon mixed with spirit in a 1:6 ratio.Chlorine compounds are potent disinfectants that are bactericidal, fungicidal, sporicidal,tuberculocidal, and virucidal.Chlorine compoundsMechanism of action and useS1. Bleaching powder (chlorinated lime)2. Chloramine - T3. Hypochlorites4. Halazone tablets5. Superoxidized waterDisinfection of water, feces, and urineHas a prolonged bactericidaleffect, used in a health care settingDisinfect infectious waste and surfacesDisinfect small quantities ofwaterSaline is electrolyzed to release hypochlorous acid and chlorine, which act as disinfectants185",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 12,
+      "question": "Hydrogen peroxide is:",
+      "options": {
+        "A": "Only bactericidal",
+        "B": "Only bactericidal and sporicidal",
+        "C": "Bactericidal, fungicidal, sporicidal and virucidal",
+        "D": "Bactericidal, virucidal and sporicidal"
+      },
+      "correct_answer": "",
+      "explanation": "Hydrogen peroxide is effective against bacteria, fungi, spores and viruses.It is used in the hospital setting to disinfect surfaces. Sporicidal activities require higherconcentrations and longer contact times. A 3% solution is also used as an antiseptic and forcleaning wounds and discharging ulcers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 13,
+      "question": "Which among the following is a low-level disinfectant?",
+      "options": {
+        "A": "Isopropyl alcohol",
+        "B": "Glutaraldehyde",
+        "C": "Hydrogen peroxide",
+        "D": "Benzalkonium chloride"
+      },
+      "correct_answer": "D",
+      "explanation": "Benzalkonium chloride is a quaternary ammonium compound that is used as a low-leveldisinfectant.There are 3 types of disinfectants:Low-level disinfectant - kills only vegetative bacteria, fungi and lipid enveloped viruses (e.g.quaternary ammonium compounds)• Intermediate level disinfectant: kills all microbes including mycobacteria and non-envelopedviruses, but not spores (e.g. alcohol, iodophors)•High-level disinfectant - This is a chemical that kills all microbial pathogens and some spores ifthe contact time is increased (e.g. glutaraldehyde, hydrogen peroxide)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 14,
+      "question": "Which among the following is not a sporicidal agent?",
+      "options": {
+        "A": "Cresol",
+        "B": "Glutaraldehyde",
+        "C": "Chlorine dioxide",
+        "D": "Hydrogen perxoide"
+      },
+      "correct_answer": "A",
+      "explanation": "Cresol a phenolic compound is not sporicidal.Disinfectants that are not sporicidal are:•Biguanides• Alcohols• Heavy metal disinfectants•Organic acids•QACS• Phenolic compoundsSporicidal disinfectants include:• Aldehydes• Chlorine disinfectants•Hydrogen peroxide•Ethylene oxide186• Peracetic acids",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 15,
+      "question": "179Which of the following disinfectants has anti-viral action?",
+      "options": {
+        "A": "Chlorhexidine",
+        "B": "Hypochlorite",
+        "C": "Low concentration of phenol",
+        "D": "Cetrimide"
+      },
+      "correct_answer": "B",
+      "explanation": "Hypochlorite is an antiviral disinfectant.Antiviral disinfectants include:•Chlorine compounds•Phenol (at high concentrations)• Aldehydes• Hydrogen peroxide",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 16,
+      "question": "A nurse in a PHC is using bleaching powder to disinfect bed linen contaminated with stool.What is the amount that she should use?",
+      "options": {
+        "A": "50 g/L",
+        "B": "75 g/L",
+        "C": "90 g/L",
+        "D": "100 g/L"
+      },
+      "correct_answer": "A",
+      "explanation": "Bleaching powder of 50 g/L of water is required for disinfecting feces and urine.The agents commonly used for disinfecting faeces and urine are:DisinfectantAmount per litPer cerentBleaching powder50 gLO5Crude phenolCresolFormalin100 ml1050 ml5100 ml10",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following methods of disinfection is not effective against prions?",
+      "options": {
+        "A": "Autoclaving at 121 °C",
+        "B": "Sodium hydroxide",
+        "C": "Sodium hypochlorite",
+        "D": "Benzalkonium chloride"
+      },
+      "correct_answer": "D",
+      "explanation": "Benzalkonium chloride is not effective against prions. Prions can be inactivated by following the given steps: • Immersing the instruments in 1N NaOH or sodium hypochlorite for 1 hour • Then they are transferred to water • Then they are heated in a gravity displacement autoclave at 121°C for 1 hour • After this, they are cleaned and subjected to routine sterilization",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following methods is not effective for disinfection of sputum of patients?",
+      "options": {
+        "A": "Autoclaving",
+        "B": "Boiling",
+        "C": "Cresol",
+        "D": "Chlorhexidine"
+      },
+      "correct_answer": "D",
+      "explanation": "187Chlorhexidine is not used to disinfect sputum.Sputum can be disinfected by:•• Autoclaving or boiling - if a considerable amount of sputum is present (e.g. in TB hospitals)• 5% cresol - patients are asked to spit in a sputum cup half-filled with cresol-• Burning for samples received in gauze or paper handkerchiefs",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 19,
+      "question": "180 Match the following.",
+      "options": {
+        "A": "1-a, 2-b, 3-d, 4-c",
+        "B": "1-d, 2-c, 3-a, 4-b",
+        "C": "1-c, 2-d, 3-b, 4-a",
+        "D": "1-b, 2-a, 3-c, 4-d"
+      },
+      "correct_answer": "B",
+      "explanation": "The biological indicators used to check the efficiency of various sterilization methods are: • Clostridium tetani - Hot air oven • Geobacillus stearothermophilus - Autoclave, Bacillus atrophaeus - Ethylene oxide, • Bacillus pumilus - Ionizing radiation. Sterilization technique: Hot air oven, Autoclave, Filtration, Ionizing radiation, Ethylene oxide, Plasma sterilization. Bacteria/Spores of: Bacillus subtilis subsp. Niger (reclassified as B. atrophaeus), Clostridium tetani, Geobacillus stearothermophilus, Serratia marcescens, Brevundimonas diminuta, Bacillus pumilus, Bacillus globigii (reclassified as B. atrophaeus), Geobacillus stearothermophilus, Bacillus atrophaeus (Bacillus subtilis subsp. Niger).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 20,
+      "question": "Rideal-Walker coefficient is employed for the assessment of which of the following?",
+      "options": {
+        "A": "Sufficiency of pasteurization",
+        "B": "Effect of autoclaving",
+        "C": "Effect of dry heat sterilization",
+        "D": "Power of a disinfectant"
+      },
+      "correct_answer": "D",
+      "explanation": "The Rideal-Walker coefficient helps in assessing the power of a disinfectant relative to phenol. It assesses this by determining the phenol coefficient (PC). A PC value of > 1 indicates that it is more effective than phenol. The higher the number, the greater its effectiveness in comparison to phenol and vice versa. Traditional organisms used to test the power of the disinfectant include S. aureus and Salmonella enterica subtype typhi. Phenol coefficient = The dilution of test disinfectant which kills microorganisms in a given time ÷ The dilution of phenol which kills the microorganism in the same time under identical conditions. Other tests that are used for disinfectants are as follows: • Chick Martin test - modification of the Rideal-Walker test where disinfectants act in the presence of organic matter like feces or yeast to simulate natural conditions • Kelsey-Skyes test (capacity test) - tests the capacity of a disinfectant to retain its activity when used repeatedly. • In-use test - determines whether the chosen disinfectant is effective in actual hospital use. Joseph Lister first introduced phenol (carbolic acid) as an antiseptic to sterilize surgical instruments and clean wounds. Lister's work led to a reduction in postoperative infections and made surgery safer for patients, distinguishing him as the 'Father of Modern Surgery' and 'Father of Antiseptic Surgery'.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is false regarding the Spaulding classification?",
+      "options": {
+        "A": "Semi-critical items require high-level disinfection",
+        "B": "Non-critical items do not require disinfection",
+        "C": "Cardiac catheters are classified as critical items",
+        "D": "Critical items are associated with a high risk of infection"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the Spaulding classification, non-critical items require intermediate or low-level disinfection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 22,
+      "question": "While collecting blood for samples, you have spilled some on the floor. What would be theimmediate next step?",
+      "options": {
+        "A": "Call the infection control team of the hospital",
+        "B": "Mop it",
+        "C": "Cover it with 1% sodium hypochlorite",
+        "D": "Clean with absorbable material"
+      },
+      "correct_answer": "D",
+      "explanation": "The immediate next step in this scenario is to clean the spilled blood with absorbable material.This absorbable material is then discarded in the yellow bin. Following this, sodiumhypochlorite solution is used to decontaminate the surface. The concentrations of sodiumhypochlorite used are:• &lt; 10 mL blood spill - 1:100 dilution to decontaminate non-porous surfaces• &gt; 10 mL blood spill or culture spill - 1:10 dilution for the first application, followed by 1:100dilution",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    },
+    {
+      "q_no": 23,
+      "question": "181A blood spill in the operation theatre must be cleaned with",
+      "options": {
+        "A": "Chlorine compound",
+        "B": "Phenolic compound",
+        "C": "Quarternary ammonium compounds",
+        "D": "Alcoholic compounds"
+      },
+      "correct_answer": "A",
+      "explanation": "Sodium hypochlorite, a compound of chlorine, is the best disinfectant for surface blood spills. It isused with a concentration of 0.5-5%.If the spill contains large amounts of blood or body fluids, clean the visible matter with disposableabsorbent material and discard the contaminated materials in appropriate, labelled containment.A 1:10-1:100 dilution of 5.25%-6.15% sodium hypochlorite (i.e., household bleach) or anEPA-registered tuberculocidal disinfectant has been recommended for decontaminating bloodspills.189",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Sterilization and Disinfection"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "chapter": "Zoonotic Infections - Bacterial & Parasitic",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following are transmitted biologically by invertebrate vectors?",
+      "options": {
+        "A": "Direct zoonoses",
+        "B": "Cyclo-zoonoses",
+        "C": "Meta-zoonoses",
+        "D": "Sapro-zoonoses"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 2,
+      "question": "Multiple members of the same community presented with sudden-onset fever, chills, andpainful inguinal swellings as shown below. Further questioning leads to the identification of arat infestation in the locality. Which of the following is the likely source of transmission ofthis disease?",
+      "options": {
+        "A": "Hard tick",
+        "B": "Sand fly",
+        "C": "Rat flea",
+        "D": "Mite291"
+      },
+      "correct_answer": "C",
+      "explanation": "This clinical scenario and image showing buboes are suggestive of bubonic plague. It istransmitted by the bite of the infected rat flea, Xenopsylla cheopis. Rodents, including rats, arethe reservoirs of infection.On the other hand, the pneumonic plague spreads from man to man by droplet infection.295",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q2_img1_f8531e52.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following indices is the best determinant of a potential plague outbreak?",
+      "options": {
+        "A": "Total flea index",
+        "B": "Cheopsis index",
+        "C": "Burrow index",
+        "D": "Special percentage of fleas"
+      },
+      "correct_answer": "B",
+      "explanation": "Cheopis index is the best determinant of potential plague outbreaks. If this index is &gt; 1, itindicates there is a high likelihood of an outbreak.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 4,
+      "question": "All of the following are causes of different types of typhus except:",
+      "options": {
+        "A": "R. rickettsii",
+        "B": "R.prowazekii",
+        "C": "R. tsutsugamushi",
+        "D": "R.typhi"
+      },
+      "correct_answer": "A",
+      "explanation": "R.rickettsii causes Rocky Mountain spotted fever. It is a type of spotted fever, not typhus.*Note: Orientia tsutsugamushi was previously known as Rickettsia tsutsugamushi.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following rickettsial diseases is correctly matched with their respective vectors?",
+      "options": {
+        "A": "Scrub typhus - hard tick",
+        "B": "Rocky mountain spotted fever - louse",
+        "C": "Endemic typhus - flea",
+        "D": "Epidemic typhus - mite"
+      },
+      "correct_answer": "C",
+      "explanation": "Endemic typhus is caused by the bite of an infective flea.This condition, also called murine typhus or flea-borne typhus, is caused by Rickettsia typhi. Ratsserve as reservoirs. The incubation period is 1-2 weeks. The Weil Felix reaction is positive in2nd week.The drug of choice is tetracycline. Rodent control is most important and is best done by BHC andmalathion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 6,
+      "question": "A 38-year-old woman is being evaluated for fever and rash. All of the following can beincluded in the differential except:",
+      "options": {
+        "A": "Epidemic typhus",
+        "B": "Endemic typhus",
+        "C": "Scrub typhus",
+        "D": "Q-fever292"
+      },
+      "correct_answer": "",
+      "explanation": "Rashes and local lesions are not a feature of Q-fever.It is caused by Coxiella burnetii. The mode of transmission is the inhalation of infected dust, entrythrough abrasions, or ingestion of contaminated milk. Rarely, ticks can be involved intransmission. The incubation period is 2 to 3 weeks.The drug of choice is prolonged treatment with doxycycline. Pasteurization is advised to inactivatethe causative agent.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is false about scrub typhus?",
+      "options": {
+        "A": "Mites are the vectors",
+        "B": "Adult mite feeds on vertebral host",
+        "C": "Caused by R. tsutsugamushi",
+        "D": "Treated with tetracyclines"
+      },
+      "correct_answer": "D",
+      "explanation": "Both adult and nymphal stages of the mite are free-living in nature. They do not feed on thevertebral host.Scrub typhus is the most widespread rickettsial disease. It is caused by Orientiatsutsugamushi (previously known as Rickettsia tsutsugamushi) and transmitted by the bite oftrombiculid mite. The incubation period is 10-12 days.It presents with a typical eschar at the bite site. It is diagnosed by the Weil Felix reaction, which isstrongly positive with proteus strain OXK. It is treated by tetracyclines.296",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following are the causative agent and vector of epidemic typhus respectively?",
+      "options": {
+        "A": "Rickettesia prowazekii and louse",
+        "B": "Rickettesia rickettsii and louse",
+        "C": "Rickettsia prowazekii and tick",
+        "D": "Rickettesia rickettsii and tick"
+      },
+      "correct_answer": "A",
+      "explanation": "The causative agent of epidemic typhus is Rickettsia prowazekii and the vector is a louse.The incubation period is 10 to 14 days. Brill-Zinsser disease refers to the recurrent form ofepidemic typhus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient presents with fever for 1 week, with abdominal distension, loss of appetite, andlymphadenopathy. There is a poor response to antibiotics and antimalarials. The Widal test isnegative but rk39 is positive. Which drug can be used in the treatment of this patient?",
+      "options": {
+        "A": "Liposomal Amphotericin B",
+        "B": "Fluconazole",
+        "C": "Linezolid",
+        "D": "Bedaquiline"
+      },
+      "correct_answer": "A",
+      "explanation": "This clinical scenario is suggestive of visceral leishmaniasis. This patient should be managed withliposomal amphotericin B.This condition causes fever with rigor and chills associated with splenomegaly and hepatomegaly.Though lymphadenopathy is common in most endemic regions, it is rare in India.It is diagnosed by ELISA, indirect immunofluorescent antibody test (IFAT), and rk39 whichdetects antibodies to Leishmania donovani.The treatment is as follows:•In most endemic regions:• Drug of choice - pentavalent antimonial (sodium stibogluconate or meglumine antimoniate)•If it fails or is unavailable - amphotericin B• In India and Mediterranian countries, the drug of choice is liposomal AmB.•Other drugs - paromomycin and miltefosineOption B: Fluconazole is an antifungal and is not useful in visceral leishmaniasisOption C: Linezolid is used in the treatment of MRSA and related infections.Option D: Bedaquiline is a newer anti-TB drug used in MDR-TB.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not true about Leishmania?",
+      "options": {
+        "A": "Leishmania is an extracellular parasite",
+        "B": "Extrinsic incubation period of kala-azar is 4 to 25 days",
+        "C": "It is transmitted by sandfly",
+        "D": "Post kala-azar dermal leishmaniasis is caused by L. donovani293"
+      },
+      "correct_answer": "A",
+      "explanation": "Leishmania is an intracellular parasite in the macrophages.The vector is Phlebotomus (sandfly). Man is the reservoir in the Indian kala-azar. The incubationperiod is 10 days to 2 years, whereas the extrinsic incubation period is 4 to 25 days. The followingconditions are caused by Leishmania:•• Visceral leishmaniasis or kala-azar – L. donovani• Cutaneous leishmaniasis or oriental sore - L. tropica• Mucocutaneous leishmaniasis - L. braziliensis• Post-kala-azar dermal leishmaniasis - L. donovani297The image below is a microscopic image of the LD body.According to the NVBDCP, the management is as follows:• First-line - single-dose liposomal amphotericin B (10 mg/kg IV infusion)•Alternate - paromomycin + miltefosine for 10 daysMonotherapy with antimonials (sodium stibogluconate) is no longer recommended due toresistance and toxicity. Synthetic pyrethroid is used for indoor residual spraying in all theendemic areas.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp10_img1_43cdd357.jpeg",
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 11,
+      "question": "Kala-Azar is endemic in all these areas except:",
+      "options": {
+        "A": "West Bengal",
+        "B": "UP",
+        "C": "Bihar",
+        "D": "Assam"
+      },
+      "correct_answer": "D",
+      "explanation": "Kala-Azar is not endemic in Assam. It is endemic in the following states in 54 districts:• Uttar Pradesh•West Bengal•• Bihar• Jharkhand",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    },
+    {
+      "q_no": 12,
+      "question": "In patients with vagabond disease, which of the following is implicated?",
+      "options": {
+        "A": "Louse",
+        "B": "Mite",
+        "C": "Tick",
+        "D": "Black fly"
+      },
+      "correct_answer": "A",
+      "explanation": "Vagabond's disease or pediculosis corporis is caused by the body louse.The following image shows the body louse.298299",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Zoonotic Infections - Bacterial & Parasitic"
+    }
+  ]
+}

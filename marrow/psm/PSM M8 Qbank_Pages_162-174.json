@@ -1,0 +1,245 @@
+{
+  "chapter": "Vaccine Production and Storage",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Select the wrongly matched pair of excipients and vaccines.",
+      "options": {
+        "A": "MMR - Neomycin",
+        "B": "OPV - Magnesium Chloride",
+        "C": "DPT - Thiomersal",
+        "D": "BCG - Formaldehyde"
+      },
+      "correct_answer": "B",
+      "explanation": "OPV does not contain Magnesium Chloride as an excipient.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is false about adjuvants in vaccines?",
+      "options": {
+        "A": "Immune response is increased by degree or duration by their use",
+        "B": "They are used in HPV vaccines",
+        "C": "There is a high incidence of side effects with their use",
+        "D": "They help in the reduction of the amount of immunogens in vaccines"
+      },
+      "correct_answer": "C",
+      "explanation": "Side effects are rare with the use of adjuvants in vaccines. Adjuvants are substances that are added to vaccines to enhance their immunogenicity by degree and/or duration. They help in the reduction of the amount of immunogen in vaccines or in the number of doses required to achieve immunity. Aluminium salts are the most commonly used adjuvants. Adjuvants are used in many vaccines like: Anthrax vaccine, Hep A vaccine, Hep B vaccine, Japanese encephalitis vaccine, DT and DTaP, HPV vaccine, and Pneumococcal vaccine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 3,
+      "question": "Which adjuvant is used in the DPT vaccine?",
+      "options": {
+        "A": "Hemagglutinin",
+        "B": "Alpha Tocopherol",
+        "C": "Aluminium",
+        "D": "Tween 80"
+      },
+      "correct_answer": "D",
+      "explanation": "Aluminium is the adjuvant used in DPT vaccines.The table below lists adjuvants used in human vaccines:NameAlumClassComponentsVaccineMineral saltsAluminium phosphate, aluminium hydroxideDiphtheria, tetanus, pneumococcus, HAV, HBV, anthrax,tick-borne encephalitis, MenC. HPVMF59Oil-in-water emulsionSqualene, Tween 80, Span 85 Seasonal and pandemic influenza169NameClassAS03Oil-in-water emulsionAF03Oil-in-water emulsionComponentsSqualene, Tween 80, alpha tocopherolSqualene, Montane 80, Eumulgin B1PHPhospholipids, cholesterol, haemagglutininVaccinePandemic influenzaPandemic influenzaVirosoLiposomesSeasonal influenza, HAVmesAS04Alum-adsorbed TLR4 agonistRC-529Alum-adsorbed TLR4 agonistAlumnium hydroxide, monophosphoryl lipid A (MPL)Aluminium hydroxide, synthetic MPLHBV, HPVHBV",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 4,
+      "question": "A child has come to you for the administration of the IPV vaccine, as part of his routineimmunisation schedule. Which of the following antibiotics may be found in this vaccine?",
+      "options": {
+        "A": "Penicillin",
+        "B": "Streptomycin162",
+        "C": "Amikacin",
+        "D": "Erythromycin"
+      },
+      "correct_answer": "B",
+      "explanation": "IPV may contain trace amounts of streptomycin, neomycin or polymyxin B.MMR contain small amount of neomycin.Antibiotics are used during vaccine manufacture to prevent bacterial contamination of tissueculture cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following are the most and least heat-sensitive vaccines respectively?",
+      "options": {
+        "A": "Sabin vaccine and Hep B vaccine",
+        "B": "Tetanus vaccine and meningococcal vaccine",
+        "C": "Japanese encephalitis vaccine and pneumococcal vaccine",
+        "D": "Salk vaccine and Hep B vaccine"
+      },
+      "correct_answer": "A",
+      "explanation": "Oral polio (Sabin) vaccine is the most heat-sensitive vaccine. Hepatitis B vaccines are the least heat-sensitive alongside meningococcal A vaccine, freeze-dried Hib vaccine, and pneumococcal vaccines.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following vaccines should be protected from sub-zero temperatures?",
+      "options": {
+        "A": "BCG",
+        "B": "OPV",
+        "C": "Japanese encephalitis",
+        "D": "Hepatitis B"
+      },
+      "correct_answer": "B",
+      "explanation": "Hepatitis B vaccine is sensitive to freezing and should be protected from sub-zero temperatures. Vaccines to be protected from freezing are as follows: • Hepatitis B • Cholera • DTaP-hepB-Hib-IPV (hexavalent) • DTWP-hepB-Hib (pentavalent) • Liquid Hib • IPV • Influenza, pneumococcal vaccines • Tetanus, DT, Td • Rotavirus (freeze-dried, least sensitive), the liquid form is resistant to freezing • HPV",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 7,
+      "question": "What vaccines are supplied in the type of bottle given below?",
+      "options": {
+        "A": "BCG and Measles",
+        "B": "HPV and Tetanus",
+        "C": "Rotavirus and JE",
+        "D": "IPV and Hepatitis B"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows an amber-colored vial. Vaccines like BCG and measles vaccine are sensitive to light and thus are supplied in such vials.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q7_img1_1f92dd8d.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is a non-electrical cold-chain equipment?",
+      "options": {
+        "A": "Solar refrigerator battery drive",
+        "B": "Cold box",
+        "C": "Walk-in coolers",
+        "D": "Ice-lined refrigerator"
+      },
+      "correct_answer": "B",
+      "explanation": "Cold boxes, vaccine carriers, and ice packs are some of the non-electrical components of the cold-chain system. Cold boxes are insulated containers used for transportation and temporary storage of vaccines and ice packs. Vaccine carriers are usually not used for the storage of vaccines but for their transportation. Ice packs generally have two holes in them for placing vaccines. They are filled with water.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp8_img1_4de0898d.jpeg",
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the temperature maintained in the freezer compartment of the solar refrigeratorbattery drive?",
+      "options": {
+        "A": "-10°C",
+        "B": "8°C",
+        "C": "-7°C",
+        "D": "2°C"
+      },
+      "correct_answer": "",
+      "explanation": "The freezer compartment of the solar refrigerator battery drive is maintained at -7 °C, and it isused to store mainly ice packs.The vaccine storage compartment of this solar cold chain equipment is maintained at 2 to 8°C. The other solar cold-chain equipment commonly used is the solar refrigerators direct drive,which uses the sun's energy to freeze phase-change materials like water and then uses this formed171ice bank to keep the refrigerator cold.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following statements is not true about the device shown in the image below?",
+      "options": {
+        "A": "Smaller ones are given to PHCs and the larger ones to district vaccine stores",
+        "B": "They have temperature zones for different vaccines",
+        "C": "A kata thermometer is used to record temperature inside this device",
+        "D": "These devices are provided with baskets to store vaccines"
+      },
+      "correct_answer": "C",
+      "explanation": "The image shown in the question is of an ice-lined refrigerator (ILR). Dial or digital thermometers are used to record temperatures inside an ice-lined refrigerator. ILRs are the main method of vaccine storage in primary health centers. They are an important part of the cold chain and they maintain a temperature of 2 to 8 °C for the storage of vaccines. They have different temperature zones for different vaccines. The upper zone is for freeze-sensitive vaccines like cholera, Hep B, rotavirus (liquid), etc., while the lower zone is for heat-sensitive vaccines like OPV, measles, etc. All vaccines are kept in the basket provided with ILR. Vaccines like OPV, BCG, measles, and JE can be kept at the bottom of the basket, while DPT, TT, Hep B, IPV, and pentavalent vaccines and diluents are kept in the upper part of the basket.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q10_img1_1ea20de3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 11,
+      "question": "While working as a medical officer in a CHC, you experience a sudden power cut in your area due to which the ice-lined refrigerator loses power. What is the time taken for the temperature inside this equipment to rise to the maximum recommended temperature limit?",
+      "options": {
+        "A": "Heating time",
+        "B": "Hold over time",
+        "C": "Catch up time",
+        "D": "Watch down time"
+      },
+      "correct_answer": "B",
+      "explanation": "Hold-over time is the time taken by cold-chain equipment to raise the temperature inside it, during loss of power, to the maximum temperature limit in its recommended range. For an ice-lined refrigerator (ILR), this time depends on: • Ambient temperature • Frequency of opening the equipment • Quantity of vaccines kept inside with spacing • Condition of ice-pack lining.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp11_img1_fce0049e.jpeg",
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 12,
+      "question": "At what level is the risk of cold-chain failure the highest?",
+      "options": {
+        "A": "District level",
+        "B": "Regional level",
+        "C": "PHC level",
+        "D": "Sub-centre level"
+      },
+      "correct_answer": "D",
+      "explanation": "The risk of cold chain failure is highest at the sub-centre and village levels. Thus, vaccines are not stored at the sub-centre and are supplied on the day of use.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 13,
+      "question": "Open vial policy is not applicable to which of the following vaccines?",
+      "options": {
+        "A": "Hepatitis B",
+        "B": "BCG",
+        "C": "Pentavalent vaccine",
+        "D": "Rotoviral vaccine in New container"
+      },
+      "correct_answer": "B",
+      "explanation": "Open vial policy is not applicable for BCG and measles vaccines.It is applicable for:• DPT• TT• Hepatitis B vaccine•• OPV• Pentavalent vaccine• Rotavirus vaccine (New version with the VVM on the side)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q13_img1_a616929a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 14,
+      "question": "What are the devices given below used to measure?9E9020SE9020020636020636BO ADN",
+      "options": {
+        "A": "Temperature changes in atmosphere",
+        "B": "Cumulative heat exposure of vaccine",
+        "C": "Cumulative heat and freeze exposure",
+        "D": "Disintegration of vaccine constituents due to temperature"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shown is of vaccine vial monitors (VVM), which measure the cumulative heat exposureof the vaccine.VVMs are heat-sensitive indicators that are routinely used to monitor vaccine viability as thevaccine vial moves across the supply chain. They record cumulative heat exposure througha gradual change in color. If the color of the inner square is the same or is darker than theouter circle, the vaccine has been exposed to too much heat and should be discarded.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q14_img1_89685424.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 15,
+      "question": "You are preparing to administer the BCG vaccine to a newborn at a PHC. Before administering the vaccine, you check the vaccine vial monitor. In which of the following observations on the VVM, will you discard the vaccine?",
+      "options": {
+        "A": "Inner square is white",
+        "B": "Inner square has the same color as the outer circle",
+        "C": "Inner circle is lighter than the outer square",
+        "D": "Inner square is darker than the outer circle"
+      },
+      "correct_answer": "B",
+      "explanation": "A vaccine must be discarded if the VVM shows the inner square is the same color or darker than the outer circle.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Vaccine Production and Storage"
+    },
+    {
+      "q_no": 17,
+      "question": "You are volunteering in a vaccination camp. You perform a shake test before administering aparticular vaccine. Which of the following is checked by this test?",
+      "options": {
+        "A": "Freeze damage to vaccine",
+        "B": "Contamination of vaccine",
+        "C": "Expiry of vaccine",
+        "D": "Potency of vaccine167"
+      },
+      "correct_answer": "A",
+      "explanation": "The shake test is done to check for damage to vaccines that are sensitive to freezing temperatures.Steps to perform the shake test:• A frozen vaccine is used as a control vial and the vial suspected to be damaged by freezing istaken as the test vial.•⚫ Both are shaken after thawing and the rate of sedimentation is compared.• If the rate of sedimentation in the test vial is slower than that in the control vial, then it is usableand has not been damaged.Shake testVaccine never frozenVaccine frozen and thawedImmediately after shakingSmoothandcloudyStarting toclearNosediment30 minutes after shakingUse this vaccineOMARROWNot smoothGranularparticlesAlmostclearThicksedimentDo not use this vaccineSome of the most widely used vaccines are freeze-sensitive. These include vaccines against:• Diphtheria• Tetanus• Pertussis•Haemophilus influenza type b (Liquid)•Hepatitis B174",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp17_img1_8d87f181.jpeg",
+      "chapter_heading": "Vaccine Production and Storage"
+    }
+  ]
+}

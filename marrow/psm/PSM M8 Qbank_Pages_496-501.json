@@ -1,0 +1,140 @@
+{
+  "chapter": "Food Quality and Processing",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following formulates food standards for the international food market?",
+      "options": {
+        "A": "ISI standards",
+        "B": "AGMARK standards",
+        "C": "Codex Alimentarius",
+        "D": "PFA standards"
+      },
+      "correct_answer": "C",
+      "explanation": "The Codex Alimentarius Commission formulates food standards for the international market. It isthe principal organ of the FAO/WHO food standards program.The ISI standards (Indian Standards Institute) and AGMARK are the Indian food standards. Theyare based on the standards of Codex Alimentarius.The PFA (Prevention of Food Adulteration) Act was introduced to provide protection fromadulteration or contamination of food.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Food Quality and Processing"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the dose of vitamin A added during fortification of vanaspati?",
+      "options": {
+        "A": "1500IU",
+        "B": "2500IU",
+        "C": "1400IU",
+        "D": "2000IU"
+      },
+      "correct_answer": "B",
+      "explanation": "Vanaspati is fortified with 2500 IU of vitamin A and 175 IU of vitamin D.Note: 1g of double fortified salt contains 40 mcg iodine and 1 mg iron.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Food Quality and Processing"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following contributes to a significant loss of beta carotene from food?",
+      "options": {
+        "A": "Boiling",
+        "B": "Canning",
+        "C": "Freezing",
+        "D": "Dehydration"
+      },
+      "correct_answer": "D",
+      "explanation": "Dehydration contributes to a significant loss in the beta carotene levels in food.Processes that do not affect beta carotene levels in the food are:• BoilingCanning•Freezing",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Food Quality and Processing"
+    },
+    {
+      "q_no": 4,
+      "question": "In order to effectively prevent endemic goiter, what is the recommended iodine content in salt at the consumer level?",
+      "options": {
+        "A": "10 ppm",
+        "B": "15 ppm",
+        "C": "20 ppm",
+        "D": "30 ppm"
+      },
+      "correct_answer": "B",
+      "explanation": "The recommended level of iodine content in salt is 15 ppm at the consumer level and 30 ppm at the production level. The iodization of salt is used as a prophylactic measure against endemic goiter. In India, the level of iodization is fixed under the Prevention of Food Adulteration (PFA) Act.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Food Quality and Processing"
+    },
+    {
+      "q_no": 5,
+      "question": "In a milk factory, the milk is heated at 63°C for 30 minutes and then cooled quickly to lessthan 13°C. Which bacteria can survive this method?",
+      "options": {
+        "A": "Salmonella typhii",
+        "B": "Mycobacterium bovis",
+        "C": "Coxiella burnetti",
+        "D": "Brucella melitensis"
+      },
+      "correct_answer": "",
+      "explanation": "The method described above is the holder method of pasteurization. Coxiella burnetti can survivethis method since it is highly heat-resistant. It causes Q fever.The various methods of pasteurization are:• Holder/Vat method - 63-66 °C for 30 minutes•HTST method (high-temperature short time) - 72°C for 15 seconds499• UHT method (ultra-high temperature) -125 °C for a few seconds",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Food Quality and Processing"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following tests is not used to check the efficiency of pasteurization?",
+      "options": {
+        "A": "Phosphatase test",
+        "B": "Standard plate count",
+        "C": "Methylene blue reduction test",
+        "D": "Coliform count"
+      },
+      "correct_answer": "",
+      "explanation": "Methylene blue reduction test is not used to check the efficiency of pasteurization. This test isused for grading raw milk quality prior to pasteurization.The following tests are used to check the efficiency of pasteurization:•Phosphatase test• Standard plate count• Coliform count",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Food Quality and Processing"
+    },
+    {
+      "q_no": 7,
+      "question": "In a rice processing factory, paddy is soaked in hot water. After this, the water is drained andthe paddy is steamed and dried. Which of the following statements is false about the aboveprocess?",
+      "options": {
+        "A": "This method is used for partial cooking of rice",
+        "B": "It makes the rice grains resistant to insects",
+        "C": "Vitamins and minerals are driven into endosperm during this process",
+        "D": "It softens the rice grains"
+      },
+      "correct_answer": "",
+      "explanation": "The procedure mentioned above is parboiling. It hardens the rice grains.Parboiling is the process of partial cooking of rice in steam. It is done by the hot soaking processthat was initially developed by the Central Food Technological Research Institute (CFTRI),Mysore.The advantages of parboiling are:••Preserves nutritive quality by driving the vitamins and minerals into the endosperm.Hardens the grains and makes them insect resistant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Food Quality and Processing"
+    },
+    {
+      "q_no": 8,
+      "question": "A 35-year-old man presented with gradually progressive muscle weakness and leg spasms for2 months. He says that he had been consuming an inexpensive dal resembling red gram for497the past 2 years. Pure motor paresis was seen on examination. Which of the following couldhave prevented this?",
+      "options": {
+        "A": "Vit A",
+        "B": "Vit B12",
+        "C": "Vit C",
+        "D": "Vit D"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical features are suggestive of neurolathyrism. It can be prevented and treated bythe administration of vitamin C at doses of 500-1000 mg.Lathyrism is a paralyzing disease of humans and animals. It is due to the consumption of khesaridal or Lathyrus sativus. When the husk is removed, it looks similar to red gram or Bengal gram.BOAA (beta oxalyl amino alanine) is the toxic compound causing this disease. It is water-solubleand can be removed by the following methods:•Soaking pulses in hot water and discarding the water•Overnight soaking in lime water followed by boiling• Parboiling for large-scale detoxification",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Food Quality and Processing"
+    },
+    {
+      "q_no": 9,
+      "question": "A 45-year-old woman is being evaluated for sudden onset of hypersecretory glaucoma,diarrhea, and cardiac failure. Further probing reveals that she had been purchasing groceriesfrom a dealer who was recently arrested for food adulteration. What toxin is likely responsiblefor her presentation?",
+      "options": {
+        "A": "BOAA",
+        "B": "Sanguinarine",
+        "C": "Aflatoxins",
+        "D": "Pyrrolizidine alkaloids"
+      },
+      "correct_answer": "C",
+      "explanation": "500This clinical scenario is suggestive of epidemic dropsy. It is caused by the toxiccompound sanguinarine, which is present in argemone oil. It is commonly used as an adulterantin mustard oil.Epidemic dropsy results in sudden onset of swelling of lower limbs, diarrhea, and breathlessness.Some patients may develop hypersecretory glaucoma. It can lead to death due to cardiac failure.Adulteration with argemone oil can be detected by the following tests:• Paper chromatography - most sensitive test•• Nitric acid test501",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Food Quality and Processing"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "chapter": "Descriptive Statistics I - Probability and Data",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "You are conducting a study to determine the mean height of children visiting the local PHC.Which type of statistical study is being done here?",
+      "options": {
+        "A": "Descriptive",
+        "B": "Analytical",
+        "C": "Inferential",
+        "D": "Observational"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements about statistical terms is incorrect?",
+      "options": {
+        "A": "Population is the universe about which an investigator wishes to draw conclusions",
+        "B": "A sample is a representative subset of the population that is being studied",
+        "C": "An element is a group of observations in the population",
+        "D": "A population need not be only people but can be measurements too"
+      },
+      "correct_answer": "C",
+      "explanation": "An element is a single observation in a study. For example, in a study of blood pressure values,the blood pressure value of one person is an element.In a statistical study, the population refers to the group about which information is to be gathered.The composition of the population in terms of its age, sex, occupation, cultural characters, etcneed to be defined before a study is conducted. The population need not consist of just people butcan also be made of measurements. For example, in a study of blood glucose measurements inIndians, the population consists of the blood glucose measurements.The part/subset of the population, which is being studied is known as a sample. For example, in aquestionnaire-based study on cervical cancer in a population, the sample would include femalesattending the out-patient departments of a hospital. This is a subset of the entire population.795Statistical termsBlood pressure measurementsIndiansPopulation (X(N))= X₁.....Xn►Sample (X(n))120/80mmHgElement (X)OMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp2_img1_e5d678af.jpeg",
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements about probability is true? (Probability of event occurring isp)",
+      "options": {
+        "A": "2,3,4 &amp; 5",
+        "B": "1,3 &amp; 5",
+        "C": "1,2 &amp; 3",
+        "D": "2 &amp; 4"
+      },
+      "correct_answer": "B",
+      "explanation": "If the probability of an event occurring is 1, it means there is an absolute certainty that the eventwill occur.The addition rule and multiplication rule can be used to calculate the probability of an event. Theaddition rule is used to calculate the combined probability of the occurrence of two or moremutually exclusive events. The multiplication rule is used to calculate the combined probability oftwo or more statistically independent events occurring together.Probability values range from o (no probability) to 1 (absolute certainty). So negative value of p isnot possible.Since p is the probability of an event occurring and q is the probability of the event not occurring,q=1-p",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 4,
+      "question": "In which of the following processes is binomial distribution widely used?",
+      "options": {
+        "A": "Marriage counseling",
+        "B": "Genetic counseling786",
+        "C": "Treatment counseling",
+        "D": "Differential diagnosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Binomial distribution is widely used in genetic counseling.Binomial distribution helps determine the probability of occurance of a specific combination ofmutually exclusive independent events. In a binomial distribution, there are only two possibleevents like Yes/No or Male/Female or Alive/Dead. The results of the distribution gives theprobabilities of obtaining an exact number of successes in a series of independent trials.For example, the inheritence of cystic fibrosis follows a binomial distribution. There are:a. Two possible events - inheriting the disease/ not inheriting itb. Events are mutually exclusive - one person cannot both have the disease and not have it796c. Independent possibilities - if one child has inherited it, this will not affect if the other child willinherit it.The physician using this technique can explain to the patients the probabilities of their childrensuffering from the disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 5,
+      "question": "If the events A and B are mutually exclusive events, what is the probability of either A or Boccurring?",
+      "options": {
+        "A": "p (A) + p (",
+        "B": "b) p (A) x p (B)",
+        "C": "p (A)+p (B)-p (A and B)",
+        "D": "1 - [p (A) + p (B)]"
+      },
+      "correct_answer": "A",
+      "explanation": "If the events A and B are mutually exclusive, then the probability of either A or B occuring is givenby,p (A or B) = p (A) + p (B)This is as per the addition rule of probability.The probability of both the mutually exclusive events happening at the same time is given by,p (A and B) = p (A) x p (B)The probability of any of two mutually non-exclusive events occuring at a point of time is given by,p (A or B) = p (A) + p (B) - p (A and B)If p(A) and p(B) are the only two outcomes possible in a given event then,p (A) + p (B)= 1For example, probability of patient suffering from lung cancer dying within 5 years andprobability of patient suffering from lung cancer surviving these 5 years adds upto 1.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 6,
+      "question": "You are conducting a study on birth weight. As per your data, the probability of a baby havingbirth weight &lt;2500 grams is 0.50 and of having birth weight of 2500-2999 grams is 0.20.What is the probability that a baby will have a birth weight of &lt; 3kg?",
+      "options": {
+        "A": "0.70",
+        "B": "0.60",
+        "C": "0.10",
+        "D": "0.3"
+      },
+      "correct_answer": "A",
+      "explanation": "The probability that a baby will have a birth weight of &lt; 3kg is 0.70.In this scenario, the probability of having a baby with BW &lt; 2500 grams, p (A) = 0.50 and thatof having a baby with BW between 2500 - 2999 grams, p (B) = 0.20.Since both events are mutually exclusive, i.e., they cannot happen together, it satisfies thecondition for the addition rule of probability.Thus, the probability of having a baby that weighs less than 3 kilos is,p (A or B) = p (A) + p (B) = 0.50 + 0.20 = 0.70.If p(A) and p(B) were non-mutually exclusive events, then the probability would have beencalculated byP(A or B) = P(A) + P(B) - p(A and B).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 7,
+      "question": "You select 3 people from a population where the prevalence of anemia is 20% .What is theprobability that all the three randomly selected people from the population would haveanemia?",
+      "options": {
+        "A": "0.002",
+        "B": "0.004",
+        "C": "0.6",
+        "D": "0.008"
+      },
+      "correct_answer": "D",
+      "explanation": "797In the given scenario, the probability of all 3 randomly selected individuals having anemia is0.008.In this scenario, the prevalence of anemia is 20%.So, the probability of a person having anemia in the given population (p) = 20/100 = 0.2.If selecting 3 people from the population randomly, the chance of the first person having anemiais independent of the second or third person also having it and vice versa. This satisfies thecondition for the multiplication rule of probability which states that the probability of two or morestatistically independent events all occurring together is equal to the product of their individualprobabilities.Thus, here the probability that all the 3 randomly selected people from the population would haveanemia = 0.2 X 0.2 X 0.2 = 0.008.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 8,
+      "question": "787There are 50 patients admitted in a ward of your medical college. Here 20 are girls and 30 areboys. Out of this, 10 girls and 20 boys require surgery. What is the probability that arandomly selected boy and girl both require surgery?",
+      "options": {
+        "A": "1/6",
+        "B": "3/5",
+        "C": "6/25",
+        "D": "1/3"
+      },
+      "correct_answer": "D",
+      "explanation": "In the given scenario, the probability that a randomly selected boy and girl both require surgery is1/3.First, we have to calculate the probability of picking the boys requiring surgery and the girlsrequiring surgery separately. These are mutually exclusive events.In this scenario, the probability of correctly picking a girl requiring surgery is p(A)=10/20= 1/2The probability of correctly picking a boy requiring surgery is p(B)=20/30= 2/3Next, we apply the multiplication rule of probability.The probability of picking boys and girls that require surgery,p(A and B)= p(A) x p(B)= ½ x ■ = 2/6= 1/3.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 9,
+      "question": "The chance of passing a genetic disease X by affected parents to their first child is 0.16. If theyplan to have two children, what is the probability that both the children will have the disease?",
+      "options": {
+        "A": "0.2944",
+        "B": "0.32",
+        "C": "0.0032",
+        "D": "0.0256"
+      },
+      "correct_answer": "D",
+      "explanation": "The probability of both children having the disease is 0.0256.In this scenario, the chance of each child having the disease is 0.16. The second child having thedisease is independent of the first child having it. So, the events are statistically independent.Applying the multiplication rule of probability, the probability of both children having the diseaseis,0.16 x 0.16 = 0.0256.These are non-mutually exclusive events as the first child having the trait does not rule out thechance of the second child having it.On the other hand, the probability of one of the two children having the disease is given by,p(A or B)= p(A) + P(B) - p(A and B)= 0.16 + 0.16 -(0.16 x 0.16)= 0.32- 0.0256= 0.2944798",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not a measurement scale for data?",
+      "options": {
+        "A": "Nominal",
+        "B": "Ordinal",
+        "C": "Ratio",
+        "D": "Proportion"
+      },
+      "correct_answer": "D",
+      "explanation": "A proportion is not a measurement scale for data. It is a ratio, where the numerator is always apart of the denominator. It indicates a value as a part of the whole. It is usually expressed as apercentage.The four scales of measurement used for data can be remembered with the mnemonic NOIR. Thisstands for nominal, ordinal, interval and ratio data scales.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following scales of data measurement do blood groups belong to?",
+      "options": {
+        "A": "Interval scale data",
+        "B": "Ratio scale data",
+        "C": "Categorical data",
+        "D": "Ordinal data"
+      },
+      "correct_answer": "C",
+      "explanation": "Blood groups are nominal scale data or categorical data. This is because they are just labels and have no numerical value or meaningful order.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following are examples of nominal scale data?",
+      "options": {
+        "A": "1 &amp; 3",
+        "B": "4 &amp; 5",
+        "C": "1,2 &amp; 5",
+        "D": "1,2 &amp; 3"
+      },
+      "correct_answer": "",
+      "explanation": "Genders, types of anemia and types of hospitals come under nominal scale data.There is no meaningful order or quantifiable variable in this kind of data. It is arranged on thebasis of labels, titles or categories.Kuppuswamy scale is an ordinal scale data. It is a scale representing socio-economic data.Height is a ratio scale data as it can be arranged in a meaningful order with a well-defined sizeinterval.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 13,
+      "question": "A physician classifies a group of patients based on disease severity as normal, mild, moderateand severe. Which of the following scales of data does this classification system belong to?",
+      "options": {
+        "A": "Nominal",
+        "B": "Ordinal",
+        "C": "Ratio",
+        "D": "Interval"
+      },
+      "correct_answer": "B",
+      "explanation": "The classification of this disease as normal, mild, moderate and severe belongs to the ordinalscale. This is because this arrangement is not only qualitative but also has a meaningful orderwith no interval in between.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following are representative of ordinal scale data?",
+      "options": {
+        "A": "1,2,3,4 &amp; 5",
+        "B": "2,3 &amp; 5",
+        "C": "1 &amp; 4",
+        "D": "2,3,4 &amp; 5"
+      },
+      "correct_answer": "B",
+      "explanation": "TNM staging, Likert scale and severity of pain are measured on the ordinal scale.In such cases, the arrangement is qualitative, with a meaningful order but there is no way ofquantifying the difference between the individual variables. For example, grading of pain as mild,moderate, and severe.The Likert scale is used in collecting self-reported data in questionnaire-based research. It is apsychometric scale used to understand people's attitudes from responses. Usually, a 5-point scaleof agreement is used which includes:• 1 – Strongly disagree-799•2 - Disagree•• 3 - Neither agree nor disagree• 4 - Agree• 5 - Strongly agreeTNM staging is done for the staging of cancer. It is based on tumor size, lymph node status andmetastasis. Lower stages indicate better prognosis than higher stages.Hemoglobin level is an example of ratio scale data.HIV positive or negative status falls under the category of nominal scale data.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is not a continuous variable?",
+      "options": {
+        "A": "Blood glucose value of a diabetic patient",
+        "B": "Mid-arm circumference of a child",
+        "C": "Number of visits to the hospital in a year",
+        "D": "Birth weight of a baby789"
+      },
+      "correct_answer": "",
+      "explanation": "The number of visits to the hospital in a year is a discrete variable. The only values it can takeare whole numbers and none in between. For example, you can't visit the hospital 2.5 times.Blood glucose value, mid-arm circumference and birth weight are continuous variables. They canhave any value within a limit or a range.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 16,
+      "question": "Match the following.",
+      "options": {
+        "A": "1-a, 2-b, 3-c, 4-b, 5-c",
+        "B": "1-a, 2-c, 3-b, 4-c, 5-b",
+        "C": "1-a, 2-c, 3-c, 4-b, 5-c",
+        "D": "1-b, 2-c, 3-b, 4-c, 5-a"
+      },
+      "correct_answer": "C",
+      "explanation": "The number of cancer patients in a hospital is an example of discrete data. They can only takecertain values and none in between.The temperature measured in the Celsius scale is an example of interval scale data. Such data arearranged in a meaningful order but they can not have an absolute zero value. For example, 80degree celcius to not twice as hot as 40 degree celcius and o degree celcius does not indicate anabsolute abscence of heat.Height and weight, blood pressure and temperature in the Kelvin scale are examples of ratio scaledata. Such data are arranged in a meaningful order and the scales they are measured in haveabsolute zero value. For example, a temperature of o kelvin indicates an absolute abscense ofheat.Height and weight, blood pressure, and temperature are examples of continuous data as they cantake any values between limits or a range.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 17,
+      "question": "Identify the following representation of data.(000'of light(km/s minus 299,1000Selayx @Itachi.900800Ju purchased this from someSpeedyou may have been scammer235Experiment No.",
+      "options": {
+        "A": "Pictogram",
+        "B": "Boxplot",
+        "C": "Histogram",
+        "D": "Stem and leaf plot"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shown is of a boxplot. This is a method for graphically depicting groups of numericaldata through their quartiles.Box plots may also have lines extending vertically from the boxes (i.e., whiskers) indicatingvariability outside the upper and lower quartiles. Hence, they are also known as box-and-whiskerplots and box-and-whisker diagrams.800The below image shows a boxplot depicting a series of experiments done to calculate the velocityof light.minus 299,000)(km/sSpeed of light100090080070012true speedtechikotComeoneA stem and leaf plot is used to depict frequency distribution and individual values for numericaldata. The stem is are usually arranged in ascending or descending order vertically, and a verticalline is drawn to separate it from the leaf. The number of leaf items total up to the number ofobservations. It is difficult to represent a large number of observations using this method.The below image shows a stem and leaf plot.11 | 712 |data117.5613 | 0130.071415 | 1416 |151.94",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q17_img1_5171c1d6.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp17_img1_d213dce1.png",
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 18,
+      "question": "The following diagram charts the population change over years from 1983 to 1989 in a givenplace. What is the statistical diagram used here?790",
+      "options": {
+        "A": "Histogram",
+        "B": "Line diagram",
+        "C": "Component bar graph",
+        "D": "Multiple bar graphsIn thousands30252015105O198319851987Population growthFemaleOMARROWMale"
+      },
+      "correct_answer": "",
+      "explanation": "The given image shows a component bar graph. It is used to represent data in which the totalmagnitude is divided into different subsets or components.801A bar chart or bar graph is used mainly for nominal or ordinal scale data. They can be simple,multiple or component bar graphs.The image given below shows a multiple bar graph showing the human losses of world war II bycountry. In a multiple bar chart, 2 or more sets of data are shown simultaneously.Human Losses of World War Two by Countryin milionsas % of a country populationSoviet UnionChinaGermanyPolandIndonesiaJapanIndiaYugoslaviaFrench Indo-ChinaRomaniaHungaryFranceItalyUnited KingdomUnited StatesLithuaniaCzechoslovakiaGreeceBurmaLatviaEthiopiaNetherlandsOtheraxtacrbotfrom someonemmeA bar chart can be distinguished from a histogram because the rectangles are separated by thespaces. This indicates that the data forms discrete categories.In a histogram, the rectangles are not separated by spaces as the data represented formsa continuous set instead of discrete groups.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q18_img1_f87d58a8.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp18_img1_3ac37dd8.png",
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 19,
+      "question": "Identify the following graphical representation of data.",
+      "options": {
+        "A": "Ogive",
+        "B": "Scattergram2601989240220200180160140120100806040200510152040791",
+        "C": "Frequency polygon",
+        "D": "Line diagram"
+      },
+      "correct_answer": "",
+      "explanation": "The given image is of a frequency polygon. It is obtained by joining the midpoints of histogramblocks. It is used to diagrammatically represent frequency distribution.Scattergram is a graph in which the values of two variables are plotted along two axes. The patternof the resulting points reveals any correlation that may be present. The below image shows ascattergram.802TQuality characteristic XXX86961001026694TScatterplot for quality characteristic XXXO510Process inputbotoneA line diagram is a type of chart that displays information as a series of data points called'markers' connected by straight line segments. It is usually used to study time trends.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q19_img1_3282e77c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 20,
+      "question": "During a cholera outbreak, you are asked to map the geographical distribution of the disease.What is the best method of doing this?",
+      "options": {
+        "A": "Dot-density map",
+        "B": "Bar diagram",
+        "C": "Line diagram",
+        "D": "Pie chart"
+      },
+      "correct_answer": "A",
+      "explanation": "Dot-density maps are the best way to plot the geographical distribution of diseases.The image given below shows a dot-density map of London that was plotted during the 1854outbreak of cholera.RECENT STREETSTREETOXFORDSTREETGEORGE STREETADNOX STREETSTREET",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp20_img1_81ca7c42.jpeg",
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 21,
+      "question": "What is the best way to plot the changes in incidence of a disease in a given area over time?",
+      "options": {
+        "A": "Line graph",
+        "B": "Histogram",
+        "C": "Ogive",
+        "D": "Tree diagram"
+      },
+      "correct_answer": "A",
+      "explanation": "CORK STREETSCASTLEVILLERCHACHEAT MARLBOROUGHSTREETmSTREESACHVILLE STREETRECENTSPICCILLHAYMARKETSCALE 30 INCHES TO A MILE.PANTON803Line graphs or line diagrams are the best way to plot the changes in the incidence of a disease in agiven area over time.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 22,
+      "question": "A doctor is taking history from a diabetic patient and decides to make a chart to assess jointinvolvement. Which chart should he make to explain this?",
+      "options": {
+        "A": "Histogram",
+        "B": "Line diagram",
+        "C": "Pie chart",
+        "D": "Tree diagram"
+      },
+      "correct_answer": "D",
+      "explanation": "In this case, a tree diagram would help the doctor in explaining the possible outcomes to thepatient's diabetes, with the perspective of joint involvement.A tree diagram is used mainly to chart the possible outcomes of a sample event.The following image shows the outline of a tree diagram.Tree diagramYesYesNoNoYesYesNoRNoYesYesNoNoYesNoOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp22_img1_eb6fb2ca.jpeg",
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 23,
+      "question": "What type of data does the image given below represent?792",
+      "options": {
+        "A": "Nominal",
+        "B": "Discrete",
+        "C": "Continuous",
+        "D": "Ordinal.4Density.6035.53636.53737.538Body Temperature / Celsius"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image is of a histogram. It is used to represent frequency distributions of continuousquantitative data.Nominal and ordinal data can be represented by a bar chart.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q23_img1_54ebd345.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following can be used to represent quantitative data?",
+      "options": {
+        "A": "Only C",
+        "B": "B and DB5040302010OSample 1Sample 2Sample 325020015010050O45610Time793",
+        "C": "A, C and D",
+        "D": "A, B and C"
+      },
+      "correct_answer": "C",
+      "explanation": "An ogive, a line diagram and a histogram can be used to represent quantitative data.The images shown above are:A - OgiveB - Bar graphC-Line diagram804D - HistogramQuantitative data cannot be represented by a bar graph. It is used mostly for nominal scale orqualitative data.805",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q24_img1_d13e7ccb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Descriptive Statistics I - Probability and Data"
+    }
+  ]
+}

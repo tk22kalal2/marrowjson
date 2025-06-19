@@ -1,0 +1,275 @@
+{
+  "chapter": "Blindness",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following organisms is least likely to be associated with malignancies?",
+      "options": {
+        "A": "Cytomegalovirus",
+        "B": "Epstein-Barr Virus",
+        "C": "HPV 6 and 11",
+        "D": "Schistosoma"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 2,
+      "question": "Which among the following is not a primary method of prevention of carcinoma in thepopulation?",
+      "options": {
+        "A": "Screening",
+        "B": "Restricting the use of tobacco",
+        "C": "Immunization",
+        "D": "Avoiding alcohol"
+      },
+      "correct_answer": "",
+      "explanation": "Screening for cancer is a secondary level of prevention.This is because it detects the disease at a pre-invasive or pre-malignant stage when the process ofcarcinogenesis has already started. It thereby aids in further treatment and improved survival.Immunization, restricting the use of tobacco and avoiding alcohol are primary levels of preventionbecause they prevent the start of carcinogenesis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 3,
+      "question": "According to Globocan 2020 India, which of the following are the most commonmalignancies among men and women respectively?",
+      "options": {
+        "A": "Ca lung and Ca cervix",
+        "B": "Ca lung and Ca breast",
+        "C": "Ca oral cavity and Ca breast",
+        "D": "Ca colon and Ca cervix"
+      },
+      "correct_answer": "",
+      "explanation": "According to Globocan 2020 India data, the most common malignancy among men is cancer lipand oral cavity, and among women is cancer breast.The table below lists the top 5 common cancers according to the Globocan 2020 India.Men1. Lip, oral cavityWomen1. BreastOverall1. Breast2. Lung3. Stomach2. Cervix uteri3. Ovary2. Lip, oral cavity4. Colorectum5. Oesophagus4. Lip, Oral cavity5. Colorectum3. Cervix uteri4. Lung5. Colorectum",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following women is not at an increased risk of developing breast cancer infuture?337",
+      "options": {
+        "A": "A woman who attained menarche at 9 years of age",
+        "B": "A woman who has never breastfed in her lifetime",
+        "C": "A woman who attained menopause at 56 years of age",
+        "D": "A woman who had her first full term pregnancy at 26 yearsof age"
+      },
+      "correct_answer": "",
+      "explanation": "Women who have their first full-term pregnancy after 30 years of age are at increased risk forbreast cancer.The risk of breast cancer increases with an increase in duration of exposure to estrogen. Asprogesterone levels are increased during pregnancy, it reduces the risks of conditions that occurdue to hyperestrogenemia.343Risk factors for breast cancer:• Modifiable risk factors:••Age at first live birth (First full-term pregnancy after 30 years)• Parity• Lack of breastfeedingObesity• Alcohol consumption• Tobacco smoking• Use of hormone replacement therapy• Decreased physical activity• Non-modifiable risk factors:••Increasing ageEarly age at menarche (onset of menses before 12 years of age)• Menstrual factors• Female sex• Older age at menopause (onset beyond 55 years of age)•Nulliparity•• Race, ethnicity• Genetic predisposition• Family history• History of radiation exposure",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 5,
+      "question": "A 50-year-old woman is at increased risk of breast cancer as she is on hormone replacementtherapy. Which of the following is the most sensitive method of screening for this condition?",
+      "options": {
+        "A": "Self breast examination",
+        "B": "Clinical breast examination",
+        "C": "Ultrasound of the breast",
+        "D": "Mammography"
+      },
+      "correct_answer": "",
+      "explanation": "Mammography is the most sensitive and specific investigation for detecting breast cancer.It can detect even small tumors that are missed during a self-breast examination, clinicalexamination by the physician and ultrasonographic examination.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is the best level of prevention of breast cancer?",
+      "options": {
+        "A": "Specific protection",
+        "B": "Early diagnosis and treatment",
+        "C": "Disability limitation",
+        "D": "Rehabilitation"
+      },
+      "correct_answer": "",
+      "explanation": "Early diagnosis and treatment is the best level of prevention of breast cancer. It is a secondarylevel of prevention.The earlier a disease is diagnosed and treated, the better is the prognosis. The occurrence ofsecondary cases or any long term disability can be prevented. This is of particular importancein chronic diseases.344Early diagnosis and treatment is not as effective and economical as primary prevention. However,it may be critically important in reducing the high morbidity and mortality in diseases such asessential hypertension, cancer cervix and breast cancer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient with Prader-Willi syndrome needs to be evaluated for obesity but the scale formeasuring height in your clinic is broken. Which of the following indices can you still use inthis situation?",
+      "options": {
+        "A": "Quetelet's index",
+        "B": "Corpulence index",
+        "C": "Lorentz formula",
+        "D": "Broca's index"
+      },
+      "correct_answer": "C",
+      "explanation": "The corpulence index can be used in this scenario as it is independent of height. The formula forcorpulence index is actual weight/ desired weight.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 8,
+      "question": "338Which of the following indices of obesity is obtained by dividing weight in kg by square ofheight in metres?",
+      "options": {
+        "A": "Ponderal index",
+        "B": "Broca's index",
+        "C": "Lorentz's index",
+        "D": "Quetelet's index"
+      },
+      "correct_answer": "D",
+      "explanation": "Quetelet's index (Body Mass Index) is obtained by dividing weight in kg by square of height inmetres.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 9,
+      "question": "The BMI of two Indian college students are 17 and 24.99 respectively. How will you classifythem in terms of their BMI?",
+      "options": {
+        "A": "Underweight and normal",
+        "B": "Underweight and overweight",
+        "C": "Normal and overweight.",
+        "D": "Underweight and obese"
+      },
+      "correct_answer": "B",
+      "explanation": "An adult Indian with a BMI of 17 is classified as underweight and a BMI of 24.99 is classifiedas overweight.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 10,
+      "question": "The weight of a diabetic woman is 75 kg and her height is 150 cm. Calculate her BMI.",
+      "options": {
+        "A": "30",
+        "B": "33",
+        "C": "35",
+        "D": "28"
+      },
+      "correct_answer": "B",
+      "explanation": "The BMI of an individual with a weight of 75 kg and height of 150 cm is 33. It is calculated asfollows,BMI = Weight (in kg) / Height2 (in metre2) = 75 / (1.5)2 = 33.==",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 11,
+      "question": "For which of the following conditions, an obese individual is at the greatest risk of developingin the future?",
+      "options": {
+        "A": "Polycystic ovary syndrome",
+        "B": "Coronary artery disease",
+        "C": "Low back pain",
+        "D": "Type 2 diabetes339"
+      },
+      "correct_answer": "D",
+      "explanation": "Among the given options, an obese individual is at the greatest risk of developing type 2 diabetes.The relative risk of health problems associated with obesity:Greatly increased risk Moderately increased risType 2 diabeteskCoronary artery diseaseGall bladder diseaseHypertensionSlightly increased riskCancer (breast cancer in postmenopausal women, endometrial cancer, colon cancer)Reproductive hormone abnormalities345Greatly increased risk Moderately increased riskDyslipidaemiaOsteoarthritis (knees)Insulin resistanceHyperuricaemia and goutBreathlessnessSleep apneaSlightly increased riskPolycystic ovary syndromeImpaired fertilityLow back pain due to obesityIncreased risk of anaesthesiacomplicationsFetal defects associated withmaternal obesity",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following statements is incorrect regarding waist circumference?",
+      "options": {
+        "A": "The cut-off for normal waist circumference in Indian women is 90 cm",
+        "B": "It is measured at the midpoint between the lower border of the rib cage and the iliac crest",
+        "C": "It is an approximate index of intra-abdominal and total body fat",
+        "D": "It is an indicator of the risk of chronic diseases"
+      },
+      "correct_answer": "A",
+      "explanation": "The cut-off value for normal waist circumference in Indian women is 80cm, while in Indian menit is 90cm.Waist circumference is an approximate indicator of intra-abdominal and total body fat. It ismeasured at the midpoint between the lower border of the rib cage and the iliac crest. It is anindicator of the risk of chronic diseases.The cut-off for normal waist circumference is:CategoryCut-off for normal waistcircumferenceIndianMen90cmWom80cmenWorldMen102cmWom 88cmen",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 13,
+      "question": "According to the WHO, what is the cut-off for visual acuity for blindness?",
+      "options": {
+        "A": "6/60",
+        "B": "3/60",
+        "C": "1/60",
+        "D": "Perception of light"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the WHO, blindness is defined as visual acuity of less than 3/60, or a correspondingvisual field loss to less than 10°, in the better eye with the best possible correction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following is the most common cause of blindness in India?",
+      "options": {
+        "A": "Refractive error",
+        "B": "Cataract",
+        "C": "Diabetic retinopathy",
+        "D": "Trachomatous corneal opacity"
+      },
+      "correct_answer": "B",
+      "explanation": "346According to the National Survey on Blindness (2015-2019), cataract is the most common cause ofblindness in India accounting for 66.2% of the total cases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 15,
+      "question": "You administer vitamin A prophylactically to a 15-month-old child during a routine checkup.What is the level of prevention being achieved here?",
+      "options": {
+        "A": "Primary",
+        "B": "Secondary",
+        "C": "Tertiary",
+        "D": "Primordial340"
+      },
+      "correct_answer": "A",
+      "explanation": "Prophylactic administration of vitamin A to a normal child is an example of primary level ofprevention. It is done to prevent xerophthalmia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 16,
+      "question": "A boy is brought to the ophthalmologist with complaints of dryness in both the eyes anddifficulty in reading. On examination, his eye appears as shown in the below image. What isthe stage of xerophthalmia according to WHO?",
+      "options": {
+        "A": "X1 A",
+        "B": "X1 B",
+        "C": "X3 A",
+        "D": "X3 BDAILYROUNDS"
+      },
+      "correct_answer": "B",
+      "explanation": "The finding in the given image is a Bitot's spot. It belongs to WHO class X1 B of vitamin Adeficiency.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q16_img1_81a75e75.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 17,
+      "question": "A 2-year-old child on examination shows signs of vitamin A deficiency. What is the dose ofvitamin A to be administered to this child?",
+      "options": {
+        "A": "50000 IU",
+        "B": "1 lakh IU",
+        "C": "2 lakhs IU",
+        "D": "2.5 lakh IU"
+      },
+      "correct_answer": "C",
+      "explanation": "2 lakh IU of vitamin A should be administered to a 2-year-old child with vitamin A deficiency.Dosage of vitamin A in children:• 50,000 IU for children less than 6 months of age• 1 lakh IU for children between 6 months to 12 months of• 2 lakh IU for children above 12 months of age.ageThese doses of vitamin A are to be administered on days 1, 2 and 14 for the treatment of vitamin Adeficiency.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    },
+    {
+      "q_no": 18,
+      "question": "What is the most common cause of injury-related death?341",
+      "options": {
+        "A": "Interpersonal violence",
+        "B": "Falls",
+        "C": "Road traffic accidents",
+        "D": "Suicide"
+      },
+      "correct_answer": "C",
+      "explanation": "The most common cause of injury-related deaths are road traffic accidents, followed by suicide.347",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Blindness"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "chapter": "Medical Entomology - Mosquitoes and Flies",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is false regarding mosquitoes?",
+      "options": {
+        "A": "It is the definitive host in malaria",
+        "B": "Mansonia is a vector for Malayan filariasis",
+        "C": "Life span of mosquitoes is around 8 to 34 days",
+        "D": "All mosquitoes can travel only for 100 metres"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following species of mosquitoes breed in dirty water and water bodiescontaining aquatic vegetation respectively?",
+      "options": {
+        "A": "Anopheles and Aedes",
+        "B": "Culex and Mansonia",
+        "C": "Aedes and Anopheles",
+        "D": "Mansonia and Culex"
+      },
+      "correct_answer": "D",
+      "explanation": "Culex species of mosquitoes breed mostly in dirty and polluted water. Mansonia species ofmosquitoes breed in water bodies containing aquatic vegetation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is false about larva of mosquitoes?",
+      "options": {
+        "A": "Anopheles larva has siphon tube",
+        "B": "Culex larva lies in water with head faced downwards",
+        "C": "Anopheles larva lies parallel to the undersurface of water",
+        "D": "Culex larva has siphon tube"
+      },
+      "correct_answer": "A",
+      "explanation": "Anopheles larva has no siphon tube as shown in the image below.The image given below shows Culex larva having a siphon tube.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp3_img1_9b5b38b2.jpeg",
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 4,
+      "question": "Identify the species of mosquito shown in the image below.623",
+      "options": {
+        "A": "Anopheles",
+        "B": "Culex",
+        "C": "Aedes",
+        "D": "MansoniaAleksandrs Balodis, 2017, Latvia"
+      },
+      "correct_answer": "",
+      "explanation": "632The given image is of an Aedes mosquito.They can be identified with the stripes on the legs and body. They are also called tiger mosquitoesbecause of their stripes.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q4_img1_baf46bbb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 5,
+      "question": "A 25-year-old lady from a tribal area presented with fever, chills, vomiting, and abdominalpain for 4 days. The peripheral smear of the patient is given below. Which of the following istrue about the mosquito which transmits this disease?",
+      "options": {
+        "A": "Wings are spottedD624",
+        "B": "Breeds in polluted water",
+        "C": "Larva has siphon tube",
+        "D": "Keeps its body horizontal while feeding"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario and peripheral smear showing ring form/ early trophozoites inerythrocytes are suggestive of Plasmodium falciparum malaria. It is transmitted by Anophelesmosquitoes. They have spotted wings.They breed in clean water. Their larva has no siphon tube and lies parallel to the undersurface ofwater. They tend to sit with their heads low and their rare ends raised high, especially whenfeeding.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q5_img1_fcf3d1ef.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient presented with fever, headache, and retro-orbital pain for 3 days. He tested positivefor the NS1 antigen. Which of the following mosquitoes transmits the disease he's sufferingfrom?",
+      "options": {
+        "A": "Tiger mosquito",
+        "B": "Nuisance mosquito",
+        "C": "Anopheles stephensi",
+        "D": "Anopheles culicifacies"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario along with the positive NS1 antigen test is suggestive of dengue fever.It is transmitted by the Aedes mosquito, which is also called as tiger mosquito.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following diseases is not transmitted by Aedes mosquito?",
+      "options": {
+        "A": "2, 4, and 5",
+        "B": "3 and 5 only",
+        "C": "1 and 3 only",
+        "D": "1, 2, and 4"
+      },
+      "correct_answer": "B",
+      "explanation": "Japanese encephalitis and West Nile fever are transmitted by Culex mosquitoes.Chikungunya, yellow fever, and rift valley fever are transmitted by Aedes mosquitoes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 8,
+      "question": "A banker who is scheduled to travel to Congo is advised to take the yellow fever vaccine. Whatis the flight range of the mosquito which transmits this disease?",
+      "options": {
+        "A": "1 kilometre",
+        "B": "100 metres",
+        "C": "400 metres",
+        "D": "11 kilometres"
+      },
+      "correct_answer": "B",
+      "explanation": "Yellow fever is transmitted by the Aedes mosquito. Its flight range is 100 metres.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 9,
+      "question": "625A patient with fever and mucosal bleeding is diagnosed with dengue fever. Which of thefollowing is false about the mosquito which transmits this disease?",
+      "options": {
+        "A": "It is a day biter",
+        "B": "Development of larva from egg does not require water",
+        "C": "It also transmits yellow fever",
+        "D": "It has a striped body pattern"
+      },
+      "correct_answer": "B",
+      "explanation": "Dengue fever is transmitted by the Aedes mosquito. The conversion from the egg stage to thelarval stage of this mosquito requires water.Eggs of any mosquito species do not survive without water. But the eggs of Aedes mosquitoes liedormant in dry conditions for up to about nine months. They can hatch if exposed to favourableconditions such as water and food.633",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 10,
+      "question": "A 10-year-old boy is brought to the OPD with complaints of fever and headache for 5 days.Serological examination shows the presence of IgM antibodies to the JE virus. Which of thefollowing mosquitoes transmits this disease?",
+      "options": {
+        "A": "Anopheles sundaicus",
+        "B": "Culex tritaeniorhynchus",
+        "C": "Aedes albopictus",
+        "D": "Anopheles culicifacies"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of Japanese encephalitis. It is transmitted by Culexmosquitoes like Culex tritaeniorhynchus",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 11,
+      "question": "Match the following diseases and the mosquitoes which transmit them.",
+      "options": {
+        "A": "1 - c, ll - a, lll - d, iV - b",
+        "B": "1 - a, ll - b, lll - c,IV - d",
+        "C": "1 b, llc, lll - d, IV - a--",
+        "D": "1 d, lla, lll - b, IV - c--"
+      },
+      "correct_answer": "C",
+      "explanation": "The correctly matched diseases with the mosquitoes which transmit them are:DiseaseMosquitoYellow feverAedesBancroftian filariasisMalariaCulexAnophelesMalayan filariasisMansonia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is true about pathogenic mosquitoes?",
+      "options": {
+        "A": "Anopheles has spotted abdomen",
+        "B": "Mansonia lays eggs singly",
+        "C": "Culex transmits yellow fever",
+        "D": "Aedes lays eggs singly626"
+      },
+      "correct_answer": "D",
+      "explanation": "Aedes and Anopheles lay eggs singly.Culex lays eggs in rafts and Mansonia lays eggs in star-shaped clusters.Anopheles has spotted wings while the other pathogenic species have unspotted wings.Aedes transmits yellow fever, dengue and chikungunya. Culex is the main vector for JE andfilariasis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 13,
+      "question": "You are posted in a PHC in a coastal region as a part of your rural postings. Which of thefollowing Anopheles species is most commonly found here?",
+      "options": {
+        "A": "Anopheles philippinensis",
+        "B": "Anopheles stephensi",
+        "C": "Anopheles fluviatilis",
+        "D": "Anopheles culicifacies"
+      },
+      "correct_answer": "B",
+      "explanation": "Anopheles stephensi and Anopheles sundaicus are found in coastal regions.Anopheles stephensi is also the main vector of malaria in urban regions. Anopheles culicifaciesand Anopheles philippinensis are found in the plains. Anopheles fluviatilis and Anophelesminimus are found in foot-hill regions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following species of Anopheles mosquitoes transmits urban malaria?",
+      "options": {
+        "A": "Anopheles philippinensis",
+        "B": "Anopheles stephensi",
+        "C": "Anopheles fluviatilis",
+        "D": "Anopheles culicifacies"
+      },
+      "correct_answer": "B",
+      "explanation": "Urban malaria is transmitted by Anopheles stephensi.634",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 15,
+      "question": "What is the distance around an airport or seaport that has to be kept free of all mosquitoes?",
+      "options": {
+        "A": "1 kilometre",
+        "B": "500 metres",
+        "C": "400 metres",
+        "D": "100 metres"
+      },
+      "correct_answer": "",
+      "explanation": "The distance around an airport or seaport that has to be kept free of all mosquitoes is 400 metres.This helps in limiting the spread of vector-borne diseases to new geographic regions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 16,
+      "question": "Identify the following vector.627",
+      "options": {
+        "A": "Phlebotomus argentipes",
+        "B": "Phlebotomus papatasi",
+        "C": "Musca domestica",
+        "D": "Triatoma infestans"
+      },
+      "correct_answer": "",
+      "explanation": "The given image is of a housefly, whose scientific name is Musca domestica.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q16_img1_93b7de88.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is not a method of disease transmission by houseflies?",
+      "options": {
+        "A": "Biting",
+        "B": "Defecation",
+        "C": "Vomit drop",
+        "D": "Mechanical transmission"
+      },
+      "correct_answer": "A",
+      "explanation": "Houseflies do not transmit diseases by biting. They transmit diseases by mechanical transmissionby their legs or feet, vomit drop, and defecation.They transmit a variety of diseases like:• Typhoid• Polio•• Dysentery• Amoebiasis•• Anthrax• Yaws",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 18,
+      "question": "Which disease is transmitted by the following vector that is found in cracks and crevices ofwalls in the day time?628",
+      "options": {
+        "A": "Japanese encephalitis",
+        "B": "Visceral leishmaniasis",
+        "C": "Dengue",
+        "D": "Trypanosomiasis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image is of a sandfly. It transmits visceral leishmaniasis.Note: Sandfly acts as a vector for the following diseases:• Kala-azar•Oriental sore•Sandfly fever•Oroya feverJapanese encephalitis is transmitted by the Culex mosquito. Dengue is transmitted bythe Aedes mosquito.Trypanosomiasis is transmitted by the tsetse fly.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q18_img1_4ba595fc.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 19,
+      "question": "Sandfly does not transmit:",
+      "options": {
+        "A": "Kala azar",
+        "B": "Oriental sore",
+        "C": "Oraya fever",
+        "D": "Trench fever"
+      },
+      "correct_answer": "D",
+      "explanation": "635Trench fever is not transmitted by sandflies. It is transmitted by lice and caused by Bartonellaquintana.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following diseases is transmitted by the vector shown in the image given below?629",
+      "options": {
+        "A": "Onchocerciasis",
+        "B": "Kyasanur forest disease",
+        "C": "Oroya fever",
+        "D": "Sleeping sickness"
+      },
+      "correct_answer": "D",
+      "explanation": "The vector shown in the image is a tsetse fly. It transmits African sleeping sickness (Africanhuman trypanosomiasis).Tsetse flies belong to the genus Glossina. They have not demonstrated insecticideresistance. Methods of tsetse fly control include spraying of DDT, clearing of vegetation,destruction of wild game and genetic control.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q20_img1_93f8f14c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 21,
+      "question": "A patient presents with blurring of vision and a painless swelling over his left elbow whichhas gradually been increasing in size over the past 1 year. On examination, he is noted to havepatchy depigmentation on his legs. Which of the following vectors transmits the disease he'ssuffering from?",
+      "options": {
+        "A": "Sandfly",
+        "B": "Blackfly",
+        "C": "Rat flea",
+        "D": "Tsetse fly"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario is suggestive of onchocerciasis, also known as river blindness. It istransmitted by blackfly.The usual presentation of onchocerciasis is the formation of a subcutaneous nodule oronchocercoma. It is a firm non-tender nodule arising from bony sites like the scalp, elbow, ribs,and iliac crest. It is associated with pruritus and rashes. Patients also present with patchydepigmentation on the legs called leopard skin.The presence of microfilaria in the eye causes photophobia and gradual loss of vision. The mostsevere manifestations are sclerosing keratitis and chorioretinitis which can lead to blindness.Blackfly is also called Simulium. It has a flight range of almost 100 miles, making control of adultflies difficult. Abate is widely used as a larvicidal insecticide. The image given below shows ablackfly.636",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp21_img1_f560e276.jpeg",
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    },
+    {
+      "q_no": 22,
+      "question": "Spot the wrongly matched arthropod and disease.",
+      "options": {
+        "A": "Housefly Poliomyelitis",
+        "B": "Louse Epidemic typhus-",
+        "C": "Sandfly Oriental sore-630",
+        "D": "Blackfly - Chagas disease"
+      },
+      "correct_answer": "D",
+      "explanation": "Blackflies (Simulium) are the vector for onchocerciasis and not Chaga's disease.An arthropod or an invertebrate that transmits infection is called a vector. It transmits infectionby:•• Inoculation into or through the skin or mucous membrane•Biting•Deposit of infective materials on skin or food or other objectsNote: Chagas disease is transmitted by the reduviid bugs or kissing bugs or triatomines.637",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Medical Entomology - Mosquitoes and Flies"
+    }
+  ]
+}

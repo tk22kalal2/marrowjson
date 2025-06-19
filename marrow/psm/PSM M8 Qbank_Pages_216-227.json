@@ -1,0 +1,275 @@
+{
+  "chapter": "Viral Respiratory Infections",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "When did the WHO declare that smallpox has been globally eradicated?",
+      "options": {
+        "A": "24th March 1977",
+        "B": "31st May 1975",
+        "C": "7th April 1975",
+        "D": "8th May 1980"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements is not included in the case definition of smallpox?",
+      "options": {
+        "A": "Acute onset fever and malaise 2-4 days before onset of rash",
+        "B": "Development of a maculopapular rash starting on the face and forearms",
+        "C": "Evolution of the rash to umbilicated pustules within 48 hours",
+        "D": "No alternative diagnosis explaining the illness"
+      },
+      "correct_answer": "C",
+      "explanation": "The rash of smallpox evolves within 48 hours to first form deep-seated, firm, and well-circumscribed vesicles, which later become umbilicated or confluent pustules. Case definition for notification of smallpox: An individual of any age with acute onset fever, malaise, severe prostration, headache, and backache 2-4 days before the onset of rash. Development of a maculopapular rash starting on the face and forearms and then spreading to the trunk and legs. Rash evolves within 48 hours to deep-seated, firm, and well-circumscribed vesicles, which later become umbilicated or confluent pustules. Lesions that appear at the same stage of development (i.e., all are vesicles or all are pustules) on any given part of the body. No alternative diagnosis explaining the illness. Laboratory confirmation: Identification of variola (smallpox) DNA with PCR or isolation of the virus from a clinical specimen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 3,
+      "question": "A 15-year-old boy presents to you with complaints of fever and malaise. He also complains of an itchy rash, which first appeared on the trunk as shown below. When is this disease the most contagious?",
+      "options": {
+        "A": "After formation of scab",
+        "B": "2 days before and 5 days after the onset of rash",
+        "C": "7 days before to 7 days after the onset of rash",
+        "D": "4 days before to 4 days after the onset of rash"
+      },
+      "correct_answer": "B",
+      "explanation": "The rash (different stages at one time) in the image and the clinical history are suggestive of chickenpox. The period of communicability for chickenpox is 2 days before and 5 days after the onset of rash.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q3_img1_3e5f6ec7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is not characteristic of the rash of chicken pox?",
+      "options": {
+        "A": "Pleomorphic",
+        "B": "Centripetal",
+        "C": "Deep seated",
+        "D": "Unilocular"
+      },
+      "correct_answer": "C",
+      "explanation": "The rash of chickenpox is superficial and the rash of smallpox is deep-seated.Difference between the rash of chickenpox and smallpox:ChickenpoxCentripetalSpares palmsandsoles, rash mostly on flexor surfacesSuperficialVesicles are unilocular and givedewdroponrose petal appearanceRash ispleomorphicand symmetricalRapid evolutionSmallpoxCentrifugalPalms and soles involved, rash predominant on extensor surfacesDeep-seatedVesicles are multilocular andumbilicatedRash ismonomorphicSlow evolution",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following statements are true about chickenpox?",
+      "options": {
+        "A": "1, 4 & 5",
+        "B": "2, 4 & 5",
+        "C": "2, 3 & 5",
+        "D": "1, 2 & 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Chickenpox is caused by the human herpes virus-3 (varicella-zoster virus). It remains latent in the sensory ganglion. Reactivation of the virus can cause shingles. The secondary attack rate of chickenpox is very high, 85% (range 61%–100%). The characteristic infective vesicle, surrounded by an erythematous halo, is described as a dewdrop on a rose petal. The scab of chickenpox is not infective. The vaccine given for chickenpox prophylaxis is a live attenuated vaccine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 6,
+      "question": "The varicella vaccine can be safely administered to which of the following individuals?",
+      "options": {
+        "A": "A pregnant woman",
+        "B": "A patient allergic to neomycin",
+        "C": "A HIV-infected patient with CD4+ T cell levels > 15%",
+        "D": "A patient on long-term corticosteroid therapy"
+      },
+      "correct_answer": "C",
+      "explanation": "Varicella vaccine can be considered for clinically stable HIV-infected children or adults with CD4+ T cell levels ≥ 15%, including those receiving active antiretroviral therapy. Varicella vaccine is contraindicated in: pregnant women, immunocompromised patients, and patients allergic to neomycin. Following vaccination, salicylates should be avoided for 6 weeks to prevent Reye's syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 7,
+      "question": "A child with a fever and rash was brought to your OPD. Oral findings as shown in the image were observed. During which period can this disease spread to others?",
+      "options": {
+        "A": "4 days before and 2 days after the appearance of rash",
+        "B": "2 days before and 2 days after the appearance of rash",
+        "C": "4 days before and 4 days after the appearance of rash",
+        "D": "2 days before and 4 days after the appearance of rash"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image shows Koplik spots, which are a pathognomonic sign of measles. The period of communicability for measles is 4 days before and 4 days after the appearance of rash. The patient is isolated for 7 days from the onset of rash.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q7_img1_ef59bb10.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following statements is true about measles?",
+      "options": {
+        "A": "Incubation period is 5 days",
+        "B": "Otitis media is a common complication",
+        "C": "It is caused by Orthomyxovirus",
+        "D": "A large number of carriers are present"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common complication of measles is otitis media, occurring in about 10-15% of patients. Measles is caused by an RNA virus of the Paramyxovirus family. The incubation period of measles is 10 to 14 days. The only source of infection is a case of measles. Carriers are not known to occur. The complications of measles include: • Otitis media (most common) • Measles-associated diarrhea • Pneumonia • Conjunctivitis • Febrile seizures • Subacute sclerosing panencephalitis (rare but is fatal) - occurs several years after primary infection",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 9,
+      "question": "During a measles epidemic in the community, an eight-and-a-half-month-old child was vaccinated for measles. What is the correct immunization schedule to be followed for her, regarding measles?",
+      "options": {
+        "A": "The child should be given a second dose after 4 weeks.",
+        "B": "The child should be given a second dose as soon as she reaches 9 months of age.",
+        "C": "The child should directly be given the second dose of measles at 16 months.",
+        "D": "The child should be given the second dose of measles at 12 months of age."
+      },
+      "correct_answer": "A",
+      "explanation": "In this child, the next dose of measles vaccine should be given after 4 weeks. While the scheduled age of receiving a measles vaccine is 9 months, it can be lowered up to 6 months during a measles epidemic in the community. For infants immunized between 6 to 9 months of age, a second dose should be administered as soon as the child reaches the age of 9 months. It is to ensure adequate immunity has developed, provided that 4 weeks have elapsed since the last dose. In this child, the first dose was given at the age of 8 and a half months, and there must be a gap of 4 weeks between the two doses. If the child were to be vaccinated as soon as she turns 9 months old, only two weeks would have elapsed.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 10,
+      "question": "A child was brought to you with complaints of fever, malaise, and a rash. You diagnose the child with measles. What is the recommended period of isolation for this disease?",
+      "options": {
+        "A": "From onset of rash to 3 days after rash",
+        "B": "2 weeks before rash to 1 week after rash",
+        "C": "From onset of rash to 5 days after rash",
+        "D": "From catarrhal stage to 5 days after rash"
+      },
+      "correct_answer": "D",
+      "explanation": "The isolation period for measles is from the catarrhal (prodromal) stage to 5 days after the onset of the rash. The period of communicability is approximately 4 days before and 5 days after the appearance of the rash. Isolation of the patient for a week from the onset of rash adequately covers the period of communicability.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following is correct about the criteria for elimination of measles?",
+      "options": {
+        "A": "There should be an absence of transmission of epidemic measles",
+        "B": "The duration of absence of transmission should be ≥ 6 months",
+        "C": "A well-performing surveillance system should be present",
+        "D": "Absence of transmission should be seen in multiple geographical areas"
+      },
+      "correct_answer": "C",
+      "explanation": "Measles elimination is operationally defined as the absence of endemic measles transmission in a defined geographical area (region or country) for ≥ 12 months in the presence of a well-performing surveillance system.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is not true about the Measles-Rubella campaign?",
+      "options": {
+        "A": "It is a mass vaccination campaign organised to introduce MR vaccine219",
+        "B": "Follow-up campaign is organised every 3-5 years",
+        "C": "It covers children from 9 months to 15 years of age",
+        "D": "Mop-up strategy is a part of the campaign"
+      },
+      "correct_answer": "D",
+      "explanation": "Mop-up strategy is not a part of the Measles-Rubella campaign.Measles-Rubella vaccine introduction campaign:• A mass vaccination campaign to introduce an MR vaccine•Targets a wide age group of children: 9 months to &lt; 15 years• All children in the target age group receive an additional dose of the vaccine•Regardless of previous vaccination status or history of illness.Measles-Rubella follow-up campaign:• A mass vaccination campaign as a periodic event every 3-5 years guided by country-specificsurveillance data• Target age group for immunization: all children aged &gt; 9 months, who were born after theprevious MR vaccination campaign",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 13,
+      "question": "According to the WHO, what percentage of immunization coverage is needed for eradicationof measles?",
+      "options": {
+        "A": "68%",
+        "B": "72%",
+        "C": "84%",
+        "D": "96%"
+      },
+      "correct_answer": "",
+      "explanation": "According to the WHO, eradication of measles requires achieving an immunization coverage of atleast 96% of children under 1 year of age.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following is false about Rubella infection?",
+      "options": {
+        "A": "It is a type of droplet infection",
+        "B": "Vertical transmission is possible",
+        "C": "Infection in early pregnancy causes a milder form of disease in the fetus",
+        "D": "Fetus affected in late pregnancy may have only deafness"
+      },
+      "correct_answer": "D",
+      "explanation": "Earlier the rubella infection occurs in pregnancy, greater is the damage to the foetus.The major determinant of the extent of fetal infection in congenital rubella syndrome isthe gestational age at which fetal transmission occurs.225Rubella infection in 1st trimester can cause:• Abortions• Still birth• Skin lesions - blueberry muffin rash•Congenital rubella syndrome",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 15,
+      "question": "According to the WHO, which of the following tests cannot be used to confirm a case of swineflu?",
+      "options": {
+        "A": "Real-time PCR",
+        "B": "Viral culture",
+        "C": "4-fold rise in virus specific neutralizing antibodies",
+        "D": "ELISA"
+      },
+      "correct_answer": "D",
+      "explanation": "ELISA is not included in the criteria for confirming a case of H1N1.The ELISA is an easy to perform, highly specific, and fairly sensitive diagnostic tool for the 2009pandemic influenza A (H1N1) virus infections. However, it is not included in the WHO's list ofconfirmation tests.According to WHO, 2009 pandemic (H1N1) virus infection is confirmed by one or more of thefollowing tests:• Polymerase chain reaction (PCR)• Viral culture•⚫ 4 fold rise in H1N1 virus specific neutralizing antibodies",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 16,
+      "question": "What is the route of administration of the avian influenza vaccine?",
+      "options": {
+        "A": "Intranasal",
+        "B": "Intramuscular",
+        "C": "Subcutaneous",
+        "D": "Intradermal"
+      },
+      "correct_answer": "B",
+      "explanation": "The avian influenza H5N1 vaccine is administered intramuscularly. H5N1 avian influenza vaccine was approved in 2017 for the age group of 18 to 64 years of age who are at increased risk of exposure to the H5N1 influenza virus subtype contained in the vaccine. It is administered intramuscularly in the upper arm and given in 2 doses, 28 days apart. Note: The live attenuated H1N1 influenza vaccine is given intranasally.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 17,
+      "question": "Vaccine that requires strain change due to evolving organism is?",
+      "options": {
+        "A": "Influenza",
+        "B": "Diphtheria",
+        "C": "Polio",
+        "D": "Typhoid"
+      },
+      "correct_answer": "A",
+      "explanation": "Influenza vaccine requires periodic strain change due to antigenic change in the surfaceglycoprotein of the virus.The change may be gradual (antigenic drift) or drastic (antigenic shift).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    },
+    {
+      "q_no": 18,
+      "question": "Pandemic that occurred in 2009 was due to which influenza virus?",
+      "options": {
+        "A": "H1N1",
+        "B": "H5N1",
+        "C": "H5N7",
+        "D": "H3N2"
+      },
+      "correct_answer": "A",
+      "explanation": "226Recent influenza pandemic occurred in 2009 due to the emergence of a novel H1N1 influenza Avirus.Past influenza pandemics:• 1968 pandemic due to H3N2 virus• 1957-58 pandemic due to H2N2 virus• 1918 pandemic due to H1N1 virus227",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Viral Respiratory Infections"
+    }
+  ]
+}

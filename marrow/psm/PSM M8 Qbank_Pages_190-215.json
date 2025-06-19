@@ -1,0 +1,485 @@
+{
+  "chapter": "Screening",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following are true for a screening test?",
+      "options": {
+        "A": "1 and 5",
+        "B": "1, 3, 4",
+        "C": "2, 4, 5",
+        "D": "1, 4, 5"
+      },
+      "correct_answer": "D",
+      "explanation": "A screening test should have high sensitivity (1) and be easy to perform and interpret (4), and its results should be able to be communicated to the patient (5).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 2,
+      "question": "Below is a diagram depicting the natural history of the disease. Which point marks the onset of symptoms?",
+      "options": {
+        "A": "Point A",
+        "B": "Point B",
+        "C": "Point C",
+        "D": "Point D"
+      },
+      "correct_answer": "C",
+      "explanation": "Point C represents a point where signs and symptoms appear. Various points marked in the image represent the following: Point A: Entry of infectious agent into the host. Point B: Pathological and physiological changes occur in the stage of the subclinical phase. These changes are induced by the causative agent but are not sufficient enough to cause clinical signs and symptoms. Point C: Marks onset of clinical signs and symptoms. Point D: Usual time of diagnosis at which clinical signs and symptoms are well evident. Timeline of Natural history of disease: Pathologic Onset of Usual time of Exposure changes symptoms Diagnosis. Stage of Susceptibility. Stage of Subclinical disease. Stage of Clinical disease. Stage of Recovery, Disability, or Death.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q2_img1_b62a62a5.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp2_img1_428a220f.jpeg",
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 3,
+      "question": "ABCD. How Stage of susceptibility, Stage of subclinical disease, Stage of clinical, Stage of disease recovery, disability or death. OMARROW190. In the following natural history of disease flowchart, point A to C is called as?",
+      "options": {
+        "A": "Screening time",
+        "B": "Lead time",
+        "C": "Lag time",
+        "D": "Generation time. First. Final. possible. critical. Usual point of point of diagnosis diagnosis time of diagnosis. Disease Outcome onset. AB CO MARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "Lead time is the period between the first possible time of detection (point A) and the usual time of diagnosis (point C). Screening time is the time difference between the first point of diagnosis and the critical point of diagnosis. Diagnosis of a disease before the critical point has a good outcome and reduces the severity by reversing the disease process. Diagnosis beyond the critical point; treatment would be unsuccessful and/or permanent damage would have occurred. Screening must be done in conditions where there is a considerable time lag between the onset of disease and the usual time of diagnosis, that is, conditions with a long lead time. Generation time is defined as the interval of time between the onset of infection by a host and the maximal infectivity of that host.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q3_img1_402fe6bf.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 4,
+      "question": "In which of the following diseases, does the screening procedure increase the overall survival to the maximum?",
+      "options": {
+        "A": "Lung cancer",
+        "B": "Prostate cancer",
+        "C": "Colon cancer",
+        "D": "Ovarian cancer"
+      },
+      "correct_answer": "C",
+      "explanation": "Screening of colon cancer increases the overall survival to the maximum. Colon cancer has a long lead time and can be detected early before pathological changes occur. It can be curable if treated early; otherwise, it is fatal in half the cases. Early diagnosis and treatment before the critical point have a good outcome and reduce the severity by reversing the disease process. Diagnosis beyond the critical point; treatment would be unsuccessful, and/or permanent damage would have occurred. Other diseases that can be screened are: cervical cancer, breast cancer, and prostate cancer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is an example of prospective screening?",
+      "options": {
+        "A": "Cervical Pap smear in a 40-year-old patient",
+        "B": "Neonatal screening of a newborn baby for hypothyroidism",
+        "C": "Screening of immigrants to a country",
+        "D": "Urine screening for sugar in a 40-year-old man"
+      },
+      "correct_answer": "B",
+      "explanation": "Screening of immigrants to a country is an example of prospective screening. Screening of disease is done to detect unrecognized disease or defect, in apparently healthy individuals, by means of rapidly applied tests, examinations, or other procedures. The difference between prospective and prescriptive screening is given below: Note: The most common neonatal disease to be screened for is neonatal hypothyroidism. Prospective screening: Prescriptive screening: Definition: Essential purpose: Request for screening: Example: People screened for others' benefit. Disease control. Specific request from the authority. Immigrants for infectious diseases like tuberculosis, syphilis, yellow fever, etc.; HIV screening during antenatal visits, sex workers. Screening of blood donors. For their own benefit. Case detection. Request from physician. Neonatal screening for hypothyroidism. Pap smear for detection of cervical cancer. Testing of urine sugar for diabetes mellitus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is an example of prescriptive screening?",
+      "options": {
+        "A": "Screening of immigrants for yellow fever",
+        "B": "Screening of blood donors",
+        "C": "Screening of infants for phenylketonuria",
+        "D": "HIV screening during antenatal visits"
+      },
+      "correct_answer": "C",
+      "explanation": "Screening of infants for phenylketonuria is an example of prescriptive screening. Screening of disease is done to detect unrecognized disease or defect, in apparently healthy individuals, by means of rapidly applied tests, examinations, or other procedures. The difference between prospective and prescriptive screening is given below: Note: The most common neonatal disease to be screened for is neonatal hypothyroidism. Definition: Essential purpose, Request for screening. Prospective screening: People screened for others' benefit, Disease control. Prescriptive screening: People screened for their own benefit, Case detection, Specific request from the authority, Request from physician. Example: Prospective screening: Immigrants for infectious diseases like tuberculosis, syphilis, yellow fever, etc.; HIV screening during antenatal visits, sex workers. Screening of blood donors. Prescriptive screening: Neonatal screening for hypothyroidism. Pap smear for detection of cervical cancer. Testing of urine sugar for diabetes mellitus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is an example of multiphasic screening?",
+      "options": {
+        "A": "Chest X-ray for TB in large populations",
+        "B": "Annual health checkups",
+        "C": "Pap smear in women above 40 years",
+        "D": "Random blood sugar during antenatal visits"
+      },
+      "correct_answer": "B",
+      "explanation": "Annual health checkups are an example of multiphasic screening. Types of screening: • Multiphasic screening is the application of two or more screening tests in combination with a large number of people at one time. Example: Annual health checkups. • High-risk or selective screening is done on high-risk groups. Example: MRI screening of the breast done annually in 25-year-old women with BRCA 1, BRCA 2 mutations in a first-degree relative. • Mass screening is the screening of a whole or large population, like using a chest X-ray for TB screening in large populations. It is done for diseases with high prevalence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 8,
+      "question": "A large number of tests were done in series. Which of the following will be true?",
+      "options": {
+        "A": "Sensitivity and specificity will increase",
+        "B": "Sensitivity will decrease, specificity will increase",
+        "C": "Sensitivity and specificity will decrease",
+        "D": "Sensitivity will increase, specificity will decrease"
+      },
+      "correct_answer": "B",
+      "explanation": "When a large number of tests are done in series, net sensitivity is decreased and net specificity is increased. Screening tests are done in series when the result of the first test determines whether to run the second test or not. e.g., HIV screening is done using consecutive ELISA. Screening tests are done in parallel when the second test is independently performed regardless of what the first test result is. Both the tests are done at the same time. For e.g., In LFT, multiple tests are done together like SGOT, SGPT, total bilirubin, alkaline phosphatase, etc. Following are the trends that are observed while evaluating screening tests: Tests in Series - Tests in Parallel: Combined sensitivity decreases - increases, Combined specificity increases - decreases, Combined PPV increases - decreases, Combined NPV decreases - increases.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 9,
+      "question": "Colon cancer screening is being done by a hemoccult stool test in a healthcare center. Patientswho test positive, undergo a repeat stool hemoccult test. If the second test comes out positive,the individual is referred for more extensive evaluation. How is this method of screeningaffecting sensitivity and specificity?",
+      "options": {
+        "A": "Net sensitivity and net specificity are both increasing",
+        "B": "Net sensitivity is decreasing and net specificity is increasing",
+        "C": "Net sensitivity is increasing and net specificity is decreasing192",
+        "D": "Net sensitivity is decreasing and net specificity remains the same"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, tests are being performed in series. Here, the net sensitivityis decreasing and net specificity is increasing.Screening tests are done in series, where the result of the first test determines whether to run thesecond test or not. e.g. HIV screening is done using consecutive ELISA.Screening tests are done in parallel, where the second test is independently performed regardlessof what the first test result is. Both the tests are done at the same time. For e.g. In LFT, multipletests are done together like SGOT, SGPT, total bilirubin, alkaline phosphatase, etc.Following are the trends that are observed while evaluating screening tests:Tests in Serie Tests in parallelSCombined sensitiviDecreasesIncreasestyCombined specificit IncreasesDecreasesyCombined PPVIncreasesDecreasesCombined NPVDecreasesIncreases",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 10,
+      "question": "Blood pressure is measured in an individual 5 times a day under the same conditions by anew screening test. All 5 readings obtained are the almost same. What is the attribute of anew screening test being described?",
+      "options": {
+        "A": "Validity",
+        "B": "Reliability",
+        "C": "Sensitivity",
+        "D": "Predictive accuracy"
+      },
+      "correct_answer": "B",
+      "explanation": "The attribute of a new screening test to yield the same reading when repeated under the sameconditions is called reliability.Reliability is also called precision or reproducibility.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 11,
+      "question": "Ten successive readings of hemoglobin level of a single sample measured by a new method are given below. The hemoglobin level measured by the previous standard test was 10.2. What is true regarding the new method?",
+      "options": {
+        "A": "High validity, low reliability",
+        "B": "Low validity, low reliability",
+        "C": "Low validity, high reliability",
+        "D": "High validity, high reliability"
+      },
+      "correct_answer": "D",
+      "explanation": "The new method for measuring hemoglobin has high validity and high reliability. The new test gives consistent values on repeat testing, thus it has high reliability. The mean value of all the readings is close to the value of 10.2, which is obtained from the standard test, making the validity high. The validity of a test implies that the test must give correct and accurate results. It represents the closeness to a true/actual value. The reliability of a test implies that the test must give consistent results when repeated on the same individual or material, under the same conditions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 12,
+      "question": "Out of 100 people having lung cancer, 60 tested positive by a new screening test. Out of 900people who don't have lung cancer, 300 tested positive. What will be the numerator whilecalculating sensitivity and its value?",
+      "options": {
+        "A": "True positive, 60",
+        "B": "False positive, 300",
+        "C": "True negative, 600",
+        "D": "False negative, 40"
+      },
+      "correct_answer": "A",
+      "explanation": "206The numerator of sensitivity in a screening test is true positive and its value is 60.True positives are those people who tested positive and actually have the disease. Out of 100people with lung cancer, 60 are tested positive i.e. true positive.The given data is represented below:TP-true positive, FP- false positive, FN- false negative, TN- true negativeSensitivity is the ability of a screening test to detect true positive(TP) out of the total number ofpeople who have the disease (TP+FN).Sensitivity= TP/TP+FN = 60/60+40 = 60%DiseasDiseasTotale +e-Test+60(TP)300(F360P)Test40(FN) | 600(T640N)Total1009001000",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 13,
+      "question": "193A screening test was carried out among 114 people out of which 15 have a disease. The testshowed 22 people tested positive for the disease among which 14 actually had the disease.What is the sensitivity of the test?",
+      "options": {
+        "A": "37%",
+        "B": "63%",
+        "C": "93%",
+        "D": "97%"
+      },
+      "correct_answer": "",
+      "explanation": "The sensitivity of the above screening test is 93%.The given data is represented belowTP-true positive, FP- false positive, FN- false negative, TN- true negativeSensitivity is given as TP/(TP + FN) x 100 = 14/15 = 93%.DiseasDiseas Totale +e-Test14(TP)8(FP)22+Test1(FN)91(TN) 92Total15(TP+FN)99(FP+ 114TN)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 14,
+      "question": "A researcher finds out a sensitive test to be positive for a person. For diagnosis, which of the following will hold true?",
+      "options": {
+        "A": "It confirms that the person does not have the disease",
+        "B": "It suggests that if the disease is rare, the person surely has the disease",
+        "C": "It confirms that the person has the disease if the disease is common",
+        "D": "It is an expected finding in case the disease is prevalent"
+      },
+      "correct_answer": "C",
+      "explanation": "A sensitive test, if it is positive, confirms that the person has the disease if the disease is common. The sensitivity of a screening test is the ability of the test to identify correctly those who have the disease. In other words, sensitivity is the ability of a test to detect true positives (TP) out of total disease (TP+FN). Sensitivity = TP/ TP+FN",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 15,
+      "question": "1000 patients from a healthcare setup were screened for disease 'X' with a new test (biopsy). The test showed positive results in 90 patients out of the 100 who actually had the disease. What is the sensitivity of the new test?",
+      "options": {
+        "A": "90/100",
+        "B": "100/110",
+        "C": "(90-10)/1000",
+        "D": "90/1000"
+      },
+      "correct_answer": "A",
+      "explanation": "The sensitivity of the new test is 90/100. Biopsy gives the definitive number of cases for Disease X. Hence, the given data is represented below: Sensitivity = TP/(TP+FN) = 90/(90+10) = 90/100 = 90%. True positive is defined as a positive test result in a person who has the disease. Disease - Test+ 90 (TP) unknown Test - 10 (FN) unknown Total 100",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 16,
+      "question": "Specificity of a screening test is the ability of a test to detect:",
+      "options": {
+        "A": "True positives",
+        "B": "False positives",
+        "C": "True negatives",
+        "D": "False negatives194"
+      },
+      "correct_answer": "",
+      "explanation": "Specificity of a screening test is the ability of the test to identify correctly those who do not havethe disease, i.e. true negative.Sensitivity of a screening test is the ability of the test to identify correctly those who have thedisease, i.e. true positive.False-positive are those who don't have the disease but tested positive.False-negative are those who have the disease but tested negative.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 17,
+      "question": "5000 persons underwent screening for a disease. Out of 500 diseased, 350 tested positive, and out of healthy people, 3000 tested negative. Which of the following is true?",
+      "options": {
+        "A": "Sensitivity is 70% and Specificity is 80%",
+        "B": "Specificity is 70% and Sensitivity is 80%",
+        "C": "Specificity is 66.6% and Sensitivity is 70%",
+        "D": "Sensitivity is 87.5% and Specificity is 66.6%"
+      },
+      "correct_answer": "C",
+      "explanation": "The sensitivity of the above screening test is 70% and specificity is 66.6%. The given data is represented below: Sensitivity = TP/(TP + FN) x 100 = 350/500 = 0.7 = 70%. Specificity = TN/(FP + TN) x 100 = 3000/4500 = 0.6666 = 66.6%. Disease - Total + Test: 350 (TP) 150 (FN) 500 (TP+FN), Test: 150 (FP) 3000 (TN) 3150, Total: 500 4500, 5000.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 18,
+      "question": "If a patient tests positive for a disease, which of the following represents the probability of her actually having the disease?",
+      "options": {
+        "A": "Sensitivity",
+        "B": "Specificity",
+        "C": "Positive predictive value",
+        "D": "Negative predictive value"
+      },
+      "correct_answer": "C",
+      "explanation": "Positive predictive value implies the probability of a person with a positive test, actually having the disease. It is the ability of a test to detect true positives (TP) out of total positives (TP+FP) and it is directly proportional to the prevalence of a disease. PPV = TP/(TP+FP)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 19,
+      "question": "To calculate the positive predictive value of a new screening test for breast carcinoma, whatwill you use for the denominator?",
+      "options": {
+        "A": "True positives + false negatives",
+        "B": "True positives + true negatives",
+        "C": "True positives + false positives",
+        "D": "True negatives + false positives"
+      },
+      "correct_answer": "",
+      "explanation": "The denominator for the calculation of the positive predictive value of a screening test is truepositives + false positives.Positive predictive value (PPV) of a test is TP/(TP + FP) x 100.It indicates the probability that a person with a positive test actually has the disease. It is directlyproportional to the prevalence of a disease.Predictive value is affected by sensitivity, specificity, and prevalence. However, it is affected themost by prevalence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following maximally affects the positive predictive value of a test?",
+      "options": {
+        "A": "Sensitivity",
+        "B": "Prevalence",
+        "C": "Specificity",
+        "D": "Negative predictive value"
+      },
+      "correct_answer": "B",
+      "explanation": "Positive predictive value (PPV) is maximally affected by the prevalence of the disease. If the prevalence of a disease in a population is high, the higher will be the positive predictive value of a screening test, and the more accurate will be the test. If the prevalence declines, the PPV will be low. PPV is directly proportional to the prevalence of a disease. It is affected the most by prevalence. However, both sensitivity and specificity can change the predictive value.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following reflects the diagnostic power of a screening test?",
+      "options": {
+        "A": "Predictive accuracy",
+        "B": "Sensitivity",
+        "C": "Reliability",
+        "D": "Specificity"
+      },
+      "correct_answer": "",
+      "explanation": "209The predictive accuracy of a screening test reflects its performance and diagnostic power.Predictive accuracy is given by:•Positive predictive value (PPV): the probability of a person with a positive test, actually havingthe disease.•Negative predictive value (NPV): the probability of a person with a negative test, definitely nothaving the disease.Sensitivity is the ability of a screening test to detect true positive out of total disease.Specificity is the ability of a screening test to detect true negative out of total nondiseased.The reliability of a test implies that the test must give consistent results when repeated on thesame individual or material, under the same conditions.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q21_img1_561339ce.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 22,
+      "question": "Screening of 100 immigrants for COVID-19 with a new test showed 48 positive and 52 people negative. Those who tested negative underwent RT-PCR, out of which 25 came positive. Which of the following is lowest for the new test compared to RT-PCR?",
+      "options": {
+        "A": "Specificity",
+        "B": "Sensitivity",
+        "C": "Positive predictive value",
+        "D": "Negative predictive value"
+      },
+      "correct_answer": "B",
+      "explanation": "The sensitivity of the new screening test is low compared to RT-PCR. The new screening test showed 52 people negative, out of which 25 are detected positive by RT-PCR, i.e., 25 are false negatives. The false-negative rate is the number of false negatives out of the total people having the disease. False-negative rate = 1 - Sensitivity. The false-negative rate increases as sensitivity decreases. In this scenario, because the new test has more false negatives, it would have low sensitivity as compared to RT-PCR.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 23,
+      "question": "While screening a disease with a new screening test, the test is positive in many patients who actually don't have the disease. Which of the following is true?",
+      "options": {
+        "A": "Prevalence is high",
+        "B": "Positive predictive value is high",
+        "C": "Specificity is low",
+        "D": "Sensitivity is low"
+      },
+      "correct_answer": "C",
+      "explanation": "The given new screening test has low specificity. The test is positive in many patients who actually don't have the disease, i.e., high false positives. The false-positive rate is the number of false positives out of the total non-diseased. False-positive rate = 1 - Specificity. The false-positive rate is inversely proportional to specificity. Hence, the given test with high false positives will have low specificity. Positive predictive value (PPV) = TP / (TP + FP). It shows the positive predictive value (PPV) of the test decreases with an increase in false positives. An increase in the false-positive does not affect the prevalence of the disease. The prevalence of a disease depends on the incidence (I) and duration (D) of the disease. Prevalence = I x D.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 24,
+      "question": "ECG findings detecting the myocardial infarction obtained from the department of cardiologyare given in the table below. Which of the following is true with regard to the below table?196MI PresentMI AbsentPositive ECG300100Negative ECG252575",
+      "options": {
+        "A": "Sensitivity is less than specificity",
+        "B": "Sensitivity is the same as specificity",
+        "C": "PPV is more than NPV",
+        "D": "PPV is the same as NPV©MARROW"
+      },
+      "correct_answer": "D",
+      "explanation": "In the above scenario, PPV is the same as NPV.Predictive value of a positive test (PPV)= TP/(TP + FP) x 100 = 300/(300+100) x 100= 75 %Predictive value of a negative test (NPV)=TN/(FN + TN) x 100 = 75/(25+75) x 100 = 75 %Hence PPV = NPVIn this scenario, sensitivity is 92% and the specificity is 43% as per the following calculation,Sensitivity = TP/(TP + FN) x 100 = 300/(300+25) x100 = 92%Specificity = TN/(FP + TN) x 100 = 75/(100+75) x100 = 43%MI PresentMI AbsentPositive ECG300(TP) 100(FP)Negative 25(FN)ECG75(TN)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q24_img1_247f04e7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 25,
+      "question": "A new test for hepatitis C is performed on 200 patients with the biopsy-proven disease and 200 patients who are free of the disease. The test shows positive results on 180 of the patients with the disease and negative results on 150 of the patients without the disease. Which of the following is true?",
+      "options": {
+        "A": "Positive predictive value is 90%",
+        "B": "Negative predictive value is 75%",
+        "C": "Specificity is 75%",
+        "D": "Sensitivity is 90%"
+      },
+      "correct_answer": "C",
+      "explanation": "The specificity of the above screening test is 75%. The given data is represented below: TP - true positive, FP - false positive, FN - false negative, TN - true negative. Specificity = TN / (FP + TN) x 100 = 150 / 200 = 75%. Sensitivity = TP / (TP + FN) x 100 = 180 / 200 = 90%. PPV = TP / (TP + FP) x 100 = 180 / 230 = 78%. NPV = TN / (FN + TN) x 100 = 150 / 170 = 88%. Hep C + Hep C - Total: Test 180 (TP) 50 (FP) 230 + Test 20 (FN) 150 (TN) 170. Total 200 (TP + FN) 200 (FP + TN) 400.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 26,
+      "question": "Due to an effective prevention program, the prevalence of a disease in a community has been reduced by 90%. However, the physicians continue to use the same screening test for that disease. Which of the following changes is expected to be seen?",
+      "options": {
+        "A": "Increase in negative predictive value",
+        "B": "Increase in positive predictive value",
+        "C": "Increase in specificity",
+        "D": "Increase in sensitivity"
+      },
+      "correct_answer": "A",
+      "explanation": "If the prevalence of the disease falls, the negative predictive value (NPV) increases. The NPV of the test is inversely proportional to the prevalence of a disease. The PPV of the test is directly proportional to the prevalence of a disease. Sensitivity and specificity are independent of the prevalence of the disease in the area. They do not change with the change in prevalence.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 27,
+      "question": "In a population of 10000, the prevalence of a disease is 20%. The sensitivity of a screeningtest is 95% and specificity is 80%. What is the positive predictive value of the test?",
+      "options": {
+        "A": "54.3%",
+        "B": "45.7%",
+        "C": "15.3%",
+        "D": "98.5%"
+      },
+      "correct_answer": "A",
+      "explanation": "The positive predictive value (PPV) of the test is 54.3%.The prevalence of the disease is 20% in 10000, i.e., 2000 people have the disease(TP + FN) and8000 are disease-free (FP + TN).The sensitivity of the test is 95%, i.e. TP/(TP + FN) = 95%.Thus, the true positives (TP)= 95/100 x (TP + FN) = 95/100 x 2000 = 1900.The specificity of the test is 80%, i.e. TN/(FP + TN) = 80%.Thus, the true negatives (TN)= 80/100 x (FP + TN) = 80/100 x 8000 = 6400.The given data is represented below:TP-true positive, FP- false positive, FN- false negative, TN- true negativeFrom the above table, PPV is calculated as TP/(TP + FP) x 100 = 1900/3500 = 54.3%.An alternate formula (Bayes theorem) that can be used is PPV = (Sn x P) / (Sn x P)+[(1-Sp)(1-P)]Sn- Sensitivity, P- Prevalence, Sp- SpecificityDisease + Disease - TotalTest+1900(TP) 1600(FP)Test100(FN)3500(TP+FP)6400(TN) 6500(FN+TN)Total2000(TP+FN)8000(FP 10000+TN)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 28,
+      "question": "The prevalence of the disease 'X' in a population is 30%. The diagnostic test for this disease has a specificity of 0.80 and a sensitivity of 0.90. What is the negative predictive value of the test?",
+      "options": {
+        "A": "45%",
+        "B": "62%",
+        "C": "70%",
+        "D": "95%"
+      },
+      "correct_answer": "D",
+      "explanation": "The negative predictive value of the above test is 95%. For convenience, let us assume that the total population in this scenario is 100. The prevalence of the disease is 30%. So the total number of people with the disease is 30 (TP+FN) and disease-free (FP+TN) is 70. Since sensitivity is 0.90, i.e., TP/(TP + FN) = 90%. The total true positives (TP) = 90/100 x (TP+FN) = 90/100 x 30 = 27. False-negative (FN) = 30-27 = 3. Since specificity is 0.80, i.e., TN/(FP+TN) = 80%. Total true negatives (TN) = (FP+TN) x 80/100 = 70 x 80/100 = 56. False-positive (FP) = 70-56 = 14. The given data is represented below: Negative predictive value (NPV) = TN/(FN + TN) x 100 = 56/59 = 0.949 = 95%. An alternate formula (Bayes theorem) that can be used is NPV = (1-P) x Sp / [P x (1-Sn)] + [(1-P) x Sp]. Sn = Sensitivity, P = Prevalence, Sp = Specificity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 29,
+      "question": "Which of the following is best for determining the threshold for diagnosis of a positive test?",
+      "options": {
+        "A": "Pre test probability",
+        "B": "Receiver operator characteristic curve",
+        "C": "Pearson coefficient",
+        "D": "Analysis of Variance"
+      },
+      "correct_answer": "B",
+      "explanation": "The receiver operator characteristic curve is the best for determining the threshold for thediagnosis of a positive test. It is also used for the comparison of two or more screening/ diagnostictests of disease with each other.The following is an example of a ROC curve for a screening test.213True positive rate1.00 -0.75-0.500.25-0.00-0.000.250.500.751.00False positive rate",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp29_img1_9e1153de.png",
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 30,
+      "question": "Which curve from the given image reflects a better test?198",
+      "options": {
+        "A": "Test A",
+        "B": "Test B",
+        "C": "Test C",
+        "D": "Test D100%BASensitivity100-SpecificityCD"
+      },
+      "correct_answer": "A",
+      "explanation": "Test A is the best test among the four given, as it has the highest sensitivity and the lowest falsepositive rate (100-specificity).A receiver operating characteristic curve (ROC) is obtained by plotting a test's true positive rate(sensitivity) against its false-positive rate ( 100- specificity) for different diagnostic cut-off points.The shape of the curve reflects the quality of the test. The better the test, the more it moves to theupper left (more the area under the curve). For a good test, sensitivity comes close to 100% on they-axis, and the false positive rate comes close to 0% on the x-axis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q30_img1_ecb1580a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 31,
+      "question": "The fasting blood glucose levels of a population from two overlapping distributions are shownin the below graph. A test was done with the cutoff of 120mg/dl for diagnosing diabetes.What does the shaded area represent?",
+      "options": {
+        "A": "True positivesNumber of peopleNonDiabeticsDiabetics120Fasting glucose mg/dlOMARROW199",
+        "B": "True negatives",
+        "C": "False positives",
+        "D": "False negatives"
+      },
+      "correct_answer": "",
+      "explanation": "The shaded area represents the false positives (Non-diabetics incorrectly classified as diabetics).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q31_img1_4eb038c9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    },
+    {
+      "q_no": 32,
+      "question": "Observe the following curves, which of the following is a true statement about sensitivity and specificity when the curve changes from green to pink? Healthy Diseased MARKOW Serum marker OMARROW",
+      "options": {
+        "A": "Both sensitivity and specificity increase",
+        "B": "Both sensitivity and specificity decrease",
+        "C": "Sensitivity increases while specificity decreases",
+        "D": "Sensitivity decreases while specificity increases"
+      },
+      "correct_answer": "A",
+      "explanation": "Both sensitivity and specificity are higher in the test represented in pink (Test B) compared to the test represented in green (Test A). Sensitivity is the proportion of all people with the disease who test positive. It is the probability of the test being positive when the disease is present. Sensitivity = TP / (TP + FN) or Sensitivity = 1 - false-negative rate. Specificity is the proportion of all people without the disease who test negative. It is the probability of the test being negative when the disease is absent. Specificity = TN / (TN + FP) or specificity = 1 - false-positive rate. Test B has an increased number of true positives and true negatives and a decreased number of false positives and negatives, compared to Test A. Hence, leading to increased sensitivity and specificity.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q32_img1_112e117c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Screening"
+    }
+  ]
+}

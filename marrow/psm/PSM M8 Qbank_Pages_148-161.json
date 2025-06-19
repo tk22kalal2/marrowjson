@@ -1,0 +1,350 @@
+{
+  "chapter": "Principles of Immunization and Vaccination",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is false about herd immunity?",
+      "options": {
+        "A": "It refers to group protection beyond what is afforded by the protection of immunized individuals",
+        "B": "Vaccination allows the possibility of 100% herd immunity against a disease",
+        "C": "It is affected by the presence and distribution of alternative animal hosts",
+        "D": "It doesn't protect the individual in the case of tetanus"
+      },
+      "correct_answer": "B",
+      "explanation": "Herd immunity is not 100% achievable due to various factors such as vaccine efficacy and population dynamics.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 2,
+      "question": "Herd immunity threshold does not vary with which of the following?",
+      "options": {
+        "A": "Virulence of the disease.",
+        "B": "Efficacy of the vaccine for the disease",
+        "C": "Number of vaccines for the disease",
+        "D": "Contact parameter for the population"
+      },
+      "correct_answer": "C",
+      "explanation": "Herd immunity threshold does not vary with the number of vaccines for the disease. It varies only due to the virulence of the disease, efficacy of the vaccine, and contact parameter for the population.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is false about normal human immunoglobulin (NHIG)?",
+      "options": {
+        "A": "All live vaccines can be given simultaneously with NHIG.",
+        "B": "They are used against measles and hepatitis A.",
+        "C": "There should be a low IgA concentration in NHIG preparations.",
+        "D": "Each NHIG fraction is obtained from at least 1,000 donors."
+      },
+      "correct_answer": "A",
+      "explanation": "Live vaccines should generally be avoided for 12 weeks following an injection of normal human immunoglobulin (Ig). If a live vaccine has already been administered, the injection of normal human Ig should be delayed for 2 weeks. NHIG is an antibody-rich fraction that is usually obtained from a pool of at least 1,000 donors. An NHIG preparation must contain at least 90% intact IgG and minimal IgG aggregates with a low IgA concentration. NHIG is commonly used to prevent measles and hepatitis A infections. Specific human immunoglobulins are made from the plasma of patients who have recently recovered from an infection or are obtained from individuals who have been immunized against a specific infection. These preparations have a high antibody content against an individual infection and provide immediate protection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is false about specific human immunoglobulins?",
+      "options": {
+        "A": "Used for Hepatitis B",
+        "B": "Used for chickenpox prophylaxis",
+        "C": "Obtained from random donors",
+        "D": "They are hyperimmune human immunoglobulins"
+      },
+      "correct_answer": "C",
+      "explanation": "Specific human immunoglobulins or hyperimmune human Igs are obtained from selected donors that have high titres of the antibodies to the disease, like those who have recovered from the disease. It is commonly used in prophylaxis of chickenpox in highly susceptible individuals and in post-exposure prophylaxis of hepatitis B.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not true about secondary booster immune response in comparison with primary response?",
+      "options": {
+        "A": "Antibody elicited tends to have a greater avidity to bind to the antigen",
+        "B": "Antibody response is at a higher level",
+        "C": "Antibody response is maintained for a longer period of time",
+        "D": "Production of antibody is slower"
+      },
+      "correct_answer": "D",
+      "explanation": "Production of antibodies is faster in secondary booster response. Primary response is the immune response developed when an antigen is administered for the first time to a person who has never been exposed to it. There is a latent period of 3-10 days before antibodies appear in the blood. Secondary booster response is the immune response elicited by a booster dose. In comparison to a primary immune response, it has a shorter latent period, faster production of antibodies, and an abundance of antibodies. The antibody response is maintained at higher levels for a longer period of time, and the antibody elicited tends to have a greater avidity or capacity to bind to the antigen.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is false about live vaccines?",
+      "options": {
+        "A": "Simultaneous administration of two live vaccines should be done in the same syringe",
+        "B": "Two live vaccines can be administered simultaneously",
+        "C": "An immunocompromised state poses a contraindication to live vaccines",
+        "D": "Live vaccines contain both major and minor antigens"
+      },
+      "correct_answer": "A",
+      "explanation": "Simultaneous administration of vaccines is defined as administering more than one vaccine on the same clinic day, at different anatomic sites. They are not combined in the same syringe. Simultaneous administration of the most widely used live and inactivated vaccines does not result in decreased antibody responses or increased rates of adverse reactions. However, in children with functional or anatomic asplenia, pneumococcal conjugate vaccine (PCV13) and Menactra brand meningococcal conjugate vaccines should not be administered at the same visit; these vaccines should be separated by at least 4 weeks. The advantages of simultaneous administration of vaccines include: the organisms multiply in the host and thus, the antigenic dose is larger than what is injected. They have all the major and minor antigenic components. Live vaccines should not be administered to those with an immunocompromised state, since they may cause severe systemic disease by way of viremia or bacteremia. Note: If live vaccines are not given simultaneously, they must be spaced as follows - the administration of two live parenteral vaccines or live intranasal influenza vaccines must be separated by at least 4 weeks. If two live vaccines are given less than 4 weeks apart, the second vaccine should be repeated in four weeks. This is because the live vaccine given first can interfere with the second vaccine, and the person may not develop active immunity to the second vaccine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is not a killed vaccine?",
+      "options": {
+        "A": "Yellow fever vaccine",
+        "B": "Pertussis vaccine",
+        "C": "Rabies vaccine",
+        "D": "Salk vaccine"
+      },
+      "correct_answer": "A",
+      "explanation": "Yellow fever vaccine is a live attenuated vaccine. Injectable polio vaccine (Salk vaccine), pertussis vaccine, and rabies vaccine are killed vaccines.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is an absolute contraindication to administration of inactivated or killed vaccines?",
+      "options": {
+        "A": "Immunocompromised state",
+        "B": "Egg allergy",
+        "C": "Reaction to previous dose",
+        "D": "Pregnancy"
+      },
+      "correct_answer": "C",
+      "explanation": "The only absolute contraindication to administration of an inactivated or killed vaccine is a severe local or general reaction to a previous dose of the vaccine. Inactivated or killed vaccines are made from growing cultures of the organism and then inactivating them with heat or chemicals. They activate the channels of active immunity after injection and are less efficacious than live vaccines. Multiple doses or booster doses are usually required to produce an adequate antibody response. Killed vaccines can be given to immune-compromised individuals and in pregnancy as the infectious agent is inactivated and cannot grow. Egg allergy is not an absolute contraindication to the administration of an inactivated or killed vaccine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following are live vaccines?",
+      "options": {
+        "A": "3 and 5 only",
+        "B": "2 and 5 only",
+        "C": "1, 2 and 5 only",
+        "D": "2 and 3 only"
+      },
+      "correct_answer": "B",
+      "explanation": "Yellow fever vaccine and Sabin vaccine (oral polio vaccine) are live vaccines. HBV and HPV vaccines are recombinant vaccines. Tetanus vaccine is a toxoid vaccine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 10,
+      "question": "What should be the minimum interval between the administration of two live vaccines?",
+      "options": {
+        "A": "2 weeks",
+        "B": "4 weeks",
+        "C": "8 weeks",
+        "D": "12 weeks"
+      },
+      "correct_answer": "B",
+      "explanation": "The minimum interval between the administration of two live vaccines is 4 weeks. This is because decreasing the interval between two doses may interfere with the antibody response and protection. Thus, live vaccines can either be given on the same day according to the schedule or 4 weeks apart. Note: In Park 27th ed., the minimum interval between two live vaccines is given as 3 weeks. However, several other standard sources, including CDC and UNDP, suggested an interval of 4 weeks. When both are given in options, it is recommended to mark 4 weeks as the correct answer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 11,
+      "question": "In which of the following diseases should active and passive immunization not be done together?",
+      "options": {
+        "A": "Measles",
+        "B": "Rabies",
+        "C": "Tetanus",
+        "D": "Diphtheria"
+      },
+      "correct_answer": "A",
+      "explanation": "Active and passive immunization should not be done together for measles as the vaccine used is a live vaccine. Live vaccines should generally be avoided for 12 weeks following an injection of normal human immunoglobulin (Ig). If a live vaccine has already been administered, the injection of normal human Ig should be delayed for 2 weeks. Note: In the case of measles alone, the recommended interval between administration of Measles immunoglobulins and Live measles vaccine is about 6 months in a non-immunocompromised individual and 8 months in an immunocompromised individual.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 12,
+      "question": "What is the main drawback of polysaccharide-based vaccines?",
+      "options": {
+        "A": "They cause severe pain at the injection site",
+        "B": "The immune responses elicited are serotype-specific",
+        "C": "It cannot be conjugated with proteins to enhance immunogenicity",
+        "D": "The rate of adverse reactions is very high"
+      },
+      "correct_answer": "B",
+      "explanation": "Polysaccharide-based vaccines stimulate an antibody response against the surface polysaccharide of the pathogenic-capsulated bacteria. The polysaccharide structure varies not only between bacteria of different species but also between different strains within a single species. Thus, a limitation of these vaccines is that the immune responses are serotype-specific. If these vaccines are conjugated with proteins, they are given the capability of eliciting a stronger immune response. Multivalent formulations of both polysaccharide-based vaccines and conjugated vaccines are required to achieve protection against multiple serotypes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is a subunit vaccine?",
+      "options": {
+        "A": "BCG vaccine",
+        "B": "Hepatitis B vaccine",
+        "C": "DPT vaccine",
+        "D": "IPV vaccine"
+      },
+      "correct_answer": "B",
+      "explanation": "Hepatitis B vaccine is an example of a subunit vaccine made using HBsAg.Subunit vaccines are produced from macromolecules derived from immunogenic components oforganisms by recombinant DNA technology. E.g., HPV vaccine (uses L1 major capsid protein) andhepatitis B vaccine (uses HBsAg).BCG is a live attenuated vaccine, IPV is an inactivated vaccine and DPT has diphtheria andtetanus toxoids and a killed pertussis component.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 14,
+      "question": "You are a medical officer conducting an ANC camp in a rural village near Hubli, Karnataka.Which of the following vaccines would you not administer to a pregnant woman?",
+      "options": {
+        "A": "Hepatitis B",
+        "B": "Rabies",
+        "C": "Diphtheria",
+        "D": "Yellow fever"
+      },
+      "correct_answer": "D",
+      "explanation": "Yellow fever vaccines are contraindicated in pregnancy in non-endemic areas. It is a livevaccine and most live vaccines are contraindicated in pregnancy unless the risk of infection ismuch greater than the risk of harm to the fetus.Note: Yellow fever vaccine is not an absolute contraindication as it is administered in certainendemic areas and in outbreaks",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient is diagnosed as having an allergy to eggs. Administration of which of the following vaccines is contraindicated in this patient?",
+      "options": {
+        "A": "Pneumococcal",
+        "B": "MMR",
+        "C": "Varicella",
+        "D": "Influenza"
+      },
+      "correct_answer": "D",
+      "explanation": "Influenza and yellow fever vaccines are contraindicated in patients having an allergy to eggs.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 16,
+      "question": "A newborn baby is HIV + and symptomatic. Which of the following vaccines must not be given to her?",
+      "options": {
+        "A": "Measles",
+        "B": "IPV",
+        "C": "BCG",
+        "D": "Mumps"
+      },
+      "correct_answer": "C",
+      "explanation": "BCG vaccine must not be administered to HIV-infected infants who are symptomatic, despite the presence of high TB prevalence. Since BCG is a live vaccine, it significantly increases the risk of disseminated TB in a symptomatic HIV+ infant. However, asymptomatic infants who are HIV+ can be given BCG, provided the risk of contracting TB is high in that region. In areas of low TB prevalence or risk, the BCG vaccine is avoided. BCG vaccination in HIV: Newborn HIV-negative/status unknown - Give BCG, Asymptomatic, High TB prevalence area - Give BCG, Low TB prevalence area - Do not give BCG. WHO recommendations for administering live vaccines in symptomatic HIV+ patients: Measles vaccine (or MMR) is allowed even in the symptomatic stage of HIV infection (except in the terminal phase), so as to prevent serious and life-threatening wild measles virus disease. Avoid MMR only if CD4+ < 15% (severely immunocompromised). IPV is an inactivated vaccine and must be used as an alternative to OPV.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp16_img1_8611da35.jpeg",
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following side effects is most likely to develop in a newborn, following BCG vaccination?",
+      "options": {
+        "A": "Ulceration",
+        "B": "Fever",
+        "C": "Regional lymphadenitis",
+        "D": "Suppurative lymphadenopathy"
+      },
+      "correct_answer": "A",
+      "explanation": "Ulceration is the most common side effect post BCG vaccination. Following vaccination, the local tissue response begins in 2-3 weeks and results in scar formation and healing within 3 months. Side effects most commonly seen include ulceration at the vaccination site and regional lymphadenitis. Some vaccine strains may also rarely cause osteomyelitis. In immunocompromised states, disseminated BCG infection can occur. The image below shows the typical adverse effects seen following BCG vaccination: • Regional lymphadenopathy ⚫ Suppurative lymphadenopathy with fistula • Ulcer at injection site • Cold abscess at injection site",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp17_img1_6cc63d6e.jpeg",
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 18,
+      "question": "A child who had recently received the BCG vaccine comes to you with complaints of fever, pain and swelling at the injection site. You suspect a localized abscess formation. Which of the following steps should be avoided in the treatment of this child?",
+      "options": {
+        "A": "Aspiration",
+        "B": "Incision and application of INH powder",
+        "C": "Systemic INH therapy",
+        "D": "Incision and application of PAS powder"
+      },
+      "correct_answer": "C",
+      "explanation": "There is no need for systemic treatment with INH in case of a local abscess formation after BCG vaccination. If there is a local abscess formation following BCG vaccination, it should be treated by aspiration. If it does not clear, then it should be incised and INH or PAS powder should be applied daily to the site. The patient should be assured of the harmless nature of the lesion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 19,
+      "question": "A complete blood count was obtained for a patient after they were administered vaccine X.The report is shown below. Which of the following options is most likely to be vaccine X?",
+      "options": {
+        "A": "MMR vaccine",
+        "B": "Typhoid vaccine",
+        "C": "Hib vaccine",
+        "D": "DTP vaccine"
+      },
+      "correct_answer": "",
+      "explanation": "The lab report shows a low platelet count or thrombocytopenia. This is a possible adverse effect ofthe MMR vaccine.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 20,
+      "question": "152Persistent inconsolable crying can be a result of administration of which of the followingvaccines?",
+      "options": {
+        "A": "Hepatitis B",
+        "B": "BCG",
+        "C": "DPT",
+        "D": "Yellow fever"
+      },
+      "correct_answer": "C",
+      "explanation": "Persistent inconsolable crying is usually seen after DPT vaccine. It is mostly attributed to thepertussis fraction of the vaccine.It usually lasts for 3 hours and settles after a day or so. Other adverse effects of the DTP vaccineinclude neurologic effects like encephalitis and encephalopathies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following statements is false about the DPT vaccine?",
+      "options": {
+        "A": "Adult preparation contains a lower dose of diphtheria than the pediatric version",
+        "B": "Whole killed bacteria of Bordetella pertussis has an adjuvant effect",
+        "C": "The whole-cell killed B. pertussis component is encephalogenic",
+        "D": "Presence of H. influenzae type b component increases its immunogenicity"
+      },
+      "correct_answer": "D",
+      "explanation": "H. influenzae type b (Hib) is not a component of the DPT vaccine and hence cannot affect its immunogenicity. It is a component of the pentavalent vaccine. The DPT vaccine is made up of diphtheria, pertussis, and tetanus vaccines. The pertussis component in DPT vaccine enhances the potency of the diphtheria toxoid. Both whole-cell killed B. pertussis and acellular pertussis component have this adjuvant effect. The only difference is that whole-cell killed B. pertussis is encephalitogenic and immunity is short-lasting, while the acellular pertussis component (DTaP) is devoid of neurological complications. There are two types of DPT vaccines - plain and adsorbed. Adsorption is usually carried out on a mineral carrier like aluminium phosphate or hydroxide. Adsorbed vaccines are more immunogenic and recommended by WHO for national vaccination programmes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 22,
+      "question": "A worried mother brings her baby to your PHC saying her child has gone limp. She mentions that the child had recently been given some oral drops as part of a mass vaccination campaign. Which of the following is the most likely cause of the baby's symptoms?",
+      "options": {
+        "A": "Rotavirus vaccine",
+        "B": "Oral polio vaccine",
+        "C": "Oral typhoid vaccine",
+        "D": "Oral cholera vaccine"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario is suggestive of paralysis and the likely cause is vaccine-associated paralytic poliomyelitis following OPV administration. This is a rare side effect of OPV. Acute-onset flaccid paralysis occurs within 4 to 30 days of receipt of the vaccine in these cases or within 4 to 75 days after contact with a vaccine recipient.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    },
+    {
+      "q_no": 23,
+      "question": "A patient presents with complaints of severe aching pain and weakness in his left arm and shoulder. He mentions he had recently been administered a vaccine in his left arm, but he does not remember the name of the vaccine. Which of the following could be the most common cause of his symptoms?",
+      "options": {
+        "A": "Measles vaccine",
+        "B": "Tetanus vaccine",
+        "C": "Pertussis vaccine",
+        "D": "BCG vaccine"
+      },
+      "correct_answer": "B",
+      "explanation": "The given scenario is suggestive of brachial neuritis, which is a known complication of the tetanus vaccine. Brachial neuritis is a dysfunction of nerves supplying the arm and shoulder without the involvement of the rest of the nervous system. It presents with a deep, steady, severe aching pain in the shoulder and arm followed by weakness and wasting in arm and shoulder muscles. Sensory loss may also be present. It is treated symptomatically by analgesics.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Principles of Immunization and Vaccination"
+    }
+  ]
+}

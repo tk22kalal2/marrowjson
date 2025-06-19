@@ -1,0 +1,320 @@
+{
+  "chapter": "Health Determinants and Indicators",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not included in the WHO definition of health?",
+      "options": {
+        "A": "Social well-being",
+        "B": "Emotional well-being",
+        "C": "Mental well-being",
+        "D": "Physical well-being"
+      },
+      "correct_answer": "B",
+      "explanation": "The World Health Organization (WHO) defines health as a state of complete physical, mental, and social well-being, and not merely the absence of disease or infirmity. Emotional well-being, although related, is not explicitly included in this definition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is the biomedical concept of disease based upon?",
+      "options": {
+        "A": "Germ theory of disease",
+        "B": "Combination of social, economic, and political influences. Social and psychological factors",
+        "C": "Life expectancy",
+        "D": "Health-adjusted life expectancy"
+      },
+      "correct_answer": "A",
+      "explanation": "The biomedical concept of disease is based on the germ theory of disease, which was postulated by Louis Pasteur. The germ theory of disease states that microorganisms known as pathogens or germs can lead to disease. It was criticized that it did not include environmental, social, psychological, and cultural determinants of health. The ecological concept of disease states that disease is the maladjustment of the human organism to the environment. The psychosocial concept of disease hypothesizes that health is also influenced by social, psychological, cultural, and economic factors as well. The holistic concept of disease includes all the above concepts to describe health.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 4,
+      "question": "An epidemiologist is tasked with measuring the overall health status of a community using a morbidity indicator. Which of the following indicators will she not use?",
+      "options": {
+        "A": "Duration of stay in hospital",
+        "B": "Attendance rates at OPD",
+        "C": "Number of days of restricted activity",
+        "D": "Notification rates"
+      },
+      "correct_answer": "C",
+      "explanation": "Number of days of restricted activity is a disability indicator. Morbidity is defined as public health outcomes focusing on diseases, traumas, or injury. Morbidity indicators can be used to measure the overall health and extent of healthcare utilisation in a given population. Disability is defined as public health outcomes related to health conditions that include limitations in personal activities and societal participation. There are two types of disability indicators as follows: Event type indicators - Number of days of restricted activity, Bed disability days, Work loss days (or school loss days) within a specified period. Person type indicators - Limitation of mobility: e.g. confined to bed, Limitation of activity: e.g. limitation to perform the basic activities of daily living such as eating and going to the toilet.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following indicators can be used to estimate the number of years a newborn would be expected to live in full health based on the current rates of ill health and mortality?",
+      "options": {
+        "A": "DALY",
+        "B": "Sullivan's index",
+        "C": "HALE",
+        "D": "Life expectancy"
+      },
+      "correct_answer": "C",
+      "explanation": "HALE (Health Adjusted Life Expectancy) is an indicator that can be used to estimate the number of years a newborn is expected to live in full health based on the current rates of ill health and mortality. HALE is calculated using the life expectancy at birth with an adjustment for time spent in poor health. It captures both fatal and non-fatal health outcomes of average levels of population health. It is also sensitive to changes over time or differences between countries in the distribution of health states. Sullivan's index is also known as disability-free life expectancy (DFLE) or active life expectancy. It is the average number of years an individual is expected to live free of disability if the current patterns of mortality and disability continue to apply. It doesn't take into account premature death. As HALE includes not just disability but the larger definition of poor health, it is a better option with respect to the question.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 6,
+      "question": "While assessing the health needs of a community, an epidemiologist is tasked with estimating the burden of cholera in the area. Which of the following is the simplest measure he can use?",
+      "options": {
+        "A": "Case fatality rate",
+        "B": "Incidence",
+        "C": "Crude death rate",
+        "D": "Proportional mortality rate"
+      },
+      "correct_answer": "D",
+      "explanation": "The proportional mortality rate is the simplest measure of estimating the burden of disease in the community. It signifies the proportion of all deaths that can be attributed to the disease. It is calculated as follows: Proportional mortality rate of a disease = (Number of deaths due to that disease in the year / Total number of deaths in the year) * 100. Option A: Case fatality rate measures the risk of persons dying from a certain disease within a given time period. It measures the killing power of a disease. It is used to link mortality to morbidity. Option B: Incidence measures the rate at which new cases are occurring in a population. It is not influenced by the duration of the disease. The use of incidence is generally restricted to acute diseases. Option C: Crude death rate is considered a fair indicator of the comparative health of the people. It is the rate of total deaths in a year compared to the mid-year population.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 7,
+      "question": "You are researching the overall burden of COVID on a given population. Which of the following disability indicators is the best measure of this?",
+      "options": {
+        "A": "Sullivan's index",
+        "B": "DALY",
+        "C": "QALY",
+        "D": "YLL"
+      },
+      "correct_answer": "B",
+      "explanation": "Disability-adjusted life years (DALY) is the best measure of the overall burden of a disease in a defined population. It is also the best measure of the effectiveness of interventions. DALY is calculated as - Years of lost life prematurely (YLL) + Years lost to disability (YLD). It can measure both mortality and disability together. As DALY is affected by premature loss of life, conditions that affect younger individuals, like road traffic accidents, have a high DALY. In comparison to this, Alzheimer's disease has a lower DALY as it is a disease that mostly develops during old age and so has a lower YLL.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is not a health utilisation rate?",
+      "options": {
+        "A": "Bed occupancy rate",
+        "B": "Bed turnover ratio",
+        "C": "Bed disability days",
+        "D": "Average length of stay in hospital"
+      },
+      "correct_answer": "C",
+      "explanation": "Bed disability days is not a utilisation rate. It is an event-type disability indicator. It is defined as the number of days a person spent in a hospital bed due to illness or injury. Health utilisation rate is defined as the number of people making use of the available health services to the total number of individuals in that population. Health utilisation rates include: Proportion of infants immunized against diseases in the expanded program on immunization (EPI), Proportion of women receiving antenatal care and supervised delivery, Percentage of population using family planning methods, Bed occupancy rate, Average length of stay in the hospital, and Bed turnover ratio.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 9,
+      "question": "As the medical superintendent of a hospital, you wish to optimise the utilization of health services. What bed turnover interval should you aim for?",
+      "options": {
+        "A": "Slightly positive",
+        "B": "Slightly negative",
+        "C": "Largely positive",
+        "D": "Equal to zero"
+      },
+      "correct_answer": "A",
+      "explanation": "For optimum utilization of health services in a hospital, bed turnover interval must always be slightly positive. Bed turnover interval is defined as the time interval where a hospital bed is left unoccupied following a patient's discharge till the next patient occupies it after admission.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is the best indicator of availability, utilization, and effectiveness of health services?",
+      "options": {
+        "A": "Infant mortality rate",
+        "B": "Maternal mortality rate",
+        "C": "Proportional mortality rate",
+        "D": "Disability adjusted life expectancy"
+      },
+      "correct_answer": "A",
+      "explanation": "Infant mortality rate (IMR) is the best indicator of the availability, utilization, and effectiveness of health care. It is a very sensitive indicator. Infant mortality rate (IMR) = Number of deaths in the first year of life/Number of live births x 1000. It is also one of the best indicators of state failure. It is the most universally accepted health status indicator of the whole population and of the socio-economic status in which they live. Note: The best indicator of socio-economic development is the under-5 mortality rate.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 11,
+      "question": "While reviewing a national health programme, you are asked to assess the cost-effectiveness of the interventions provided under it. Which indicator will you use to measure this?",
+      "options": {
+        "A": "Admission, readmission and discharge rates",
+        "B": "QALY",
+        "C": "HALE",
+        "D": "Bed turnover rates"
+      },
+      "correct_answer": "B",
+      "explanation": "QALY (Quality Adjusted Life Years) is used in assessing the cost-effectiveness (value of money) of a medical intervention. It is a measure of both the quality and quantity of life lived. It indicates the number of years of life that would be added by the intervention.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is not a socio-economic determinant of health?",
+      "options": {
+        "A": "Lifestyle",
+        "B": "Political system",
+        "C": "Education",
+        "D": "GNP per capita"
+      },
+      "correct_answer": "A",
+      "explanation": "Lifestyle is a behavioural and socio-cultural determinant of health. It is not a socio-economic determinant. Socio-economic determinants of health are the following: Economic status (per capita GNP), Education, Occupation, and Political system. Lifestyle is simply the way people live. It reflects our social values, attitudes, and activities. It is composed of: Cultural patterns (daily nutrition, superstitions), Behavioral patterns (personal hygiene, sedentary life), and Lifelong personal habits (e.g., smoking, alcoholism). Lifestyle is learned by social interaction with parents, siblings, friends, school, and mass media. Our political system determines our health. It can help shape community health services with regards to resource allocation, manpower policy, choice of technology, and the degree to which these services are made available and accessible to all segments of the society. The percentage of GDP spent on health is an indicator of political commitment. WHO recommends at least 5% of GDP to be spent on healthcare. India spends about 2.1% of its GDP on health (budget 2022-23).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is not a socio-economic indicator of health?",
+      "options": {
+        "A": "Per capita GNP",
+        "B": "Family size",
+        "C": "Literacy rate",
+        "D": "Annual family income"
+      },
+      "correct_answer": "B",
+      "explanation": "Annual family income is a socioeconomic indicator of health. Socio-economic indicators of health (mnemonic: H – FLAGGED): - •Housing (number of persons per room) • Family size is actually an indicator, •Literacy rate (especially female literacy rate) • Availability of per capita calorie • GNP per capita • Growth rate of population • Unemployment level • Dependency ratio",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following statements is false regarding positive health in today's world?",
+      "options": {
+        "A": "It is dependent on social, economic, and cultural determinants",
+        "B": "It is a mirage because of the changing environment",
+        "C": "It means that the body and mind are at peace",
+        "D": "It includes the provision of free health camps by the government"
+      },
+      "correct_answer": "D",
+      "explanation": "The provision of free health camps by the government is a concept of state medicine. Health does not merely mean the absence of disease or the provision of diagnostic, curative, and preventive services. It is a state of physical, mental, and social well-being. The state of positive health is based on the idea of perfect functioning of the body and mind. According to this concept, health is: • Biologically a state in which every cell and organ in the body is functioning at optimum capacity • Psychologically a state in which the individual feels a sense of perfect well-being and mastery over his environment. • Socially a state in which the individual's capacities for participation in the social system are optimal. This concept is too idealistic and can never become a reality. Humans can never be so perfectly adapted to the environment because everything in our life is subject to change. As the goal of positive health is unattainable, a broader concept of improving the quality of life has emerged. This highlights that positive health depends on medical action and also on economic, cultural, and social factors in the community.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 15,
+      "question": "According to the WHO, which of the following is not included in the standard of living?",
+      "options": {
+        "A": "Income",
+        "B": "Occupation",
+        "C": "Sanitation",
+        "D": "Social security"
+      },
+      "correct_answer": "D",
+      "explanation": "Social security is a component of the level of living as per the United Nations and not the standard of living. According to the WHO, the standard of living includes: • Income and occupation • Standards of housing, sanitation, and nutrition • Level of provision of health, educational, and recreational services. It depends on per capita GNP.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following are components of the Physical Quality of Life Index (PQLI)?",
+      "options": {
+        "A": "1, 3, and 5, 30",
+        "B": "2 and 5",
+        "C": "1, 2, and 4",
+        "D": "1, 3, and 4"
+      },
+      "correct_answer": "D",
+      "explanation": "Infant mortality rate, literacy rate, and life expectancy at one year of age are the components of the Physical Quality of Life Index (PQLI).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is the best measure of the standard of living?",
+      "options": {
+        "A": "Under 5 mortality rate",
+        "B": "Sullivan index",
+        "C": "HDI",
+        "D": "PQLI"
+      },
+      "correct_answer": "C",
+      "explanation": "Human Development Index (HDI) is the best measure of the standard of living of a population. Physical Quality of Life Index (PQLI) measures the quality of life.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is not a component of the Human Development Index (HDI)?",
+      "options": {
+        "A": "Infant Mortality Rate",
+        "B": "Income",
+        "C": "Longevity",
+        "D": "Knowledge"
+      },
+      "correct_answer": "A",
+      "explanation": "Infant mortality rate (IMR) is not a component of HDI. It is a component of the Physical Quality of Life Index (PQLI). The Human Development Index (HDI) is used to compare living standards in different countries. It includes the following dimensions or components: Each dimension index is calculated using the formula: Dimension Index = (Actual Value - Minimum Value) / (Maximum Value - Minimum Value). HDI is the geometric mean of the three indices: Life expectancy 1/3 x Education 1/3 x Income 1/3. As per the Human Development Report 2023-2024, India's Human Development Index (HDI) value is 0.644. This places India at 134th out of 193 countries. Component Indicator Index Longevity Life expectancy at birth Life Expectancy Index Knowledge Literacy and enrollment Education Index Income GNI per capita US$ (purchasing power parity - PPP) GNI index (Income Index)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 19,
+      "question": "What are the minimum and maximum values established for the calculation of the life expectancy index in HDI?",
+      "options": {
+        "A": "0 years and 65 years",
+        "B": "20 years and 85 years",
+        "C": "25 years and 75 years",
+        "D": "0 years and 100 years"
+      },
+      "correct_answer": "B",
+      "explanation": "The minimum value established for the calculation of the life expectancy index in HDI is 20 years and the maximum is 85 years. These minimum and maximum values are used to calculate the dimension indices in HDI and are called goalposts. Each dimension index is calculated using the formula: Dimension Index = (Actual Value - Minimum Value) / (Maximum Value - Minimum Value).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is not true regarding the education index used for calculating the HDI?",
+      "options": {
+        "A": "It includes expected years of schooling",
+        "B": "Gross enrollment ratio is considered",
+        "C": "Adult literacy rate is not considered",
+        "D": "Minimum and maximum values are based on global data"
+      },
+      "correct_answer": "B",
+      "explanation": "The gross enrollment ratio is no longer used in obtaining the education index in HDI. It was used as an indicator earlier. The education index is calculated by taking into account the mean years of schooling and expected years of schooling. Maximum and minimum values are based on global data. Adult literacy rate and gross enrollment ratio were used as indicators before 2009.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following indices measures the deprivation in basic dimensions of the country's human development?",
+      "options": {
+        "A": "HDI",
+        "B": "PQLI",
+        "C": "HPI",
+        "D": "DALY"
+      },
+      "correct_answer": "C",
+      "explanation": "Human Poverty Index (HPI) measures deprivation in basic dimensions of human development. HPI-1 is used for developing countries and HPI-2 is used for developed countries. It is based upon the following indicators: The range of HPI is from 0 to 100. The term HPI has now been replaced with Multidimensional Poverty Index (MPI). A long and healthy life, Knowledge, A decent standard of living. Human Poverty Index (HPI-1) for developing countries: Probability at birth of not surviving to age 40, Adult illiteracy rate, Percentage of the population not using an improved water source, Percentage of children underweight for age. Deprivation of a decent standard of living. Human Poverty Index (HPI-2) for selected OECD countries: Probability at birth of not surviving to age 60, Percentage of adults lacking functional literacy skills, Percentage of people living below the poverty line, Social exclusion. Not included as a dimension: Long-term unemployment rate.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Health Determinants and Indicators"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following is not included in the Ottawa Charter for health promotion?",
+      "options": {
+        "A": "Develop personal skills",
+        "B": "Strengthen community action for health",
+        "C": "Build social security system",
+        "D": "Reorient health services"
+      },
+      "correct_answer": "C",
+      "explanation": "Building a social security system is not included in the Ottawa Charter for health promotion. The first international conference for health promotion was held in Ottawa on 21st November 1986. It produced a charter known as the Ottawa Charter. The charter identified five key action areas as given below: Build healthy public policy, Create a supportive environment for health, Strengthen community action for health, Develop personal skills, and Reorient health services.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp22_img1_9a5810e9.jpeg",
+      "chapter_heading": "Health Determinants and Indicators"
+    }
+  ]
+}

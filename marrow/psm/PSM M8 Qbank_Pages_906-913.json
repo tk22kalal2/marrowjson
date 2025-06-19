@@ -1,0 +1,215 @@
+{
+  "chapter": "Genetics and Health",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 42-year-old male prisoner is being evaluated for aggressive tendencies and antisocial behavior. Which of the following genotypes is associated with these symptoms?",
+      "options": {
+        "A": "XXY",
+        "B": "XO",
+        "C": "XXX",
+        "D": "XYY"
+      },
+      "correct_answer": "D",
+      "explanation": "The XYY genotype has been associated with aggressive tendencies and antisocial behavior.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the risk of developing Down's syndrome in a baby born to a 45-year-old woman?",
+      "options": {
+        "A": "1 in 1000",
+        "B": "1 in 50",
+        "C": "1 in 3000",
+        "D": "1 in 100"
+      },
+      "correct_answer": "C",
+      "explanation": "The risk of developing Down's syndrome in a baby born to a 45-year-old woman is 1 in 50.The risk of developing of Down's syndrome in a baby born to a 20-year-old woman is around 1 in3000 and it increases with rising maternal age. It is an autosomal disorder caused by trisomy ofchromosome 21.910",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following conditions is not autosomal dominant?",
+      "options": {
+        "A": "Neurofibromatosis",
+        "B": "Retinoblastoma",
+        "C": "Marfan's syndrome",
+        "D": "Ataxia telengiectasia"
+      },
+      "correct_answer": "",
+      "explanation": "Ataxia-telangiectasia or Louis-Bar syndrome is an autosomal recessive condition.Autosomal dominant conditions include:• Neurofibromatosis• Marfan's syndrome• Retinoblastoma• Huntington's chorea•Polycystic kidney disease",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following is incorrect regarding autosomal recessive disorders?",
+      "options": {
+        "A": "Both male and female offspring are affected",
+        "B": "Heterozygotes are not affected",
+        "C": "Most inborn errors of metabolism have this form of inheritance",
+        "D": "It affects more people at a later age than in childhood"
+      },
+      "correct_answer": "D",
+      "explanation": "Autosomal recessive disorders usually manifest in childhood or earlier. Heterozygotes are unaffected by the disease. When both parents are heterozygous, each offspring (both male and female) has a 1:4 chance of being affected. Examples of autosomal recessive disorders include several inborn errors of metabolism, like phenylketonuria, cystic fibrosis, and galactosemia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 5,
+      "question": "A 6-year-old boy with recurrent hemarthrosis was found to have deficiency of factor VIII. Hewas adopted and his family history is unknown. What is the inheritance pattern of thiscondition?",
+      "options": {
+        "A": "X-linked recessive",
+        "B": "Autosomal dominant",
+        "C": "X-linked dominant",
+        "D": "Autosomal recessive"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of hemophilia A. It is an X-linked recessive disorder.Hemophilia is of two types:• Hemophilia A - due to mutations in the F8 gene leading to factor VIII deficiency• Hemophilia B - due to mutations in the F9 gene leading to factor IX deficiencyAffected children often present with prolonged bleeding after procedures like circumcision ormajor bleeds like intracranial hemorrhages. When the child begins to walk, bleeding into the joint(hemarthrosis) may occur, causing painful swellings and reddening.Laboratory investigations show elevated aPTT, with normal PT and platelet count. It is treated bythe administration of factor VIII or factor IX concentrates.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 6,
+      "question": "A pathologist is examining the peripheral smear of a patient with anemia. Which of thefollowing is incorrect about the epidemiology of this disease?",
+      "options": {
+        "A": "It is prevalent in areas with high frequency of malaria",
+        "B": "It is an autosomal dominant disorder",
+        "C": "Couples at risk can undergo prenatal testing and diagnosis",
+        "D": "It manifests during the first year of life907"
+      },
+      "correct_answer": "",
+      "explanation": "The given peripheral smear shows sickling of RBCs, suggestive of sickle cell anemia. It is anautosomal recessive disorder.The prevalence is high among Africans. This disorder usually has its onset during the first year oflife. Couples at risk can opt for prenatal testing and diagnosis as well.911",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q6_img1_c7f33560.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 7,
+      "question": "What was the primary goal of the Human Genome Project?",
+      "options": {
+        "A": "To introduce a gene sequence into a cell",
+        "B": "To develop new diagnostic techniques for genetic disorders",
+        "C": "To determine the sequence of nucleotide base pairs in human DNA",
+        "D": "To study the precise genetic composition of specific populations"
+      },
+      "correct_answer": "",
+      "explanation": "The primary goal of the Human Genome Project was to determine the sequence of nucleotide basepairs that make up human DNA and to map all genes from the human genome (20,500 genes).The project was launched in 1990 and deemed complete in 2003.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 8,
+      "question": "What is Hardy-Weinberg law related to?",
+      "options": {
+        "A": "Population genetics",
+        "B": "Behavioural genetics",
+        "C": "Ecological genetics",
+        "D": "Developmental genetics"
+      },
+      "correct_answer": "",
+      "explanation": "The Hardy-Weinberg law is related to population genetics. Population genetics is the study of theprecise genetic composition of a population and various factors determining the incidence ofinherited traits in them.Founder effect is a violation to this law. It is due to difference in expression of the genes infounding population. This is responsible for the difference in the distribution of disease inpopulation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 9,
+      "question": "The Hardy-Weinberg law is applicable in populations with which of the following?",
+      "options": {
+        "A": "Migration",
+        "B": "Small population",
+        "C": "Random mating",
+        "D": "Gene outflow"
+      },
+      "correct_answer": "A",
+      "explanation": "The Hardy-Weinberg law is applicable for infinitely large, static populations with random mating.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 10,
+      "question": "Match the following.",
+      "options": {
+        "A": "1-d, 2-c, 3-b, 4-a",
+        "B": "1-c, 2-d, 3-a, 4-b",
+        "C": "1-b, 2-a, 3-d, 4-c",
+        "D": "1-a, 2-b, 3-c, 4-d"
+      },
+      "correct_answer": "B",
+      "explanation": "Positive eugenics encourages the breeding of those with desirable phenotypes.Negative eugenics discourages the breeding of those with undesirable phenotypes.Euthenics is the environmental manipulation to enable genes to express themselves.Euphenics is the science of making phenotypic improvements in humans after birth, generally toaffect a problematic genetic condition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 11,
+      "question": "908A young woman with a family history of beta-thalassemia is planning to marry her firstcousin. Which of the following will you recommend for this woman?",
+      "options": {
+        "A": "Retrospective genetic counseling",
+        "B": "Amniocentesis",
+        "C": "Positive eugenics",
+        "D": "Prospective genetic counseling"
+      },
+      "correct_answer": "D",
+      "explanation": "This young woman must be advised to undergo prospective counseling.It refers to the process explaining to heterozygous individuals the risk of having affected childrenif they marry another heterozygous individual. It is performed prior to conception.Retrospective counseling is performed after the genetic disorder has already occurred in the firstchild.912",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 12,
+      "question": "A 40-year-old pregnant woman is planned for amniocentesis. What is the gestational age atwhich it can be done at the earliest?",
+      "options": {
+        "A": "10th week of gestation",
+        "B": "14th week of gestation",
+        "C": "20th week of gestation",
+        "D": "18th week of gestation"
+      },
+      "correct_answer": "B",
+      "explanation": "Amniocentesis can be done as early as 14 weeks of gestation.It refers to the examination of a sample of amniotic fluid to diagnose chromosomal disorders andsome metabolic errors. It is indicated in the following cases:• Pregnant women aged 35 years or above•Family history of:• Chromosomal abnormalities●Metabolic errors• Chromosomal translocation• Sex-linked genetic disease",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 13,
+      "question": "What is a Punnett square used for?",
+      "options": {
+        "A": "Random sampling",
+        "B": "Finding genotype of offspring",
+        "C": "Population genetics",
+        "D": "Quantifying mutations"
+      },
+      "correct_answer": "B",
+      "explanation": "A Punnett square is a diagram used to predict the probability of a particular genotype in anoffspring.It is a standard tool for genetic counselors. The image given below shows a Punnett square.AaAAAaAAaaaa",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp13_img1_ad5b8a1c.png",
+      "chapter_heading": "Genetics and Health"
+    },
+    {
+      "q_no": 14,
+      "question": "The risk of genetic diseases in consanguineous marriage between first cousins is?",
+      "options": {
+        "A": "1-2%",
+        "B": "4-8%",
+        "C": "8-10%",
+        "D": "12-14%909"
+      },
+      "correct_answer": "B",
+      "explanation": "The risk of genetic diseases in consanguineous marriage between first cousins is 4-8%.The risk of genetic diseases in non-consanguineous marriage is 2-4%.913",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Genetics and Health"
+    }
+  ]
+}

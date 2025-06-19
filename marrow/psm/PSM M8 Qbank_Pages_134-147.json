@@ -1,0 +1,305 @@
+{
+  "chapter": "Dynamics of Disease Transmission",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not communicable during the later part of the period marked 3 in the below image?",
+      "options": {
+        "A": "Measles",
+        "B": "Whooping cough",
+        "C": "Diphtheria",
+        "D": "Rabies infection, subclinical infection, 2 OMARROW, Clinical signs, Time 4"
+      },
+      "correct_answer": "D",
+      "explanation": "Rabies infection has a long incubation period and is not typically communicable during its later subclinical stages.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q1_img1_09631b4a.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp1_img1_2b8e457f.jpeg",
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following carriers shed the organism for indefinite periods?",
+      "options": {
+        "A": "Convalescent carriers",
+        "B": "Healthy carriers",
+        "C": "Chronic carriers",
+        "D": "Paradoxical carriers"
+      },
+      "correct_answer": "C",
+      "explanation": "Chronic carriers are those who shed or excrete the organism for indefinite periods. Carriers are classified into chronic carriers and temporary carriers based on the duration. Organisms may be shed continuously or intermittently in chronic carriers. The duration of the carrier state also depends on the disease. Chronic carrier state is seen in typhoid, hepatitis B, gonorrhea, malaria, etc. Temporary carriers are classified into: • Incubatory carriers - Those that shed the organism during the incubation period of the disease, especially during the later parts of it. It is seen in measles, mumps, polio, etc. • Healthy carriers - Those who suffer from subclinical infections and develop a carrier state without developing the overt disease. It is seen in polio, meningococcal meningitis, cholera, diphtheria, etc. • Convalescent carriers - Those that shed the organism during recovery or convalescence. It is seen in typhoid. Paradoxical carrier refers to a carrier who acquires the pathogen from another carrier. Note: Pseudo-carriers are carriers of avirulent organisms.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following diseases does not show vertical transmission?",
+      "options": {
+        "A": "Tetanus",
+        "B": "Herpes",
+        "C": "Rubella",
+        "D": "Varicella"
+      },
+      "correct_answer": "A",
+      "explanation": "Tetanus does not show vertical or transplacental transmission. Transmission of diseases or non-infectious agents transplacentally is called vertical transmission. Diseases that show this type of transmission include: Herpes, HIV, Rubella, and Varicella. Apart from diseases, non-infectious agents like lithium, thalidomide, and stilbestrol can cross the placenta and lead to the development of congenital anomalies in a fetus. Note: Neonatal tetanus occurs as a result of the failure to use aseptic techniques in managing the umbilical stump, unclean hands, and instruments or contamination by dirt, straw, or other non-sterile materials in the delivery field. Immunization of pregnant women can prevent this disease via the transplacental transport of immunoglobulins.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 4,
+      "question": "Which among the following is false about droplet transmission?",
+      "options": {
+        "A": "All droplets can travel only as far as 3 feet",
+        "B": "Droplets are usually larger than 5 microns",
+        "C": "It is a type of direct transmission",
+        "D": "Basic ventilation decreases the potential for this type of transmission"
+      },
+      "correct_answer": "A",
+      "explanation": "Droplet nuclei can travel as far as 6 feet, whereas a droplet (particle > 5µm) travels <30-60cm, as recent studies have shown. Droplets are a mode of direct transmission of infectious agents. They are formed from saliva and nasopharyngeal secretions released during coughing, sneezing, or speaking into the surrounding atmosphere. The expelled droplets may impinge directly upon the conjunctiva, oro-respiratory mucosa or skin of close contact. This mode of transmission is seen in the common cold, diphtheria, etc. Proper basic ventilation and prevention of overcrowding reduce the potential for this type of transmission.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the maximum size of airborne droplet nuclei?",
+      "options": {
+        "A": "5 microns",
+        "B": "10 microns",
+        "C": "3 microns",
+        "D": "2 microns"
+      },
+      "correct_answer": "A",
+      "explanation": "Droplet nuclei are sized less than or equal to 5 microns. They may be formed by evaporation of droplets coughed or sneezed into the air or be generated purposefully by a variety of atomizing devices (aerosols). They are capable of indirect airborne transmission of diseases like tuberculosis, influenza, chickenpox, measles, etc. The droplet nuclei may remain airborne for long periods of time, some retaining and others losing infectivity or virulence. These small particles, when inhaled, are capable of reaching the alveoli and getting retained there.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is not a method of direct transmission of communicable diseases?",
+      "options": {
+        "A": "Vertical transmission",
+        "B": "Contact with soil",
+        "C": "Droplet nuclei",
+        "D": "Droplet transmission"
+      },
+      "correct_answer": "C",
+      "explanation": "Airborne transmission by droplet nuclei is not a method of direct transmission of diseases. It is a method of indirect transmission of diseases. Droplet nuclei are tiny particles of a size 1-5 microns range that may be formed by either the evaporation of droplets coughed or sneezed into the air or are formed from aerosols. These droplet nuclei remain airborne for long periods of time and can transmit diseases like tuberculosis, influenza, chickenpox, measles, Q fever, and other respiratory infections. Droplet transmission, vertical transmission, and contact with soil are methods of direct transmission of diseases. Differences between droplet and droplet nuclei are summarized below: DROPLET NUCLEI - Indirect transmission. It is the residue from evaporated droplets <5 microns in diameter. No need for close contact for transmission. Diseases transmitted: chickenpox, measles, etc. DROPLET - Direct transmission. It is produced while coughing, sneezing, talking ≥5 microns in diameter. Requires closeness and direct contact for transmission. Diseases transmitted: diphtheria, meningococcal meningitis, etc.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 7,
+      "question": "What is an example of an indirect mode of transmission of disease via one of the following?",
+      "options": {
+        "A": "Mother to child",
+        "B": "Droplet infection",
+        "C": "Dog bite",
+        "D": "Contaminated food"
+      },
+      "correct_answer": "D",
+      "explanation": "The spread of a disease through contaminated food is an example of vehicle-borne transmission. It is an indirect mode of transmission. Vehicle-borne transmission is the transmission of infectious agents through food, water, and biological products (blood, plasma, etc.). Of these, food and water are more frequent vehicles of transmission because they are used by everyone. Mother-to-child transmission, droplet infection, and transmission via dog bite are examples of direct modes of transmission.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following statements about fomite-borne transmission is false?",
+      "options": {
+        "A": "It is an indirect mode of transmission",
+        "B": "Transmission via contaminated food is an example of this",
+        "C": "Hepatitis A is transmitted in this way",
+        "D": "Routine disinfection can prevent such transmission"
+      },
+      "correct_answer": "B",
+      "explanation": "Fomites are objects other than water or food that can be contaminated by infectious agents and help in transmitting the disease. They include clothes, towels, linen, cups, plates, spoons, etc. Fomites are an example of an indirect mode of transmission. Some diseases transmitted by fomites include diphtheria, typhoid, hepatitis A, etc. Good public and personal hygiene can prevent this type of transmission.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the lodgement and development of an arthropod on the body surface called?",
+      "options": {
+        "A": "Infection",
+        "B": "Infestation",
+        "C": "Contamination",
+        "D": "Colonization"
+      },
+      "correct_answer": "B",
+      "explanation": "The lodgement and development of an arthropod on the body surface is called infestation. Infection is the entry and development or multiplication of an infectious agent in a host's body. Contamination is the presence of a disease agent on a body surface like clothes, toys, etc., and also in substances like food or water. Colonization is the presence of a disease agent in or on a host, with growth and multiplication but without any overt clinical expression or detected immune response in the host at the time it is isolated.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 10,
+      "question": "An entomologist was studying a vector and the pathogen it transmits. He found that the pathogen underwent changes in number and morphology in the vector. What is this type of biological transmission called?",
+      "options": {
+        "A": "Propagative",
+        "B": "Cyclo-developmental",
+        "C": "Cyclo-propagative",
+        "D": "Developmental"
+      },
+      "correct_answer": "C",
+      "explanation": "This type of biological transmission, where a pathogen undergoes a change in number and morphology in a vector, is called cyclo-propagative transmission. Malaria is a disease whose causative organism (Plasmodium sp.) undergoes cyclo-propagative transmission. In malaria, the parasite undergoes both developmental changes and multiplication in the Anopheles mosquito (vector).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 11,
+      "question": "A patient with chronic lymphedema was found to have a positive DEC provocation test. Which type of biological transmission does the pathogen implicated here undergo?",
+      "options": {
+        "A": "Propagative",
+        "B": "Cyclo-developmental",
+        "C": "Cyclo-propagative",
+        "D": "Developmental"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, the patient most likely has lymphatic filariasis. The causative organism of this disease (Wuchereria bancrofti) undergoes cyclo-developmental transmission. Cyclo-developmental transmission is a transmission where the agent undergoes only developmental changes and not multiplication within the vector. DEC provocation test: In this test, a small dose of DEC is given 20-50 minutes before sample collection so that the microfilaria appears in the blood even during the daytime.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 12,
+      "question": "You are a rural medical health officer investigating an epidemic. What is the correct sequence of steps you must follow?",
+      "options": {
+        "A": "a be → d",
+        "B": "bead → c",
+        "C": "a → be c → d",
+        "D": "b → a → d → e → c"
+      },
+      "correct_answer": "C",
+      "explanation": "Steps for the investigation of an epidemic are: • Verification of diagnosis • Confirmation of the existence of an epidemic • Defining the population at risk - • Obtaining a map of the area • Counting the population • Rapid search for all the cases - • Medical survey • Epidemiological case sheets. • Searching for more cases. • Data analysis on the basis of time, place, and person. Formulation of hypothesis • Testing of hypothesis • Evaluation of ecological factors • Further investigation of the population at risk • Writing the report",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 13,
+      "question": "You have been asked to write the final report following the investigation of a cholera epidemic. Which of the following will you not include in this report?",
+      "options": {
+        "A": "History of previous epidemics",
+        "B": "Usual number of cases that existed before the epidemic",
+        "C": "Geographical distribution of the epidemic",
+        "D": "Incubation period"
+      },
+      "correct_answer": "D",
+      "explanation": "The final report of an epidemic does not include the incubation period of the disease. The final report following the investigation of an epidemic should include: Background information - Geography, climate, demography, socio-economic groups, health service organization, surveillance data and normal disease prevalence. Historical data - Previous occurrences of the epidemic, the occurrence of any related diseases and discovery of the primary case in the present outbreak. Methodology of investigations - Case definition, epidemiological questionnaires, collection and laboratory techniques. Analysis of data - Clinical and epidemiological data, modes of transmission, laboratory data and all their interpretations. Control measures - Strategy definitions, methodology of implementation, evaluation methods and preventive measures.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 14,
+      "question": "You have been sent to an area to study the ongoing typhoid epidemic. When will you declare the area to be free of the epidemic?",
+      "options": {
+        "A": "No new cases for 14 days",
+        "B": "No new cases for 60 days",
+        "C": "No new cases for 45 days",
+        "D": "No new cases for 28 days"
+      },
+      "correct_answer": "D",
+      "explanation": "The area will be declared free of the typhoid epidemic when no new cases are reported for 28 days. An area is declared free of an epidemic when there are no cases reported for twice the incubation period of the disease since the last case. The incubation period of typhoid is 14 days. So, in the given scenario, the area will be declared free of the epidemic when no new cases are reported for twice the incubation period, i.e., 14 x 2 = 28 days.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 15,
+      "question": "The probability that infection will occur among susceptible persons following contact with an infectious person within the incubation period is known as the",
+      "options": {
+        "A": "Secondary attack rate",
+        "B": "Case fatality rate",
+        "C": "Primary attack rate",
+        "D": "Tertiary attack rate"
+      },
+      "correct_answer": "A",
+      "explanation": "The probability that infection will occur among susceptible persons following contact with an infectious person within the incubation period is called the secondary attack rate. It is calculated by the following formula: Secondary attack rate (SAR) = (Number of exposed or susceptible persons developing the disease within the incubation period x 100)/(Total number of close or exposed contacts that are susceptible). Primary cases are usually excluded from the numerator and denominator. Secondary attack rate measures the communicability of the disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 16,
+      "question": "Following an outbreak of a disease, you are asked to calculate the secondary attack rate (SAR). What is the denominator you would use?",
+      "options": {
+        "A": "All people having a history of contact with a case",
+        "B": "All people susceptible in the entire area",
+        "C": "All the people in contact with the primary case",
+        "D": "All the close or exposed contacts that are susceptible"
+      },
+      "correct_answer": "D",
+      "explanation": "The denominator used for calculating SAR is all the close or exposed contacts that are susceptible. The secondary attack rate is defined as the probability that infection will occur among susceptible persons following contact with an infectious person within the incubation period. It is calculated by the formula: Secondary attack rate (SAR) = (Number of exposed or susceptible persons developing the disease within the incubation period x 100) / (Total number of close or exposed contacts that are susceptible). Primary cases are usually excluded from the numerator and denominator. Secondary attack rate measures the communicability of the disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 17,
+      "question": "A village has 100 children under the age of 5. The coverage of measles vaccination is 60%. Following a case of measles, 26 children developed measles. What is the secondary attack rate?",
+      "options": {
+        "A": "41%",
+        "B": "25%",
+        "C": "69%",
+        "D": "66%"
+      },
+      "correct_answer": "D",
+      "explanation": "The secondary attack rate for the given scenario is 66%. The secondary attack rate (SAR) is given by: (Number of exposed or susceptible persons developing the disease within the incubation period x 100) / (Total number of close or exposed contacts that are susceptible). Here, the number who developed the disease after exposure = 26. Susceptible population = 100 - 60 (vaccinated) - 1 (primary case) = 39. Therefore, SAR = 26/39 x 100 = 66%. SAR is a measure of communicability.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 18,
+      "question": "A 28-year-old man is found to be positive for SARS-CoV-2. On contact tracing, 30 people have been identified as close contacts but none of them shows any symptoms or signs. What is the time duration for which they must be quarantined?",
+      "options": {
+        "A": "Maximum period of communicability",
+        "B": "Maximum incubation period",
+        "C": "Average period of communicability",
+        "D": "Average incubation period"
+      },
+      "correct_answer": "B",
+      "explanation": "Quarantine is the limitation in freedom of movement of healthy contacts of cases, who have been exposed for a period that lasts as long as the maximal incubation period of the disease. It is a primary level of prevention and falls under specific protection measures. The various types of quarantine are: • Absolute - Complete limitation of movement • Modified - Selective partial limitation of movement • Segregation - Observation of a group of persons in a population after separation",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following pairs of diseases and their periods of isolation is wrongly matched?",
+      "options": {
+        "A": "Rubella - 3 days after onset of rash",
+        "B": "Chickenpox - 6 days after onset of rash",
+        "C": "Herpes zoster - 6 days after onset of rash",
+        "D": "Measles - up to 5 days after onset of rash"
+      },
+      "correct_answer": "A",
+      "explanation": "Patients with rubella should be isolated for 7 days after they develop the rash. Isolation is defined as separation, for the period of communicability of infected persons from others to prevent or limit transmission of the infectious agent. In settings where women who are in their 1st trimester or are sexually active or non-immune without contraception usage may be exposed, outbreak control measures should begin as soon as rubella is suspected and should not be postponed until laboratory confirmation of cases. Note: Multiple sources have confirmed the period of infectivity of measles, which is from 4 days before the onset of rash to 5 days after the onset of rash.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    },
+    {
+      "q_no": 20,
+      "question": "A paradoxical carrier is defined as:",
+      "options": {
+        "A": "A person who sheds pathogens during the incubation period",
+        "B": "A carrier who acquired a pathogen from another carrier",
+        "C": "A person who acquired a pathogen from a patient",
+        "D": "A patient who became a carrier"
+      },
+      "correct_answer": "B",
+      "explanation": "A paradoxical carrier is a carrier that acquired a pathogen from another carrier. Incubatory carriers are those who shed the infectious agents during the incubation period of the disease. Convalescent carriers are those who continue to shed the disease agent during the period of convalescence. Healthy carriers are those who had a subclinical infection and developed a carrier state without suffering from overt disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Dynamics of Disease Transmission"
+    }
+  ]
+}

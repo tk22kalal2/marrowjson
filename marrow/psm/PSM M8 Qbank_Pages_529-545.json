@@ -1,0 +1,425 @@
+{
+  "chapter": "Water - I: Sources and purification of water",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not a component of the definition of safe and wholesome water?",
+      "options": {
+        "A": "Water should be odourless",
+        "B": "Usable for domestic purposes",
+        "C": "Not necessarily colorless",
+        "D": "Pleasant to taste"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 2,
+      "question": "In an urban PHC, an increasing number of skin diseases are being reported due to inadequatewater supply in the region. What would be the adequate supply of water for them to meettheir needs for all domestic purposes?",
+      "options": {
+        "A": "200-250 litres per capita per day",
+        "B": "150-200 litres per capita per day",
+        "C": "250-300 litres per capita per day",
+        "D": "100-150 litres per capita per day"
+      },
+      "correct_answer": "",
+      "explanation": "The given scenario of skin diseases is suggestive of water-washed diseases caused by improperhygiene related to an inadequate water supply. In urban areas, 150-200 litres per capita per day isthe recommended allowance to meet the needs for all kinds of domestic purposes.In rural areas, the set target of water supply to be achieved in India is around 50-55 litres percapita per day.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 3,
+      "question": "What are the norms for the required litres of water per capita per day in rural areas?",
+      "options": {
+        "A": "75",
+        "B": "45",
+        "C": "55",
+        "D": "65"
+      },
+      "correct_answer": "",
+      "explanation": "According to the National Rural Drinking Water Programme, the requirement of water in ruralareas (areas with public water posts) is 55 litres per capita per day. This is in accordance with the12th Five Year Plan.For reasons of comparability, the source of water provision in rural areas should be within adistance of 100 metres from the household or the time taken to fetch water should not be &gt; 30minutes.Note: Park textbook mentions 40-50 litres per capita per day as the norm. However, in the 12thfive year plan period, the Government of India enhanced the rural drinking water supply normsfrom 40 litres to 55 litres per capita per day.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 4,
+      "question": "What is the purest form of water in nature?",
+      "options": {
+        "A": "Rain water",
+        "B": "Rivers and streams529",
+        "C": "Ponds and lakes",
+        "D": "Water from deep wells"
+      },
+      "correct_answer": "",
+      "explanation": "537Rain water is the purest form of water in nature. It contains a very low amount of total dissolvedsolids (TDS). Rain water is the origin of both surface and ground water.Sources of water:• Rain• Surface water:• Impounding reservoirs••Rivers and streamsTanks, ponds and lakes.• Ground water:• Shallow wells• Deep wells• Springs",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a source of surface water?",
+      "options": {
+        "A": "Streams",
+        "B": "Tanks",
+        "C": "Shallow wells",
+        "D": "Impounding reservoirs"
+      },
+      "correct_answer": "",
+      "explanation": "Shallow wells are sources of ground water.Sources of water:• Rain• Surface water:• Impounding reservoirs•• Rivers and streams• Tanks, ponds and lakes• Ground water:• Shallow wells• Deep wells• Springs",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 6,
+      "question": "What is the area from which water drains into impounding reservoirs known as?",
+      "options": {
+        "A": "Embankment ponds",
+        "B": "Watershed area",
+        "C": "Catchment area",
+        "D": "Dam"
+      },
+      "correct_answer": "C",
+      "explanation": "The area draining into the impounding reservoirs are known as catchment areas.Impounding reservoirs are also called embankment ponds. These reservoirs are artificial lake-likewater bodies. They are made by building an embankment or earth fill in an area into whichnatural water flows and can be stored for usage. Dams are also built to create these reservoirs.Water from these reservoirs is second in purity to rainwater but is not completely free fromimpurities. Catchment areas are the main sources of impurities in the water in impounding538reservoirs.The image given below shows catchment area:",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp6_img1_ba8a40c9.jpeg",
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the most common type of well in India?",
+      "options": {
+        "A": "Tube well",
+        "B": "Dug well",
+        "C": "Artesian well",
+        "D": "Bore well"
+      },
+      "correct_answer": "B",
+      "explanation": "Dug wells are the most common type of well in India.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following statements is false about artesian wells?",
+      "options": {
+        "A": "It is not common in India",
+        "B": "Water is put under pressure between two impervious layers",
+        "C": "No pump is required to bring water to surface530",
+        "D": "It is a type of shallow well"
+      },
+      "correct_answer": "",
+      "explanation": "Artesian wells are types of deep wells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 9,
+      "question": "Step wells belong to which of the following types of wells?",
+      "options": {
+        "A": "Bore wells",
+        "B": "Katcha wells",
+        "C": "Pucca wells",
+        "D": "Driven wells"
+      },
+      "correct_answer": "",
+      "explanation": "Step wells belong to the type of pucca dug wells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 10,
+      "question": "An outbreak of guinea worm disease was reported among villagers who used step wells fordrinking water. In order to arrest the spread of disease, a decision was made to replace stepwells with sanitary and safe wells. All of the following measures would be considered duringits construction except:",
+      "options": {
+        "A": "Must be located at least 15 metres away from sources of contamination",
+        "B": "A partition space for washing clothes and vessels",
+        "C": "Lining must be made to a depth of 6 metres or more",
+        "D": "Hand-pump must be made to handle rough use"
+      },
+      "correct_answer": "D",
+      "explanation": "Washing clothes, vessels, and bathing must be prohibited around wells to avoid contamination ofthe water.Step wells are a type of pucca wells which enable people to descend into the well to fetch water. Itis obsolete now, as there is considerable personal contact between the user and the water whichcan pose a health hazard to the community.539",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 11,
+      "question": "What is the minimum length that the platform of a well should extend around it in alldirections?",
+      "options": {
+        "A": "1 m",
+        "B": "1.5 m",
+        "C": "2 m",
+        "D": "2.5 m"
+      },
+      "correct_answer": "A",
+      "explanation": "The platform of a sanitary well should stretch for at least 1 metre around the well in all directions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is not a water-washed disease?",
+      "options": {
+        "A": "Scabies",
+        "B": "Trachoma",
+        "C": "Cholera",
+        "D": "Conjunctivitis"
+      },
+      "correct_answer": "C",
+      "explanation": "Cholera is a water-borne disease and not a water-washed disease. The diseases which are transmitted by improper hygiene and are widely related to circumstances where there is inadequate water supply are called water-washed diseases. Some examples of water-washed diseases are: Conjunctivitis, Trachoma, Scabies, and Typhus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 13,
+      "question": "A multipurpose worker is spraying herbicides on aquatic plants as part of vector controlmeasures in your area. Which of the following water-related diseases can be controlled by thisapproach?",
+      "options": {
+        "A": "Weil's disease",
+        "B": "Filariasis",
+        "C": "Enterobiasis",
+        "D": "Giardiasis"
+      },
+      "correct_answer": "B",
+      "explanation": "Filariasis (caused by B.malayi) is transmitted by Mansonia species of mosquito that breeds inwater bodies containing aquatic vegetation. It can be controlled by the use of herbicides to destroyaquatic vegetation.Water-related diseases are classified as:CategoryWater-borne diseasesWater-washed diseasesWater-based diseasesExamplesCaused by ingestion of watercontaminated by human or animal faeces, or urine containing pathogenic bacteria or viruses.ex: Cholera, typhoid, amoebic and bacillary dysentery, and other diarrhoeal diseases.Caused by poor personal hygiene.ex: Scabies, trachoma, flea-, lice- and tick-borne diseases, in addition to the majority of waterborne diseases (which are also water-washed).Caused by parasites found inintermediate organisms living in water.ex: Dracunculiasis,schistosomiasis and some other helminths.540CategoryWater-related diseases transmitted by insect vectorsExamplesCaused by vectors that breedin waterex: Dengue, filariasis,malaria, onchocerciasis, trypanosomiasis and yellow fever.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following methods of purification of water cannot be used on a large scale?",
+      "options": {
+        "A": "Berkefeld filter",
+        "B": "Rapid sand filter",
+        "C": "Ozonation",
+        "D": "Chlorination"
+      },
+      "correct_answer": "A",
+      "explanation": "Berkefeld filter is used for the purification of water on a small scale (ex: in households).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 15,
+      "question": "During your posting as a rural medical officer, you conduct an awareness drive prior to themonsoon season in order to highlight the necessity of water purification. Which of thefollowing methods would you not recommend for a household setup?",
+      "options": {
+        "A": "Bleaching powder",
+        "B": "Katadyn filter",
+        "C": "Slow sand filter",
+        "D": "Multi-stage reverse osmosis"
+      },
+      "correct_answer": "C",
+      "explanation": "Slow sand filter is a method of filtration used for the purification of water on a large scale.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 16,
+      "question": "532When river water is stored properly, by how much percent does the bacterial count drop inthe first 5-7 days?",
+      "options": {
+        "A": "25",
+        "B": "50",
+        "C": "75",
+        "D": "90"
+      },
+      "correct_answer": "D",
+      "explanation": "When river water is stored properly, the bacterial count drops by as much as 90% in the first 5-7days.Purification during the storage of water is a natural process that takes place by physical, chemicaland biological phenomena. Components of water purification include storage, filtration anddisinfection.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 17,
+      "question": "What is the other name for slow sand filters?",
+      "options": {
+        "A": "Biological filters",
+        "B": "Mechanical filters",
+        "C": "Biochemical filters",
+        "D": "Bacteriological filters"
+      },
+      "correct_answer": "A",
+      "explanation": "Slow sand filters are also called biological filters.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is a part of a slow sand filter?",
+      "options": {
+        "A": "1, 2, 3, and 4",
+        "B": "2, 3, and 4",
+        "C": "1, 2, 3, 4, and 5",
+        "D": "2, 3, 4, and 5"
+      },
+      "correct_answer": "C",
+      "explanation": "Components of a slow sand filter include: Under-drainage system, Sand bed and a layer of organic matter, Filter control system, Supernatant water, and Filter box.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following statements is true about slow sand filters?",
+      "options": {
+        "A": "It occupies less space",
+        "B": "The thickness of sand bed is 2 metres",
+        "C": "It takes a longer duration for water purification",
+        "D": "The sand grain size is 0.4 to 0.7 mm"
+      },
+      "correct_answer": "",
+      "explanation": "Slow sand filters take a longer duration than most other methods for purification of water.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 20,
+      "question": "533Which of the following best describes Schmutzdecke?",
+      "options": {
+        "A": "Layer of alum flocculate on supernatant water",
+        "B": "Layer of algae and diatoms on supernatant water",
+        "C": "Layer of alum flocculate on surface of sand bed filter",
+        "D": "Layer of algae and diatoms on surface of sand bed filter"
+      },
+      "correct_answer": "D",
+      "explanation": "Schmutzdecke refers to the vital layer which is formed by algae, plankton, diatoms and bacteriaon the surface of the sand bed filter.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is not the vital layer of a slow sand filter?",
+      "options": {
+        "A": "Zoogleal layer",
+        "B": "Schmutzdecke",
+        "C": "Biological layer",
+        "D": "Supernatant layer"
+      },
+      "correct_answer": "D",
+      "explanation": "The vital layer of a slow sand filter is also called the zoogleal layer, Schmutzdecke, or thebiological layer.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp21_img1_cff23e56.jpeg",
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 22,
+      "question": "Where is the vital layer of the slow sand filter seen?",
+      "options": {
+        "A": "On top of the raw water",
+        "B": "On the sand bed",
+        "C": "Near the filter valves",
+        "D": "Next to the Venturi meter"
+      },
+      "correct_answer": "B",
+      "explanation": "The vital layer of the slow sand filter is seen on the sand bed.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 23,
+      "question": "What does the venturi meter measure in a slow sand filter?",
+      "options": {
+        "A": "Loss of head",
+        "B": "Loss of Schmutzdecke",
+        "C": "Loss of resistance",
+        "D": "Loss of organic material"
+      },
+      "correct_answer": "A",
+      "explanation": "Venturi meters measure the bed resistance or loss of head in a slow sand filter.The following image shows a venturi meter:HAER No. MA-GO-B-1542",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp23_img1_f36d6b76.jpeg",
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 24,
+      "question": "Which of the following is an incorrect statement about rapid sand filters?534",
+      "options": {
+        "A": "No preliminary storage of raw water is required",
+        "B": "Operation requires highly skilled personnel",
+        "C": "Frequent washing is not required",
+        "D": "Can be gravity or pressure type"
+      },
+      "correct_answer": "C",
+      "explanation": "Frequent washing of the filter bed is required in rapid sand filters. This is done by backwashing.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 25,
+      "question": "What is the effective size of sand grains in a rapid sand filter?-",
+      "options": {
+        "A": "0.2 0.3 mm",
+        "B": "0.4 0.7 mm",
+        "C": "0.5 0.6 mm-",
+        "D": "0.7 - 1.0 mm"
+      },
+      "correct_answer": "B",
+      "explanation": "Effective size of sand grains in a rapid sand filter is 0.4-0.7 mm.Effective size of sand grains in a slow sand filter is 0.2 - 0.3 mm.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 26,
+      "question": "Rapid sand filter is different from the slow sand filter by which of the following features?",
+      "options": {
+        "A": "Bacteria removed more effectively",
+        "B": "Occupies more space",
+        "C": "Sand particles are of smaller size",
+        "D": "Skilled labor is needed"
+      },
+      "correct_answer": "D",
+      "explanation": "Skilled labor is required for rapid sand filters. Unskilled labor is enough for slow sand filters.Comparison of rapid and slow sand filters:SpaceRate of filtration (million gallons per acre per day)Rapid sand filterOccupies very little space200 m.g.a.dSlow sand filterOccupies large area2-3 m.g.a.d.Effective size of sandPreliminary treatmentWashing0.4-0.7 mmChemical coagulation and sedimentationBy back-washing0.2-0.3 mmPlain sedimentationBy scraping the sand bedOperationLoss of head allowedRemoval of bacteriaHighly skilled6-8 feet (2- 2.5 m)98-99%Less skilled4 feet (1.5 m)99.9-99.99%",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following is not a ceramic filter that can be used for small scale purification ofwater?",
+      "options": {
+        "A": "Chamberland filter",
+        "B": "Zhu filter",
+        "C": "Berkefeld filter",
+        "D": "Katadyn filter"
+      },
+      "correct_answer": "B",
+      "explanation": "Filtration of water on a small scale is done by ceramic filters like Pasteur Chamberland, Berkefeld,and Katadyn filters.Ceramic filters are not widely used in India. The most important parts of these filters are the filtercandles. Filter candles of the fine type help in removing bacteria but not viruses. These filtercandles need to be cleaned periodically as they get clogged with impurities and bacteria.Types of ceramic filters include:• Pasteur Chamberland filter - It has a candle made of porcelain.Image of a Pasteur Chamberland filter is shown below:5430• Berkefeld filter - it has a candle made of infusorial earth or kieselguhr.Image of a Berkefeld filter is shown below:DasBerkefeld-FilterBerkefeld FilterGesellschaft GmbHCELLE•-Katadyn filter the surface of this filter is coated with a silver catalyst. The incoming bacteria arekilled on contact with the surface by the oligodynamic action of silver ions which are liberated intothe water.Image of a Katadyn filter is shown below:544",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp27_img1_6c571b2d.jpeg",
+      "chapter_heading": "Water - I: Sources and purification of water"
+    },
+    {
+      "q_no": 28,
+      "question": "Which of the following statements is incorrect about ceramic filters?535",
+      "options": {
+        "A": "Surface of Berkefeld filter is lined with a silver catalyst",
+        "B": "Chamberland filter has a porcelain filter candle",
+        "C": "Oligodynamic action is seen with Katadyn filter",
+        "D": "They are not widely used in India"
+      },
+      "correct_answer": "A",
+      "explanation": "KATADYNPOCKETBerkefeld filter has a candle made of infusorial earth or kieselguhr.Ceramic filters are used for small scale purification of water. They are not widely used inIndia. The most important parts of these filters are the filter candles.Types of ceramic filters include:• Pasteur Chamberland filter - It has a candle made of porcelain.•Berkefeld filter - it has a candle made of infusorial earth or kieselguhr.•Katadyn filter - the surface of this filter is coated with a silver catalyst. The incoming bacteria arekilled on contact with the surface by the oligodynamic action of silver ions which are liberated intothe water.545",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Water - I: Sources and purification of water"
+    }
+  ]
+}

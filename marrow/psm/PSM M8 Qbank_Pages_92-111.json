@@ -1,0 +1,530 @@
+{
+  "chapter": "Analytical Epidemiology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "You are conducting a cohort study in a group of headload workers to identify the risk factors for developing low back pain in the future. This type of study falls under which of the following?",
+      "options": {
+        "A": "Experimental analytical studies",
+        "B": "Quasi-experimental analytical studies",
+        "C": "Non-experimental analytical studies",
+        "D": "Interventional analytical studies"
+      },
+      "correct_answer": "C",
+      "explanation": "Cohort studies are a type of non-experimental analytical study, as they observe outcomes without intervening.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the unit of observation in ecological studies?",
+      "options": {
+        "A": "Population",
+        "B": "Patient",
+        "C": "Healthy individuals",
+        "D": "Case"
+      },
+      "correct_answer": "A",
+      "explanation": "In ecological studies, the unit of observation is the population or community. Type of study Unit Ecological/ Correlational Population Cross-sectional/ Prevalence Individual Case-control/ Case reference Individual Cohort/ Follow up Individual Randomised Controlled Trial Patients Field Trial Healthy people. Type of study Unit Community trial Community",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 3,
+      "question": "Identify the type of study from the following design: Exposed (",
+      "options": {
+        "A": "Not exposed (",
+        "B": "Review history. People with disease. Exposed (",
+        "C": "People without disease. Not exposed (",
+        "D": "OMARROW. Begin enquiry here and look backwards. Population. a) Prospective cohort study. b) Retrospective cohort study. c) Case-control study. d) Follow-up study"
+      },
+      "correct_answer": "C",
+      "explanation": "The design given is of a case-control study. It proceeds from effect to cause and is done after the exposure and outcome have occurred. It tries to determine the possible exposure factors after a known disease incidence. This is the first approach to test causal hypotheses and uses controls to support or refute an inference. Retrospective or historical cohort study, on the other hand, tries to compare the risk of developing a disease to some already known exposure factors. Ex: risk of lung cancer in uranium miners, risk of angiosarcoma in persons exposed to polyvinyl chloride etc. Retrospective cohort studies are more economical and quicker than prospective cohort studies.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/q3_img1_d321dfcb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 4,
+      "question": "A study was conducted among a group of 500 patients with lung cancer and another group of 300 people chosen from the general population. Both the groups were questioned about their exposure to smoking. What kind of study is this?",
+      "options": {
+        "A": "Cohort study",
+        "B": "Cross-sectional study",
+        "C": "Correlational study",
+        "D": "Case-control study"
+      },
+      "correct_answer": "D",
+      "explanation": "This is a case-control study. In this scenario, 500 patients constitute the cases and 300 people from the general population constitute the controls. The study is done from effect (lung cancer) to cause (smoking).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 5,
+      "question": "A case-control study was conducted to evaluate the association between lifestyle risk factors and the prevalence of dyslipidemia. Which of the following is not an advantage of this type of study?",
+      "options": {
+        "A": "Incidence can be calculated",
+        "B": "No risk to subjects",
+        "C": "Easy to carry out",
+        "D": "Suitable for rare diseases"
+      },
+      "correct_answer": "A",
+      "explanation": "Incidence cannot be calculated from case-control studies. Incidence can be calculated from cohort studies, also known as longitudinal studies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 6,
+      "question": "A case-control study was conducted to see if symptoms of upper gastrointestinal dysfunction occurred more frequently in patients with Duchenne muscular dystrophy. Which of the following cannot be used as controls in this study?",
+      "options": {
+        "A": "Hospital patients",
+        "B": "Siblings",
+        "C": "General public",
+        "D": "Healthcare workers"
+      },
+      "correct_answer": "B",
+      "explanation": "Siblings cannot be used as controls while studying genetic conditions because the outcome would be distorted due to their similarities. Controls in a case-control study: • Usually disease-free • Can be up to 4 times the number of cases in small studies. • In large studies, a 1:1 ratio of cases and controls can be sought. • Sources: general population, hospitals, relatives (spouses), neighbors, or colleagues. • Although, siblings cannot be used as controls for studies on genetic conditions.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following is not a cause of bias in a case-control study?",
+      "options": {
+        "A": "Recall bias",
+        "B": "Confounding bias",
+        "C": "Hawthorne bias",
+        "D": "Selection bias"
+      },
+      "correct_answer": "C",
+      "explanation": "Hawthorne bias is not seen in case-control studies. This bias occurs when the subjects change their attitude/actions while under observation. This distorts the results of the cohort or experimental studies. The biases that are seen in the case-control study are: Confounding, Recall bias, Selection bias, Berksonian bias, and Interviewer's bias.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is not true about random errors?",
+      "options": {
+        "A": "Sampling errors are random errors",
+        "B": "It cannot be completely eliminated",
+        "C": "It can cause bias",
+        "D": "Systematic errors are different from random errors"
+      },
+      "correct_answer": "C",
+      "explanation": "Random errors are not causes of bias. Random error arises when a value of the sample measurement diverges, due to chance alone, from that of the true population value. They can never be completely eliminated. Sources of random errors are individual biological variations, sampling errors, and measurement errors. Systematic errors are also called biases. They are different from random errors.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following factors in a study will cause Berksonian bias?",
+      "options": {
+        "A": "Interviewer asking leading questions to the subjects",
+        "B": "Different rates of hospital admission of different diseases",
+        "C": "Researcher's belief in the treatment changing the outcome of the study",
+        "D": "Cases that are lost to follow-up"
+      },
+      "correct_answer": "B",
+      "explanation": "Berksonian bias occurs due to the different rates of hospital admission of people with different diseases. It is a type of selection bias termed after Joseph Berkson who described it.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 10,
+      "question": "An epidemiologist plans to conduct a prospective study instead of a retrospective study. Which of the following disadvantages does he aim to eliminate by conducting this study?",
+      "options": {
+        "A": "Recall bias",
+        "B": "Selection bias",
+        "C": "Confounding bias",
+        "D": "Berksonian bias"
+      },
+      "correct_answer": "A",
+      "explanation": "Recall bias can be eliminated in a prospective study. Recall bias is also called memory bias. It is widely seen in retrospective (case-control) studies as extensive history is taken from the participants.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 11,
+      "question": "A study conducted in a group revealed that consumption of alcohol increases the risk of esophageal cancer, but it may be actually due to cigarette smoking. This happens due to:",
+      "options": {
+        "A": "Confounding factor",
+        "B": "Misclassification bias",
+        "C": "Ecological fallacy",
+        "D": "Effect modifier"
+      },
+      "correct_answer": "A",
+      "explanation": "In this scenario, cigarette smoking is related to both the outcome of esophageal cancer and consumption of alcohol. Thus, this is an example of a confounding factor. A confounding factor is defined as one which is associated with both exposure and outcome and is distributed unequally in study and control groups. In this study to determine the role of alcohol in the etiology of esophageal cancer, smoking is considered as a confounding factor because: it is associated with the consumption of alcohol (exposure), and it is an independent risk factor for esophageal cancer (outcome). In these conditions, the effects of alcohol consumption can be determined only if the influence of smoking is neutralized by matching.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is false regarding a confounding factor?",
+      "options": {
+        "A": "It can be reduced by matching",
+        "B": "It is associated individually with both cause and effect",
+        "C": "It is distributed equally in both study and control groups",
+        "D": "It is associated with the exposure of the study"
+      },
+      "correct_answer": "C",
+      "explanation": "A confounding factor is a factor that is associated with both exposure and disease and is distributed unequally in study and control groups. It can be reduced by matching. For example, if the study is that a sedentary lifestyle can lead to coronary artery disease, then age can act as a confounding factor as it is individually linked to both sedentary lifestyle and coronary artery disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 13,
+      "question": "A researcher is planning to conduct a study to investigate the relationship between oral contraceptives and breast cancer. He wants to remove age as a confounding factor. Which of the following methods will not help him reduce this bias?",
+      "options": {
+        "A": "Stratification",
+        "B": "Randomization",
+        "C": "Deletion",
+        "D": "Regression analysis"
+      },
+      "correct_answer": "C",
+      "explanation": "Deletion is not a method to reduce confounding. Methods to reduce confounding are: • At the time of designing the study: • Randomization • Matching • Restriction • At the time of analysis: • Stratification • Statistical modelings like regression analysis, multivariate analysis, and the Cochran-Mantel-Haenszel method.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 14,
+      "question": "Matching is done for which of the following?",
+      "options": {
+        "A": "Known confounding",
+        "B": "Unknown confounding",
+        "C": "Known and unknown confounding",
+        "D": "Sampling errors"
+      },
+      "correct_answer": "C",
+      "explanation": "Matching helps in removing the known confounding factors. Matching is the process by which controls are selected in a way that they are similar to cases in certain pertinent variables (e.g., age) that are known to influence the outcome of the disease. If not adequately matched for comparability, these variables could confound the results.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 15,
+      "question": "Which among the following is not a type of matching?",
+      "options": {
+        "A": "Frequency matching",
+        "B": "Collective matching",
+        "C": "Group matching",
+        "D": "Matching by pairs"
+      },
+      "correct_answer": "B",
+      "explanation": "There is no type of matching called collective matching. Types of matching: • Group matching: It is also called frequency matching. It is done when a large stratum is used for the study and a 1:1 ratio of cases and controls can be achieved. • Individual matching: It is also called matching by pairs. It can be done when the study is small and more controls can be selected for one case.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 16,
+      "question": "An epidemiologist determines to evaluate the strength of association between asbestos exposure and mesothelioma in a case-control study. Which of the following variables would he use for it?",
+      "options": {
+        "A": "Absolute risk ratio",
+        "B": "Relative risk",
+        "C": "Attributable risk",
+        "D": "Odds ratio"
+      },
+      "correct_answer": "D",
+      "explanation": "Odds ratio (OR), also known as cross-product ratio, is used to measure the strength of association between risk factor (asbestos exposure) and outcome (mesothelioma) in case-control studies. A case-control study yields only odds ratio and not incidence or relative risk.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following statements is false about the odds ratio?",
+      "options": {
+        "A": "OR = 1 indicates positive association",
+        "B": "It is obtained from case-control studies",
+        "C": "OR < 1 indicates possible protection",
+        "D": "It is a measure of strength of association"
+      },
+      "correct_answer": "A",
+      "explanation": "An odds ratio (OR) of 1 indicates that there is no association or that the event is likely in both the groups.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 18,
+      "question": "A case-control study was done among 500 lung cancer patients and 400 controls. The study groups had 400 and 50 smokers respectively. Calculate the odds ratio.",
+      "options": {
+        "A": "2.8",
+        "B": "0.2896",
+        "C": "0.20",
+        "D": "28"
+      },
+      "correct_answer": "D",
+      "explanation": "In the given scenario, the odds ratio (OR) is 28. The given data is represented as: Odds Ratio = ad/bc = (400 x 350) / (50 x 100) = (4 x 35)/5 = 4 × 7 = 28. Disease + 400 (a) 50 (b) Exposure + 400 (a) 100 (c) 350 (d) -",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 19,
+      "question": "A research scholar is preparing to do a prospective cohort study in a hospital to evaluate the association of H. pylori with inflammatory bowel disease. Which of the following measures must she take, before starting the study?",
+      "options": {
+        "A": "Enroll all patients taking proton pump inhibitors",
+        "B": "Enroll all patients on whom endoscopy was done",
+        "C": "Exclude all patients diagnosed with inflammatory bowel disease",
+        "D": "Exclude all patients with a positive urea breath test for H. pylori"
+      },
+      "correct_answer": "C",
+      "explanation": "All patients diagnosed with inflammatory bowel disease (IBD) must be excluded from a prospective cohort study, as the study progresses from cause to effect. The study begins before the disease under study has occurred.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is not true about a cohort study?",
+      "options": {
+        "A": "Incidence can be calculated",
+        "B": "It is always a prospective study design",
+        "C": "Attrition is very common",
+        "D": "Outcome is not present at the start of the study"
+      },
+      "correct_answer": "B",
+      "explanation": "Although cohort studies are called prospective studies, there are subtypes of cohort studies that do not follow the prospective study design, like historical (retrospective) cohort studies. The Framingham Heart Study is one of the most famous long-term cardiovascular prospective cohort studies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 21,
+      "question": "Hawthorne effect is seen in which of the following studies?",
+      "options": {
+        "A": "Case-control studies",
+        "B": "Retrospective studies",
+        "C": "Cohort studies",
+        "D": "Cross-sectional studies"
+      },
+      "correct_answer": "B",
+      "explanation": "Hawthorne effect is seen in cohort studies. It refers to the phenomenon when study subjects change or alter their behaviour during the course of the study, which results in different outcomes and underestimation of risks.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 22,
+      "question": "What is the ratio of the incidence of the disease in the exposed to that of the non-exposed?",
+      "options": {
+        "A": "Attributable risk",
+        "B": "Odds ratio",
+        "C": "Relative risk",
+        "D": "Population attributable risk"
+      },
+      "correct_answer": "C",
+      "explanation": "The ratio of incidence of disease or death among exposed to that among the non-exposed is called relative risk (RR).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 23,
+      "question": "Calculate the risk ratio when the incidence of the disease in exposed is 30 and that in non-exposed is 5.",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "0.6",
+        "D": "0.5"
+      },
+      "correct_answer": "A",
+      "explanation": "In the given scenario, risk ratio or relative risk (RR) is 6. Here, the incidence of disease in the exposed is 30 and that in the non-exposed is 5. Thus, RR = 30/5 = 6.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 24,
+      "question": "A cohort study was conducted among 10,000 smokers and 10,000 non-smokers. They were followed up over a period of 20 years. It was found that 100 of the smokers and 10 of the non-smokers developed oral squamous cell carcinoma. Calculate the relative risk.",
+      "options": {
+        "A": "0.1",
+        "B": "0.001",
+        "C": "1",
+        "D": "10"
+      },
+      "correct_answer": "D",
+      "explanation": "The relative risk in the given scenario is 10. Here, the incidence in exposed is 0.01 (100/10000). Incidence in non-exposed is 0.001 (10/10000). Relative Risk = Incidence in exposed / Incidence in non-exposed = 0.01/0.001 = 10.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 25,
+      "question": "While testing the deleterious health hazards on a group of people after giving a new drug and a placebo, the following results were obtained as tabulated. Based on these results, which of the following is true?",
+      "options": {
+        "A": "Absolute risk reduction (ARR) is 1% and relative risk reduction (RRR) is 0.1",
+        "B": "Absolute risk reduction (ARR) is 10% and relative risk reduction (RRR) is 0.9",
+        "C": "Absolute risk reduction (ARR) is 1% and relative risk reduction (RRR) is 10",
+        "D": "Absolute risk reduction (ARR) is 10% and relative risk reduction (RRR) is 9"
+      },
+      "correct_answer": "A",
+      "explanation": "In the given scenario, absolute risk reduction (ARR) is 1% and relative risk reduction (RRR) is 0.1. Let us reconstruct the design table in the following way: Relative risk (RR) is given as a/(a+b) ÷ c/(c+d). RR = 1603/15225 ÷ 1804/15225 = 0.106/0.118 = 0.89, or 0.90. Relative risk reduction (RRR) = 1 - Relative risk. In this scenario, RRR = 1 − 0.9 = 0.1 or 10%. Incidence of a disease is the absolute risk of contracting it. Absolute risk rate of the group using the new drug = a/(a+b) = 1603/15225 = 0.106 or 10.6%, or 11%. Absolute risk rate of the group using a placebo = c/(c+d) = 1804/15225 = 0.118 or 11.8%, or 12%. Absolute risk reduction (ARR) is the difference in the absolute risk rates between the placebo and the drug. In this scenario, ARR = 12% - 11% = 1%. Health hazard(+) Health hazard(-) Total New 1603 (a) 13622 (b) 15225 (a drug+b) Placebo 1804 (c) 13421 (d) 15225 (c+d)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 26,
+      "question": "The difference between the incidence of disease among exposed and incidence among non-exposed is given by which of the following variables?",
+      "options": {
+        "A": "Relative risk",
+        "B": "Attributable risk",
+        "C": "Population Attributable risk",
+        "D": "Odds Ratio"
+      },
+      "correct_answer": "B",
+      "explanation": "The difference between the incidence of disease among exposed and incidence among non-exposed is given by attributable risk. Attributable risk is often expressed as a percentage. The incidence of disease rate among exposed minus the incidence of disease rate among non-exposed is attributable risk = (AR) x 100, incidence of disease rate among exposed.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp26_img1_865f57b1.jpeg",
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 27,
+      "question": "A study conducted among smokers shows that 80% of the cases of lung cancer are due to cigarette smoking. Which of the following variables indicates this?",
+      "options": {
+        "A": "Risk ratio",
+        "B": "Relative risk",
+        "C": "Attributable risk",
+        "D": "Population attributable risk"
+      },
+      "correct_answer": "C",
+      "explanation": "Attributable risk indicates to what extent the disease under study can be attributed to the exposure. Here, cigarette smoking is attributed to be the cause of 80% of lung cancers in smokers.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 28,
+      "question": "A study found that the incidence of bladder carcinoma is 5 times higher in smokers than in non-smokers. Calculate the attributable risk.",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "60%",
+        "D": "80%"
+      },
+      "correct_answer": "D",
+      "explanation": "In the given scenario, the attributable risk (AR) is 80%. The incidence of disease rate among exposed - the incidence of disease rate among non-exposed. Attributable risk (AR) = (Incidence of disease rate among exposed - Incidence of disease rate among non-exposed) / Incidence of disease rate among exposed * 100. Taking the incidence of disease in non-exposed as x, the incidence of disease in exposed would be 5x. Attributable risk (AR) would be given as [(5x-x)/5x] * 100 = 80%.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp28_img1_66b00a2c.jpeg",
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 29,
+      "question": "In a population of 9,000 people, 2,100 are alcoholics. 70 alcoholics and 23 non-alcoholics developed cirrhosis. What is the attributable risk?",
+      "options": {
+        "A": "40%",
+        "B": "60%",
+        "C": "70%",
+        "D": "90%"
+      },
+      "correct_answer": "D",
+      "explanation": "In the given scenario, the attributable risk (AR) is 90%. Number of people exposed (to alcohol) = 2,100. Number of people not exposed (to alcohol) = 6,900. Incidence of cirrhosis among exposed = 70/2,100 (IExposed). Incidence of cirrhosis among non-exposed = 23/6,900 (INon-exposed). Attributable risk (AR) = [(IExposed - INon-exposed) / IExposed] * 100 = [(70/2,100 - 23/6,900) / (70/2,100)] * 100 = [9/10] * 100 = 90. Thus, the attributable risk (AR) is 90%.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 30,
+      "question": "Which of the following is the numerator in the formula for population-attributable risk?",
+      "options": {
+        "A": "Incidence among exposed minus incidence among non-exposed",
+        "B": "Incidence among non-exposed minus incidence among exposed",
+        "C": "Incidence in the total population minus incidence among non-exposed",
+        "D": "Incidence in the total population minus incidence among exposed"
+      },
+      "correct_answer": "C",
+      "explanation": "Incidence in the total population minus incidence among non-exposed is the numerator in population-attributable risk (PAR). Population-attributable risk (PAR) = Incidence of disease in total population - Incidence of disease in non-exposed. Population-attributable risk (PAR) × 100 / Incidence of disease in total population. Population-attributable risk is obtained from cohort studies. It provides an estimate of the amount by which the disease could be reduced in that population if the suspected factor was eliminated or modified.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp30_img1_37d134b2.jpeg",
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 31,
+      "question": "A study was done in the Indian population to correlate the deaths due to myocardial infarction and dietary practices. What is this type of study known as?",
+      "options": {
+        "A": "Cohort study",
+        "B": "Case-control study",
+        "C": "Ecological study",
+        "D": "Experimental study"
+      },
+      "correct_answer": "C",
+      "explanation": "This is an example of an ecological study. As the study was done in the Indian population, it can be inferred that the population was taken as the unit of the study. The study was done to correlate the deaths and dietary practices, and hence ecological studies are also called correlational studies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 32,
+      "question": "Which among the following is the weakest study design to prove causation?",
+      "options": {
+        "A": "Cohort study",
+        "B": "Case control study",
+        "C": "Randomized control trials",
+        "D": "Ecological study"
+      },
+      "correct_answer": "D",
+      "explanation": "Ecological studies take a population as a unit. They provide the weakest evidence for causality because of extrapolation to individuals from regional data. Randomized control trials (RCTs) provide the strongest design amongst the options given. Case-control and cohort studies have moderate ability to provide evidence for causality. Ranking of studies based on evidence: Highest - Meta-analysis, Systematic review, Randomised control trial, Cohort study, Control study, Case series/Case reports, Animal research, Lowest.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsm/exp32_img1_8b9cf3a0.jpeg",
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 33,
+      "question": "What kind of bias is implied by assigning group characteristics to people which they may not possess as individuals?",
+      "options": {
+        "A": "Ecological fallacy",
+        "B": "Hawthorne effect",
+        "C": "Berkesonian bias",
+        "D": "Attrition"
+      },
+      "correct_answer": "A",
+      "explanation": "An ecological fallacy results when characteristics of the group are assigned inappropriately to individuals.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed Explanations Cohort studies fall under non-experimental (observational) analytical studies. Classification of epidemiological studies: • Observational studies: allow nature to take its own course, the investigator measures but does not intervene. It is further classified into: • Descriptive studies: limited to describing the occurrence of a disease in a population. • Analytical studies: go further by analyzing the relationship between health status and other variables. It includes: • Ecological studies • Cross-sectional studies • Case-control studies • Cohort studies • Experimental studies or interventional studies: it involves an active attempt to change a disease determinant or the progress of a disease, and is similar in design to experiments in other sciences. • Randomized controlled trials • Field trials • Community trials Solution to Question 2: In ecological studies, the unit of observation is the population or community. Type of study Unit Ecological/ Correlational Population Cross-sectional/ Prevalence Individual Case-control/ Case reference Individual Cohort/ Follow up Individual Randomised Controlled Trials Patients Field Trial Healthy people Type of study Unit Community trial Community Solution to Question 3: The design given is of a case-control study. It proceeds from effect to cause and is done after the exposure and outcome have occurred. It tries to determine the possible exposure factors after a known disease incidence. This is the first approach to test causal hypotheses and uses controls to support or refute an inference. Retrospective or historical cohort study, on the other hand, tries to compare the risk of developing a disease to some already known exposure factors. Ex: risk of lung cancer in uranium miners, risk of angiosarcoma in persons exposed to polyvinyl chloride etc. Retrospective cohort studies are more economical and quicker than prospective cohort studies. Solution to Question 4: This is a case-control study. In this scenario, 500 patients constitute the cases and 300 people from the general population constitute the controls. The study is done from effect (lung cancer) to cause (smoking). Solution to Question 5: Incidence cannot be calculated from case-control studies. Incidence can be calculated from cohort studies, also known as longitudinal studies. Solution to Question 6: Siblings cannot be used as controls while studying genetic conditions because the outcome would be distorted due to their similarities. Controls in a case-control study: • Usually disease-free • Can be up to 4 times the number of cases in small studies. • In large studies, a 1:1 ratio of cases and controls can be sought • Sources: general population, hospitals, relatives (spouses and siblings), neighbors, or colleagues • Although, siblings cannot be used as controls for studies on genetic conditions Solution to Question 7: Hawthorne bias is not seen in case-control studies. This bias occurs when the subjects change their attitude/ actions while under observation. This distorts the results of the cohort or experimental studies. The biases that are seen in the case-control study are: • Confounding • Recall bias • Selection bias • Berkesonian bias • Interviewer's bias Solution to Question 8: Random errors are not causes of bias. Random error arises when a value of the sample measurement diverges, due to chance alone, from that of the true population value. They can never be completely eliminated. Sources of random errors are individual biological variations, sampling errors, and measurement errors. Systematic errors are also called biases. They are different from random errors. Solution to Question 9: Berkesonian bias occurs due to the different rates of hospital admission of people with different diseases. It is a type of selection bias termed after Joseph Berkeson who described it. Solution to Question 10: Recall bias can be eliminated in a prospective study. Recall bias is also called memory bias. It is widely seen in retrospective (case-control) studies as extensive history is taken from the participants. Solution to Question 11: In this scenario, cigarette smoking is related to both the outcome of esophageal cancer and consumption of alcohol. Thus, this is an example of a confounding factor. A confounding factor is defined as one which is associated with both exposure and outcome and is distributed unequally in study and control groups. In this study to determine the role of alcohol in the etiology of esophageal cancer, smoking is considered as a confounding factor because: • It is associated with the consumption of alcohol (exposure). • It is an independent risk factor for oesophageal cancer (outcome). In these conditions, the effects of alcohol consumption can be determined only if the influence of smoking is neutralized by matching. Solution to Question 12: A confounding factor is a factor that is associated with both exposure and diseases and is distributed unequally in study and control groups. It can be reduced by matching. For example, if the study is that a sedentary lifestyle can lead to coronary artery diseases, then age can act as a confounding factor as it is individually linked to both sedentary lifestyle and coronary artery diseases. Solution to Question 13: Deletion is not a method to reduce confounding. Methods to reduce confounding are: • At the time of designing the study: • Randomization • Matching • Restriction • At the time of analysis: • Stratification • Statistical modelings like regression analysis, multivariate analysis, and the Cochran-Mantel-Haenszel method. Solution to Question 14: Matching helps only in removing the known confounding factors. Matching is the process by which controls are selected in a way that they are similar to cases in certain pertinent variables (e.g., age) that are known to influence the outcome of the disease. If not adequately matched for comparability, these variables could confound the results. Solution to Question 15: There is no type of matching called collective matching. Types of matching: • Group matching: It is also called frequency matching. It is done when a large stratum is used for study and a 1:1 ratio of cases and controls can be achieved. • Individual matching: It is also called matching by pairs. It can be done when the study is small and more controls can be selected for one case. Solution to Question 16: Odds ratio (OR), also known as cross-product ratio, is used to measure the strength of association between risk factor (asbestos exposure) and outcome (mesothelioma).",
+      "options": {
+        "A": "in case-control studies. A case-control study yields only odds ratio and not incidence or relative risk. Solution to Question 17: An odds ratio (OR) of 1 indicates that there is no association or that the event is likely in both the groups. Solution to Question 18: In the given scenario, the odds ratio (OR) is 28. The given data is represented as: Odds Ratio = ad/bc = (400 x 350) / (50 x 100) = (4 x 35)/5 = 4 × 7 = 28 Disease Disease + 400 (a) 50 (b) Exposure 400 (a) + 106 Disease Disease + Exposure 100 (c) 350 (d)",
+        "B": "Exposure 400 (a) e + 106 Disease Disease + Exposure 100 (b)",
+        "C": "350 (d)",
+        "D": "e - Solution to"
+      },
+      "correct_answer": "A",
+      "explanation": "Odds ratio is used to measure the strength of association between risk factor and outcome in case-control studies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    },
+    {
+      "q_no": 19,
+      "question": "All patients diagnosed with inflammatory bowel disease (IBD) must be excluded from a prospective cohort study, as the study progresses from cause to effect. The study begins before the disease under study has occurred.",
+      "options": {
+        "A": "13622",
+        "B": "15225",
+        "C": "13421",
+        "D": "15225"
+      },
+      "correct_answer": "B",
+      "explanation": "Although cohort studies are called prospective studies, there are subtypes of cohort studies that do not follow the prospective study design, like historical (retrospective) cohort studies. The Framingham Heart Study is one of the most famous long-term cardiovascular prospective cohort studies.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Analytical Epidemiology"
+    }
+  ]
+}
