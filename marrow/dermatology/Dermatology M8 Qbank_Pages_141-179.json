@@ -1,0 +1,455 @@
+{
+  "chapter": "Disorders of Skin Pigmentation",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not responsible for the color of human skin?",
+      "options": {
+        "A": "Amount of melanin inside melanocytes",
+        "B": "Number of melanocytes",
+        "C": "Number and size of melanosomes",
+        "D": "Degree of transfer of melanin into keratinocytes"
+      },
+      "correct_answer": "B",
+      "explanation": "The number of melanocytes is generally the same in all humans, regardless of skin color; therefore, it is not responsible for the color of human skin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the ratio of the epidermal melanin unit?",
+      "options": {
+        "A": "28 keratinocytes: 1 melanocyte",
+        "B": "36 keratinocytes: 2 melanocytes",
+        "C": "28 keratinocytes: 2 melanocytes",
+        "D": "36 keratinocytes: 1 melanocyte"
+      },
+      "correct_answer": "D",
+      "explanation": "The ratio of the epidermal melanin unit is 36 keratinocytes: 1 melanocyte. The color of the skin is due to the pigment melanin synthesized by melanocytes. Melanocytes are dendritic cells derived from neural crest cells and are present in the epidermis' stratum basale. Each melanocyte synthesizes melanin and packs it in cell organelles to form melanosomes. These melanosomes are transferred through dendritic processes to 36 keratinocytes forming the 'epidermal melanin' unit.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is not true regarding piebaldism?",
+      "options": {
+        "A": "Autosomal dominant inheritance",
+        "B": "Well-defined hypopigmented macules are seen",
+        "C": "White forelock is rare",
+        "D": "Small spots of hyperpigmentation can also be seen"
+      },
+      "correct_answer": "C",
+      "explanation": "White forelock is quite common in piebaldism. Piebaldism is an autosomal dominant benign condition. Mutations are in the c-KIT gene. Well-defined irregular hypopigmented macules with an absence of melanocytes are seen. Leucotrichia is associated with the depigmented macules. Small spots of hyperpigmentation are also seen within hypopigmented patches or on normal skin. It is often associated with a V-shaped leucoderma on the mid-forehead. Epidermal cell or skin grafting is the treatment. Piebaldism can be distinguished from vitiligo because of the neonatal presence of white patches.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp3_img1_c174848e.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 4,
+      "question": "A child with sensorineural hearing loss is brought to the OPD with the following skinfindings. What is the most likely diagnosis?141",
+      "options": {
+        "A": "Waardenburg syndrome",
+        "B": "Hermansky-Pudlak syndrome",
+        "C": "Chediak-Higashi syndrome",
+        "D": "Oculocutaneous albinism"
+      },
+      "correct_answer": "",
+      "explanation": "The child has skin findings suggestive of piebaldism, which along with sensorineural deafnesspoint towards Waardenburg syndrome.It is an autosomal dominant disorder that is characterized by:• White forelockHypopigmented patches•Heterochromia iridis• Sensorineural deafness.The image below shows clinical associations of the Waardenburg syndrome.ACB159Option B: Hermansky-Pudlak syndrome is a rare type of oculocutaneous albinism associated witha hemorrhagic diathesis. The disease results from abnormal biogenesis of lysosome-relatedorganelles with impaired melanosome maturation and absent dense bodies in thrombocytes.Option C: Chédiak-Higashi syndrome is a rare autosomal recessive disorder characterized byhypopigmentation of the skin and eye, immunodeficiency, and possibly neurological symptoms.Option D: Oculocutaneous albinism (OCA) is a rare autosomal recessive genetic disordercharacterized by generalized depigmentation of the skin, hair, and eye caused by a deficiency inmelanin biosynthesis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q4_img1_4e136bae.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp4_img1_e7c38ec6.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient presented with hypopigmentation of the skin and iris. Peripheral smear done isshown below. Which of the following is false regarding this condition?no",
+      "options": {
+        "A": "Autosomal recessive33142",
+        "B": "Neurological abnormalities",
+        "C": "Pyogenic infections",
+        "D": "Gain-of-function mutation of LYST"
+      },
+      "correct_answer": "",
+      "explanation": "The peripheral smear shows giant inclusions in polymorphonuclear neutrophils, which along withoculocutaneous albinism is suggestive of Chediak-Higashi syndrome.It is an autosomal recessive disorder due to loss-of-function mutation of the LYST gene encoding aprotein known as lysosomal trafficking regulator.Clinical features occur due to defective transport of cell products. These include:•Significant pyogenic infections• Albinism (due to abnormalities of melanocytes)• Neurological abnormalities• Progressive intellectual decline•Cranial nerve palsies• Decreased deep tendon reflexes• Tremor• Abnormal gait (nerve cell dysfunction),• Bleeding (due to platelet dysfunction).Peroxidase positive giant inclusions are seen in leukocytes. The only curative treatment availablefor Chédiak-Higashi syndrome is bone marrow transplantation.160Abnormal neutrophils in Chediak-HigashiBsyndromeOMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q5_img1_5eb81821.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp5_img1_f75be2fe.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 6,
+      "question": "The pediatrician refers the child shown below for dermatology and ophthalmology opinions.Oculocutaneous albinism is suspected. Which of the following is false regarding thiscondition?[Image unavailable]",
+      "options": {
+        "A": "Tryptophan deficiency",
+        "B": "Photophobia present",
+        "C": "Autosomal recessive",
+        "D": "Melanocytes are normal"
+      },
+      "correct_answer": "A",
+      "explanation": "Oculocutaneous albinism is not due to tryptophan deficiency but is due to tyrosinase deficiency.It is a rare autosomal recessive disorder characterized by generalized depigmentation of the skin,hair, and eye. Ophthalmological anomalies are also noted. It is caused by a deficiency in melaninbiosynthesis, but melanocytes are normally present and distributed.It is caused by mutations in TYR, encoding the tyrosinase gene.Significant photophobia may be present. Iris translucency is demonstrable by slit-lampexamination.Sun protection is mandatory to avoid skin sunburns and skin cancers with a special emphasis onpatients living in high UV risk environments. Early referral to an ophthalmologist is mandatory.Dark glasses are important to protect the eyes and prevent photophobia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the pathological basis for the given skin finding?",
+      "options": {
+        "A": "Lack of melanin",
+        "B": "Loss of melanocytes",
+        "C": "Loss of melanosomes",
+        "D": "Melanocyte senescence143"
+      },
+      "correct_answer": "",
+      "explanation": "The image is suggestive of vitiligo. The pathological basis of vitiligo is the loss of melanocytes.Vitiligo is a common form of localized depigmentation. It is characterized by milky white sharplydemarcated macules. It is an acquired condition resulting from the autoimmune destruction ofdopa-positive melanocytes in the basal layer of the epidermis.Vitiligo can begin at any age but in the majority of cases becomes apparent in the thirddecade. The prevalence is most probably the same in both sexes or a slight female preponderance.Electron microscopy studies confirm the loss of melanocytes. Wood's lamp examinationshows milky-white fluorescence.161Koebner phenomenon defined as the development of lesions at sites of trauma to uninvolved skinof patients with cutaneous diseases is a well known phenomenon in vitiligo.VitiligoMilky white inflorescence of vitiligounder wood's lamp",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q7_img1_fa50838c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp7_img1_890274f9.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 8,
+      "question": "A lady comes to the clinic with the given findings. Which disease has the strongest association with this condition?",
+      "options": {
+        "A": "Thyroid disorders",
+        "B": "Pernicious anemia",
+        "C": "Diabetes type 1",
+        "D": "Addison's disease"
+      },
+      "correct_answer": "A",
+      "explanation": "The patient has vitiligo. Amongst autoimmune diseases, the strongest association of vitiligo is with thyroid disorders (hyperthyroidism and hypothyroidism). Other disorders associated with vitiligo are: Pernicious anemia, Addison's disease, Diabetes type I, Myasthenia gravis, Alopecia areata, Uveitis, Chronic mucocutaneous candidiasis, Autoimmune polyendocrine syndromes (types I and II)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q8_img1_794e7bbb.png",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 9,
+      "question": "A 22-year-old college student presented to the OPD with hypopigmentation on his face. Thelesions have been stable for the past year. Wood's lamp examination showed milky whitefluorescence. Which of the following would you not offer as a treatment option for hiscondition?",
+      "options": {
+        "A": "Topical steroids",
+        "B": "Tacrolimus",
+        "C": "Cyclosporine",
+        "D": "Surgical grafting"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical scenario suggests a diagnosis of vitiligo. Cyclosporine is not a treatment option forvitiligo. There is not enough evidence of its benefits and more potential side effects.Treatment options for vitiligo:• Topical agents:• Topical corticosteroids• Calcineurin inhibitors - tacrolimus• Vitamin D analogs - calcitriol•Systemic agents:•Corticosteroids• Azathioprine•Phototherapy:• PUVA• PUVASol - sunlight• NBUVB - narrow band UV B radiation at 311nm• Targeted phototherapy using excimer laser 308nm••Surgical treatment:• Ultrathin partial thickness skin grafting•Non-cultured autologous melanocytic transfer• Cultured autologous melanocytic transferNote: Surgical treatment is usually reserved for patients with stable (a period of disease inactivityranging from six months to two years) vitiligo who failed to respond to non-surgical treatment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 10,
+      "question": "144Which of the following is not a mechanism of action of the therapeutic modality shownbelow?",
+      "options": {
+        "A": "Cross linking of DNA by psoralen",
+        "B": "Langerhans cell depletion",
+        "C": "Activation of T lymphocytes",
+        "D": "Stimulation of melanogenesis"
+      },
+      "correct_answer": "C",
+      "explanation": "The image shows photochemotherapy (PUVA therapy), used for the treatment of vitiligo. It causessuppression of T lymphocyte action.The UVA spectrum is 320-400 nm. When it is used in combination with an oral ortopical psoralen photosensitizer, it is known as PUVA therapy. The most frequently-used oral163psoralens are 8 methoxy psoralen (8 MOP) and 5 methoxy psoralen (5 MOP).The mechanisms of action of PUVA:•••Inhibition of DNA replication - DNA cross linking by psoralen photoadductsLangerhans cell depletion• Immunosuppressive effects on T■lymphocyte function• Stimulation of melanogenesis•Migration and the restoration of Th17/regulatory T-cell imbalance in psoriasisIndications of PUVA therapy:• Psoriasis• Atopic eczema•Vitiligo•Polymorphic light eruption•Cutaneous T cell lymphomaThe UVB part of the spectrum is 280-320 nm. Lamps utilizing the 311-313 nm frequencies arecalled narrow band UV (NBUVB). UVB phototherapy has anti■inflammatory,immunosuppressive, and cytotoxic properties.Vitiligo may respond both to NB UVB and PUVA. NBUVB is more effective than PUVA but theresponse is variable and treatment usually has to be prolonged, often over many months to a yearor more.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q10_img1_5a3ef2d6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following cases of vitiligo are likely to have a poor prognosis?",
+      "options": {
+        "A": "1, 3, and 5",
+        "B": "1, 2, and 4",
+        "C": "3, 4, and 5",
+        "D": "1, 2, and 5"
+      },
+      "correct_answer": "",
+      "explanation": "Poor prognostic factors for vitiligo:• Positive family history (patient 2)•Mucosal vitiligo (patient 1)•Lesions over bony prominences•Isomorphic Koebner's phenomenon (patient 5)• Non-segmental vitiligoLeucotrichia, longer duration, and higher age at onset do not correlate significantly withprogression.Non-segmental vitiligo is characterized by a bilateral and symmetrical distribution of depigmentedmacules.Segmental vitiligo is characterized by macules in a linear or flag-like pattern of mosaicism with adermatomal distribution.164",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 12,
+      "question": "A child is brought to the OPD with the following skin finding. Which of the followingstatements is incorrect regarding this condition?145",
+      "options": {
+        "A": "Eye and skeletal defects are seen",
+        "B": "Epilepsy can occur",
+        "C": "Mental retardation is present",
+        "D": "Lesions corresponds to Langer lines"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shows cutaneous macular hypopigmented whorls, streaks, and patches, correspondingto the lines of Blaschko, suggestive of hypomelanosis of Ito.It is a rare neuroectodermal disorder of pigmentation. It is associated with epilepsy and mentalretardation. Extracutaneous findings include neurological, ophthalmological, and skeletal defects.Hypomelanosis of Ito",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q12_img1_7d743483.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp12_img1_7d1687c5.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 13,
+      "question": "A girl was brought to the clinic by her parents for treatment of alopecia. They gave a historyof erythematous vesicular rashes that evolved into verrucous growths a few months afterbirth. The lesions gradually resolved and left linear pigmentation as shown below. Onexamination, dental dystrophy was also noted. What is the inheritance pattern of thiscondition?146",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked recessive",
+        "D": "X-linked dominant"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of incontinentia pigmenti. It is a rare X-linked dominantdisorder with multisystemic ectodermal dysplasia that is usually lethal in males and presents infemales with skin lesions, teeth abnormalities, alopecia, nail dystrophy, and ocular andneurological findings.The skin lesions evolve through the following characteristic stages:• Vesicular• Verrucous stage.Hyperpigmented streaks and whorls• Linear hypopigmentation165Incontinentia PigmentiStage 1Vesiculobullous stage,frequently wrongly diagnosedas bullous impetigoStage 2Verrucous stageStage 3Pigmentation, with an obviouslinear patternfollowing Blaschko's linesStage 4Hypopigmented stage withOMARROWhair loss",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q13_img1_4ba2e4f4.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp13_img1_ba3dfc23.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 14,
+      "question": "In a 6-year-old boy who presented with black stools, the following finding was noted.Endoscopy showed multiple polyps in the GI tract. Which of the following is false about thiscondition?",
+      "options": {
+        "A": "Autosomal dominant condition",
+        "B": "Patients need to undergo lifelong screening",
+        "C": "Malignant transformation of polyps is common",
+        "D": "Due to mutation of STK11 gene"
+      },
+      "correct_answer": "C",
+      "explanation": "The presence of multiple polyps in the GI tract along with lentigines on the lips is suggestiveof Peutz-Jeghers-Touraine syndrome. Malignant transformation of hamartomatous polyps is rare.It is an autosomal dominant disease. It is due to the mutation of the serine/threonine kinase gene(STK11).Typical cutaneous features include lentigines of the lips (early feature). Associated melanocyticmacules of buccal mucosa and digits are common. Hamartomatous polyps are present mainly inthe jejunum but can occur throughout the GI tract.Patients require lifelong screening as they are at high risk for carcinomas of the breast, ovary,colon, and stomach.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q14_img1_775c5c34.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 15,
+      "question": "All of the following drugs can cause hyperpigmentation in patients except:",
+      "options": {
+        "A": "Amiodarone",
+        "B": "Chloroquine",
+        "C": "Minocycline147",
+        "D": "Beta-blockers"
+      },
+      "correct_answer": "D",
+      "explanation": "Beta-blockers do not cause hyperpigmentation.Drugs causing hypermelanosis:⚫ Amiodarone•• Tetracyclines⚫ Chloroquine• Clofazimine•Phenytoin•Cytotoxic drugs like busulfan, cyclophosphamide, bleomycin, etc.• Psychotropic drugs (e.g., trifluoperazine, imipramine)166",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient with fever and joint pain developed pigmentation on the nose after a few days oftaking NSAIDs as shown below. What is the diagnosis?",
+      "options": {
+        "A": "Melasma",
+        "B": "Fixed drug eruption",
+        "C": "Lichen planus",
+        "D": "Chikungunya"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical history of fever and joint pain and the image showing hyperpigmented maculeson nose (chik sign) is suggestive of Chikungunya.Post-chikungunya pigmentation (PCP) most commonly affects the nose and cheeks. It oftenappears as the fever subsides and may persist for about 3-6 months.PCP mimics melasma and may be misdiagnosed if proper history is not taken.Another close differential is fixed drug eruptions (FDE). FDE is a type of delayed hypersensitivityreaction. It is characterized by well-defined brown, hyperpigmented plaques that may followvesiculobullous lesions. They occur on lips, hands, legs, face, genitalia, and oral mucosa, and cancause a burning sensation.They usually present 30 min to 8 h after drug exposure and recur at thesame location on re-exposure. NSAIDs, Paracetamol and Co■trimoxazole are the most commondrugs causing FDE.The image below shows FDE on upper lip area:",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q16_img1_160c7c7f.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp16_img1_b457686c.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 17,
+      "question": "A 40-year-old man presents with the given rash after he had taken NSAIDs for his knee pain.He reported that he developed the same rash in the same location 6 months ago when he tookthe same drugs for back pain. What is the most likely diagnosis?148",
+      "options": {
+        "A": "Drug hypersensitivity",
+        "B": "Postinflammatory hyperpigmentation",
+        "C": "Fixed drug eruption",
+        "D": "Drug-induced hypermelanosis"
+      },
+      "correct_answer": "",
+      "explanation": "The recurrence of hyperpigmentation occurring at the same site with the use of the same drug ischaracteristic of fixed drug eruption.Fixed drug eruption is one of the most common drug-induced exanthems. The acute erythematousand bullous stages of fixed eruption characteristically settle leaving residual slate-brownhyperpigmentation, especially in those with darker skin types. The genitalia and perianal area areoften affected.Option A: Drug hypersensitivity is an immune-mediated reaction to a drug of which symptomsranging from mild to severe include rash, anaphylaxis, and serum sickness.167Option B: Postinflammatory hyperpigmentation (PIH) is an acquired hypermelanosis occurringafter cutaneous inflammation or injury e.g., acne vulgaris, atopic dermatitis, and impetigo.Option D: Drug-induced hypermelanosis is localized or generalized hyperpigmentation that can becaused by a wide range of medications and chemicals. eg. busulphan. It doesn't necessarily occurat the same site with the reintroduction of drugs.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q17_img1_9c12a3e1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 18,
+      "question": "A lady developed hypopigmentation on her forehead as shown below. Which of the followingchemicals is responsible for this condition?",
+      "options": {
+        "A": "Mono-benzyl ether of hydroquinone149",
+        "B": "Crocein scarlet MOO and solvent yellow 3.",
+        "C": "p-phenylenediamine",
+        "D": "Para-tertiary butylphenol"
+      },
+      "correct_answer": "C",
+      "explanation": "The lady has bindi leukoderma, which is caused by para-tertiary butyl-phenol (PTBP). It is presentin adhesive sticker bindi.This is called contact leukoderma or chemical leukoderma in which the chemical increasessensitivity and induces apoptosis of the melanocytes in the area of contact.There is also evidence that azo dyes, by virtue of structural similarity to tyrosine, can directlyinhibit melanogenesis by competing with that amino acid for binding with the tyrosinase enzyme.The image below shows synthetic leather-/rubber-related leucoderma.Chemical leukodermaBindi leukodermaSynthetic leather, rubber slippers, latex condoms, rubberglovesHair dyeAlta (red color like henna)Causative chemicalsPara-tertiary butyl-phenol (PTBP)Mono-benzyl ether of Hydroquinone (MBH)-Rubber antioxidantp-Phenylenediamine (PPD)Crocein scarlet MOO and solvent yellow 3 (azo dyes)The image below shows Alta depigmentation.168The image below shows hair dye depigmentation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q18_img1_c3565220.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp18_img1_93f4fa85.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 19,
+      "question": "During your dermatology posting, you see a case of naevus of Ota in the clinic. Which of thefollowing is false about this condition?",
+      "options": {
+        "A": "It mostly appears at birth or early childhood",
+        "B": "It is distributed along trigeminal nerve",
+        "C": "Bluish patchy dermal melanocytosis",
+        "D": "It is commonly seen in males"
+      },
+      "correct_answer": "D",
+      "explanation": "Naevus of Ota is more commonly seen in females.It is an extensive, bluish, patchy, dermal melanocytosis. A large number of elongated dendriticmelanocytes can be seen scattered among collagen bundles mainly of the superficial dermis.It affects the sclera and the skin adjacent to the eye. It is distributed along the first and the secondbranches of the trigeminal nerve.Most lesions are present at birth or develop during the first year of life, increasing in size andnumber in subsequent years. Lesions are more common in Asians.Pigment targeting Q switched laser systems is the treatment of choice.169Oculopalpebral melanocytosis or nevus of OtaA Oculopalpebral melanosisB Hyperpigmented iris with scleral pigmented lesionsNaevus of Ota",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp19_img1_45e77282.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 20,
+      "question": "A Chinese woman brought her son to the clinic with the given finding. What is the most likelydiagnosis?",
+      "options": {
+        "A": "Nevus of Ota",
+        "B": "Nevus of Ito",
+        "C": "Nevus spilus",
+        "D": "Becker nevus150"
+      },
+      "correct_answer": "B",
+      "explanation": "This Chinese patient has a unilateral blue-greyish hyperpigmented macule on his shoulder, whichis suggestive of nevus of Ito.It affects the acromioclavicular region and upper chest. It primarily occurs in Chinese andJapanese people.It is rarer than nevus of Ota which affects facial skin and sclera. It is distinguished from the nevusof Ota by its location in the area innervated by the posterior supraclavicular and lateral cutaneousbrachial nerves.Complications of nevus of Ota include meningeal melanocytoma of the brain, and malignantmelanoma involving the meninges, choroid, iris, or orbit. In some rare cases, cutaneousmelanoma can develop.170Pigment targeting Q switched laser systems is the treatment of choice.Naevus of ItoBecker nevus is a large, pigmented hairy patch on the shoulder, chest, or back of young males.Nevus spilus is a congenital nevus presenting as a lentiginous macule that develops into multiplemacules in a speckled distribution (image below).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q20_img1_e764d071.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp20_img1_e69ccd05.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 21,
+      "question": "A mother brought her daughter to the dermatologist with multiple spots on her face. Thespots were increased after they came back from a vacation in Hawaii. Which of the followingstatements is false regarding this condition?",
+      "options": {
+        "A": "It has an autosomal dominant inheritance",
+        "B": "Increased number of melanocytes are seen",
+        "C": "It is associated with xeroderma pigmentosa",
+        "D": "It is caused by increased melanin"
+      },
+      "correct_answer": "B",
+      "explanation": "The patient has dark brown macules on her face, that increase on sunlight exposure. This issuggestive of freckles or ephelis, which are produced due to increased melanin production bymelanocytes on exposure to UV rays (with a normal number of melanocytes).It is transmitted in an autosomal dominant pattern. They are seen in a number of inherited andacquired disorders including xeroderma pigmentosum, neurofibromatosis, and progeria. Freckles171are common in type 1 and type 2 skin types of Fitzpatrick Classification.First-line treatment is the use of a high SPF sunscreen.Freckles over the face",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q21_img1_247a946e.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp21_img1_6a6b8cc1.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 22,
+      "question": "A child is brought to the clinic with the following pigmented lesion. What is the most likelydiagnosis?151",
+      "options": {
+        "A": "Junctional naevus",
+        "B": "Compound naevus",
+        "C": "Dermal naevus",
+        "D": "Nevus spilus"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image suggests the most likely diagnosis to be compound naevus. It is characterized bya hyperpigmented papule surrounded by a symmetrical, lighter brown, macular area.A compound naevus is a slightly raised, oval, or round papule with a symmetrical shape. Thisnaevus is also pigmented, with shades of brown according to the patient's skin color.Based on the position of melanocyte aggregates, the acquired melanocytic naevi can be classifiedinto:••Junctional melanocytes in the dermo-epidermal junction-Compound - melanocytes in the dermo-epidermal junction and dermis• Dermal - melanocytes in the dermis172EpidermisDermoepidermaljunctionDermisMelanocytic neviFlat lesionDark brown- Slightlyelevated lesion- BrownJunctionalnevusDome shapedlesion• Light brownCompoundnevusIntradermalnevusOMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q22_img1_efa67234.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp22_img1_79bb4c9f.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 23,
+      "question": "Identify the pigmentation abnormality in the image shown below.",
+      "options": {
+        "A": "Mongolian spot",
+        "B": "Naevus of Ito152",
+        "C": "Congenital melanocytic naevus",
+        "D": "Becker's naevus"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image showing hyperpigmented lesion on shoulder associated with hypertrichosis issuggestive of Becker's naevus.It is an epidermal melanocytic naevus with aggregation of melanocyte clusters in the epidermis. Itis often hairy. The onset is around adolescence when there is an increased sensitivity to androgensespecially in the distribution of outer arms, scapular area and chest.A triad of features can be seen:• Hyperpigmentation•Hypertrichosis• AcneOption A: Mongolian spots are slate blue areas in the lumbosacral region that spontaneouslyregress before puberty.173DAILYROUNDSOption B: Naevus of Ito is unilateral hyperpigmentation in the acromioclavicular distribution. It isnot known to have hypertrichosis or acne.Option C: Congenital melanocytic nevi are common moles that become raised and have acerebriform appearance and can be hairy. They can occur anywhere. The onset is at birth or soonafter birth174",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q23_img1_84612105.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 24,
+      "question": "A patient who presented with the given skin finding was diagnosed with nevus anemicus.Which of the following statements is incorrect regarding this condition?[Image unavailable]",
+      "options": {
+        "A": "A congenital vascular anomaly",
+        "B": "Results from defective transfer of melanosomes",
+        "C": "Rubbing the lesion induces no change",
+        "D": "Also known as pharmacologic nevus"
+      },
+      "correct_answer": "B",
+      "explanation": "Nevus anemicus occurs due to increased sensitivity of local cutaneous blood vessels tocatecholamines such as epinephrine (adrenaline) and norepinephrine (noradrenaline). Thishypersensitivity results in persistent vasoconstriction leading to hypopigmentation. Hence, it isalso known as a pharmacologic nevus.It is a congenital, localized, cutaneous vascular anomaly presenting as a pale, irregularly shapedpatch on otherwise normal skin. Histology and electron microscopic examination show noabnormality in melanocytes or melanization.Rubbing the lesionDiascopy at the border of thelesionNevus anemicusNevus depigmentOsusLesion becomes redNo changeNo changeThe border between the lesion and the normal skin disappears due to the blanching of the normal skin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 25,
+      "question": "Which of the following is the reason for the development of a simple lentigo?",
+      "options": {
+        "A": "Increased melanin",
+        "B": "Increased melanocytes",
+        "C": "Increased melanosomes",
+        "D": "Decreased melanophages"
+      },
+      "correct_answer": "B",
+      "explanation": "Simple lentigo occurs due to an increase in melanocytes at the dermal-epidermal junction.Simple lentigo or lentigo simplex is a light to dark-brown or black macule that does not fade awayonce it appears. They usually appear during childhood and increase in number until the age of 40.It is more common in individuals with red hair and fair skin.175The image shows lentigo simplex- hyperpigmentation is evident in the basal and squamousepidermal cells.Lentigo simplexSlight increase in non-atypical melanocytes betweenthe epidermal basal cells.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp25_img1_20a6bd75.jpeg",
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 26,
+      "question": "A 30-year-old pregnant lady is referred to the dermatology OPD with the given condition.What is the likely diagnosis?153",
+      "options": {
+        "A": "Systemic lupus erythematosus",
+        "B": "Melasma",
+        "C": "Vitiligo",
+        "D": "ChloasmaDAILYROUNDS"
+      },
+      "correct_answer": "D",
+      "explanation": "This pregnant lady has chloasma or a mask of pregnancy. In non-pregnant women, it is calledmelasma.Chloasma is very common in the 3rd trimester of pregnancy and is most marked in brunettes.It is due to increased levels of estrogen and progesterone, stimulating the activity of melanocytes.Histopathology shows no increase in number but hyper-functional melanocytes. It resolves on itsown after pregnancy.Melasma is the most common cause of chronic facial melanosis. It is manifested byhyperpigmented macules that become more pronounced after sun exposure. Hypermelanosisaffects mainly the upper lip, the malar regions, forehead, and chin. It is more common in womenbetween 20-40 years. It is frequently seen in women on oral contraceptives.Wood's lamp examination is useful to differentiate the level of pigmentation andtreatment response:⚫ Epidermal melasma- shows enhanced color contrast•• Dermal melasma- shows less color contrast (more resistant to treatment)• Mixed melasma.Melasma is more chronic and requires treatment with depigmenting agents like:●Kligman's triple combination - topical hydroquinone + tretinoin + corticosteroid compoundcream (first line)• Hydroquinone (reduces tyrosinase activity)• Kojic acid (tyrosinase inhibitor)176• Chemical peels",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q26_img1_9f333f2a.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following statements is incorrect regarding the condition this baby suffers from?",
+      "options": {
+        "A": "Associated with leptomeningeal melanocytosis",
+        "B": "Coarse hair can develop on the lesion154",
+        "C": "No malignant potential",
+        "D": "Treatment is surgical excision"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image is suggestive of giant congenital melanocytic naevus or bathing trunk naevus. Ithas an increased malignant potential.It is a very rare condition present in 1:20,000 births. This lesion is usually brown to black in colorwith a rough, warty, rugose, or cerebriform surface. To classify it as giant naevi, it should be&gt;20cm in size. Coarse hairs can develop on it in due course.These naevi are associated with leptomeningeal melanocytosis or neurofibromatosis.Surgical excision is the mainstay of treatment and a cultured epidermal autograft is used to coverlarge postoperative surface area defects.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q27_img1_d064eb87.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 28,
+      "question": "Identify the condition shown below:",
+      "options": {
+        "A": "Epidermal verrucous nevus",
+        "B": "Congenital melanocytic nevus",
+        "C": "Melanoacanthoma",
+        "D": "Malignant melanoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows a child with a well-circumscribed, black, heterogenous lesion covered with hair.This is characteristic of a congenital melanocytic nevus (CMN). They may be present at birth ordevelop shortly thereafter. They are benign and can be brown, black, purplish, or red, and areusually a palpable lesion.They can be classified based on size: small (&lt;1.5 cm), medium (1.5-19.9 cm), and large or giant(&gt;20 cm). Larger CMN have a higher risk of developing malignant melanoma.Management of CMN depends on the size and location of the lesion. Smaller nevi may beobserved, while larger nevi or those at a higher risk for complications may require surgicalexcision, particularly if there is a concern for malignant transformation.Complications of CMN include neurological abnormalities (intraparenchymal melanosis is thecommonest finding), malignant melanoma, and other tumors like rhabdomyosarcoma.The images below show different melanotic skin lesions:177MelanoacanthomaMalignant melanomaEpidermal verrucous naevus178",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q28_img1_e9ae350c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 29,
+      "question": "A new mother brings her 2-day-old baby to the pediatric OPD with the following skin findingson his back. Which of the following statements is false regarding this condition?155",
+      "options": {
+        "A": "Lesions develop in utero",
+        "B": "Due to increased melanocytes",
+        "C": "Associated with Down syndrome",
+        "D": "Spontaneous regression usually occurs"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows Mongolian spots. The coloration is due to the arrested migration ofmelanocytes within the deep dermis and to the epidermis. It is not due to increased melanocytes.These are congenital macular areas of blue grey pigmentation of varying size and shape locatedon the lumbosacral area in normal infants. The lesion develops in-utero, increases during infancy,and then diminishes. Sometimes may occasionally persist into adult life.These are associated with Down syndrome and congenital hemangioma. Extensive Mongolianspots have been associated with Hurler syndrome and GM1 gangliosidosis type 1.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q29_img1_10d277dc.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    },
+    {
+      "q_no": 30,
+      "question": "Which of the following is not a systemic cause of generalized hyperpigmentation?",
+      "options": {
+        "A": "Addison's disease",
+        "B": "Hemochromatosis",
+        "C": "Hypothyroidism",
+        "D": "Vit B12 deficiency"
+      },
+      "correct_answer": "C",
+      "explanation": "Hyperthyroidism may cause generalized hyperpigmentation, not hypothyroidism.Generalized hypermelanosis or hyperpigmentation can be due to a variety of systemic diseases. Afew common diseases are mentioned below:• Addison's disease•Cushing diseaseHyperthyroidism• Solid malignant tumor•⚫ Pheochromocytoma•Systemic sclerosis• Renal Failure• Hemochromatosis• Folate and vitamin B12 deficiency• Vitamin A deficiency●Pellagra179",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of Skin Pigmentation"
+    }
+  ]
+}

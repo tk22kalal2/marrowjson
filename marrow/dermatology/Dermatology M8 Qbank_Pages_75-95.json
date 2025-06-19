@@ -1,0 +1,320 @@
+{
+  "chapter": "Acne, Rosacea and Others",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is a specific lesion of acne vulgaris?",
+      "options": {
+        "A": "Cysts",
+        "B": "Pustules",
+        "C": "Comedones",
+        "D": "Nodules"
+      },
+      "correct_answer": "C",
+      "explanation": "Comedones are a specific type of lesion associated with acne vulgaris.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp1_img1_1159dac1.jpeg",
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 2,
+      "question": "A 15-year-old girl presents with multiple papulopustular, erythematous lesions on her face. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Acne rosacea",
+        "B": "Acne vulgaris",
+        "C": "Eczema",
+        "D": "Tinea faciei"
+      },
+      "correct_answer": "B",
+      "explanation": "The age of the patient and the presence of papules and pustules with an erythematous base on the face are suggestive of acne vulgaris. It is commonly seen in teenagers and young adults. The condition can vary from very mild comedomal acne to severe aggressive pustular acne. These eventually may lead to scarring due to sinus formation. Option A: Acne rosacea, or rosacea, is predominantly a disease with onset in middle-aged adults (30-50 years old) and involves the convexities of the face. Option C: Eczema presents more over the flexures and extremities from early adulthood. Features of pruritus and excoriations are predominant. Option D: Tinea faciei is a fungal infection of the face and presents with a scaly lesion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not a component of SAPHO syndrome?",
+      "options": {
+        "A": "Synovitis",
+        "B": "Seborrhoea",
+        "C": "Acne",
+        "D": "Hyperostosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Seborrhoea is a constituent of SAHA syndrome, not SAPHO syndrome. SAPHO syndrome consists of: • Synovitis • Acne • Pustulosis • Hyperostosis • Osteitis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 4,
+      "question": "A teenager presents to the dermatologist with the following finding. Which of the following is not a causative factor for this condition?",
+      "options": {
+        "A": "Androgen",
+        "B": "Oily food",
+        "C": "Bacterial proliferation",
+        "D": "Hypercornification of duct"
+      },
+      "correct_answer": "B",
+      "explanation": "A teenager presenting with papulopustular lesions on the face and the presence of comedones is most likely suffering from acne vulgaris. Oily skin due to excessive sebum production is one of the causative factors of acne, but oily food is not directly implicated. Acne results from the combination of: \n      • Increased sebaceous gland activity under the influence of androgens - oily skin\n      • Abnormal follicular differentiation with increased keratinization - hypercornification of duct due to increased IL-1\n      • Microbial hypercolonization of the follicular canal leading to its inflammation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q4_img1_6daff76e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient presents with multiple nodulocystic lesions on the face. Which among the following is the drug of choice in this condition?",
+      "options": {
+        "A": "Steroids",
+        "B": "Isotretinoin",
+        "C": "Erythromycin",
+        "D": "Tetracycline"
+      },
+      "correct_answer": "B",
+      "explanation": "The presence of multiple nodulocystic lesions implies that this is a case of severe acne. Isotretinoin is the first-line drug for the treatment of severe acne (nodular acne and acne conglobata). Systemic retinoids are highly teratogenic and are absolutely contraindicated in pregnant women, those planning to become pregnant, or breastfeeding mothers. Two negative pregnancy tests (on separate occasions) are required for females of childbearing age before starting acitretin or isotretinoin. Baseline evaluation of serum lipids, transaminases, and complete blood counts should be done before starting any systemic retinoids. These values should be checked monthly for the first 3-6 months and once every 3 months thereafter. Monthly pregnancy tests should be done while on the drug. Note: Female patients should avoid conception for 3 years after discontinuing acitretin treatment for cutaneous psoriasis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 6,
+      "question": "An 18-year-old girl with pustular acne comes to your clinic for follow-up, saying that her acne has not reduced even after taking medications for 6 months. Which of the following drugs will you now prescribe?",
+      "options": {
+        "A": "Oral erythromycin",
+        "B": "Topical steroids",
+        "C": "Oral retinoids",
+        "D": "Oral tetracyclines"
+      },
+      "correct_answer": "C",
+      "explanation": "Oral isotretinoin, an oral retinoid, is indicated for the treatment of recalcitrant acne. Recalcitrant acne is poorly responsive acne, with less than 50% improvement after 6 months of therapy with combined oral and topical antibiotics.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient with nodular acne has been on oral retinoids for 3 months. Which of the following tests are required to monitor the therapy?",
+      "options": {
+        "A": "Liver function test",
+        "B": "Renal function test",
+        "C": "WBC count",
+        "D": "Thyroid function test"
+      },
+      "correct_answer": "A",
+      "explanation": "Liver function tests (LFT) must be monitored during retinoid therapy as it can lead to variation in LFT by causing drug-induced liver injury. Side effects of retinoids: • Cheilitis/dryness of lips (most common) • Deranged liver function tests • Hypertriglyceridemia • Teratogenicity - contraception is required until 1 month of stoppage of isotretinoin. Note: Female patients should avoid conception for 3 years after discontinuing acitretin treatment to prevent retinoid-induced embryopathy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 8,
+      "question": "A 16-year-old girl with moderate acne also complains of irregular menses. Which of the following is the drug of choice?",
+      "options": {
+        "A": "Retinoids",
+        "B": "Tetracycline",
+        "C": "Oral contraceptive pills",
+        "D": "Minocycline"
+      },
+      "correct_answer": "C",
+      "explanation": "Moderate acne with irregular menses are best treated with OCPs. Giving OCP will increase sex hormone-binding globulin (SHBG) and hence reduce free androgens which play a major role in the pathogenesis of acne. In addition, OCPs also help in regularizing the menses.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 9,
+      "question": "A 17-year-old girl presents with the following skin lesions. What is the likely diagnosis?",
+      "options": {
+        "A": "Acne vulgaris",
+        "B": "Acne rosacea",
+        "C": "Seborrheic dermatitis",
+        "D": "Milia"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows typical erythematous papules and nodules along with a few whiteheads, suggestive of acne vulgaris. Other options: Option B: Acne rosacea is a disorder that appears mainly in people within 30 to 50 years of age. The lesions are mainly present on the convexities of the face but don't lead to central crusting or scarring. It is followed by triggering factors such as sunlight exposure, emotional disturbances, spicy food, alcohol, etc. Given below is an image showing acne rosacea: Option C: Seborrheic dermatitis is a chronic inflammatory skin condition which presents with erythematous patches with superficial scaling, affecting areas with a high density of sebaceous glands - scalp, face, central chest, and anogenital areas. Option D: Milia are small cysts formed around the pilosebaceous follicles usually seen over the nose, cheek, forehead of neonates. Pearly opalescent white epidermal inclusion cysts. Resolve spontaneously without scarring.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q9_img1_a32e6f0d.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp9_img1_1c813c28.jpeg",
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 10,
+      "question": "A 40-year-old woman presents with a 2-year history of erythematous papulopustular lesions over the center of her face. There is a background of erythema and telangiectasia. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acne vulgaris",
+        "B": "Rosacea",
+        "C": "Systemic lupus erythematosus",
+        "D": "Lupus pernio"
+      },
+      "correct_answer": "B",
+      "explanation": "The patient comes with erythema and papules on facial convexities (central face), a characteristic feature of acne rosacea. It is triggered by exposure to sunlight, spicy food, alcohol, or emotional disturbances. Patients also develop telangiectasia later. They also have a tendency for developing rapid flushing due to temperature change. Rosacea is more common in women of age 30-50 years. The innate immune response in rosacea appears to be altered. There is increased Toll-like receptor 2 (TLR2) activity and increased protease activity. Demodex mite proliferation in the pilosebaceous follicles of the face has also been suggested as a possible etiological factor in cutaneous and ocular inflammation. The pathogenesis of ocular rosacea seems to be closely associated with meibomian gland dysfunction. The table below shows the 4 subtypes and the corresponding treatment options. The subtypes are not equivalent to the progression of the disease. The image below shows rosacea. Subtype: Erythematotelangiectatic rosacea (ETTR) Treatment: Sun avoidance and protection, Topical receptor agonists - brimonidine or oxymetazoline. Subtype: Papulopustular rosacea (PPR) Treatment: Active inflammatory lesions: Topical metronidazole, Azelaic acid, Ivermectin, Sodium sulfacetamide, Sulfur. Perilesional erythema: Brimonidine, Oxymetazoline, Topical skin peeling agent if there are large occluded follicles. Electrocautery or laser for telangiectases. Daily lid hygiene, Oily tear substitute lubricating eye drops or aqueous gels.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp10_img1_60771567.jpeg",
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 11,
+      "question": "Intake of which of the following drugs can produce an acneiform eruption?",
+      "options": {
+        "A": "Tetracycline",
+        "B": "Phenytoin",
+        "C": "Aminoglycoside",
+        "D": "Quinolone"
+      },
+      "correct_answer": "B",
+      "explanation": "Drug-induced acne (acneiform eruptions) are associated with the following: topical or systemic steroids (most common), anabolic steroids - danazol, stanozolol, anticonvulsants - carbamazepine, phenytoin, phenobarbitone, antituberculosis drugs - isoniazid, pyrazinamide. Clinically, acneiform eruptions are characteristically monomorphic. Drugs most commonly implicated in acneiform eruptions: worldwide steroids, India - isoniazid (INH).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient with obsessive-compulsive disorder presents with lesions on his face. He confesses that he frequently picks at his face, regardless of the presence of acne. What is the diagnosis?",
+      "options": {
+        "A": "Acne excoriée",
+        "B": "Acne fulminans",
+        "C": "Acne conglobata",
+        "D": "Acne mechanica"
+      },
+      "correct_answer": "A",
+      "explanation": "This given image shows acne excoriée on the chin of a male with compulsive picking of the face using nail pliers and tweezers. Acne excoriée is regarded as a self-inflicted skin condition in which the sufferer compulsively picks real or imagined acne lesions predominantly on the face. It is mostly seen in adolescent girls. Other psychiatric disorders associated with acne are: Body dysmorphic disorder - Some patients have acne as their prime symptom. The perceived acne is out of proportion to physical signs. Eating disorders - reported in anorexia nervosa. Acne itself may be a predisposing factor for anorexia in vulnerable teenage age groups who adopt a diet in an attempt to control their acne. Option B: Acne fulminans or acne maligna is a rare and severe destructive form of acne presenting primarily in adolescent males. It most frequently affects the trunk but can affect the face and presents acutely in association with systemic symptoms. Option C: Acne conglobata represents a rare and severe form of acne characterized by multiple and extensive inflammatory papules, tender nodules, and abscesses which commonly coalesce to form malodorous draining sinus tracts. Option D: Acne mechanica describes acne that occurs at the site of repeated mechanical trauma and/or frictional obstruction of the pilosebaceous outlet resulting in comedo formation. Examples include 'fiddler's neck', which may occur on the neck of violin players, and is characterized by well-defined plaques with the presence of comedones, lichenification, and pigmentation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q12_img1_7e724069.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following is a preferred chemical peel agent for a dark-skinned patient with acne?",
+      "options": {
+        "A": "Pyruvic acid",
+        "B": "Lactic acid",
+        "C": "Jessner's solution",
+        "D": "Glycolic acid"
+      },
+      "correct_answer": "D",
+      "explanation": "Glycolic acid is the preferred chemical peel agent in dark-skinned individuals. Dark skin (Fitzpatrick type IV to VI) has a tendency for post-inflammatory hyperpigmentation (PIH) after procedures like lasers and chemical peels. Deep chemical peels cannot be used in dark-skinned patients. Even medium-depth peels need to be used with extreme caution. Chemical peels are believed to promote desquamation, which reduces corneocyte cohesion and keratinocyte plugging, so enabling the extrusion of inflammatory contents. Light chemical peels are used with the aim of helping to remove comedones as well as superficial scarring and hyperpigmentation. Other peeling agents are: Pyruvic acid, Lactic acid, Maleic acid, Citric acid, Tartaric acid, Mandelic acid, Jessner's Solution - lactic acid + salicyclic acid + resorcinol",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 14,
+      "question": "Identify the following condition.",
+      "options": {
+        "A": "Acne rosacea",
+        "B": "Acne vulgaris",
+        "C": "Rhinophyma",
+        "D": "Sebaceous gland neoplasm"
+      },
+      "correct_answer": "C",
+      "explanation": "Rhinophyma (also known as potato nose) is a slowly progressive condition due to hypertrophy and hyperplasia of the sebaceous glands of the tip of the nose. It is often seen in cases of long-standing rosacea, called phymatous rosacea. It is not a neoplasm. It presents as a pink, lobulated mass over the nose with superficial vascular dilation. It mostly affects men past middle age. Patients seek advice because of the distorted appearance of the enlarged nose, or obstruction in breathing and vision. Rhinophyma may be diagnosed clinically, but a skin biopsy can confirm the diagnosis. On histology, rhinophyma shows sebaceous gland hypertrophy, hyperplasia, and fibrosis. The most common indication for treatment is cosmetic. Ablation using CO2 laser or surgical resection of excess tissue with remodeling of the nose can be performed.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q14_img1_74e45afd.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is not associated with the given skin condition?",
+      "options": {
+        "A": "Photosensitivity",
+        "B": "Blepharitis",
+        "C": "Flushing",
+        "D": "Comedones"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shows acne rosacea. Comedones are pathognomonic features of acne vulgaris, not rosacea. The absence of comedones helps in differentiating rosacea from acne vulgaris. Closed comedones. Option A: Photosensitivity is a feature of rosacea. It may be triggered/exacerbated by exposure to sunlight. Option B: Ocular rosacea is associated with involvement of the eye due to meibomian gland dysfunction, which causes a gritty sensation in the eye, blepharitis, recurrent chalazion, and conjunctivitis. Option C: Erythematotelangiectatic rosacea (ETR) is associated with facial vascular changes – redness (flushing) and telangiectasia on central cheeks.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q15_img1_6f0f1fb7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp15_img1_0b88fc8b.jpeg",
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 16,
+      "question": "Fordyce's spots mainly involves which of the following sites?",
+      "options": {
+        "A": "Lips",
+        "B": "Scalp",
+        "C": "Neck",
+        "D": "Trunk"
+      },
+      "correct_answer": "D",
+      "explanation": "Fordyce spots occur most commonly on the upper lip &gt;buccal mucosa.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is a correct statement regarding the given condition?",
+      "options": {
+        "A": "Ectopic sebaceous glands",
+        "B": "Antibiotics are the first line of treatment",
+        "C": "It is asymptomatic",
+        "D": "Occur commonly on the upper lip"
+      },
+      "correct_answer": "C",
+      "explanation": "The image shows pearly, penile papules. These are exclusively found in males. They consist of flesh-coloured, smooth papules most commonly on the coronal margin of the glans penis. They are benign and asymptomatic, and treatment involves reassuring the patient. Note: Pearly, penile papules are commonly mistaken for Fordyce spots (Tyson's glands). Fordyce spots are commonly seen on the shaft of the penis and are ectopic sebaceous glands. The image below depicts Fordyce spots on the penile shaft.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q17_img1_8886ac85.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp17_img1_19a45797.jpeg",
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 18,
+      "question": "During your rounds in the neonatal ward, you see a 2-week-old neonate with the following skin finding. It is a disorder of which of the following glands?",
+      "options": {
+        "A": "Sebaceous glands",
+        "B": "Apocrine glands",
+        "C": "Holocrine glands",
+        "D": "Eccrine glands"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shows clear, thin-walled, superficial vesicles 1-2 mm in diameter, without associated erythema, resembling drops of water in a newborn. It is suggestive of miliaria, a disorder of eccrine sweat glands.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q18_img1_1fd22108.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 19,
+      "question": "At what level does the obstruction occur in miliaria crystallina?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "A",
+      "explanation": "In miliaria crystallina, the obstruction is at the level of the stratum corneum. The image shows the histological appearance of the epidermis of the skin. The structures marked are respectively: • Stratum corneum • Stratum granulosum • Stratum spinosum • Stratum basale",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q19_img1_0e3595a5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following is not a disorder of the apocrine glands?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4123OMARROW4"
+      },
+      "correct_answer": "D",
+      "explanation": "Miliaria (image 3) is a disorder of eccrine glands. It is a common acute or subacute skin condition that arises due to the occlusion or disruption of eccrine sweat ducts in hot, humid conditions, resulting in a leakage of sweat into the epidermis (miliaria crystallina and miliaria rubra) or dermis (miliaria profunda). Other disorders of the eccrine sweat glands are anhidrosis and hyperhidrosis. Fox-Fordyce disease, chromhidrosis, miliaria rubra, and hidradenitis suppurativa are disorders of the apocrine glands. Disorders of the apocrine glands are: Bromhidrosis, abnormal sweat odor due to bacterial growth; chromhidrosis, secretion of vividly colored apocrine sweat (blue, yellow, or green color), usually of apocrine origin and seen in the axilla, areola of the nipple, or face; Fox-Fordyce disease or apocrine miliaria, obliteration of the apocrine duct at the infundibulum.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q20_img1_c3363bf4.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp20_img1_429902f0.jpeg",
+      "chapter_heading": "Acne, Rosacea and Others"
+    },
+    {
+      "q_no": 21,
+      "question": "Which is the incorrect statement regarding the condition shown in the image?",
+      "options": {
+        "A": "Inframammary area and intermammary folds may be involved",
+        "B": "TNF alpha inhibitors can be used in treatment",
+        "C": "Obesity and smoking are associated with it",
+        "D": "Surgery cannot be done for this condition."
+      },
+      "correct_answer": "D",
+      "explanation": "The given image shows hidradenitis suppurativa or inverse acne. Surgical excision is the best treatment that offers a cure. Hidradenitis suppurativa is a chronic, inflammatory, recurrent, debilitating, follicular disease that usually presents after puberty. There are painful, deep-seated inflamed lesions in the apocrine gland-bearing areas of the body, most commonly the axillary, inguinal, and anogenital regions. This definition is based on the San Francisco modification of the Dessau criteria. The following three criteria must be met for the diagnosis to be made: Typical lesions - deep-seated, painful nodules or 'blind boils'; abscesses, draining sinuses, bridged scars, and paired or multi-headed open pseudocomedones in secondary lesions. Typical topography - axillae, groin, perineal and perianal region, buttocks and infra and intermammary folds. Chronicity and recurrence of lesions. More common in young women of ages 20-29 years. Obesity and smoking are the two main factors associated with hidradenitis suppurativa. Treatment includes: Antibiotics - tetracycline, clindamycin, Intralesional corticosteroids, Immunosuppressants, Acitretin, Anti-TNF alpha therapy, Surgery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Acne, Rosacea and Others"
+    }
+  ]
+}

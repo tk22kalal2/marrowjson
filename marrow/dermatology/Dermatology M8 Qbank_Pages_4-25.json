@@ -1,0 +1,380 @@
+{
+  "chapter": "Anatomy & Physiology of Skin",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is incorrect regarding the development of skin?",
+      "options": {
+        "A": "Develops from ectoderm",
+        "B": "Expression of bone morphogenetic proteins by cells",
+        "C": "Blocking of response to fibroblast growth factors",
+        "D": "Lack of Wnt signalling promotes epidermal fate"
+      },
+      "correct_answer": "A",
+      "explanation": "Skin develops from ectoderm, not neuroectoderm.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp1_img1_0412f75f.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 2,
+      "question": "Which layer of the epidermis is underdeveloped in very low birth weight infants in the initial 7 days?",
+      "options": {
+        "A": "Stratum germinativum",
+        "B": "Stratum granulosum",
+        "C": "Stratum lucidum",
+        "D": "Stratum corneum"
+      },
+      "correct_answer": "D",
+      "explanation": "Stratum corneum is underdeveloped in very low birth weight (VLBW) infants in the initial 7 days. In preterm infants, the stratum corneum is permeable and becomes similar to that of the adult and full-term infant after 2-3 weeks of postnatal maturation. The development of the layers of the epidermis starts from below upwards. Therefore, the stratum basale is the first to form and the stratum corneum is the last layer to form.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 3,
+      "question": "Choose the correctly labelled layer of the epidermis from the image given below.",
+      "options": {
+        "A": "1 stratum spinosum",
+        "B": "2 stratum granulosum",
+        "C": "3 stratum basale",
+        "D": "4 stratum corneum"
+      },
+      "correct_answer": "B",
+      "explanation": "From superficial to deep, the layers of the epidermis are as marked in the image: Stratum corneum, Stratum granulosum, Stratum spinosum, Stratum basale. The thick skin found in the palms and soles has an additional fifth layer, called the stratum lucidum, located between the stratum corneum and stratum granulosum. The epidermis is made of superficial keratinized, stratified, squamous epithelium. The epidermis is a highly cellular layer but is avascular, hence dependent on the underlying dermis for nutrition via diffusion through the dermoepidermal junction. It is thinnest on the eyelid and thickest on the palms and soles. Stratum corneum, Stratum lucidum, Stratum granulosum, Stratum spinosum, Stratum basale, Dermis",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q3_img1_b46faa3b.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp3_img1_e8941012.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 4,
+      "question": "A patient presents with complaints of dry skin and lesions as shown. The epidermal protein deficient in this patient is present in:",
+      "options": {
+        "A": "Stratum corneum",
+        "B": "Stratum granulosum",
+        "C": "Stratum spinosum",
+        "D": "Stratum basale"
+      },
+      "correct_answer": "B",
+      "explanation": "The above image is suggestive of ichthyosis vulgaris, which is due to the deficiency of filaggrin protein. They are found in the keratohyalin granules of stratum granulosum in the form of profilaggrin (made of filaggrin monomers). Profilaggrin undergoes proteolytic processing to yield individual filaggrin monomers that bind and aggregate keratin bundles and intermediate filaments between the stratum granulosum and corneum to form the epidermal barrier of the skin.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q4_img1_bc3e67b9.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following are included in the Malpighian layer of the epidermis?",
+      "options": {
+        "A": "Stratum corneum and stratum granulosum",
+        "B": "Stratum granulosum and stratum spinosum",
+        "C": "Stratum granulosum and stratum lucidum",
+        "D": "Stratum spinosum and stratum basale"
+      },
+      "correct_answer": "D",
+      "explanation": "The Malpighian layer of the epidermis includes both stratum basale and stratum spinosum as a unit. It is named after Marcello Malpighi. The stratum corneum, stratum lucidum, layers and cells of the epidermis, stratum granulosum, dead cells filled with keratin, lamellar granules, stratum spinosum, keratinocyte, stratum basale, Merkel cell, melanocyte, dermis, and sensory neuron.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp5_img1_d0390c9d.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following terms is used to describe the skin with all its appendages?",
+      "options": {
+        "A": "Pilosebaceous unit",
+        "B": "Malpighian system",
+        "C": "Reactive unit",
+        "D": "Integumentary system"
+      },
+      "correct_answer": "D",
+      "explanation": "Skin, hair, nails, the subcutaneous tissue below the skin, and assorted glands constitute the integumentary system. The most important function of the integumentary system is protection against external damage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 7,
+      "question": "Where are granules of eleidin seen?",
+      "options": {
+        "A": "Stratum corneum",
+        "B": "Stratum lucidum",
+        "C": "Stratum spinosum",
+        "D": "Stratum basale"
+      },
+      "correct_answer": "B",
+      "explanation": "Granules of eleidin are clear intracellular proteins present in the stratum lucidum of the thick skin of palms and soles. The cytoplasm of this layer is packed with keratin filaments and eleidin granules, giving it a translucent appearance. It is also called the clear cell layer.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 8,
+      "question": "Choose the incorrect statement regarding skin.",
+      "options": {
+        "A": "Langerhans cells are dendritic cells which originate from bone marrow.",
+        "B": "Melanocytes are present in stratum basale.",
+        "C": "Stratified squamous epithelium has hallmark keratin filaments.",
+        "D": "Stratum lucidum is present between stratum spinosum and granulosum."
+      },
+      "correct_answer": "D",
+      "explanation": "Stratum lucidum is the layer of the epidermis, which is present between the stratum corneum and stratum granulosum. It is present only in the thick skin of the palms and soles. It is also called the clear cell layer due to the presence of refractile granules of Eleidin. The image below shows stratum lucidum sandwiched between stratum corneum above and stratum granulosum below. Stratum corneum, Stratum lucidum, Stratum granulosum, Stratum spinosum, Stratum basale, Dermis",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp8_img1_ac6240b3.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following layers of the skin predominantly contains non-nucleated cells?",
+      "options": {
+        "A": "Stratum lucidum",
+        "B": "Stratum basale",
+        "C": "Stratum granulosum",
+        "D": "Stratum corneum"
+      },
+      "correct_answer": "D",
+      "explanation": "The stratum corneum, also known as the horny layer, consists of cells without a nucleus and hence does not divide. It prevents the entry of microbes from the environment into the body and prevents leakage of fluids from the body to the environment. This is called the barrier function. As keratinocytes divide and move up to the stratum corneum from stratum basale, they undergo the following changes: • Loss of nucleus and ability to divide • Increase in size • Change in shape and flattening • Dehydration and loss of water • Loss of metabolic activity. Note: In palmoplantar skin, there is an additional zone, also electron lucent, the stratum lucidum, which lies between the granulosum and corneum. These cells are still nucleated and may be referred to as transitional cells.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 10,
+      "question": "Where are Odland bodies present?",
+      "options": {
+        "A": "Stratum corneum",
+        "B": "Stratum lucidum",
+        "C": "Stratum granulosum",
+        "D": "Stratum basale"
+      },
+      "correct_answer": "C",
+      "explanation": "Odland bodies, lamellar bodies, or membrane-coating granules or keratinosomes are present in the stratum granulosum and upper stratum spinosum. They discharge lipid components into the intercellular space that plays an important role in barrier function and intercellular cohesion. The image below shows Odland bodies in stratum granulosum. Green arrows indicate lamellar granules in the cytoplasm. Red arrows indicate secreted lamellar granules.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp10_img1_1b58e75a.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 11,
+      "question": "Melanocytes are present in which layer?",
+      "options": {
+        "A": "A",
+        "B": "C",
+        "C": "D",
+        "D": "B Dermis ABCD"
+      },
+      "correct_answer": "D",
+      "explanation": "Melanocytes are present in the stratum basale (marking D). These cells produce melanin, which is packed into organelles called melanosomes and transferred via finger-like processes called the dendrites to keratinocytes. Melanocytes originate from neural crest cells.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q11_img1_9db8fbd7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp11_img1_a18e347d.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following cells act as slow-adapting touch receptors?",
+      "options": {
+        "A": "Meissner corpuscle",
+        "B": "Pacinian corpuscle",
+        "C": "Langerhans cells",
+        "D": "Merkel cells"
+      },
+      "correct_answer": "D",
+      "explanation": "Stratum corneum, Stratum lucidum, Stratum granulosum, Stratum spinosum, Stratum basale, Dermis. Merkel cells (Haascheiben cells, Merkel-Ranvier cells, or tactile epithelial cells) are oval-shaped mechanoreceptors essential for light touch sensation and found in the skin of vertebrates. They are seen among the basal keratinocytes and contain desmosomes. They are abundant in the highly sensitive areas of the skin like fingertips and synapse with somatosensory afferent nerve fibers. These cells may become malignant and form a Merkel cell carcinoma, which is aggressive and difficult to treat. Free nerve endings, Ruffini corpuscle, tactile receptors in the skin, root hair plexus - Pacinian corpuscle, Merkel cell, Meissner's corpuscle.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp12_img1_b9ed40a2.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 13,
+      "question": "What is the location of Meissner's corpuscle in the skin?",
+      "options": {
+        "A": "Stratum lucidum",
+        "B": "Stratum basale",
+        "C": "Papillary dermis",
+        "D": "Reticular dermis"
+      },
+      "correct_answer": "C",
+      "explanation": "Meissner's corpuscles are located in the skin just below the epidermis within the dermal papilla. They are concentrated predominantly over glabrous skin (non-hair bearing) like fingertips and lips. Meissner corpuscle",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp13_img1_4055c5e3.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following are connected by desmosomes?",
+      "options": {
+        "A": "Keratinocytes",
+        "B": "Melanocytes",
+        "C": "Dermis and epidermis",
+        "D": "Langerhans cells"
+      },
+      "correct_answer": "A",
+      "explanation": "Desmosomes connect keratinocytes in the epidermis of the skin. Desmosome (macula adherens) is a cell structure specialized for cell-to-cell adhesion. They resist mechanical stress as they are strongly adhesive. Desmosomes contain proteins like desmoglein (dsg), desmocollin (dsc), and desmoplakin (dp). The loss of any one protein can lead to the separation of keratinocytes, leading to acantholysis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient presents with multiple blisters on the skin and oral mucosa. The immunofluorescence staining for IgG shows the following characteristic pattern. Which of the following is targeted by the immune system in this condition?",
+      "options": {
+        "A": "Keratinocytes",
+        "B": "Melanocytes",
+        "C": "Desmosomes",
+        "D": "Langerhans cells"
+      },
+      "correct_answer": "C",
+      "explanation": "The given image shows the characteristic fish-net pattern of immunofluorescence seen in pemphigus vulgaris. It is an autoimmune disease caused by antibodies directed against desmoglein present in desmosomes. Loss of desmosomes results in loss of cohesion between keratinocytes (acantholysis) and blister formation. Desmosomes failure can result in diseases of both skin and the heart. Mutations within the desmosomes are the main cause of arrhythmogenic right ventricular cardiomyopathy (ARVC).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q15_img1_dccfab37.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 16,
+      "question": "Hemidesmosomal plaque components include which of the following?",
+      "options": {
+        "A": "K5/K14",
+        "B": "BPAg1",
+        "C": "Nidogen",
+        "D": "Laminin"
+      },
+      "correct_answer": "B",
+      "explanation": "Hemidesmosomal plaque components include BPAg1/BP230 and plectin. Hemidesmosomes connect the basal cell layer to the dermo-epidermal junction or basement membrane zone.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 17,
+      "question": "A child presents with non-hemorrhagic bullous lesions on areas of friction that heal without scarring. Nikolsky's sign is negative. Choose the correctly matched defective protein and its site involved in this condition.",
+      "options": {
+        "A": "K5/K14 - Stratum basale",
+        "B": "K1/K10 - Stratum corneum",
+        "C": "K4/K13 - Stratum granulosum",
+        "D": "K6/K16 - Stratum spinosum"
+      },
+      "correct_answer": "A",
+      "explanation": "The above scenario is suggestive of epidermolysis bullosa simplex. It is associated with mutations in the genes for K5/14 (keratin filaments). K5/14 keratin filaments are present in the stratum basale. Keratin is an intermediate filament protein present in all keratinocytes. There are two types of keratin filaments: Keratin filaments exist as heterodimers consisting of one acidic and one basic filament. Stratified squamous epithelia express various keratin pairs during epithelial differentiation: Type 1 (acidic in nature) and Type 2 (basic in nature). The pairs include K9-K10, K12-K28, K31-K1 to K8, and K71-K86. Keratin heterodimers include K5/14, K1/10, K2/11, K3/12, K4/13, and K6/16, which are found in the stratum basale, stratum spinosum, stratum granulosum, cornea, buccal mucosa, nails, and simple epithelium, respectively.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 18,
+      "question": "What is the major component of lamina densa?",
+      "options": {
+        "A": "Laminin 5",
+        "B": "Laminin 322",
+        "C": "Collagen IV",
+        "D": "Collagen VII"
+      },
+      "correct_answer": "C",
+      "explanation": "The lamina densa is an electron-dense layer present in the dermo-epidermal junction and it is composed mainly of type IV collagen. Components of lamina densa: • Collagen type IV • Laminin 1/111 • BM-40 • SPARC • Perlecan",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 19,
+      "question": "What is the main type of collagen found in anchoring fibrils?",
+      "options": {
+        "A": "Type IV",
+        "B": "Type VII",
+        "C": "Type III",
+        "D": "Type II"
+      },
+      "correct_answer": "B",
+      "explanation": "Type VII collagen is the major component of anchoring fibrils of the dermo-epidermal junction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 20,
+      "question": "Where is the superficial vascular plexus of skin present?",
+      "options": {
+        "A": "Below the papillary dermis",
+        "B": "Below the reticular dermis",
+        "C": "At the dermo-epidermal junction",
+        "D": "Epidermis"
+      },
+      "correct_answer": "A",
+      "explanation": "The superficial vascular plexus of the skin is present below the papillary dermis. The dermis is rich in vascular supply (unlike the epidermis, which is avascular). It can be divided into the papillary dermis (upper 1/10) and reticular dermis (lower 9/10). The superficial vascular plexus is present between the papillary and reticular dermis (subpapillary plexus) and the deep vascular plexus is present below the reticular dermis. The main functions are providing nutrients and oxygen. It also regulates body temperature by controlling blood flow through capillaries in the upper dermis such that the opening of blood vessels allows dissipation of excess heat while constriction conserves heat.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp20_img1_df02db8f.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 21,
+      "question": "Which is the most abundant form of collagen in the dermis?",
+      "options": {
+        "A": "Type I",
+        "B": "Type II",
+        "C": "Type III",
+        "D": "Type IV"
+      },
+      "correct_answer": "A",
+      "explanation": "Type-I collagen is the predominant type of collagen present in the dermis, accounting for approximately 80% of the collagen in the dermis. Dermis forms the major part of human skin and extends from the lamina densa above to the subcutis below. It is highly vascular, largely acellular, and primarily consists of the extracellular matrix of connective tissue. The four main classes of extracellular components present in the dermis are as follows: collagen fibers to provide tensile strength (most abundant), elastic structures to provide resilience like elastin, non-collagenous glycoproteins like fibrillins that facilitate cell-matrix interactions, and proteoglycan molecules like hyaluronic acid, dermatan sulfate, and chondroitin sulfate.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q21_img1_d82b5395.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 22,
+      "question": "An infant with the following finding was diagnosed with incontinentia pigmenti. What does the pattern of these lesions represent?",
+      "options": {
+        "A": "Lines along lymphatics",
+        "B": "Lines along blood vessels",
+        "C": "Lines along nerves",
+        "D": "Lines of development"
+      },
+      "correct_answer": "D",
+      "explanation": "Incontinentia pigmenti is a rare X-linked dominant disorder in which the lesions are present along Blaschko's lines. Blaschko's lines are lines of normal cell development in the skin. The lines are believed to trace the migration of embryonic cells and are invisible under normal conditions, becoming apparent only when some diseases of the skin or mucosa manifest themselves according to these patterns. They follow a 'V' shape over the upper spine, 'S-shaped' whirls over the lower abdomen and sides, inverted U-shape from the breast area onto the upper arm, and wavy shapes on the head. The stripes are a type of genetic mosaicism. Blaschko's lines - lines of normal skin development. Inverted U shape over breast, S shape over lower abdomen and sides, V shape over upper spine. Several other dermatological disorders are known to follow the lines of Blaschko as given in the table: Disorder, Genodermatoses, Examples: Melanotic macules of McCune-Albright syndrome, Focal dermal hypoplasia, Congenital/Nevoid condition, Hypomelanosis of Ito, Nevus de pigmentosus, Linear Darier's disease, Epidermal Naevus, Acquired dermatoses, Segmental vitiligo, Lichen striatus, Linear scleroderma.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q22_img1_50bf86f3.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp22_img1_4384c0d9.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 23,
+      "question": "Stem cells involved in skin homeostasis are present in all of the following areas except",
+      "options": {
+        "A": "Bulge area of hair follicle",
+        "B": "Basal layer of interfollicular epidermis",
+        "C": "Base of sebaceous glands",
+        "D": "Base of apocrine glands"
+      },
+      "correct_answer": "D",
+      "explanation": "Stem cells are not known to occur at the base of apocrine sweat glands. The stem cells are present in: Bulge area of hair follicles, Basal layer of the interfollicular epidermis, and Base of sebaceous glands. Their function is to maintain skin homeostasis, regenerate skin appendages, and repair itself after injury.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/exp23_img1_478b2490.jpeg",
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 24,
+      "question": "What is the ratio of type-I to type-III collagen in the adult human skin?",
+      "options": {
+        "A": "1:4",
+        "B": "8:1",
+        "C": "3:2",
+        "D": "4:1"
+      },
+      "correct_answer": "B",
+      "explanation": "The ratio of type-I to type-III collagen in the adult human skin is 8:1. Type-I collagen is the predominant collagen in the human dermis. Type-III collagen is known to predominate in the human skin during embryonic development, but during the early postnatal period, type-I collagen synthesis accelerates. This results in the ratio of type-I to type-III collagen in the adult human skin being approximately 8:1.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    },
+    {
+      "q_no": 25,
+      "question": "What is the type of connective tissue present in the area marked by the arrow in the given image?",
+      "options": {
+        "A": "Dense regular",
+        "B": "Dense irregular",
+        "C": "Loose irregular",
+        "D": "Specialised"
+      },
+      "correct_answer": "B",
+      "explanation": "The area marked is the reticular dermis. It is made up of dense irregular connective tissue. It is found in the regions that are under considerable mechanical stress and where protection is given to ensheathed organs. It is usually present in: • Reticular dermis • Superficial connective tissue sheaths of the muscle and nerves • Adventitia of large vessels • Capsules of various organs and glands (e.g., testis, sclera, periosteum, perichondrium) On the other hand, dense regular collagen fibers are found in tendons.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mdermatology/q25_img1_14db2dee.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anatomy & Physiology of Skin"
+    }
+  ]
+}
