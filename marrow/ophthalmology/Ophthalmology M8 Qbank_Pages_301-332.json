@@ -1,0 +1,545 @@
+{
+  "chapter": "Glaucoma",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the normal aqueous production rate?",
+      "options": {
+        "A": "2 mL/min",
+        "B": "5 mL/min",
+        "C": "2 μL/min",
+        "D": "5 μL/min"
+      },
+      "correct_answer": "B",
+      "explanation": "The normal aqueous production rate is approximately 2-3 mL/min, but among the given options, 2 mL/min is the closest.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the critical angle of the air-cornea interface?",
+      "options": {
+        "A": "46 degrees",
+        "B": "64 degrees",
+        "C": "24 degrees",
+        "D": "36 degrees"
+      },
+      "correct_answer": "A",
+      "explanation": "The critical angle of the air-cornea interface is 46 degrees. Gonioscopy is a method of evaluatingthe anterior chamber (AC) angle.Direct goniolenses include the Koeppe, Medical Workshop, Barkan, and Swan-Jacob. Indirectgoniolenses include Goldmann, Zeiss, and Posner.Structures seen on gonioscopy from anterior to posterior are:• Schwalbe line: represents the posterior limit of Descemet's membrane• Trabecular meshwork• Scleral spur•Ciliary body and root of the irisShaffers grading of angle width:Grade 4 (35-45°) is the widest angle, characteristic of myopia and pseudophakia; the ciliary bodycan be visualized without tilting the lens.Grade 3 (25-35°) is an open-angle in which the scleral spur is visible.Grade 2 (20°) is an angle in which the trabeculum but not the scleral spur can be seen.Grade 1 (10°) is a very narrow-angle in which only the Schwalbe line, and perhaps the top of thetrabeculum, can be identified.A slit angle is one in which there is no obvious iridocorneal contact but no angle structures can beidentified.Grade 0 (0°) is closed due to iridocorneal contact.Critical AngleCornea Air Interface~46 degree Light rays fromAngle exceeds Critical angle so rays reflectedback into AC (Total Internal Reflection),preventing direct visualisation of angleMWOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp2_img1_09a273d7.jpeg",
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 3,
+      "question": "Which statement regarding the depth of the anterior chamber is false?",
+      "options": {
+        "A": "Depth is less in women than men",
+        "B": "Depth increases with age",
+        "C": "Depth is more in myopes",
+        "D": "Depth is less in hypermetropes"
+      },
+      "correct_answer": "B",
+      "explanation": "The depth of the anterior chamber decreases with age.314Anterior chamber depth• The anterior chamber is shallow in very young and in old age.• At other periods of life, it is normally about 2.5 mm deep..•• Depth is less in women than in men.• Depth is more in myopes.• Depth is less in hypermetropia and in angle-closure glaucoma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 4,
+      "question": "The child in the picture has large corneas, photophobia, and lacrimation. What is the likelydiagnosis?301",
+      "options": {
+        "A": "Congenital glaucoma",
+        "B": "Retinoblastoma",
+        "C": "Congenital hereditary endothelial dystrophy",
+        "D": "MegalocorneaDAILYROUNDS"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario of an infant with large corneas, lacrimation and photophobiasupported with the image is suggestive of congenital glaucoma.Primary congenital glaucoma (PCG) also known as developmental glaucoma refers to abnormallyhigh intraocular pressure (IOP) which results from the developmental anomaly of the angle of theanterior chamber.It can be classified as:•True congenital or newborn glaucoma in which IOP is elevated during intrauterine life and thebaby is born with ocular enlargement.• Infantile glaucoma: which manifests prior to age 3 years.•Juvenile glaucoma: IOP rises between 3 and 16 years of age.Clinical findings include:••Blepharospasm• Buphthalmos: Large eyeball due to stretching of the globe from elevated IOP prior to the age of 3years.• Corneal enlargement:• Corneal haze is due to corneal edema..• Blue sclera - due to the shining of the underlying uveal tissue through the thinned-out sclera•Haab striae are healed breaks in Descemet's membraneTreatment:• Goniotomy - when the angle of the anterior chamber is visible through the clear cornea.•• Trabeculectomy when the corneal clouding prevents visualization of the angle.•⚫ Filtration procedures such as Trabeculectomy or combined trabeculectomy with trabeculectomyif the above procedures fail.•Glaucoma drainage devices in unresponsive cases.Other options:Option A: Retinoblastoma is the most common primary intraocular malignancy of childhood thatis seen between 1-2 years.315Findings of Retinoblastoma include:• Leukocoria (white pupillary reflex)- the most common manifestation• Strabismus• Painful red eye with secondary glaucoma•An endophytic tumor grows into the vitreous as a white mass that may ‘seed' into the gel. Ifcalcification is present it gives a \"cottage cheese appearance\". An exophytic tumor grows outwardsand causes overlying exudative retinal detachment.The image below shows the leucocoria of the left eye.Option C: Congenital hereditary endothelial dystrophy (CHED) is an inherited corneal dystrophythat manifests since birth with endothelial degeneration. It appears as diffuse bilateral cornealedema in the absence of elevated IOP. The clinical features of the disease include cornealclouding, visual impairment, and nystagmus.Option D: Megalocornea is a bilateral non-progressive X-linked condition that most commonlyaffects males. In this condition, the horizontal corneal diameter is ≥12mm(&lt;2 years) and is ≥13mm(&gt;2 years). It is characterized by a clear cornea, normal corneal thickness, and no breaks inthe descemet's membrane. Systemic associations of Megalocornea include Marfan's syndrome,Apert syndrome, Ehlers-Danlos, and Down syndrome.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q4_img1_e692f114.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp4_img1_a8c59b81.jpeg",
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 5,
+      "question": "A neonate is brought with complaints of photophobia and watering. Clinical examinationshows normal tear passages and clear but large cornea. Investigation reveals Haab's striaeseen in the eye. What is the most likely diagnosis?",
+      "options": {
+        "A": "Buphthalmos",
+        "B": "Keratoconus",
+        "C": "Trachoma",
+        "D": "Keratoglobus"
+      },
+      "correct_answer": "",
+      "explanation": "This neonate with complaints of photophobia and watering with large cornea and Haab's striae issuggestive of buphthalmos. Haab's striae are horizontal/circumferential breaks in Descemet'smembrane seen in buphthalmos.Buphthalmos (Bull-like eyes) is an enlargement of the eyeball seen in true congenital and infantileglaucoma, usually when the disease onset is before 3 years.316The image given below shows Haab's striae and a child having buphthalmos in congenitalglaucoma.EveRounds.orgNote: Vogt's striae are vertical, fine, whitish lines (folds/tears) in Descemet's membrane commonlyfound in patients with keratoconus.The image given below shows Vogt's striae.317EYE BLINDS.ORG",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp5_img1_9e09b12f.jpeg",
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient presents to the clinic for a change of her presbyopic glasses. This is the third timethat she is coming in 2 months. What is the likely underlying diagnosis in this patient?",
+      "options": {
+        "A": "Senile cataract",
+        "B": "Retinal detachment",
+        "C": "Intumescent cataract302",
+        "D": "Open-angle glaucoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Frequent changes in presbyopic glasses in this patient is a symptom of open-angle glaucoma(OAG).This is due to increasing accommodative failure as a result of constant pressure on the ciliarymuscle and nerve supply.In intumescent cataracts, patients report difficulty with distance vision and frequent change ofspectacle prescription. However, it is not associated with frequent changes of presbyopic glasses.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 7,
+      "question": "Normal cup-to-disc ratio is up to",
+      "options": {
+        "A": "0.6",
+        "B": "0.4",
+        "C": "0.5",
+        "D": "0.3"
+      },
+      "correct_answer": "A",
+      "explanation": "Normal cup-to-disc ratio is up to 0.6. Although the average cup-to-disc ratio is around 0.3 to 0.4,a ratio of up to 0.6 may be found in healthy individuals. This larger ratio is frequently seen incases of large discs, myopic discs or physiological cupping. A cup-to-disc ratio of &gt; 0.6 issuggestive of glaucoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 8,
+      "question": "A 61-year-old man, who is a known case of diabetes mellitus, presents with headache and eyepain. He also reports difficulty with driving at night. Examination showed a laminar dot sign.What is the likely diagnosis?",
+      "options": {
+        "A": "Uveitis",
+        "B": "Glaucoma",
+        "C": "Retinal detachment",
+        "D": "ARMD"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario of a patient with headache and eye pain along with the finding of alaminar dot sign is suggestive of glaucoma.The laminar dot sign is an advanced glaucomatous change in the optic disc. This occurs becausethe pores in the lamina cribrosa are slit-shaped and are visible up to the margin of the disc.Glaucomatous changes in the optic discEarly glaucomatous changes:318• Slit defects of the retinal nerve fiber layer•Splinter hemorrhages on disc margin• Large cup - 0.7 or more• Asymmetry of the cups: A difference equal to or more than 0.2 between two eyes is significant• Vertically oval cupAdvanced glaucomatous changes:• Marked cupping (Beanpot cupping)••Thinning of neuroretinal rim• Bayonetting sign - Sharp angulation of vessel at the margin of the excavated cup• Laminar dot sign",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 9,
+      "question": "What is the last visual field to be affected in glaucoma?",
+      "options": {
+        "A": "Nasal",
+        "B": "Inferior",
+        "C": "Superior",
+        "D": "Temporal"
+      },
+      "correct_answer": "D",
+      "explanation": "The temporal visual field is the last field to be affected in glaucoma.The pattern of visual field progression in glaucoma from early to severe is predictable in light ofthe pattern of thinning of the retinal nerve fiber layer, which usually begins with the superior andinferior arcuate fibers, then the papillomacular bundle and finally, the nasal fibers.Since the nasal fibers are the last to be involved, the temporal field is the last to be affected inglaucoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is a late visual field defect in open-angle glaucoma?",
+      "options": {
+        "A": "Siedel scotoma",
+        "B": "Bjerrum scotoma303",
+        "C": "Paracentral scotoma",
+        "D": "Baring of blind spot"
+      },
+      "correct_answer": "",
+      "explanation": "Bjerrum scotoma (arcuate) is a late and clinically significant visual field defect.Progression of visual field changes seen in glaucoma:Early non-specific changesEarly significant changesLate significant changesIsopter contractionBaringof ablind spot:Exclusion of blindspot from the central fieldPeripheral nasal step(may beearly or late)Paracentral scotomain Bjerrum's area.Siedel's scotoma:Paracentral scotoma joins the blind spotArcuateorBjerrum scotomaRingorDoublearcuate scotoma:When 2 arcuate scotomas join togetherRoenne's central nasal step319Early non-specific changesAdvanced glaucomatous fielddefectsIsopter contractionBaringof ablind spot:Exclusion of blindspot from the central fieldTubular visionNo light perception: Complete visual field defect.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 11,
+      "question": "A 70-year-old patient presents with progressive deterioration of vision. The pupillary reactionis sluggish and the IOP is elevated. Fundoscopy shows a large and deep cup and the visualfield reveals paracentral scotoma. What is the first line of treatment for this diagnosis?",
+      "options": {
+        "A": "Timolol",
+        "B": "Pilocarpine",
+        "C": "Epinephrine",
+        "D": "Carbonic anhydrase inhibitor"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario of deterioration of vision, sluggish pupils, elevated IOP and paracentralscotoma is suggestive of primary open-angle glaucoma (POAG). Timolol is one of the first-lineagents used in the treatment of primary open-angle glaucoma.First-line agents for the treatment of glaucoma are:• Prostaglandin analogs such as latanoprost and bimatoprost••Topical beta-blockers such as timolol, betaxolol, and levobunololSelective alpha 2 adrenergic agonist brimonidineAdjunctive therapy: Carbonic anhydrase inhibitorsLaser trabeculoplasty: In cases where intraocular pressure (IOP) is uncontrolled despite maximaltolerated medical therapy.Note: Since prostaglandin (PG) analogs are not included in the options, the next best option tochoose is timolol.Historically, beta-blockers were the most common first-line agents used in the medical treatmentof POAG. However, with an increase in our experience with newer agents, specifically theprostaglandin analogues that facilitate outflow, they were recognized as being more efficacious inlowering IOP and systemically safer than beta-blockers. As a result, now they are the first-lineagents in glaucoma treatment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient with a known case of MI on aspirin comes with shortness of breath. She has anactive history of asthma and uses inhalational bronchodilators, her last attack was 7 monthsago. She was recently prescribed medications for increased intraocular pressure. What is thelikely cause of her current symptoms?",
+      "options": {
+        "A": "Aspirin",
+        "B": "Betaxolol",
+        "C": "Latanoprost",
+        "D": "Timolol"
+      },
+      "correct_answer": "D",
+      "explanation": "This patient with a history of asthma now presenting with shortness of breath after startingmedications for increased intraocular pressure was most likely diagnosed with glaucoma. Thedrug she was likely prescribed was timolol, a non-selective beta blocker.Timolol is a non-selective beta-blocker that is used in glaucoma. Non-selective beta-blockers cancause precipitation of bronchial asthma in susceptible individuals (beta-2 block on bronchi). Theycause bronchospasms and are therefore contraindicated in patients with asthma (e.g. timolol,levobunolol). Ocular beta-blockers reduce intraocular pressure by decreasing aqueousformation by blockade of ẞ2 receptors. Timolol is specifically associated with allergicblepharoconjunctivitis and punctal stenosisSide effects: Systemic: Bronchospasm, bradycardia, decreased cardiac output, hypotension,depression, impotence, and altered lipid profile.320Contraindications: Asthma, chronic obstructive pulmonary disease, congestive heart failure, sinusbradycardia, and atrioventricular blocksOther options:Option A: The patient has been stable on aspirin for the past three years which is unlikely to bethe cause of her current symptoms.Option B: Betaxolol is a beta 1 selective blocker that is used in glaucoma and has a lowerpropensity to precipitate bronchial asthma.Option C: Latanoprost is a prostaglandin (PGF2 alpha) analog and does not precipitate bronchialasthma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 13,
+      "question": "As a first-year ophthalmology resident, you have been referred a case of glaucoma. Hecomplaints that his current medication is causing excessive drowsiness and is interfering withhis work. Which of the following anti-glaucoma medications can cause drowsiness?",
+      "options": {
+        "A": "Latanoprost",
+        "B": "Brimonidine",
+        "C": "Timolol",
+        "D": "Dorzolamide304"
+      },
+      "correct_answer": "B",
+      "explanation": "Brimonidine is an anti-glaucoma medication that can cause drowsiness.It is a selective alpha-2 agonist. It can cross the blood-brain barrier and, hence, causes drowsinessand CNS depression; it is contraindicated in infants and children.A new class of glaucoma drugs, Rho kinase (ROCK) inhibitors, promises to act specifically on thetrabecular meshwork, a main outflow and blockage site in glaucoma. ROCK inhibitors are not yetapproved and available for glaucoma patients. Two US companies, Aerie and Altheos, arecurrently in early clinical research development with topical ROCK inhibitors to lower IOP.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 14,
+      "question": "A 55-year-old female, who is a known case of sickle cell anemia, comes to the casualty with ahistory of severe eye pain, redness, and diminution of vision. On examination, the visualacuity is 6/60, and there is circumcorneal congestion, corneal edema, and a shallow anteriorchamber. What is the drug of choice from the given options?",
+      "options": {
+        "A": "Atropine ointment",
+        "B": "Intravenous mannitol",
+        "C": "Ciprofloxacin eye drops",
+        "D": "Oral acetazolamide"
+      },
+      "correct_answer": "B",
+      "explanation": "This patient with complaints of severe headache, corneal congestion, and edema with a shallowanterior chamber most likely has acute angle closure glaucoma. Since this patient has a pasthistory of sickle cell disease, intravenous mannitol is the drug of choice for this patientAcetazolamide is contraindicated in cases of sickle-cell anemia since these drugs tend to increasesickling of erythrocytes.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 15,
+      "question": "A 50-year-old female presents with an acute painful red-eye. An image of her eye is shownbelow. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acute retrobulbar neuritis",
+        "B": "Acute angle-closure glaucoma",
+        "C": "Acute anterior uveitis",
+        "D": "Severe keratoconjunctivitis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario, supported with the image of the mid-dilated and vertically oval pupilis suggestive of acute angle-closure glaucoma. The pupil is non-reactive to both light andaccommodation.Acute primary angle-closure glaucoma refers to the occlusion of the trabecular meshwork by theperipheral iris (iridotrabecular contact [ITC]), obstructing aqueous outflow.Angle closure can be primary, when it occurs in an anatomically predisposed eye or secondary toanother ocular or systemic factor.Classification:321Symptoms: Pain, redness, photophobia, impaired vision, wateringSigns:•Corneal edema- colored halos•Conjunctiva- congestion, chemosis• IOP- elevated 40-70 mm Hg• AC very shallow•Pupil- vertically oval, mid-dilated.•Angle- completely closed, Grade oTreatment:• Immediate- Intravenous mannitol, intravenous acetazolamide followed by oral dose, topicalbeta-blockers, brimonidine, latanoprost•• Definitive- Laser peripheral iridotomy, filtration surgeryPrimary angle-closure suspect (PACS)Primary angle closure (PAC)Primary angle-closure glaucoma (PACG)Gonioscopy shows posteriormeshwork ITC in three or more quadrants but no peripheral anterior synechiae (PAS).Intraocular pressure (IOP), optic disc, and visual field are normal.No PAS are seenThe risk of PACG at 5 years may bearound 30%.Gonioscopy shows three or more quadrants of ITC with raised IOP and/or PAS or excessive pigment smudging on theTM.Normal optic disc and field.ITC in three or more quadrants, with glaucomatous opticneuropathy.Optic nerve damage from an episode of severeIOP elevation, such as acuteangle closure, may not appear as typical glaucomatous cupping.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q15_img1_cf5a4169.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 16,
+      "question": "305A 36-year-old woman develops pain in the eye after dark-room/prone-provocative test. Whichof the following drugs should be avoided?",
+      "options": {
+        "A": "Atropine",
+        "B": "Pilocarpine",
+        "C": "Acetazolamide",
+        "D": "Timolol"
+      },
+      "correct_answer": "A",
+      "explanation": "Pain after dark-room prone-provocative test indicates occludable angles. Hence, atropine iscontraindicated as it is a long-acting mydriatic and can precipitate angle closure.Dark-room/prone-provocative test (DRPPT)- The patient sits in a dark room, face down for onehour without sleeping (sleep induces miosis). The intraocular pressure (IOP) is checked322(immediately after the test, as IOP can normalize very rapidly), and an IOP rise of 8 mmHg ormore is frequently considered significant.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 17,
+      "question": "A young female presents with sudden onset severe pain in the left eye after watching a movie.She rushes to the hospital as there is a progressive loss of vision. She has ciliary injection anda shallow anterior chamber. The pupil is semi dilated and the cornea appears oedematous.What is the procedure of choice for this condition?",
+      "options": {
+        "A": "Laser iridotomy",
+        "B": "Trabeculectomy",
+        "C": "Trabeculotomy",
+        "D": "Trabeculoplasty"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario of sudden onset severe pain in the eye, progressive loss ofvision, shallow anterior chamber, semi-dilated pupil, and edematous cornea is suggestive ofacute angle-closure glaucoma. Laser iridotomy is the procedure of choice especially in emergencysituations.The attack may have been precipitated by pupillary dilation, which may result from activities suchas going to a movie theater. Laser iridotomy re-establishes the communication between theposterior and anterior chamber, bypassing the pupillary block; hence, it immediately relievescrowding of the angle.Various surgical and laser modalities used in glaucoma:Angle-closure glaucoma:•⚫ Laser iridotomy by Nd:Yag along with prophylactic iridotomy of the other eye → Treatment ofchoice.• Trabeculectomy → Filtration surgeryCongenital glaucoma:• Goniotomy• TrabeculotomyPrimary open-angle glaucoma:••• Laser trabeculoplasty: Argon or diode (if not controlled medications)Trabeculectomy: Filtration surgery (if not controlled medications)Absolute glaucoma:•⚫ Cyclocryotherapy•Nd:Yag lasercyclo destruction",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 18,
+      "question": "A 50-year-old male presented with progressive blurred vision, photophobia, and eye pain. Onexamination, there was conjunctival redness, a mid-dilated pupil, and a shallow anteriorchamber in the right eye. He has been treated both medically and surgically for the conditionbut showed no improvement. The following procedure incorporates a device to aid drainage.Identify the device.306",
+      "options": {
+        "A": "Ex-Press TM implant",
+        "B": "Ahmed glaucoma valve",
+        "C": "Molteno implant",
+        "D": "Baerveldt implant"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical vignette points to a diagnosis of glaucoma not responsive to medical treatment andtrabeculectomy and the device used is an ex-Press™ glaucoma implant (mini shunt).It is a form of minimally invasive glaucoma surgery (MIGS) to increase aqueous drainage.Ex-PRESS glaucoma implant is a small stainless steel device. It is inserted under a scleral flapduring a modified trabeculectomy. Complications such as hypotony are lower than with standardtrabeculectomy.323Glaucoma drainage devices are devices that allow aqueous outflow by establishing communicationbetween the anterior chamber and sub-Tennon's space/sub-conjunctival space. While thesedevices were traditionally reserved for high-risk patients, or after trabeculectomy had failed, theyare becoming increasingly popular.The commonly used devices are as follows:1. Shunts using episcleral explants•Ahmed glaucoma valve: Silicone• Molteno implant - Polypropylene plate and silicone plate•Baerveldt implant - Silicone2. Mini-shunts• Ex-Press™ Mini-Shunt: Stainless steel⚫iStentⓇ Titanium-",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q18_img1_ed51f024.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 19,
+      "question": "What is Glaukomflecken?",
+      "options": {
+        "A": "Acute uveitis due to glaucoma",
+        "B": "Lens opacity due to glaucoma",
+        "C": "Retinal detachment due to glaucoma",
+        "D": "Corneal opacity due to glaucomaOMARROWConjunctivaScleral flap"
+      },
+      "correct_answer": "B",
+      "explanation": "Glaukomflecken is anterior subcapsular lenticular opacity and a component of Vogt's triad seen inpatients after an acute angle closure glaucoma attack.The Vogt's triad comprises of:•Glaukomflecken• Patches of iris atrophy• Slightly dilated nonreactive pupil",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 20,
+      "question": "A 25-year-old patient presents with painless white eye with an intraocular pressure of 60mmHg. What is the most likely diagnosis?",
+      "options": {
+        "A": "Chronic papilledema",
+        "B": "Acute angle-closure glaucoma",
+        "C": "Glaucomatocyclitic crisis",
+        "D": "Acute anterior uveitis307"
+      },
+      "correct_answer": "C",
+      "explanation": "The given scenario fits the description of glaucomatocyclitic crisis.Glaucomatocyclitic crisis/Posner-Schlossman Syndrome [PSS]) describes recurrent attacks ofunilateral acute raised intraocular pressure (IOP) associated with mild anterior uveitis. Themechanism is thought to be acute trabeculitis, and there is evidence that infection, possiblycytomegalovirus (CMV) or Helicobacter pylori, may play a role. PSS typically affects young tomiddle-aged adults. Males are affected more frequently than females.•Signs:Slit-lamp biomicroscopy typically shows a few anterior chamber cells and one to several finewhite central keratic precipitates.•Mydriasis is common; posterior synechiae are not a feature.•• IOP is typically raised to over 40 mmHg, out of proportion to iritis severity.• Gonioscopy shows an open-angle.324Treatment:• Topical steroids are used to control inflammation, with aqueous suppressants to lower the IOP.•Topical or oral non-steroidal anti-inflammatory agents may also be beneficial.Note: In PSS, the rise in IOP is out of proportion to the pain felt. There is often a mild discomfortand pain may even be absent.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 21,
+      "question": "An ophthalmologist evaluating a patient with glaucoma identifies the following finding onslit-lamp examination. What is the finding?",
+      "options": {
+        "A": "Ferry line",
+        "B": "Fleischer ring",
+        "C": "Hudson-Stahli line",
+        "D": "Krukenberg spindles"
+      },
+      "correct_answer": "D",
+      "explanation": "The given image shows a pattern of the deposition of pigments on the back of the cornea inpigmentary glaucoma. They are called Krukenberg spindles.Pigmentary glaucoma is an open-angle glaucoma having the following features:• Krukenberg spindlesGonioscopy shows pigment accumulation along the Schwalbe line inferiorly, and thisaccumulation is called the Sampaolesi line.• Radial transillumination defect in the iris is a pathognomonic feature.• Pigment granules may be deposited on the anterior surface. There may be a Scheie line orZentmayer ring of pigment on the peripheral/equatorial surface around the zonular insertions.Other options:Option A: Ferry line: Corneal epithelial iron line at the edge of filtering blebs of glaucoma surgeryOption B: Fleischer line/ring: Epithelial iron deposits at the base of the cone in keratoconusOption C: Hudson-Stahli line: Iron deposition line in the corneal epithelium, which is commonlyseen in the junction between middle and lower third cornea. This finding is mainly age-related.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q21_img1_4ca8df2c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 22,
+      "question": "Malignant glaucoma is seen in",
+      "options": {
+        "A": "After intra-ocular surgery",
+        "B": "Intraocular malignancy",
+        "C": "Trauma",
+        "D": "Central retinal arterial occlusion"
+      },
+      "correct_answer": "A",
+      "explanation": "Malignant glaucoma is seen after intra-ocular surgery (usually after trabeculectomy).Ciliary block glaucoma is also called malignant glaucoma/inverse glaucoma. It can be seen afterany intraocular surgery. Forward flow of the aqueous is blocked as tips of ciliary processes rotateforward and press against the lens/intraocular lens (IOL)/anterior hyaloid of the vitreous. Hence,aqueous humor starts collecting in the vitreous cavity.•Signs:•High intraocular pressure (IOP) and absent bleb.Negative Seidel test.• Shallow anterior chamber (AC)Treatment:325• Initial treatment is with cycloplegics (atropine 1%) to dilate the ciliary ring and push thevitreous-lens-iris posteriorly.•Subsequent treatment if medical therapy fails is with Nd:YAG laser hyaloidotomy.• Pars plana vitrectomy can be considered in conditions that don't respond to the above treatmentmodalities.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 23,
+      "question": "What is iridocorneal endothelial syndrome associated with?",
+      "options": {
+        "A": "Progressive atrophy of the iris stroma",
+        "B": "Bilateral stromal edema of the iris308",
+        "C": "Primary angle-closure glaucoma",
+        "D": "Deposition of glycosaminoglycans in Descemet's membrane"
+      },
+      "correct_answer": "A",
+      "explanation": "Progressive atrophy of iris stroma is a clinical entity of iridocorneal endothelial syndrome (ICE).ICE syndrome is a proliferative endotheliopathy, which leads to secondary angle-closureglaucoma.It includes three clinical entities:Progressive iris atrophy• Chandler's syndrome - corneal edema• Cogan-Reese syndrome - nodules and nevus on the iris; hence, it is known as iris nevussyndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 24,
+      "question": "What is seen in hypersecretory glaucoma?",
+      "options": {
+        "A": "Marfans syndrome",
+        "B": "Hypertension",
+        "C": "Diabetes",
+        "D": "Epidemic dropsy"
+      },
+      "correct_answer": "D",
+      "explanation": "Hypersecretory glaucoma is associated with epidemic dropsy.Epidemic dropsy occurs due to Argemone mexicana poisoning. Here, glaucoma is due to excessiveproduction of aqueous humor.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 25,
+      "question": "100-day glaucoma is seen in which of the following conditions?",
+      "options": {
+        "A": "Central retinal vein occlusion",
+        "B": "Eale's disease",
+        "C": "Central retinal artery occlusion",
+        "D": "Steroid-induced glaucoma"
+      },
+      "correct_answer": "A",
+      "explanation": "100-day glaucoma is a neovascular glaucoma that occurs in ischemic type of central retinal veinocclusion (CRVO).It is known as 100-day glaucoma because it occurs 3 months after the episode of CRVO. Althoughneovascular glaucoma occurs as a complication in Eale's disease (Option B) and central retinalartery occlusion (Option C) and long-term use of topical steroid therapy causes steroid-inducedglaucoma (Option D) none of them are termed as 100-day glaucoma.CRVO is further classified into two types:• Non-ischemic CRVO: occurs secondary to venous stasis. It is the most common type of CRVO ofthe two.• Ischemic CRVO: occurs due to acute occlusion of the central retinal vein. It is also termed ashemorrhagic retinopathy.Ischemic CRVO presents with sudden loss of vision and Relative afferent pupil defect (RAPD).326Fundus examination shows massive enlargement of retinal veins and massive retinal hemorrhagesgiving a \"splashed tomato appearance\". Other findings include cotton wool spots, optic disc edemaand neovascularization at the disc and in the periphery.•Pathagnomic features of ischemic CRVO that differentiates it from non-ischemic CRVO are:• RAPD• Reduced amplitude of B-wave on electroretinogram• Visual field defectsComplications of the disease:• Neovascular Glaucoma known as 100 day glaucoma•Neovascularisation of iris known as Rubeosis iridis• Vitreous hemorrhage• Proliferative retinopathyThe below-given fundus image is of the \"splashed tomato\" appearance of CRVO.DAILYROUNDSOption B: Eales disease is an idiopathic inflammatory disease of the peripheral retinal veins. It isconsidered to be a hypersensitivity reaction to the tubercular proteins and it is commonly seen inyoung males. It is characterized by recurrent vitreous hemorrhage.Complications include:• Neovascular glaucoma•• Proliferative vitreoretinopathy• Tractional retinal detachment,• Rubeosis iridisOption C: Central retinal artery occlusion (CRAO) is most often caused due to an embolus from anatherosclerotic plaque. It presents as sudden painless loss of vision and amaurosis fugax(transient monocular blindness that is due to ischemia). Fundus examination shows an opaque,327milky-white retina with a cherry-red spot.Neovascular glaucoma may occur as a delayed complication of CRAO but it is not termed as 100day glaucoma.The below image depicts the fundus image seen in CRAO with the cherry red spot.Option D:Steroid induced glaucoma is a type of secondary open angle glaucoma that usuallyfollows weeks-months of topical steroid therapy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp25_img1_d5d48f74.jpeg",
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 26,
+      "question": "Which of the following statements is false regarding the progression of ocular hypertension toprimary open-angle glaucoma?",
+      "options": {
+        "A": "Reducing IOP is effective in delaying the onset of POAG",
+        "B": "Thin cornea is a risk factor for POAG development",
+        "C": "Family history is not a risk factor for POAG development",
+        "D": "Increased cup disc ratio is a risk factor for POAG development"
+      },
+      "correct_answer": "",
+      "explanation": "Family history is a risk factor for the development of primary open-angle glaucoma.Ocular hypertension (OHT) is characterized by only raised intraocular pressure (IOP). Optic discand normal visual field are normal, with no evidence of angle closure.Risk factors for the progression of ocular hypertension to primary open-angle glaucoma includethe following:• African American race•Thin cornea• Increasing age•Increased cup-disc ratio• Increased IOP• Family history of POAG",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 27,
+      "question": "Identify the instrument given in the image below.309",
+      "options": {
+        "A": "Express implant",
+        "B": "Gonioscope",
+        "C": "Baerveldt implant",
+        "D": "Ozurdex implant"
+      },
+      "correct_answer": "C",
+      "explanation": "328The given image shows Baerveldt implant which is a glaucoma drainage device(GDD)/seton/aqueous shunt.It consists of a scleral plate that is sutured to the sclera and a tube connecting it into the anteriorchamber. It is valveless, and hence, it carries the risk of postoperative hypotony due to excessiveaqueous drainage.Glaucoma drainage devices are devices that allow aqueous outflow by establishing acommunication between the anterior chamber and sub-Tennon's space/sub-conjunctival space.The glaucoma valve implant is also known as a seton.The commonly used devices are as follows:1. Shunts using episcleral explants• Ahmed glaucoma valve: Silicone•• Molteno implant- Polypropelene plate and silicone plate• Baerveldt implant- Silicone2. Mini-shunts• Ex-Press™ Mini-Shunt: Stainless steel• iStentⓇ- Titanium",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q27_img1_33946f2b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 28,
+      "question": "What is the drug of choice for inverse glaucoma?",
+      "options": {
+        "A": "Pilocarpine",
+        "B": "Prostaglandin analogues",
+        "C": "Timolol",
+        "D": "Atropine"
+      },
+      "correct_answer": "D",
+      "explanation": "The drug of choice for inverse glaucoma is atropine.Inverse glaucoma is a type of secondary angle-closure glaucoma caused by the flow of aqueoushumour posteriorly to the posterior segment instead of the posterior chamber. The increasedpressure in the posterior segment pushes the lens forward leading to the shallowing of theanterior chamber.Miotics are contraindicated as they can cause the ciliary zonules to slack, the lens to move forwardand further shallowing of the anterior chamber. So mydriatic and cycloplegic agents such asatropine are administered.Inverse glaucoma is also called:•Malignant glaucoma• Ciliary block glaucoma•Aqueous misdirection.Note:Pilocarpine is the drug of choice in angle-closure glaucoma but is contraindicated in inverseglaucoma.Whereas, atropine is the drug of choice in inverse glaucoma but is contraindicated inangle-closure glaucoma.329",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 29,
+      "question": "An elderly male who is a known case of diabetes presents with blurry vision near the center ofhis field of vision. He also informs that colours appear washed out or faded. His IOP wasfound to be elevated. Which of the following drugs should not be used to control IOP in thisdiabetic patient?",
+      "options": {
+        "A": "Prostaglandin analogue",
+        "B": "Dorzolamide",
+        "C": "Pilocarpine310",
+        "D": "Alpha agonists"
+      },
+      "correct_answer": "A",
+      "explanation": "This diabetic patient with new onset central loss of vision and reports of colors appearing faded orwashed out most likely has macular edema. Prostaglandin analogs have a high propensity to causeand further exacerbate cystoid macular edema and hence are not preferred in this patient.Drugs associated with cystoid macular edema (CME):• Prostaglandin analogues•Epinephrine• Dipivefrine (only the non-selective alpha agonists, in aphakic eyes)• Tamoxifen• Timolol• Docetaxel•• Interferons• Fingolimod• Thiazolinediones• Niacin (pseudo-CME)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 30,
+      "question": "In a 55-year-old patient presenting with secondary open-angle glaucoma, what is the mostlikely etiology?",
+      "options": {
+        "A": "Phacolytic glaucoma",
+        "B": "Pseudo exfoliation syndrome",
+        "C": "Pigment dispersion syndrome",
+        "D": "Inflammatory glaucoma."
+      },
+      "correct_answer": "B",
+      "explanation": "Pseudoexfoliation (PEX) syndrome is the most likely cause of secondary open-angle glaucoma.Pseudoexfoliation syndrome is an ocular manifestation of an age-related systemic disorder of theextracellular matrix, characterized by the production and progressive accumulation of fibrillarextracellular material in many ocular and systemic tissues. The clinical hallmark of PEX syndromeis the deposition of whitish abnormal pseudoexfoliative debris on the anterior lens capsule.A deposition is also noted on:• Zonules (causing zonulolysis and phacodonesis, lens subluxation)• Pupillary margin• Trabecular meshwork (causing the secondary open-angle glaucoma)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 31,
+      "question": "Which of the following drugs increases the uveoscleral outflow?",
+      "options": {
+        "A": "Timolol",
+        "B": "Latanoprost",
+        "C": "Pilocarpine",
+        "D": "Carbonic anhydrase inhibitor"
+      },
+      "correct_answer": "B",
+      "explanation": "Latanoprost is a prostaglandin drug, which acts by increasing the uveoscleral outflow and therebylowers the intraocular pressure.Mechanism of action: Latanoprost is a prodrug and gets activated during its passage through thecornea. It acts by stimulating the prostanoid receptors on the ciliary muscles. This leads to therelease of matrix metalloproteinases, which increases the uveoscleral outflow.330",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 32,
+      "question": "True regarding POAG:",
+      "options": {
+        "A": "A,B, D and E",
+        "B": "A, B and C",
+        "C": "B and E only",
+        "D": "B, C and D"
+      },
+      "correct_answer": "C",
+      "explanation": "In primary open-angle glaucoma (POAG), family members are likely to develop steroidresponsiveness (statement B) and visual field defect can exist with a normal C:D ratio (statementE).Statement A: Gonioscopy cannot visualize the specific abnormalities that occur in the trabecularmeshwork in POAG. Gonioscopy diagnoses POAG because of the visibility of all the structures ofthe angle of the anterior chamber in contrast to the non-visibility of different structures in angleclosure glaucoma.Statement C: Primary angle-closure glaucoma is associated with exacerbation of IOP withpupillary dilatation and not POAG.Statement D: There is a 10% increased risk of POAG in siblings and a 4% increased risk inchildren of patients with POAG.POAG also known as chronic simple glaucoma of adult-onset is characterized by the presence ofany 2 of the following 3 categories of changes:• Increased intraocular pressure:•••IOP &gt;21mmHg on more than one occasion, and/orCircadian variation in IOP of &gt;8 mmHg, or• Asymmetry in IOP &gt; 5 mmHg between both eyesOptic nerve head changes suggestive of glaucomatous damage. These may include one or moreof the following changes:•Vertically oval cup•Cup-disc (C:D) ratio &gt; 0.6 (average cup: disc ratio 0.3-0.4)• Asymmetry in C:D ratio &gt; 0.2 between both eyes.• Narrowing, notching, or pallor of the neuroretinal rim.•• Disc haemorrhages• Nasal shifting of retinal vessels-Bayonetting sign• Lamellar dot sign• Visual field changes - isopter contraction, barring of blind spot, paracentral scotoma, Seidel'sscotoma, Bjerrum's scotoma, double arcuate scotoma, and Roenne's central nasal step.A patient presenting with just raised IOP and visual field defects with normal optic nerve headfindings such as a normal C:D ratio can still be diagnosed as POAG (statement E).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 33,
+      "question": "A 48-year-old lady was started on an ocular medication that she was instructed to take daily.She develops redness of the eye. Examination reveals a colour change of the iris and orbitalfat atrophy. Which of the following medications was she likely prescribed?",
+      "options": {
+        "A": "Timolol",
+        "B": "Pilocarpine311",
+        "C": "Latanoprost",
+        "D": "Scopolamine"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical history of a patient that has iris pigmentation and redness of the eye, was mostlikely started on latanoprost.331DrugLatanoprostTimololScopolaminePilocarpineSide EffectsAllergic conjunctival hyperemia, permanent increase in iris pigmentation, orbital fat atrophy.Exacerbation of asthma and chronic obstructive pulmonary disease, bradycardia, depression, impotencePhotosensitivity, blurred visionCorneal edema, miosis, induced myopia, decreased vision,brow ache, retinal detachment",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 34,
+      "question": "First drug to be given in acute angle-closure glaucoma is",
+      "options": {
+        "A": "Atropine",
+        "B": "Timolol",
+        "C": "Pilocarpine",
+        "D": "Acetazolamide"
+      },
+      "correct_answer": "D",
+      "explanation": "The first drug to be given in acute angle-closure glaucoma is oral acetazolamide or intravenousmannitol.Acetazolamide reduces IOP by decreasing the production of aqueous.The definitive drug is pilocarpine as it constricts the pupil and breaks the attack.Finally, when the corneal edema resolves, the patient has to undergo laser iridotomy to preventsuch attacks in the future. So, laser iridotomy is the definitive management for acuteangle-closure glaucoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 35,
+      "question": "The normal extent of the visual field superiorly is",
+      "options": {
+        "A": "60°",
+        "B": "50°",
+        "C": "70°",
+        "D": "90°"
+      },
+      "correct_answer": "B",
+      "explanation": "The extent of visual field superiorly is 50°Normal extent of the visual field:• Temporal: 90°/100°• Inferiorly: 70°• Nasal: 60°•Superiorly: 50°Note: According to Parson's 22nd Ed., Page no. 101, the visual field extends 600 superiorly.However, most journals and other standard textbooks consider the answer to be 500. Hence, wechoose 500 as the most appropriate answer.332",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsThe rate of formation of aqueous humor is 2-3 μL/min.Formation of aqueous humor involves the following:• Ultrafiltration•Secretion- Na/K ATPase of non-pigmented epithelium of the ciliary process• Diffusion313Solution to Question 2:The critical angle of the air-cornea interface is 46 degrees. Gonioscopy is a method of evaluatingthe anterior chamber (AC) angle.Direct goniolenses include the Koeppe, Medical Workshop, Barkan, and Swan-Jacob. Indirectgoniolenses include Goldmann, Zeiss, and Posner.Structures seen on gonioscopy from anterior to posterior are:• Schwalbe line: represents the posterior limit of Descemet's membrane• Trabecular meshwork• Scleral spur•Ciliary body and root of the irisShaffers grading of angle width:Grade 4 (35-45°) is the widest angle, characteristic of myopia and pseudophakia; the ciliary bodycan be visualized without tilting the lens.Grade 3 (25-35°) is an open-angle in which the scleral spur is visible.Grade 2 (20°) is an angle in which the trabeculum but not the scleral spur can be seen.Grade 1 (10°) is a very narrow-angle in which only the Schwalbe line, and perhaps the top of thetrabeculum, can be identified.A slit angle is one in which there is no obvious iridocorneal contact but no angle structures can beidentified.Grade 0 (0°) is closed due to iridocorneal contact.Critical AngleCornea Air Interface~46 degree Light rays fromAngle exceeds Critical angle so rays reflectedback into AC (Total Internal Reflection),preventing direct visualisation of angleMWOMARROWSolution to Question 3:The depth of the anterior chamber decreases with age.314Anterior chamber depth• The anterior chamber is shallow in very young and in old age.• At other periods of life, it is normally about 2.5 mm deep..•• Depth is less in women than in men.• Depth is more in myopes.• Depth is less in hypermetropia and in angle-closure glaucomaSolution to Question 4:The given clinical scenario of an infant with large corneas, lacrimation and photophobiasupported with the image is suggestive of congenital glaucoma.Primary congenital glaucoma (PCG) also known as developmental glaucoma refers to abnormallyhigh intraocular pressure (IOP) which results from the developmental anomaly of the angle of theanterior chamber.It can be classified as:•True congenital or newborn glaucoma in which IOP is elevated during intrauterine life and thebaby is born with ocular enlargement.• Infantile glaucoma: which manifests prior to age 3 years.•Juvenile glaucoma: IOP rises between 3 and 16 years of age.Clinical findings include:••Blepharospasm• Buphthalmos: Large eyeball due to stretching of the globe from elevated IOP prior to the age of 3years.• Corneal enlargement:• Corneal haze is due to corneal edema..• Blue sclera - due to the shining of the underlying uveal tissue through the thinned-out sclera•Haab striae are healed breaks in Descemet's membraneTreatment:• Goniotomy - when the angle of the anterior chamber is visible through the clear cornea.•• Trabeculectomy when the corneal clouding prevents visualization of the angle.•⚫ Filtration procedures such as Trabeculectomy or combined trabeculectomy with trabeculectomyif the above procedures fail.•Glaucoma drainage devices in unresponsive cases.Other options:Option A: Retinoblastoma is the most common primary intraocular malignancy of childhood thatis seen between 1-2 years.315Findings of Retinoblastoma include:• Leukocoria (white pupillary reflex)- the most common manifestation• Strabismus• Painful red eye with secondary glaucoma•An endophytic tumor grows into the vitreous as a white mass that may ‘seed' into the gel. Ifcalcification is present it gives a \"cottage cheese appearance\". An exophytic tumor grows outwardsand causes overlying exudative retinal detachment.The image below shows the leucocoria of the left eye.Option C: Congenital hereditary endothelial dystrophy (CHED) is an inherited corneal dystrophythat manifests since birth with endothelial degeneration. It appears as diffuse bilateral cornealedema in the absence of elevated IOP. The clinical features of the disease include cornealclouding, visual impairment, and nystagmus.Option D: Megalocornea is a bilateral non-progressive X-linked condition that most commonlyaffects males. In this condition, the horizontal corneal diameter is ≥12mm(&lt;2 years) and is ≥13mm(&gt;2 years). It is characterized by a clear cornea, normal corneal thickness, and no breaks inthe descemet's membrane. Systemic associations of Megalocornea include Marfan's syndrome,Apert syndrome, Ehlers-Danlos, and Down syndrome.Solution to Question 5:This neonate with complaints of photophobia and watering with large cornea and Haab's striae issuggestive of buphthalmos. Haab's striae are horizontal/circumferential breaks in Descemet'smembrane seen in buphthalmos.Buphthalmos (Bull-like eyes) is an enlargement of the eyeball seen in true congenital and infantileglaucoma, usually when the disease onset is before 3 years.316The image given below shows Haab's striae and a child having buphthalmos in congenitalglaucoma.EveRounds.orgNote: Vogt's striae are vertical, fine, whitish lines (folds/tears) in Descemet's membrane commonlyfound in patients with keratoconus.The image given below shows Vogt's striae.317EYE BLINDS.ORGSolution to Question 6:Frequent changes in presbyopic glasses in this patient is a symptom of open-angle glaucoma(OAG).This is due to increasing accommodative failure as a result of constant pressure on the ciliarymuscle and nerve supply.In intumescent cataracts, patients report difficulty with distance vision and frequent change ofspectacle prescription. However, it is not associated with frequent changes of presbyopic glasses.Solution to Question 7:Normal cup-to-disc ratio is up to 0.6. Although the average cup-to-disc ratio is around 0.3 to 0.4,a ratio of up to 0.6 may be found in healthy individuals. This larger ratio is frequently seen incases of large discs, myopic discs or physiological cupping. A cup-to-disc ratio of &gt; 0.6 issuggestive of glaucoma.Solution to Question 8:The given clinical scenario of a patient with headache and eye pain along with the finding of alaminar dot sign is suggestive of glaucoma.The laminar dot sign is an advanced glaucomatous change in the optic disc. This occurs becausethe pores in the lamina cribrosa are slit-shaped and are visible up to the margin of the disc.Glaucomatous changes in the optic discEarly glaucomatous changes:318• Slit defects of the retinal nerve fiber layer•Splinter hemorrhages on disc margin• Large cup - 0.7 or more• Asymmetry of the cups: A difference equal to or more than 0.2 between two eyes is significant• Vertically oval cupAdvanced glaucomatous changes:• Marked cupping (Beanpot cupping)••Thinning of neuroretinal rim• Bayonetting sign - Sharp angulation of vessel at the margin of the excavated cup• Laminar dot signSolution to Question 9:The temporal visual field is the last field to be affected in glaucoma.The pattern of visual field progression in glaucoma from early to severe is predictable in light ofthe pattern of thinning of the retinal nerve fiber layer, which usually begins with the superior andinferior arcuate fibers, then the papillomacular bundle and finally, the nasal fibers.Since the nasal fibers are the last to be involved, the temporal field is the last to be affected inglaucoma.Solution to Question 10:Bjerrum scotoma (arcuate) is a late and clinically significant visual field defect.Progression of visual field changes seen in glaucoma:Early non-specific changesEarly significant changesLate significant changesIsopter contractionBaringof ablind spot:Exclusion of blindspot from the central fieldPeripheral nasal step(may beearly or late)Paracentral scotomain Bjerrum's area.Siedel's scotoma:Paracentral scotoma joins the blind spotArcuateorBjerrum scotomaRingorDoublearcuate scotoma:When 2 arcuate scotomas join togetherRoenne's central nasal step319Early non-specific changesAdvanced glaucomatous fielddefectsIsopter contractionBaringof ablind spot:Exclusion of blindspot from the central fieldTubular visionNo light perception: Complete visual field defect.Solution to Question 11:The given clinical scenario of deterioration of vision, sluggish pupils, elevated IOP and paracentralscotoma is suggestive of primary open-angle glaucoma (POAG). Timolol is one of the first-lineagents used in the treatment of primary open-angle glaucoma.First-line agents for the treatment of glaucoma are:• Prostaglandin analogs such as latanoprost and bimatoprost••Topical beta-blockers such as timolol, betaxolol, and levobunololSelective alpha 2 adrenergic agonist brimonidineAdjunctive therapy: Carbonic anhydrase inhibitorsLaser trabeculoplasty: In cases where intraocular pressure (IOP) is uncontrolled despite maximaltolerated medical therapy.Note: Since prostaglandin (PG) analogs are not included in the options, the next best option tochoose is timolol.Historically, beta-blockers were the most common first-line agents used in the medical treatmentof POAG. However, with an increase in our experience with newer agents, specifically theprostaglandin analogues that facilitate outflow, they were recognized as being more efficacious inlowering IOP and systemically safer than beta-blockers. As a result, now they are the first-lineagents in glaucoma treatment.Solution to Question 12:This patient with a history of asthma now presenting with shortness of breath after startingmedications for increased intraocular pressure was most likely diagnosed with glaucoma. Thedrug she was likely prescribed was timolol, a non-selective beta blocker.Timolol is a non-selective beta-blocker that is used in glaucoma. Non-selective beta-blockers cancause precipitation of bronchial asthma in susceptible individuals (beta-2 block on bronchi). Theycause bronchospasms and are therefore contraindicated in patients with asthma (e.g. timolol,levobunolol). Ocular beta-blockers reduce intraocular pressure by decreasing aqueousformation by blockade of ẞ2 receptors. Timolol is specifically associated with allergicblepharoconjunctivitis and punctal stenosisSide effects: Systemic: Bronchospasm, bradycardia, decreased cardiac output, hypotension,depression, impotence, and altered lipid profile.320Contraindications: Asthma, chronic obstructive pulmonary disease, congestive heart failure, sinusbradycardia, and atrioventricular blocksOther options:Option A: The patient has been stable on aspirin for the past three years which is unlikely to bethe cause of her current symptoms.Option B: Betaxolol is a beta 1 selective blocker that is used in glaucoma and has a lowerpropensity to precipitate bronchial asthma.Option C: Latanoprost is a prostaglandin (PGF2 alph",
+      "options": {
+        "A": "analog and does not precipitate bronchialasthma.Solution to Question 13:Brimonidine is an anti-glaucoma medication that can cause drowsiness.It is a selective alpha-2 agonist. It can cross the blood-brain barrier and, hence, causes drowsinessand CNS depression; it is contraindicated in infants and children.A new class of glaucoma drugs, Rho kinase (ROCK) inhibitors, promises to act specifically on thetrabecular meshwork, a main outflow and blockage site in glaucoma. ROCK inhibitors are not yetapproved and available for glaucoma patients. Two US companies, Aerie and Altheos, arecurrently in early clinical research development with topical ROCK inhibitors to lower IOP.Solution to Question 14:This patient with complaints of severe headache, corneal congestion, and edema with a shallowanterior chamber most likely has acute angle closure glaucoma. Since this patient has a pasthistory of sickle cell disease, intravenous mannitol is the drug of choice for this patientAcetazolamide is contraindicated in cases of sickle-cell anemia since these drugs tend to increasesickling of erythrocytes.Solution to Question 15:The given clinical scenario, supported with the image of the mid-dilated and vertically oval pupilis suggestive of acute angle-closure glaucoma. The pupil is non-reactive to both light andaccommodation.Acute primary angle-closure glaucoma refers to the occlusion of the trabecular meshwork by theperipheral iris (iridotrabecular contact [ITC]), obstructing aqueous outflow.Angle closure can be primary, when it occurs in an anatomically predisposed eye or secondary toanother ocular or systemic factor.Classification:321Symptoms: Pain, redness, photophobia, impaired vision, wateringSigns:•Corneal edema- colored halos•Conjunctiva- congestion, chemosis• IOP- elevated 40-70 mm Hg• AC very shallow•Pupil- vertically oval, mid-dilated.•Angle- completely closed, Grade oTreatment:• Immediate- Intravenous mannitol, intravenous acetazolamide followed by oral dose, topicalbeta-blockers, brimonidine, latanoprost•• Definitive- Laser peripheral iridotomy, filtration surgeryPrimary angle-closure suspect (PACS)Primary angle closure (PAC)Primary angle-closure glaucoma (PACG)Gonioscopy shows posteriormeshwork ITC in three or more quadrants but no peripheral anterior synechiae (PAS).Intraocular pressure (IOP), optic disc, and visual field are normal.No PAS are seenThe risk of PACG at 5 years may bearound 30%.Gonioscopy shows three or more quadrants of ITC with raised IOP and/or PAS or excessive pigment smudging on theTM.Normal optic disc and field.ITC in three or more quadrants, with glaucomatous opticneuropathy.Optic nerve damage from an episode of severeIOP elevation, such as acuteangle closure, may not appear as typical glaucomatous cupping.Solution to Question 16:Pain after dark-room prone-provocative test indicates occludable angles. Hence, atropine iscontraindicated as it is a long-acting mydriatic and can precipitate angle closure.Dark-room/prone-provocative test (DRPPT)- The patient sits in a dark room, face down for onehour without sleeping (sleep induces miosis). The intraocular pressure (IOP) is checked322(immediately after the test, as IOP can normalize very rapidly), and an IOP rise of 8 mmHg ormore is frequently considered significant.Solution to Question 17:The given clinical scenario of sudden onset severe pain in the eye, progressive loss ofvision, shallow anterior chamber, semi-dilated pupil, and edematous cornea is suggestive ofacute angle-closure glaucoma. Laser iridotomy is the procedure of choice especially in emergencysituations.The attack may have been precipitated by pupillary dilation, which may result from activities suchas going to a movie theater. Laser iridotomy re-establishes the communication between theposterior and anterior chamber, bypassing the pupillary block; hence, it immediately relievescrowding of the angle.Various surgical and laser modalities used in glaucoma:Angle-closure glaucoma:•⚫ Laser iridotomy by Nd:Yag along with prophylactic iridotomy of the other eye → Treatment ofchoice.• Trabeculectomy → Filtration surgeryCongenital glaucoma:• Goniotomy• TrabeculotomyPrimary open-angle glaucoma:••• Laser trabeculoplasty: Argon or diode (if not controlled medications)Trabeculectomy: Filtration surgery (if not controlled medications)Absolute glaucoma:•⚫ Cyclocryotherapy•Nd:Yag lasercyclo destructionSolution to Question 18:The clinical vignette points to a diagnosis of glaucoma not responsive to medical treatment andtrabeculectomy and the device used is an ex-Press™ glaucoma implant (mini shunt).It is a form of minimally invasive glaucoma surgery (MIGS) to increase aqueous drainage.Ex-PRESS glaucoma implant is a small stainless steel device. It is inserted under a scleral flapduring a modified trabeculectomy. Complications such as hypotony are lower than with standardtrabeculectomy.323Glaucoma drainage devices are devices that allow aqueous outflow by establishing communicationbetween the anterior chamber and sub-Tennon's space/sub-conjunctival space. While thesedevices were traditionally reserved for high-risk patients, or after trabeculectomy had failed, theyare becoming increasingly popular.The commonly used devices are as follows:1. Shunts using episcleral explants•Ahmed glaucoma valve: Silicone• Molteno implant - Polypropylene plate and silicone plate•Baerveldt implant - Silicone2. Mini-shunts• Ex-Press™ Mini-Shunt: Stainless steel⚫iStentⓇ Titanium-Solution to Question 19:Glaukomflecken is anterior subcapsular lenticular opacity and a component of Vogt's triad seen inpatients after an acute angle closure glaucoma attack.The Vogt's triad comprises of:•Glaukomflecken• Patches of iris atrophy• Slightly dilated nonreactive pupilSolution to Question 20:The given scenario fits the description of glaucomatocyclitic crisis.Glaucomatocyclitic crisis/Posner-Schlossman Syndrome [PSS]) describes recurrent attacks ofunilateral acute raised intraocular pressure (IOP) associated with mild anterior uveitis. Themechanism is thought to be acute trabeculitis, and there is evidence that infection, possiblycytomegalovirus (CMV) or Helicobacter pylori, may play a role. PSS typically affects young tomiddle-aged adults. Males are affected more frequently than females.•Signs:Slit-lamp biomicroscopy typically shows a few anterior chamber cells and one to several finewhite central keratic precipitates.•Mydriasis is common; posterior synechiae are not a feature.•• IOP is typically raised to over 40 mmHg, out of proportion to iritis severity.• Gonioscopy shows an open-angle.324Treatment:• Topical steroids are used to control inflammation, with aqueous suppressants to lower the IOP.•Topical or oral non-steroidal anti-inflammatory agents may also be beneficial.Note: In PSS, the rise in IOP is out of proportion to the pain felt. There is often a mild discomfortand pain may even be absent.Solution to Question 21:The given image shows a pattern of the deposition of pigments on the back of the cornea inpigmentary glaucoma. They are called Krukenberg spindles.Pigmentary glaucoma is an open-angle glaucoma having the following features:• Krukenberg spindlesGonioscopy shows pigment accumulation along the Schwalbe line inferiorly, and thisaccumulation is called the Sampaolesi line.• Radial transillumination defect in the iris is a pathognomonic feature.• Pigment granules may be deposited on the anterior surface. There may be a Scheie line orZentmayer ring of pigment on the peripheral/equatorial surface around the zonular insertions.Other options:Option A: Ferry line: Corneal epithelial iron line at the edge of filtering blebs of glaucoma surgeryOption B: Fleischer line/ring: Epithelial iron deposits at the base of the cone in keratoconusOption C: Hudson-Stahli line: Iron deposition line in the corneal epithelium, which is commonlyseen in the junction between middle and lower third cornea. This finding is mainly age-related.Solution to Question 22:Malignant glaucoma is seen after intra-ocular surgery (usually after trabeculectomy).Ciliary block glaucoma is also called malignant glaucoma/inverse glaucoma. It can be seen afterany intraocular surgery. Forward flow of the aqueous is blocked as tips of ciliary processes rotateforward and press against the lens/intraocular lens (IOL)/anterior hyaloid of the vitreous. Hence,aqueous humor starts collecting in the vitreous cavity.•Signs:•High intraocular pressure (IOP) and absent bleb.Negative Seidel test.• Shallow anterior chamber (AC)Treatment:325• Initial treatment is with cycloplegics (atropine 1%) to dilate the ciliary ring and push thevitreous-lens-iris posteriorly.•Subsequent treatment if medical therapy fails is with Nd:YAG laser hyaloidotomy.• Pars plana vitrectomy can be considered in conditions that don't respond to the above treatmentmodalities.Solution to Question 23:Progressive atrophy of iris stroma is a clinical entity of iridocorneal endothelial syndrome (ICE).ICE syndrome is a proliferative endotheliopathy, which leads to secondary angle-closureglaucoma.It includes three clinical entities:Progressive iris atrophy• Chandler's syndrome - corneal edema• Cogan-Reese syndrome - nodules and nevus on the iris; hence, it is known as iris nevussyndrome.Solution to Question 24:Hypersecretory glaucoma is associated with epidemic dropsy.Epidemic dropsy occurs due to Argemone mexicana poisoning. Here, glaucoma is due to excessiveproduction of aqueous humor.Solution to Question 25:100-day glaucoma is a neovascular glaucoma that occurs in ischemic type of central retinal veinocclusion (CRVO).It is known as 100-day glaucoma because it occurs 3 months after the episode of CRVO. Althoughneovascular glaucoma occurs as a complication in Eale's disease (Option",
+        "B": "and central retinalartery occlusion (Option",
+        "C": "and long-term use of topical steroid therapy causes steroid-inducedglaucoma (Option",
+        "D": "none of them are termed as 100-day glaucoma.CRVO is further classified into two types:• Non-ischemic CRVO: occurs secondary to venous stasis. It is the most common type of CRVO ofthe two.• Ischemic CRVO: occurs due to acute occlusion of the central retinal vein. It is also termed ashemorrhagic retinopathy.Ischemic CRVO presents with sudden loss of vision and Relative afferent pupil defect (RAPD).326Fundus examination shows massive enlargement of retinal veins and massive retinal hemorrhagesgiving a \"splashed tomato appearance\". Other findings include cotton wool spots, optic disc edemaand neovascularization at the disc and in the periphery.•Pathagnomic features of ischemic CRVO that differentiates it from non-ischemic CRVO are:• RAPD• Reduced amplitude of B-wave on electroretinogram• Visual field defectsComplications of the disease:• Neovascular Glaucoma known as 100 day glaucoma•Neovascularisation of iris known as Rubeosis iridis• Vitreous hemorrhage• Proliferative retinopathyThe below-given fundus image is of the \"splashed tomato\" appearance of CRVO.DAILYROUNDSOption B: Eales disease is an idiopathic inflammatory disease of the peripheral retinal veins. It isconsidered to be a hypersensitivity reaction to the tubercular proteins and it is commonly seen inyoung males. It is characterized by recurrent vitreous hemorrhage.Complications include:• Neovascular glaucoma•• Proliferative vitreoretinopathy• Tractional retinal detachment,• Rubeosis iridisOption C: Central retinal artery occlusion (CRAO) is most often caused due to an embolus from anatherosclerotic plaque. It presents as sudden painless loss of vision and amaurosis fugax(transient monocular blindness that is due to ischemia). Fundus examination shows an opaque,327milky-white retina with a cherry-red spot.Neovascular glaucoma may occur as a delayed complication of CRAO but it is not termed as 100day glaucoma.The below image depicts the fundus image seen in CRAO with the cherry red spot.Option D:Steroid induced glaucoma is a type of secondary open angle glaucoma that usuallyfollows weeks-months of topical steroid therapy.Solution to"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Glaucoma"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "chapter": "Anatomy and Development of Eye",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The newborn eye is usually",
+      "options": {
+        "A": "Myopic",
+        "B": "Hypermetropic",
+        "C": "Emmetropic",
+        "D": "Astigmatic"
+      },
+      "correct_answer": "B",
+      "explanation": "The newborn eye is usually hypermetropic due to its smaller axial length.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 2,
+      "question": "At what age would a child attain full visual acuity?",
+      "options": {
+        "A": "6 months",
+        "B": "1 year",
+        "C": "3 years",
+        "D": "6 years"
+      },
+      "correct_answer": "D",
+      "explanation": "Full visual acuity is attained by the age of 6 years. Important milestones in visual development are: \n      At birth, there is no central fixation, and the eyes move randomly. \n      By the first month of life, the fixation reflex starts developing and becomes established by 6 months. \n      By 3 months, binocular vision is established. \n      By 6 months, macular stereopsis and accommodation reflex are fully developed. \n      By 6 years of age, full visual acuity (6/6) is attained.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 3,
+      "question": "A 45-year-old lady presents with the abnormality as shown below. She is diagnosed with uveal melanoma. What is the embryological origin of the cells involved?",
+      "options": {
+        "A": "Neural ectoderm",
+        "B": "Mesoderm",
+        "C": "Surface ectoderm",
+        "D": "Neural crest"
+      },
+      "correct_answer": "D",
+      "explanation": "Uveal melanomas arise from uveal melanocytes. Uveal and conjunctival melanocytes are derived from the neural crest cells.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q3_img1_adc48365.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following statements is false regarding the development of the eye?",
+      "options": {
+        "A": "The macula is fully developed at birth.",
+        "B": "The lens grows throughout life.",
+        "C": "The cornea attains normal diameter by 2 years.",
+        "D": "Full visual acuity is attained by 6 years of age."
+      },
+      "correct_answer": "A",
+      "explanation": "The macula is fully developed by 4-6 months of age. Apart from the macula, the rest of the retina is fully developed at birth. Postnatal Development of Eye: • 3 Months - Binocular single vision develops. • 4-6 Months - Macula fully develops. Fusional reflexes, stereopsis, and accommodation become well developed. • 6 Months - Fixation, which had started developing in the first month, is now complete. • 2 Years - Cornea develops to the normal adult diameter. • 6 Years - Visual acuity fully develops and reaches 6/6. The lens, however, continues to grow throughout life.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 5,
+      "question": "By how many weeks of embryonic development does the optic groove appear?",
+      "options": {
+        "A": "2 weeks",
+        "B": "3 weeks",
+        "C": "4 weeks",
+        "D": "5 weeks"
+      },
+      "correct_answer": "B",
+      "explanation": "The optic groove appears by 3 weeks. By approximately day 22, 2 small grooves appear on either side of the developing forebrain in the neural folds, these are called optic grooves. As the neural tube closes, these grooves develop outpouchings called optic vesicles. These optic vesicles extend from the forebrain to the surface ectoderm. Transverse section through the developing forebrain - Day 22. The wall of forebrain, surface ectoderm, optic grooves, development of the eye, surface mesenchyme, optic ulcus, lens placode vesicle, neuroepithelium. The area of the neural plate where the future eye will be formed initially thickens and then gets depressed to form the optic sulcus. Optic vesicle: As the optic sulcus deepens, the wall of the prosencephalon overlying the sulcus bulges outwards to form the optic vesicle. Optic stalk: Neural retina, lens, ganglion, interneurons. The proximal part of the optic vesicle becomes constricted and elongated to form the optic stalk. As the lens vesicle is formed from the surface ectoderm, the optic stalk gets converted into the bilayered optic cup. Retinal pigmented epithelium: The lens is formed, and the optic cup is converted to neural retina.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp5_img1_7299c73b.jpeg",
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 6,
+      "question": "Embryonic development of ciliary muscles is from",
+      "options": {
+        "A": "Surface ectoderm",
+        "B": "Neural ectoderm",
+        "C": "Neural crest",
+        "D": "Mesoderm"
+      },
+      "correct_answer": "C",
+      "explanation": "Embryonic development of ciliary muscles is from the neural crest.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 7,
+      "question": "After conception, the canal of Schlemm appears by",
+      "options": {
+        "A": "3rd month",
+        "B": "4th month",
+        "C": "5th month",
+        "D": "6th month"
+      },
+      "correct_answer": "B",
+      "explanation": "The canal of Schlemm appears by the 4th month after conception.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the anteroposterior diameter of the adult eyeball?",
+      "options": {
+        "A": "2.6 cm",
+        "B": "2.5 cm",
+        "C": "2.4 cm",
+        "D": "2.1 cm"
+      },
+      "correct_answer": "C",
+      "explanation": "The anteroposterior (AP) diameter of the adult eye is 24 mm/2.4 cm. At birth, the average axial length of the eyeball is 16.5 mm. By 3 years, it grows rapidly to approximately 23 mm. From 3 to 14 years of age, the axial length gradually increases by a further 1 mm, bringing it to the adult size of 24 mm. This overall adjustment in the eye size, including the refractive power, is called emmetropization.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 9,
+      "question": "A 34-year-old lady comes to the clinic complaining of problems in her vision. On perimetry, a visual field defect as shown below is obtained. Which of the following vessels does not supply the anatomical location of the lesion?",
+      "options": {
+        "A": "Anterior cerebral artery",
+        "B": "Anterior communicating artery",
+        "C": "Internal carotid artery",
+        "D": "Middle cerebral artery"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shows bitemporal hemianopia, a defect caused by optic chiasmal lesions. The middle cerebral artery does not supply the optic chiasma. Blood supply of optic chiasma: \n      • Anterior cerebral artery - dorsal chiasma\n      • Anterior communicating artery - ventral chiasma\n      • Internal carotid artery - ventral chiasma\n      • Superior hypophyseal artery - ventral (branch of internal carotid artery).\n      Optic chiasm Blood supply of optic chiasm. Anterior communicating artery, Anterior cerebral artery, Internal carotid artery, Superior hypophyseal artery",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q9_img1_2ac81004.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp9_img1_29ab235f.jpeg",
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 10,
+      "question": "A college student comes to the OPD for refractive error testing. Her eyes are dilated using tropicamide. Which of the following statements is false about the structure this drug acts on?",
+      "options": {
+        "A": "It is triangular in cross section.",
+        "B": "There are around 30-40 processes in pars plana and pars plicata",
+        "C": "Its epithelium is derived from the anterior edge of the optic cup.",
+        "D": "The pars plana is approximately 4.5 mm from the limbus."
+      },
+      "correct_answer": "B",
+      "explanation": "Tropicamide is a cycloplegic drug that acts on the ciliary body to cause mydriasis for refractive error testing. The ciliary body is a triangular structure that contains 60-70 ciliary processes in each eye, present on the pars plicata. The pars plana is 4.5mm from the limbus while the distance between the equator and the limbus is 14mm. The ciliary epithelium is derived from the optic cup (neuroectoderm) by the continued growth of the outer lip's anterior edge.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp10_img1_a44a5842.jpeg",
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 11,
+      "question": "A 12-year-old girl you examined in an outreach camp is found to have this abnormality. What is the most common site where the condition is seen?",
+      "options": {
+        "A": "Superonasal",
+        "B": "Inferonasal",
+        "C": "Superotemporal",
+        "D": "Inferotemporal"
+      },
+      "correct_answer": "B",
+      "explanation": "The condition depicted in the image is a coloboma of the iris, and the most common site of coloboma is the inferonasal quadrant. A coloboma is a congenital malformation in one of the structures in the eye, such as the iris, retina, choroid, or optic disc, due to the failure of embryonic fissure closure. Coloboma of the uveal tract may be typical (seen in the inferonasal quadrant) or atypical (occasionally found in other positions). Typical coloboma is of two types: Complete: Extends from pupil to optic nerve, causing a corresponding lens indentation. Incomplete: May involve iris alone, or iris and ciliary body (more common), or iris, ciliary body and a part of choroid. Other embryonic remnants in the eye: Mittendorf's dot - Remnant of the anterior end of the hyaloid artery. Bergmeister papilla - Remnant of the posterior end of the hyaloid artery. Persistent hyperplastic primary vitreous (PHPV) - Failure of fetal vasculature to regress.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q11_img1_8a8e63d4.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp11_img1_5c97223e.jpeg",
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 12,
+      "question": "A child was brought with complaints of decreased vision. Fundus examination shows a developmental anomaly as shown below. What is the cause of this anomaly?",
+      "options": {
+        "A": "Incomplete closure of the embryonic fissure",
+        "B": "Faulty migration of neural crest cells",
+        "C": "Exuberant proliferation of glial tissue",
+        "D": "Abnormal retinal differentiation"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows a coloboma of the optic disc, accompanied by a large chorioretinal coloboma located below the optic disc, which is caused by incomplete closure of the embryonic fissure. This developmental anomaly may involve the optic nerve, choroid, retina, and iris. Coloboma of the optic disc can present in two forms: a minor effect often associated with refractive errors like hypermetropia and astigmatism, and a fully developed coloboma that appears as a large inferonasal whitish excavation resembling the optic disc. Defective vision and superior visual field defects are typically associated with fully developed coloboma. Additionally, this condition may be associated with chorioretinal coloboma, a congenital anomaly where the developing optic cup fails to fuse completely, leading to abnormal choroidal and retinal development. Note: Faulty migration of neural crest cells results in anterior segment dysgenesis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q12_img1_a7c507e3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 13,
+      "question": "What is the embryological origin of the structure marked in the image?",
+      "options": {
+        "A": "Neural ectoderm",
+        "B": "Mesoderm",
+        "C": "Surface ectoderm",
+        "D": "Neural crest"
+      },
+      "correct_answer": "C",
+      "explanation": "The lacrimal gland arises from the surface ectoderm. The lacrimal gland's excretory ducts, lacrimal sac, nasolacrimal duct, upper canaliculus, common canaliculus, lower canaliculus, and Valve of Hasner comprise the Lacrimal Apparatus.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q13_img1_630c7ecd.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 14,
+      "question": "The optic foramen is situated between the:",
+      "options": {
+        "A": "Lesser and greater wings of the sphenoid",
+        "B": "Lesser wing and body of the sphenoid",
+        "C": "Greater wing and body of the sphenoid",
+        "D": "Two roots of the lesser wing of the sphenoid"
+      },
+      "correct_answer": "D",
+      "explanation": "The optic foramen is situated between the two roots of the lesser wing of the sphenoid. The optic foramen leads into the optic canal, which is formed medially by the body and laterally by the lesser wing of the sphenoid bone, connecting the orbit's apex to the middle cranial fossa. The optic canal transmits the optic nerve with its meningeal coverings; the ophthalmic artery, which is below the nerve, is embedded in its dural sheath, and a few twigs from the sympathetic plexus accompanying the artery.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp14_img1_3535015b.jpeg",
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 15,
+      "question": "During a game, a 26-year-old baseball player is hit in the head by a baseball, which fractures the optic canal. Which of the following pairs of structures is most likely to be damaged?",
+      "options": {
+        "A": "Optic nerve and ophthalmic vein",
+        "B": "Ophthalmic vein and ophthalmic nerve",
+        "C": "Ophthalmic artery and optic nerve",
+        "D": "Ophthalmic nerve and optic nerve"
+      },
+      "correct_answer": "C",
+      "explanation": "Sphenoid bone, optic foramen, Superior orbital fissure, Lesser wing, Greater wing, Sphenoid sinus. In the given clinical scenario, a fracture of the optic canal is most likely to damage the ophthalmic artery and optic nerve, as these are the primary structures passing through it. The optic foramen leads into the optic canal, which is a short cylindrical structure bounded medially by the body and laterally by the lesser wing of the sphenoid bone, connecting the orbit's apex to the middle cranial fossa, serving as a pathway for the aforementioned structures along with its sympathetic plexus. Optic canal fractures, often associated with basilar skull fractures, can lead to optic neuropathy. The intracanalicular and intracranial portion of the optic nerve is most commonly affected in head trauma. Note: The greater and lesser wings of the sphenoid bound the superior orbital fissure.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 16,
+      "question": "The anterior segment of the eye includes all except",
+      "options": {
+        "A": "Anterior chamber",
+        "B": "Posterior chamber",
+        "C": "Vitreous",
+        "D": "Lens"
+      },
+      "correct_answer": "C",
+      "explanation": "The anterior segment of the eye does not include vitreous humor as it is a constituent of the posterior segment of the eye. Anterior Segment: Posterior Segment: Cornea, Iris, Lens, Vitreous humor, Retina, Choroid, Anterior and Posterior chambers with aqueous humor, Optic Disc. Schematic representation of eye: Anterior chamber, Posterior chamber, Suspensory ligaments of lens, Sclera, Retinal blood vessels.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp16_img1_9ad3bee0.jpeg",
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 17,
+      "question": "The posterior chamber in the eyeball is filled with",
+      "options": {
+        "A": "Aqueous humor",
+        "B": "Vitreous humor",
+        "C": "Lymph",
+        "D": "Blood"
+      },
+      "correct_answer": "A",
+      "explanation": "The posterior chamber of the eyeball is filled with aqueous humor. The eyeball is divided into anterior and posterior segments. The anterior segment includes the lens and the structures anterior to it, such as the cornea, iris, and two aqueous humor-filled spaces: the anterior chamber, located between the cornea and iris, contains aqueous humor and communicates with the posterior chamber through the pupil; the posterior chamber, a triangular-shaped space, also contains aqueous humor, bounded anteriorly by the posterior surface of the iris, laterally by the ciliary body, and posteriorly by the lens. The posterior segment includes all structures located posterior to the lens, comprising the vitreous humor, retina, choroid, and optic disc.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp17_img1_4865c9c0.jpeg",
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following structures is attached to Whitnall's tubercle?",
+      "options": {
+        "A": "Check ligament of the medial rectus",
+        "B": "Superior oblique tendon",
+        "C": "Check ligament of the lateral rectus",
+        "D": "Whitnall's ligament"
+      },
+      "correct_answer": "C",
+      "explanation": "Check ligament of the lateral rectus is attached to Whitnall's tubercle. Lateral orbital tubercle or Whitnall's tubercle is a small elevation on the orbital surface of the zygomatic bone, just within the lateral orbital margin. It is about 11 mm below the fronto-zygomatic suture. Four structures are attached to it: Check ligament of the lateral rectus, Lockwood's ligament (Suspensory ligament of the eyeball), Lateral palpebral ligament, and Lateral horn of the levator aponeurosis. The Whitnall's ligament or the superior transverse ligament of the eye, is attached to the superior tarsal plate and the orbital bone.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp18_img1_e4980389.jpeg",
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following statements is false regarding the tarsal plates?",
+      "options": {
+        "A": "Tarsal plates are cartilaginous structures.",
+        "B": "They give structural support to the eyelid.",
+        "C": "LPS aponeurosis is attached to the superior border of the upper tarsal plate.",
+        "D": "Their medial and lateral ends form the medial and lateral palpebral ligaments, respectively."
+      },
+      "correct_answer": "A",
+      "explanation": "The tarsal plates are not cartilaginous structures but firm, dense connective tissue (fibrous tissue) plates. The tarsal plates serve as the structural support of the eyelids. The height of the upper tarsal plate is about 10 mm, and that of the lower tarsal plate is 4 mm. Both plates have a thickness of about 1 mm. The ends form the medial and lateral palpebral ligaments (medial and lateral canthal tendons). The levator palpebrae superioris (LPS) aponeurosis is attached to the superior border of the upper tarsal plate. The meibomian glands are located within the tarsus. These are holocrine-secreting sebaceous glands that are not associated with lash follicles.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp19_img1_f1ae675a.jpeg",
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 20,
+      "question": "A 55-year-old man is being evaluated for herpes zoster ophthalmicus. On eliciting the corneal reflex, there is no response. Which of the following nerves forms the afferent limb of this reflex?",
+      "options": {
+        "A": "Infratrochlear nerve",
+        "B": "Supratrochlear nerve",
+        "C": "Supraorbital nerve",
+        "D": "Long ciliary nerve"
+      },
+      "correct_answer": "D",
+      "explanation": "The sensory supply of the cornea comes from the long ciliary nerve (a branch of the nasociliary nerve). It forms the afferent limb of the corneal reflex. The sensory nerve supply of the eye is by the ophthalmic nerve. The lacrimal nerve supplies the lacrimal gland, conjunctiva, and lateral eyelid. The frontal nerve supplies the conjunctiva, eyelid, and part of the forehead. The nasociliary nerve has several branches, including the long ciliary nerve, which supplies the cornea, ciliary body, and iris. The infratrochlear nerve supplies the conjunctiva, lacrimal sac, caruncle, and medial part of the eyelids. Corneal sensation is reduced in leprosy and diabetes mellitus (neuropathy).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 21,
+      "question": "Which intrinsic ocular muscle has a parasympathetic innervation?",
+      "options": {
+        "A": "Superior rectus",
+        "B": "Superior oblique",
+        "C": "Sphincter pupillae",
+        "D": "Dilator pupillae"
+      },
+      "correct_answer": "C",
+      "explanation": "The intrinsic ocular muscle supplied by parasympathetic innervation is the sphincter pupillae. Parasympathetic innervation: Sphincter pupillae: short ciliary nerve - Ciliary ganglion; Ciliary muscle - Accessory ganglion. Sympathetic innervation: Dilator pupillae and Muller's muscle. Motor Supply: 3rd nerve: all extraocular muscles (except the two given below); 6th nerve: Lateral rectus (LR6); 4th nerve: Superior oblique (SO4); 7th nerve: Orbicularis oculi",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 22,
+      "question": "What is the thinnest part of the retina?",
+      "options": {
+        "A": "Foveola",
+        "B": "Fovea centralis",
+        "C": "Optic disc",
+        "D": "Ora serrata"
+      },
+      "correct_answer": "D",
+      "explanation": "The retina is the thinnest (0.080 mm) at the ora serrata, and thickest at the foveal rim (0.23-0.320 mm). The ora serrata is the serrated junction between the retina and ciliary body.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    },
+    {
+      "q_no": 23,
+      "question": "In the anatomy dissection hall, you are shown the dissected orbit with the markers as shown below. You are asked to choose the muscles causing depression of the eyeball. Which will you choose?",
+      "options": {
+        "A": "A and E",
+        "B": "B, C, and D",
+        "C": "B, D, and E",
+        "D": "B and E, Lateral Optic nerve, rectus, ED11"
+      },
+      "correct_answer": "A",
+      "explanation": "The muscles responsible for the depression of the eyeball are the inferior rectus (E) and superior oblique (A). Image markings: • A- Superior oblique • B- Levator palpebrae superioris • C- Superior rectus ⚫ D- Inferior oblique • E- Inferior rectus. LEVATOR PALPEBRAE SUPERIORIS MUSCLE, SUPERIOR RECTUS MUSCLE, SUPERIOR OBLIQUE MUSCLE, MEDIAL RECTUS, OPTIC NERVE, MUSCLE, INFERIOR OBLIQUE MUSCLE, LATERAL RECTUS MUSCLE, INFERIOR RECTUS MUSCLE. Anatomy UMFTM ©2013. Nerve supply of extra-ocular muscles: • Oculomotor nerve (III)- Superior rectus, inferior rectus, medial rectus, inferior oblique, and levator palpebrae superioris • Abducens nerve (VI)- Lateral rectus • Trochlear nerve (IV)- Superior oblique.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q23_img1_7e3890dd.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Anatomy and Development of Eye"
+    }
+  ]
+}

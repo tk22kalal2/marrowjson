@@ -1,0 +1,275 @@
+{
+  "chapter": "Tumors of Eye",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which among the following is the most common primary intraocular malignancy in adults?",
+      "options": {
+        "A": "Retinoblastoma",
+        "B": "Malignant melanoma",
+        "C": "Hemangiosarcoma",
+        "D": "Neurofibroma"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 2,
+      "question": "Which is the most common primary malignant tumor of the lid?",
+      "options": {
+        "A": "Squamous cell carcinoma",
+        "B": "Basal cell carcinoma",
+        "C": "Malignant melanoma",
+        "D": "Merkel cell carcinoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common primary malignant tumor of the lid is basal cell carcinoma.The second most common tumor of the lid is squamous cell carcinoma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is the most common lid malignancy in HIV patients?534",
+      "options": {
+        "A": "Basal cell carcinoma",
+        "B": "Kaposi sarcoma",
+        "C": "Squamous cell carcinoma",
+        "D": "Sebaceous gland carcinoma"
+      },
+      "correct_answer": "B",
+      "explanation": "Kaposi sarcoma is the commonest malignancy of the lid and conjunctiva in HIV patients.It appears as a violaceous non-tender nodule on the eyelid or conjunctiva. It is a rapidly growingacquired neoplasm composed of malignant stromal cells densely vascularized by blood vessels ofcapillary size.The typical lesion appears as an expanding, bright red subepithelial mass that projects throughand replaces the overlying conjunctival epithelium. Spontaneous bleeding leading to bloody tearsor a subconjunctival hematoma is relatively common.Conjunctival Kaposi's sarcoma can be treated by excision, cryotherapy, radiation therapy (externalbeam or contact therapy), chemotherapy, or topical or intralesional interferon-a.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q3_img1_3acb95ef.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following cannot be used in the management of the clinical condition shownbelow?",
+      "options": {
+        "A": "Oral propranolol",
+        "B": "Oral prednisolone",
+        "C": "Intralesional triamcinolone",
+        "D": "Interferon beta"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shows a capillary hemangioma involving the left upper lid and periocular area.Interferon beta is not used in the management of capillary hemangioma. However, note thatinterferon alfa-2a is used in resistant cases.A capillary haemangioma is the most common tumor of the orbit and periorbital area inchildhood.It may present as small isolated lesions or large masses that can cause visual impairment (due tomechanical ptosis and the resulting sensory deprivation amblyopia), systemic effects (severethrombocytopenia), or exist as part of PHACE syndrome (Posterior fossa anomalies,Hemangioma, Arterial lesions, Cardiac abnormalities, Eye or Endocrine abnormalities)30% of lesions resolve by the age of 3 years and about 75% by the age of 7.Indications for treatment are:•• Visual (amblyopia, astigmatism, occlusion, strabismus)542• Cosmesis•• Optic nerve compression•• Exposure keratopathyTreatment options include:• Beta blockers- oral propranolol, topical timolol.• Steroids- intralesional triamcinolone or betamethasone, topical clobetasol, systemic steroids.• Interferon alfa-2a and vincristine- for steroid-resistant sight-threatening lesions.• Local resection with cutting cautery or carbon dioxide laser.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q4_img1_5c7e2832.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 5,
+      "question": "An 8-year old child presented with right-sided proptosis. Biopsy of the orbital mass was doneand histopathological examination revealed this picture. What is the most likely diagnosis?535",
+      "options": {
+        "A": "Retinoblastoma",
+        "B": "Metastases from neuroblastoma",
+        "C": "Rhabdomyosarcoma",
+        "D": "Hemangiosarcoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The most likely diagnosis is rhabdomyosarcoma (RMS). Rhabdomyosarcoma is the most commonsoft tissue sarcoma of childhood.40% of rhabdomyosarcomas develop in the head and neck, and they are the most commonprimary orbital malignancy in children but are still a rare condition. The older age of the childpresenting with proptosis suggests rhabdomyosarcoma (average age 7 to 8 years) thanretinoblastoma (average age at presentation is 18 months).The histopathology shows elongated to round spindle cells with features of skeletal muscle atdifferent stages of maturation with highly eosinophilic cytoplasm and hyperchromatic nuclei – theembryonal type of rhabdomyosarcomaImmunohistochemistry is useful in identifying skeletal muscle proteins, such as alpha-actin,myosin, desmin, and myoglobinRhabdomyosarcoma shows a strong tendency for local invasion, local recurrence, andhematogenous and lymphatic metastases.Decision-making for management is based on histopathologic confirmation as well as the stagingof orbital RMS, which includes imaging (MRI of primary tumor, chest-CT, Tc bone scan),pathology, and work-up for metastases(bone marrow biopsy).Treatment options include chemotherapy (vincristine, cyclophosphamide, and actinomycin D) andradiotherapy.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q5_img1_3f72bdd5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient presented with painless decrease in vision and metamorphopsia. Fundusexamination revealed the lesion shown in the image. What is the expected finding onangiography?",
+      "options": {
+        "A": "Smoke-stack appearance536",
+        "B": "Inkblot appearance",
+        "C": "Collarstud appearance",
+        "D": "Double circulation"
+      },
+      "correct_answer": "D",
+      "explanation": "The clinical vigenette is of a patient presenting with painless dimunition of vision andmetamorphopsia with the right fundus showing choroidal melanoma superotemporal to the opticdisc and involving the macula.In this patient a “Double circulation\" pattern consisting of an internal circulation within the lesionand the normal vascularity of the overlying retina will be seen on angiography.543Although collar stud(Option C) appearance is pathagnomic for choroidal melanoma, it can be seenon B-scan and not on angiography.Choroidal melanoma is a primary intraocular malignancy in adults that peaks around 60 years ofage.Symptoms include a range of visual disturbances such as painless decrease in vision andmetamorphosia when macula is involved.Other features of Choroidal melanoma includes:••• A solitary elevated subretinal grey-brown dome shaped massClumps of orange pigment are common over the mass• Collar stud appearance on B-scan (option C): It is pathagnomic of choridal melanoma. It is seenif the tumour breaks through the Bruch's membrane into the subretinal space.• Associated haemorrhageSmoke stack pattern (option A) and ink blot (option B) pattern is seen on FFA in central serousretinopathy (CSR).CSR is the spontaneous serous detachment of the sensory neuroretina in the foveal region with orwithout retinal pigment epithelium (RPE) detachment.This occurs due Choroidal vascular hyperpermeability.On FFA it is initially seen as an ink-blot pattern or smoke stack patternof hyperfluorescence which then spreads to take the configurationof mushroom or umbrella pattern.The below given images depict the smoke stack pattern and mushroom pattern respectivelyC544",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q6_img1_43a066e9.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp6_img1_2b252534.jpeg",
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 7,
+      "question": "A 68-year-old man presents with jaundice. He was recently diagnosed with malignantmelanoma of the uvea but did not receive proper treatment due to the prevalent pandemicsituation. Investigations reveal liver secondaries. What would be the ideal line ofmanagement?",
+      "options": {
+        "A": "Enucleation",
+        "B": "Exenteration + Chemotherapy + Immunotherapy",
+        "C": "Enucleation + Chemotherapy + Immunotherapy",
+        "D": "Exenteration + Radiotherapy"
+      },
+      "correct_answer": "",
+      "explanation": "The spread of malignant melanoma of the uvea outside the orbit is treated with enucleation +chemotherapy + immunotherapy.Orbital spread of the malignant melanoma necessitates exenteration but metastasis elsewhere canbe treated by enucleation, chemotherapy, and immunotherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 8,
+      "question": "A father has noticed that his child's left pupil appears white as shown below. Worried aboutthis, the father consults an ophthalmologist. All of the following should be included in thedifferential diagnosis except:",
+      "options": {
+        "A": "Toxocara infestation",
+        "B": "Norrie disease",
+        "C": "Persistent hyperplastic primary vitreouse537",
+        "D": "Congenital glaucoma"
+      },
+      "correct_answer": "D",
+      "explanation": "The child has leukocoria and congenital glaucoma is not to be included in the differentialdiagnosis.Various conditions, other than retinoblastoma, which present as leukocoria are collectively calledpseudoglioma.•Differential diagnosis of leukocoria:Retinoblastoma•Congenital cataract• Coloboma of the choroid•Persistent hyperplastic primary vitreous• Toxocara infestation•Norrie disease• Coat's exudative retinopathyIntraocular pressure (IOP) is usually raised in retinoblastoma and lowered in pseudoglioma.545",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q8_img1_dd0349e4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 9,
+      "question": "Retinoblastoma arises from which of the following structures?",
+      "options": {
+        "A": "Pigmentary epithelium",
+        "B": "Neurosensory retina",
+        "C": "Optic nerve",
+        "D": "Meninges"
+      },
+      "correct_answer": "B",
+      "explanation": "Retinoblastoma (also called glioma retinae) arises from the neurosensory retina. It isa proliferation of neural cells that have failed to evolve normally.Tumours are composed of small basophilic cells (retinoblasts), with large hyperchromatic nucleiand scanty cytoplasm.It is of 4 types:• Endophytic (into the vitreous) with seeding of tumor cells throughout the eye•Exophytic (into the subretinal space) leading to retinal detachment• Mixed type• Retinocytoma: retina may be diffusely infiltrated",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is the most common clinical presentation of retinoblastoma?",
+      "options": {
+        "A": "Leucocoria plus heterochromia iridis",
+        "B": "Leucocoria plus pseudohypopyon",
+        "C": "Leucocoria plus hyphema",
+        "D": "Leucocoria plus strabismus"
+      },
+      "correct_answer": "D",
+      "explanation": "The most common clinical presentation of retinoblastoma is leukocoria plus strabismus.Clinical features of retinoblastoma:•Present within the first two years of life• Leukocoria• Strabismus• Painful red eye with secondary glaucoma• Orbital inflammation mimicking orbital or pre-septal cellulitis.• Orbital invasion or visible extraocular growth may occur in neglected cases.• Metastatic disease involving regional lymph nodes and the brain before the detection of ocularinvolvement is rare.Signs:• An intraretinal tumor is a homogeneous, dome-shaped white lesion that becomes irregular, oftenwith white flecks of calcification.• An endophytic tumor projects into the vitreous as a white mass that may \"seed\" into the gel.•An exophytic tumor forms multilobular subretinal white masses and causes an overlying retinaldetachment.Investigations:• Red reflex testing with a direct ophthalmoscope is a simple screening test for leukocoria.• Dilated fundus examination using indirect ophthalmoscope•MRI of the orbit + brain546",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 11,
+      "question": "A 3-year-old boy was brought by his parents with concern about being increasingly clumsy forthe past 6 months. On examination, there is leukocoria with an absence of the red reflex inthe left eye. As further workup reveals a tumor, the eye is enucleated and the microscopicappearance is as shown in the image. Molecular analysis of the tumor indicates loss of cellcycle control in the tumor cells. Where is the responsible gene located?538",
+      "options": {
+        "A": "13p14",
+        "B": "13q14",
+        "C": "14p13",
+        "D": "14q13"
+      },
+      "correct_answer": "B",
+      "explanation": "The histology showing Flexner-Wintersteiner rosettes and clinical history of white reflex pointtowards a diagnosis of retinoblastoma. Retinoblastoma is due to mutation in Rb gene located onchromosome 13q14.Retinoblastoma was first cancer known to be directly associated with a genetic abnormality.The HPE image below shows Flexner-Wintersteiner rosettes, the clustering of small blue cuboidalor short columnar cells around a central lumen.Retinoblastoma©MARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q11_img1_c9e96432.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp11_img1_18d358f9.png",
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 12,
+      "question": "Knudson's two-hit hypothesis describes the occurrence of which of the following?",
+      "options": {
+        "A": "Glaucoma",
+        "B": "Optic nerve glioma",
+        "C": "Retinoblastoma",
+        "D": "Meningioma"
+      },
+      "correct_answer": "C",
+      "explanation": "Knudson's two-hit hypothesis describes the occurrence of retinoblastoma.Knudson's hypothesis can be stated as follows:• Two mutations (hits), involving both alleles of RB are required to produce retinoblastoma.•· In familial retinoblastoma, one of the pair of alleles of RB1 is mutated in all the cells of the body.When a further mutagenic event (\"second hit\" according to the \"two-hit\" hypothesis proposed byKnudson) affects the second allele, the cell may then undergo malignant transformation. A largemajority of these children develop bilateral and multifocal tumors.•In sporadic cases, both RB alleles must undergo somatic mutation in the same retinoblast (twohits).Familial retinoblastoma patients also have a predisposition to non-ocular cancers because of thepresence of the mutation in all cells, such as pinealoblastoma (usually before the age of 5 years),osteosarcomas, soft tissue sarcomas, and melanomas.Note:547Trilateral retinoblastoma = Pinealoblastoma + Bilateral retinoblastoma",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 13,
+      "question": "Why would an ophthalmologist use the Reese-Ellsworth classification for retinoblastoma?",
+      "options": {
+        "A": "For the management of the tumor",
+        "B": "For the staging of the tumor",
+        "C": "For the assessment of the survival of the eye after local therapy",
+        "D": "For the assessment of the survival of the patient after surgery539"
+      },
+      "correct_answer": "",
+      "explanation": "Reese-Ellsworth classification is used in predicting which eye would survive the local therapy(cryotherapy, photocoagulation, plaque radiation therapy) and retain useful vision.Cryotherapy is used for retinoblastoma lesions anterior to the equator and photocoagulation forlesions posterior to the equator.GrouPPrognosis for maintenance ofsightFeatures1Very favorable21Favorable3Possible4Unfavorable5Highly unfavorableSolitary tumor, <4DD, at or behind the equatorMultiple tumors, all <4DD, all at or behind the equatorSolitary tumor, 4-10 DD, at or behind the equatorMultipletumors, all 4-10DD all behind the equatorAny lesion anterior to the equatorSolitary tumor, >10DDbehind the equatorMultiple tumors, some >10 DDAny lesion extending anteriorly to ora serrataMassive tumors involving more than one half of the retinaVitreous seeding",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 14,
+      "question": "A 2-year-old boy who presented with strabismus and leukocoria is suspected to haveretinoblastoma. A B-scan detects multiple endophytic masses with calcifications, the largestmeasuring 6DD, and the smallest measuring 4 DD. CT scan reveals intraocular foci ofcalcifications and no other anomaly. The ophthalmologist decides to use chemo-reductionand local therapy to treat this child. According to Reese-Ellsworth classification, this belongsto which group?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 2",
+        "C": "Group 3",
+        "D": "Group 4"
+      },
+      "correct_answer": "C",
+      "explanation": "Multiple tumors of 4-10 DD in size behind the equator belong to group 2.GrouPPrognosis for maintenance ofsightFeatures1Very favorableSolitary tumor, <4DD, at or behind the equatorMultiple tumors, all <4DD, all at or behind the equator21FavorableSolitary tumor, 4-10 DD, at or behind the equatorMultipletumors, all 4-10DD all behind the equator548Prognosis for maintenance ofGrouPsight3Possible4Unfavorable5Highly unfavorableFeaturesAny lesion anterior to equatorSolitary tumor, >10DD behind equatorMultiple tumors, some >10 DDAny lesion extending anteriorly to ora serrataMassive tumors involving more than one half of the retinaVitreous seeding",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 15,
+      "question": "What is the treatment of choice when retinoblastoma involves the optic nerve?",
+      "options": {
+        "A": "Enucleation",
+        "B": "Enucleation + radiotherapy",
+        "C": "Enucleation + adjuvant chemotherapy",
+        "D": "Enucleation + adjuvant chemotherapy + radiotherapy"
+      },
+      "correct_answer": "D",
+      "explanation": "Optic nerve involvement is treated by enucleation + adjuvant chemotherapy + radiotherapyIndications for enucleation [Group E tumor according to the International Classification ofRetinoblastoma (ICRB)]:• Tumor involves more than half of the retina•Optic nerve involved• Glaucoma is present and the anterior chamber is involvedChemotherapy commonly used is a three-drug regimen containing vincristine, carboplatin, andetoposide.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following regimen is commonly used in the treatment of retinoblastoma?",
+      "options": {
+        "A": "Vinblastine, etoposide and bleomycin",
+        "B": "Vinblastine, vincristine and etoposide",
+        "C": "Vinblastine, vincristine and cisplatin",
+        "D": "Vincristine, carboplatin and etoposide"
+      },
+      "correct_answer": "D",
+      "explanation": "Chemotherapy commonly used is a three-drug regimen containing vincristine, carboplatin, andetoposide.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 17,
+      "question": "What is the treatment of choice for anterior lesions of retinoblastoma?",
+      "options": {
+        "A": "Cryotherapy",
+        "B": "Photocoagulation540",
+        "C": "Both a and b",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "Cryotherapy is used for anterior lesions of retinoblastoma.Photocoagulation for posterior lesions of retinoblastoma.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    },
+    {
+      "q_no": 18,
+      "question": "The most common secondaries in choroid are from",
+      "options": {
+        "A": "Breast",
+        "B": "Brain",
+        "C": "Ovary/Testis",
+        "D": "Lungs"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common secondaries in choroid originate from the breast (overall and in females), andlungs (in males).549Examination shows the elevation of the retina, usually at the posterior pole. It is usually bilateral.Metastases are usually treated with systemic chemotherapy and immunotherapy. Radiotherapymay also be given.550",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Tumors of Eye"
+    }
+  ]
+}

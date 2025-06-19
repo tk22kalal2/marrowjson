@@ -1,0 +1,260 @@
+{
+  "chapter": "Uveitis - Posterior and Panuveitis",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A patient describes the image below on the Amsler grid test. In which of the given conditionsis this phenomenon noted?",
+      "options": {
+        "A": "Anterior uveitis",
+        "B": "Posterior uveitis",
+        "C": "Cataract",
+        "D": "GlaucomaOMARROW"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q1_img1_d3f2e2a1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following features is unlikely to be noted in a patient withVogt-Koyanagi-Harada syndrome?",
+      "options": {
+        "A": "Vitiligo",
+        "B": "Vertigo",
+        "C": "Granulomatous uveitis",
+        "D": "Iris heterochromia"
+      },
+      "correct_answer": "",
+      "explanation": "Iris heterochromia is not a feature of Vogt-Koyanagi-Harada syndrome.Vogt-Koyanagi-Harada syndrome is an idiopathic, multi-system disorder characterised byautoimmunity against melanocytes. It is associated with HLA-DR1 and HLA-DR4 across differentracial groups.356Patients may present with cutaneous, neurological and ocular features. Cutaneous featuresinclude alopecia, poliosis and vitiligo (option A). Neurological features include meningism,encephalopathy, tinnitus, deafness and vertigo (option B). Ocular features include bilateralchronic granulomatous panuveitis (option C), posterior uveitis, exudative retinal detachment,perilimbal vitiligo (Suguiura's sign) and sunset glow appearance of the fundus.The modified diagnostic criteria for Vogt-Koyanagi—Harada syndrome are as follows:• Absence of a history of penetrating ocular trauma• Absence of other ocular disease entities• Bilateral uveitis•Neurological and auditory manifestations• Integumentary findings, not preceding the onset of the central nervous system or oculardiseases, such as alopecia, poliosis, and vitiligo.The treatment is high-dose (1-2 mg/kg/day) oral prednisolone, tapered over 3-6 months. This maybe preceded by intravenous methylprednisolone pulse therapy (500-1000 mg/day).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 3,
+      "question": "350A middle aged male presents with recurrent oral ulcers and ulcers over his scrotum. He alsohas pain and redness of both his eyes. A positive pathergy test is noted. What is the HLAassociation of the disease this patient is most likely to be suffering from?",
+      "options": {
+        "A": "HLA B27",
+        "B": "HLA DR1",
+        "C": "HLA B5",
+        "D": "HLA Bw54"
+      },
+      "correct_answer": "B",
+      "explanation": "Recurrent oral ulcers, ulcers over his scrotum with binocular pain and redness and a positivepathergy test point to a diagnosis of Behcet's disease. HLA B5 (HLA B51) is associated withBehcet's disease.Behcet's disease is a systemic vasculitis that can cause recurrent oral ulcers, genital ulcers, skinlesions and ocular inflammation. Pathergy test is usually positive. Ocular inflammation occurs inabout 70% of patients and tends to be more severe in men. A classical presentation isrelapsing/remitting acute onset panuveitis with retinal vasculitis which resolves spontaneouslyeven without treatment. It is usually bilateral and non-granulomatous. Patients present with atransient mobile hypopyon in a relatively white eye. They may develop visual impairment if retinalvascular disease (vasculitis and occlusion) occurs.Other options:Option A: HLA-B27 is associated with Reiter's syndrome.Option B: HLA DR1 and HLA-DR4 are associated with Vogt-Koyanagi-Haradas disease.Option D: HLA Bw54 is associated with Possner-Scholssman syndrome.Note: The association between HLA-A29 and birdshot retinochoroidopathy is the most consistentof any medical disorder. Approximately 95% of patients with birdshot retinochoroidopathy areHLA-A29-positive.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 4,
+      "question": "A 28 year old man presents to the medicine OPD with cough with hemoptysis of 1 monthduration. A sputum culture done is shown below. What is the most common ocularmanifestation associated with this infection?",
+      "options": {
+        "A": "Uveitis",
+        "B": "Phlyctenular keratoconjunctivitis",
+        "C": "Complicated cataract",
+        "D": "Vitreous haemorrhage"
+      },
+      "correct_answer": "",
+      "explanation": "The image shows the growth of Mycobacterium tuberculosis (MTB) colonies on theLowenstein-Jensen medium. In tuberculosis (TB), granulomatous panuveitis is the most common357ocular feature.Ocular TB commonly occurs due to hematogenous spread from pulmonary TB. It can havemultiple presentations like lupus vulgaris of eyelid, tubercular conjunctivitis, interstitial keratitis,granulomatous uveitis and endophthalmitis. Phlyctenular keratoconjunctivitis is caused by ahypersensitivity reaction to the MTB antigen.Treatment of granulomatous panuveitis is anti-tubercular therapy (ATT) plus steroids.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q4_img1_c3e0e0d2.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 5,
+      "question": "In a patient showing salt and pepper appearance of the fundus, which of the following is not adifferential diagnosis?351",
+      "options": {
+        "A": "Rubella",
+        "B": "Syphilis",
+        "C": "Refsum's disease",
+        "D": "Tuberculosis"
+      },
+      "correct_answer": "",
+      "explanation": "Salt and pepper fundus is not seen in tuberculosis.Salt and pepper fundus is seen when there are multiple small black and white spots present on theretina. It is also known as pseudo-retinitis pigmentosa. Its causes include congenital syphilis,rubella, Refsum's disease, carriers of albinism, Leber's congenital amaurosis and retinitispigmentosa sine pigmentosa.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp5_img1_e09e9676.jpeg",
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 6,
+      "question": "A 32-year-old lady presented with dry, itchy eyes, blurred vision, and sensitivity to light. Shesays there are black dots floating around in her visual field. She denies wearing any spectaclesor contact lenses. On fundoscopy, the following image is obtained. What is the diagnosis?",
+      "options": {
+        "A": "CMV retinitis",
+        "B": "Sarcoidosis",
+        "C": "Toxoplasmosis",
+        "D": "Behcet's disease"
+      },
+      "correct_answer": "",
+      "explanation": "Dry, itchy eyes, blurred vision, sensitivity to light with candle wax dripping on fundusexamination points to a diagnosis of sarcoidosis.Sarcoidosis is a chronic granulomatous multi-system disease. Ocular inflammation occurs in25-70% of sarcoid patients, which includes uveitis, conjuctival and lacrimal gland involvement.Chronic granulomatous panuveitis may be seen. Anterior uveitis is the most commonmanifestation.In anterior uveitis due to sarcoidosis, \"mutton fat\" keratic precipitates (KPS) and/or smallgranulomatous KPs with iris nodules (Koeppe and/or Busacca) are seen. Trabecular meshwork(TM) nodules and/or tent-shaped peripheral anterior synechiae (PAS) is also seen.358In intermediate uveitis, vitreous cells with snowbanking and snowball opacities/string of pearlappearance are seen. Posterior uveitis presents with candle-wax dripping (thick venous sheathingand periphlebitis), pre-retinal nodules (Lander's sign), choroidal granulomata and sarcoidinfiltration. Other ocular features seen are interstitial keratitis and band-shapedkeratopathy. Steroids are the mainstay of treatment in sarcoidosis.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q6_img1_a1464821.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp6_img1_17fcd157.jpeg",
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 7,
+      "question": "What is the most common ocular manifestation in patients infected by the humanimmunodeficiency virus?",
+      "options": {
+        "A": "Microangiopathy",
+        "B": "Complicated cataract",
+        "C": "Vitreous hemorrhage352",
+        "D": "Choroiditis"
+      },
+      "correct_answer": "",
+      "explanation": "Microangiopathy is the most common ocular feature of HIV infection.Microangiopathy of the retina in HIV consists of the hemorrhages, micro-aneurysms andcotton-wool spots or soft exudates (axonal debris). Cotton wool spots are the most commonfinding of HIV retinopathy.HIV leads to multiple opportunistic infections of the eye like cytomegalovirus (CMV) - mostcommon cause of posterior uveitis in HIV - toxoplasmosis, Pneumocystis carinii and herpeszoster. These infections present as keratitis, choroiditis, retinitis and endophthalmitis.The most common ocular adverse effect in patients receiving highly active antiretroviral therapy(HAART) is immune recovery uveitis (IRU). It is a non-granulomatous uveitis (usually anterioruveitis and vitritis) associated with a paradoxical or exaggerated reactivation of the immunesystem and an increase in intraocular inflammation. It occurs after receiving HAART for CMVchorioretinitis. Visual complications of IRU include cataract, cystoid macular edema (CME),glaucoma, and epiretinal membrane formation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 8,
+      "question": "An HIV positive patient presented to OPD with painless blurring of vision. On fundusexamination, the following findings were seen. What is the diagnosis?",
+      "options": {
+        "A": "Eales disease",
+        "B": "CMV retinitis",
+        "C": "Toxoplasmosis",
+        "D": "Sympathetic ophthalmia"
+      },
+      "correct_answer": "A",
+      "explanation": "Painless blurring of vision in an HIV positive patient with \"sauce and cheese\" or \"pizza pie\"retinopathy (shown in the image) is characteristic of cytomegalovirus (CMV) retinitis.359CMV retinitis is the most common ocular opportunistic infection in patients with HIV. It is oftenasymptomatic and can be classified as central or peripheral CMV retinitis. Central CMV retinitis ischaracterised by dense, white areas of retinal necrosis and retinal hemorrhage in the areas ofnecrosis pizza pie or sauce and cheese appearance.-Peripheral CMV retinitis is less demarcated. The infection spreads along the vascular arcades in abrush fire-like fashion.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q8_img1_ed235d04.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 9,
+      "question": "A newly diagnosed HIV-positive lady with CD4+ count of 35/μL presented with decreasedvisual acuity and floaters. On fundus examination, there were dense, white areas of retinalnecrosis with interspersed areas of retinal hemorrhage. What is the most rapid and accuratemethod to confirm the diagnosis?",
+      "options": {
+        "A": "Virus isolation in intraocular fluid",
+        "B": "Virus antigen detection in vitreous",
+        "C": "Viral nucleic acid detection in intraocular fluid",
+        "D": "Viral antibody detection in blood by ELISA353"
+      },
+      "correct_answer": "",
+      "explanation": "An HIV-positive patient with CD4+ count of 35/μL presenting with decreased visual acuity,floaters and pizza pie retinitis (dense, white areas of retinal necrosis with interspersed areas ofretinal hemorrhage) likely has CMV retinitis. The most rapid and accurate method to diagnosecytomegalovirus (CMV) retinitis is viral nucleic acid detection in the intraocular fluid.CMV retinitis is an opportunistic infection seen in HIV patients with a CD4+ count less than50/μL. Patients present with reduced vision due to macular involvement and floaters due tovitritis. One eye is usually affected initially. Retinitis is seen. Frosted branch angiitis (FBA), whichis marked vascular sheathing that occurs in about 6% patients, may be seen. Cataract is commonlate-stage manifestation of CMV retinitis.Highly active antiretroviral therapy (HAART) is the mainstay of management, restoring thepatient's innate ability to suppress CMV activity. Valganciclovir is a prodrug of ganciclovir that istaken orally. Ganciclovir slow-release intravitreal implant can also be used.Screening of patients with low CD4+ counts:• 3-monthly, if &lt;50/µl• 6-monthly, if 50-100/μl• Yearly, if &gt;100/μl",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 10,
+      "question": "A 32-year-old man presented with blurring of vision in the right eye. Examination revealsmild iritis, severe vitritis, and a focal necrotic lesion on the macula. What is the most likelydiagnosis?",
+      "options": {
+        "A": "Multiple evanescent white dot syndrome",
+        "B": "Ocular toxoplasmosis",
+        "C": "Multifocal choroiditis",
+        "D": "Ocular sarcoidosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Monocular iritis, severe vitritis with a focal necrotic lesion on the macula is a classical descriptionof ocular toxoplasmosis.Ocular toxoplasmosis is caused by Toxoplasma gondii, an obligate intracellular protozoan. Itcauses severe recurrent attacks of posterior uveitis in adults, due to reactivation at previouslyinactive cyst-containing scars. A single inflammatory focus of fluffy white retinitis orretinochoroiditis associated with a pigmented scar (\"satellite lesion\") is typical. \"Headlight in thefog\" is the classic description of a white retinal inflammatory nidus viewed throughvitritis. \"Spill-over\" anterior uveitis is common.Treatment:• Prednisolone (1 mg/kg) is given initially and tapered according to clinical response.Pyrimethamine is administered as a loading dose of 75-100 mg for 1-2 days followed by 25-50•mg daily for 4 weeks in combination with oral folinic (not folic) acid 5 mg three times a week to360retard thrombocytopenia, leukopenia, and folate deficiency.• Sulfadiazine 1 g four times daily for 3-4 weeks is usually given in combination withpyrimethamine.•Intravitreal therapy with clindamycin (1 mg) and dexamethasone (400 µg) may be as effective astriple therapy in reactivated infection.The image shows the characteristic \"headlight in the fog\" appearance:",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp10_img1_9c068543.jpeg",
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 11,
+      "question": "In which disease is the \"headlight in fog\" appearance seen?",
+      "options": {
+        "A": "Toxoplasmosis",
+        "B": "Syphilis",
+        "C": "HIV",
+        "D": "CMV"
+      },
+      "correct_answer": "A",
+      "explanation": "The \"headlight in fog\" appearance is seen in toxoplasmosis.Ocular toxoplasmosis presents with iridocyclitis, which can be granulomatous ornon-granulomatous. There is focal superficial necrotizing retinochoroiditis along with vitritis,which gives the \"headlight in fog\" appearance (image). Fundoscopy shows deep retinitis andpapillitis with granulomas. Old choroid lesions of toxoplasmosis are punched-out lesions withpigmented borders.The treatment of choice for ocular toxoplasmosis is triple therapy with systemic steroids,pyrimethamine, and sulfadiazine. Clindamycin is also used.361",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp11_img1_66e646d0.jpeg",
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 12,
+      "question": "A 45-year-old man presented with red-eye, ocular pain, and acute loss of vision to thecasualty. On fundoscopy, areas of retinal ischemia and necrosis were seen, leading to adiagnosis of acute retinal necrosis. Which of the following statements is false regarding thiscondition?",
+      "options": {
+        "A": "Severe arteritis is common.",
+        "B": "It is seen in immunocompetent individuals.",
+        "C": "Posterior pole is involved initially with centrifugal spread.",
+        "D": "It may lead to retinal detachment."
+      },
+      "correct_answer": "C",
+      "explanation": "In acute retinal necrosis, the posterior pole is typically spared until late.Acute retinal necrosis (ARN) occurs in immunocompetent individuals. It is a severe posterioruveitis causing retinal necrosis. Herpes zoster ophthalmicus is the most common cause of acuteretinal necrosis in adults. Cytomegalovirus (CMV) and herpes simplex virus (HSV) are thecommonest causes of acute retinal necrosis in children.Patients present with confluent peripheral necrotizing retinitis, retinal arteritis withvaso-occlusion, and vitritis. Rhegmatogenous retinal detachments are common due to retinalthinning from large areas of necrosis. The posterior pole is involved only in the later stages.Aciclovir is administered intravenously (10 mg/kg, every 8 hours) for 10-14 days, and then orally(800 mg, five times daily) for 6-12 weeks. Oral valaciclovir or famciclovir may be substituted fororal aciclovir, with similar outcomes but better tolerability. Intravitreal ganciclovir or foscarnetmay enhance the prognosis. Systemic steroids may be started 24 hours after the initiation ofantiviral therapy, especially in severe cases. Laser retinopexy is performed around necrotic areas.Progressive outer retinal necrosis is a manifestation of HSV or varicella zoster virus (VZV) thatoccurs in immunocompromised individuals. It may begin at the posterior pole or the periphery. Ithas a rapid course and is not generally associated with vasculitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 13,
+      "question": "A 65-year-old male presents with a painful decrease in vision of his right eye for the past 3days. He underwent right phacoemulsification with PC-IOL insertion 6 months ago.Examination revealed a mild granulomatous anterior uveitis with minimal hypopyon andmild vitritis. There is a white plaque seen on the posterior lens capsule. Which one of the354following is the most appropriate therapy for this condition?",
+      "options": {
+        "A": "Vitrectomy and intravitreal injection of amphotericin B",
+        "B": "Observation",
+        "C": "Vitrectomy, removal of the IOL, and intravitreal injection of gentamicin",
+        "D": "Vitrectomy, posterior capsulotomy, and intravitreal injection of vancomycin"
+      },
+      "correct_answer": "D",
+      "explanation": "Painful decrease in vision following cataract surgery 6 months ago with granulomatous anterioruveitis, hypopyon, vitritis and a white plaque on the posterior lens capsule suggests a diagnosis ofdelayed-onset postoperative endophthalmitis caused by Propionibacterium acnes. The bestmanagement for the above clinical scenario would be vitrectomy and posterior capsulotomy,followed by intravitreal injection of vancomycin.362Delayed-onset endophthalmitis, a complication of cataract surgery, has a slow course andpanuveitis like picture. There is low grade anterior chamber inflammation and vitritis. Whencaused by P. acnes, it typically presents from 3 months to 2 years after surgery with acharacteristic white retro-lenticular plaque on the posterior capsule of lens. Endophthalmitiscaused by Candida occurs within 3 months of surgery.Management includes anterior vitrectomy, IOL explantation, posterior capsulectomy, intravitrealvancomycin, and a scleral-fixated intraocular lens (IOL) implantation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 14,
+      "question": "Sympathetic ophthalmia is seen after",
+      "options": {
+        "A": "Penetrating trauma",
+        "B": "Blunt trauma",
+        "C": "Chemical injury",
+        "D": "Urinary tract infection"
+      },
+      "correct_answer": "A",
+      "explanation": "Sympathetic ophthalmia is seen after a penetrating trauma.Sympathetic ophthalmia is a bilateral granulomatous panuveitis seen after a penetrating traumaor less frequently, following intraocular surgery, usually multiple vitreoretinal procedures.Patients present between 2 weeks and 3 months after initial injury.The earliest symptom is blurred near vision in the sympathizing (uninjured) eye. The earliest signis a retrolental flare in the sympathizing eye. Anterior uveitis develops in both eyes. The fundusshows multifocal choroidal infiltrates in the mid-periphery. Sub-retinal pigment epithelium (RPE)infiltrates corresponding to Dalen-Fuchs nodules (image) (a granuloma situated between Bruchmembrane and the RPE) are also present.Steroids are the basis of treatment. High-dose oral prednisolone is given for several months.Immunosuppressants such as azathioprine, cyclosporine, and methotrexate can be used inresistant cases or as steroid-sparing agents. Enucleation of a severely injured eye with no visualpotential within 2 weeks of injury prevents the occurrence of sympathetic ophthalmia.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp14_img1_fd8a6ad6.jpeg",
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 15,
+      "question": "What is the most common cause of endophthalmitis in a patient following eye trauma?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Staphylococcus epidermidis",
+        "C": "Aspergillus",
+        "D": "Bacillus cereus"
+      },
+      "correct_answer": "B",
+      "explanation": "363Staphylococcus epidermidis is the most common cause of post-traumatic endophthalmitis,followed by Bacillus cereus.However, if the trauma involves soil contamination, Bacillus cereus is the most common cause ofpost-traumatic endophthalmitis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following drugs should not be used in a patient with uveitis and raised IOP?",
+      "options": {
+        "A": "Atropine",
+        "B": "Timolol",
+        "C": "Pilocarpine",
+        "D": "Acetazolamide"
+      },
+      "correct_answer": "C",
+      "explanation": "Pilocarpine should not be used in cases of uveitis with raised intraocular pressure.Hypertensive uveitis or inflammatory glaucoma occurs when uveitis is associated with raised IOP.It is treated with topical cycloplegics (atropine), topical steroids and IOP-lowering drugs liketopical timolol or systemic acetazolamide. Pilocarpine is contraindicated since it causes miosisand ciliary spasm. It also increases intraocular inflammation.364",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsThe image shows metamorphopsia seen in posterior uveitis.Metamorphopsia is a condition in which patients perceive distorted images of the object. It ismeasured using the Amsler grid, which tests the central 10 degrees of vision. In posterior uveitis,metamorphopsia occurs due to macular edema.Posterior uveitis is a painless inflammation of the choroid. Patients present with various visualsymptoms like defective vision, black spots floating in front of the eye, micropsia/macropsia andpositive scotomas.Solution to Question 2:Iris heterochromia is not a feature of Vogt-Koyanagi-Harada syndrome.Vogt-Koyanagi-Harada syndrome is an idiopathic, multi-system disorder characterised byautoimmunity against melanocytes. It is associated with HLA-DR1 and HLA-DR4 across differentracial groups.356Patients may present with cutaneous, neurological and ocular features. Cutaneous featuresinclude alopecia, poliosis and vitiligo (option",
+      "options": {
+        "A": ". Neurological features include meningism,encephalopathy, tinnitus, deafness and vertigo (option",
+        "B": ". Ocular features include bilateralchronic granulomatous panuveitis (option",
+        "C": ", posterior uveitis, exudative retinal detachment,perilimbal vitiligo (Suguiura's sign) and sunset glow appearance of the fundus.The modified diagnostic criteria for Vogt-Koyanagi—Harada syndrome are as follows:• Absence of a history of penetrating ocular trauma• Absence of other ocular disease entities• Bilateral uveitis•Neurological and auditory manifestations• Integumentary findings, not preceding the onset of the central nervous system or oculardiseases, such as alopecia, poliosis, and vitiligo.The treatment is high-dose (1-2 mg/kg/day) oral prednisolone, tapered over 3-6 months. This maybe preceded by intravenous methylprednisolone pulse therapy (500-1000 mg/day).Solution to Question 3:Recurrent oral ulcers, ulcers over his scrotum with binocular pain and redness and a positivepathergy test point to a diagnosis of Behcet's disease. HLA B5 (HLA B51) is associated withBehcet's disease.Behcet's disease is a systemic vasculitis that can cause recurrent oral ulcers, genital ulcers, skinlesions and ocular inflammation. Pathergy test is usually positive. Ocular inflammation occurs inabout 70% of patients and tends to be more severe in men. A classical presentation isrelapsing/remitting acute onset panuveitis with retinal vasculitis which resolves spontaneouslyeven without treatment. It is usually bilateral and non-granulomatous. Patients present with atransient mobile hypopyon in a relatively white eye. They may develop visual impairment if retinalvascular disease (vasculitis and occlusion) occurs.Other options:Option A: HLA-B27 is associated with Reiter's syndrome.Option B: HLA DR1 and HLA-DR4 are associated with Vogt-Koyanagi-Haradas disease.Option D: HLA Bw54 is associated with Possner-Scholssman syndrome.Note: The association between HLA-A29 and birdshot retinochoroidopathy is the most consistentof any medical disorder. Approximately 95% of patients with birdshot retinochoroidopathy areHLA-A29-positive.Solution to Question 4:The image shows the growth of Mycobacterium tuberculosis (MTB) colonies on theLowenstein-Jensen medium. In tuberculosis (TB), granulomatous panuveitis is the most common357ocular feature.Ocular TB commonly occurs due to hematogenous spread from pulmonary TB. It can havemultiple presentations like lupus vulgaris of eyelid, tubercular conjunctivitis, interstitial keratitis,granulomatous uveitis and endophthalmitis. Phlyctenular keratoconjunctivitis is caused by ahypersensitivity reaction to the MTB antigen.Treatment of granulomatous panuveitis is anti-tubercular therapy (ATT) plus steroids.Solution to Question 5:Salt and pepper fundus is not seen in tuberculosis.Salt and pepper fundus is seen when there are multiple small black and white spots present on theretina. It is also known as pseudo-retinitis pigmentosa. Its causes include congenital syphilis,rubella, Refsum's disease, carriers of albinism, Leber's congenital amaurosis and retinitispigmentosa sine pigmentosa.Solution to Question 6:Dry, itchy eyes, blurred vision, sensitivity to light with candle wax dripping on fundusexamination points to a diagnosis of sarcoidosis.Sarcoidosis is a chronic granulomatous multi-system disease. Ocular inflammation occurs in25-70% of sarcoid patients, which includes uveitis, conjuctival and lacrimal gland involvement.Chronic granulomatous panuveitis may be seen. Anterior uveitis is the most commonmanifestation.In anterior uveitis due to sarcoidosis, \"mutton fat\" keratic precipitates (KPS) and/or smallgranulomatous KPs with iris nodules (Koeppe and/or Busacca) are seen. Trabecular meshwork(TM) nodules and/or tent-shaped peripheral anterior synechiae (PAS) is also seen.358In intermediate uveitis, vitreous cells with snowbanking and snowball opacities/string of pearlappearance are seen. Posterior uveitis presents with candle-wax dripping (thick venous sheathingand periphlebitis), pre-retinal nodules (Lander's sign), choroidal granulomata and sarcoidinfiltration. Other ocular features seen are interstitial keratitis and band-shapedkeratopathy. Steroids are the mainstay of treatment in sarcoidosis.Solution to Question 7:Microangiopathy is the most common ocular feature of HIV infection.Microangiopathy of the retina in HIV consists of the hemorrhages, micro-aneurysms andcotton-wool spots or soft exudates (axonal debris). Cotton wool spots are the most commonfinding of HIV retinopathy.HIV leads to multiple opportunistic infections of the eye like cytomegalovirus (CMV) - mostcommon cause of posterior uveitis in HIV - toxoplasmosis, Pneumocystis carinii and herpeszoster. These infections present as keratitis, choroiditis, retinitis and endophthalmitis.The most common ocular adverse effect in patients receiving highly active antiretroviral therapy(HAART) is immune recovery uveitis (IRU). It is a non-granulomatous uveitis (usually anterioruveitis and vitritis) associated with a paradoxical or exaggerated reactivation of the immunesystem and an increase in intraocular inflammation. It occurs after receiving HAART for CMVchorioretinitis. Visual complications of IRU include cataract, cystoid macular edema (CME),glaucoma, and epiretinal membrane formation.Solution to Question 8:Painless blurring of vision in an HIV positive patient with \"sauce and cheese\" or \"pizza pie\"retinopathy (shown in the image) is characteristic of cytomegalovirus (CMV) retinitis.359CMV retinitis is the most common ocular opportunistic infection in patients with HIV. It is oftenasymptomatic and can be classified as central or peripheral CMV retinitis. Central CMV retinitis ischaracterised by dense, white areas of retinal necrosis and retinal hemorrhage in the areas ofnecrosis pizza pie or sauce and cheese appearance.-Peripheral CMV retinitis is less demarcated. The infection spreads along the vascular arcades in abrush fire-like fashion.Solution to Question 9:An HIV-positive patient with CD4+ count of 35/μL presenting with decreased visual acuity,floaters and pizza pie retinitis (dense, white areas of retinal necrosis with interspersed areas ofretinal hemorrhage) likely has CMV retinitis. The most rapid and accurate method to diagnosecytomegalovirus (CMV) retinitis is viral nucleic acid detection in the intraocular fluid.CMV retinitis is an opportunistic infection seen in HIV patients with a CD4+ count less than50/μL. Patients present with reduced vision due to macular involvement and floaters due tovitritis. One eye is usually affected initially. Retinitis is seen. Frosted branch angiitis (FBA), whichis marked vascular sheathing that occurs in about 6% patients, may be seen. Cataract is commonlate-stage manifestation of CMV retinitis.Highly active antiretroviral therapy (HAART) is the mainstay of management, restoring thepatient's innate ability to suppress CMV activity. Valganciclovir is a prodrug of ganciclovir that istaken orally. Ganciclovir slow-release intravitreal implant can also be used.Screening of patients with low CD4+ counts:• 3-monthly, if &lt;50/µl• 6-monthly, if 50-100/μl• Yearly, if &gt;100/μlSolution to Question 10:Monocular iritis, severe vitritis with a focal necrotic lesion on the macula is a classical descriptionof ocular toxoplasmosis.Ocular toxoplasmosis is caused by Toxoplasma gondii, an obligate intracellular protozoan. Itcauses severe recurrent attacks of posterior uveitis in adults, due to reactivation at previouslyinactive cyst-containing scars. A single inflammatory focus of fluffy white retinitis orretinochoroiditis associated with a pigmented scar (\"satellite lesion\") is typical. \"Headlight in thefog\" is the classic description of a white retinal inflammatory nidus viewed throughvitritis. \"Spill-over\" anterior uveitis is common.Treatment:• Prednisolone (1 mg/kg) is given initially and tapered according to clinical response.Pyrimethamine is administered as a loading dose of 75-100 mg for 1-2 days followed by 25-50•mg daily for 4 weeks in combination with oral folinic (not folic) acid 5 mg three times a week to360retard thrombocytopenia, leukopenia, and folate deficiency.• Sulfadiazine 1 g four times daily for 3-4 weeks is usually given in combination withpyrimethamine.•Intravitreal therapy with clindamycin (1 mg) and dexamethasone (400 µg) may be as effective astriple therapy in reactivated infection.The image shows the characteristic \"headlight in the fog\" appearance:Solution to Question 11:The \"headlight in fog\" appearance is seen in toxoplasmosis.Ocular toxoplasmosis presents with iridocyclitis, which can be granulomatous ornon-granulomatous. There is focal superficial necrotizing retinochoroiditis along with vitritis,which gives the \"headlight in fog\" appearance (image). Fundoscopy shows deep retinitis andpapillitis with granulomas. Old choroid lesions of toxoplasmosis are punched-out lesions withpigmented borders.The treatment of choice for ocular toxoplasmosis is triple therapy with systemic steroids,pyrimethamine, and sulfadiazine. Clindamycin is also used.361Solution to Question 12:In acute retinal necrosis, the posterior pole is typically spared until late.Acute retinal necrosis (ARN) occurs in immunocompetent individuals. It is a severe posterioruveitis causing retinal necrosis. Herpes zoster ophthalmicus is the most common cause of acuteretinal necrosis in adults. Cytomegalovirus (CMV) and herpes simplex virus (HSV) are thecommonest causes of acute retinal necrosis in children.Patients present with confluent peripheral necrotizing retinitis, retinal arteritis withvaso-occlusion, and vitritis. Rhegmatogenous retinal detachments are common due to retinalthinning from large areas of necrosis. The posterior pole is involved only in the later stages.Aciclovir is administered intravenously (10 mg/kg, every 8 hours) for 10-14 days, and then orally(800 mg, five times daily) for 6-12 weeks. Oral valaciclovir or famciclovir may be substituted fororal aciclovir, with similar outcomes but better tolerability. Intravitreal ganciclovir or foscarnetmay enhance the prognosis. Systemic steroids may be started 24 hours after the initiation ofantiviral therapy, especially in severe cases. Laser retinopexy is performed around necrotic areas.Progressive outer retinal necrosis is a manifestation of HSV or varicella zoster virus (VZV) thatoccurs in immunocompromised individuals. It may begin at the posterior pole or the periphery. Ithas a rapid course and is not generally associated with vasculitis.Solution to Question 13:Painful decrease in vision following cataract surgery 6 months ago with granulomatous anterioruveitis, hypopyon, vitritis and a white plaque on the posterior lens capsule suggests a diagnosis ofdelayed-onset postoperative endophthalmitis caused by Propionibacterium acnes. The bestmanagement for the above clinical scenario would be vitrectomy and posterior capsulotomy,followed by intravitreal injection of vancomycin.362Delayed-onset endophthalmitis, a complication of cataract surgery, has a slow course andpanuveitis like picture. There is low grade anterior chamber inflammation and vitritis. Whencaused by P. acnes, it typically presents from 3 months to 2 years after surgery with acharacteristic white retro-lenticular plaque on the posterior capsule of lens. Endophthalmitiscaused by Candida occurs within 3 months of surgery.Management includes anterior vitrectomy, IOL explantation, posterior capsulectomy, intravitrealvancomycin, and a scleral-fixated intraocular lens (IOL) implantation.Solution to Question 14:Sympathetic ophthalmia is seen after a penetrating trauma.Sympathetic ophthalmia is a bilateral granulomatous panuveitis seen after a penetrating traumaor less frequently, following intraocular surgery, usually multiple vitreoretinal procedures.Patients present between 2 weeks and 3 months after initial injury.The earliest symptom is blurred near vision in the sympathizing (uninjure",
+        "D": "eye. The earliest signis a retrolental flare in the sympathizing eye. Anterior uveitis develops in both eyes. The fundusshows multifocal choroidal infiltrates in the mid-periphery. Sub-retinal pigment epithelium (RPE)infiltrates corresponding to Dalen-Fuchs nodules (image) (a granuloma situated between Bruchmembrane and the RPE) are also present.Steroids are the basis of treatment. High-dose oral prednisolone is given for several months.Immunosuppressants such as azathioprine, cyclosporine, and methotrexate can be used inresistant cases or as steroid-sparing agents. Enucleation of a severely injured eye with no visualpotential within 2 weeks of injury prevents the occurrence of sympathetic ophthalmia.Solution to"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q1_img1_8dc7b224.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Uveitis - Posterior and Panuveitis"
+    }
+  ]
+}

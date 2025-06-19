@@ -1,0 +1,485 @@
+{
+  "chapter": "disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 25-year-old artist visits an art gallery. A painting of checkered squares appears distortedonly to him, as shown below. He decides to go see an ophthalmologist who after initialevaluation, suggests an FFA. The FFA shows a characteristic smoke stack appearance.Breakdown of which of the following barriers is responsible for his condition?",
+      "options": {
+        "A": "Inner blood retinal barrier",
+        "B": "Outer blood retinal barrier",
+        "C": "Both the barriers are disrupted",
+        "D": "No disruption of either barriersOMARROW"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q1_img1_b062e8cc.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp1_img1_be93c7d7.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "Where does fluid accumulate in central serous retinopathy?",
+      "options": {
+        "A": "Between the Bruch membrane and retinal pigment epithelium",
+        "B": "In the subretinal space",
+        "C": "Between the outer plexiform layer and inner nuclear layer",
+        "D": "Along the nerve fiber layer224"
+      },
+      "correct_answer": "",
+      "explanation": "Fluid accumulation in central serous retinopathy (CSR) is in the subretinal space due to abnormalpermeability of the choriocapillaris.The image depicts optical coherence tomography showing fluid accumulation in the subretinalspace, with shallow retinal detachment.272",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp2_img1_ff1332be.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "A 60-year-old female presented with acute loss of vision and metamorphopsia. There is ahistory of the positive scotoma. Fundal changes are given below. What will be the fundusfluorescein angiography finding?",
+      "options": {
+        "A": "Ink blot appearance",
+        "B": "Petaloid appearance",
+        "C": "Stars in the sky appearance",
+        "D": "Dual circulation& DAILY ROUNDS"
+      },
+      "correct_answer": "",
+      "explanation": "The above clinical scenario and the fundal image depicting focal fundal detachment are suggestiveof central serous retinopathy. An enlarging inkblot pattern or smoke stack pattern is seen in FFA.238Central serous retinopathy refers to the spontaneous serous detachment of the neurosensoryretina in the macular region. Recent studies implicate an abnormal choroidal circulation as thecause of CSR.Clinical features:•Retinal detachment - Sudden painless loss of vision• Relative positive scotoma• Micropsia•MetamorphopsiaInvestigations:••Ophthalmoscopy - circular ring reflex present and foveal reflex absent• FFA - enlarging inkblot pattern or smoke stack patternSpontaneous resolution is seen in most cases and hence observation isenough. Steroids are contraindicated. The disease is usually self-limiting but may recur.The image depicts fundus fluorescein angiography (FFA), showing an enlarging ink-blotpattern/enlarging dot sign, which is seen in central serous retinopathy (CSR).COther options:Option B- Petaloid appearance is seen in cystoid macular edemaOption C- Stars in the sky appearance is suggestive of drusenOption D- Dual circulation is a pathognomonic feature of choroidal melanoma",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q3_img1_6211e17b.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp3_img1_edbdf3cf.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "A 69-year-old man who is a chronic smoker, hypertensive, and has a BMI of 35 kg/m2complains of diminished vision in the right eye. His visual acuity is 6/36 BE and the anteriorsegment appears normal. His fundus is as shown below. What is the most likely diagnosis?225",
+      "options": {
+        "A": "Diabetic retinopathy",
+        "B": "Age related dry macular degeneration",
+        "C": "Hypertensive retinopathy",
+        "D": "Age related wet macular degeneration"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical scenario along with the image which shows drusen (druplets) are a feature of dry ornon-exudative age-related macular degeneration (ARMD).239Drusen are the earliest visible clinical signs of ARMD. They are composed of lipid, amyloid,complement factors, and associated cellular components.There are two types of ARMD:• Dry (non-exudative, non-neovascular) ARMD is the most common form, comprising around90% of the diagnosed cases. Initially characterized by macular Drusens, which later progress togeographical atrophy. Geographic atrophy (GA) is the advanced stage of dry ARMD. Antioxidantslike the AREDS2 supplements have proven effective.• Wet (exudative, neovascular) ARMD is much less common than the dry type, but it is associatedwith more rapid progression to advanced sight loss.Clinical classification:CategoryDefinition(based on the presence of lesionswithin two discdiametersof the fovea in either eye)No apparentage-relatedchang No drusenNo AMD pigmentaesNormal age-relatedchangesEarlyARMDIntermediateARMDLateARMDry abnormalitiesOnly drusenNo AMD pigmentary abnormalitiesMedium Drusen(>63 um but<125 μm)No AMD pigmentary abnormalitiesLarge Drusen(>125 µm)AnyARMD pigmentaryabnormalitiesNeovascular ARMDand/oranygeographic atrophy",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q4_img1_e88d6db7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "Indocyanine green angiography (ICG",
+      "options": {
+        "A": "is primarily indicated in which of the followingconditions?a) Minimal classic CNVM",
+        "B": "Occult CNVM",
+        "C": "Clinically significant macular edema",
+        "D": "Coats disease"
+      },
+      "correct_answer": "",
+      "explanation": "Indocyanine green angiography (ICGA) is primarily indicated in an occult choroidal neovascularmembrane (CNVM).ICGA is used to visualize the choroidal vasculature.Its main use is to differentiate between classic and occult CNVM when the clinical picture is notclear.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "Intravitreal injection of anti-VEGF is used in the treatment of which of the followingconditions?",
+      "options": {
+        "A": "Vitreous haemorrhage",
+        "B": "Wet ARMD",
+        "C": "Glaucoma",
+        "D": "Dry ARMD226"
+      },
+      "correct_answer": "",
+      "explanation": "Intravitreal injection of anti-vascular endothelial growth factor (VEGF) is used as the treatmentof wet age-related macular degeneration (ARMD).240Wet ARMD is characterized by retinal pigment epithelial detachment and choroidal/subretinalneovascularization.Treatment of ARMD depends on the location of the choroidal neovascularization membrane:• For extrafoveal membrane Laser photocoagulation•••-For subfoveal and juxta foveal membranes, treatment options are as follows:• Intravitreal injection of anti-VEGF agentsPhotodynamic therapy - the dye used is verteporfin followed by exposure to light from a diode• Transpupillary thermotherapy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "An old cab driver whose livelihood depends on his driving is distressed. He complains thateverything appears distorted and he perceives objects to smaller than their usual size. Hisanterior segment appears normal. Examination of the fundus reveals a honeycombappearance of the macula. FFA is shown below. What is the most likely diagnosis?",
+      "options": {
+        "A": "Age related macular degeneration",
+        "B": "Macular hemorrhage",
+        "C": "Cystoid macular edema",
+        "D": "Central Serous retinopathy"
+      },
+      "correct_answer": "",
+      "explanation": "The image is that of fluorescein angiography showing the \"flower petal pattern,\" which is seen incystoid macular edema (CME). The characteristic flower-petal appearance is due to theaccumulation of dye in the outer plexiform layer and inner nuclear layer at the maculaThe accumulation of fluid in the outer plexiform layer and the inner nuclear layer leads to retinalthickening at macula and loss of foveal depression, formation of cystic spaces (honey-combmacula). Risk factors include retinitis pigmentosa, uveitis, niacin, PGE2 analogues, epinephrine inaphakia, diabetic retinopathy, retinal venous occlusion and Irvin-Gass syndrome (CMEpost-cataract surgery).Symptoms may include blurring of vision, distortion, and micropsia.Therapeutic approaches for treating CME depend on the underlying etiology. This includessteroids, carbonic anhydrase inhibitors, anti-VEGF agents, PPV for associated vitreomaculartraction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q7_img1_05311803.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "A patient presents to the emergency department and is found to have a corneal abrasion,corneal ulcer, corneal perforation, and foreign body. Which of the following will not causehypotonic maculopathy in this patient?",
+      "options": {
+        "A": "Suprachoroidal haemorrhage",
+        "B": "Cyclodialysis of uvea",
+        "C": "Corneal perforation",
+        "D": "Filtration site leak227"
+      },
+      "correct_answer": "C",
+      "explanation": "Suprachoroidal hemorrhage will not cause hypotonic maculopathy in this patient.Maculopathy is common in eyes developing hypotony, which is defined as IOP &lt;6 mmHg. Themost common cause is excessive drainage following glaucoma filtration surgery (Option D). Othercauses include trauma such as cyclodialysis of the uvea (Option B), penetrating injury (Option C),chronic uveitis, retinal detachment, and other systemic causes such as dehydration, uncontrolleddiabetes, uremia, and treatment with hyperosmotic agents. They usually cause bilateral hypotonicmaculopathy.Suprachoroidal hemorrhage is a bleed into the suprachoroidal space that results from the ruptureof the posterior ciliary artery. When the bleed is severe it causes extrusion of intraocular contentsthat is termed as expulsive hemorrhage. It is a rare but dreaded complication of thephacoemulsification procedure. Signs seen in suprachoroidal hemorrhage are:• Progressive increase in intraocular pressure• Prolapse of iris241•• Loss or partial obscuration of the red reflex• In severe cases there can be extrusion of the posterior segment contents into the anteriorchamber and through the incision such as vitreous extrusionImmediate treatment involves rapid closure of the incision followed by administration ofIOP-lowering medications such as oral acetazolamide and topical or systemic steroids to reduceinflammation. Standard post-operative antibiotics can be added in these patients.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "A 45-year old patient on systemic treatment for rheumatoid arthritis develops bilateralpainless decrease in vision. What does the image show?",
+      "options": {
+        "A": "Fluorescein angiography showing bull's eye maculopathy",
+        "B": "Autofluorescence showing changes of bull's eye maculopathy",
+        "C": "OCT showing bull's eye maculopathy",
+        "D": "Fluorescein angiography showing crystalline retinopathy"
+      },
+      "correct_answer": "B",
+      "explanation": "The investigation shown in the image is an autofluorescence showing bull's eye maculopathy.Hydroxychloroquine, which is generally used for the treatment of rheumatoid arthritis, toxicitycauses bull's eye maculopathy. Chloroquine binds to melanin in the retinal pigment epithelium,causing cytotoxic effects. RPE atrophy occurs in the macula, resulting in dark areas on theautofluorescence image.Other causes of Bull's eye maculopathy include chloroquine, hydroxychloroquine, congenital conedystrophy, juvenile X-linked retinoschisis, and juvenile Batten's disease.Fundus autofluorescence is a non-invasive imaging modality. It reflects the morphologicalchanges associated with the metabolism of lipofuscin and does not require the injection of anyfluorescent dye.A fundus image of bull's eye maculopathy is shown below:The following image shows the difference between fundus autofluorescence and fluorescenceangiography242Fundus autofluorescenceFundus Fluorescein AngiographyOther ocular effects of chloroquine include:• Chloroquine keratopathy-vortex keratopathy•••Ocular palsy, ptosisElectroretinographic depression• Optic neuritis• Posterior subcapsular cataract",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q9_img1_4d2b68d7.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp9_img1_6eab19b2.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "A study used electroretinography(ERG) in military conscripts whose visual abnormalitiescould not be explained by the findings of ophthalmologic, neurological, and psychiatricexaminations. The ERG of pure malingerers was found to be, as shown below. The activity ofwhich cells of the retina is depicted by the a-wave?228",
+      "options": {
+        "A": "Rods and cones",
+        "B": "Muller cells",
+        "C": "Pigment epithelium",
+        "D": "Optic nerveElectroretinogram (ERG)BAOMARROWC"
+      },
+      "correct_answer": "A",
+      "explanation": "\"a\" wave in an electroretinogram (ERG) represents rods and cones.Electroretinography is used to evaluate retinal functions by examining the electrical response to alight stimulus.Electroretinograms (ERGS) show the amplitudes of currents that flow within the eye followingexposure to a point of light. The amplitudes are analyzed into waves, which are composed of theresponses of neuronal, glial, and retinal pigment epithelial cells.ERG:•The a-wave originates from photoreceptors (rods and cones)• The b-wave originates from Muller and bipolar cells, but is directly dependant on photoreceptors•The c-wave originates from retinal pigment epithelial cells and retinal glial cells•Oscillatory potentials (OPS) originate in the inner retinaScotopic ERGs are used to evaluate responses starting from rod photoreceptors exposed toflash-light in darkness, and photopic ERGS are used to evaluate responses starting from conephotoreceptors exposed to flash-light under constant light exposure.243",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q10_img1_356f1b0e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "Which area of the retina has the highest concentration of rods?",
+      "options": {
+        "A": "Mid-periphery of retina",
+        "B": "Optic disc",
+        "C": "Fovea",
+        "D": "Ora serrata"
+      },
+      "correct_answer": "A",
+      "explanation": "Mid-periphery of the retina has the highest concentration of rods.The following table lists the differences between rods and conesPropertyNumberLocationFunctionDysfunction symptomsRodsMost numerous (120 million)Mid-peripheral retinaNight visionMotion sensePeripheral visionNyctalopia Peripheral field losSConesFar fewer in number (6 million)FoveaDay visionColour visionCentral and fine visionPoor central vision DyschromatopsiaHemeralopia",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "A researcher is studying mutations in the rhodopsin gene which are responsible for someforms of autosomal dominant retinitis pigmentosa. On which chromosome is this genelocated?",
+      "options": {
+        "A": "39",
+        "B": "3p",
+        "C": "13p",
+        "D": "139229"
+      },
+      "correct_answer": "A",
+      "explanation": "The gene for rhodopsin is located at 3q22.1Retinitis pigmentosa (RP) is a dystrophy of rods and cones, with rods being primarily affected. Itis a genetic disease. The non-hereditary/sporadic type is most common. Among the hereditarytypes, it can occur in an autosomal dominant (AD), autosomal recessive (AR), or X-linkedrecessive (XLR) pattern. AD disease generally has the best prognosis.The presenting feature is night blindness.Investigations:• Perimetry - the initial stage will have ring scotoma, which further develops into tunnel vision.Electroretinography - reveals a decreased amplitude of both \"a\" and \"b\" waves.•Retinitis pigmentosa is a condition with no cure. There are drugs used to slow down theprogression such as acetazolamide for concomitant cystoid macular edema. Recently, vitamin Ahas been recommended, although the efficacy has not been established.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following statements is false regarding the retinal pigment epithelium (RPE)?",
+      "options": {
+        "A": "RPE forms the inner blood retinal barrier",
+        "B": "Electroculogram is an assessment of RPE health",
+        "C": "Autofluorescence helps evaluate RPE function",
+        "D": "Bruch's membrane is the basement membrane of RPE"
+      },
+      "correct_answer": "A",
+      "explanation": "Tight junctions between retinal pigment epithelium (RPE) form the outer blood-retinal barrier.The inner blood-retinal barrier is formed by the tight junctions between the endothelial cells ofretinal capillaries.RPE serves many functions, likeDevelopment of photoreceptors during embryogenesis244• Tight junctions between RPE form the outer blood-retinal barrier• Absorption of fluid from the subretinal space and adhesion of the underlying neurosensoryretina• Selective transport of metabolites to and from the retina••• Uptake, transport, storage, metabolism, and isomerization of vitamin A• Regeneration of the visual pigment rhodopsin•Phagocytosis of photoreceptor outer segment tips• Absorption of stray light by melaninIf the RPE is damaged, this is seen as a loss of autofluorescence (RPE-deficient areas appeardarker on autofluorescence images).Bruch's membrane is the basement membrane of RPE.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following disorders is not associated with retinitis pigmentosa?",
+      "options": {
+        "A": "Refsum's disease",
+        "B": "Kearn-Sayre syndrome",
+        "C": "Neuropathy, ataxia, and retinitis pigmentosa (NARP)",
+        "D": "Abetaglobulinemia"
+      },
+      "correct_answer": "D",
+      "explanation": "Retinitis pigmentosa (RP) is associated with abetalipoprotenemia (Bassen-Kornzweig syndrome)and not with abetaglobulinemia.Syndromes associated with RP (Atypical RP)Usher syndromeBardet-Biedl syndrome(Previously called Lawrence-Moon-Biedl-Bartum Syndrome)Kearn-Sayre syndromeRefsum SyndromeSensory neuraldeafness+ RPPolydactyly, obesity, mentalhandicap, and kidney disease+ RPOcular myopathy and heart disease + RPVaried skin as well as neurological and visceral features +RPBassen-Kornzweig syndrome Abetalipoprotenemia and acanthocytosis RPNeuropathy, ataxia, and retinitis pigmentosa (NARP)Neuropathy and Ataxia + RP",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 15,
+      "question": "Which of the following is not true about retinitis pigmentosa?",
+      "options": {
+        "A": "Retinal pigmentation",
+        "B": "Pale waxy disc",
+        "C": "Narrowing of vessels",
+        "D": "ERG normal"
+      },
+      "correct_answer": "D",
+      "explanation": "Electroretinogram (ERG) is abnormal in retinitis pigmentosa (RP).ERG is a sensitive diagnostic test in retinitis pigmentosa that shows reduced scotopic, subnormalresponses in early disease and becomes completely extinguished in advanced disease.Electroocoulogram (EOG) is also abnormal in retinitis pigmentosa.245Retinitis pigmentosa (RP) is an inherited or acquired pigmentatory retinal dystrophy affecting therods more than the cones. The earliest manifestation is worsening of night blindness and delayedadaptation which gradually progresses to tunnel vision and ultimately loss of central vision.The classic triad of findings in RP comprises:• Bone-spicule retinal pigmentation• Arteriolar attenuation• 'Waxy' disc pallorThe image below shows the classical triad findings of retinitis pigmentosa.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp15_img1_f49dd4ec.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 16,
+      "question": "What is the diagnosis from the image given below?230",
+      "options": {
+        "A": "Retinitis pigmentosa",
+        "B": "Cystoid macular oedema",
+        "C": "Central serous retinopathy",
+        "D": "Retinal detachment"
+      },
+      "correct_answer": "A",
+      "explanation": "The fundus shows a pale waxy disc, attenuated arteries, and bony spicules, which implies retinitispigmentosa (RP).Retinitis pigmentosa (RP) is a dystrophy of rods and cones, with rods being primarily affected. Itis a genetic disease. The non-hereditary/sporadic type is most common. Among the hereditarytype, it can occur in an autosomal dominant (AD), autosomal recessive (AR), or X-linked recessive(XLR) pattern. AD disease generally has the best prognosis.The presenting feature is night blindness.Investigations:●.Perimetry - the initial stage will have ring scotoma, which further develops into tunnel vision.⚫ Electroretinography - reveals a decreased amplitude of both \"a\" and \"b\" waves.Atypical types of RP are as follows:• Sectoral RP• Pericentric/Inverse RP246• RP sine pigmento• RP punctata albescensThere is no effective treatment for RP.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q16_img1_411a1b12.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 17,
+      "question": "In which of the following conditions is the Mizuo phenomenon seen?",
+      "options": {
+        "A": "Oguchis' disease",
+        "B": "Fundus albipunctatus",
+        "C": "Fundus flavimaculatus",
+        "D": "Retinitis pigmentosa"
+      },
+      "correct_answer": "A",
+      "explanation": "Mizuo phenomenon is seen in Oguchi's disease.Oguchi's disease is a type of congenital stationary night blindness with abnormalfundus. Congenital stationary night blindness refers to a group of disorders characterized byinfantile-onset nyctalopia but non-progressive retinal dysfunction. The fundus has an unusualgolden yellow color in the light-adapted state, which becomes normal after prolonged darkadaptation (Mizuo or Mizuo-Nakamura phenomenon).The following image shows a comparison in the fundus appearances (\"A\" shows the golden yellowcolor of the fundus in a light-adapted state; \"B\" shows normal-appearing funds after prolongeddark adaptation of 3 to 4 hours)ABRod function is absent even after 30 minutes of dark adaptation (normal dark adaptation time is20-30 mins) but recovers to a near-normal level after a long period of dark adaptation (4 hours).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp17_img1_2ed98a42.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 18,
+      "question": "Flat electrooculogram (EOG) is an Arden ratio of",
+      "options": {
+        "A": "Less than 1.85",
+        "B": "Less than 1.50",
+        "C": "Less than 1.25",
+        "D": "Less than 1.20231"
+      },
+      "correct_answer": "",
+      "explanation": "A flat electrooculogram (EOG) is an Arden ratio of less than 1.25.An EOG measures the standing potential of the eye. It reflects the activity of the RPE and thephotoreceptors. This means that an eye blinded by disease proximal to the photoreceptors willhave a normal EOG. Arden ratio is the ratio between the light peak and the dark trough in anEOG.247The normal Arden ratio is 1.85 and above. A flat EOG occurs when the Arden ratio is less than1.25.Best disease is an autosomal-dominant childhood disease characterized by the dystrophy ofthe retinal pigment epithelium. In Best disease, the Arden ratio is less than 1.50.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 19,
+      "question": "A young patient presents with loss of central vision. ERG is normal, but EOG is abnormal.What is the likely diagnosis?",
+      "options": {
+        "A": "Retinitis pigmentosa",
+        "B": "Rod cone dystrophy",
+        "C": "Stargardts disease",
+        "D": "Best's disease"
+      },
+      "correct_answer": "D",
+      "explanation": "The diagnosis based on the above scenario is Best's disease.Best's disease/Vitelliform macular dystrophy is an inherited macular dystrophy in which lipofuscinaccumulates in the central macula causing progressive central vision loss. It isautosomal-dominant and linked to the mutation in the bestrophin (VMD2) gene.It is characterized by bilateral yellow, yolk-like (vitelliform) macular lesions.The stages of evolution of the macular lesions are described as progressing from:•Pre-vitelliform stage• Vitelliform stage - scrambled egg stage with or without hypopyon• Vitelliruptive - the lesion breaks and visual acuity drops• The atrophic stagePatients with Best's disease usually have good visual acuity when the \"yolk\" remains intact.Diagnosis: This is the only disease with relatively normal ERG results associated with anabnormal EOG. Optical coherence tomography (OCT) reveals that the vitelliform material appearsas a dome-shaped, hyperreflective, and homogenous lesion, located below the hyperreflectivephotoreceptor layer.The image below shows Best's disease - the typical vitelliform lesion in an 11-year-old girl.248",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp19_img1_e989a2e6.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 20,
+      "question": "A young patient presents with loss of central vision. There is a family history of a similarcondition. Both EOG and ERG are normal. What is the most likely diagnosis?",
+      "options": {
+        "A": "Retinitis pigmentosa",
+        "B": "Rod-cone dystrophy",
+        "C": "Stargardts disease",
+        "D": "Best's disease"
+      },
+      "correct_answer": "",
+      "explanation": "The most likely diagnosis based on the given scenario is Stargardt's disease.Stargardt's disease also known as Stargardt macular dystrophy or fundus flavimaculatus is themost common macular dystrophy. It most commonly is inherited in an autosomal-recessivemanner caused by a mutation on an adenosine triphosphate-binding cassette (ABCA4) gene.Characterized by macular \"pisciform\" flecks that accumulate at the level of the retinal pigmentepithelium (RPE), sometimes resulting in central macular atrophy early in life. Patients develop amacula with a “beaten bronze\" appearance caused by atrophic changes in the RPE. In addition, a\"dark\" or \"silent\" choroid is seen on the fluorescein angiography that appears as a prominentretinal circulation against hypofluorescent choroid.The electroretinogram (ERG) and electro-oculography (EOG) are normal early in the disease butmay be reduced in more advanced cases. Of note, the ERG findings do not directly correlate withclinical findings.There is no known proven treatment for this disease. Because ABCA4 plays a role in vitamin Aprocessing in the visual cycle, additional vitamin A is suspected to make the disease worse.Healthy RetinaOptic DiscMaculaThe image below shows macular pisciform flecks.Stargardt Disease RetinaMacula AtrophyFlecks249Other options:Option A: Retinitis pigmentosa: abnormal electroretinogram (ERG).Option B: Rod-cone dystrophy: abnormal ERG.Option D: Best's disease: Normal ERG with abnormal electrooculogram (EOG).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp20_img1_bf0d71d5.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 21,
+      "question": "Silent choroid on FFA is a feature of which of the following disorders?",
+      "options": {
+        "A": "Stargardt's disease",
+        "B": "Best's disease",
+        "C": "Age related macular degeneration",
+        "D": "Cystoid macular edema"
+      },
+      "correct_answer": "A",
+      "explanation": "Silent/Dark choroid on FFA is a feature of Stargardt's disease. The classic feature of 'silent choroid'is due to the masking of background choroidal fluorescence by lipofuscin deposits in thesubretinal space.Stargardt disease constitutes the most common type of macular dystrophy. It has mutations in aphotoreceptor cell-specific ATP-binding cassette gene (ABC4) that is usually inherited in anautosomal recessive manner. The disease usually starts in the juvenile group with progressivecentral vision loss and color vision loss that occurs due to the atrophy of the macular retinalpigment epithelium with an accumulation of discrete pisciform flecks of lipofuscin.Signs of Stargardt's disease:• Beaten bronze appearance of the macula that is caused by the atrophic changes in the RPE.• Silent/Dark choroid on FFA.• Visual field testing shows central vision loss.• The electroretinogram (ERG) is normal early in the disease but may be reduced in moreadvanced cases.Fundus flavimaculatus is genetically considered to be a part of the same spectrum as Stargardt'sdisease with late onset i.e. usually after 40 years of age.250Other options:Option B: Best's disease also known as vitelliform macular dystrophy is an autosomal dominantmacular dystrophy in which lipofuscin accumulates in the central macula, causing progressivecentral vision loss. This disease is linked to mutations in the bestrophin (VMD2) gene and they donot exhibit silent choroid on FFA. Findings seen in Best's disease are:•Vitelliform (yolk like) appearance of the fundus•Relatively normal ERG results associated with abnormal EOGThe given below is the fundus picture of Best's disease showing an egg yolk lesion in the macula.bOption C: Age related Macular degeneration(ARMD) also known as senile macular degeneration isa chronic and progressive bilateral degenerative disorder of the macula that affects olderindividuals &gt;50 yrs. ARMD is classified as dry and wet ARMD where the hallmarks are thepresence of drusen and choroidal neovascularization respectively. Drusen are extracellulareosinophilic deposits between RPE and Bruch's membrane.251Clinical features include loss of central vision, distorted vision (lines seen as wavy), and suddenpainless loss of vision as seen in wet ARMD. The image below shows Drusens in the macular areain dry macular degeneration.Option D: Cystoid Macular edema (CME) is a collection of fluid between the outer plexiform layerand the inner nuclear layer of the retina following a break in the blood-retinal barrier. In CME onfundoscopy, a honeycomb appearance and on FFA flower petal pattern can be seen. The belowimage shows the flower petal pattern on FFA as seen in CME.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp21_img1_a062cca9.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 22,
+      "question": "A neonate with leukocoria and strabismus is diagnosed to have persistent hyperplasticprimary vitreous (PHPV). Which of the following congenital disorders is it associated with?",
+      "options": {
+        "A": "Down syndrome",
+        "B": "Tuberous sclerosis",
+        "C": "Patau syndrome",
+        "D": "Sturge Weber syndrome232"
+      },
+      "correct_answer": "C",
+      "explanation": "Persistent hyperplastic primary vitreous (PHPV) is associated with Patau syndrome (Trisomy 13).252PHPV is a developmental disorder of the vitreous humor. In this condition, there is persistence ofthe embryonic hyaloid vessel.• Anterior PHPV - Here, the remnant vessel is attached to the back of the lens but does not reachthe optic nerve.•Posterior PHPV- In this form of the disease, the vessel arises from the optic nerve.Clinically, PHPV presents with leucocoria and microphthalmia, and there can be complicationssuch as tractional retinal detachments.This condition has a poor prognosis regardless of the time of intervention.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 23,
+      "question": "When compared to blood, vitreous humor has a high concentration of which of the following?",
+      "options": {
+        "A": "Ascorbate",
+        "B": "Glutathione",
+        "C": "Glucose",
+        "D": "Sodium"
+      },
+      "correct_answer": "A",
+      "explanation": "When compared to blood, vitreous humor has a high concentration of ascorbate. The vitreous:plasma ratio of ascorbic acid concentration is 9:1.This high concentration of ascorbic acid is maintained by the active transport by the ciliary bodyepithelium, and it is attributed to the ability of the ascorbate to absorb ultraviolet rays and act as afree radical scavenger.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 24,
+      "question": "A 40-year-old woman complains of discomfort in her left eye. There is a past history of blunttrauma in her childhood which made her left eye blind. Slit-lamp examination of her left eyeis shown below. What is your diagnosis?",
+      "options": {
+        "A": "Mittendorf dots",
+        "B": "Bergmeister papilla",
+        "C": "Synchysis scintillans",
+        "D": "Asteroid hyalosis"
+      },
+      "correct_answer": "",
+      "explanation": "These are synchysis scintillans, which are floaters composed of cholesterol bodies, found in thevitreous (extending into the anterior chamber in this picture).Synchysis scintillans are vitreous opacities that occur as a consequence of chronic vitreoushaemorrhage, often in a blind eye. This condition is usually discovered, when frank haemorrhageis no longer present. They are composed of cholesterol derived from plasma cells or degradedproducts of erythrocytes.Vitreous opacities can be caused by a variety of pathological processes and the following are fewexamples of vitreous opacities:⚫ Vitreous haemorrhage•• Asteroid hyalosis•Synchysis scintillans•Amyloidosis•• Vitreous cyst• Persistent fetal vasculature.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q24_img1_3c1a3053.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 25,
+      "question": "DAILYROUNDS233A slit-lamp examination reveals the following finding. It is also noted that these yellow-whitevitreous opacities do not settle down when the eye is immobile. All of the followingstatements about this condition are true except:",
+      "options": {
+        "A": "Mostly unilateral",
+        "B": "Rarely causes symptoms",
+        "C": "Associated with diabetes",
+        "D": "Common in myopes"
+      },
+      "correct_answer": "D",
+      "explanation": "The examination findings are suggestive of asteroid bodies/hyalosis. It is not common in myopes.253Asteroid hyalosis is a common degenerative process in which calcium pyrophosphate particlescollect within the vitreous gel. It is seen clinically as numerous tiny round yellow-white opacitiesof varying size and density. These move with the vitreous during eye movements but do notsediment inferiorly when the eye is immobile.Only one eye is affected in 75% of patients; it rarely causes visual problems and the majority ofpatients are asymptomatic. The cause of asteroid hyalosis is unknown, but it has been associatedwith diabetes mellitus, hypertension, and hypercholesterolemia. The prevalence ofasteroid hyalosis increases with age and affects 3% of those aged 75-86 years. It is more commonin men than in women. While treatment of asteroid hyalosis is usually unnecessary, vitrectomymay occasionally be indicated.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q25_img1_e2a50d2b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 26,
+      "question": "A young male presents with recurrent vitreous hemorrhage. What is the probable diagnosis?",
+      "options": {
+        "A": "Eale's disease",
+        "B": "Central retinal vein occlusion",
+        "C": "Coats disease",
+        "D": "Proliferative vitreoretinopathy"
+      },
+      "correct_answer": "A",
+      "explanation": "For a young male presenting with recurrent vitreous hemorrhage, the diagnosis is Eale's disease.Eales disease is an idiopathic occlusive peripheral periphlebitis. It is characterized by threeoverlapping stages: inflammatory, occlusive, and retinal neovascular. Visual prognosis is good inthe majority of cases. It is an important cause of visual morbidity in young males from the Indiansubcontinent.Diagnosis:-• Symptoms Floaters or sudden visual reduction due to vitreous hemorrhage. There can beneurological deficits as well.• Mild anterior uveitis• Fundus - The condition is typically bilateral, although often asymmetrical.•Peripheral periphlebitis●•• Branch retinal vein occlusionPeripheral capillary non-perfusion; microaneurysms, tortuosity, vascular shunts, andneovascularization with recurrent vitreous hemorrhageTreatment:• Steroids: Periocular, systemic, topical, and intravitreal steroids seem to be helpful in theinflammatory stage.• Antitubercular treatment",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 27,
+      "question": "Which of the following is characteristic of Eale's disease?",
+      "options": {
+        "A": "Retinal hemorrhage",
+        "B": "Vitreous hemorrhage",
+        "C": "Conjunctival hemorrhage234",
+        "D": "Choroidal hemorrhage"
+      },
+      "correct_answer": "B",
+      "explanation": "Eale's disease is an idiopathic inflammatory venous occlusion (phlebitis) that primarily affects theperipheral retina that is periphlebitis and is characterized by recurrent bilateral vitreoushemorrhage.Superficial retinal hemorrhages and cotton-wool spots can be sometimes seen, but they are notcharacteristic of Eales disease.254",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 28,
+      "question": "What is the investigation of choice for the diagnosis of a vitreous hemorrhage?",
+      "options": {
+        "A": "ERG",
+        "B": "USG A scan",
+        "C": "USG B-scan",
+        "D": "Optical coherence tomography"
+      },
+      "correct_answer": "",
+      "explanation": "The investigation of choice for vitreous hemorrhage is ultrasonography (USG) B-scan.Mild hemorrhage causes sudden onset floaters and diffuse blurring of vision, but may not affectvisual acuity, whilst a dense bleed may result in sudden painless loss of vision.B-mode ultrasonography(B-scan) in unclotted vitreous hemorrhage generally shows a uniformappearance, and once cellular aggregates develop, small particulate echoes become visible.Causes of vitreous hemorrhage:•• Acute posterior vitreous detachment associated either with a retinal tear or avulsion of aperipheral vessel•• Proliferative retinopathy• Diabetic•Retinal vein occlusion• Sickle cell disease• Eales disease• Vasculitis• Miscellaneous retinal disorders• Macroaneurysm• Telangiectasia•Capillary hemangioma• Trauma•Systemic• Bleeding disorders•⚫ Terson syndrome- refers to the combination of intraocular and subarachnoidhemorrhage secondary to aneurysmal rupture, most commonly arising from the anteriorcommunicating artery.Treatment is dictated by severity and cause, but an increasingly low threshold is being adopted forearly vitrectomy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 29,
+      "question": "Sub-hyaloid hemorrhage is",
+      "options": {
+        "A": "Boat-shaped",
+        "B": "Crescent-shaped",
+        "C": "Round",
+        "D": "Flame-shaped"
+      },
+      "correct_answer": "A",
+      "explanation": "Sub-hyaloid hemorrhage is dome-shaped or boat-shaped.Subhyaloid hemorrhage is the collection of blood in the potential space between the posteriorvitreous and internal limiting membrane of the retina.The image depicts a sub-hyaloid hemorrhage which is boat-shaped.255",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp29_img1_cccb2407.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 30,
+      "question": "What is a reverse hypopyon?",
+      "options": {
+        "A": "Collection of pus in the vitreous",
+        "B": "Collection of emulsified silicone oil in the anterior chamber",
+        "C": "Abscess in the orbit",
+        "D": "Perforated corneal ulcer"
+      },
+      "correct_answer": "",
+      "explanation": "Reverse hypopyon is the collection of emulsified silicone oil in the anterior chamber.Silicone oil is the vitreous substitute that is injected into the vitreous cavity aftervitrectomy. When it gets emulsified, it enters the anterior chamber and collects in the upper part.Complications of silicone oil in the anterior chamber:• Glaucoma•Band-shaped keratopathyThe image below shows reverse hypopyon.256",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp30_img1_d9ac4a7e.jpeg",
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 31,
+      "question": "Which anti-fungal can be administered intravitreally?",
+      "options": {
+        "A": "Fluconazole",
+        "B": "Voriconazole",
+        "C": "Ketoconazole",
+        "D": "Clotrimazole235"
+      },
+      "correct_answer": "B",
+      "explanation": "Voriconazole and amphotericin-B can be given intravitreally.Vancomycin and ceftazidime is the preferred combination for endophthalmitis (intravitreous).Amikacin (0.4 mg in 0.1 ml) or gentamicin (0.4 mg in 0.1 ml) are used less frequently inendophthalmitis owing to the risk of macular infarction.257",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "disorders"
+    },
+    {
+      "q_no": 1,
+      "question": "Detailed ExplanationsThe given clinical scenario with a characteristic smoke stack pattern on FFA is suggestive of adiagnosis of central serous retinopathy. In CSR, the outer blood-retinal barrier is disrupted.CSR is the serous detachment of the neurosensory retina with focal and multifocal areas ofleakage at the level of the retinal pigment epithelium (RPE), mainly affecting the macular area.That is why the patient who is usually a young male presents with macular symptoms such asblurring of central vision, metamorphopsia.The blood-retina barrier (BRB) is composed of inner and outer barriers. The outer BRB refers tothe barrier formed at the retinal pigment epithelial (RPE) cell layer and regulates the movement ofsolutes and nutrients from the choroid to the sub-retinal space. By contrast, the inner BRB,similar to the blood-brain barrier (BBB) is located in the inner retinal microvasculature andcomprises the microvascular endothelium, which lines these vessels.The image given below shows the smoke-stack pattern seen in CSR.Amsler grid is used in detecting maculopathy.Uses:• Assess macular function• Evaluate the visual field of 10°• Good for follow-up in CSRThe image below shows Amsler's grid.DAILY ROUNDS237Amsler GridOMARROWSolution to Question 2:Fluid accumulation in central serous retinopathy (CSR) is in the subretinal space due to abnormalpermeability of the choriocapillaris.The image depicts optical coherence tomography showing fluid accumulation in the subretinalspace, with shallow retinal detachment.272Solution to Question 3:The above clinical scenario and the fundal image depicting focal fundal detachment are suggestiveof central serous retinopathy. An enlarging inkblot pattern or smoke stack pattern is seen in FFA.238Central serous retinopathy refers to the spontaneous serous detachment of the neurosensoryretina in the macular region. Recent studies implicate an abnormal choroidal circulation as thecause of CSR.Clinical features:•Retinal detachment - Sudden painless loss of vision• Relative positive scotoma• Micropsia•MetamorphopsiaInvestigations:••Ophthalmoscopy - circular ring reflex present and foveal reflex absent• FFA - enlarging inkblot pattern or smoke stack patternSpontaneous resolution is seen in most cases and hence observation isenough. Steroids are contraindicated. The disease is usually self-limiting but may recur.The image depicts fundus fluorescein angiography (FF",
+      "options": {
+        "A": ", showing an enlarging ink-blotpattern/enlarging dot sign, which is seen in central serous retinopathy (CSR).COther options:Option B- Petaloid appearance is seen in cystoid macular edemaOption C- Stars in the sky appearance is suggestive of drusenOption D- Dual circulation is a pathognomonic feature of choroidal melanomaSolution to Question 4:The clinical scenario along with the image which shows drusen (druplets) are a feature of dry ornon-exudative age-related macular degeneration (ARMD).239Drusen are the earliest visible clinical signs of ARMD. They are composed of lipid, amyloid,complement factors, and associated cellular components.There are two types of ARMD:• Dry (non-exudative, non-neovascular) ARMD is the most common form, comprising around90% of the diagnosed cases. Initially characterized by macular Drusens, which later progress togeographical atrophy. Geographic atrophy (GA) is the advanced stage of dry ARMD. Antioxidantslike the AREDS2 supplements have proven effective.• Wet (exudative, neovascular) ARMD is much less common than the dry type, but it is associatedwith more rapid progression to advanced sight loss.Clinical classification:CategoryDefinition(based on the presence of lesionswithin two discdiametersof the fovea in either eye)No apparentage-relatedchang No drusenNo AMD pigmentaesNormal age-relatedchangesEarlyARMDIntermediateARMDLateARMDry abnormalitiesOnly drusenNo AMD pigmentary abnormalitiesMedium Drusen(>63 um but<125 μm)No AMD pigmentary abnormalitiesLarge Drusen(>125 µm)AnyARMD pigmentaryabnormalitiesNeovascular ARMDand/oranygeographic atrophySolution to Question 5:Indocyanine green angiography (ICGA) is primarily indicated in an occult choroidal neovascularmembrane (CNVM).ICGA is used to visualize the choroidal vasculature.Its main use is to differentiate between classic and occult CNVM when the clinical picture is notclear.Solution to Question 6:Intravitreal injection of anti-vascular endothelial growth factor (VEGF) is used as the treatmentof wet age-related macular degeneration (ARMD).240Wet ARMD is characterized by retinal pigment epithelial detachment and choroidal/subretinalneovascularization.Treatment of ARMD depends on the location of the choroidal neovascularization membrane:• For extrafoveal membrane Laser photocoagulation•••-For subfoveal and juxta foveal membranes, treatment options are as follows:• Intravitreal injection of anti-VEGF agentsPhotodynamic therapy - the dye used is verteporfin followed by exposure to light from a diode• Transpupillary thermotherapySolution to Question 7:The image is that of fluorescein angiography showing the \"flower petal pattern,\" which is seen incystoid macular edema (CME). The characteristic flower-petal appearance is due to theaccumulation of dye in the outer plexiform layer and inner nuclear layer at the maculaThe accumulation of fluid in the outer plexiform layer and the inner nuclear layer leads to retinalthickening at macula and loss of foveal depression, formation of cystic spaces (honey-combmacula). Risk factors include retinitis pigmentosa, uveitis, niacin, PGE2 analogues, epinephrine inaphakia, diabetic retinopathy, retinal venous occlusion and Irvin-Gass syndrome (CMEpost-cataract surgery).Symptoms may include blurring of vision, distortion, and micropsia.Therapeutic approaches for treating CME depend on the underlying etiology. This includessteroids, carbonic anhydrase inhibitors, anti-VEGF agents, PPV for associated vitreomaculartraction.Solution to Question 8:Suprachoroidal hemorrhage will not cause hypotonic maculopathy in this patient.Maculopathy is common in eyes developing hypotony, which is defined as IOP &lt;6 mmHg. Themost common cause is excessive drainage following glaucoma filtration surgery (Option D). Othercauses include trauma such as cyclodialysis of the uvea (Option",
+        "B": ", penetrating injury (Option",
+        "C": ",chronic uveitis, retinal detachment, and other systemic causes such as dehydration, uncontrolleddiabetes, uremia, and treatment with hyperosmotic agents. They usually cause bilateral hypotonicmaculopathy.Suprachoroidal hemorrhage is a bleed into the suprachoroidal space that results from the ruptureof the posterior ciliary artery. When the bleed is severe it causes extrusion of intraocular contentsthat is termed as expulsive hemorrhage. It is a rare but dreaded complication of thephacoemulsification procedure. Signs seen in suprachoroidal hemorrhage are:• Progressive increase in intraocular pressure• Prolapse of iris241•• Loss or partial obscuration of the red reflex• In severe cases there can be extrusion of the posterior segment contents into the anteriorchamber and through the incision such as vitreous extrusionImmediate treatment involves rapid closure of the incision followed by administration ofIOP-lowering medications such as oral acetazolamide and topical or systemic steroids to reduceinflammation. Standard post-operative antibiotics can be added in these patients.Solution to Question 9:The investigation shown in the image is an autofluorescence showing bull's eye maculopathy.Hydroxychloroquine, which is generally used for the treatment of rheumatoid arthritis, toxicitycauses bull's eye maculopathy. Chloroquine binds to melanin in the retinal pigment epithelium,causing cytotoxic effects. RPE atrophy occurs in the macula, resulting in dark areas on theautofluorescence image.Other causes of Bull's eye maculopathy include chloroquine, hydroxychloroquine, congenital conedystrophy, juvenile X-linked retinoschisis, and juvenile Batten's disease.Fundus autofluorescence is a non-invasive imaging modality. It reflects the morphologicalchanges associated with the metabolism of lipofuscin and does not require the injection of anyfluorescent dye.A fundus image of bull's eye maculopathy is shown below:The following image shows the difference between fundus autofluorescence and fluorescenceangiography242Fundus autofluorescenceFundus Fluorescein AngiographyOther ocular effects of chloroquine include:• Chloroquine keratopathy-vortex keratopathy•••Ocular palsy, ptosisElectroretinographic depression• Optic neuritis• Posterior subcapsular cataractSolution to Question 10:\"a\" wave in an electroretinogram (ERG) represents rods and cones.Electroretinography is used to evaluate retinal functions by examining the electrical response to alight stimulus.Electroretinograms (ERGS) show the amplitudes of currents that flow within the eye followingexposure to a point of light. The amplitudes are analyzed into waves, which are composed of theresponses of neuronal, glial, and retinal pigment epithelial cells.ERG:•The a-wave originates from photoreceptors (rods and cones)• The b-wave originates from Muller and bipolar cells, but is directly dependant on photoreceptors•The c-wave originates from retinal pigment epithelial cells and retinal glial cells•Oscillatory potentials (OPS) originate in the inner retinaScotopic ERGs are used to evaluate responses starting from rod photoreceptors exposed toflash-light in darkness, and photopic ERGS are used to evaluate responses starting from conephotoreceptors exposed to flash-light under constant light exposure.243Solution to Question 11:Mid-periphery of the retina has the highest concentration of rods.The following table lists the differences between rods and conesPropertyNumberLocationFunctionDysfunction symptomsRodsMost numerous (120 million)Mid-peripheral retinaNight visionMotion sensePeripheral visionNyctalopia Peripheral field losSConesFar fewer in number (6 million)FoveaDay visionColour visionCentral and fine visionPoor central vision DyschromatopsiaHemeralopiaSolution to Question 12:The gene for rhodopsin is located at 3q22.1Retinitis pigmentosa (RP) is a dystrophy of rods and cones, with rods being primarily affected. Itis a genetic disease. The non-hereditary/sporadic type is most common. Among the hereditarytypes, it can occur in an autosomal dominant (A",
+        "D": ", autosomal recessive (AR), or X-linkedrecessive (XLR) pattern. AD disease generally has the best prognosis.The presenting feature is night blindness.Investigations:• Perimetry - the initial stage will have ring scotoma, which further develops into tunnel vision.Electroretinography - reveals a decreased amplitude of both \"a\" and \"b\" waves.•Retinitis pigmentosa is a condition with no cure. There are drugs used to slow down theprogression such as acetazolamide for concomitant cystoid macular edema. Recently, vitamin Ahas been recommended, although the efficacy has not been established.Solution to"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q1_img1_6c0e25a3.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp1_img1_2023f55e.jpeg",
+      "chapter_heading": "disorders"
+    }
+  ]
+}

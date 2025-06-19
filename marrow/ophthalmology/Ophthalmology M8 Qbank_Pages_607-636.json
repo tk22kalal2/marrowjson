@@ -1,0 +1,350 @@
+{
+  "chapter": "Instruments in Ophthalmology",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 50-year-old woman comes to the out-patient with complaints of diminished vision alongwith floaters and flashes. The ophthalmologist uses the following instrument to assess theretinal lesions. Which of the following statements is true regarding the ophthalmoscopy doneusing the instrument shown in the image below?",
+      "options": {
+        "A": "Area of field in focus is 2 disc diameters.",
+        "B": "The image produced is real and inverted.",
+        "C": "Condensing lens is not required.",
+        "D": "Stereopsis is absent."
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q1_img1_76b527a3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is a feature of indirect ophthalmoscopy?",
+      "options": {
+        "A": "15 times magnification",
+        "B": "Image is erect and virtual",
+        "C": "Binocular vision",
+        "D": "Smaller field of focus607"
+      },
+      "correct_answer": "C",
+      "explanation": "Indirect ophthalmoscope needs a binocular vision.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 3,
+      "question": "On entering the Ophthalmology OPD for the first time, you notice multiple patients beingexamined using the following instrument. What is this instrument?",
+      "options": {
+        "A": "Ophthalmoscope",
+        "B": "Refractometer",
+        "C": "Keratometer",
+        "D": "Slit lamp"
+      },
+      "correct_answer": "D",
+      "explanation": "The image shows a slit lamp. Slit-lamp biomicroscopy is the ideal method to visualize thefundus, especially for observing the optic disc changes seen in glaucoma.The lenses used are as follows:•Contact type: Goldmann three-mirror contact lens, modified Koeppe lensNon-contact type: Convex lens à+60D, +78D, +90D (best lens)620•⚫ Hruby lens: planoconcave lens with dioptric power of -58.6 D.Option B: The image given below shows a refractometer.Option C: The image given below shows a keratometerOption A: The image given below shows an ophthalmoscope<-100621",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q3_img1_76455a70.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp3_img1_6e595242.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 4,
+      "question": "Which of the following instruments can you use to measure corneal thickness?",
+      "options": {
+        "A": "Keratometer",
+        "B": "Pachymeter",
+        "C": "Specular microscopy",
+        "D": "Ophthalmometer"
+      },
+      "correct_answer": "B",
+      "explanation": "The pachymeter is used to measure corneal thickness.PachPen1632630-ACCUTOREOptions A and D: A keratometer (ophthalmometer) measures the curvature of the anterior surfaceof the cornea at two points about 1.25 mm on either side of its center.622Option C: Specular microscopy is the study of the corneal endothelium under a very highmagnification (100 times greater than slit lamp biomicroscopy). Endothelium can be analyzed forcellular size, shape, density, and distribution. The healthy endothelial cell is a regular hexagon,and the normal cell density in a young adult is about 3000 cells/mm2.NIDEK623Normal EndotheliumHigh Cell DensityCornea EndotheliumVery Low DensityHigh Surgical RiskPolymegethismEW Contact LensesStage 3 GuttataNormal Cell Count",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp4_img1_98ed360d.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 5,
+      "question": "In which surgery would you use the instrument shown below?608",
+      "options": {
+        "A": "Cataract",
+        "B": "Glaucoma",
+        "C": "Lid surgeries",
+        "D": "Corneal transplant"
+      },
+      "correct_answer": "A",
+      "explanation": "The image shows a Ziegler knife, which is used to open the lens capsule and aspirate the lensmaterial in congenital cataract surgeries.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 6,
+      "question": "All of the following are true about the instrument shown in the image given below except-",
+      "options": {
+        "A": "It is used for the localization of a foreign body.",
+        "B": "It is used for the measurement of the angle of the posterior chamber.609",
+        "C": "It is used for the demonstration of the extent of peripheral anterior synechiae.",
+        "D": "It provides a mirror image of the opposite angle."
+      },
+      "correct_answer": "B",
+      "explanation": "The given instrument is an indirect gonioscope, which is used to visualize the angle of the anteriorchamber, i.e., for gonioscopy, and not the angle of the posterior chamber.Types:• Indirect gonioprism- provides mirror image of the opposite angle.• Direct goniolens- provides a direct view of the angleApplication:••To view the angle of the anterior chamber• Localization of the foreign body, abnormal blood vessels, or tumors in the angle• Demonstration of the extent of peripheral anterior synechiae•• Direct goniolens can be used during goniotomy",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q6_img1_321229a1.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 7,
+      "question": "A 50-year-old male presented with progressive blurred vision, photophobia, and eye pain. Onexamination, there was conjunctival redness, a mid-dilated pupil, and a shallow anteriorchamber in the right eye. He has been treated both medically and surgically for the conditionbut showed no improvement. The following procedure incorporates a device to aid drainage.Identify the device.",
+      "options": {
+        "A": "Ex-PressTM implant",
+        "B": "Ahmed glaucoma valve",
+        "C": "Molteno implant",
+        "D": "Baerveldt implantOMARROWConjunctivaScleral flap"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical vignette points to a diagnosis of glaucoma not responsive to medical treatment andtrabeculectomy and the device used is an ex-PressTM glaucoma implant (mini shunt).624It is a form of minimally invasive glaucoma surgery (MIGS) to increase aqueous drainage.Ex-PRESS glaucoma implant is a small stainless steel device. It is inserted under a scleral flapduring a modified trabeculectomy. Complications such as hypotony are lower than with standardtrabeculectomy.Glaucoma drainage devices are devices that allow aqueous outflow by establishing communicationbetween the anterior chamber and sub-Tennon's space/sub-conjunctival space. While thesedevices were traditionally reserved for high-risk patients, or after trabeculectomy had failed, theyare becoming increasingly popular.The commonly used devices are as follows:1. Shunts using episcleral explants• Ahmed glaucoma valve: Silicone•• Molteno implant - Polypropylene plate and silicone plate• Baerveldt implant - Silicone2. Mini-shunts• Ex-Press™ Mini-Shunt: Stainless steel⚫iStentⓇ Titanium",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q7_img1_6a0f56a2.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 8,
+      "question": "During a visit to the ophthalmology department, you see the following test being performedfor visual field charting of a patient. Identify the instrument used from the options givenbelow.610",
+      "options": {
+        "A": "Octopus",
+        "B": "Field Master",
+        "C": "Humphrey Field Analyzer",
+        "D": "Lister's perimeter"
+      },
+      "correct_answer": "D",
+      "explanation": "The image given above shows a Lister's perimeter. It is used in manual perimetry for visual fieldchartingClassification:•Manual: Confrontation, Listers, Campimetry, Goldmann perimeter•• Automated: Octopus, Field Master, Humphrey Field Analyzer• Static: Friedman, Automated• Kinetic: Confrontation, Listers, Scotometry, GoldmannThe best type is automated perimetry.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q8_img1_11b4d75e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 9,
+      "question": "Which among the following would you use for the measurement of intraocular pressure in apatient with a scarred cornea?",
+      "options": {
+        "A": "Goldmann",
+        "B": "Perkins",
+        "C": "Tonopen",
+        "D": "Pulsair"
+      },
+      "correct_answer": "",
+      "explanation": "Tonopen is used for measuring intraocular pressure (IOP) in a scarred cornea.It is a hand-held electronic contact tonometer (a modified version of the older Mackay-Margtonometer). Besides portability, its main advantage is the ability to measure IOP reasonablyaccurately in eyes with distorted or edematous corneas and through a soft contact lens.Types of tonometry:•• Indentation tonometry- Reading depends on scleral rigidity, e.g., Schiotz tonometer625•Applanation tonometry- Based on the amount of force needed to flatten or applanate a knownarea of the cornea, Imbert-Fick principle. This is further divided into two types -• Fixed force: IOP is proportional to the area, e.g., Maklakov, Barraquer• Fixed area and variable force: IOP is proportional to force. The most reliable is Goldmann.• Self-measurement: Rebound• Non-contact type: Pulse Air, Air-Puff• Irregular cornea: Tonopen, Mackay-MargRecent tonometers:• Pascals tonometer (dynamic contour tonometry [DCT]): Contact; used for post-LASIK IOPmeasurement.• Reichert Ocular Response AnalyzerⓇ: Non-contactNote: Tonography is a non-invasive technique for determining the facility of aqueous outflow.The image given below shows fluorescein-stained semicircular mires.Mires of the applanation tonometerMPerfect alignment of miresNot aligned. Need to movetonometer prism backwardNot aligned. Need to movetonometer prism forwardLines too thick, falselyLines too thin, falselyhigh IOP will be recorded.low IOP will be recorded.MARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp9_img1_cd9d659a.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 10,
+      "question": "A first-year ophthalmology resident is asked to counsel the parents of a 1-month-old infantdiagnosed with a lamellar congenital cataract in both eyes. He discusses the treatmentoptions and mentions that the following lens will be used in the surgery. This lens is a611",
+      "options": {
+        "A": "Anterior chamber intra-ocular lens",
+        "B": "Posterior chamber intra ocular lens (modified C-loop type)",
+        "C": "Singh and Worst's iris claw lens",
+        "D": "Posterior chamber intra ocular lens (four loop type)"
+      },
+      "correct_answer": "A",
+      "explanation": "Cataract surgery with an intraocular lens (IOL) implantation is the treatment of choice incongenital cataracts. The above image depicts a modified C-loop type of posterior chamberintraocular lens (PCIOL) used in such cases.This surgery involves an extracapsular cataract extraction (ECCE) with primaryposterior capsulorhexis and anterior vitrectomy. After removal of the cataractous lens, a posteriorchamber intraocular lens (PCIOL) is implanted.PCIOL rest entirely behind the iris. They may be supported and fixed as follows:• Capsular bag fixation of PCIOL (most ideal method)626•·Ciliary sulcus fixation• Sclera fixationParts of the IOL:The central part overlying the optic axis is called the optic.• The peripheral arms used for placement and stabilization are the haptics.The image given below shows different types of intraocular lens.Intraocular lensesRES10110Posteriorchamber 10L(modified C loop type)Anterior chamber 1OL(Kelman multiflex)MARROWPosterior chamber IOL(four loop type)Singhirisand Worst'sclaw lons",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q10_img1_a941f54d.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp10_img1_7439fba0.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 11,
+      "question": "As an intern posted in the department, you are assisting a senior surgical ophthalmologist forcataract surgery on a 72-year-old man. You notice the nursing head pass him the followinglens for implantation. This is aMORROWOMARROW",
+      "options": {
+        "A": "Anterior chamber intra-ocular lens (ACIOL)612",
+        "B": "Posterior chamber intra ocular lens (modified C-loop type)",
+        "C": "Singh and Worst's Iris claw lens",
+        "D": "Posterior chamber intra ocular lens (four loop type)"
+      },
+      "correct_answer": "B",
+      "explanation": "The image depicts Kelman multiflex type of anterior chamber intraocular lens (ACIOL). It isthe most commonly used ACIOL.Anterior chamber IOLs lie entirely in front of the iris and are supported in the angle ofthe anterior chamber. IOL implantation is the method of choice for correcting aphakia.These are associated with a higher incidence of bullous keratopathy.The image given below shows different types of intraocular lens.627Intraocular lensesPosterior chamber IOL(modified C loop type)Posterior chamber IOL(four loop type)Anterior chamber 10L(Kelman multiflex)©MARROWSingh and Worst'siris claw lons",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q11_img1_f286aba9.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp11_img1_a86629fd.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 12,
+      "question": "Identify the given instrument.",
+      "options": {
+        "A": "Maddox tangent scale",
+        "B": "Maddox wing",
+        "C": "Synoptophore",
+        "D": "Retinoscopy"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image depicts a Maddox wing. It is an instrument by which the amount of heterophoriafor near vision can be measured.Methods to examine heterophoria:•Testing for refractive error• Cover-uncover test• Prism bar cover test (PBCT)• Maddox rod test• Maddox wing test• Maddox tangent scale: heterophoria for distanceMeasurement of the near point of convergence: Using RAF rule (Normally, it is 70 mm)• Measurement of fusional reserve- done with a synoptophore or prism bar",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q12_img1_7b80c959.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 13,
+      "question": "You would identify the instrument shown in the image below as:613",
+      "options": {
+        "A": "Nagel's anomaloscope",
+        "B": "Jackson's cross cylinder",
+        "C": "Maddox rod",
+        "D": "Retinoscope"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows Jackson's cross cylinder (flip-cross technique) which is used to refine the powerand axis of the cylindrical lens.Option A: Nagel's anomaloscope is used to test color vision.628Option C: Maddox rod consists of parallel red or colorless cylinders stacked together. Maddox rodtest is a macular function test used to measure the degree of heterotropia or heterophoria in casesof torsional diplopia.Option D: RetinoscopeMARROWOMARROW629Streak retinoscopeMARROWOMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q13_img1_0fa93491.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp13_img1_0575d7d7.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 14,
+      "question": "Identify the instrument.",
+      "options": {
+        "A": "Maddox wing",
+        "B": "Maddox glassTo-0.25614",
+        "C": "Maddox rod",
+        "D": "Phoropter"
+      },
+      "correct_answer": "C",
+      "explanation": "The above instrument is a Maddox rod.Maddox Rod TestA Maddox rod is a specially constructed device, consisting of a series of parallel cylinders, thatconverts a point source of light into a line image. It can be used to test for horizontal and verticaldeviations, and when used in conjunction with another Maddox rod, for cyclo deviations.A patient is asked to fix on a point light in the center of Maddox tangent scale placed 6 metersaway. A Maddox rod is placed in front of one eye with the axis of the rod parallel to the axis ofdeviation. The patient will see a point light with one eye and a red line with the other. Due todissimilar images of the two eyes, fusion is broken and heterophoria becomes manifest. Thenumber on the Maddox tangent scale where the red line falls will be the amount of heterophoriain degrees.630Maddox tangent scale3.2.1x654321 0 0 12345628-26-24-22-20-18-16-14-12-0987654321001234567890 12-14-16-18-20-22-24-26-28MARROWRightOMARROWMaddox rodOMARROWMaddox rod testExaminers's viewPatient's viewLoftOrthophoriaMARROWLeft Exophoria/tropiaLeft Esophoria/tropiaOMARROW631RightMaddox rod testMOrthophoriaHypophoriaHyperphoriaExaminers's viewLeftPatient's viewwOMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q14_img1_818b47bf.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp14_img1_d9bdcce5.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 15,
+      "question": "You can use a stenopaeic slit for all of the following except",
+      "options": {
+        "A": "Fincham's test",
+        "B": "Corneal tattooing",
+        "C": "Optical Iridectomy",
+        "D": "To find out the axis in astigmatism"
+      },
+      "correct_answer": "B",
+      "explanation": "Stenopaeic slit is not used for corneal tattooing.Stenopaeic slit is an ophthalmological instrument that is used in:•Fincham's test (Option A) : This test is used to differentiate between the colored halos due toimmature cataract and corneal abnormalities such as corneal edema due to glaucoma.•⚫ To find out the axis in astigmatism (option D) for prescribing the correction glasses.•⚫ To find out the optimal site for optical iridectomy (option C) for treating cases of central macularor leucomatous corneal opacities.Corneal tattooing was done mainly in the past for cosmetic purposes. It is commonly done forfirm scars of corneal opacities in a eye without any useful vision.The below given image is of stenopaeic slit.632CB",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp15_img1_f2c08f6c.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 16,
+      "question": "What is the investigation shown in the image below?",
+      "options": {
+        "A": "Ultrasound Biomicroscopy",
+        "B": "Optical Coherence Tomography",
+        "C": "Corneal Topography",
+        "D": "Spectrometry"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image depicts Optical Coherence Tomography (OCT) of a normal macula.It is a non-invasive, noncontact imaging system providing high-resolution cross-sectional imagesof the posterior segment. It uses near-infrared light interferometry to do so.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q16_img1_216cb5e5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 17,
+      "question": "615What is the principle of the test in which the patient is asked to read the chart shown in theimage below?XVHTTVXHOVHXTOXV",
+      "options": {
+        "A": "Spherical aberration",
+        "B": "Chromatic aberration",
+        "C": "Chromatic projection",
+        "D": "Diplopic projectionOMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image depicts a duo-chrome test based on chromatic aberration. It is used to refine thefinal sphere in subjective refraction.The patient is asked to compare the clarity of the letters on the green and the red side. If a myopicsees the letters of the green side clearer, he is overcorrected. So, +0.25 D sphere is added or-0.25D is removed. However, if a myopic sees the letters on the red side clearer, he isundercorrected and -0.25 D sphere is added. With optimal spherical correction, the letters on thered and green halves of the chart appear equally clear.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q17_img1_0baf6794.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 18,
+      "question": "Which optical instrument provides an inverted and reversed image of the retina?",
+      "options": {
+        "A": "Direct ophthalmoscope",
+        "B": "Indirect ophthalmoscope",
+        "C": "Hruby lens and slit lamp",
+        "D": "Goldmann contact lens and slit lamp."
+      },
+      "correct_answer": "B",
+      "explanation": "An indirect ophthalmoscope produces a real, inverted and laterally reversed image of the fundus.All the other instruments mentioned including direct ophthalmoscope, Hruby lens and Goldmancontact lens produce a virtual and erect image of the fundus.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 19,
+      "question": "All are true about the instrument shown, except:616",
+      "options": {
+        "A": "It contains a titanium needle",
+        "B": "Frequency is 40000 Hz",
+        "C": "Contains a piezoelectric crystal",
+        "D": "Based on photodisruption"
+      },
+      "correct_answer": "D",
+      "explanation": "633The given image is of a phacoprobe showing the needle and the silicone irrigation sleeve. This isused in phacoemulsification to break the nucleus into fragments and aspirate them.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q19_img1_08649988.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 20,
+      "question": "You see the following examination being performed in the ophthal OPD. What is theinstrument being used?",
+      "options": {
+        "A": "Castroviejo caliperAIZIE617",
+        "B": "Corneal trephine",
+        "C": "Hertel's exophthalmometer",
+        "D": "Schiotz tonometer"
+      },
+      "correct_answer": "",
+      "explanation": "The image shows Hertel's exophthalmometer.Exophthalmometry: measures protrusion of the apex of the cornea from the outer orbital margin(with the eyes looking straight ahead).An absolute protrusion of &gt;20 mm or a difference of &gt;2 mm between the two eyes is labeledas proptosis.•Instruments used to measure proptosis:⚫ Luedde exophthalmometer• Hertel's exophthalmometer- most common instrument used. Its advantage is that it measuresboth eyes simultaneously.Luedde exophthalmometer332OMARROW",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q20_img1_1de86a31.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp20_img1_02e77b91.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 21,
+      "question": "Identify the instrument shown in the image.",
+      "options": {
+        "A": "Gonioscope",
+        "B": "Hruby lens",
+        "C": "Applanation tonometer",
+        "D": "Stenopic slit"
+      },
+      "correct_answer": "A",
+      "explanation": "The given instrument is a gonioscope.It is used to visualize the angle of the anterior chamber (gonioscopy).Types:• Indirect gonioprism- provides a mirror image of the opposite angle• Direct goniolens- provides a direct view of the angleApplication:• To view the angle of the anterior chamber634• Localization of foreign body, abnormal blood vessels, or tumors in the angle• Demonstration of the extent of peripheral anterior synechiae•• Direct goniolens used during goniotomy",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q21_img1_faea18b4.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 22,
+      "question": "While evaluating a child with suspected refractive error, you notice that the ophthalmologyresident performs a retinoscopy. Which of the following is this test based on?",
+      "options": {
+        "A": "Method of neutralization",
+        "B": "Imbert-Fick law",
+        "C": "Principle of bending of light",
+        "D": "Poiseuille law618"
+      },
+      "correct_answer": "A",
+      "explanation": "Retinoscopy is an objective method used to determine the error of refraction by applyingthe method of neutralization. It is also called skiascopy or shadow test.Principle: When light is reflected from a mirror into the eye, the direction in which light will travelacross the pupil will depend upon the eye's refractive state.Distance: Usually, the doctor sits at a distance of 1 meter or an arm's length.Types of retinoscopes:• Priestley-Smith retinoscope• Streak retinoscopeThe image given below shows a retinoscopy being performed on a patient.W3ETVHUAXHTOVAUNT635Priestley-Smith retinoscope25 cm©MARROWStreak retinoscopeMARROWOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp22_img1_c92850dd.jpeg",
+      "chapter_heading": "Instruments in Ophthalmology"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following is true about the instrument shown in the image given below?",
+      "options": {
+        "A": "Its is a convex lens.",
+        "B": "It provides a small field of vision.",
+        "C": "Power is +20 D.",
+        "D": "Fundus beyond the equator is visualized"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows a Hruby lens, and it provides a small field of vision.It is a planoconcave lens. Diopteric power is -58.6D. It provides a small field of vision, with lowmagnification. Fundus beyond the equator cannot be visualized.636",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q23_img1_45c1dbf5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Instruments in Ophthalmology"
+    }
+  ]
+}

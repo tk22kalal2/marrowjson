@@ -1,0 +1,305 @@
+{
+  "chapter": "Astigmatism and Errors of Accomodation",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 20-year-old girl started having frequent headaches and blurring of vision while studying for college exams. She says she feels better when she closes her eyes. On examination, she is found to have astigmatism. Which of the following is the most common cause responsible for this condition?",
+      "options": {
+        "A": "Irregularity of the curvature of the cornea",
+        "B": "Irregularity of the curvature of the lens",
+        "C": "Oblique placement of the lens",
+        "D": "Oblique placement of the macula"
+      },
+      "correct_answer": "A",
+      "explanation": "Astigmatism is most commonly caused by an irregularity in the curvature of the cornea.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp1_img1_27248dec.jpeg",
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 2,
+      "question": "Which among the following is normal astigmatism seen in eyes due to the pressure of the eyelids?",
+      "options": {
+        "A": "With the rule",
+        "B": "Against the rule",
+        "C": "Oblique",
+        "D": "Bioblique"
+      },
+      "correct_answer": "A",
+      "explanation": "With-the-rule astigmatism is normally seen in the eyes due to the pressure of the eyelids. In with-the-rule astigmatism, the vertical meridian is more curved. This is more common and often occurs due to the pressure of eyelids on the eye. In against-the-rule astigmatism (ATR) (option B), the horizontal meridian is more curved than the vertical meridian. In both these types, the principal meridians are vertical and horizontal (90 and 180 degrees) and are at right angles to each other. The other types of astigmatism include oblique and bi-oblique astigmatism. In oblique astigmatism (option C), the two principal meridians are not the horizontal and vertical meridians, although they are at right angles to each other. In bi-oblique astigmatism (option D), the two principal meridians are not at right angles to each other; for example, one may be at 40 degrees and the other, at 100 degrees. With-the-rule astigmatism, Against-the-rule astigmatism, Clinical types of astigmatism, Cornea, Typical age, Axis of correcting plus cylinder (±20°), Young, Old, OMARROW, Axis of correcting minus cylinder (±20°), O O",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp2_img1_fb594a7b.jpeg",
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is correct regarding with-the-rule astigmatism?",
+      "options": {
+        "A": "The horizontal meridian is more myopic.",
+        "B": "The vertical meridian is more myopic.",
+        "C": "The vertical meridian is more hyperopic.",
+        "D": "The horizontal meridian is more hyperopic."
+      },
+      "correct_answer": "B",
+      "explanation": "In with-the-rule astigmatism, the curvature of the vertical meridian is more than that of the horizontal meridian. The greater the curvature of the meridian, the more myopic that meridian is. Hence, the vertical meridian is more myopic in with-the-rule astigmatism. With-the-rule astigmatism is the type of astigmatism wherein the vertical curvature is always more than the horizontal curvature. Thus, irrespective of the type or cause of with-the-rule astigmatism, the vertical meridian is always more myopic (curved) than the horizontal meridian. Clinical types of astigmatism include with-the-rule astigmatism and against-the-rule astigmatism.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp3_img1_f5db27cb.jpeg",
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 4,
+      "question": "Match the images shown with the refractive errors they represent.",
+      "options": {
+        "A": "1e, 2c, 3-b, 4 - a",
+        "B": "1 - d, 2 - b, 3 - c, 4 - a",
+        "C": "1 - d, 2 - b, 3 - a, 4 - e",
+        "D": "1 - b, 2 - c, 3 - e, 4 - d"
+      },
+      "correct_answer": "B",
+      "explanation": "Cornea Typical age Axis of correcting plus cylinder Axis of correcting minus cylinder (±20°)(±20°) D Young Old The correct answer is 1 - d, 2 - b, 3 - c, 4 - a. Astigmatism is a refractive error in which the rays of light entering the eye are refracted differently in different meridians of the eye. Meridians of the eye correspond to the lines of longitude on a globe. There are two types of astigmatism - regular and irregular. In regular astigmatism, refractive power changes uniformly from one meridian to another. Thus, two principal meridians are present. The rays of light from infinity form two focal points due to the difference in curvature of the two principal meridians. Based on the relation of the two focal points to the retina, regular astigmatism has the following types: • Simple astigmatism: One focal point lies on the retina. In simple myopic type, the second focal point lies in front of the retina while in simple hypermetropic type, the second focal point lies behind the retina. • Compound astigmatism: In compound hypermetropic type, both focal points lie behind the retina. In compound myopic type, both focal points lie in front of the retina. • Mixed astigmatism: One focal point lies in front of while the second focal point lies behind the retina. Image Refractive error 1d. Simple hypermetropic astigmatism 2b. Simple myopic astigmatism 3c. Compound myopic astigmatism 4a. Mixed astigmatism Refractive types of regular Astigmatism: M Simple myopic Simple hypermetropic Compound myopic hypermetropic G Mixed",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q4_img1_99e971a5.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 5,
+      "question": "In compound myopic astigmatism, with parallel rays of light entering the eye in relaxed accommodation, the image(s) formed is/are",
+      "options": {
+        "A": "One focal point in front of the retina",
+        "B": "Two focal lines in front of the retina",
+        "C": "Two focal lines behind the retina",
+        "D": "Two focal lines, one behind and the other in front of the retina"
+      },
+      "correct_answer": "B",
+      "explanation": "In compound myopic astigmatism, parallel rays of light entering the eye in relaxed accommodation form two focal lines in front of the retina. Option A: One focal point in front of the retina describes myopia. Option C: Two focal lines behind the retina describes compound hypermetropic astigmatism. Option D: Two focal lines, one behind and one in front of the retina describes mixed astigmatism. Simple myopic, simple hypermetropic, compound myopic, hypermetropic, and mixed astigmatism.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp5_img1_802783b1.jpeg",
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following would be prescribed for simple myopic astigmatism?",
+      "options": {
+        "A": "+1.00 DS",
+        "B": "-1.00 DC x 180 degrees",
+        "C": "-1.00 DS",
+        "D": "-1.00 DS - 1.00 DC x 180 degrees"
+      },
+      "correct_answer": "B",
+      "explanation": "Among the above options, -1.00 DC x 180 degrees is the correct prescription for simple myopic astigmatism (SMA). There are three components for the prescription of glasses. 1. The first number is the refractive power of the spherical component. It is represented as convex (+) or concave (-) dioptre sphere (DS). 2. The second number denotes the power of the cylinder, represented as convex (+) or concave (-) dioptre cylinder (DC). 3. The above two components are followed by an 'x' representing the axis (orientation) of the cylinder. In the most common type of SMA, with-the-rule astigmatism, meridian A (represented by 90 degrees) is more curved than meridian B (represented by 180 degrees). The light rays refracting from B focus on the retina, whereas those refracting from A focus in front of the retina. To correct this error, a negative cylindrical lens (DC) is used to focus the myopic rays of meridian A on the retina. This correction needs to occur at 90 degrees (meridian A). The axis of a cylindrical lens is perpendicular to the required correction, and thus, the spectacles will have an axis of 180 degrees. There is no spherical refractive error since the light rays from meridian B lie on the retina. Thus, DS is 0.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp6_img1_eaf9e2d7.jpeg",
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 7,
+      "question": "The PARK procedure is used in the correction of which of the following?",
+      "options": {
+        "A": "Myopia",
+        "B": "Hypermetropia",
+        "C": "Astigmatism",
+        "D": "Presbyopia"
+      },
+      "correct_answer": "C",
+      "explanation": "PARK is a technique used for correcting astigmatism. Photo-astigmatic refractive keratotomy (PARK) is performed using an excimer laser for the correction of astigmatism. The other surgical procedures used for the correction of astigmatism are astigmatic keratotomy, LASIK, and SMILE.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 8,
+      "question": "An 80-year-old man is reading a newspaper in his backyard. His accommodation while reading a newspaper is due to",
+      "options": {
+        "A": "Relaxation of the ciliary muscle",
+        "B": "Contraction of the ciliary muscle",
+        "C": "Contraction of the dilator pupillae",
+        "D": "Contraction of constrictor pupillae"
+      },
+      "correct_answer": "B",
+      "explanation": "Near vision accommodation is due to the contraction of the ciliary muscle. Accommodation is the phenomenon of increasing the converging power. This occurs by increasing the refractive power of the lens and increasing its curvature. The capsule of the lens is more elastic than the lens itself and plays a role in increasing the curvature of the lens. When the circular fibres of the ciliary muscles contract, the ciliary body approaches the lens. This slackens the zonules so that the capsule, relieved of its tension, is able to mould the lens to its accommodative form.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 9,
+      "question": "During a routine school eye examination camp, a 5-year-old boy is able to read everything written on the board. Which of the following mechanisms aids in establishing normal distant vision in this child?",
+      "options": {
+        "A": "Relaxation of the ciliary muscles",
+        "B": "Constriction of the pupils",
+        "C": "Shortening of the focal length of the lens",
+        "D": "Rounding of the lens"
+      },
+      "correct_answer": "A",
+      "explanation": "Relaxation of the ciliary muscles would aid in establishing a normal distant vision. Relaxation of the ciliary muscles keeps the zonules in a taut state and maintains the radius of curvature of the anterior lens surface at 10 mm. Thus, the focal length is maximum and distant objects are most clearly visualized. Option B: The pupils constrict during accommodation to increase the depth of focus. Option C: During accommodation, ciliary muscles contract, causing relaxation of zonular fibers, rounding of the lens, and shortening of the focal length. Option D: The radius of curvature of the anterior lens surface becomes 6 mm, i.e., rounder during accommodation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 10,
+      "question": "The condition of the accommodative power being significantly less than the normal physiological limits for the patient's age is called",
+      "options": {
+        "A": "Paralysis of accommodation",
+        "B": "Presbyopia",
+        "C": "Insufficiency of accommodation",
+        "D": "Spasm of accommodation"
+      },
+      "correct_answer": "C",
+      "explanation": "The condition in which accommodative power is significantly less than normal physiological limits for the patient's age is called insufficiency of accommodation. Anomalies of accommodation: Presbyopia - Failing near vision due to age-related decrease in the amplitude of accommodation or increase in near point. Insufficiency of accommodation - Inadequacy of the accommodative power. It is significantly less than normal physiological limits for the patient's age. Paralysis of accommodation - Complete absence of accommodation. Exertion or abnormally excessive accommodation. Presbyopia - Causes: Age-related change in the lens - decreased elasticity and sclerosis. Age-related decline in ciliary muscle power. Insufficiency of accommodation - Causes: Premature sclerosis of the lens. Weakness of the ciliary muscles due to systemic causes like anemia and malnutrition. Weakness of the ciliary muscles associated with primary open-angle glaucoma. Paralysis of accommodation - Causes: Drug-induced. Internal ophthalmoplegia due to diphtheria, diabetes mellitus, etc. As a component of 3rd nerve palsy. Spasm of accommodation - Causes: Drug-induced spasm, e.g., ecothiophate, pilocarpine. Spontaneous spasm: Found in children who use eyes for excessive near work in conditions of bad illumination.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 11,
+      "question": "What is the accommodative amplitude of a patient with a near point at 20 cm and a far point at infinity?",
+      "options": {
+        "A": "5 D",
+        "B": "1 D",
+        "C": "4 D",
+        "D": "2.5 D"
+      },
+      "correct_answer": "A",
+      "explanation": "The amplitude of accommodation for the above patient would be 5. Near point of accommodation (NPA) is the closest distance at which the near object is clearly focused without blur. Amplitude of accommodation is the maximum power of the lens that permits clear near vision without blur. Its unit is dioptre (D). The amplitude of accommodation is the reciprocal of NPA in meters. 20 cm is 1/5th of a meter. Therefore, accommodative amplitude is its inverse, that is, 5D. The NPA is measured clinically using a scale device such as the Prince, Berens, or Royal Air Force (RAF) ruler.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp11_img1_134f6b72.jpeg",
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 12,
+      "question": "A 45-year-old woman complains of an inability to read books and stitch garments for the past few months. Which of the following is false regarding her condition?",
+      "options": {
+        "A": "Loss of accommodation with age",
+        "B": "Decrease in elasticity and plasticity of the crystalline lens",
+        "C": "Age-related decrease in the power of ciliary muscles",
+        "D": "It is corrected with a concave lens"
+      },
+      "correct_answer": "D",
+      "explanation": "A 45-year-old woman presenting with an inability to do near vision work (reading, stitching) likely has presbyopia. Presbyopia is corrected by the use of a convex lens (weakest convex lens). Presbyopia can be caused by an age-related decline in the ciliary muscle power or age-related change in the lens, including: hardness (sclerosis) of the lens substance, which is less easily molded, and a decrease in the elasticity of the lens capsule.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 13,
+      "question": "A 51-year-old woman comes for an ophthalmological examination. She says she is unable to thread a needle and is facing difficulty making a sweater for her grandson. She never had vision problems in her youth. What power of glasses would roughly correct her vision difficulties?",
+      "options": {
+        "A": "+1.75D",
+        "B": "+1.5D",
+        "C": "+2D",
+        "D": "+2.25D"
+      },
+      "correct_answer": "B",
+      "explanation": "The power of prescription glasses for a 51-year-old woman should be +1.5D. Presbyopia is the condition of decreased near vision. It is due to an age-related decrease in the amplitude of accommodation or an increase in punctum proximum (near point). For correction of presbyopia, convex lenses are used. Roughly, the power of prescription glasses age-wise is as follows: Age - Power: 45 years +1 to +1.25D, 50 years +1.5 to 1.75D, 55 years +2 to +2.25D, 60 years +2.5 to +3D",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 14,
+      "question": "70During your morning jogging routine, you found a pair of spectacles lying on the sidewalk.The spectacles are shown below. What type of presbyopic lens is present in these spectacles?commodoaugue, facilisisdictumet. In tincidumetus anced, nec sites wait anpue non arte. Fusce massaplateaa magna a orc conave pretium. Donec ut sodales nule, senamus accumsan dut a diam fringilla gravida. In nec porta siquiasem ac lacus interdum pulvinar, Fusce eget augue ligula. Vivamus atmorem, eget bibendum arcu. Curabitur pellentesque, diam pulvinar ultriceson posuere orci, nec ultricies velit augue non arcu. Fusce massavecis eu placerat sit amet, consequat a magna. In hac habitasse plateadhma bn tincidunt, orci quis varius molestie, magna orci pharetra velit, eget ultricesaugue. Maecenas ullamcorper pellentesque ligula a auctor.cod remmavet massa ut tristique. Vivamus feugiat nibh dictum nisi ullamcorperAlqu malesuada lectus ac turpis tempor aliquam. Vestibulum variusbendum ullamco Sed a feugiat dui. Aenean accumsan in nulla ut pellentesqueNas aucibus, dian d gravida sodales, nunc dolor suscipit ligula, is commodoculis tortor. Phasellus et quam sapien.etiam ehemen gula at ised imperdiet dolor dapibus nec. Suspendisse aliqueuris viverra, vitae tincidunt odio dictum. UtAquam erat volutpat. Quisque necPhasellus dapibus turnd coac anvelitvestiam qmetuet cono eu due semper, Aliquam molestie aliquet nousEtiam auctor vitae ligula in porta. Pellentereu leo. Curabitur leo orci, tincidunt nec felis, bibendumvestibulum. Sed facilisis aliquam mi, nec facilisis semwellt, sodales euismod quam a, tempor sodales nunc. Aerymetus,am quis molestie tortor. Aliquam pellentesque, puryCont condimentum massa.at pellem. Sed avel iaculis velit mauris ut arcu. Duis eu pdictum consectetur. In vitae ultriceslentesque orci. Aliquam eu dolorames dolor. NoAmp350holees elitor sagdada faInterdum et malesuanon ligus volutpat,, scelerisque sed mattis eu, feugiquis ultricies diam auctor. Phadrerit condimen",
+      "options": {
+        "A": "Executive bifocal",
+        "B": "Trifocal",
+        "C": "Kryptok",
+        "D": "Progressive"
+      },
+      "correct_answer": "D",
+      "explanation": "The given lens in the image is a typical example of progressive lenses. Progressive lenses areidentified as such due to the absence of the line of demarcation on the lens. They are graduallyoptimized for reading vision, distant vision, and for intermediate vision, such as computer work.82MAMTypes of LensDistanceSingle vision lensDistanceINearProgressive leDistanceNearKyptok bifocal lensDistanceNear[xecutivebifocalDistanceIntermediateNearTrifocal le<OMARROWN",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q14_img1_dd33fbb9.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp14_img1_592042b1.jpeg",
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 15,
+      "question": "A 55-year-old male with limbal scar presents to the ophthalmology clinic with marked defects in both near and far vision. Clinical examination reveals a wide and deep anterior chamber, iridodonesis, and a dark pupillary reflex. A vision of 6/6 is achieved with a correcting lens of +11D. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Aphakia",
+        "B": "Pseudophakia",
+        "C": "Posterior dislocation of lens",
+        "D": "Myopia"
+      },
+      "correct_answer": "A",
+      "explanation": "A limbal scar with defective near and distant vision, a wide and deep anterior chamber, iridodonesis, and dark pupillary reflex suggests aphakia. Aphakia is the condition in which the lens is absent from the pupillary area. Signs of surgical aphakia include limbal scar, deeper anterior chamber than normal, iridodonesis (tremulousness of the iris), jet black color of the pupil. On Purkinje's test, only the first and second images are seen. A small disc is seen on fundus examination and high hypermetropia is seen on retinoscopy. The best treatment option is secondary intraocular lens (IOL) implantation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is used to differentiate pseudophakia from aphakia?",
+      "options": {
+        "A": "Deep AC chamber71",
+        "B": "Purkinje image test",
+        "C": "Iridodonesis",
+        "D": "Limbal scar"
+      },
+      "correct_answer": "B",
+      "explanation": "Pseudophakia shows 4 images in the Purkinje image test, whereas aphakia shows only 2 images.Other features can be seen in both.When aphakia is corrected with an intraocular lens implant (IOL), the condition is referred to aspseudophakia. Signs of pseudophakia with posterior chamber IOL include:Surgical scar••Anterior chamber slightly deeper than normal•Purkinje image test shows 4 images•Mild iridodonesis (tremulousness) of the iris• Pupil blackish in color but when the light is thrown in the pupillary area, shining reflex isobservedPurkinje images are reflections of objects from the structure of the eye. They are also known asPurkinje reflexes or Purkinje-Sanson images. Normally, 4 images are formed from four different83reflecting surfaces i.e.ImagLocationDirectieonImage 1Anterior surface of the corneErectaImage 2Posterior surface of the corneErectaImage 3Anterior surface of the lensErectImagPosterior surface of the lensInvertede 4ScleraPurkinje-Sanson ImagesMALensCorneaOMARROW-LightFirstSecondThirdFourthIn aphakia, as the lens is absent, image 3 and image 4 are absent.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp16_img1_3e07cc23.jpeg",
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 17,
+      "question": "Roving-ring scotoma is seen after the correction of aphakia by which of the following?",
+      "options": {
+        "A": "IOL",
+        "B": "Spectacles",
+        "C": "Soft contact lens",
+        "D": "Hard contact lens"
+      },
+      "correct_answer": "B",
+      "explanation": "Roving-ring scotoma is seen in the correction of aphakia with spectacles due to prismatic effects atthe edge of the lens.The difficulties in the correction of aphakia by spectacles include the following:•••Image magnification by 25-30%⚫ Spherical aberrations producing a “pin cushion effect”• Jack-in-the-box phenomenon from the prismatic effects at the edge of the lens• Reduced visual fields.Physical inconvenienceFor aphakia, the best correction is obtained by an intraocular lens (IOL).84Roving-ring scotoma:Roving-ring scotomaMARROWRing scotomaOMARROWNormal central(magnified) imageThe edge of a convex lens acts as a prism. The greater the angle of the prism, the more will be thebending. In aphakic spectacles, the angle of the lens is large. Thus, the light falling at the edge ofthe lens bends towards the center of the lens and does not reach the pupil. This results in aring-shaped scotoma as this prismatic effect is present all around the edges of the lens. Theposition of this scotoma is not fixed in the visual field because the eye keeps moving (or roving) inrelation to the aphakic spectacle. Hence, the result is a roving ring scotoma.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp17_img1_d3425fe2.jpeg",
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 18,
+      "question": "Soft contact lenses are made of",
+      "options": {
+        "A": "Polymethylmethacrylate",
+        "B": "Hydroxyethyl methyl acrylate",
+        "C": "Cellulose acetate butyrate",
+        "D": "Silicone"
+      },
+      "correct_answer": "B",
+      "explanation": "Soft lenses are made up of hydroxyethyl methyl acrylate (HEMA).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q18_img1_4d053f34.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 19,
+      "question": "Which among the following is not an advantage of contact lens?",
+      "options": {
+        "A": "It helps in eliminating peripheral aberrations.",
+        "B": "It can correct irregular astigmatism.",
+        "C": "It is helpful in dry eye.",
+        "D": "It improves corneal oxygen supply."
+      },
+      "correct_answer": "D",
+      "explanation": "Contact lenses decrease corneal oxygen supply.The cornea obtains its O2 supply from the atmosphere. The use of contact lenses decreases the O2supply from the atmosphere. Contact lens eliminate peripheral aberrations and can correctirregular astigmatism. Although dry eye is caused by wearing contact lenses, lenses made ofhydrogel which are high in water content are beneficial in dry eye.Rigid gas-permeable/semi-soft contact lens are used for keratoconus. Toric contact lens are usedfor astigmatism.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    },
+    {
+      "q_no": 20,
+      "question": "The spectacles shown in the image are not used for the management of which of thefollowing?72assaulter.intruder,overrun-on, conva-tient, out-dicapped;ypochon-sion; rng: dcredit.tiSiling, ruinOverturn, overductio ad absurdurexhaustion,********, ne gement, debasementLang, destruction, destroyindermining, enfeeblement,crippling, paral sapping. devitalizatiavoidance, disannulment, andisab3.voidance,nullification,Obs vacaturLawdefeasance,disestablishment,quashing.setting aside",
+      "options": {
+        "A": "Presbyopia",
+        "B": "Aphakia",
+        "C": "Pediatric pseudophakia",
+        "D": "Hypermetropia"
+      },
+      "correct_answer": "D",
+      "explanation": "85The given image shows spectacles made of lenses with two different optical power. Thus, it is apair of bifocal spectacles which is not used in hypermetropia or myopia.Bifocal glasses have different corrective powers in the upper segment for distant vision and lowersegment for near vision. Thus, they are useful in conditions where both distance and near visionare affected, like the following:1. Presbyopia (option A): It is a definitive indication. It is used to correct age-related near and farvision defects.2. Aphakia (option B): It provides both near and far vision correction when intra-ocular lens.insertion is contraindicated.3. Paediatric pseudophakia (option C): It is used to correct refractive errors or accommodativefluctuations post intra-ocular lens (IOL) insertion.4. Non refractive accomodative esotropiaIn hypermetropia there is defect in near vision only and hence a single vision glasses havinguniform corrective power throught the entire surface is used instead of bifocal glasses.Types of LensDistanceMASingle vision lensMMDistanceINearProgressive lensDistanceNearKyptok bifocal lensDistanceNearExecutive bifocal lensDistanceIntermediatNearTrifocal lensOMARROW86",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Astigmatism and Errors of Accomodation"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "chapter": "Disorders of the Eyelid",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is defined as loss of eyelashes?",
+      "options": {
+        "A": "Tylosis",
+        "B": "Madarosis",
+        "C": "Trichiasis",
+        "D": "Distichiasis"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp1_img1_6acd010d.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the term used to describe an extra row of eyelashes behind the grey line?",
+      "options": {
+        "A": "Trichiasis",
+        "B": "Distichiasis",
+        "C": "Tylosis",
+        "D": "Madarosis"
+      },
+      "correct_answer": "B",
+      "explanation": "The extra row of eyelashes behind the grey line is called distichiasis.Distichiasis can occur due to congenital or acquired causes. These lashes may irritate the cornea.Management is by lid splitting with cryotherapy to the base of the hair follicles.Other options:Option A: Trichiasis is inward misdirection of cilia, with the normal position of the lid margin.Option C: Tylosis is the thickening of the tarsal plate.Option D: Madarosis is the loss of eyelashes or eyebrows.375",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 3,
+      "question": "A term neonate is referred to the district hospital for an ophthalmic exam. Partial fusion ofher right upper and lower eyelids by a central narrow band of tissue is noted as shown below.The left eye examination is normal. What is the most likely diagnosis?365",
+      "options": {
+        "A": "Symblepharon",
+        "B": "Ankyloblepharon",
+        "C": "Blepharophimosis",
+        "D": "Lagophthalmos"
+      },
+      "correct_answer": "B",
+      "explanation": "The given image shows an adhesion between the margins of the upper and lower eyelids, whichsuggests ankyloblepharon.It may occur as a congenital anomaly or as acquired adhesions after healing of chemical burns,ulcers, or traumatic wounds of the lid margins. Treatment is the excision of the adhesionsbetween lid margins. In severe cases where the adhesions involve the angle of the eyes, epithelialgrafts can be used.Other options:Option A: Symblepharon is the adhesion between the palpebral and bulbar conjunctiva, wherebythe eyelids become adherent to the eyeball.Option C: Blepharophimosis is a congenital anomaly in which the extent of the palpebral fissure isdecreased. It appears contracted at the outer canthus.376Option D: Lagophthalmos is characterized by the inability to close the eyelids voluntarily. It maybe due to a malfunction of the facial nerve. The image below shows nocturnal lagophthalmos(inability to close eyelids during sleep).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q3_img1_a5a9568c.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp3_img1_f1de13f3.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 4,
+      "question": "A male patient complains of a foreign body sensation, irritation, and lacrimation in the righteye. During the evaluation, you notice the following findings with normal lid margins. What isthis condition known as?",
+      "options": {
+        "A": "Distichiasis366",
+        "B": "Trichiasis",
+        "C": "Pseudotrichiasis",
+        "D": "Pseudodistichiasis"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario and the above image is suggestive of trichiasis.Trichiasis refers to the inward misdirection of cilia, which usually rub against the eyeball with thenormal position of the lid margin. These patients present with foreign body sensations andphotophobia. They experience troublesome irritation, pain, and lacrimation. On examination, oneor more misdirected cilia touching the cornea are seen. The conjunctiva may be congested.Treatment includes:377•Epilation: Mechanical removal with forceps• Electrolysis: Method of destroying the lash follicle by electric current.•CryoepilationSurgical correction.NormalTrichiasisROOMARROWTrichiasis",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q4_img1_907d8e94.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp4_img1_1d0a4498.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 5,
+      "question": "What defines telecanthus?",
+      "options": {
+        "A": "Widened inter-pupillary distance",
+        "B": "Widely separated medial orbital wall",
+        "C": "Widened inter-orbital distance",
+        "D": "Widened root of the nose with normal inter-pupillary distance"
+      },
+      "correct_answer": "D",
+      "explanation": "Telecanthus means an increased distance between medial canthi (widened root of the nose) withnormal inter-pupillary distance.In hypertelorism, there is a wide bony separation of the orbits.In epicanthus, there are bilateral vertical folds of skin that extend from the upper or lower lidstowards the medial canthi. They may give rise to pseudoesotropia.EPICANTHUSTELECANTHUS378",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp5_img1_5eb1b400.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 6,
+      "question": "Weiss operation is done in which of the following condition?",
+      "options": {
+        "A": "Entropion",
+        "B": "Ectropion",
+        "C": "Trichiasis",
+        "D": "Ptosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Weiss operation is done in senile entropion. In this operation, the transverse lid split, andeverything sutures are placed.Entropion refers to the inward rolling and rotation of the lid margin towards the globe. It is morecommon in the lower lid.Causes include:• Horizontal lid laxity• Vertical lid instability•⚫ Over-riding of the pretarsal by the preseptal orbicularis during lid closure• Orbital septum laxityDAILY ROUNDS",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp6_img1_b9402f80.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 7,
+      "question": "For which of the following is medial conjunctivoplasty the surgical modality of treatment?",
+      "options": {
+        "A": "Entropion",
+        "B": "Ectropion",
+        "C": "Blepharophimosis",
+        "D": "Ptosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Medial conjunctivoplasty is done in involutional ectropion.•Ectropion is the eversion of the lid margin and eyelashes away from the globe.Types:Involutional/senile - affects the lower lid of elderly patients.• Cicatricial caused by the scarring or contracture of the skin and underlying tissues• Paralytic - caused by ipsilateral facial nerve palsy• Mechanical caused by tumors on or near the lid margin that mechanically evert the lid379•CongenitalMedial conjuctivoplasty for ectropionOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp7_img1_ab7d8a42.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 8,
+      "question": "Which among the following is not a feature of blepharophimosis syndrome?",
+      "options": {
+        "A": "Narrow palpebral fissure",
+        "B": "Ptosis367",
+        "C": "Telecanthus",
+        "D": "Entropion"
+      },
+      "correct_answer": "D",
+      "explanation": "Entropion is not a feature of blepharophimosis syndrome.Blepharophimosis, ptosis, and epicanthus inversus syndrome (BPES) consists of the following:• Narrow palpebral fissure• Ptosis•Congenital ectropion of the lower lid• Telecanthus•• Epicanthus inversus: an extra fold of skin arising from the lower lidThe image below shows blepharophimosis.380",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp8_img1_28fa830f.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 9,
+      "question": "The physician noticed the following finding in a patient that came to the OPD for an eyeexam. Which of the following pair of muscles are likely to be affected in this patient?",
+      "options": {
+        "A": "Muller's muscle and superior rectus",
+        "B": "Levator palpebrae superioris and superior oblique",
+        "C": "Superior oblique and superior rectus",
+        "D": "Levator palpebrae superioris and Muller's muscle"
+      },
+      "correct_answer": "D",
+      "explanation": "The patient has mild right eye ptosis. Injury or weakness of levator palpebrae superioris andMuller's muscle leads to ptosis.Levator palpebrae superioris is the important upper eyelid retractor. Frontalis and Muller'smuscle assist in the elevation of the upper eyelid.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q9_img1_87d96c4e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following conditions is a cause of pseudoptosis?",
+      "options": {
+        "A": "Lambert-Eaton syndrome",
+        "B": "Big chalazion",
+        "C": "Blepharophimosis syndrome",
+        "D": "Brow ptosis"
+      },
+      "correct_answer": "D",
+      "explanation": "Brow ptosis is a type of pseudoptosis, not ptosis.Ptosis is abnormal drooping of the upper eyelid to a level that covers more than 2mm of thesuperior cornea.Types of ptosis:• Mechanical ptosis - Can be due to lid tumors, multiple/big chalazions, and conjunctival scarring•Aponeurotic ptosis - Due to dehiscence of the aponeurosis and in postoperative patients• Involutional ptosis seen in old age•Neurogenic ptosis due to a 3rd nerve palsy, Horner syndrome and synkineticptosis/Marcus-Gunn jaw-winking ptosis•Myogenic ptosis••Congenital: most common myogenic ptosisSimple⚫ Blepharophimosis syndrome••Congenital synkinetic ptosis381••AcquiredMyasthenia gravis• Lambert-Eaton syndrome.• Ocular myopathyCauses of pseudoptosis (apparent ptosis):• Lack of support of the lids by the globe e.g. artificial eye, microphthalmos, phthisis bulbi, orenophthalmos.• Contralateral lid retraction• Ipsilateral hypotropia•Brow ptosis occurs due to excessive skin on the brow, or seventh nerve palsy, which is diagnosedby manually elevating theeyebrow• Dermatochalasis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 11,
+      "question": "368A 45-year-old patient comes with complaints of progressive weakness as the day progresses.He is found to have antibodies against nicotinic acetylcholine receptors. Which is the mostcommon ocular finding in this disease?",
+      "options": {
+        "A": "Diplopia",
+        "B": "Lagophthalmos",
+        "C": "Exophthalmos",
+        "D": "Ptosis"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of myasthenia gravis and ptosis is the most commonocular feature of the disease.Myasthenia gravis (MG) is an autoimmune disorder of the neuromuscular junction mostcommonly caused by anti-acetylcholine receptor antibodies. The disorder is characterized byweakness and fatigability of skeletal muscles where the weakness increases during repeateduse and may improve following rest.Ptosis and diplopia are common initial complaints due to early involvement of the lids andextraocular muscles (EOMs). Of them, Ptosis is a more common manifestation than diplopia.Ptosis in myasthenia gravis is insidious, bilateral, and frequently asymmetrical.Investigations of myasthenia gravis include:• Ice pack test -This tests for a transient improvement of the ptotic eyelid on placing an ice packfor 2 minutes, as the cold inhibits the breakdown of acetylcholine by acetylcholinesterase.• Tensilon (Edrophonium) test - This tests for a transient improvement in the weakness on•administration of a short-acting anticholinesterase such as edrophonium.Antibody testing - for Acetylcholine receptor (AChR) antibodies, MuSK protein antibodies helpssupport a diagnosis of myasthenia gravis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following conditions will not have a finding of bilateral ptosis?",
+      "options": {
+        "A": "Myasthenia gravis",
+        "B": "Marfan's syndrome",
+        "C": "Myotonic dystrophy",
+        "D": "Kearns-Sayre syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Bilateral ptosis is not seen in Marfan's syndrome.Causes of unilateral ptosis:382• Horner's syndrome• Oculomotor nerve palsyCauses of bilateral ptosis:•Congenital• Senile/involutional/aponeurotic• Blepharophimosis syndrome•Myasthenia gravis• Chronic progressive external ophthalmoplegia (CPEO) - seen in Kearns-Sayre syndrome•Myotonic dystrophy• Ocular myopathiesThe image below shows a case of botulinum toxicity with bilateral ptosis.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp12_img1_eaa0bf05.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 13,
+      "question": "During OPD hours, a patient came with the finding shown below. On examination, the upper4 mm of the cornea is covered by the upper eyelid. What is the grade of ptosis in this patient?",
+      "options": {
+        "A": "Mild",
+        "B": "Moderate369",
+        "C": "Severe",
+        "D": "Profound"
+      },
+      "correct_answer": "A",
+      "explanation": "In this question, 4 mm of the cornea is covered by the upper eyelid. Subtracting 2 mm from thisimplies that there is 2 mm of ptosis, which is classified as mild grade.In bilateral cases, the grade of ptosis can be determined by measuring the amount of corneacovered by the upper lid and then subtracting 2 mm. Depending upon this value, the ptosis isgraded as follows:•• Mild: 2 mm• Moderate: 3 mm•Severe: 4 mm383",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q13_img1_865929b3.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 14,
+      "question": "A child with a high risk of amblyopia is planned for surgical correction of unilateral simplecongenital ptosis. He has poor levator function. What is the treatment of choice in this case?",
+      "options": {
+        "A": "Levator resection",
+        "B": "Frontalis sling",
+        "C": "Fasanella-Servat operation",
+        "D": "Mullerectomy"
+      },
+      "correct_answer": "B",
+      "explanation": "Frontalis sling procedure is the treatment of choice for congenital ptosis with poor levatorfunction.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 15,
+      "question": "A patient presents to you with anhidrosis and enophthalmos. Examination reveals miosisalong with mild ptosis. You decide to correct the ptosis by performing a Fasanella-Servatoperation, by resecting which of the following muscles?",
+      "options": {
+        "A": "Levator palpebrae superioris muscle",
+        "B": "Frontalis muscle",
+        "C": "Superior rectus muscle",
+        "D": "Muller's muscle"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of Horner's syndrome and the associated mild ptosis inthis condition can be corrected by resecting Muller's muscle.Ptosis in Horner's syndrome is due to the paralysis of Muller's muscle.Fasanella-Servat operation is indicated in cases having mild ptosis(&lt; 2 mm) and good levatorfunction. In this surgery, the upper tarsal border along with its attached Muller's muscle andconjunctiva are resected.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 16,
+      "question": "A couple brought their 11-month-old child for an eye exam when they noticed that his leftupper eyelid was in a lower position than his right one. The mother also noticed that his leftupper eyelid goes \"up and down\" when she breastfeeds him. His delivery was unremarkable.When the baby opens his mouth or sucks his thumb, the left eyelid ptosis disappears. What isthe pathology behind this condition?",
+      "options": {
+        "A": "Superior division of the third cranial nerve is misdirected",
+        "B": "Sympathetic nerves to Muller's muscles are misdirected",
+        "C": "Ophthalmic division of the fifth cranial nerve is misdirected",
+        "D": "Mandibular division of the fifth cranial nerve is misdirected370"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of Marcus-Gunn jaw-winking phenomenon. In thiscondition, the mandibular division of the fifth cranial nerve is misdirected to the levator muscle.Some cases of congenital ptosis are associated with the Marcus-Gunn jaw-winking phenomenon.The vast majority are unilateral. Signs include retraction of the ptotic lid in conjunction withstimulation of the ipsilateral pterygoid muscles by chewing, sucking, opening the mouth, orcontralateral jaw movement. Less common stimuli to winking include jaw protrusion, smiling,swallowing, and clenching of teeth. Jaw-winking does not improve with age although patients maylearn to mask it.The following image shows a woman with Marcus-Gunn jaw-winking phenomenon. See how herright eyelid ptosis retracts with the opening of the mouth.384",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp16_img1_232764d8.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following is the causative agent for blepharitis acarica?",
+      "options": {
+        "A": "Moraxella",
+        "B": "Staphylococcus",
+        "C": "Propionibacterium",
+        "D": "Demodex folliculorum"
+      },
+      "correct_answer": "D",
+      "explanation": "Blepharitis acarica is caused by Demodex folliculorum.Blepharitis is a chronic inflammation of the margins of the lids.The two types are• Anterior• Seborrheic and ulcerative types• Caused by staphylococci, mainly•Posterior Mebomianitis-Occasionally caused by•• Demodex folliculorum - Blepharitis acarica• Crab louse - Phthiriasis palpebrarumThe following image shows swollen and inflamed eyelid suggestive of blepharitis.385",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/exp17_img1_5d587a6f.jpeg",
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 18,
+      "question": "What is the most common malignant tumor of the eyelid?",
+      "options": {
+        "A": "Sebaceous gland carcinoma",
+        "B": "Basal cell carcinoma",
+        "C": "Squamous cell carcinoma",
+        "D": "Malignant melanoma"
+      },
+      "correct_answer": "",
+      "explanation": "Basal cell carcinoma constitutes 85-90% of all malignant epithelial eyelid tumors. It is locally.malignant and most commonly involves the lower lid, followed by the medial canthus, upper lid,and outer canthus.TypeCommon locationClinical featuresSpreadBasal cell carcinomaLower lid/Medial canthusNoduleCentral ulcerationlocalwithpearlysurface,telangiectasiaSquamous cell carcinomaSebaceous cell carcinLower lid, from previous actinic keratosisUlcerwith thickened margi Local, lymph nodesns,keratosispapillomatousUpperlidomaNodule-likechalazion MultifocalFemales>males RecurrencescommonLocal intraepithelial lymph nodesLocal, vascular lymph nodMalignant melanomaPrevious nevi>6 mmpigmented, Vascularizationinflammationes",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 19,
+      "question": "Which of the following systemic drugs is used specifically in the management of periocularbasal cell carcinoma?",
+      "options": {
+        "A": "Imiquimod",
+        "B": "Vismodegib",
+        "C": "Siponimod",
+        "D": "Interferon"
+      },
+      "correct_answer": "B",
+      "explanation": "Vismodegib is the systemic drug used for the management of periocular basal cell carcinoma(BCC).Vismodegib is an eye-sparing adjuvant therapy of periocular and orbital BCC for patients:• Who cannot tolerate surgery or radiotherapy, or•With relapsed locally advanced disease after surgery or386• With metastatic disease.Vismodegib is a Hedgehog pathway inhibitor, given 150 mg orally twice a day.Treatment options for BCC consist of surgery, radiotherapy, and chemotherapy. Surgical excisionusing Mohs micrographic surgery or wide surgical excision with frozen section margin control isthe first-line treatment of periocular BCC.Other options:Option A: Imiquimod 5% topical cream can also be used in patients with BCC. But, it is not asystemic drug.Option C: Siponimod is the drug approved for secondary progressive multiple sclerosis.Option D: Interferons are generally not used in periocular BCC.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 20,
+      "question": "A 6-month-old girl was brought by her worried parents due to a swelling on the eyelid asshown below. They were told by a local village doctor that the swelling will disappear on itsown but recently it has been increasing rapidly. What would be the most likely managementof this baby's condition?371",
+      "options": {
+        "A": "Reassurance and observation",
+        "B": "Treatment with intralesional steroids at 2 years of age",
+        "C": "Immediate treatment with radiotherapy",
+        "D": "Immediate treatment with oral propranolol"
+      },
+      "correct_answer": "D",
+      "explanation": "The history and image are suggestive of capillary hemangioma involving the left upper lid andperiocular region causing severe mechanical ptosis. Immediate management with oral propranololis the treatment of choice in this case.The ptosis is so severe that it obstructs the pupillary area (visual axis) with the risk of sensorydeprivation amblyopia. This warrants immediate treatment to reduce the bulk of the tumor.Capillary hemangioma regresses spontaneously very often. It may be managed by oralpropranolol, oral prednisolone, or intralesional steroid.Indications for treatment of patients with capillary hemangioma with pharmacologic therapy are:• Visual symptoms (amblyopia, astigmatism, occlusion, strabismus)• Cosmesis•• Optic nerve compression.Exposure keratopathy",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q20_img1_d8cab6dc.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 21,
+      "question": "Identify the clinical condition.",
+      "options": {
+        "A": "Marfan's syndrome",
+        "B": "Neurofibromatosis372",
+        "C": "Tuberous sclerosis",
+        "D": "Mikulicz's syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "The image shows plexiform neurofibroma of the upper lid causing an S-shaped deformity of theupper lid and mechanical ptosis. This is seen particularly in neurofibromatosis type 1.NF1 is caused by the autosomal dominant loss-of-function mutations in the NF1 gene onchromosome 17. It is a tumor suppressor gene that encodes neurofibromin, a negative RASregulator. The disease is clinically diagnosed when any two of the following seven features arepresent:•Six or more café-au-lait macules (CALMs) - They are the hallmark of neurofibromatosis and arepresent in almost 100% of patients. They are present at birth but increase in size, number, andpigmentation, especially during the first few years of life, and are scattered over the entire body.Axillary or inguinal freckling•387• Two or more iris Lisch nodules - They are iris hamartomas that are best identified by a slit-lampexamination. They are present in the majority of patients with NF1.• Two or more neurofibromas or 1 plexiform neurofibroma• A distinctive osseous lesion such as sphenoid dysplasia or cortical thinning of long bones such asthe tibia•Optic gliomas (most frequently observed CNS tumor in NF1)• A first-degree relative with NF-1",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mopthalmology/q21_img1_238434ce.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    },
+    {
+      "q_no": 22,
+      "question": "Which of the following sign is used to describe the fullness of eyelids seen in Grave'sophthalmopathy?",
+      "options": {
+        "A": "Mobius' sign",
+        "B": "von Graefe's sign",
+        "C": "Stellwag's sign",
+        "D": "Enroth's sign"
+      },
+      "correct_answer": "D",
+      "explanation": "The fullness of the eyelids is described as the Enroth's sign in Graves ophthalmopathy.388",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders of the Eyelid"
+    }
+  ]
+}
