@@ -1,0 +1,320 @@
+{
+  "chapter": "Specific Treatment Modalities",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "In which of the following conditions is the treatment modality shown below not indicated?",
+      "options": {
+        "A": "Increased intracranial tension",
+        "B": "Intractable seizure disorder",
+        "C": "Pregnancy",
+        "D": "Neuroleptic malignant syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "The treatment modality is not indicated in pregnancy due to potential harm to the fetus.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q1_img1_22395b1b.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 2,
+      "question": "A patient with severe resistant depression is planned for electroconvulsive therapy. You ask the nurse to load atropine, a muscle relaxant, and an anesthetic drug as a part of pre-procedure preparation. Which of the following anesthetic agents should he load?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Methohexital",
+        "C": "Propofol",
+        "D": "Thiopental"
+      },
+      "correct_answer": "B",
+      "explanation": "Methohexital is the most commonly used anesthetic agent for electroconvulsive therapy, because of its shorter duration of action and lower association with post-ictal arrhythmias. Methohexital is the only anesthetic agent with no intrinsic antiepileptic property.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 3,
+      "question": "A patient who is a known case of bipolar disorder with psychotic features is currently on the following medications. However, he continues to have pressured speech, flight of ideas, hallucinations, and suicidal ideations. He is planned for electroconvulsive therapy. Which of the following drugs would you stop before the procedure?",
+      "options": {
+        "A": "2 only",
+        "B": "3 and 5",
+        "C": "1, 2, and 4",
+        "D": "1, 3, 4, and 5"
+      },
+      "correct_answer": "C",
+      "explanation": "Lithium, diazepam, and bupropion should be withheld before a session of ECT. Lithium combined with ECT has been shown to cause prolonged seizures (lasting more than 180 seconds) and increased postictal delirium. Doses are withheld for 24 hours prior to treatment, allowing for washout. Medications to be withheld before ECT: • Lithium causes prolonged seizures and increased postictal delirium • Benzodiazepines - have anticonvulsant activity • Clozapine is associated with late-appearing seizures • Bupropion is associated with late-appearing seizures. Medications that should not be used during ECT: • Lidocaine markedly increases seizure threshold • Theophylline increases the duration of seizures • Reserpine further compromises respiratory and cardiovascular systems. Note: Tardive seizure is a rare complication of ECT. These are seizures that occur after the completion of treatment once the patient has regained consciousness. The use of β-lactam antibiotics and ciprofloxacin has been associated with tardive seizures.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 4,
+      "question": "You are observing electroconvulsive therapy being administered to a psychiatric patient. Which of the following statements is true regarding the procedure?",
+      "options": {
+        "A": "An effective seizure should last for at least 2 minutes",
+        "B": "ECT treatments are usually administered twice or thrice weekly, non-consecutively",
+        "C": "Maximum number of times ECT can be given in a patient is 6",
+        "D": "All of the above"
+      },
+      "correct_answer": "B",
+      "explanation": "ECT consists of sessions that are scheduled 2-3 times weekly on non-consecutive days. Twice-weekly treatments are associated with less memory impairment than thrice-weekly treatments. For a seizure to be effective in the course of ECT, it should last at least 25 seconds. Treatment should continue until the patient achieves what is considered the maximal therapeutic response. The point of maximal improvement is usually thought to occur when a patient fails to continue to improve after two consecutive treatments. Further treatment does not yield any therapeutic benefit but increases the severity and duration of the adverse effects. If a patient does not improve after 6 to 10 sessions, bilateral placement and high-density treatment (three times the seizure threshold) should be attempted before ECT is abandoned.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following side effects of electroconvulsive therapy persists even after the treatment course ends?",
+      "options": {
+        "A": "Decreased anterograde memory",
+        "B": "Errors in visual-spatial function",
+        "C": "Diminished processing speed",
+        "D": "Decreased retrograde memory"
+      },
+      "correct_answer": "D",
+      "explanation": "A decrease in retrograde memory is a side effect of ECT that could persist even after the treatment course ends. Retrograde memory disturbances take 1-6 months to recover. Other cognitive side effects of ECT include: • Disorientation • Diminished processing speed • Decreased anterograde memory • Errors in visual-spatial function and word-finding. These effects are seen immediately after a treatment session and diminish fairly quickly after the treatment course ends.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is an advantage of transcranial magnetic stimulation over electroconvulsive therapy?",
+      "options": {
+        "A": "It is more effective than electroconvulsive therapy",
+        "B": "Shorter treatment course",
+        "C": "It induces seizures of shorter duration",
+        "D": "It allows for focal stimulation of the cerebral cortex"
+      },
+      "correct_answer": "D",
+      "explanation": "Transcranial magnetic stimulation (TMS) is a brain stimulation method that allows for focal stimulation of the cerebral cortex. TMS works by inducing eddy currents in the brain cortex due to the application of rapidly changing magnetic fields. These currents bring about neuronal stimulation. Advantages of TMS over ECT: • TMS allows for focal stimulation of brain areas • It does not induce seizures, but an unintended seizure is a known risk of this procedure. Studies have shown TMS to be less effective than ECT.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following statements is true regarding the repetitive brain stimulation techniques shown below?",
+      "options": {
+        "A": "It can be used as a monotherapy for schizophrenia",
+        "B": "It can be used as a monotherapy in resistant depression",
+        "C": "Its effects are the same as that of an MRI",
+        "D": "It can be used as a first-line treatment for depression"
+      },
+      "correct_answer": "B",
+      "explanation": "Repetitive transcranial magnetic stimulation (rTMS) is approved for monotherapy in resistant depression. It uses the property of magnetic fields to induce electrical activity in the brain. It is different from MRI, as an MRI just observes but rTMS produces changes in the activity of the brain. rTMS can be used in addition to antipsychotics to treat resistant schizophrenia. However, it is not used as monotherapy.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q7_img1_fdf89cd6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following is true about deep brain stimulation?",
+      "options": {
+        "A": "Three tiny neurostimulators are placed under the skin of the clavicle",
+        "B": "Done under computed tomography guidance",
+        "C": "Reduces symptoms associated with movement disorders",
+        "D": "Swimming skills remain intact after the procedure"
+      },
+      "correct_answer": "C",
+      "explanation": "Deep brain stimulation (DBS) reduces symptoms associated with movement disorders, such as Parkinson's disease. It provides a dramatic response with respect to off time and dyskinesias. However, it does not improve features that fail to respond to levodopa and does not prevent the development or progression of non-dopaminergic features, such as freezing, falling, dementia, etc. It is an invasive procedure performed using MRI-guided stereotactic techniques, in which electrodes are implanted in the brain and are connected via a subcutaneous wire to a maximum of two neurostimulators, which are placed under the skin of the clavicle. Impaired swimming skills surfaced as an unexpected risk of the procedure; several Parkinson's disease patients lost their ability to swim after receiving deep brain stimulation.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/exp8_img1_155abe5b.jpeg",
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient with a severe, treatment-resistant neuropsychiatric condition is referred to the neurosurgery OPD. The surgeon proposes a burr-hole procedure where the given sites are destroyed via thermocoagulation. Which of the following conditions is the patient likely to be suffering from?",
+      "options": {
+        "A": "Obsessive-compulsive disorder",
+        "B": "Mania",
+        "C": "Alzheimer's dementia",
+        "D": "Antisocial personality disorder"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image is that of anterior cingulotomy (ACING), which is a neurosurgical treatment for obsessive-compulsive disorder. Anterior cingulotomy involves creating bilateral lesions in the anterior cingulate cortex under stereotactic guidance. Subcaudate tractotomy (capsulotomy) can also be used in the management of treatment-unresponsive OCD. Prefrontal lobotomy was introduced by Egas Moniz as a method of psychosurgery for treatment-resistant mental disorders, particularly major depressive disorder and OCD. Other indications for psychosurgery include: • Chronic and incapacitating schizophrenia with severe depression not responding to all modes of treatment. • Chronic and incapacitating anxiety disorder not responding to all modes of treatment.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q9_img1_30d5d0b7.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following characteristics of a patient is favorable for using psychoanalysis as therapy?",
+      "options": {
+        "A": "High frustration tolerance",
+        "B": "Concrete thinking",
+        "C": "Extreme dishonesty",
+        "D": "Ongoing major upheaval in life"
+      },
+      "correct_answer": "A",
+      "explanation": "High frustration tolerance is favorable for psychoanalysis. Psychoanalysis involves bringing repressed memories and feelings to the surface and resolving unconscious conflicts through understanding. Patient characteristics favorable for psychoanalysis: Significant suffering and a genuine wish to understand themselves. Ability to withstand frustration and anxiety that might emerge during analysis. A reasonable, mature superego that allows them to be honest with the analyst. Average intelligence. Psychologically minded, that is, being able to think abstractly and symbolically about the unconscious meanings of their behavior. Patient characteristics unfavorable for psychoanalysis: The absence of suffering and low motivation to understand. Inability to tolerate frustration and anxiety with poor impulse control. Extreme dishonesty or antisocial personality disorder. Low intelligence - inability to understand the process. Concrete thinking or the absence of psychological mindedness. Serious physical illness, an ongoing major upheaval in life like job loss or divorce.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 11,
+      "question": "During Ross's marriage to Emily, when the wedding officiant asked him to repeat 'I, Ross, take thee, Emily, as my lawfully wedded wife', Ross says Rachel's name instead. Ross and Rachel have dated on multiple occasions in the past. This unconscious act of revealing his feelings can be best described by which of the following terms?",
+      "options": {
+        "A": "Parapraxis",
+        "B": "Transference",
+        "C": "Repression",
+        "D": "Displacement"
+      },
+      "correct_answer": "A",
+      "explanation": "When a person reveals his feelings unconsciously by a slip of the tongue, it is known as parapraxis. Freud ascribed parapraxis to unconscious motives. Option B: Transference - A situation where the feelings, desires, and expectations of one person are redirected and applied to another person. Most commonly, transference occurs in a therapeutic setting, where a person in therapy unconsciously develops feelings towards the therapist. Option C: Repression - is a key concept of psychoanalysis, where it is understood as a defense mechanism. It ensures that what is unacceptable to the conscious mind - and would, if recalled, arouse anxiety - is prevented from entering into it. Option D: Displacement - Feelings that are connected with one person are displaced onto another person. E.g., a man who has had a bad day at the office, comes home and yells at his wife and children, is displacing his anger from the workplace onto his family. Catharsis: The expression of ideas, thoughts, and suppressed emotions by the patient, which provides a sense of relief. It is also known as ventilation. In catharsis, the patient reveals information voluntarily and consciously, whereas, in parapraxis, patient details are revealed unconsciously, by a slip of the tongue.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 12,
+      "question": "A patient was referred to a psychiatrist for his neurosis. He was a witness to a road traffic accident wherein a pedestrian was overrun. He refuses to go out on the road, fearing that every time he would step out, he would witness an accident. What kind of maladaptive assumption does this patient display?",
+      "options": {
+        "A": "Selective abstraction",
+        "B": "Catastrophising",
+        "C": "Temporal causality",
+        "D": "Dichotomous thinking"
+      },
+      "correct_answer": "C",
+      "explanation": "The patient believes 'if it has been true in the past, it's always going to be true', which is demonstrative of maladaptive assumption of temporal causality. Behavioral therapy techniques are used to test and change maladaptive and inaccurate cognitions. The overall purpose of such techniques is to help the patients understand the inaccuracy of their cognitive assumptions and learn new strategies and ways of dealing with issues. Cognitive Error: Overgeneralizing, Selective abstraction, Excessive responsibility (assuming personal causality), Assuming temporal causality (predicting without sufficient evidence), Self-references, Catastrophizing, Dichotomous thinking, Assumption: If it's true in one case, it applies to any case that is even slightly similar. The only events that matter are failures, deprivation, etc. One should measure self by errors, weaknesses, etc. I am responsible for all bad things, failures, etc. If it has been true in the past, it's always going to be true. I am the center of everyone's attention, especially my bad performances. I am the cause of misfortunes. Always think of the worst; it's most likely to happen to you. Everything is either one extreme or another (black or white, good or bad).",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 13,
+      "question": "During a session of cognitive-behavioral therapy, the patient reported feeling distressed aboutthe fact that his friend did not answer his call when he had called him the previous day. Whenasked what thought went through his mind at that time, he replied \"I do not fit anywhere inthis world.\" What is the next step the therapist should follow in the session?",
+      "options": {
+        "A": "Elicit the automatic thought",
+        "B": "Test the validity of the maladaptive assumption the patient is making",
+        "C": "Identify the maladaptive assumption the patient is making",
+        "D": "Test the validity of the automatic thought"
+      },
+      "correct_answer": "D",
+      "explanation": "59The therapist first elicited the automatic thought the patient made, which is \"I do not fit anywherein this world\". The next step would be to test the validity of this automatic thought.Cognitive Behavioural Therapy (CBT) is based on the psychological significance of the cognitivetriad:•· An individual's beliefs about themselves• Their personal world (including the people in their lives)• Their future.Problematic and biased interpretations related to this cognitive triad may lead to excessiveemotional distress.CBT is applied to identify these faulty ideas and beliefs, make the patient aware of the underlyingassumptions that drive them, and modifying their responses to them.The three components of cognitive therapy are:•Didactic aspects: Explaining to patients the cognitive triad, schemas, and faulty logic. Thetherapist must explain all the aspects of treatment.•Cognitive techniques: These involve four steps-Eliciting automatic thoughts - Asking the patient about the thought that causes the emotionalreaction in them.• Testing validity of the automatic thoughts• Identifying the general maladaptive assumptions (a belief that is false and rationallyunsupported)•Testing the validity of maladaptive assumptions•• Behavioral techniques like relaxation techniques and desensitization to the stimulus etc.CBT is used in the treatment of anxiety and panic disorders, depression, phobia, OCD, personalitydisorders, and somatoform disorders.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following patients with personality disorders is most likely to benefit fromdialectical behavior therapy?",
+      "options": {
+        "A": "A 18-year-old with traits of criminality, impulsivity, hostility, manipulation, and disregard forothers50",
+        "B": "A 20-year-old with labile emotions, dramatic speech, who is sexually provocative with attentionseeking behaviours",
+        "C": "A 22-year-old with traits of unstable mood, impulsivity, suicidality, fear of abandonment, andunstable self-image",
+        "D": "A 24-year-old who is preoccupied with order, perfectionism, and is excessively devoted to work"
+      },
+      "correct_answer": "",
+      "explanation": "Dialectical behavior therapy is a type of psychotherapy used commonly in the management ofborderline personality disorder.A 22-year-old with traits of unstable mood, impulsivity, suicidality, fear of abandonment, andunstable self-image fits the description of borderline personality disorder as per DSM-5 criteria.In DBT, the goal is to improve interpersonal skills and decrease self-destructive behavior usingtechniques involving advice, metaphor, storytelling, and confrontation, among others.Option A: This describes a patient with antisocial personality disorder.Option B: This describes a patient with histrionic personality disorder.Option D: This describes a patient with obsessive-compulsive personality disorder.60",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 15,
+      "question": "In which of the following instances can a psychologist use systematic desensitization as atreatment option?",
+      "options": {
+        "A": "A 18-year-old with BMI 22, recurrent episodes of binge eating and purging for past 3 months",
+        "B": "A 24-year-old with an irrational fear of contamination who washes her hands every 5 minutes",
+        "C": "A 22-year-old with feelings of worthlessness, psychomotor retardation, insomnia, fatigue, andanhedonia for 2 weeks",
+        "D": "A 20-year-old with disorganized behavior, delusions of persecution and auditory hallucinationsfor 4 months"
+      },
+      "correct_answer": "C",
+      "explanation": "Systematic desensitization is one of the behavioral therapy techniques for Obsessive-compulsivedisorder (A 24-year-old with an irrational fear of contamination and washes hands every 5minutes). It is also used in the treatment of phobias.Systemic desensitization is based on the behavioral principle of counter-conditioning. Here, theperson overcomes anxiety elicited by a situation or an object by approaching the feared situationgradually and in a relaxed state.•Systematic desensitization consists of three steps:Relaxation training - patients attain a state of complete relaxation and are then exposed to thestimulus that elicits the anxiety response. The negative reaction of anxiety is inhibited by therelaxed state, a process called reciprocal inhibition.•Hierarchy construction - Patients and therapists prepare a graded list (or hierarchy) offear-provoking scenes in the order of increasing anxiety.• Desensitization of the stimulus - Patients proceed systematically through the list from the leastto the most anxiety-provoking scene while in a deeply relaxed state.Option A: Describes a patient with bulimia nervosa.Option C: Describes a patient with major depressive episode.Option D: Describes a patient with schizophreniform disorder.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following statements is false?",
+      "options": {
+        "A": "Systematic desensitisation is based on the principle of counter conditioning and reciprocalinhibition",
+        "B": "When flooding, the patient is exposed to the fear according to a hierarchy",
+        "C": "In therapeutic graded exposure, relaxation training is not involved",
+        "D": "Eye movement desensitisation is used in post traumatic stress disorder and phobias"
+      },
+      "correct_answer": "B",
+      "explanation": "In flooding, the patient is exposed to their fear, but without any hierarchy i.e, there is no gradualexposure as in systematic desensitization. Patients learn to remain in the feared situation untilthey feel calm.Systematic desensitization - employs counter conditioning and reciprocal inhibition. It is used inthe treatment of OCD and phobias.Therapeutic graded exposure - similar to systematic desensitization, but there is no relaxationtraining. The treatment is carried out in a real-life context.Eye movement desensitization and reprocessing (EMDR) - inducing saccades (quick, simultaneousmovement of both eyes between two or more phases of fixation) when a person is imagining ananxiety-producing event. The saccades can yield a positive thought which decreases anxiety. It isused in PTSD and phobias.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 17,
+      "question": "A patient suffering from a phobia of contamination is asked by his therapist to follow behind him, touch every object he touches, and observe and learn from his behavior. During this process, the therapist talks calmly to the patient. The patient is told to repeat this twice daily. Name the technique applied by the therapist.",
+      "options": {
+        "A": "Participant modeling",
+        "B": "Aversion therapy",
+        "C": "Flooding",
+        "D": "Positive reinforcement"
+      },
+      "correct_answer": "A",
+      "explanation": "The patient is made to learn a new behavior when exposed to his fear, by observation and imitation of the therapist. This therapy is called participant modeling. Aversion therapy - This is to suppress an unwanted behavior or a habit by pairing it with a negative or unpleasant stimulus. For example, an alcohol-dependent patient is made to vomit (by adding an emetic to the alcohol) every time a drink is ingested, which is effective in treating alcohol dependence. Flooding involves repeated and prolonged exposure to fear cues of high intensity without relaxation. Patients learn to remain in the feared situation until they feel calm. Positive reinforcement - When a behavioral response is followed by a rewarding event.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following statements is false regarding the scientist who performed the famousexperiment illustrated below?BMARROWDOMARROW",
+      "options": {
+        "A": "He developed the concept of learning by association",
+        "B": "He developed the theory of classical conditioning",
+        "C": "He studied the physiology of digestion",
+        "D": "He gave the model for operant conditioning"
+      },
+      "correct_answer": "D",
+      "explanation": "The experiment shown in the image is that of classical conditioning by Ivan Pavlov. The theory ofoperant conditioning was given by Skinner (not Pavlov). It is a method of learning that occursthrough rewards and punishments for behavior.Classical conditioning is the theory of learning in which a natural response (salivation) is elicitedby a conditioned or learned stimulus (bell), that was previously presented with an unconditionedstimulus (food). It is also called learning by association or respondent conditioning. He's alsoknown for his work on the physiology of digestion.Pavlov's ClassicalConditioning ExperimentFood(Unconditionedstimulus)(Neutralstimulus)VVhistleWhistle(ConditionedkResponseBeforeconditioningHesponseSalivation(UnconditionedBefereconditioningNo salivation(No conditionedresponse}ResponsLKOHDuringconditioningSativation(UnconditionedAfterGonditioningD MARROWSalivation(Conditioned",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q18_img1_0639c387.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/exp18_img1_342e28f1.jpeg",
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 19,
+      "question": "A child was not allowed to play because he did not finish his homework. The mother usedwhich of the following techniques to discipline her child?",
+      "options": {
+        "A": "Positive punishment",
+        "B": "Negative punishment",
+        "C": "Positive reinforcement",
+        "D": "Negative reinforcement"
+      },
+      "correct_answer": "B",
+      "explanation": "Negative punishment is withholding the reward (permission to go and play) whenever theundesired behavior is manifested (not completing the homework).Operant conditioning is a learning process in which a particular behavior is modified by eitherresulting in a reward or punishment. It deals with voluntary responses because the respondent isfree to choose a behavior depending on the desired consequence.The image below shows Skinner's operant conditioning quadrant.62Skinner's operant conditioning quadrantReinforcementIncrease behaviorPositiveAdd appetitivestimulusfollowingcorrect behaviorGiving a treatwhen a dog sitsOperant ConditioningNegativePunishmentDecrease behaviorPositiveAdd noxiousstimuli followingbehaviorSpanking a childfor cursingNegativeRemoveappetitivestimulus followingbehavior Sendinga child tohis roomEscapeRemove noxiousstimuli followingcorrect behaviorTurning off an alarmclock by pushingthe snooze buttonActive AvoidanceBehavior avoidsnoxious stimulusStudying toavoid gettinga bad gradeOMARROWfor cursingTypes of Operant conditioning:Note: The question is about bad behavior i.e. not doing the homework. The focus is on decreasingbad behavior, hence the answer would be punishment (positive or negative). Reinforcement(either positive or negative) applies only to good behavior.TypeBehaviorStimulusPositive reinforcementGood behavior increasedWhen stimulus added.Negative reinforcementPositive punishmentNegative punishmentGood behavior increasedSo that stimulus is avoided.Bad behavior decreasedWhen stimulus added.ExampleWhen a child studies, he is given chocolate. So, now he studies every day to get the chocolate.A child studies to avoid getting scolded by his mother.A child was given an imposition because he did not do hishomework. He does his homework sincerely now.Bad behavior decreaseSo that stimulus is removed.dA child fails to do his homework, so he is not allowed to play. Next day onwards, he does his homework every day.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/exp19_img1_741c4499.jpeg",
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 20,
+      "question": "52A young man who started using cannabis has become increasingly dependant on itpsychologically. He was diagnosed with cannabis use disorder and motivational enhancementtherapy was started to help him. Which of the following is not a stage of this therapy?",
+      "options": {
+        "A": "Preparation",
+        "B": "Contemplation",
+        "C": "Conditioning",
+        "D": "Maintenance"
+      },
+      "correct_answer": "",
+      "explanation": "Conditioning is not a stage of motivational enhancement therapy.The stages of motivational enhancement therapy:• Pre-contemplation - People are often unaware that their behavior (eg. alcohol abuse) isproblematic or produces negative consequences.63•Contemplation - People recognize their problem and begin to think about changing theirbehavior. They weigh the pros and cons of change. People may still feel ambivalent towardchanging their behavior.•• Preparation (Determination) - People have made a decision to change their habits and are readyto take action. People start to take small steps toward behavior change.•Action - People have recently changed their behavior and intend to keep moving forward withthat behavior change• Maintenance - People have sustained their behavior change for a while and intend to maintainthe behavior change going forward. People work to prevent relapse to earlier stages.Termination - In this stage, people have no desire to return to their unhealthy behaviors and aresure they will not relapse. Since this is rarely reached, people tend to stay in the maintenancestage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    },
+    {
+      "q_no": 21,
+      "question": "A chronic smoker who was recently diagnosed with COPD finally decided to quit smoking. He often thinks about stopping it but is reluctant due to the fear that he might become too irritable and restless without it. Which of the following options best describes the stage he is in?",
+      "options": {
+        "A": "Pre-contemplation",
+        "B": "Contemplation",
+        "C": "Preparation",
+        "D": "Consolidation"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, the patient is in the stage of contemplation. The patient is aware that he has a problem, and he is thinking about changing his behaviour. He is weighing the pros and cons of behaviour modification. This is characteristic of the stage of contemplation. Addiction recovery usually involves the following five stages: Pre-contemplation, Contemplation, Preparation, Action, and Maintenance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Specific Treatment Modalities"
+    }
+  ]
+}

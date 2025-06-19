@@ -1,0 +1,215 @@
+{
+  "chapter": "Neuropsychiatric Aspects of Systemic Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A cortically blind man who firmly believed his vision was normal despite evidence to the contrary was referred to the psychiatry OPD. On further evaluation, the patient also appeared to employ confabulation quite frequently. Which of the following conditions is this patient most likely suffering from?",
+      "options": {
+        "A": "Korsakoff syndrome",
+        "B": "Wernicke's encephalopathy",
+        "C": "Anton syndrome",
+        "D": "Psychogenic amnesia"
+      },
+      "correct_answer": "C",
+      "explanation": "The patient's condition, in which a cortically blind person denies their blindness and may confabulate, is known as Anton syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is not a feature of Korsakoff syndrome?",
+      "options": {
+        "A": "Impaired long-term memory",
+        "B": "Anterograde amnesia",
+        "C": "Confabulation",
+        "D": "Retrograde amnesia"
+      },
+      "correct_answer": "A",
+      "explanation": "Long-term memory is normal in Korsakoff syndrome. In Korsakoff syndrome, immediate recall is impaired but long-term memory is preserved. Korsakoff syndrome is a type of diencephalic amnesia, caused by chronic thiamine deficiency and alcohol abuse. Clinically, subjects with Korsakoff syndrome present with the following: • Severe anterograde amnesia - striking inability to form new memories • Impaired mental syndrome (especially recent memory) • Present with confabulation, as an attempt to cover the memory deficit • Retrograde amnesia is less severe, but present. • Implicit learning (e.g., learning procedures) are preserved • Overall intact intelligence",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "A 45-year-old man was brought to the casualty after being found lying on the street, muttering to himself, and cursing at bystanders. His MMSE score was 20. Physical examination findings are shown below. After admission, it is known that he has severe diarrhea and vomiting. Which of the following is the likely diagnosis?",
+      "options": {
+        "A": "Myxedema madness",
+        "B": "Vitamin B3 deficiency",
+        "C": "Acute intermittent porphyria",
+        "D": "Thiamine deficiency"
+      },
+      "correct_answer": "B",
+      "explanation": "The symptoms of dementia (MMSE score of 20), diarrhea, and dermatitis in sun-exposed areas like the forehead, neck (Casal's necklace), and hands are seen in vitamin B3 (niacin) deficiency, also known as pellagra. The neuropsychiatric symptoms of pellagra include apathy, irritability, insomnia, depression, and delirium. Option A: Myxedema madness is a rare presentation of hypothyroidism characterized by depression, hypomania, and schizophrenia. Diarrhea and vomiting are usually not seen. Option C: Acute intermittent porphyria is characterized by periodic abdominal pain, peripheral neuropathy, psychotic features, tachycardia. There is no photosensitivity in acute intermittent porphyria. Option D: Thiamine deficiency can cause Wernicke's encephalopathy, which manifests as an acute neuropsychiatric syndrome characterized by nystagmus, ophthalmoplegia, mental status changes, and unsteadiness of stance and gait, or can cause Korsakoff syndrome, which manifests as a chronic amnestic syndrome characterized by severe anterograde amnesia and confabulation.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q3_img1_cbe44106.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "A 20-year-old woman with no family history of psychiatric illness was referred to the psychiatry OPD from neurology for management of acute psychiatric disturbances. She had the following finding on slit-lamp examination and her 24-hour urinary copper was found to be elevated. Which of the following is a true statement regarding neuropsychiatric manifestations of this disease?",
+      "options": {
+        "A": "Unsteadiness of gait and incoordination are the most common manifestations",
+        "B": "Wing-beating tremors are a characteristic feature.",
+        "C": "The degree of depression correlates with the degree of neurological impairment",
+        "D": "The most common form of progression is the choreatic form"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario with elevated urinary copper and Kayser-Fleischer ring is seen in Wilson's disease. The tremor associated with Wilson's disease is called a wing-beating tremor, in which the arms beat in a wide, violent arc. This tremor is a high-amplitude tremor that is prominent with arms abducted, elbows flexed, and palms facing downward. It is characteristically absent at rest and develops after a short period of arm extension. In the majority of cases, neuropsychiatric manifestations follow hepatic manifestations. It is due to the deposition of free copper in the basal ganglia (bilateral degeneration) and cortex. The features include: Dysarthria (most common): irregular word spacing, hypophonic or spastic speech. Dystonia: vacuous smile, i.e., mask-like face with an open mouth. Parkinsonism: bradykinesia, postural instability, rigidity. Subcortical dementia: slow mental processing, memory loss. Psychiatric symptoms: loss of emotional control, depression, hyperactivity. Decreased scholastic performance: deterioration in handwriting, clumsiness. Autonomic symptoms: excessive sweating and salivation, sexual dysfunction.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q4_img1_90db18e9.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/exp4_img1_bff1c8fb.png",
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "A patient presents with mental confusion, visual and auditory hallucinations, perceived changes of body shape, swelling of the tongue, and a fear of impending death after he was treated for primary chancre of syphilis with an intramuscular injection. What is the likely diagnosis?",
+      "options": {
+        "A": "Adjustment reaction",
+        "B": "Undiagnosed psychosis",
+        "C": "Jarisch-Herxheimer reaction",
+        "D": "Hoigne syndrome"
+      },
+      "correct_answer": "D",
+      "explanation": "The development of acute psychotic symptoms after intramuscular administration of penicillin G points to a diagnosis of Hoigne syndrome. It may also be seen after benzathine administration. Hoigne syndrome: Acute psychotic symptoms are seen, such as mental confusion, visual and auditory hallucinations, and perceived changes of body shape. The patient may also present with swelling of the tongue and a fear of impending death. These are usually embolic toxic reactions, possibly due to vascular occlusion by large crystals of the penicillin salts. It is due to a pseudoanaphylactic or pseudoallergic reaction, not penicillin allergy. A Jarisch-Herxheimer reaction is a transient clinical phenomenon that occurs in patients infected with spirochetes, like syphilis, leptospirosis, Lyme disease, and relapsing fever, who are treated with antibiotics. The reaction occurs within 24 hours of antibiotic therapy. It generally manifests as fever, chills, rigors, nausea and vomiting, headache, tachycardia, hypotension, hyperventilation, flushing, myalgia, and exacerbation of skin lesions. It is an acute, self-limiting condition.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following is false regarding AIDS dementia complex?",
+      "options": {
+        "A": "Microglial nodules with multinucleated giant cells are seen on brain biopsy",
+        "B": "It is considered as an AIDS-defining illness",
+        "C": "Losing track of conversations in mid sentence is a late feature",
+        "D": "It is the most severe form of HIV-associated neurocognitive disorders"
+      },
+      "correct_answer": "C",
+      "explanation": "Cognitive impairment is the earliest presenting symptom in the AIDS dementia complex (HIV encephalopathy), which is the most severe form of HIV-associated neurocognitive disorders. Patients most often lose track of actions and conversations in mid-sentence, have difficulty attending to more complex tasks at work or at home. They need to make detailed lists of the day's activities and processing unrelated or complex thoughts becomes slower.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "A chronic alcoholic who hadn't consumed alcohol for the past 3 days was brought to the emergency department. He had features of disorientation, poor attention span, and agitation. On examination, he had fever, tachycardia, and diaphoresis. Identify the condition.",
+      "options": {
+        "A": "Korsakoff psychosis",
+        "B": "Wernicke's encephalopathy",
+        "C": "Delirium tremens",
+        "D": "Alcohol-induced dementia"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario of disorientation with features of autonomic hyperactivity (tachycardia, diaphoresis, fever) in a patient who stopped alcohol 3 days back is suggestive of delirium tremens. Delirium tremens is the most severe alcohol withdrawal syndrome. It occurs usually within 3-4 days of alcohol withdrawal. Characteristic features are: clouding of consciousness with disorientation to time and place, poor attention and distractibility, visual hallucination and illusions which are often vivid and frightening. Autonomic disturbances like tachycardia, fever, hypertension, sweating, and pupillary dilatation, psychomotor agitation and ataxia. Benzodiazepines such as chlordiazepoxide and lorazepam are used in the treatment and prevention of delirium tremens. Option A: Korsakoff's psychosis is characterized by impaired mental abilities (especially recent memory) and anterograde amnesia in an alert and responsive patient. The patient may have symptoms of confabulation. Option B: Wernicke's encephalopathy is characterized by ataxia (affecting primarily the gait), vestibular dysfunction, confusion, and ocular motility abnormalities. Option D: Alcohol-induced dementia is characterized by the development of multiple cognitive deficits (e.g., memory problems, language impairment, and an inability to perform complex motor tasks) that are judged to be a direct consequence of alcohol use. This persists beyond the usual duration of alcohol intoxication or acute withdrawal.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "A 7-year-old child abruptly developed symptoms suggestive of obsessive-compulsive disorder and Tourette syndrome. PANDAS, a pediatric neuropsychiatric disorder, is suspected. Which of the following organisms is associated with this condition?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Streptococcus pneumoniae",
+        "C": "Streptococcus pyogenes",
+        "D": "Staphylococcus epidermidis"
+      },
+      "correct_answer": "C",
+      "explanation": "PANDAS is associated with Streptococcus pyogenes infection. PANDAS stands for Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections. The symptoms occur usually abruptly and can include the following: • Obsessive-compulsive disorder (OCD) • Tic disorder • Gilles de la Tourette syndrome (coprolalia and tics). In addition to these symptoms, children may become moody or irritable, experience anxiety attacks, or show concerns about separating from parents or loved ones. It has been hypothesized that in response to group A beta-hemolytic streptococcal infection, autoimmune antibodies are produced, which cross-react with brain tissue (molecular mimicry), leading to neuropsychiatric manifestations. Note: Non-infectious manifestations of streptococcal infection include: • Rheumatic Heart Disease • Glomerulonephritis • PANDAS • Guttate Psoriasis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient was brought to the emergency room. He appears psychotic and is extremelyagitated, screaming and thrashing things around. He is crying and has a running nose. Hecomplains of severe unbearable pain around his right eye and temple for the last two hours,which is not responsive to NSAIDs. The last time he had such a headache was a year back.Which of the following conditions could he be suffering from?",
+      "options": {
+        "A": "Somatic delusion",
+        "B": "Cluster headache",
+        "C": "Migraine",
+        "D": "Paroxysmal hemicrania"
+      },
+      "correct_answer": "B",
+      "explanation": "The above clinical scenario of severe unilateral headache associated with autonomic changes(rhinorrhea, lacrimation) is suggestive of cluster headache, which is a type of trigeminalautonomic cephalalgias (a group of primary headache disorders). The pain can be so intense thatthe patient may appear to be psychotic because of the screaming and thrashing associated withthe pain.75Characteristic features of cluster headache:• Unilateral, deep retro-orbital excruciating pain.•• Frequent intense attacks (often several per day) over a 1 to 2 month period, separated byheadache-free intervals for as long as 1 or 2 years.• Associated ipsilateral cranial autonomic symptoms (conjunctival injection, aural fullness,rhinorrhea, or nasal congestion) or cranial sympathetic activation(ptosis).• Patients tend to move about during attacks, rocking, or rubbing their heads for relief; some mayeven become aggressive during attacks. This is in sharp contrast to patients with migraines, whoprefer to remain motionless during attacks.Note: Trigeminal autonomic cephalalgias (TAC) are a group of primary headache disorders thatare characterized by strictly unilateral trigeminal distribution pain associated with ipsilateralcranial autonomic symptoms, and include:• Cluster headache• SUNCT (short-lasting unilateral neuralgiform headache attacks with conjunctival injection andtearing) SUNA (short-lasting unilateral neuralgiform headache attacks with cranial autonomicsymptoms)• Paroxysmal hemicrania (PH)• Hemicrania continua",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "A 34-year-old woman with a suspected psychiatric disorder was started on medication, butthere was no improvement. She was eventually referred to a higher center, where a detailedworkup revealed Addison's disease. Treatment with glucocorticoids resulted in rapidresolution of both her psychiatric and physical symptoms. What must have been that initialcondition suspected in this patient?",
+      "options": {
+        "A": "Depression",
+        "B": "Generalised Anxiety disorder",
+        "C": "Bipolar disorder",
+        "D": "Panic disorder69"
+      },
+      "correct_answer": "A",
+      "explanation": "Addison's disease presents most similarly to depression. Apathy, social withdrawal, impairedsleep, decreased concentration, and prominent fatigue is frequently seen which is usuallymistaken for depression.Following infection, trauma or surgery, a patient with previously unrecognized Addison's diseasemay suffer from an Addisonian crisis with a presentation of either shock or hypoglycemia. This isa medical emergency requiring urgent medical referral.EndocrinopathyAddison's diseaseHyperthyroidismHypothyroidismHypoparathyroidismDifferential psychiatric diagnosisDepressionMood disorder, panic disorder, generalized anxiety disorderDepression, hypomania, delusions, schizophrenia (myxedema madness).Deliriumis the most common.76EndocrinopathyDifferential psychiatric diagnosisHyperparathyroidi Depression, anxiety,paranoidsmHypoglycemiadelusions. Tetrad of \"bones,stones, moans and psychic groans\".Anxiety, depersonalization, derealisation, aggressive behavior, amnesia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "A 45-year-old woman, brought in by her husband, presented with complaints of short-termmemory loss and weight gain for the last 4 months, despite a loss of appetite. She thoughtthat her husband wished to harm her and also felt agitated by all the small animals she keptseeing in her room. You order tests related to thyroid disorders. Which of the followingfindings would you expect to see in the report?",
+      "options": {
+        "A": "Increased tri-iodothyronine (T3) levels",
+        "B": "Increased titre of antibodies to thyroid stimulating hormone receptors",
+        "C": "Increased anti-thyroid peroxidase titre",
+        "D": "Decreased thyroid stimulating hormone levels"
+      },
+      "correct_answer": "",
+      "explanation": "The patient complains of neuropsychiatric symptoms, memory disturbances, along with weightgain despite a loss of appetite. Thus, she has symptoms of hypothyroidism. Increased anti-thyroidperoxidase titer is found in Hashimoto encephalopathy, which is consistent with her symptoms.On the other hand, antibodies to TSH receptors (Grave's disease), decreased TSH, and elevated T3levels are found in hyperthyroid conditions.Hashimoto encephalopathy (HE), also described as steroid-responsive encephalopathy associatedwith autoimmune thyroiditis (SREAT), is an uncommon autoimmune encephalopathy of unknownetiology. It is associated with high titers of serum antithyroid (usually anti-thyroid peroxidase +anti-thyroglobulin) antibodies.HE is more common in women, with a mean age of onset between 45 and 50 years.The clinical picture is one of encephalopathy with progressive cognitive decline which may berelapsing and remitting. Neuropsychiatric features include agitation and restlessness, apathy,social isolation. Visual hallucinations and delusions are commonly seen.Anti-thyroid peroxidase levels are very high (&gt;1,000 IU/L) when associated withneuropsychiatric symptoms of Hashimoto's thyroiditis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "A woman complains that her 5-year old child has become very indifferent towards her. Heattempts to squeeze his genitals and is always stuffing his mouth with food and objects likeknives and toys. Which of these syndromes could her child be suffering from?",
+      "options": {
+        "A": "Medial hypothalamic disease",
+        "B": "Kleine Levin syndrome",
+        "C": "Kluver Bucy syndrome",
+        "D": "Charcot Willbrand disease"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario of a 5-year boy who mouths non-food items (hyperorality/hyperphagia),constantly squeezes genitals (hypersexuality), indifferent to parents is suggestive of Kluver-Bucysyndrome.Kluver Bucy syndrome is characterizedby hyperorality, hyperphagia, hypersexuality, hypermetamorphosis (constantly shifting attention).It is due to damage to the temporal lobe and amygdala, which leads to an inability to accessmemory and emotional connections.Option A: In medial hypothalamic disease, there is an increase in eating behavior, marked by alack of satiety and resultant obesity.Option B: Kleine-Levin syndrome, also known as sleeping beauty syndrome, is a rare sleepdisorder characterized by persistent episodic hypersomnia, hyperphagia, and hypersexuality with77cognitive or mood changes.Option D: Charcot Willbrand disease leads to loss of visual imagery with occipitotemporaldamage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "A 40-year-old woman has a history of urinating in public without having any remorse for it.She also has difficulty in getting motivated and has mild memory deficits. Which of thefollowing lobes may be affected?",
+      "options": {
+        "A": "Parietal",
+        "B": "Occipital",
+        "C": "Frontal",
+        "D": "Temporal"
+      },
+      "correct_answer": "",
+      "explanation": "The frontal lobe is affected in this patient. The woman has difficulty in getting motivated, memorydeficits, and urinary incontinence.Frontal lobe injury is commonly due to trauma, infarcts, tumors, lobotomy, multiple sclerosis, orPick's disease. The following features may be seen in a patient with frontal lobe injury:• Impaired executive functions such as motivation, attention, and sequencing of actions• Aphasia, apraxia, constructional apraxia, neglect, and memory deficits• Urinary incontinence and fecal incontinence is commonly seen••Changes in personalityApathetic indifference and impulsive behavior.Note: Frontal lobe pathology may become apparent only under unstructured, stressful, real-lifesituations and are difficult to detect using Intelligence scales, as IQ mostly requires parietal lobeactivation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "70A 48-year-old male presents to the ER with confusion and shaking of the entire body. He hasa history of excessive alcohol consumption. What is the cause of delirium tremens in analcoholic?",
+      "options": {
+        "A": "Acute infection",
+        "B": "Fatty liver",
+        "C": "Gradual withdrawal of alcohol",
+        "D": "Small doses of regular consumption of alcohol"
+      },
+      "correct_answer": "A",
+      "explanation": "Among the given options, acute infection can be a cause of delirium tremens in an alcoholicpatient.•Physical illness e.g., hepatitis or pancreatitis predisposes to the syndrome; a person in goodphysical health rarely has delirium tremens during alcohol withdrawal.The syndrome usually develops on the third day of admission. A patient admitted for an unrelatedcondition may unexpectedly have an episode of delirium, which is the first sign of a previouslyundiagnosed alcohol-related disorder.Episodes of delirium tremens usually begin at the age of 30-40 years, after 5 to 15 years of heavydrinking, and are typical after a binge. Gradual withdrawal of alcohol does not cause deliriumtremens. However, sudden withdrawal can cause it.Treatment of alcohol withdrawal:⚫ For patients showing withdrawal symptoms, chlordiazepoxide 25-50 mg every 2-4 hours can beadministered orally.• For patients with delirium tremens, 50-100 mg of chlordiazepoxide should be administeredevery 4 hours.• If oral administration of drugs is not possible, intravenous lorazepam can be tried.7879",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Neuropsychiatric Aspects of Systemic Disorders"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "chapter": "Assessment in Psychiatry",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A worried mother reports that whenever she asks her child to put away a toy, he lays face down on the floor, and starts kicking, screaming, & banging his head. Which of the following best describes the child's behavior?",
+      "options": {
+        "A": "Psychotic traits",
+        "B": "Neurotic traits",
+        "C": "Schizoid traits",
+        "D": "Sociopathic traits"
+      },
+      "correct_answer": "B",
+      "explanation": "The child's behavior is characteristic of a tantrum, which is often associated with neurotic traits.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements is wrong about the mental status examination?",
+      "options": {
+        "A": "It has objective observations of the clinician",
+        "B": "It has subjective descriptions given by the patient",
+        "C": "It should be interpreted in the context of the patient's cultural background",
+        "D": "It is scored out of 30"
+      },
+      "correct_answer": "D",
+      "explanation": "Mental Status Examination (MSE) is a structured way of observing and describing a patient's psychological functioning at a given point in time. It does not involve the scoring of a patient. The main components of MSE are: Appearance and behavior, Mood and affect, Speech, Thought process and content, Perceptual disturbances, Sensorium and cognition, Insight, and Judgment. When conducting the MSE or interpreting MSE findings, it is essential to consider the cultural background of both the clinician conducting the MSE and the interviewee because behavioral patterns vary significantly across cultures (e.g., nodding your head as a sign of approval in some countries might signify disagreement in others). Mini-Mental State Examination (MMSE), also known as Folstein's test, is done out of a score of 30 and is used to measure cognitive impairment. Note: Mental Status Examination (MSE) and Mini-Mental State Examination (MMSE) are two different assessment tests.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 3,
+      "question": "A psychiatrist is conducting the Folstein test as a part of the psychiatric evaluation of a patient. What is the maximum score out of which the patient is scored?",
+      "options": {
+        "A": "15",
+        "B": "25",
+        "C": "20",
+        "D": "30"
+      },
+      "correct_answer": "D",
+      "explanation": "The Mini-Mental State Examination (MMSE), also known as the Folstein test, is scored out of 30. It consists of a questionnaire from 11 categories. It is used extensively in clinical and research settings to test cognitive functioning. A patient with a score less than 24 is considered to have impaired cognition.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/exp3_img1_0db6f65c.jpeg",
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 4,
+      "question": "A patient is brought to the OPD in a state of euphoria. He was smiling and talking softly when he came in, then he was quiet for a while. He then seemed to be excited and suddenly started to laugh for no reason. How should the psychiatrist record his mood and affect?",
+      "options": {
+        "A": "Elevated mood and excited affect",
+        "B": "Euphoric mood and energetic affect",
+        "C": "Euphoric mood and restless affect",
+        "D": "Elevated mood and labile affect"
+      },
+      "correct_answer": "D",
+      "explanation": "MINI MENTAL STATE EXAMINATION (MMSE) One point for each answer ORIENTATION Year Season Month Date Time Country Town District Hospital Ward/Floor Name: DOB: Hospital Number: DATE OF REGISTRATION Examiner names three objects (e.g., apple, table, penny) and asks the patient to repeat (1 point for each correct). Then the patient learns the three names, repeating until correct. ATTENTION AND CALCULATION · Subtract 7 from 100, then subtract 7 from the result, continue five times: 100, 93, 80, 70, 65. (Alternative: spell 'WORLD' backwards: DUROW). RECALL Ask for the names of the three objects learned earlier, LANGUAGE Name two objects (e.g., pen, watch). Repeat 'No ifs, ands, or buts'. Give a three-stage command, one point for each stage. (e.g., 'Place index finger of right hand on your nose and then on your left ear'). Ask the patient to read and obey a written command on a piece of paper. The written instruction is: 'Close your eyes'. Ask the patient to write a sentence. Score 1 if it is sensible and has a subject and a verb. COPYING: Ask the patient to copy a pair of intersecting pentagons. MMSE scoring 24-30 no cognitive impairment, 18-23: mild cognitive impairment, 0-17: severe cognitive impairment. In this scenario, the patient's mood is elevated because he seems to be euphoric and excited. His affect is labile because there is excessive variation in emotions without any apparent reason (from smiling one moment, to being quiet, then laughing). Mood is a pervasive and sustained emotional state experienced subjectively by the patient. It is not always readily observable. It can be characterized as follows: • Dysphoric - includes sustained emotional states such as sadness, anxiety, or irritability. • Elevated - an exaggerated feeling of well-being, euphoria, or elation. • Expansive - lack of restraint in expressing feelings, frequently with an over-valuation of one's significance or importance. • Irritable - easily annoyed or angered. • Euthymic - mood in the normal range. Affect is the cross-section of mood at a given point in time. It fluctuates with time and context. It can be observed by the clinician. It can be characterized as follows: • Quality (or tone) of a patient's affect includes being happy, irritable, angry, agitated, tearful, sobbing, and flat. • Quantity of affect is a measure of its intensity, e.g., mildly depressed or severely depressed. • Range can be restricted, normal, or labile. • Appropriateness is described in relation to the social situation. • Congruency is described in relation to the thought content of the person.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 5,
+      "question": "A man is speaking about his mother's death and is laughing. You would record his affect as",
+      "options": {
+        "A": "Incongruent affect",
+        "B": "Labile affect",
+        "C": "Flat affect",
+        "D": "Inappropriate affect"
+      },
+      "correct_answer": "D",
+      "explanation": "The patient has an incongruent affect. Congruency is described in relation to the thought content of the person. In this situation, the man is speaking about his mother's death and is expected to be sad, but he is laughing. His laughter is not congruent with the content of his speech and thoughts. Option B: Labile affect denotes excessive variations in emotion without any apparent reason. For example, a person starts laughing and then crying for no reason. This is seen in mania. Option C: Affective flattening/flat affect is used to describe a severely restricted range of affect (absence of changes in emotion irrespective of the situation). It is seen in schizophrenia. Option D: Inappropriate affect denotes emotional responses that do not match with the social situation one is in. Appropriateness is described in relation to the social situation. For example, if a man is laughing at a funeral, he has an inappropriate affect.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 6,
+      "question": "A 24-year-old woman with epilepsy gets repeated thoughts to cut off her fingers with a knife. These thoughts are detailed and distressing but do not urge her to do the action or cause any anxiety. The thoughts last for 5-10 minutes, after which she gets a seizure; then the thoughts disappear and she feels better. What is this phenomenon called?",
+      "options": {
+        "A": "Obsession",
+        "B": "Thought crowding",
+        "C": "Forced thinking",
+        "D": "Thought insertion"
+      },
+      "correct_answer": "C",
+      "explanation": "In the above scenario, the patient has forced thinking. The thoughts formed are not in control of the patient and are distressing. Forced thinking is one of the recognized pre-ictal events (auras) occurring in focal epilepsy or more specifically, in frontal lobe epilepsy. It usually resolves after the episode of seizure. Pre-ictal events (auras) in complex partial epilepsy include: Automatisms (classical) - e.g., lip-smacking, rubbing, chewing. Cognitive sensations - e.g., deja vu, jamais vu, forced thinking, dreamy states. Autonomic sensations - e.g., fullness in the stomach, blushing, changes in respiration. Affective states - e.g., fear, panic, depression, elation. Option A: Obsessions are recurrent and persistent ideas, thoughts, urges, or images that are experienced as intrusive and unwanted and cause anxiety or distress to the patient. It is seen in obsessive-compulsive disorder. Option B: Thought crowding is characterized by too many thoughts occurring at the same time in the field of consciousness. It is perceived as unpleasant and induces the feeling that ideas are difficult to catch. It is seen in mood disorders such as hypomania and bipolar disorder. Option D: Thought insertion is a disorder of thought possession in which the patient feels that thoughts are being inserted into his mind by some external agent. It is seen in schizophrenia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 7,
+      "question": "As part of a psychiatric evaluation, you ask the patient about what he would do if he suddenly sees a house on fire. What is being assessed here?",
+      "options": {
+        "A": "Social judgment",
+        "B": "Test judgment",
+        "C": "Response judgment",
+        "D": "Pyromaniac tendency"
+      },
+      "correct_answer": "B",
+      "explanation": "In the given scenario, test judgment is being assessed. Judgment is the ability to assess a situation, make good decisions, and act on them. Test judgment is assessed by asking the patient what he would do in hypothetical situations, such as a house on fire, or a man lying on the road, or a sealed, stamped, addressed envelope lying on a street. Social judgment is the ability to perceive social situations and act accordingly. The following are observed during the hospital stay and during the interview session: • Does the patient understand the likely outcome of personal behavior? • Subtle manifestations of behavior that are harmful to the patient. • Behavior that is not culturally acceptable. There is no category called response judgment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 8,
+      "question": "Which of the following can you assess by a digit span test?",
+      "options": {
+        "A": "Learning capacity",
+        "B": "Immediate recall",
+        "C": "Orientation",
+        "D": "Remote memory"
+      },
+      "correct_answer": "B",
+      "explanation": "The digit span test is used for testing attention and immediate recall.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 9,
+      "question": "A patient is asked to keep subtracting 7 from 100. This test is used to assess which of thefollowing?",
+      "options": {
+        "A": "Recent memory",
+        "B": "Learning capacity",
+        "C": "Concentration",
+        "D": "Abstract thinking"
+      },
+      "correct_answer": "C",
+      "explanation": "The serial subtraction test is used to assess concentration.43",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 10,
+      "question": "A patient says that he feels that there is something wrong with him mentally and it is becauseof the summer season. How much would he score on the insight scale?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correct_answer": "B",
+      "explanation": "The patient would score 3, as he is aware of being sick but has attributed it to external factors.Insight is rated on a 5 point scale:•••Complete denial of illness.Slight awareness of being sick and needing help but denying it at the same time.• Awareness of being sick, but is attributed to physical or external factors.• Intellectual insight - awareness of being ill, and that the symptoms are due to own particularirrational feelings and thoughts.• Emotional insight - the highest level of insight. Intellectual insight with making significantchanges in future behavior.Loss of insight is seen in schizophrenia, mania, delusional disorders, etc.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 11,
+      "question": "A man who mistook his wife for a hat is brought to the psychiatric OPD. The psychiatrist afterinterviewing him suspects a brain lesion. To localize the lesion and to determine its effects,which of the following tests can he use as a neuropsychological assessment tool?",
+      "options": {
+        "A": "Wechsler adult intelligence scale",
+        "B": "Stanford Binet test37",
+        "C": "Halstead Reitan battery",
+        "D": "Thematic apperception test"
+      },
+      "correct_answer": "C",
+      "explanation": "Halstead Reitan test is a neuropsychological test and is used to detect and localize brain lesionsand determine their effects.This approach typically includes a large variety of tests that measure most cognitive domains, aswell as sensory and motor skills.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 12,
+      "question": "A pediatrician wants to assess a 2-month-old child for global developmental delay. The childwas born prematurely and had developed hypoxic-ischemic encephalopathy. Which of thefollowing tests cannot be employed in the assessment of this child?",
+      "options": {
+        "A": "Gesell development schedule",
+        "B": "Bayley scale",
+        "C": "Mullen scale",
+        "D": "Stanford Binet scale"
+      },
+      "correct_answer": "D",
+      "explanation": "Stanford Binet intelligence scale can be used only from the age of 2 years. It cannot be used in thegiven scenario as the child is 2-months old.The following tests can be used to assess cognition/development/intelligence in a 1-year-old child:••Gesell schedule- 1 month to 36 monthsBayley scale- 1 month to 42 monthsMullen scale- o months to 68 months",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q12_img1_255ecf74.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 13,
+      "question": "A psychologist gives the following card to a patient and asks him to describe what he sees.Which of the following is being assessed here?Ju purchase1",
+      "options": {
+        "A": "Conscious desires",
+        "B": "Unconscious intentions",
+        "C": "Dreams",
+        "D": "Depressive tendencies38"
+      },
+      "correct_answer": "",
+      "explanation": "The picture given is of Rorschach's inkblot test, which is a projective personality test that focuseson the unconscious aspects of personality.Projective tests are based on the principle that when presented with an ambiguous stimulus, suchas an inkblot or an image, the patient's responses will reflect fundamental aspects of his or her44personality. The ambiguous stimulus is a screen on which the individual projects his or her ownneeds, thoughts, or conflicts.Commonly used projective tests are:• Thematic apperception test• Rorschach's inkblot test••Sentence completion test• Draw a person testIn Rorschach's inkblot test, 10 bilaterally symmetrical inkblots are shown to the participants. Thetest is administered in two phases:•• Free association phase- participant's response to the cards is recorded• Inquiry phase- participants explain why they formed the impression.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q13_img1_9ce5e5fa.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    },
+    {
+      "q_no": 14,
+      "question": "A patient is given a set of 20 pictures similar to the one shown below and asked to give his interpretation of the same. Which of the following is being assessed by this test?",
+      "options": {
+        "A": "Neuropsychological assessment",
+        "B": "Personality assessment",
+        "C": "Intelligence assessment",
+        "D": "Assessment of social cognition"
+      },
+      "correct_answer": "B",
+      "explanation": "The picture given is employed for personality assessment in the Thematic Apperception Test (TAT). It is a projective test intended to evaluate a person's personality through their responses to ambiguous pictures. The TAT consists of a series of 20 pictures that depict individuals of both sexes and of different age groups involved in different activities. The stories that the patient makes up concerning the pictures reflect the patient's own needs, thoughts, feelings, and view of the future.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q14_img1_d0558ff0.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Assessment in Psychiatry"
+    }
+  ]
+}

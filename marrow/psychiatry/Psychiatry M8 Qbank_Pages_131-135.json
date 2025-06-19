@@ -1,0 +1,110 @@
+{
+  "chapter": "Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A lesion involving which of the following neuroanatomical structures is least likely to result in an amnestic disorder?",
+      "options": {
+        "A": "Hippocampus",
+        "B": "Amygdala",
+        "C": "Arcuate nucleus",
+        "D": "Mammillary bodies"
+      },
+      "correct_answer": "C",
+      "explanation": "The arcuate nucleus is involved in the regulation of growth hormone secretion and is not typically associated with memory functions, making it the least likely to result in an amnestic disorder when lesioned.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "A 32-year-old train accident survivor is being evaluated for suspected amnestic disorder. Which of the following is most likely to be impaired in this patient?",
+      "options": {
+        "A": "Habit learning",
+        "B": "Skill learning",
+        "C": "Route navigation",
+        "D": "Classical conditioning"
+      },
+      "correct_answer": "C",
+      "explanation": "Route navigation is a function of declarative memory that is impaired in patients with amnesia. Non-declarative memory is preserved in amnesia. Declarative memory supports the conscious recollection of facts and events. Memory for routes, lists, faces, melodies, objects, and memory for other verbal and nonverbal material. Non-declarative memory includes: skill learning, habit learning, and simple forms of conditioning.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "After detailed neuropsychiatric evaluation, an ICU patient was found to have severe retrograde amnesia with largely preserved anterograde memory. Which of the following is the most likely explanation for this presentation?",
+      "options": {
+        "A": "Post-traumatic stress disorder",
+        "B": "Head injury",
+        "C": "Alcohol-related dementia",
+        "D": "Korsakoff syndrome"
+      },
+      "correct_answer": "D",
+      "explanation": "Severe retrograde amnesia with minimal or no anterograde amnesia is seen in Korsakoff syndrome. It is referred to as dissociative/psychogenic amnesia is incorrect in this context. Korsakoff syndrome presents with a sudden onset of: • Extensive and severe retrograde amnesia. A loss of personal identity - unable to recall their own name, information from childhood, or from their past. • Minimal anterograde amnesia. The other given options can all cause both retrograde and anterograde amnesia.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "What does Ribot's law deal with?",
+      "options": {
+        "A": "Anterograde amnesia",
+        "B": "Retrograde amnesia",
+        "C": "Dissociative amnesia",
+        "D": "Global transient amnesia"
+      },
+      "correct_answer": "B",
+      "explanation": "Ribot's law deals with retrograde amnesia. During incidents of retrograde amnesia, the most recently acquired memories are the most vulnerable to disruption from brain damage. This temporal gradation of retrograde amnesia that preferentially spares the more distant memories is known as Ribot's law. For example, if an incident causing retrograde amnesia occurs at 30 years of age, the memories acquired at 25 years of age may be more severely affected than those memories acquired at 20 years of age or earlier.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is not a feature of mild neurocognitive disorder?",
+      "options": {
+        "A": "Cognitive decline from a previous level in one or more cognitive domains",
+        "B": "The deficit occurs exclusively during an episode of delirium",
+        "C": "Do not interfere with independence in daily activities",
+        "D": "Mini Mental State Examination score of 26"
+      },
+      "correct_answer": "B",
+      "explanation": "Mild neurocognitive disorder does not occur exclusively during an episode of delirium. Mild neurocognitive disorder or Mild Cognitive Impairment (MCI) is a level of cognitive impairment which is: Not severe enough to be diagnosed as dementia, not mild enough to be called a part of the normal aging process. General Criteria for Mild Cognitive Impairment: Not normal, but does not meet criteria for dementia syndrome either. Cognitive decline: The patient and/or informant report an impairment in objective cognitive tasks. Evidence of decline over time in objective cognitive tasks. Preserved basic activities of daily living/minimal impairment in complex instrumental functions. MMSE score between 25-27 (out of 30). Single domain amnestic Mild Cognitive Impairment usually progresses to Alzheimer's disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "A 72-year-old man was taken to the psychiatrist by his son for memory issues. The elderlyman had been living in his own house for the past 40 years, where he used to ritually waterhis garden every day after breakfast. Recently he moved to his son's flat in Delhi but forgetsthis, and continues to get ready after breakfast to go and water his garden. Neuropsychiatricevaluation is normal except for some mild cognitive impairment. What is this phenomenoncalled?",
+      "options": {
+        "A": "Retroactive interference",
+        "B": "Proactive interference",
+        "C": "Output interference",
+        "D": "Biological Amnesia"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario in which information stored earlier interferes with the retrieval of newinformation is called proactive interference.Option A: Retroactive Interference - new information interferes with the retrieval of informationstored earlier.Option C: Output interference - the initial act of recalling particular information interferes withthe retrieval of the original information. For example, When trying to remember a limited numberof items, such as a list of words or the names of individuals in a group, recalling some items canmake it more difficult to recall other items in the same collection.Option D: Biological Amnesia - amnesia due to brain damage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "A 42-year-old man had a fall followed by one episode of vomiting. When brought to thecasualty, he was awake and conscious but had unrelieved anterograde amnesia. Which of thefollowing is the most likely cause?",
+      "options": {
+        "A": "Drunkenness",
+        "B": "Diffuse axonal injury132",
+        "C": "Concussion",
+        "D": "Cerebral venous thrombosis"
+      },
+      "correct_answer": "C",
+      "explanation": "The given history of fall and anterograde amnesia points towards the diagnosis of concussion.A concussion is the most common type of traumatic brain injury. It can result from vehicleaccidents, falls, sports injuries, etc. Anterograde amnesia/post-traumatic amnesia is the hallmarkof a concussion. In this type of amnesia, the events following the injury cannot be recalled.Other clinical features of concussion include headache, dizziness, nausea, and vomiting.Option A: Drunkenness - the patient will be drowsy or sleepy and not awake.Option B: Diffuse axonal injury - seen in high-speed deceleration which causes disruption andshearing of axons leading to microhemorrhages. Usually results in a persistent vegetative stage.Option D: Cerebral venous thrombosis - acute thrombosis in dural venous sinuses; manifests asheadache, visual abnormalities, or seizures.135",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Disorders"
+    }
+  ]
+}

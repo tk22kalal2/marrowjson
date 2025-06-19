@@ -1,0 +1,185 @@
+{
+  "chapter": "Psychiatric Emergencies",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is false about the condition, that is relieved by the technique shown in the picture?",
+      "options": {
+        "A": "Associated with carpopedal spasms",
+        "B": "Leads to paresthesias and numbness",
+        "C": "Symptoms are due to hypercapnia",
+        "D": "Presence of a frequent sighing during history taking"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q1_img1_a38767ac.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 2,
+      "question": "A first-year psychiatry resident gets a call regarding one of his patients who has been broughtto the ER with high-grade fever and pharyngitis. The patient was started on clozapine twoweeks back for treatment-resistant schizophrenia. His oral examination reveals the followingpicture. What would be the appropriate management?290",
+      "options": {
+        "A": "1 and 4",
+        "B": "2, 4 and 5",
+        "C": "2 and 3",
+        "D": "1, 3 and 5"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario of high-grade fever and pharyngitis and the simultaneous developmentof oral ulcers (image) in a patient on clozapine is suggestive of drug-induced agranulocytosis. Thetreatment is to stop clozapine immediately, administer granulocyte colony-stimulating factor(G-CSF), and start empirical antibiotics.Agranulocytosis is a rare, but fatal complication of clozapine. It is defined as an absoluteneutrophil count (ANC) &lt; 500/mm3, or white blood cell (WBC) count &lt; 2000/mm3. It caninitially manifest as a local infection with high-grade fever, sore throat, oral and perianalulcerations.These symptoms appear rapidly within days to weeks following initiation of drug therapy.Clozapine is generally considered to be more effective than other antipsychotic drugs and is oftenused in treatment-resistant schizophrenia (poor treatment response to 2 or more antipsychoticdrugs). Hence, a switch from clozapine to another (less effective) antipsychotic drug is not done ina patient with drug-induced agranulocytosis.295",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q2_img1_1c3835de.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 3,
+      "question": "A 44-year old businessman came to the casualty with headache, nausea, vomiting, anddiaphoresis since early morning. He was diagnosed with depression 4 months back and hasbeen on phenelzine. He gives the history of attending an office party the previous night wherehe consumed some red wine. On examination, his BP was 190/120. What is false about hispresent condition?",
+      "options": {
+        "A": "The condition is less common with selegilline.",
+        "B": "Should be treated with phentolamine.",
+        "C": "He is suffering from serotonin syndrome.",
+        "D": "Tyramine is involved the pathogenesis of the condition."
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of cheese reaction, not serotonin syndrome. Here, thepatient on phenelzine (non-selective and irreversible MAO-inhibitor) developed the clinicalfeatures of cheese reaction on having a tyramine-rich food item (red wine, cheese, milk).Inhibition of the MAO-A isoform prevents the metabolism of dietary tyramine in the gut, thusallowing intact tyramine to enter the systemic circulation. It is taken up by adrenergic neuronsand a hypertensive crisis occurs as a result of a powerful pressor effect of tyramine.The drug of choice to treat hypertensive crisis in cheese reaction is phentolamine.Cheese reactionCheeseRed wineBeerBananaTyramineDegradation in the gut inhibited by MAO-ITyramine accumulation in systemic circulationUptake by adrenergic neuronDisplacement of norepinephrine fromstorage vesicles by tyramineHypertensive crisisMARROWMAO-inhibitor with SSRI causes serotonin syndrome. Symptoms are fever, altered mental status,rigidity, hyperreflexia, and autonomic dysfunction.Selegiline and rasagiline do not functionally inhibit MAO-A. They do not cause cheese reactionwith doses used in clinical practice.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/exp3_img1_7b76271d.jpeg",
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 4,
+      "question": "A young woman with ongoing seizures and respiratory distress was rushed to the casualty byher relatives with an alleged history of attempted suicide by drug overdose. She was febrile,her heart rate was 180 bpm, BP was 70/50 mmHg. Her mouth was dry and her pupils weredilated. ABG showed a pH of 7.1, bicarbonate level was 14 mmol/L and pCO2 was 30 mm Hg.Which of the following is the most likely agent?291",
+      "options": {
+        "A": "Fluoxetine",
+        "B": "Imipramine",
+        "C": "Lithium",
+        "D": "Clonazepam"
+      },
+      "correct_answer": "",
+      "explanation": "The clinical picture is suggestive of tricyclic antidepressant (TCA) poisoning i.e metabolic acidosis,tachycardia, hypotension, and pupillary dilatation. Imipramine is a TCA.Tricyclic antidepressant overdose:Clinical features:• CNS- seizures, respiratory depression, drowsiness, delirium.• CVS - sinus tachycardia, hypotension, prolonged PR/QRS/QT interval, arrhythmias (ventriculartachycardia, fibrillation)• Anticholinergic - dilated pupils, dry mouth, urinary retention, hyperthermiaTreatment:296•Oxygen supplementation and IV fluids• Activated charcoal if the patient is brought within two hours of ingestion (unless ileus present)• IV sodium bicarbonate (attenuates the TCA-induced cardiotoxicity and metabolic acidosis)Note: Dialysis is not very helpful in the management of TCA overdose.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following drug intoxications has been matched incorrectly?",
+      "options": {
+        "A": "Amphetamine intoxication - treated by alkalisation of urine",
+        "B": "Chronic amphetamine intoxication - shows phenomenon of \"runs and crashes\"",
+        "C": "Benzodiazapine intoxication - acute intoxication resembles alcohol intoxication",
+        "D": "Levodopa intoxication - induces rapid cycling in bipolar disorder"
+      },
+      "correct_answer": "C",
+      "explanation": "Amphetamine intoxication is treated by acidification of urine, not alkalization.DrugLevodopaLithium toxicityBenzodiazepine intoxicationAmphetamine intoxicationIntoxication signs and symptomsMania, depression, rapid cyclingin bipolar disorder.Vomiting, abdominal pain, diarrhea, ataxia, tremors, dysarthria, seizuresBehavioral inhibition, blackouts, impulsivity, memory loss,mood alterations, derealisationParanoid hallucinations (butno thought disorder and there is appropriate affect), tachycardia, hypertension, seizures, tremors.Chronic intoxication a cycle of heavy use for afew days(runs)followed by stopping the drug(crashes),tactile hallucinations, compulsivecraving.TreatmentLower dosage, or discontinuethe drug.Lavage with wide bore tube,osmotic diuresisFlumazenil, to antagonise benzodiazepine and supportivemeasures.Symptomatic measures like cold sponging, diazepam for seizures, antihypertensives.Acidification of urinewith oral Ammonium chloride, 500 mgevery 4 hours, facilitates theelimination of amphetamines.Psychosis resolves within 7 days of urinary clearance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 6,
+      "question": "A patient with a complex psychiatric history is on a mono-amine oxidase (MAO) inhibitor.She visits her primary care physician with increasing depression. The physician adds aserotonin reuptake inhibitor (SSRI). Which of the following is she most likely to develop?",
+      "options": {
+        "A": "Fever, rigidity, dilated pupils, and hyperreflexia",
+        "B": "Fever, rigidity, normal pupils, and hyporeflexia",
+        "C": "Fever, normotonia, dilated pupils and normal reflexes",
+        "D": "Fever, rigidity, normal pupils and reduced bowel sounds"
+      },
+      "correct_answer": "A",
+      "explanation": "This patient, who is on MAO inhibitor + SSRI can develop serotonin syndrome, characterized byfever, rigidity, hyperreflexia, and dilated pupils.Option B: This is seen in neuroleptic malignant syndrome, which occurs due to certainantipsychotics.Option C: This is seen in anticholinergic toxicity.Option D: This is seen in malignant hyperthermia.297",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 7,
+      "question": "A 46-year-old male patient who was treated with haloperidol for delirium, developed fever,tachycardia, increased blood pressure, muscle stiffness, and altered mental status.Investigations revealed elevated levels of creatine phosphokinase. What is the most likelydiagnosis?",
+      "options": {
+        "A": "Serotonin syndrome",
+        "B": "Tardive dyskinesia",
+        "C": "Hypersensitivity reaction to haloperidol",
+        "D": "Neuroleptic malignant syndrome292"
+      },
+      "correct_answer": "D",
+      "explanation": "The clinical features in a patient who has been administered haloperidol, are most likelysuggestive of the neuroleptic malignant syndrome.Neuroleptic malignant syndrome (NMS) is a life-threatening complication that can occur anytimeduring antipsychotic treatment. Haloperidol poses the highest risk for causing NMS. Thecondition may occur within 24-72 hrs after initiation of the treatment, and if untreated, may lastfor 10 to 14 days.Option A: Serotonin syndrome occurs due to an increase of plasma serotonin to toxic levels, dueto concurrent administration of SSRI and an MAO inhibitor, L-tryptophan or lithium.It is characterized by 3 A's:• Neuromuscular hyperactivity - clonus, hyperreflexia, hypertonia, tremor, and seizure• Autonomic stimulation - hyperthermia, diaphoresis, diarrhoea• Agitation.In severe cases, there may be delirium, coma, status epilepticus, and death.Option B: Tardive dyskinesia is characterized by abnormal, irregular, involuntary choreoathetoidmovements of the muscles of the head, limbs, and trunk. Perioral movement is most common.The condition usually develops as a delayed response to antipsychotics, about 6 months aftertreatment.Option C: Hypersensitivity reaction to haloperidol may include anaphylactic reaction,angioedema, facial and laryngeal oedema, rash, urticaria, bronchospasm, and laryngospasm.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 8,
+      "question": "The table shows the examination findings of various psychiatric emergencies presenting withfever and altered sensorium. Choose the false option regarding them.MuscletoneMucosaand skinPupilsBowelsoundsReflexesARigidWetNormalNormalDecreasedBRigidWetDilatedIncreasedIncreasedNormalDryDilatedDecreasedNormalDRigidWetNormalDecreasedDecreasedOMARROW",
+      "options": {
+        "A": "Patient A presents with increased CPK levels-",
+        "B": "Patient B has anticholinergic syndrome-",
+        "C": "Patient C - IV physostigmine is given to counteract symptoms",
+        "D": "Patient D - dantrolene is administered for treatment"
+      },
+      "correct_answer": "B",
+      "explanation": "Patient B has serotonin (not anticholinergic) syndrome.The above table represents the following psychiatric emergencies:A Neuroleptic malignant syndrome.B Serotonin syndrome.-C- Anticholinergic syndrome.D - Malignant hyperthermia.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mpsychiatry/q8_img1_d8aba974.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 9,
+      "question": "Select the incorrect match.",
+      "options": {
+        "A": "Suicide survivor - someone who has experienced a close person committing suicide",
+        "B": "Suicidal ideation - nonspecific, occasional thought to end one's life",
+        "C": "Parasuicidal behaviour - self-mutilation without intent to commit suicide",
+        "D": "Deliberate self harm - wilful infliction of injuries to self, with the intent to die"
+      },
+      "correct_answer": "D",
+      "explanation": "Deliberate self-harm is the wilful self-infliction of painful and destructive acts, without the intentto die.Terms associated with suicide:• Suicide survivor - Someone who has experienced a close person committing suicide.298•Suicidal ideation - Nonspecific, occasional thought to end one's life• Parasuicidal behaviour - Self-mutilation without intent to commit suicide, more common infemales than males - 3:1. Wrists, arms, thighs, and legs are most commonly cut.• Suicidal intent - Intense and persistent thought to serve as the agent of one's own death, butwithout a plan in mind.• Suicidal plan- Making a plan to commit suicide• Suicidal behaviour - Taking steps to execute the planNote: In the general population, men are three times more likely than women to complete suicide.Women, however, were found to attempt suicide four times more often than men.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is the most consistent finding in patients with increased suicidaltendency?",
+      "options": {
+        "A": "Increased GABA293",
+        "B": "Decreased serotonin",
+        "C": "Increased 5-HIAA",
+        "D": "Both B and C"
+      },
+      "correct_answer": "B",
+      "explanation": "Decreased levels of serotonin is associated with an increased risk of suicide.The genetic and hormonal theory of suicide:• Decreased levels of serotonin• Decreased levels of 5-Hydroxy Indole Acetic Acid (5-HIAA), a primary metabolite of serotonin, inCSFThe average suicide rate in India is 12.7 per 1 lakh population• Most common psychiatric illness leading to suicide - major depression• Most common mode of suicide in India - hanging &gt; consumption of poison• Most common mode of suicide attempt in India - consumption of poison &gt; hanging•• Most common cause of suicide in India - family problems &gt; illness",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 11,
+      "question": "Which of the following patient groups does not have an increased risk of suicide?",
+      "options": {
+        "A": "Patients below 30 years with mood disorders",
+        "B": "Youth with antisocial personality disorder",
+        "C": "Patients suffering from chronic illnesses",
+        "D": "Patients who have a positive family history of suicide"
+      },
+      "correct_answer": "A",
+      "explanation": "Diagnoses of mood disorders and cognitive disorders are more commonly seen among suicidesabove the age of 30 years.Amongst suicides below the age of 30 years, the diagnoses of substance abuse and antisocialpersonality disorder are higher. Amongst mental illnesses overall, mood disorders and depressionhave the highest risk of suicide.Risk factors for suicide include:• Male&gt; female, but females attempt more. The higher numbers are in the male because of thedifference in the methods of attempting suicide.• Age: 30-45 years-• Previous attempts the risk of a second attempt is highest within three months of the firstattempt.299••Family historyPhysical or mental illnesses:• Depression/mood disorders• Antisocial personality disorder•⚫ Borderline personality disorder• Chronic illnesses• Alcohol or drug dependence●Suicidal preoccupation.A recent loss, unemployment• Social isolation, being single (unmarried, divorced, or widowed)• Amongst immature defence mechanisms, repression has the highest risk•Genetic 18% concordance rate for monozygotic twins, and low levels of serotonin",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    },
+    {
+      "q_no": 12,
+      "question": "When will a psychiatrist be more concerned about a patient committing suicide?",
+      "options": {
+        "A": "When he is in mania rather than depression",
+        "B": "When hospitalised rather than discharged",
+        "C": "Soon after he starts antidepressant medication",
+        "D": "At the peak of a depressive episode"
+      },
+      "correct_answer": "C",
+      "explanation": "Patients are more likely to commit suicide soon after they are started on antidepressantmedication.Somatic symptoms of depression improve faster than psychological symptoms when a patient isstarted on antidepressant medication and hence patients have the energy to act on their thoughtsof deliberate self-harm and suicide (paradoxical suicide).Option A: For bipolar disorder, the suicidal risk is higher in the depressive phase than the manicphase.Option B: The highest risk of suicide is within a period of 6 months after discharge from apsychiatric facility than when admitted.Option D: During the peak of the depressive episode though the desire to die is intense, the energylevel is low to execute the plan. The risk of suicide is higher at the onset and the end of thedepressive episode.300",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Psychiatric Emergencies"
+    }
+  ]
+}

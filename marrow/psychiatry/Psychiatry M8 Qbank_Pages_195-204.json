@@ -1,0 +1,215 @@
+{
+  "chapter": "Anxiety Disorders",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following is not an anxiogenic substance?",
+      "options": {
+        "A": "Caffeine",
+        "B": "Cholecystokinin",
+        "C": "Carbon dioxide",
+        "D": "Neuropeptide Y"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 2,
+      "question": "A first-year MBBS student came to OPD with intermittent episodes of a feeling of impendingdoom accompanied by intense perspiration. Usually, the episodes occur prior to her exams.What is the most likely diagnosis?",
+      "options": {
+        "A": "Panic disorder",
+        "B": "Conversion disorder",
+        "C": "Social anxiety disorder",
+        "D": "Generalized anxiety disorder"
+      },
+      "correct_answer": "A",
+      "explanation": "The most likely diagnosis for this patient is panic disorder.A panic attack is an abrupt surge of intense fear or intense discomfort. Recurrent panic attacks formore than one month is classified as panic disorder.Panic attacks can occur in mental disorders other than panic disorder, particularly in specificphobia, social phobia, and PTSD.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not classified under anxiety disorders?",
+      "options": {
+        "A": "Social anxiety disorder",
+        "B": "Post-traumatic stress disorder",
+        "C": "Specific Phobia",
+        "D": "Panic attacks"
+      },
+      "correct_answer": "B",
+      "explanation": "Post-traumatic stress disorder is classified under trauma and stressor-related disorder accordingto DSM-5.According to ICD-11, it is classified under disorders specifically associated with stress.The following disorders are classified under anxiety disorders:• Social anxiety disorder•Specific phobia• Agoraphobia• Panic attacks•Generalized anxiety disorder•Separation anxiety disorder• Selective mutism200• Substance/medication-induced anxiety disorder• Anxiety disorder due to another medical condition•• Unspecified anxiety disorder",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 4,
+      "question": "A 35-year-old lady presents to the casualty with symptoms of acute-onset breathlessness,palpitations, sweating, and nausea. Physical examination and laboratory workup wereunremarkable. Which of the following best explains the episode?195",
+      "options": {
+        "A": "Phobia",
+        "B": "Acute respiratory distress syndrome",
+        "C": "Generalized anxiety disorder",
+        "D": "Panic attack"
+      },
+      "correct_answer": "D",
+      "explanation": "This clinical vignette describes a classic panic attack.A panic attack is an abrupt surge of intense fear or intense discomfort (arises de novo without anystressor). Recurrent panic attacks are termed as panic disorder.Panic attacks can occur in mental disorders other than panic disorder, particularly in specificphobia, social phobia, and post traumatic stress disorder (PTSD).The differential diagnosis for panic attacks:Angina, MI• Mitral valve prolapse• Asthma•••Pulmonary embolusPheochromocytoma⚫ Hyperthyroidism (Grave's disease)• Epilepsy• Amphetamine and anticholinergic drugs•• Withdrawal symptoms",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 5,
+      "question": "A 30-year-old female was brought to the hospital with complaints of recurrent episodes ofacute onset breathlessness, palpitations, sweating and dizziness for the past 2 months.Physical examination and laboratory investigations were normal. Which of the following isthe drug of choice in the treatment of this condition?",
+      "options": {
+        "A": "Selective serotonin reuptake inhibitors",
+        "B": "Benzodiazepines",
+        "C": "Monoamine oxidase inhibitors",
+        "D": "Buspirone"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical features of recurrent panic attacks suggest a diagnosis of panic disorder. Selectiveserotonin reuptake inhibitors are the drug of choice in panic disorder.Option B: Benzodiazepines are used in acute attacks of panic disorder.Option C: Monoamine oxidase inhibitors (MAOIs) and Tricyclic antidepressants (TCAs) aresecond-line drugs for panic disorder.Option D: Buspirone is a second-line drug used in generalized anxiety disorder.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 6,
+      "question": "A young woman has a fear of places from where escape is difficult. What is this condition.known as?",
+      "options": {
+        "A": "Claustrophobia",
+        "B": "Aerophobia",
+        "C": "Agoraphobia",
+        "D": "Ailurophobia"
+      },
+      "correct_answer": "",
+      "explanation": "Agoraphobia is the fear or avoidance of places from where escape would be difficult e.g., crowds,public places, or public transportation.201It is more common in women. It leads to severe restrictions on the individual's travel and dailyroutine.Option A: Claustrophobia - Fear of closed spacesOption B: Aerophobia - Fear of flyingOption D: Ailurophobia - Fear of catsNote: Specific phobia is the most common type of phobia. Agoraphobia is not a specific phobiaand is classified separately under anxiety disorders.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 7,
+      "question": "A 50-year-old man feels uncomfortable in using the lift, being in crowded places andtravelling. Which of the following is the most appropriate line of management?",
+      "options": {
+        "A": "Expressive therapy",
+        "B": "Inter-personal therapy",
+        "C": "Behavioural therapy",
+        "D": "Cognitive therapy196"
+      },
+      "correct_answer": "",
+      "explanation": "These clinical features suggest the diagnosis of agoraphobia. Behaviour therapy is the treatment ofchoice.Various modalities in behavioural therapy:•Systematic desensitization- gradual exposure to the stimuli so that the patient gets used to thesituation•Exposure and response prevention• Relaxation technique⚫ Flooding•Drug therapy: SSRI",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 8,
+      "question": "A construction worker experiences intense fear when working on a project of renovating ahigh-rise building, which requires him to climb scaffolding. He finds it difficult and awkwardto explain this to his on-site contractors. What is this irrational fear known as?",
+      "options": {
+        "A": "Acarophobia",
+        "B": "Algophobia",
+        "C": "Agoraphobia",
+        "D": "Acrophobia"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of acrophobia. It is the extreme or irrational fear ofheights.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 9,
+      "question": "A 5-year-old girl was brought to the psychiatric OPD by her mother with the history that herdaughter cries terribly when sent to school. When interviewed, she keeps worrying about hermother and that something bad might happen to her when she is left at school. Her motheralso mentions that she does not sleep well and often experiences nightmares about beingaway from her mother. Which of the following best explains the situation?",
+      "options": {
+        "A": "Agoraphobia",
+        "B": "Panic disorder",
+        "C": "Generalised anxiety disorder",
+        "D": "Separation anxiety disorder"
+      },
+      "correct_answer": "D",
+      "explanation": "The history suggests the presence of separation anxiety disorder in the daughter.Patients with separation anxiety disorder suffer greatly when physically apart from figures ofsignificant attachment (in this case, the mother). These patients keep thinking about thepossibility of any harm that might occur to them or their loved ones when they are apart. Thisworry leads to the avoidance of separation. Even when they sleep, the individual often hasnightmares regarding separation. Symptoms persist longer than 4 weeks.Cognitive behavioral therapy + SSRI is the treatment of choice.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 10,
+      "question": "An adolescent complains that she is experiencing a significant amount of stress because shefinds it difficult to concentrate during conversations. She is busy worrying about what otherswill think of her, assuming they will find her 'dumb' or 'boring'. After interactions, she replaysthe conversation over and over again, focusing on the 'stupid' things she had said. She sayshas been isolating herself more, turning down invitations from her roommate to go out to eat.What is the likely diagnosis?",
+      "options": {
+        "A": "Panic disorder",
+        "B": "Social anxiety disorder",
+        "C": "Generalised anxiety disorder",
+        "D": "Selective mutism197"
+      },
+      "correct_answer": "B",
+      "explanation": "202The clinical scenario is suggestive of social anxiety disorder. It is a fear of one or more socialsituations where in the patient is concerned about being harshly judged and evaluated for theirperformance or interpersonal interactions.•There is an out-of-proportion fear that they will be shamed by the experience.• The symptoms last longer than 6 months.• The specific social situation(s) is avoided altogether.CBT and SSRIs are the mainstays of treatment of social anxiety disorder.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 11,
+      "question": "A 40-year-old man presents with complaints of excess uncontrollable worry over daily lifeactivities, finance and his health over the past 2 years. Because of this, he feels restless mostof the time. He also complains of fatigue and disturbed sleep. What is the diagnosis?",
+      "options": {
+        "A": "Depression",
+        "B": "Illness anxiety disorder",
+        "C": "Somatoform disorder",
+        "D": "Generalised anxiety disorder"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of generalised anxiety disorder.When assessing for GAD, clinical professionals look for the following according to the DSM-5 (andICD-11) criteria:• The presence of excessive anxiety and worry about a variety of topics, events, or activities. Worryoccurs more often than not for at least six months and is clearly excessive.• The worry is experienced as very challenging to control. The worry in both adults and childrenmay easily shift from one topic to another.•The anxiety and worry are accompanied by at least three of the following physical or cognitivesymptoms (In children, only one of these symptoms is necessary for a diagnosis of GAD):• Edginess or restlessness.•Tiring easily; more fatigued than usual••Impaired concentration or feeling as though the mind goes blankIrritability (which may or may not be observable to others)• Increased muscle aches or soreness• Difficulty sleeping (due to trouble falling asleep or staying asleep, restlessness at night, orunsatisfying sleep)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 12,
+      "question": "Which of the following is the drug of choice that you will prescribe for a patient with ageneralised anxiety disorder?",
+      "options": {
+        "A": "Sertraline",
+        "B": "Amitriptyline",
+        "C": "Alprazolam",
+        "D": "Selegiline"
+      },
+      "correct_answer": "A",
+      "explanation": "Selective serotonin reuptake inhibitors (SSRIs) like sertraline are the drug of choice in thetreatment of generalised anxiety disorder. CBT is advised along with SSRIs.Buspirone is a second-line drug used in generalized anxiety disorder.Option C: Short-acting benzodiazepines such as alprazolam are used during acute episodes ofpanic disorder.Options B, D: Tricyclic antidepressants (amitriptyline) and monoamine oxidase inhibitors(selegiline) are second-line drugs for panic disorder.203",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 13,
+      "question": "A 5-year-old boy was brought to the psychiatric OPD with complaints of being quiet in hisclassroom since he joined the school. At home, he talks well with his parents. He has twoclose friends with whom he converses well. Apart from his parents and two friends, he doesnot interact with anyone. His birth history is normal. Which of the following best explains hiscondition?",
+      "options": {
+        "A": "Social anxiety disorder",
+        "B": "Autism",
+        "C": "Selective mutism",
+        "D": "ADHD"
+      },
+      "correct_answer": "C",
+      "explanation": "Selective mutism is a disorder of children wherein they are unable to speak in certain socialsituations.Such children are capable of speaking normally when at home. The disorder can also be evidentduring interactions between the child and less-familiar adults. For diagnosis, the mutism mustimpact social or educational functioning for greater than one month.CBT + SSRI is the preferred treatment modality.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    },
+    {
+      "q_no": 14,
+      "question": "A young lady appraised her racing heart as having a heart attack and reduced her physicalactivity in order to reduce the strain on her heart. During a routine BMI check, she was found198to be obese and reported to her physician. A referral to the psychiatrist was made andfollowing a few sessions, she was started on a practice designed to induce the somaticsymptoms of an increased heart rate, but under a controlled circumstance. What is thisprocedure known as?",
+      "options": {
+        "A": "Interoceptive exposure",
+        "B": "Imaginal exposure",
+        "C": "In vivo exposure",
+        "D": "Flooding"
+      },
+      "correct_answer": "A",
+      "explanation": "The given clinical scenario is suggestive of panic disorder where misappraisals of body sensationstrigger emotional and physiological reactions of fear and heightened arousal. Interoceptiveexposure is the practice of strategically inducing the somatic symptoms associated with a threatappraisal, and encouraging the patient to maintain contact with the feared sensations.Interoceptive exposure is a form of exposure therapy for the treatment of panic disorder andspecific phobias. It is done using an activity that produces similar physiological sensations to theones that are produced during the panic attack. The purpose is to promote the habituation of fearin response to them.Example: Aerobic exercise to induce rapid heart rate and shortness of breath. Breathing throughthin straw produces a sensation of not getting enough air.Option B: Imaginal exposure typically involves having the patient close their eyes and imaginefeared stimuli.Option C: In vivo exposure involves helping patients directly confront feared objects, activities,and situations.Option D: Flooding approach involves repeated and prolonged exposure to fear cues of highintensity without relaxation.204",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Anxiety Disorders"
+    }
+  ]
+}

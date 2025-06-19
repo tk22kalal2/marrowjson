@@ -1,0 +1,140 @@
+{
+  "chapter": "Delirium",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 72-year-old woman is admitted with complaints of fever with dysuria for 5 days. On examination, she is drowsy and appears withdrawn and apathetic. She claims to see bugs crawling on her hand. What is the diagnosis?",
+      "options": {
+        "A": "Dementia",
+        "B": "Schizophrenia",
+        "C": "Formication",
+        "D": "Delirium"
+      },
+      "correct_answer": "D",
+      "explanation": "The patient's symptoms of fever, dysuria, drowsiness, and apathy, along with her claim of seeing bugs crawling on her hand, are indicative of delirium, which is a serious disturbance in mental abilities that results in confused thinking and reduced awareness of the environment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Delirium"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following features is more in favour of delirium?",
+      "options": {
+        "A": "Occurs gradually over a period of time",
+        "B": "Fluctuating course",
+        "C": "Preserved consciousness",
+        "D": "Commonly associated with auditory hallucinations"
+      },
+      "correct_answer": "B",
+      "explanation": "Fluctuating course is suggestive of delirium. Characteristic presentation of delirium: • Acute onset • Brief duration - usually days to weeks • Decline in the level of consciousness. • Fluctuating course - unpredictable fluctuations in severity and other clinical manifestations. Sundowning - worsening of symptoms at night. Rapid improvement - when the underlying cause is treated. • Other characteristics include asterixis, carphologia (picking movements on cover sheets and clothes). • More commonly associated with visual hallucinations.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Delirium"
+    },
+    {
+      "q_no": 3,
+      "question": "Which neurotransmitter abnormality is identified most consistently in patients with delirium?",
+      "options": {
+        "A": "Decreased dopamine",
+        "B": "Decreased acetylcholine",
+        "C": "Increased GABA",
+        "D": "Increased glutamate"
+      },
+      "correct_answer": "B",
+      "explanation": "The most consistent neurotransmitter abnormality seen in delirium is cholinergic deficiency (decreased acetylcholine). The major neuroanatomical area associated with the condition is the reticular formation. Neurotransmitter abnormalities in delirium include: • Decreased acetylcholine • Increased dopamine • Increased norepinephrine",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Delirium"
+    },
+    {
+      "q_no": 4,
+      "question": "A patient admitted to the ICU for severe pneumonia 5 days ago suddenly developed difficulty in recognizing his relatives or the doctor and has started muttering that he is trapped in jail. On evaluation, he is in an altered sensorium. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acute dementia",
+        "B": "Brief psychotic disorder",
+        "C": "ICU psychosis",
+        "D": "Acute paranoia"
+      },
+      "correct_answer": "C",
+      "explanation": "The given clinical scenario is suggestive of ICU psychosis (delirium). The following features are consistent with the diagnosis of delirium: • Acute onset of symptoms • Disorientation to place (jail instead of the hospital) • Disorientation to person (failure to recognize relatives and the doctor) • Altered sensorium. Brief psychotic disorder (BPD) according to DSM-5 is the sudden onset of psychotic behaviour that lasts less than 1 month followed by complete remission with possible future relapses. This is termed acute and transient psychotic disorder as per ICD-11, and the duration of the episode should not exceed 3 months.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Delirium"
+    },
+    {
+      "q_no": 5,
+      "question": "You are evaluating an elderly man who is suspected to have hypoactive delirium. Which of the following etiologies is most commonly associated with his condition?",
+      "options": {
+        "A": "Anticholinergic drug overdose",
+        "B": "Heavy metal poisoning",
+        "C": "Hepatic encephalopathy",
+        "D": "Alcohol withdrawal"
+      },
+      "correct_answer": "C",
+      "explanation": "Hypoactive delirium is commonly associated with hepatic and renal encephalopathies. The hypoactive clinical subtype of delirium can often be confused with depression due to overlapping symptoms of psychomotor retardation and affect. In delirium, however, the onset of such symptoms is more acute and is usually associated with some medical illness.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Delirium"
+    },
+    {
+      "q_no": 6,
+      "question": "Among patients who develop acute psychiatric symptoms in the hospital, which of the following screening tools is useful for identifying cases of delirium?",
+      "options": {
+        "A": "CAGE questionnaire",
+        "B": "CHAT checklist",
+        "C": "CAM algorithm",
+        "D": "GAD-7 scale"
+      },
+      "correct_answer": "C",
+      "explanation": "Confusion Assessment Method (CAM) is a bedside screening test used in the diagnosis of delirium. It has two parts: Part one screens for overall cognitive impairment. Part two is a diagnostic algorithm that screens for 4 cardinal features to distinguish delirium from other types of cognitive impairment. It can be assessed in less than 5 minutes. Diagnosis of delirium requires the presence of features 1 and 2 along with either feature 3 or 4, i.e., features 1 + 2 + (3 or 4). Option A: CAGE questionnaire is used for addiction and substance abuse cases. Option B: CHAT checklist is used in autism (Checklist for Autism in Toddlers). Option D: GAD-7 scale is used in the assessment of generalized anxiety disorder. CAM Diagnostic Algorithm: Feature 1 - Acute onset and fluctuating course, Feature 2 - Inattention, Feature 3 - Disorganized thinking, Feature 4 - Altered level of consciousness.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Delirium"
+    },
+    {
+      "q_no": 7,
+      "question": "An elderly man was brought in to get evaluated for suspected depressive disorder. He hasbeen socially withdrawn, confused, and has not been speaking to his family for the past 1week. The family also complains that he has not been sleeping well at night. Which of thefollowing EEG findings would make you suspect delirium?",
+      "options": {
+        "A": "Chaotic",
+        "B": "3Hz Spike and wave",
+        "C": "Diffuse slow wave",
+        "D": "Isoelectric110"
+      },
+      "correct_answer": "",
+      "explanation": "The EEG finding in most patients with delirium is diffuse slow-wave or low-voltage activity.EEG findings in specific causes of delirium:• Focal impairment - localized cerebral event• Low voltage but fast-wave activity - drug/alcohol withdrawalOption A: Chaotic (hypsarrhythmia) - Infantile spasm, West syndromeOption B: 3Hz spike and wave - Absence seizuresOption D: Isoelectric EEG – Deep coma / cerebral death-",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Delirium"
+    },
+    {
+      "q_no": 8,
+      "question": "When pharmacotherapy is necessary for managing delirium, which of the following ispreferred as the first-line treatment?",
+      "options": {
+        "A": "Lorazepam 1 mg PO",
+        "B": "Lorazepam 0.5 mg IV",
+        "C": "Clozapine 12.5mg PO",
+        "D": "Haloperidol 0.5 mg PO"
+      },
+      "correct_answer": "",
+      "explanation": "Haloperidol is commonly used for the first-line pharmacological treatment of delirium.The two major symptoms of delirium that may require pharmacological treatment are psychosisand insomnia.Options A, B: Benzodiazepines are often used as an adjunct in agitated patients, but should beused judiciously for insomnia as their sedative property can worsen confusion in delirium.Option C: The use of second-generation antipsychotics may be considered for deliriummanagement, but clinical trial experience with these agents for delirium is limited. Clozapine itselfis known to sometimes trigger delirium.Note: IV regimens of haloperidol are mostly used in the ICU in the critically ill due to their fastonset of action and predictable pharmacokinetics. Oral haloperidol may be used as a maintenanceregimen in patients with a functional GI tract. Intramuscular haloperidol is considered only inacutely combative patients without IV access.114",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Delirium"
+    },
+    {
+      "q_no": 9,
+      "question": "A 75-year old patient with Parkinson's disease, taking levodopa for the past 2 years, presentsto you with disorientation, confusion, and altered sensorium. What is your next step inmanagement?",
+      "options": {
+        "A": "Reduce the dose of levodopa",
+        "B": "IV Lorazepam",
+        "C": "Oral Quetiapine",
+        "D": "Oral Clozapine"
+      },
+      "correct_answer": "A",
+      "explanation": "The next step in management should be a reduction in the dose of levodopa.The patient presents with disorientation, confusion and altered sensorium. This is suggestive ofdelirium. Anti-parkinsonian agents are frequently implicated in causing delirium because ofdopamine increase.Decreasing the dosage of the antiparkinsonian agent has to be weighed against worsening ofmotor symptoms.Clozapine is recommended when:• The antiparkinsonian agents cannot be further reduced• Delirium persists even after reducing the dose of antiparkinsonian agentsIf a patient is not able to tolerate clozapine, alternative antipsychotic agents should be considered.115",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Delirium"
+    }
+  ]
+}
