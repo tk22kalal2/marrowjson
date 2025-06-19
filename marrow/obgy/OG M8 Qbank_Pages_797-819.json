@@ -1,0 +1,380 @@
+{
+  "chapter": "Ovarian Tumors",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which is the most common type of ovarian tumor?",
+      "options": {
+        "A": "Epithelial tumor",
+        "B": "Granulosa cell tumor",
+        "C": "Gonadoblastoma",
+        "D": "Sex cord-stromal tumor"
+      },
+      "correct_answer": "",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following is the most carcinogenic gene in ovarian cancer?",
+      "options": {
+        "A": "BRCA 1",
+        "B": "BRCA 2",
+        "C": "MLH1",
+        "D": "MSH2"
+      },
+      "correct_answer": "A",
+      "explanation": "BRCA 1 is the most carcinogenic gene in ovarian cancer.8055-10% of malignant ovarian tumors are genetic. BRCA 1 is associated with hereditarybreast-ovarian cancer syndrome.BRCA 1 is on chromosome 17q and BRCA 2 is on chromosome 13q.MSH2 and MLH1 gene mutation is seen in hereditary non-polyposis colorectal cancer (HNPCC). Itis associated with malignancy of the colon, ovary, and endometrium.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 3,
+      "question": "Which among the following reduces the risk of developing ovarian cancers?",
+      "options": {
+        "A": "Nulliparity",
+        "B": "Polycystic ovary syndrome",
+        "C": "HRT therapy",
+        "D": "Bilateral tubectomy"
+      },
+      "correct_answer": "D",
+      "explanation": "Bilateral tubectomy and hysterectomy reduce the risk of ovarian cancer.Some ovarian malignancies originate in the fallopian tubes as dysplastic lesions which laterspread to the ovary (dropping down theory). Thus, bilateral tubectomy reduces the risk of ovarianmalignancy.Risk factors for ovarian cancer:• Advancing age• Early menarche and late menopause• Talc exposure to the perineum•Family history of breast / ovarian cancer• Ovulation induction therapy by clomiphene citrateProtective factors against ovarian cancer:• Use of oral contraceptive pills• Multiparity•• Breastfeeding• Anovulation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 4,
+      "question": "Which among the following is the largest benign ovarian tumor?",
+      "options": {
+        "A": "Serous cystadenoma",
+        "B": "Mucinous cystadenoma",
+        "C": "Teratoma797",
+        "D": "Dermoid cyst"
+      },
+      "correct_answer": "B",
+      "explanation": "Mucinous cystadenoma is the largest benign ovarian tumor.Mucinous cystadenoma is a mucoid-containing, thick-walled cyst. It is usually multilocular andlined by single columnar epithelium.It is the third most common epithelial tumor of the ovary. It has a 10% chance of becomingmalignant. About 40% of dermoid cysts are found in conjunction with mucinous cystadenomas.806HEATRE LE WEST BEKE & TE BE AT LESUHARTE 11. GL",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp4_img1_b2224eb9.jpeg",
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 5,
+      "question": "Which of the following is false regarding borderline ovarian tumors?",
+      "options": {
+        "A": "Mitotic figures are &lt; 4/10 high power field",
+        "B": "Stromal invasion is seen",
+        "C": "90% survival rate",
+        "D": "Serous type is more common than mucinous type"
+      },
+      "correct_answer": "B",
+      "explanation": "Stromal invasion is not seen in borderline ovarian tumors.Borderline tumors of the ovary (also called tumors of low malignant potential) are aheterogeneous group of lesions defined histologically by atypical epithelial proliferation withoutstromal invasion.The clinical progression of these tumors is distinct from ovarian carcinoma, so they areconsidered a distinct clinical entity.Features of borderline ovarian tumors:• No stromal invasion• Mitotic figures &lt;4/10 high power field• Survival rate is 90%•Usually occurs between 35-55 years of age• Serous type is the most common, followed by mucinous type.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 6,
+      "question": "Which of the following statements is false regarding ovarian cysts?",
+      "options": {
+        "A": "Cobweb appearance is seen on USG in haemorrhagic cyst",
+        "B": "Theca lutein cyst regresses with a fall in hCG levels",
+        "C": "Leutoma of pregnancy is associated with multiple pregnancy",
+        "D": "Follicular cyst is a benign epithelial tumor"
+      },
+      "correct_answer": "",
+      "explanation": "Follicular cyst is a physiological/functional cyst of the ovary.Physiological/functional cysts of the ovary:•Follicular cyst - Failure of rupture of the follicle during ovulation.• Theca lutein cyst - Stimulation of atretic follicles by abnormal HCG levels. It regresses when hCGlevels fall.•• Luteoma of pregnancy - Due to prolonged elevation of hCG, like in multiple pregnancies.807Hemorrhagic ovarian cysts usually occur due to bleeding into the corpus luteum or otherfunctional cysts at the time of ovulation. Hemorrhagic cysts are normal findings in ovulatorywomen, generally resolving within 8 weeks.Cobweb appearance on USG in a hemorrhagic cyst is shown below.Cobweb appearance",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp6_img1_752bea41.jpeg",
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 7,
+      "question": "Meigs' syndrome was suspected in a woman with right-sided pleural effusion, ascites, and anovarian tumor. Which of the following statements is false regarding this condition?",
+      "options": {
+        "A": "Can be caused by ovarian fibroma",
+        "B": "The tumor would be immobile with an irregular surface",
+        "C": "Ascites and hydrothorax resolve after resection of the tumor",
+        "D": "Pleural effusion is more common on the right side"
+      },
+      "correct_answer": "",
+      "explanation": "In Meig's syndrome, a benign ovarian mass is likely to be seen. Irregular surface and immobilityare features of malignant tumors.Meig's syndrome is characterized by a triad of:•Benign ovarian tumors.• Ascites●Right-sided pleural effusion.The pleural effusions are usually right-sided, even though the left-sided and bilateral effusions arepossible.Tumors causing Meigs' syndrome include ovarian fibroma, granulosa cell tumor, Brenner tumor,or thecoma.However, when the causative factor is ovarian secondaries, leiomyoma, and benign ovarian cysts(such as teratoma and mucinous cystadenoma), the condition is called Pseudo Meigs' syndrome.Resolution of ascites and pleural effusion is seen after the removal of the tumor.Management:• Repeated paracentesis for ascites.• Unilateral salpingo-oophorectomy in young patients for preserving fertility808•Total abdominal hysterectomy with bilateral salpingo-oophorectomy (TAH-BSO) inpostmenopausal women.Note: Systemic lupus erythematosus (SLE) patients may also have a combination of ascites,pleural effusion, and elevated serum levels of CA-125. This is known as Tjalma syndrome orpseudo-pseudo Meigs' syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 8,
+      "question": "An elderly woman who was found to have an ovarian mass underwent staging laparotomy.Histopathological examination revealed the presence of Psammoma bodies. What is the mostprobable diagnosis?",
+      "options": {
+        "A": "Serous cystadenocarcinoma",
+        "B": "Mucinous cystadenocarcinoma798",
+        "C": "Embryonal cell carcinoma",
+        "D": "Dermoid tumor"
+      },
+      "correct_answer": "D",
+      "explanation": "Psammoma bodies are a histopathological finding of serous cystadenocarcinoma of the ovary.They are calcified structures seen in areas of cellular degeneration. Their presence does notdenote malignancy.Psammoma bodies are seen in the following conditions:• Papillary carcinoma of the thyroid•Papillary serous carcinoma of the endometrium• Serous cystadenocarcinoma of the ovaryMeningiomaThe image below shows Psammoma body.Psammoma body",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp8_img1_1ce502c5.jpeg",
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 9,
+      "question": "A 49-year-old woman presented with complaints of dull pain over the right lower abdomenfor the past 2 months. CT scan revealed a left-sided multiloculated adnexal mass andexploratory laparotomy showed small mucoid implants scattered in the peritoneal cavity.Which of the following is associated with this condition?",
+      "options": {
+        "A": "Serous cystadenoma",
+        "B": "Mucinous cystadenoma",
+        "C": "Teratoma",
+        "D": "Embryonal cell carcinoma"
+      },
+      "correct_answer": "B",
+      "explanation": "The above clinical scenario and findings point to a diagnosis of pseudomyxoma peritonei. It isassociated with mucinous cystadenoma.Pseudomyxoma peritonei (PMP) is a rare clinical entity characterized by diffuse intra-abdominalgelatinous and mucoid material on peritoneal surfaces. Spontaneous perforation of a mucinous809cystadenoma leads to implantation of low-grade malignant tumor cells in the peritoneum.However, the most common cause of pseudomyxoma peritonei is carcinoma of the appendix.Diagnosis is by CT, MRI, and laparoscopy. Even after the removal of the ovarian tumor, thesecells continue to secrete mucin. Recurrence rates are high.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 10,
+      "question": "A 22-year-old woman at 14 weeks of gestation was rushed to the ER with complaints of severeabdominal pain, nausea, and vomiting. USG showed an edematous right ovary with a largecyst and disruption in adnexal flow on Doppler. Which of the following most commonly leadsto this condition?",
+      "options": {
+        "A": "Dysgerminoma",
+        "B": "Teratoma",
+        "C": "Thecoma",
+        "D": "Theca lutein cyst"
+      },
+      "correct_answer": "B",
+      "explanation": "The above scenario is suggestive of ovarian torsion. Mature cystic teratoma (dermoid cyst) is thecommonest tumor to undergo torsion, especially at the end of the 1st trimester or duringpuerperium.Management includes derotation and cystectomy in pregnancy irrespective of gestational age.This is also done in non-pregnant women of reproductive age to preserve ovarian function.Resection is reserved for patients in whom malignancy is suspected.Dermoid cyst is the most common germ cell tumor. It is also the most common benign tumor ofthe ovary in the reproductive age group and in pregnancy. It is bilateral in 10-15% of cases.Dermoid cyst is derived from all three germ cell layers, but ectodermal derivatives are mostcommon. Rokitansky's protuberance is the most common site for the development of malignancy.It is seen as a projection covered by skin, sebaceous glands, sweat glands, teeth, and bones.Sometimes thyroid tissue can be seen on histopathological examination, known as struma ovarii.The image below shows a dermoid cyst with Rokitansky protuberance.Mature Teratoma - Gross specimenSebaceousmaterialUnilocularcystic spaceHairs810",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp10_img1_883e8c5b.jpeg",
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 11,
+      "question": "Staging laparotomy was performed in a teenage girl who presented with an adnexal mass.Histopathological examination showed the following. What is the diagnosis?799",
+      "options": {
+        "A": "Mucinous cystadenoma",
+        "B": "Krukenberg tumor",
+        "C": "Endodermal sinus tumor",
+        "D": "Dysgerminoma"
+      },
+      "correct_answer": "C",
+      "explanation": "The given histopathological image shows Schiller-Duval bodies. It is suggestive of a yolk sac tumor(endodermal sinus tumor).It is an aggressive malignant germ cell tumor of the ovaries. It occurs in ovaries or testes andsacrococcygeal areas in young children. It is usually unilateral. These tumors are usuallyassociated with raised AFP and alpha 1 antitrypsin.The image below depicts Schiller-Duval bodies. It consists of a central capillary surrounded bytumor cells, present within a cystic space that may be lined by flat to cuboidal tumor cells. 50% ofyolk sac tumors have Schiller-Duval bodies and they are pathognomonic when present.Schiller-Duval bodies811",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q11_img1_5ee892a3.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp11_img1_02611bc7.jpeg",
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 12,
+      "question": "What is the counterpart of seminoma in females?",
+      "options": {
+        "A": "Yolk sac tumor",
+        "B": "Embryonal carcinoma",
+        "C": "Endodermal sinus tumor",
+        "D": "Dysgerminoma"
+      },
+      "correct_answer": "D",
+      "explanation": "The counterpart of seminoma in females is dysgerminoma. It is a germ cell tumor.It usually arises in young women or in children. It is the most common malignant germ cell tumordiagnosed during pregnancy. They account for approximately 1/3rd of all malignant ovarian germcell tumors.Serum lactate dehydrogenase (LDH) and the isoenzymes LDH-1 and LDH-2 may be used inmonitoring individuals or disease recurrence.Treatment involves unilateral salpingo-oophorectomy. It is highly radiosensitive and has a goodprognosis.Dysgerminoma was considered to be the most common malignant germ cell tumor of the ovary.Recent data indicates that in the past few decades, their incidence has reduced considerably.Immature teratomas are now the most common type of malignant germ cell tumor of the ovary.The image below shows the histopathology of a dygerminoma, characterized by uniform cellsresembling primordial germ cells separated by fibrous septa with lymphocytes.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp12_img1_ddcff5cf.jpeg",
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 13,
+      "question": "The most common ovarian tumor in women less than 20 years of age is",
+      "options": {
+        "A": "Epithelial tumor",
+        "B": "Germ cell tumor",
+        "C": "Gonadoblastoma",
+        "D": "Sex-cord stromal tumor800"
+      },
+      "correct_answer": "B",
+      "explanation": "Germ cell tumors are the most common ovarian tumor in women aged less than 20 years.Epithelial tumours are the commonest tumours. It accounts for 80% of all ovarian malignanttumours.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following tumors show raised CA-125 levels?",
+      "options": {
+        "A": "Dysgerminoma",
+        "B": "Endodermal sinus tumor",
+        "C": "Teratoma",
+        "D": "Non-mucinous cystadenocarcinoma"
+      },
+      "correct_answer": "D",
+      "explanation": "Non-mucinous cystadenocarcinoma is an epithelial tumor of the ovary. It has elevated CA- 125levels.812CA-125 value &gt; 35 U/ml is suggestive of epithelial ovarian cancer.Malignant conditions with raised CA 125 levels:•Ovarian epithelial carcinoma (most common cause)• Endometrial cancer••• Pancreatic cancerColon cancer• Breast cancer• Lung cancer• LymphomaBenign conditions with raised CA 125 levels:•Pregnancy• Pelvic inflammatory disease• Endometriosis• Uterine fibroid• Normally elevated in 1% females• Acute peritonitis",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 15,
+      "question": "A young woman with an adnexal mass is diagnosed with dysgerminoma. Which of thefollowing tumor markers are likely to be elevated in her?",
+      "options": {
+        "A": "Alpha feto protein",
+        "B": "Lactate Dehydrogenase",
+        "C": "CEA",
+        "D": "CA-125"
+      },
+      "correct_answer": "B",
+      "explanation": "Lactate dehydrogenase is the tumor marker in dysgerminoma.Dysgerminomas are primitive neoplasms. They are the only germ cell malignancy with asignificant rate of bilateral ovarian involvement (15-20%).It is seen in young women with an average incidence of 20 years of age. It is the most commonmalignant germ cell tumor diagnosed during pregnancy. They account for approximately 1/3rd ofall malignant ovarian germ cell tumors.It secretes placental alkaline phosphatase (PALP), lactate dehydrogenase (LDH), and ẞ-hCG.Serum lactate dehydrogenase (LDH) and the isoenzymes LDH-1 and LDH-2 may be used inmonitoring individuals or disease recurrence.Treatment involves unilateral salpingo-oophorectomy. It is highly radiosensitive and has a goodprognosis.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 16,
+      "question": "A post-menopausal woman is found to have an adnexal mass on evaluation. Above what riskof malignancy index (RMI) score is there a high risk of ovarian malignancy?",
+      "options": {
+        "A": "180",
+        "B": "200",
+        "C": "150",
+        "D": "100"
+      },
+      "correct_answer": "B",
+      "explanation": "Risk of malignancy index (RMI) score of 200 or more indicates a high risk for ovarian cancer in apatient with an adnexal mass.Risk of malignancy index (RMI) = U x M x CA125813• U = Ultrasound score• The ultrasound result is scored 1 point for each of the following characteristics: multilocularcysts, solid areas, metastases, ascites, and bilateral lesions.•• U = 0 (for an ultrasound score of o)• U = 1 (for an ultrasound score of 1)• U = 3 (for an ultrasound score of 2-5).• M = Menopausal status• M= 1 (for pre-menopausal)• M= 3 (for post-menopausal)•CA-125 = Serum CA-125 level (in IU/ml)For any post-menopausal woman with an ovarian cyst of size &gt;1cm, RMI should be calculated.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 17,
+      "question": "Which of the following statements is false regarding Brenner tumor?",
+      "options": {
+        "A": "It resembles fibroma",
+        "B": "It is associated with Meig's syndrome",
+        "C": "Walthard cell rests and coffee bean nuclei are seen",
+        "D": "It is not a malignant tumor801"
+      },
+      "correct_answer": "D",
+      "explanation": "Brenner tumors are usually benign but rarely they can turn malignant.Brenner tumor (transitional cell tumor) is a benign, epithelial, unilateral tumor, resembling afibroma. Histologically, Walthard cell rests and coffee bean nuclei are seen.Brenner tumor represent only 2-3% of all ovarian neoplasms, and &lt;2% of these tumors aremalignant.It is called Meigs' syndrome if the clinical picture is caused by an ovarian fibroma, granulosa celltumor, Brenner tumor, or thecoma.Meig's syndrome is characterized by a triad of:•Benign ovarian tumor• Ascites• Right-sided pleural effusion.Pseudo Meigs' syndrome is when the causative factor is ovarian secondaries, leiomyoma, andbenign ovarian cysts such as teratoma and mucinous cystadenoma.The image given below shows Walthard cell rest.814Walthard cell restThe image given below shows coffee bean nuclei.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp17_img1_44c7b947.jpeg",
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 18,
+      "question": "A 31-year-old woman presenting with 12 weeks of amenorrhea and passage of vesicles pervagina is suspected to have a molar pregnancy. On transvaginal ultrasonography, the leftovary appears as shown below. Which of the statements is not true regarding this condition?LEFTOVARY",
+      "options": {
+        "A": "Regresses spontaneously after removal of molar pregnancy",
+        "B": "It is seen with clomiphene administration",
+        "C": "It is usually bilateral",
+        "D": "Oral contraceptive use is a risk factor100On 1C7EMFF2/63DAY 141 CRI 2"
+      },
+      "correct_answer": "D",
+      "explanation": "The above scenario points to a diagnosis of theca lutein cysts in association with molar pregnancy.Theca lutein cysts are not associated with the use of oral contraceptives.Lutein cysts types:●Granulosa lutein cysts - They occur due to failure of regression of corpus luteum after 14 days ofovulation.• Theca lutein cysts - They are found in association with hydatidiform moles, choriocarcinoma,and gonadotropin (hCG), or clomiphene therapy.815Theca lutein cysts occur due to the hyperstimulation of ovaries as a result of high hCG levels inmolar pregnancies and other conditions. They are usually bilateral.These cysts usually regress spontaneously in a period of 2-4 months following the evacuation of amolar pregnancy.Sometimes they can undergo torsion and cause marked pelvic pain. In suchinstances, laparoscopic untwisting of the cyst has to be done.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q18_img1_ae909d0e.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 19,
+      "question": "A woman noticed premature breast development in her 7-year-old daughter and brought herto the gynecology OPD. USG revealed a right-sided adnexal mass. The patient underwentlaparotomy and the biopsy revealed Call-Exner bodies. Which of the following is trueregarding this condition?",
+      "options": {
+        "A": "Most common malignant tumor of ovary",
+        "B": "Associated with endometrial carcinoma",
+        "C": "It is bilateral",
+        "D": "Inhibin A is elevated more than inhibin B"
+      },
+      "correct_answer": "B",
+      "explanation": "The above clinical scenario points to a diagnosis of granulosa cell tumor. It is associated withcarcinoma endometrium.Granulosa cell tumors cells are estrogen-secreting ovarian tumors. It is seen in 80% of womenover 40 years and 5% of pre-pubertal girls. Precocious puberty is seen due to excess secretion ofestrogen.It is a low-grade malignancy. It is almost always unilateral. Tumor marker inhibin B is frequentlyelevated more than inhibin A. Surgical resection is the treatment of choice.On histopathology, it has characteristic Call-Exner bodies. It appears as a rosette arrangement ofcells around an eosinophilic fluid space, as shown below.Call-Exner bodies - Granulosa cell tumorGlandlike structures resemblingimmature follicles",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp19_img1_4043847f.jpeg",
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 20,
+      "question": "802Which among the following high-risk patients are suitable for prophylactic oophorectomy?",
+      "options": {
+        "A": "Nulliparous aged &gt; 35 years",
+        "B": "History of ovarian cancer in a 2nd-degree relative",
+        "C": "Abnormal ovary in reproductive age group woman",
+        "D": "One ovary removed for benign neoplasm"
+      },
+      "correct_answer": "D",
+      "explanation": "Prophylactic oophorectomy is indicated if one ovary has already been removed for benignneoplasm.Candidates suitable for prophylactic oophorectomy:• Nulliparous aged &gt; 45 years816•Any age with a history of ovarian, endometrial, or colon cancer in a 1st-degree relative• Grossly abnormal ovary in the premenopausal age group• One ovary removed for benign neoplasm••Previous history of breast carcinomaRadiation-induced menopause",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 21,
+      "question": "A 63-year-old woman presented with complaints of pelvic and abdominal pain, andsignificant weight loss. On CT scan, a bilateral ovarian tumor with pelvic lymph node andliver capsule involvement was seen. What stage does this belong to?",
+      "options": {
+        "A": "Stage 4A",
+        "B": "Stage 2B",
+        "C": "Stage 3",
+        "D": "Stage 4B"
+      },
+      "correct_answer": "C",
+      "explanation": "Stage 3 ovarian cancer is a unilateral or bilateral ovarian tumor with pelvic lymph node and/orregional lymph node involvement and liver capsule involvement.Grading of ovarian cancer:•• Grade 1 - well-differentiated cancers have cells that closely resemble normal cells and are lesslikely to spread or recur.• Grade 2 - moderately differentiated cancer cells.• Grade 3 - poorly differentiated cancers show increasing abnormality of appearance compared tonormal cells. They are also more likely to spread and recur.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 22,
+      "question": "A 26-year-old nulliparous woman is diagnosed with early-stage ovarian cancer. Which surgeryshould be done in her case?",
+      "options": {
+        "A": "Unilateral oophorectomy",
+        "B": "Bilateral oophorectomy",
+        "C": "Hysterectomy with bilateral oophorectomy",
+        "D": "Debulking surgery"
+      },
+      "correct_answer": "A",
+      "explanation": "Unilateral oophorectomy is preferred in a young woman who has not completed her family in caseof early-stage disease.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q22_img1_cbe11bf6.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 23,
+      "question": "Which of the following ovarian tumors is the most radiosensitive?",
+      "options": {
+        "A": "Dysgerminoma",
+        "B": "Dermoid cyst",
+        "C": "Serous cystadenoma",
+        "D": "Teratoma803"
+      },
+      "correct_answer": "A",
+      "explanation": "Dysgerminoma is the most radiosensitive ovarian tumor. They are highly susceptibleto radiotherapy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 24,
+      "question": "A 62-year-old post-menopausal woman on HRT presented with abdominal pain for the past 6months. On examination, a non-tender, right adnexal mass was palpable. USG showed a 3×3cm smooth ovarian cyst. What is the next best step in her case?",
+      "options": {
+        "A": "Reassure and advise regular follow up once in 6 months",
+        "B": "Confirmation of USG findings by CT scan",
+        "C": "Exploratory laparotomy for evaluation of cyst",
+        "D": "CA-125 level estimation; if normal, advise regular follow-up"
+      },
+      "correct_answer": "D",
+      "explanation": "CA-125 level measurement is the next best step according to the latest RCOG guidelines forpost-menopausal ovarian cysts.Management includes the following:•Calculation of Risk of Malignancy Index (RMI) = Ux M x Ca-125, where•=·U ultrasound score• M = menopausal status817• Ca 125 = serum levels• Laparotomy/laparoscopy only indicated if size &gt;5 cm or RMI &gt;200.Option B - CT scan is not recommended for initial evaluation. It is done only for furtherevaluation and when RMI &gt; 200.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Ovarian Tumors"
+    },
+    {
+      "q_no": 25,
+      "question": "Examination of a resected specimen of an ovarian mass reveals signet ring cells are seen asshown below. Which of the following conditions is this associated with?",
+      "options": {
+        "A": "Mucinous cystadenoma",
+        "B": "Krukenberg tumor",
+        "C": "Serous cystadenoma",
+        "D": "Yolk sac tumor"
+      },
+      "correct_answer": "B",
+      "explanation": "Signet ring cells are seen in Krukenberg tumor.A Krukenberg tumor is an ovarian malignancy that metastasized from a primary site, mostcommonly from the stomach (70%). Carcinomas of the colon, appendix, and breast (mainlyinvasive lobular carcinoma) are the next most common primary sites.The route of spread may be:• Lymphatic•Hematogenous• TranscoelomicThey are usually bilateral and have a smooth surface with a waxy consistency. They retain theshape of a normal ovary.Given below are the images of the Krukenberg tumor's gross appearance and histologicalappearance with signet ring cells:818819",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q25_img1_07419d42.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp25_img1_7769ff79.jpeg",
+      "chapter_heading": "Ovarian Tumors"
+    }
+  ]
+}

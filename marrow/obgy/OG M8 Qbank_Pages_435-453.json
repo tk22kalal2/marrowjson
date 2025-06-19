@@ -1,0 +1,335 @@
+{
+  "chapter": "Gestational Trophoblastic Diseases",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the chromosome number of a partial hydatidiform mole?",
+      "options": {
+        "A": "46 XX",
+        "B": "45 XY",
+        "C": "69 XY",
+        "D": "69 XXY"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 2,
+      "question": "Which of the following statements is false regarding hydatidiform moles?",
+      "options": {
+        "A": "Complete moles show diffuse trophoblastic hyperplasia",
+        "B": "Fetal tissue is seen in partial mole",
+        "C": "Early USG is sensitive for partial moles",
+        "D": "Complete moles have higher malignant potential"
+      },
+      "correct_answer": "C",
+      "explanation": "Early ultrasonography is not highly sensitive in a patient with partial molar pregnancy. However,USG features like thickened, multicystic placenta along with fetal tissue or even a fetus may beseen.Hydatidiform mole or molar pregnancy is an abnormal condition of the placenta. It ischaracterized by trophoblastic proliferation and stromal edema. They are classified into completeand partial moles based on the absence or presence of embryonic elements.Pathogenesis of complete and partial moles are as follows:Complete mole23XEmpty ovumChromosomeDuplication46XX23X or YIARRO23X or YDispermyEmpty ovumHomozygouscomplete mole46XX46XYOMARROWHeterozygouscomplete mole44323X or YPartial mole69XXX23X69XXY23X or YDispermyOvumOMARROW69XYY RareTriploid partialmole",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp2_img1_3b33344c.jpeg",
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not associated with the development of a hydatidiform mole?",
+      "options": {
+        "A": "Maternal age &gt;40 years",
+        "B": "Previous history of GTD",
+        "C": "AB blood group",
+        "D": "Vitamin C deficiency"
+      },
+      "correct_answer": "D",
+      "explanation": "Vitamin A deficiency, not Vitamin C deficiency is a risk factor for hydatidiform mole.Risk factors for hydatidiform mole are:• Maternal age - pregnancy in teenage and women &gt;35 years• Previous history of gestational trophoblastic disease• Dietary deficiency - vitamin A deficiency, inadequate protein and animal fat intake•AB blood group.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 4,
+      "question": "A 20-year-old primigravida with bleeding PV was diagnosed to have a complete hydatidiformmole. Which of the following is not true in this condition?",
+      "options": {
+        "A": "Serum ẞ-hCG levels are highly elevated",
+        "B": "Urine pregnancy test is negative435",
+        "C": "Theca lutein cysts are rare",
+        "D": "Serum free T4 levels normalise after uterine evacuation"
+      },
+      "correct_answer": "C",
+      "explanation": "Theca lutein cysts are rare in partial molar pregnancy, but may be seen in 25-30% of patients withcomplete molar pregnancy.Serum ẞ-hCG levels are elevated more than expected for gestational age in a complete mole.The sensitivity of most hCG tests is set to the pregnancy hCG range. An excessive ẞ-hCG hormonecauses an oversaturation of the test assay giving a false negative UPT. This is called the hookeffect.The thyrotropin-like effects of hCG frequently cause serum free-T4 levels to be elevated whichnormalize after uterine evacuation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 5,
+      "question": "A pregnant woman at 12 weeks of gestation presents with spotting PV, hyperemesis, andlower abdominal pain for the past 2 days. USG done is shown below. What is the mostprobable diagnosis?",
+      "options": {
+        "A": "Missed abortion",
+        "B": "Complete mole",
+        "C": "Partial mole",
+        "D": "ChoriocarcinomaDUGA"
+      },
+      "correct_answer": "B",
+      "explanation": "444The given clinical scenario and USG showing snowstorm appearance is suggestive of a completemole.The snowstorm appearance is due to an echogenic uterine mass that has numerous anechoiccystic spaces. Fetus and amniotic sac are absent.Investigations for molar pregnancy are:•USG shows snowstorm appearance⚫ Serum ẞ hCG - elevated to &gt;2 MoM (multiples of median) for corresponding gestational age•Histological examination of products of conceptionSnowstorms in radiology:•Complete hydatiform mole (ultrasound)• Extracapsular breast implant rupture (ultrasound)•Carcinoma thyroid - pulmonary metastases (chest X-ray).",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q5_img1_9c0dbffa.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 6,
+      "question": "A primigravida at 12 weeks of gestation presented with complaints of the expulsion ofgrape-like vesicles PV for the past day. A diagnosis of molar pregnancy was made on USGexamination. Incidentally, the following adnexal lesion was also noted. What is the lesion?436100On 1C77MFF2/63LEFTOVARYSAE & CRI",
+      "options": {
+        "A": "Mucinous cystadenoma",
+        "B": "Multilocular endometrial cysts",
+        "C": "Theca lutein cyst",
+        "D": "Polycystic ovarian disease"
+      },
+      "correct_answer": "",
+      "explanation": "The given USG image shows theca lutein cysts in the ovary. These cysts are usually seen inpatients with complete molar pregnancies. They are usually bilateral and are also seen in multiplepregnancies.Theca lutein cysts result from the overstimulation of lutein elements by massive amounts of ẞhCG. The cystic fluid is rich in chorionic gonadotropin, estrogen, and progesterone.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q6_img1_11c48b2c.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 7,
+      "question": "A patient who was treated for molar pregnancy came for follow-up after 4 months. Her USGrevealed a large, twisted theca lutein cyst. How will you manage this patient?",
+      "options": {
+        "A": "Untwisting of the cyst",
+        "B": "Laparoscopic oophorectomy",
+        "C": "Wait and watch",
+        "D": "Transabdominal aspiration under USG guidance"
+      },
+      "correct_answer": "",
+      "explanation": "Untwisting of the cyst is the only management in an asymptomatic patient with a twisted thecalutein cyst.Laparoscopic oophorectomy is done only when there is associated extensive necrosis orhemorrhage.Theca-lutein cysts regress within 2 months after pregnancy evacuation, and hence expectantmanagement is preferred in uncomplicated cases. If the cysts are symptomatic, they can beaspirated trans-abdominally under ultrasound guidance.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 8,
+      "question": "A pregnant woman at 14 weeks of gestation complains of excessive vomiting and mild vaginalbleeding for 2 weeks. On examination, fundal height corresponds to 16 weeks and fetal heartsounds are absent. USG shows a snowstorm appearance and no fetus. What is the best step ofmanagement?",
+      "options": {
+        "A": "Chemotherapy",
+        "B": "Hysterectomy",
+        "C": "Suction and evacuation437",
+        "D": "Serum beta hCG"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of molar pregnancy which is managed by suction andevacuation, regardless of uterine size.If the cervix is unfavorable, slow dilatation is done with vaginal PGE1. Volume resuscitation withIV fluids and parenteral antibiotics can be given as supportive therapy. Blood transfusion is done445if the patient is anaemic.Intraoperative sonography is recommended to help ensure that the uterine cavity has beenemptied.Indication for hysterectomy in molar pregnancy:• Women who have completed their family• Age &gt;40 years• Uncontrolled hemorrhage• Perforation during surgical evacuation.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 9,
+      "question": "A 36-year-old woman underwent suction evacuation for a hydatidiform mole. Which of thefollowing statements is true regarding her follow-up with ẞ-hCG estimation?",
+      "options": {
+        "A": "Start estimation 72 hours following evacuation",
+        "B": "Twice weekly estimation for a month following evacuation",
+        "C": "Monthly follow-up for 6 months after three consecutive normal values",
+        "D": "After 6 months of follow-up, regular yearly estimation should be done"
+      },
+      "correct_answer": "",
+      "explanation": "In the given scenario, the patient is followed up with serum ẞ hCG every month for 6 months.Follow-up after the termination of molar pregnancy is done with serum ẞ hCG levels. During thefollow-up period, pregnancy must be avoided as it might interfere with the ẞ hCG levels.The initial ẞ-hCG level is obtained within 48 hours after evacuation and used as a baseline.It is measured weekly till it becomes negative, and three consecutive normal values are obtained.This normally happens in 4-8 weeks.After this, ẞ hCG levels are measured monthly for 6 months. Women who undergo chemotherapymust be followed up for 1 year.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following are complications that can be seen in a patient with molar pregnancy?",
+      "options": {
+        "A": "1, 2, and 5",
+        "B": "1, 2, 3 and 52, 3 and 4",
+        "C": "2,",
+        "D": "1, 3, 4 and 5"
+      },
+      "correct_answer": "A",
+      "explanation": "Thyrotoxicosis is seen as a complication of molar pregnancy, not hypothyroidism.Complications in molar pregnancy include:• Immediate:•Early-onset pre-eclampsia - molar placentas produce more antiangiogenic proteins than normalplacentas.•Thyrotoxicosis as ° component of hCG mimics TSH and causes thyroid storm-• Acute pulmonary insufficiency - due to embolization of trophoblastic cells•Electrolyte imbalance i.e., hypokalemia, hyponatremia - due to hyperemesis caused by ẞ hCG• Shock - hemorrhage due to the separation of vesicles and intra-peritoneal haemorrhage• Disseminated intravascular coagulation• Late: Choriocarcinoma.446",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 11,
+      "question": "Gestational trophoblastic neoplasm does not include",
+      "options": {
+        "A": "Partial mole",
+        "B": "Choriocarcinoma",
+        "C": "Placental site trophoblastic tumor",
+        "D": "Invasive mole"
+      },
+      "correct_answer": "",
+      "explanation": "A partial mole is not a gestational trophoblastic neoplasm (GTN).Gestational trophoblastic disease (GTD) is the term used to describe a group of tumors due toabnormal trophoblast proliferation. Malignant forms of GTD are termed gestational trophoblasticneoplasia (GTN).Modified WHO Classification of GTDMolar PregnanciesHydatidiform mole (benign) -PartialandComplete Invasivemole (malignant)Trophoblastic tumorsChoriocarcinoma (malignant)Placental site trophoblastic tumor (malignant) Epithelioidtrophoblastic tumor (malignant)",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp11_img1_b63e4952.jpeg",
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 12,
+      "question": "All of the following are non-molar trophoblastic neoplasms except",
+      "options": {
+        "A": "Choriocarcinoma",
+        "B": "Placental site trophoblastic tumor",
+        "C": "Invasive mole438",
+        "D": "Epithelioid trophoblastic tumor"
+      },
+      "correct_answer": "",
+      "explanation": "Invasive mole is a molar trophoblastic neoplasm.Classification ofGestational Trophoblastic DiseasesGestational Trophoblastic DiseasesHydatidiformmoleVilli presentPRONon-molartrophoblasticneoplasmsVilli absentBenign- Complete mole- Partial moleMalignant- Invasive moleMalignant- Choriocarcinoma- Placental sitetrophoblastictumour- EpithelioidtrophoblastictumourOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp12_img1_b4f579fa.jpeg",
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 13,
+      "question": "What is the most common non-metastatic gestational trophoblastic neoplasia that developsfollowing hydatidiform mole?",
+      "options": {
+        "A": "Choriocarcinoma",
+        "B": "Placental site trophoblastic tumour",
+        "C": "Chorioadenoma destruens",
+        "D": "Epithelioid trophoblastic tumour"
+      },
+      "correct_answer": "",
+      "explanation": "Chorioadenoma destruens or invasive mole is the most common non-metastatic GTN that followshydatidiform moles. Almost all invasive moles arise from partial or complete moles.Invasive mole is characterized by extensive tissue invasion by trophoblast and whole villi. Theycan penetrate deep into the myometrium, peritoneum, parametrium, or vaginal vault. They arelocally aggressive and do not usually metastasize.447The most common GTN following term pregnancy or miscarriage is choriocarcinoma.Classification ofGestational Trophoblastic DiseasesGestational Trophoblastic DiseasesHydatidiformmoleARROVilli presentNon-molartrophoblasticneoplasmsVilli absentBenign- Complete mole- Partial moleMalignant- Invasive moleMalignant- Choriocarcinoma- Placental sitetrophoblastictumour⚫ EpithelioidtrophoblasticOMARROWtumour",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp13_img1_5a34b309.jpeg",
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 14,
+      "question": "Which of the following are risk factors for malignant change in a patient with molarpregnancy?",
+      "options": {
+        "A": "1, 2, 5",
+        "B": "2, 3, 4",
+        "C": "1, 2,4",
+        "D": "1, 3, 4"
+      },
+      "correct_answer": "",
+      "explanation": "Maternal age &gt;40 years, ẞ-hCG levels &gt;100,000 mIU/mL and grand multiparity are riskfactors for malignant change in a patient with molar pregnancy.Risk factors for malignant change are:• Patient's age ≥ 40 years or &lt;20 years•Parity ≥3• Uterine size &gt;20 weeks• Previous history of molar pregnancy•Complete moles have 15-20% risk of malignant transformation, partial moles have 1-5% risk• Serum ẞ hCG &gt;1,00,000 mIU/mL• Large theca lutein cysts &gt;6 cm in diameterPost-evacuation uterine sonographic surveillance can be used as a predictor of subsequentneoplasia. Findings indicative of malignant transformation are:••Suburethral nodulesMyometrial nodules• Hypervascularity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 15,
+      "question": "All of the following can be indicators of choriocarcinoma except:",
+      "options": {
+        "A": "Increased number of theca lutein cysts",
+        "B": "Persistently enlarged uterus",
+        "C": "Plateau of high serum hCG",
+        "D": "Suburethral nodule"
+      },
+      "correct_answer": "",
+      "explanation": "448Increased number of theca lutein cysts is not an indicator of choriocarcinoma. Increasedsize or persistence of theca lutein cysts indicates choriocarcinoma.Plateau of high serum ẞ-hCG level for four measurements for ≥3 weeks is an indicatorof choriocarcinoma.Risk factors for malignant change are:• Molar pregnancy - complete moles have 15-20% risk, partial moles have 1-5% risk• Patient's age ≥ 40 years or &lt;20 years•Parity ≥3•Serum ẞ hCG &gt;1,00,000 IU/mL•Uterine size &gt;20 weeks• Previous history of molar pregnancy• Large theca lutein cysts &gt;6 cm in diameterPost-evacuation uterine sonographic surveillance can be used as a predictor of subsequentneoplasia. Findings indicative of malignant transformation are:• Suburethral nodules•Myometrial nodules• Hypervascularity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 16,
+      "question": "A patient with a history of molar pregnancy was treated with suction and evacuation. Whichmethod of contraception would you not recommend for her?",
+      "options": {
+        "A": "Barrier methods",
+        "B": "Intrauterine contraceptive device439",
+        "C": "Oral contraceptive pills",
+        "D": "Depot medroxyprogesterone acetate"
+      },
+      "correct_answer": "B",
+      "explanation": "IUCD (intrauterine contraceptive device) is contraindicated in this patient as the uterus is friableand can cause further bleeding.Accepted methods of contraception after suction evacuation in molar pregnancy include:• Oral contraceptive pills• Depot medroxyprogesterone acetate• Barrier methods.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 17,
+      "question": "What will be the WHO score in a patient with low-risk gestational trophoblastic neoplasia?",
+      "options": {
+        "A": "0-3",
+        "B": "0-5",
+        "C": "0-6",
+        "D": "0-7"
+      },
+      "correct_answer": "",
+      "explanation": "Low-risk GTN has a WHO score of o to 6. High-risk GTN has a WHO score of ≥ 7.FeaturesTotal scoreAgehCGLow risk0-6≤39 years≤105IU/LHigh risk≥7≥40 years≥105IU/L449FeaturesType of antecedent pregnancyDuration of antecedent pregnancyMetastasis siteLow riskMolar pregnancy<4 monthsHigh riskFull term pregnancy>12 monthsLungs, vaginaBrain, liverNumber of metastases<4>8Size of the tumorAntecedent chemotherapy<3 cm>5 cmSingle-agent chemotheraMultiple-agent chemotherapypy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 18,
+      "question": "A patient was diagnosed to have choriocarcinoma two years post-evacuation of molarpregnancy. Which of the following is the most common site of metastasis in this patient?",
+      "options": {
+        "A": "Vagina",
+        "B": "Kidney",
+        "C": "Liver",
+        "D": "Ovaries"
+      },
+      "correct_answer": "A",
+      "explanation": "The common sites of metastases of choriocarcinoma are in the following order:• Lungs - most common• Vagina second most common-•• Vulva• Kidneys• Liver• Ovaries• Brain• BowelLung metastases present as cannon-ball or snowstorm appearance on chest X-ray. Vaginalmetastases present as purplish sub-urethral nodules.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 19,
+      "question": "A case of gestational trophoblastic neoplasm is detected to have metastasis in the lungs. It isconsidered as stage",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "correct_answer": "",
+      "explanation": "Metastases in the lungs are considered stage III GTN (gestational trophoblastic neoplasia) inFIGO classification.International Federation of Gynecology and Obstetrics (FIGO) staging for GTN is as follows:The chest X-ray below shows lung metastasis - stage III GTN.StagDescriptionIGTN confined to theuterus450StagDescriptionIIIIIIVGTN extends outside of the uterus but is limited to thegenitalstructures(adnexa, vagina,broad ligament)GTN extends to thelungs, with or without known genital tract involvementAllothermetastatic sites i.e. kidney, liver, brain, bowel, etc.Gestational trophoblastic neoplasia (GTN) refers to the aggressive invasion of the endometriumand myometrium by trophoblast cells. It includes invasive mole, gestational choriocarcinoma,placental site trophoblastic tumors, and epithelioid trophoblastic tumors. GTN is diagnosed basedon elevated ẞ-hCG levels. FIGO criteria for diagnosis of GTN:• Persistence of ẞ-hCG level plateau in 4 measurements for 3 weeks or longer• Rise in ẞ-hCG levels in 3 or more consecutive measurements done weekly, over a period of 2weeks or longer• Elevated ẞ-hCG level for 6 months or more• Histologic diagnosis of choriocarcinomaTreatment for low-risk disease is chemotherapy with methotrexate, while those with high-riskdisease are treated with etoposide, methotrexate, and dactinomycin alternating withcyclophosphamide and vincristine (EMA/CO) chemotherapy.451FIGO staging of gestationaltrophoblastic neoplasiaRRStage 1:Confined to the uterusStage II:Extends outside the uterusbut limited to genital structuresRRStage III:Extends to the lungs.with or withoutgenital tract involvementStage IV:All other metastatic sites©MARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp19_img1_9cebbccd.jpeg",
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 20,
+      "question": "A 43-year-old woman presents with complaints of hemoptysis, vaginal bleeding, andabdominal pain for 7 days. Chest X-ray is shown below. Transabdominal USG revealed a solidmass occupying the uterus which was found to be choriocarcinoma with a WHO score of 8.440How would you manage this patient?",
+      "options": {
+        "A": "Hysterectomy",
+        "B": "R-CHOP",
+        "C": "EMA-CO",
+        "D": "MVAC"
+      },
+      "correct_answer": "",
+      "explanation": "The given clinical scenario is suggestive of high-risk (WHO) stage III choriocarcinoma which istreated with EMA-CO regimen. The given X-ray shows numerous, dense, bilateral metastaticnodules, of varying sizes indicative of lung metastases.The components of EMA-CO are:• Etoposide• Methotrexate•Actinomycin D• Cyclophosphamide•Oncovin i.e. vincristineOption A: PSTT (placental-site trophoblastic tumor) and ETT (epithelioid trophoblastic tumors)are treated by hysterectomy only, as they are resistant to chemotherapy.Option B: R-CHOP regimen is used for B-cell non-Hodgkin's lymphoma.Option D: MVAC regimen is used for advanced bladder carcinoma.RiskCriteriaLowHighFIGO stage I GTNFIGO Stage II or III GTN with a WHO risk score<6Stages II and III with WHO risk score>>Stage IV diseaseTreatmentSingle agent chemotherapy with Methotrextate or Actinomycin D.EMA-CO regimen452",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q20_img1_2992d518.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 21,
+      "question": "Placental-site trophoblastic tumor arises from",
+      "options": {
+        "A": "Cytotrophoblast",
+        "B": "Syncytiotrophoblast",
+        "C": "Intermediate trophoblast",
+        "D": "Chorionic villi"
+      },
+      "correct_answer": "C",
+      "explanation": "Placental-site trophoblastic tumor arises from implantation site intermediate trophoblast. Assyncytiotrophoblastic cells are generally absent in this site, it is composed mainlyof cytotrophoblastic cells.Patients with placental site trophoblastic tumors present with vaginal bleeding and modestlyelevated serum ẞ-hCG levels. Local invasion into the myometrium and lymphatics occurs.Hysterectomy is the preferred treatment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    },
+    {
+      "q_no": 22,
+      "question": "A 26-year-old woman with a history of early miscarriage presented with amenorrhoea. Herserum beta hCG levels were persistently low and USG revealed a single solid mass in theuterine fundus. Histopathological examination of the biopsy showed abundant intermediatetrophoblastic cells. What is the next step of management?",
+      "options": {
+        "A": "Methotrexate",
+        "B": "Actinomycin D441",
+        "C": "EMA-CO regimen",
+        "D": "Hysterectomy"
+      },
+      "correct_answer": "D",
+      "explanation": "The given clinical scenario is suggestive of placental-site trophoblastic tumor (PSTT).Hysterectomy is the treatment of choice because they are locally invasive tumors and resistant tochemotherapy.PSTT is a rare tumor arising from intermediate trophoblastic of the placental bed. Patients withplacental site trophoblastic tumors present with vaginal bleeding and modestly elevated serumB-hCG levels. They produce variant forms of hCG.453",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Gestational Trophoblastic Diseases"
+    }
+  ]
+}

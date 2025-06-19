@@ -1,0 +1,320 @@
+{
+  "chapter": "Diagnosis of Pregnancy and Antenatal Care",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "What is the duration of the 4th trimester in pregnancy?",
+      "options": {
+        "A": "6 weeks postpartum",
+        "B": "12 weeks postpartum",
+        "C": "4 weeks postpartum",
+        "D": "38 to 40 weeks of pregnancy"
+      },
+      "correct_answer": "A",
+      "explanation": "The 4th trimester refers to the postpartum period, which is generally considered to be the first 6 weeks after childbirth.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 2,
+      "question": "What is the ideal number of antenatal visits?",
+      "options": {
+        "A": "12-14",
+        "B": "6-8",
+        "C": "7-9",
+        "D": "10-11"
+      },
+      "correct_answer": "A",
+      "explanation": "The ideal number of antenatal visits is 12-14. The antenatal visits should ideally be: monthly once up to 28 weeks, once in two weeks between 28-36 weeks, and once weekly visits from 36 weeks onwards. This translates to a total of 12-15 visits. The WHO increased the minimum number of antenatal visits from 4 to 8 visits to reduce perinatal mortality. In the Indian scenario, the earlier minimum of 4 visits were implemented as follows: 1st visit: within 12 weeks (preferably as soon as pregnancy is suspected); 2nd visit: between 14-26 weeks; 3rd visit: between 28-34 weeks; 4th visit: between 36 weeks and term. A booked case is one that has at least 3 antenatal visits with two visits in the third trimester.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following statements is not true about parity?",
+      "options": {
+        "A": "Parity refers to the number of previous pregnancies reaching viability",
+        "B": "If a woman has twins, the parity remains one",
+        "C": "If a woman has a stillborn child, her parity decreases",
+        "D": "Multipara is a woman who has completed 2 or more pregnancies past the period of viability"
+      },
+      "correct_answer": "C",
+      "explanation": "If a female has a stillbirth, her parity does not decrease. Parity is determined by the number of previous pregnancies reaching a period of viability, which is 28 weeks in India. Multifetal pregnancies, such as twins or triplets, count as one for the purpose of this notation. The current pregnancy is not included in this count. Multipara refers to a woman who has completed two or more pregnancies past the period of viability. When the pregnancy is preceded by five or more previous viable pregnancies, the woman is called a grand multipara. Note: Gravida indicates the number of times the mother has been pregnant, regardless of whether these pregnancies were carried to term. The current pregnancy is included in this count.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 4,
+      "question": "A 30-year-old woman came to the OPD with a twin pregnancy at 10 weeks of gestation. She has a 3-year-old female child who was born at term and had 2 first trimester abortions previously. Which of the following is the correct representation of her obstetric score.",
+      "options": {
+        "A": "G4 P2 L1 A2",
+        "B": "G4 P1 A2 L1",
+        "C": "G5 P0 L1 A2",
+        "D": "G5 P1 A2 L1"
+      },
+      "correct_answer": "B",
+      "explanation": "The obstetric score is G4 P1 A2 L1. The obstetric score is used to summarize the past obstetric history as follows: • G - Gravidity, denoting the total number of pregnancies, including the present one. • P - Parity, denoting the total number of pregnancies crossing the period of viability. This includes both live births and stillbirths. The current pregnancy is not included. • A - Abortus or the number of pregnancies that were lost for any reason, including induced abortions or miscarriages. • L - Living children. Multifetal pregnancies count as one for both gravida and para. A pregnant woman who delivers twins will be expressed as primipara. The GTPAL system includes the following: • Gravida, • Term (>37 weeks), • Preterm (20w-36w 6d), • Abortions (<20 weeks), and • Number of living children. Note: The period of viability is when the fetus is capable of independent existence. The WHO defines it to be 24 weeks, while the Indian definition is 28 weeks.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 5,
+      "question": "A lady who is 38 weeks pregnant comes to the OPD for a routine checkup. She has a history of normal twin delivery at term 4 years ago. What is her gravida and para score?",
+      "options": {
+        "A": "G2P2",
+        "B": "G2P1",
+        "C": "G3P2",
+        "D": "G3P1"
+      },
+      "correct_answer": "B",
+      "explanation": "The woman has had two pregnancies in total - the previous twin pregnancy and the current pregnancy, hence the gravida score is 2. The first pregnancy resulted in delivery at term (crossed viable period), hence her para score is 1 (parity doesn't include current pregnancy). Hence, her obstetric score would be G2P1 (Gravida - 2, Para 1). Multifetal pregnancies count as one for both gravida and para. A pregnant woman who delivers twins for the first time is expressed as primipara. The obstetric score is used to summarize the past obstetric history as follows: • G- Gravidity, denoting the total number of pregnancies, including the present one • P - Parity, denoting the total number of pregnancies crossing the period of viability. This includes both live births and stillbirths. The current pregnancy is not included. • A - Abortion is the termination of pregnancy, either spontaneous or induced, before fetal viability. • L - Living children. The GTPAL system includes the following: • Gravida • Term (>37 weeks) • Preterm (20w-36w 6d) • Abortions (<20 weeks) • Number of living children. Note: The period of viability is when the fetus is capable of independent existence. The WHO defines it to be 24 weeks while the Indian definition is 28 weeks.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 6,
+      "question": "A woman whose obstetric score is G2 P1 L1 had an LMP of January 9th, 2017. Calculate the EDD according to Naegele's rule.",
+      "options": {
+        "A": "September 16",
+        "B": "October 16",
+        "C": "October 19",
+        "D": "September 19"
+      },
+      "correct_answer": "C",
+      "explanation": "As per Naegele's rule, the EDD (expected date of delivery) of this woman is October 16, 2017. Naegele's rule states that EDD is obtained by adding 7 days and subtracting 3 months from the LMP (the 1st day of the last menstrual period). Another method is adding 9 months and 7 days to LMP. Less than 5% of births follow Naegele's rule. It is based on a 28-day regular cycle. If the cycle is shorter or longer than 28 days, the corrected EDD is calculated as follows: • For a 35-day cycle, add another 7 (35-28=7) days to the calculated EDD to get the corrected EDD. • For a 25-day cycle, subtract 3 (28-25=3) days from the calculated EDD to get the corrected EDD. Naegele's rule cannot be followed in IVF pregnancies. Considering the human embryo takes 266 days to develop, EDD is calculated in IVF pregnancies by the following method: • Same day as fertilization (day 0): EDD = date of transfer + 266 days • 3 days after fertilization (day 3): EDD = date of transfer + 263 days • 5 days after fertilization (day 5): EDD = date of transfer + 261 days",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 7,
+      "question": "The recommended calorie intake for a pregnant woman in the second trimester, who is a sedentary worker, would increase by",
+      "options": {
+        "A": "600 kcal/day",
+        "B": "520 kcal/day",
+        "C": "450 kcal/day",
+        "D": "350 kcal/day"
+      },
+      "correct_answer": "D",
+      "explanation": "The recommended calorie intake for a pregnant woman in the second trimester would increase by 350 kcal/day.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 8,
+      "question": "A pregnant lady of 49 kg is in her first trimester. What are her additional calorie requirements in this trimester?",
+      "options": {
+        "A": "500",
+        "B": "300",
+        "C": "Continue same diet",
+        "D": "600"
+      },
+      "correct_answer": "B",
+      "explanation": "The pregnant lady can continue the same diet since there are no additional calorie requirements in the first trimester. Pregnancy requires an additional 80,000 kcal, mostly during the last 20 weeks. To meet this demand, a caloric increase of 100 to 300 kcal/d is recommended during pregnancy. This greater intake, however, should not be divided equally during the course of pregnancy. The Institute of Medicine (2006) recommends adding 0, 340, and 452 kcal/d to the estimated nonpregnant energy requirements in the first, second, and third trimesters respectively. Whenever caloric intake is inadequate, protein is metabolized rather than being spared for its vital role in fetal growth and development.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 9,
+      "question": "A 22-year-old pregnant woman at 13 weeks of gestation informs you about accidental exposure to radiation from a chest X-ray at 7 weeks of gestation. What should be the next step advised to her?",
+      "options": {
+        "A": "Continue pregnancy",
+        "B": "Terminate pregnancy",
+        "C": "Pre-invasive diagnostic test",
+        "D": "Chromosome screening"
+      },
+      "correct_answer": "A",
+      "explanation": "In the given clinical case, the patient should be advised to continue the pregnancy. The radiation dose to the fetus during the declared term of pregnancy should be less than 1 mSv. In a chest X-ray PA view, the absorbed dose of radiation by the fetus is less than 0.1 mSv. Hence, pregnancy can be continued. An X-ray has a very limited role in obstetric imaging. There are very few indications where an X-ray will be useful: \n   • Fetal: congenital malformation of the fetus and neonates, skeletal malformations, birth injuries like fractures or dislocations.\n   • Maternal: Patients having cardiopulmonary disease may require an X-ray chest during pregnancy and that should be done beyond 12 weeks.\n   Radiation can cause fetal morbidity (FGR, genetic mutations, neurologic abnormalities, mental retardation, childhood leukemia) and mortality. The risks are high with radiation after the first 2 weeks postconception and within the first trimester (period of organogenesis).\n   Radiation during pregnancy can damage the early phase of the embryo but the risk can be minimized by using the '10-day rule'. This rule states that no woman should be exposed to an X-ray for a non-urgent indication outside 10 days from her last period during the reproductive period unless the pregnancy is excluded.\n   The given table below shows the absorbed radiation by the fetus in different diagnostic radiation procedures:\n   1 cGy = 10 mSv\n   1. Procedure    Abdominal X-ray    Dose (cGy)    0.1-0.3\n   2. Pelvic X-ray    0.5-1.1\n   3. Chest X-ray    <0.001\n   4. Abdominal CT    0.4-0.8\n   5. Chest CT    0.002-0.02\n   6. Abdominopelvic CT    2.5-3.5\n   7. Ventilation scan    0.007-0.05\n   8. PET scan    1-1.5",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 10,
+      "question": "You notice an obstetrics resident performing the following manoeuvres on a 37-weekprimigravida. Choose the correctly matched set.",
+      "options": {
+        "A": "1-a, 2-c, 3-b, 4-d",
+        "B": "1-a, 2-b, 3-c, 4-d",
+        "C": "1-b, 2-a, 3-d, 4-cFig 1aFig. 2.Fig. 4.bFig 3.Taf lla129",
+        "D": "1-c, 2-b, 3-a, 4-d"
+      },
+      "correct_answer": "B",
+      "explanation": "Fetal pole, lie, presenting part, engagement, and attitude of fetal head are assessed by Leopold'smanoeuvres:• Fundal grip (first Leopold):•• Assesses the uterine fundus.• Helps in identification of fetal lie and determination of fetal pole at the fundus.•The breech gives the sensation of a large, irregular mass.• The head feels hard and round and is more mobile.•• Lateral grip (second Leopold):• Assesses the fetal orientation.• The palms are placed on either side of the maternal abdomen, and gentle but deep pressure isexerted.• The back is felt on one side as a hard, resistant structure.• The fetal extremities are felt on the other side as numerous small, irregular, mobile parts arefelt.•• Fetal orientation can be determined by noting whether the back is directed anteriorly,transversely, or posteriorly.•The position of the anterior shoulder is mainly assessed by this grip.•Pawlik's grip / 1st pelvic grip (third Leopold):•• Assesses the presenting part in respect to the true pelvis.•The thumb and fingers of one hand grasp the lower portion of the maternal abdomen just abovethe symphysis pubis.138• If the presenting part is not engaged, a movable mass will be felt, usually the head.•• Deep pelvic grip / 2nd pelvic grip (fourth Leopold):• Assesses the engagement, attitude of the fetal head and determine the degree of descent.•The examiner faces the mother's feet, and the fingertips of both hands are positioned on eitherside of the presenting part.•.They exert inward pressure and then slide along the axis of the pelvic inlet.• If the head has already descended into the pelvis, the anterior shoulder or the space created bythe neck may be differentiated readily from the head.•It is the only grip performed facing the feet.1Fun",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q10_img1_e12f44ef.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp10_img1_550ac528.jpeg",
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 11,
+      "question": "A dusky hue of the vestibule and anterior vaginal wall visible at about 8 weeks of pregnancy is called",
+      "options": {
+        "A": "Hegar's sign",
+        "B": "Chadwick's sign",
+        "C": "Osiander's sign",
+        "D": "Palmer's sign"
+      },
+      "correct_answer": "B",
+      "explanation": "A dusky hue of the vestibule and anterior vaginal wall visible at about the 8th week of pregnancy is called Chadwick's sign or Jacquemier's sign. The discoloration is due to local vascular congestion.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 12,
+      "question": "A primigravida comes for a routine ANC visit at 22 weeks of gestation. Which of the followingsigns would you not expect?",
+      "options": {
+        "A": "Chloasma",
+        "B": "Quickening",
+        "C": "Lightening",
+        "D": "Braxton Hick's contraction"
+      },
+      "correct_answer": "C",
+      "explanation": "Lightening is felt in the 3rd trimester (38th week) in a primigravida. It is a sense of relief from thepressure symptoms due to engagement of the presenting part.The 2nd trimester of pregnancy is characterised by the following:SignChloasmaFeatureSeen atPigmentation over forehead and cheeks24 weeks139SignBreast changesUterine changes- size and Braxton Hick contractionsPalpation of fetal parts and active fetal movementsBallotment of uterusAuscultation of fetal heart soundsQuickeningFeatureAppearance of secondary areola.Irregular, infrequent spasmodic and painless contractionswithout any effect on dilatation of cervix.Feeling of floating object inside uterus on bimanual examination. Not exclusive to pregancyMostconclusivesign of pregnaSeen at20 weeksBegin in early pregnancy andcontinue till term20 weeks16 to 20 weeksncyFeeling of life inside womb18 to 20 weeks by stethoscope and 10 weeks by doppler16 to 20 weeks",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 13,
+      "question": "Which of the following statements is not true regarding uterine souffle?",
+      "options": {
+        "A": "It is a soft blowing systolic murmur heard on the sides of pregnant uterus",
+        "B": "The sound is synchronous with the maternal pulse",
+        "C": "It is due to increased blood flow through the umbilical arteries",
+        "D": "It can also be heard in a large fibroid"
+      },
+      "correct_answer": "C",
+      "explanation": "Uterine souffle is due to an increase in blood flow through the dilated uterine vessels, notumbilical vessels.It is a soft blowing systolic murmur heard low down at the sides of the uterus, better heard on theleft side.Uterine SouffleSoft, blowing sound.Synchronous withmaternal pulseCaused by the passage of blood through dilateduterine vesselsFetal/Funic SouffleSharp, whistling soundSynchronous withfetal pulse.Caused by the rush of blood through theumbilical arteriesIt can also be heard in a large When present it isdiagnosticuterine fibroidof pregnancy",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 14,
+      "question": "A 32-year-old woman nearing her due date was admitted following regular contractions. Younote that the head is at +1 station. Where is the exact position of the head?",
+      "options": {
+        "A": "At the perineum",
+        "B": "Just below ischial spine130",
+        "C": "Just above ischial spine",
+        "D": "High up in the false pelvis"
+      },
+      "correct_answer": "B",
+      "explanation": "+1 station of the fetal head refers to it being just below the ischial spine.The station of the head is expressed in relation to ischial spines as they are the most prominentbony projections felt on internal examination. The level of ischial spines is halfway between thepelvic inlet and outlet. This level is known as station zero (0).140The station is stated in minus figures if it is above the spines (-1 cm, -2 cm, -3 cm, -4 cm and −5cm) and in plus figures if it is below the spines (+1 cm, +2 cm, +3 cm, +4 cm and +5 cm).IliaccrestStation of the head is in relation toischial spines-5-4Floating-3Ischial spine-0-2-1Engaged+1Ischial tuberosity+5-+2+3+4cmCrowningPerineumOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp14_img1_bce7d4f6.jpeg",
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 15,
+      "question": "While examining a pregnant woman, you measure her fundal height to be 32 cm and thestation of the fetal head is at -2. What could be the probable weight of the fetus?",
+      "options": {
+        "A": "2.3Kg",
+        "B": "3.5Kg",
+        "C": "3.1Kg",
+        "D": "4.0Kg"
+      },
+      "correct_answer": "C",
+      "explanation": "The fetal weight in the above case is 3.1Kg.In the above case, fetal weight can be estimated using Johnson's formula. Height of uterus is32cm, the station is -2 implying the head is above the ischial spines. Therefore, it is calculated asfollows: [32-12] x 155 = 3100 grams = 3.1KgEstimation of fetal weight:⚫ Johnson's formula: This is only applicable in vertex presentation.•• If station of head is below the level of the ischial spine: [Height of uterus above pubic symphysis(in cm)-11] x 155 in grams• If station of head is above the level of the ischial spine: [Height of uterus above pubic symphysis(in cm)-12] x 155 in grams• Sonography: Fetal weight has been estimated by combining a number of biometric data, e.g.biparietal diameter (BPD), head circumference (HC), abdominal circumference (AC) and femurlength (FL), using the following formulae:.Shepard's formula• Hadlock's formula.141IliaccrestStation of the head is in relation toischial spinesFloatingIschial spine--3-2-10Engaged+1Ischial tuberosity+2+3+4+5cmCrowningPerineumOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp15_img1_9b7ef809.jpeg",
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 16,
+      "question": "All of the following are components of Manning score except",
+      "options": {
+        "A": "Non-stress test (NST)",
+        "B": "Oxytocin challenge test",
+        "C": "Fetal body movement",
+        "D": "Respiratory activity of fetus"
+      },
+      "correct_answer": "B",
+      "explanation": "The oxytocin challenge test is not a component of Manning score. Earlier, oxytocin challenge test/contraction stress test was done after a non-reactive NST to confirm the diagnosis of hypoxia. However, it is associated with the risk of initiating labor and is hence not done. Biophysical profile (BPP)/Manning score components: (Mnemonic: BATMAN) • Breathing movements of the fetus • Amniotic fluid volume • Tone of fetus • Movements of fetus • Non-stress Test (NST). Normal score: 8-10; Abnormal: <5. Modified Biophysical score: • VAST (Vibroacoustic stimulation test)/NST • Amniotic fluid index. A score <4 indicates the need for urgent delivery.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 17,
+      "question": "A 28-year-old G2P1 woman presents to the antenatal clinic at 24 weeks for a routinecheck-up. USG shows a normal for gestational age fetus in frank breech position, with noother abnormalities. What is the next best step in ■management?",
+      "options": {
+        "A": "75gm oral glucose tolerance test",
+        "B": "Non-stress test",
+        "C": "External cephalic version",
+        "D": "Immediate lower segment Caesarean section"
+      },
+      "correct_answer": "B",
+      "explanation": "75gm oral glucose tolerance test (OGTT) is the most appropriate next step of management. Thescreening strategy for detecting gestational diabetes mellitus (GDM) recommends performingblood glucose testing at 24-28 weeks in case of average risk.142Breech presentation at 24 weeks is not a cause for concern because it can spontaneously rotateand becomes cephalic at term. Hence, external cephalic version (ECV) and immediate caesareansection are not indicated at this time.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following vaccines is absolutely contraindicated in pregnancy?",
+      "options": {
+        "A": "Hepatitis B131",
+        "B": "Cholera",
+        "C": "Rabies",
+        "D": "MMR"
+      },
+      "correct_answer": "D",
+      "explanation": "MMR is absolutely contraindicated in pregnancy.Killed vaccines are safe in pregnancy while live vaccines (MMR, BCG, varicella) arecontraindicated in pregnancy.Even though yellow fever vaccine is a live vaccine, it is recommended in endemic areas or duringoutbreaks. Pregnant women and nursing mothers should be counselled on the potential benefitsand risks of vaccination.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 19,
+      "question": "A newly married couple planning for pregnancy has come to your clinic for preconceptioncounselling. Which of the following drugs will you prescribe to the patient to decrease thechances of having neural tube defects in the baby?",
+      "options": {
+        "A": "Vitamin B9",
+        "B": "Vitamin B12",
+        "C": "Vitamin C",
+        "D": "Vitamin B6"
+      },
+      "correct_answer": "A",
+      "explanation": "Preconceptional intake of vitamin B9 (folic acid) results in decreased incidence of neural tubedefects like spina bifida, encephalocele, and anencephaly.All women of reproductive age should be given 400 μg of folic acid daily. Women, who had fetalneural tube defects in the previous pregnancy, should be given 4 mg of folic acid daily beginning 1month before conception to about 12 weeks of pregnancy.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 20,
+      "question": "Which of the following conditions would not cause raised beta-hCG levels in pregnancy?",
+      "options": {
+        "A": "Down's syndrome",
+        "B": "Multifetal pregnancy",
+        "C": "Spontaneous abortion",
+        "D": "Rh-incompatibility"
+      },
+      "correct_answer": "",
+      "explanation": "Beta-hCG levels are reduced in the case of spontaneous abortion.Human chorionic gonadotropin (hCG) is detectable in the plasma of pregnant women as early as7-8 days after conception by radioimmunoassay. It doubles every 2 days and reaches a maximumlevel at 9 weeks. Thereafter, it declines to reach the lower level at 20 weeks and disappears fromcirculation 2 weeks postpartum.Increased levels of beta-hCG are found in:• Multiple pregnancies• Rh isoimmunization• Down's syndrome• Choriocarcinoma•Hydatidiform moleDecreased levels of beta-hCG are found in:• Ectopic pregnancies• Impending spontaneous abortion143• Missed abortion• Edward syndrome.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    },
+    {
+      "q_no": 21,
+      "question": "Which of the following is not considered as a factor for a high-risk pregnancy?",
+      "options": {
+        "A": "Obesity",
+        "B": "Polyhydramnios",
+        "C": "Anaemia",
+        "D": "Previous manual removal of placenta"
+      },
+      "correct_answer": "D",
+      "explanation": "Previous manual removal of the placenta does not indicate a high-risk pregnancy.The high-risk pregnancies according to the Pregnancy Risk Assessment Monitoring System by theCDC are:Intrauterine growth restrictioCurrent pregnancy complicationsPreterm labor (<37 Wks) andPost-term (>42 wk)Preterm premature rupture of membranesObstetric historynStillbirthModerate to severe preeclampsiaPolyhydramnios (hydramnios)or oligohydramniosUterine ruptureAntepartum hemorrhage (Placenta previa, and Abruptio placenta)Fetal tachycardia or bradycardia for >30 minFetal weight < 2.5 kg or >4kgChorioamnionitisProlapsed cordFetal acidosis pH ≤7Late abortion (16-20 wk)Fetal exchange transfusion (Rh incompatibility)Multifetal pregnancyPrevious brachial plexus injuryAbnormal fetal positionPrevious h/o myomectomy, repair of complete perineal tear, vesicovaginal fistula, andstress incontinenceOther disordersCardiovascularfactorslike chronic hypertension, severe heart failure, andrenaldisordersMetabolicdisorderslike Obesity, Insulin-dependent diabetes, Previous endocrine ablation, Thyroid disordersHematologicalproblems like sickle cell disease, severe anemiaThrombophiliaInfections (malaria, HIV) andAutoimmunedisordersEpilepsyAnatomicabnormalitieslike uterine malformationand cervical incompetenceExposure toteratogenslike alcohol, drugs, smokingFamilyhistory of diabetes, hypertension ormultiple pregnancy and congenital malformationLowsocioeconomic statusAbnormal cervical cytologic findings144",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Diagnosis of Pregnancy and Antenatal Care"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "chapter": "Antenatal Investigations",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "Which of the following statements is false about non-invasive prenatal testing?",
+      "options": {
+        "A": "It uses cell-free circulating fetal DNA in the maternal serum",
+        "B": "It is used for the diagnosis of trisomy 13, 18, and 21",
+        "C": "It can be performed after 10 weeks of gestation",
+        "D": "It is done after the routine first-trimester ultrasound assessment"
+      },
+      "correct_answer": "D",
+      "explanation": "Non-invasive prenatal testing can be performed after 10 weeks of gestation and is not necessarily done after the routine first-trimester ultrasound assessment.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 2,
+      "question": "A pregnant woman has a fetus with Down's syndrome. The triple test done at 15-16 weeks will have",
+      "options": {
+        "A": "Low MSAFP, high hCG, low UE3",
+        "B": "High MSAFP, low hCG, high UE3",
+        "C": "Low MSAFP, high hCG, high UE3",
+        "D": "High MSAFP, low hCG, low UE3"
+      },
+      "correct_answer": "A",
+      "explanation": "The triple test findings in pregnancies with fetal Down's syndrome are characterized by: low MSAFP (maternal serum alpha-fetoprotein) levels, approximately 0.7 MoM (multiples of median), low unconjugated estriol levels, approximately 0.8 MoM, and high hCG levels, approximately 2.0 MoM. The triple test is done between 15-18 weeks for the diagnosis of Down's syndrome. Various antenatal screening tests for aneuploidy are as follows: First-trimester screening with biochemical analytes (low PAPP-A and high hCG) and USG measurement of NT can improve the detection rate (87%) of Down's syndrome. For confirmation, a prenatal genetic study (CVS, amniocentesis, or cordocentesis) has to be performed. Second-trimester screening (quad screening) at 15–18 weeks: low MSAFP, low uE3, high inhibin A, and high hCG can detect trisomy 21 in 85% of cases with a false-positive rate of 0.9%. When it is combined with first-trimester screening, the detection rate is increased to 95%. The dual test (first trimester) includes beta HCG and PAPP-A. This can be combined with the triple test (second trimester), which includes beta HCG, or the quadruple test (second trimester), which includes beta HCG, unconjugated estriol, MSAFP, and inhibin A, along with nuchal translucency by USG.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 3,
+      "question": "Which of the following is not included in the quadruple screening test?",
+      "options": {
+        "A": "Inhibin B",
+        "B": "Unconjugated Estriol (E3)",
+        "C": "AFP",
+        "D": "hCG"
+      },
+      "correct_answer": "A",
+      "explanation": "Inhibin B is not a component assayed under the quad-screening test. Dimeric inhibin-A is evaluated in this screening test. Quadruple testing is done in the second trimester between 15-21 weeks of gestation. It comprises: Maternal serum AFP, Human chorionic gonadotropin, Unconjugated estriol (E3), and Dimeric inhibin A. The following table summarizes the findings of the quad-screening test in various conditions. Various antenatal screening tests for aneuploidy are as follows: Parameter - Trisomy 21, Trisomy 18, Neural tube defect or abdominal wall defect: MSAFP - Low, Low, High, β hCG - High, Low, Normal, Unconjugated estriol - Low, Low, Normal, Inhibin A - High, Normal/Normal, Low. Dual test (1st trimester) includes 1. Beta HCG, 2. PAPPA (Pregnancy-associated plasma protein A). This can be combined with nuchal translucency by USG. Triple test (2nd trimester) includes 1. Beta HCG, 2. Unconjugated estriol, 3. MSAFP. Quadruple test (2nd trimester) includes 1. Beta HCG, 2. Unconjugated estriol, 3. MSAFP, 4. Serum inhibin.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 4,
+      "question": "Quadruple testing is done during:",
+      "options": {
+        "A": "9-11 weeks",
+        "B": "12-14 weeks",
+        "C": "15-20 weeks",
+        "D": "22-28 weeks"
+      },
+      "correct_answer": "C",
+      "explanation": "The quadruple screening test is ideally done in the second trimester, during 15-20 weeks of gestation. The most accurate values are seen during 16-18 weeks of gestation. It is the measurement of maternal serum alpha-fetoprotein (MSAFP), unconjugated estriol, hCG, and inhibin-A. In Down's syndrome (trisomy 21) or Edward's syndrome (trisomy 18), quadruple-marker screenings do not provide any added benefit over first-trimester screenings. It is generally used as a stand-alone test if screening is done for the first time in the second trimester or if first-trimester screening is not available. Trisomy 21, Trisomy 18, Neural tube defect or abdominal wall defect, Trisomy 13/Patau syndrome: MSAFPLow, Low, High, Normal. β hCG: High, Low, Normal, Normal. Unconjugated estriol: Low, Low, Normal, Normal. Inhibin A: High, Normal/Normal, Low, High",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 5,
+      "question": "Results of the quadruple screening test are tabulated below for three congenital anomalies. Choose the correctly matched set.",
+      "options": {
+        "A": "1- Trisomy 21; 2- Trisomy 18; 3- Neural tube defect",
+        "B": "1- Trisomy 18; 2- Trisomy 21; 3- Neural tube defect",
+        "C": "1- Trisomy 21; 2- Neural tube defect; 3- Trisomy 18",
+        "D": "1- Trisomy 18; 2- Trisomy 13; 3- Neural tube defect"
+      },
+      "correct_answer": "A",
+      "explanation": "Quadruple testing is done in the second trimester between 15-21 weeks of gestation and involves the following parameters: • Maternal serum alpha fetal protein (MSAFP) • β hCG • Unconjugated estriol • Inhibin A Parameter Trisomy 21/Downs syndrome Trisomy 18/Edward syndrome Neural tube defect or abdominal wall defect MSAFP Low Low High 15-2 Parameter β hCG Unconjugated estriol Inhibin A Trisomy 21/Downs syndrome Trisomy 18/Edward syndrome Neural tube defect or abdominal wall defect High Low Low Low High Normal Normal Normal/Low Normal",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 6,
+      "question": "In which of the following conditions is an increased level of alpha-fetoprotein seen?",
+      "options": {
+        "A": "Gestational trophoblastic diseases",
+        "B": "Molar pregnancy",
+        "C": "Underestimated gestational age",
+        "D": "Spontaneous abortion"
+      },
+      "correct_answer": "C",
+      "explanation": "In underestimated gestational age, there is an increased level of maternal serum alpha-fetoprotein (MSAFP). Elevated levels of MSAFP are seen in: • Underestimated gestational age • Severe oligohydramnios • Multifetal pregnancy • Neural tube defects • Abdominal wall defects - Omphalocele, Gastroschisis • Hepatoma • Endodermal sinus tumor. Reduced levels of MSAFP are seen in: • Overestimated gestational age • Overweight mother • Gestational trophoblastic diseases • Spontaneous abortion, Trisomy 18 and 21.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 7,
+      "question": "Increased maternal serum alpha-fetoprotein is detected in a primigravida. What is the next step in management?",
+      "options": {
+        "A": "Repeat measurement of MSAFP at a later date",
+        "B": "Targeted sonography and amniocentesis",
+        "C": "MSAFP is unrelated to the period of gestation",
+        "D": "Lowest fetal AFP is seen around 13 weeks of gestation"
+      },
+      "correct_answer": "B",
+      "explanation": "The next best step is targeted sonography. Maternal serum alpha-fetoprotein (MSAFP) levels are only used as a screening test and must be followed by a diagnostic test. Amniocentesis is a diagnostic test for amniotic fluid AFP measurement. It was once considered the standard for the diagnosis of open neural tube disorders but has been replaced in most centers by targeted sonography. Defects in fetal integuments, such as ventral wall and neural tube defects, permit fetal AFP to leak into the amniotic fluid. This results in increased MSAFP levels. This is detected on screening performed from 15 to 20 weeks of gestation. Conditions with elevated MSAFP include wrong gestational age, neural tube defects, multiple pregnancies, and renal anomalies. Conditions with decreased MSAFP include trisomies (Down's syndrome) and gestational trophoblastic disease.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 9,
+      "question": "During genetic counseling, a pregnant woman states that both she and her husband havesickle cell trait. You offer the option of chorionic villus sampling for prenatal diagnosis. Whatis the best time to perform this procedure?",
+      "options": {
+        "A": "6-8 weeks",
+        "B": "7-9 weeks",
+        "C": "9-10 weeks",
+        "D": "11-13 weeks"
+      },
+      "correct_answer": "D",
+      "explanation": "The best time to perform chorionic villous sampling is 11-13 weeks.Chorionic villus sampling:Study materialTimeIndicationsChorionic villi from trophoblastic cells10 to 13 weeks (transcervically)10 weeks to term (transabdominally)To detect chromosomal abnormalities such as Down syndrome. To detect inborn errorsof metabolism like phenylketonuria. For DNA analysis in hemoglobinopathies, thalassemia, and sickle cell anemia.154Chorionic villus sampling:ComplicationsDrawbackAbortion (CVS> Amniocentesis) Limb reduction defects and oro-mandibular defects (when done before 10 weeks)Not suitable for the detectionof neural tube defects.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 10,
+      "question": "Which of the following is not true about amniocentesis?",
+      "options": {
+        "A": "Traditionally done between 16-20 weeks",
+        "B": "Limb reduction defect is a known complication",
+        "C": "Down's syndrome can be diagnosed",
+        "D": "Approximately 20 to 30 mL is collected for fetal karyotyping"
+      },
+      "correct_answer": "B",
+      "explanation": "Limb reduction defect is a complication of chorionic villous sampling.AmniocentesisStudy materialTimeEarly amniocentesisDiagnostic indicationsTherapeutic indicationSProcedureComplicationAmniotic fluid with amniocytes16-20 weeks11-14 weeks (associated with increased fetal loss, foot deformities)Sex-linked disorders, karyotyping, inborn errors of metabolism, neural tube defectsAbortion induction, decompression of uterus in acute hydramnios, amnioinfusion in oligohydramniosUnder direct sonographic guidance, a20-22 gauge spinal needleis directed into a clear pocket of amniotic fluid whileavoiding the fetus and umbilical cord.Approximately 20 to30 mL of fluid is collected.Chorioamnionitis, prematureRupture Of Membranes (PROM), fetal trauma/loss, fetomaternal hemorrhage.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 11,
+      "question": "A 28-year-old woman presents with 6 weeks of amenorrhea and a positive urine pregnancytest. She states her brother had cystic fibrosis and asks if her child might have the same.Which of the following methods would not be useful for prenatal diagnosis of this condition?",
+      "options": {
+        "A": "Amniocentesis",
+        "B": "Cordocentesis",
+        "C": "Chorionic villous sampling",
+        "D": "Fetal skin biopsy"
+      },
+      "correct_answer": "D",
+      "explanation": "Fetal skin biopsy is not a recommended method of prenatal diagnosis of cystic fibrosis. It is doneto detect inherited skin conditions such as:•⚫ Ichthyosis155•Epidermolysis bullosa• Oculocutaneous albinismInvasive procedures for prenatal diagnosis of CFTR gene mutations in cystic fibrosis include:• Chorionic villus sampling (CVS)•• Amniocentesis• Cordocentesis or percutaneous umbilical blood sampling (PUBS)",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q11_img1_f4016254.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 12,
+      "question": "147A G2P1 woman at 35 weeks of pregnancy presents with complaints of decreased fetalmovement. What is the next step in management?",
+      "options": {
+        "A": "Observation",
+        "B": "Non-stress test",
+        "C": "Biophysical profile",
+        "D": "Induce labour"
+      },
+      "correct_answer": "B",
+      "explanation": "In case of reduced fetal movements, the first step of management is to do a non-stress test (NST).Interpretation of NST:• Reactive• ≥2 accelerations of &gt;15 beats/minute above the baseline and longer than 15 seconds induration are present in a 20-minute observation• Reassure the patient and send back home•-Non-reactive biophysical profile (BPP) has to be assessed.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 13,
+      "question": "The CTG shown in the image below may be seen in which of the following conditions?",
+      "options": {
+        "A": "Head compression",
+        "B": "Cord compression",
+        "C": "Fetal hypoxia",
+        "D": "Normal"
+      },
+      "correct_answer": "A",
+      "explanation": "The given CTG shows early deceleration, which is seen in cases of head compression.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q13_img1_bf4846dc.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 14,
+      "question": "A 35-year-old G2P1 at 38 weeks of gestation came to the labor room with complaints ofdecreased fetal movements. Non-stress test was done and late decelerations were noted. Whatdoes this indicate?",
+      "options": {
+        "A": "Head compression",
+        "B": "Cord compression148",
+        "C": "Fetal hypoxia",
+        "D": "Breech presentation"
+      },
+      "correct_answer": "C",
+      "explanation": "The given scenario is suggestive of fetal hypoxia. Late decelerations are seen on an NST in thiscondition.Deceleration is a decrease in fetal heart rate below the baseline by 15 bpm for more than 15seconds. Absent variability of FHR with late decelerations is an indication for immediate Cesareansection.156Uterine contractions(mm Hg)FHR/min10Graphic representation showing varioustypes of decelerations in relation touterine contractions160140120-100EarlydecelerationDips||LatedecelerationIIIVariableshapeDips||BaselineLagtimeOMARROW",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp14_img1_d153be5f.jpeg",
+      "chapter_heading": "Antenatal Investigations"
+    },
+    {
+      "q_no": 15,
+      "question": "A pregnant woman brings her son to the hospital for routine immunization. While awaitinghis turn, she realizes that her seat is stained with blood. She is rushed to the nearby antenatalclinic. Pulse 96/min, BP - 110/80 mmHg. Vaginal bleeding is noted and her NST is shownbelow. What is the likely diagnosis?-",
+      "options": {
+        "A": "Placenta previa",
+        "B": "Vasa previa",
+        "C": "Battledore placenta",
+        "D": "Abruptio placentae240240210210180180150150120120w9090606000OMARROW"
+      },
+      "correct_answer": "B",
+      "explanation": "The given clinical scenario along with the NST showing a sinusoidal pattern point towards adiagnosis of vasa previa.Vasa previa is a condition where fetal vessels travel within the membranes and overlie the cervicalos. Hence, there can be bleeding during cervical dilatation or membrane rupture.Fetal mortality is high due to fetal exsanguination. When bleeding is present in vasa previa,an emergency cesarean section is indicated.Causes of sinusoidal pattern on NST include:• Severe fetal anemia - Rh isoimmunisation, vasa previa, fetomaternal hemorrhage, or twin totwin transfusion•Opioids - meperidine, morphine, alphaprodine, butorphanol• Amnionitis• Fetal distress• Umbilical cord occlusion.157Sinusoidal pattern showing absence ofbaseline variability240-240-2102101801801501501201209090606000OMARROW158",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q15_img1_b6fa7fcb.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Antenatal Investigations"
+    }
+  ]
+}

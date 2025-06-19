@@ -1,0 +1,260 @@
+{
+  "chapter": "Obstetrical Imaging",
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "A 26-year-old woman presents with 2 months of amenorrhea and a positive urine pregnancy test (UPT). On ultrasound examination, all of the following are assessed except",
+      "options": {
+        "A": "Fetal number",
+        "B": "Fetal cardiac activity",
+        "C": "Amniotic fluid volume",
+        "D": "Crown-rump length"
+      },
+      "correct_answer": "C",
+      "explanation": "Amniotic fluid volume is typically assessed later in pregnancy, not during the initial ultrasound examination for a 2-month amenorrhea.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 2,
+      "question": "A primigravida presents to the antenatal clinic for the first time at 18 weeks of amenorrhea. She does not remember her LMP and no ultrasound scans were done in the first trimester. In this situation, gestational age can be most accurately estimated by which of the following parameters?",
+      "options": {
+        "A": "Crown-rump length",
+        "B": "Biparietal diameter",
+        "C": "Femur length",
+        "D": "Abdominal circumference"
+      },
+      "correct_answer": "B",
+      "explanation": "In the second trimester, the parameter to assess gestational age most accurately is the biparietal diameter (BPD). Accuracy varies from 7 to 10 days. BPD is measured in the transthalamic view, at the level of the thalamus and cavum septum pellucidum (CSP). It is measured from the outer edge of the skull in the near field to the inner edge of the skull in the far field. Trimester Parameters: First - Crown-rump length (CRL), Second - Biparietal diameter (BPD), Third - Femur length (FL)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 3,
+      "question": "A 25-year-old woman presented with complaints of 7 weeks of amenorrhea and a positive UPT. Her ultrasound scan is shown below. What does the red arrowhead represent?",
+      "options": {
+        "A": "Yolk sac",
+        "B": "Decidua parietalis",
+        "C": "Decidua capsularis",
+        "D": "Chorion"
+      },
+      "correct_answer": "C",
+      "explanation": "The red arrowhead represents the decidua capsularis. The yellow arrowhead shows the double ring - outer decidua parietalis and inner decidua capsularis. It is referred to as the double decidua sign and is seen in the first trimester transvaginal sonogram. It is useful to confirm an early intrauterine location for the pregnancy.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q3_img1_26b87024.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp3_img1_0aa7580c.jpeg",
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 4,
+      "question": "Head circumference is measured from which of the following ultrasonographic views?",
+      "options": {
+        "A": "Transthalamic view",
+        "B": "Bitemporal view",
+        "C": "Transcranial view",
+        "D": "Bimastoid view"
+      },
+      "correct_answer": "A",
+      "explanation": "Head circumference (HC) is measured from the transthalamic view by placing an ellipse around the outer edge of the skull. HC can also be calculated from the biparietal diameter (BPD) and occipital-frontal diameter (OFD).",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp4_img1_56bacde7.jpeg",
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 5,
+      "question": "What is the normal range of femur length to abdominal circumference ratio?",
+      "options": {
+        "A": "44 - 50",
+        "B": "20 - 24",
+        "C": "50 - 40",
+        "D": "30 - 40"
+      },
+      "correct_answer": "B",
+      "explanation": "The normal range for the femoral length (FL) to abdominal circumference (AC) ratio is 20-24 percent. Low FL/AC (< 16) ratio suggests a lethal skeletal dysplasia, particularly if other skeletal abnormalities are present.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 6,
+      "question": "A woman presents at 33 weeks of gestation and the umbilical artery Doppler imaging shows the following finding. What is the next step of management? 0.07-0.29/0.05",
+      "options": {
+        "A": "Continue pregnancy till term",
+        "B": "Immediate termination of pregnancy",
+        "C": "Terminate the pregnancy at 34 weeks of gestation",
+        "D": "Continue steroids until term"
+      },
+      "correct_answer": "B",
+      "explanation": "The umbilical artery Doppler depicts reversal of end-diastolic flow or REDF (waves appearing below the baseline) which is seen in intrauterine growth restriction. As the period of gestation has exceeded 32 weeks, the pregnancy can be terminated. In case of absent end-diastolic flow (AEDF), the waves just touch the baseline, but don't appear below it. This suggests a fetal compromise, hence the pregnancy is terminated by C-section if >34 weeks. Reversed end-diastolic flow (REDF) suggests impending fetal death, hence the pregnancy is terminated by C-section if >32 weeks. Patterns of end-diastolic flow in the umbilical artery: Normal diastolic flow, Absence of end-diastolic flow, Reversal of end-diastolic flow.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q6_img1_0dbcf9fa.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp6_img1_5ee161ee.jpeg",
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 7,
+      "question": "Which of the following statements is true regarding the first-trimester ultrasound?",
+      "options": {
+        "A": "A gestational sac can first be seen 4 weeks after LMP",
+        "B": "Accuracy of USG dating decreases after the 1st trimester",
+        "C": "Yolk sac is the first sign of pregnancy on USG",
+        "D": "A normal gestational sac implants in the midline of the endometrial cavity"
+      },
+      "correct_answer": "B",
+      "explanation": "The accuracy of determining gestational age using ultrasound is the highest in the first trimester and decreases afterwards. Option A: Gestational sac is reliably seen at 5 weeks of gestation on transvaginal sonography (TVS). Option C: The first sign of pregnancy seen on sonography is the gestational sac. Visualization of the yolk sac within the gestational sac confirms an intrauterine location for pregnancy. Option D: A normal gestational sac implants eccentrically in the endometrium, whereas a pseudosac is seen in the midline of the endometrial cavity.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 8,
+      "question": "What is the ideal time for nuchal translucency evaluation?",
+      "options": {
+        "A": "6-8 weeks",
+        "B": "11-14 weeks",
+        "C": "14-16 weeks",
+        "D": "16-20 weeks"
+      },
+      "correct_answer": "B",
+      "explanation": "Nuchal translucency evaluation, a component of first-trimester aneuploidy screening, is done between 11-14 weeks. It represents the maximum thickness of the subcutaneous translucent area between the skin and soft tissue, overlying the fetal spine, at the back of the neck. When the nuchal translucency is increased, the risk of fetal aneuploidy and structural anomalies such as heart defects is significantly elevated. First-trimester aneuploidy screening combines two maternal serum analytes and a sonographic measurement: Human chorionic gonadotropin (hCG) and Pregnancy-associated plasma protein A (PAPP-A) and Nuchal translucency (NT). It is performed between 11 and 14 weeks of gestation. In cases of fetal Down syndrome, the first-trimester serum-free β-hCG level is higher and the PAPP-A level is lower. With trisomy 18 and trisomy 13, levels of both analytes are lower. Note: Nuchal fold is a normal fold of skin seen at the back of the fetal neck during the second trimester of pregnancy. Increased nuchal fold thickness is associated with fetal aneuploidy.",
+      "image": null,
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp8_img1_1df977a9.jpeg",
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 9,
+      "question": "Which of the following are sonographic markers for Down's syndrome?",
+      "options": {
+        "A": "1 and 2",
+        "B": "1, 4 and 5",
+        "C": "1, 2, 3 and 4",
+        "D": "1 and 3"
+      },
+      "correct_answer": "B",
+      "explanation": "Ultrasound markers for Down's syndrome: \n   • First trimester \n   • Nuchal translucency > 3 mm \n   • Second trimester \n   • Echogenic intracardiac focus \n   • Ventriculomegaly \n   • Nuchal thickness > 6 mm \n   • Echogenic bowel \n   • Hypoplastic/absent nasal bone \n   • Shortened humerus, femur \n   • Mild pyelectasis \n   • Aberrant subclavian artery.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q9_img1_03f4b245.jpeg",
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 10,
+      "question": "The anomaly scan of a G3A2 woman is given below. Identify the sign.",
+      "options": {
+        "A": "Banana sign",
+        "B": "Lemon sign",
+        "C": "Mickey Mouse sign",
+        "D": "Hummingbird sign"
+      },
+      "correct_answer": "A",
+      "explanation": "The given image shows the banana sign. An abnormal anterior curvature of the cerebellum along with effacement of cisterna magna produces this appearance. It is seen in spina bifida associated with Arnold-Chiari malformation. RAB4-8-D/OB13.6cm/3.4/12HzMI 1.1Tis 0.1Dr. Moroder ecofetale.com08.09.201112:37:10RoutineHar-highGnCG / MTPS/ESRILemon sign: Axial USG image of the fetal head at the level of the biparietal diameter shows inward concavity of both frontal bones instead of the normally seen convexity. This gives the head the appearance of a lemon. It has a strong association with spina bifida and is very useful for detecting this condition.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q10_img1_2aedef43.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp10_img1_ae839bfb.png",
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 11,
+      "question": "A doctor tells a 31-year-old woman, who is 20 weeks pregnant, that her baby has a developmental defect. She has come to you for a second opinion. The following USG finding is seen. Identify the defect.",
+      "options": {
+        "A": "Anencephaly",
+        "B": "Omphalocele",
+        "C": "Cystic hygroma",
+        "D": "Encephalocele"
+      },
+      "correct_answer": "A",
+      "explanation": "The given ultrasound image shows an open defect in the calvaria and skin leading to the exposure of the cranial neural tube. This is consistent with the diagnosis of anencephaly. Anencephaly results from incomplete closure of the neural tube. It is one of the earliest detectable congenital defects that can be detected as early as 10 to 11 weeks of gestation. Screening can also be done by serum estimation of maternal serum alpha-fetoprotein (MSAFP). The following are the radiological signs seen in anencephaly. \n   Frog eye sign - Absence of cranial calvaria, prominent orbits thereby resembling the face of a frog. \n   Shower cap sign - The absence of the cranium could lead to the protrusion of a disorganized mass of brain tissue. This resembles a shower cap giving rise to a characteristic triangular facial appearance.\n   Neural-tube defects can be prevented with pre-conceptional supplementation of folic acid. A dose of 4 mg daily is recommended in subsequent pregnancies.\n   Option B: Omphalocele is a midline anterior abdominal wall defect through which the solid abdominal viscera and/or bowel may herniate. The extruded abdominal contents are covered in a sac. \n   Cystic hygroma is a congenital multiloculated lymphatic lesion that is classically found in the left posterior triangle of the neck. It occurs as a result of sequestration or obstruction of developing lymph vessels. This defect can be picked up in a first-trimester ultrasound.\n   Encephalocele is caused due to defects in the skull through which the meninges and/or neural tissue herniate. The squamous part of the occipital bone is the most frequently affected bone.",
+      "image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/q11_img1_c9ff9cd2.jpeg",
+      "explanation_image": "https://raw.githubusercontent.com/tk22kalal2/mcqimage/main/mobgy/exp11_img1_df2c07c0.jpeg",
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 12,
+      "question": "What is Robert's sign?",
+      "options": {
+        "A": "Gas shadow in bowel",
+        "B": "Gas shadow in portal vein",
+        "C": "Gas shadow in heart",
+        "D": "Gas shadow in cranium"
+      },
+      "correct_answer": "C",
+      "explanation": "Robert's sign is a gas shadow in the fetal heart. It is seen in fetal demise in utero and may appear as early as 12 hours. Other sonographic signs seen in fetal demise in utero are: • Absent fetal heartbeat • Absent fetal movements • Occasional findings • Overlapping of skull bones - Spalding's sign • Gross distortion of fetal anatomy (maceration) • Soft tissue edema - skin >5 mm • Echogenic amniotic fluid (fetal demise fragments) • Uncommon findings • Thrombus in fetal heart • Gas shadow in the fetal heart - Robert's sign.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 13,
+      "question": "What is the frequency of a transabdominal transducer?",
+      "options": {
+        "A": "20,000 hertz",
+        "B": "4-6 megahertz",
+        "C": "5-10 megahertz",
+        "D": "10-15 megahertz"
+      },
+      "correct_answer": "B",
+      "explanation": "The frequency of a transabdominal transducer is 4-6 megahertz (MHz) since a lower frequency penetrates better. On the other hand, a vaginal transducer has a frequency of 5-10 megahertz since a higher frequency yields a better image with minimal penetration.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 14,
+      "question": "When is fetal cardiac activity first detected on transabdominal USG?",
+      "options": {
+        "A": "5th week",
+        "B": "4th week",
+        "C": "6th week",
+        "D": "9th week"
+      },
+      "correct_answer": "C",
+      "explanation": "The cardiac activity of the fetus is first detected on transabdominal USG (TAS) at the 6th week of intrauterine life. Fetal structure TVS (weeks) TAS (weeks) Gestational sac 4.5-5.5 5.5 Yolk sac 5-6 6 Cardiac activity 6-6.5 6-7",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 15,
+      "question": "A pregnant woman has her first antenatal visit in the 8th month of gestation. On examination, the uterus corresponds to 30 weeks and the fetal heart rate is 136/min. What is the best parameter for the estimation of fetal age by USG in this patient?",
+      "options": {
+        "A": "Femur length",
+        "B": "Biparietal diameter",
+        "C": "Abdominal circumference",
+        "D": "Crown-rump length"
+      },
+      "correct_answer": "A",
+      "explanation": "Femur length is the best parameter for the estimation of fetal age by USG in the 3rd trimester. Best USG parameters for estimation of fetal age: First trimester: Crown-rump length (CRL), Second trimester: Biparietal diameter (BPD), Third trimester: Femur length (FL)",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 16,
+      "question": "Which of the following is false regarding sonography in pregnancy?",
+      "options": {
+        "A": "Must follow ALARA principle",
+        "B": "All machines must display thermal index",
+        "C": "Tissue heating is higher with shorter examination time",
+        "D": "Risks are greater during organogenesis than later in pregnancy"
+      },
+      "correct_answer": "C",
+      "explanation": "Tissue heating is higher with longer examination time. Sonography should be performed in compliance with the ALARA principle, which is As Low As Reasonably Achievable. The theoretical risks are greater during organogenesis (8-15 weeks) than later in pregnancy. All sonography machines must display two indices - the thermal index and the mechanical index.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    },
+    {
+      "q_no": 17,
+      "question": "A pregnant diabetic woman presents for a routine antenatal visit during the third trimester. During the evaluation, you perform obstetrical Doppler imaging. Which among the following would indicate fetal compromise?",
+      "options": {
+        "A": "Increased pulsatility index in umbilical artery",
+        "B": "Decreased systolic/diastolic ratio",
+        "C": "Increased cerebral artery flow",
+        "D": "Absent end diastolic flow"
+      },
+      "correct_answer": "D",
+      "explanation": "Absent end diastolic flow indicates fetal compromise in Doppler. Umbilical artery vessels: They are characterized by forward low-resistance flow. As gestation increases, there is a gradual fall in all the resistance indices, so the amount of forward diastolic flow increases. The S/D ratio decreases as the period of gestation increases. Abnormal flow patterns in umbilical artery: Reduced end-diastolic flow - uteroplacental insufficiency (systolic/diastolic ratio increases). Absent end-diastolic flow - fetal compromise (hence pregnancy is terminated by cesarean section if >34 weeks). Reverse end-diastolic flow - impending death (pregnancy is terminated irrespective of gestational age). Doppler of the middle cerebral artery helps in detecting fetal anemia. Increased fetal diastolic flow in the middle cerebral artery with absent diastolic flow in the aorta implies fetal acidemia. Patterns of end-diastolic flow in the umbilical artery: Normal diastolic flow, absence of end-diastolic flow, reversal of end-diastolic flow.",
+      "image": null,
+      "explanation_image": null,
+      "chapter_heading": "Obstetrical Imaging"
+    }
+  ]
+}
